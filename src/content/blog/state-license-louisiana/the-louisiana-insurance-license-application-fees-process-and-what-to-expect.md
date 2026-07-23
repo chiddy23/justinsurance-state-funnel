@@ -34,7 +34,7 @@ Check NIPR for any additional transaction fee that may apply at the time you sub
 
 Louisiana's $75 flat application fee compares favorably to per-line fee structures in nearby comparison states: Kentucky and Indiana each charge $40 per line of authority, meaning a two-line applicant pays $80 in either state versus a single $75 fee in Louisiana. The gap widens further for producers seeking three or more lines of authority, since Louisiana's fee does not scale with the number of lines included on the application.
 
-⚠️ Application processing time for Louisiana not confirmed from official LDI source — verify current processing timeframes at ldi.la.gov or by calling (800) 259-5300 before publishing.
+For current processing timeframes, check your Industry Access account at ldi.la.gov or call the LDI at (800) 259-5300 — the department does not publish a guaranteed turnaround, and the practical timeline depends on how quickly your exam scores and fingerprint results reach the LDI.
 
 ## What the LDI Reviews
 

@@ -1,6 +1,6 @@
 ---
 title: "NJ Auto Insurance Minimums Just Changed Again: What the 2026 35/70/25 Law Means"
-description: New Jersey completed a decade-long process of updating its auto insurance liability minimums on January 1, 2026 — raising the required bodily injury lim...
+description: New Jersey completed a four-year, two-phase increase of its auto insurance liability minimums on January 1, 2026 — raising the required bodily injury lim...
 keyword: nj auto insurance minimums just changed again what the 2026
 targetKeywords: nj auto insurance minimums just changed again what the 2026
 cluster: state-license-new-jersey
@@ -12,11 +12,11 @@ image: /blog/images/simple-steps-to-pass-nj-insurance-license-requirements.jpg
 imageAlt: "NJ Auto Insurance Minimums Just Changed Again: What the 2026 35/70/25 Law Means"
 ---
 
-New Jersey completed a decade-long process of updating its auto insurance liability minimums on January 1, 2026 — raising the required bodily injury limits for the first time since a 2023 phase-in began. The new standard, 35/70/25, makes New Jersey one of the few states to have enacted a phased liability increase in recent years, and it affects every standard auto policy issued or renewed in the state on or after January 1, 2026. For Property and Casualty producers selling personal or commercial auto in New Jersey, understanding the mechanics and the history of this change is both a compliance requirement and a client conversation that is happening right now.
+New Jersey completed a four-year, two-phase increase of its auto insurance liability minimums on January 1, 2026 — the second and final step of P.L.2022, c.87, which was signed on August 5, 2022 and first took effect on January 1, 2023. The new standard, 35/70/25, affects every standard auto policy issued or renewed in the state on or after January 1, 2026. For Property and Casualty producers selling personal or commercial auto in New Jersey, understanding the mechanics and the history of this change is both a compliance requirement and a client conversation that is happening right now.
 
-## The Three-Phase History of NJ Auto Minimums
+## The Two-Phase History of NJ Auto Minimums
 
-New Jersey's auto liability minimum history is a study in regulatory inertia followed by significant reform. The original minimum — $15,000 per person / $30,000 per accident for bodily injury — had been in place since 1973. Bill S482, signed into law as P.L.2022, c.87, created a two-phase increase tied to policy issuance and renewal dates:
+New Jersey's auto liability minimum history is a study in regulatory inertia followed by significant reform. The original minimum — $15,000 per person / $30,000 per accident for bodily injury — had been in place since 1973. Bill S481 (1R), signed into law as P.L.2022, c.87, created a two-phase increase tied to policy issuance and renewal dates:
 
 The property damage minimum increased significantly in Phase 1 (from $5,000 to $25,000) and held steady at $25,000 in Phase 2. The bodily injury limits are the primary change in 2026 — $35,000 per person and $70,000 per accident.
 
@@ -30,9 +30,9 @@ Existing policyholders with minimum-limit policies had their coverage automatica
 
 ## What This Means for UM/UIM Coverage
 
-Uninsured and Underinsured Motorist (UM/UIM) coverage in New Jersey is required to track liability minimums. Because the bodily injury liability minimum increased to 35/70, UM/UIM coverage minimums also increased to match — unless the policyholder affirmatively selected lower UM/UIM limits, which NJ law permits in certain circumstances.
+New Jersey sets the mandatory UM/UIM floor at the same figure as the bodily injury liability minimum. Because that minimum moved to 35/70 on January 1, 2026, the mandatory UM/UIM minimum moved with it under N.J.S.A. 17:28-1.1(a). A standard policy cannot be written below that floor — there is no election that takes a standard-policy insured under the statutory minimum.
 
-This linkage matters for producers: a client who has been carrying 25/50 UM/UIM coverage and renews after January 1, 2026 will see their UM/UIM minimums automatically adjusted to 35/70 unless they take action. Clients who hold umbrella policies also need to review whether their base auto limits still trigger the umbrella properly after the increase.
+What does not follow is that UM/UIM rises to whatever liability limits a client actually buys. New Jersey sets a floor (the statutory minimum) and a ceiling — N.J.S.A. 17:28-1.1(b) provides that UM/UIM limits may not exceed the policy's liability limits — and everything in between is an option the named insured must elect on the Coverage Selection Form. So a client who has been carrying 25/50 UM/UIM and renews after January 1, 2026 is brought up to the 35/70 floor automatically, but a client who raises liability to 100/300 does not thereby get 100/300 UM/UIM; that has to be elected. Clients who hold umbrella policies also need to review whether their base auto limits still trigger the umbrella properly after the increase.
 
 ## The Basic Policy: What Did Not Change
 
@@ -52,7 +52,7 @@ Commercial auto implications: Commercial auto policies issued or renewed on or a
 
 What are New Jersey's current auto insurance minimum liability requirements as of 2026?
 
-Effective January 1, 2026, New Jersey's minimum auto liability requirements for standard policies are $35,000 per person and $70,000 per accident for bodily injury, and $25,000 per accident for property damage — commonly written as 35/70/25. These minimums apply to all standard auto insurance policies issued or renewed on or after that date. The basic policy, available only to qualifying low-income drivers, is not subject to these minimums and is governed by separate statutory provisions. New Jersey is the only state that completed a planned phased liability minimum increase for 2026, making it important for producers working in the state to have the current figures memorized and ready for client conversations.
+Effective January 1, 2026, New Jersey's minimum auto liability requirements for standard policies are $35,000 per person and $70,000 per accident for bodily injury, and $25,000 per accident for property damage — commonly written as 35/70/25. These minimums apply to all standard auto insurance policies issued or renewed on or after that date. The basic policy, available only to qualifying low-income drivers, is not subject to these minimums and is governed by separate statutory provisions. P.L.2022, c.87 moved these numbers in two steps — 25/50/25 effective January 1, 2023, then 35/70/25 effective January 1, 2026 — so any figure a producer memorized before 2026 is now out of date. Have the current limits ready for client conversations.
 
 Did existing policyholders have to do anything to get the new minimum limits?
 
@@ -60,7 +60,7 @@ No. DOBI directed insurers to automatically increase the liability limits of exi
 
 Why did New Jersey's auto insurance minimums increase in two phases rather than all at once?
 
-The phased approach was built into P.L.2022, c.87 (Bill S482) to give insurers time to update rate filings, policy forms, and actuarial models without disrupting the market. A single large jump in minimum limits would have required all NJ auto insurers to refile rates simultaneously and could have produced significant premium shock for minimum-coverage policyholders. The two-phase structure — Phase 1 in 2023, Phase 2 in 2026 — allowed insurers to adjust incrementally and policyholders to absorb premium increases over three years rather than all at once. New Jersey's original minimums had not been updated since 1973, so the increase, while significant in percentage terms, was arguably overdue from a coverage adequacy standpoint.
+The phased approach was built into P.L.2022, c.87 (Bill S481) to give insurers time to update rate filings, policy forms, and actuarial models without disrupting the market. A single large jump in minimum limits would have required all NJ auto insurers to refile rates simultaneously and could have produced significant premium shock for minimum-coverage policyholders. The two-phase structure — Phase 1 in 2023, Phase 2 in 2026 — allowed insurers to adjust incrementally and policyholders to absorb premium increases over three years rather than all at once. New Jersey's original minimums had not been updated since 1973, so the increase, while significant in percentage terms, was arguably overdue from a coverage adequacy standpoint.
 
 How does New Jersey's 35/70/25 minimum compare to neighboring states?
 
@@ -72,4 +72,4 @@ Yes. The Phase 2 minimums apply to all standard auto insurance policies in New J
 
 The 2026 minimum change is the most significant update to NJ auto liability requirements since the 2023 phase-in — and it represents the completion of a multi-year reform that brought New Jersey's coverage floor substantially closer to the actual cost of a serious auto accident in one of the country's most densely populated states.
 
-Visit JustInsurance to enroll today and master NJ auto insurance law as part of your Property and Casualty [prelicensing](/new-jersey/prelicensing) preparation.
+Visit JustInsurance to enroll today and keep your NJ auto insurance knowledge current with DOBI-approved [continuing education](/new-jersey/continuing-education) built for licensed Property and Casualty producers.

@@ -20,7 +20,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 Keywords: [north carolina insurance license](/north-carolina) renewal
 
-Navigating the north carolina insurance license renewal and initial licensing process might feel intimidating at first. But with the right approach and a little organization, it becomes much simpler than you’d expect. This guide walks you through it step by step, from preparing for your first exam to making sure you stay compliant with ongoing requirements. You’ll discover how to fulfill official prerequisites, schedule the test, track costs, and plan for renewals so you’re never caught off guard. By the end, you’ll understand exactly what to expect and how to keep your license active for the long run.
+Navigating the north carolina insurance license renewal and initial licensing process might feel intimidating at first. But with the right approach and a little organization, it becomes much simpler than you’d expect. This guide walks you through it step by step, from preparing for your first exam to making sure you stay compliant with ongoing requirements. You’ll discover how to fulfill official prerequisites, schedule the test, track costs, and plan for your ongoing continuing-education (CE) compliance so you’re never caught off guard. By the end, you’ll understand exactly what to expect and how to keep your license active for the long run.
 
 ## Understand the basics
 
@@ -48,21 +48,21 @@ Once you’ve finished preparing — whether through a pre-licensing course or s
 
 On exam day, arrive early and don’t forget required identification, such as a driver’s license. The exam is usually computer-based, and you’ll receive your results right after you finish. If you pass, congratulations—you’re almost done. If you don’t succeed on your first try, you can retake it, though you may need to wait a bit and pay another fee.
 
-## Maintain and renew your license
+## Maintain your license (there’s no renewal to file)
 
-The learning doesn’t stop once you’re licensed. North Carolina, like most states, has a [North Carolina continuing education](/north-carolina/continuing-education) (CE) requirement that needs to be met every renewal cycle. You’ll want to keep track of the exact number of credit hours needed (this can vary depending on your license type), as well as any deadlines the state enforces.
+The learning doesn’t stop once you’re licensed — but North Carolina works differently from most states here. Resident insurance producer licenses are perpetual: NCDOI states they “do not renew and are valid until surrendered, canceled or revoked.” There is no renewal application to submit and no renewal fee for the major producer lines. What keeps your license active is [North Carolina continuing education](/north-carolina/continuing-education) (CE), completed every two-year compliance period.
 
-Renewing on time is critical. Failing to do so can lead to late fees or even a lapse in your ability to practice. The north carolina insurance license renewal process is straightforward if you stay organized. Here’s what you can do:
+Completing your CE on time is critical. Miss your compliance date and the license expires — not because you skipped a renewal filing, but because the CE wasn’t met. Staying organized keeps it simple. Here’s what you can do:
 
--   Mark your calendar: Set a reminder at least a few months ahead of your renewal deadline to begin completing your CE hours.
--   Complete your CE courses: Only take state-approved courses, and keep up with your documentation.
--   Submit your renewal application: Usually, this involves an online form and a renewal fee. Make sure everything is correct before you submit.
+-   Mark your calendar: Your CE compliance date is the last day of your birth month, biennially (even birth year = even-year compliance, odd birth year = odd-year compliance). Set a reminder a few months ahead to begin your CE hours.
+-   Complete your CE: 24 hours every two years, including 3 hours of ethics. Take only state-approved courses and keep your documentation.
+-   Confirm your hours are reported: There is no renewal application or renewal fee for producer licenses. Instead, make sure your provider reports your completed hours to Prometric (NCDOI’s CE administrator) before your compliance date — that reporting is the compliance event.
 
-It’s tempting to put off CE courses until the last second, but you’ll thank yourself if you spread them out and get your credits done early. That way, you can avoid any last-minute rush and keep your license active without a hitch.
+It’s tempting to put off CE courses until the last second, but you’ll thank yourself if you spread them out and get your credits done early. There is no renewal filing you can rush at the last minute to save yourself, so completing CE ahead of time is the whole game — and it keeps your license active without a hitch.
 
 ## Plan for costs and timelines
 
-Between pre-licensing courses, exam fees, and renewal fees, it’s essential to factor costs into your career planning. While the total outlay varies, you’ll need to budget for at least a few recurring expenses, particularly when renewal time comes around. By anticipating these costs, you can set aside what you need and avoid financial surprises.
+Between optional pre-licensing courses, exam fees, and ongoing CE course costs, it’s essential to factor costs into your career planning. North Carolina producer licenses are perpetual, so there is no renewal fee — but you will need to budget for CE courses each two-year compliance period. By anticipating these costs, you can set aside what you need and avoid financial surprises.
 
 Timelines also matter. Allow yourself enough time to locate and complete the right CE courses, especially during your busiest seasons. This not only prevents frantic deadlines but also helps you focus more on absorbing the material, which ultimately benefits your career.
 
@@ -79,7 +79,7 @@ Remember that each phase of getting and keeping your North Carolina insurance li
 -   Decide whether a pre-licensing course fits your study style, since it's optional but can build confidence for the state exam.
 -   Submit all documents and schedule your exam early, when you’re best prepared.
 -   Keep track of continuing education hours so your license never lapses.
--   Budget carefully to handle fees for both the exam and future renewals.
+-   Budget for exam fees and your ongoing CE course costs — remember there is no producer license renewal fee in North Carolina.
 -   Reach out to insurers or service providers like JustInsurance if you need additional support.
 
 By taking these steps, you’ll find the licensing process more straightforward and less stressful. If you’re ready to get started or need extra guidance, consider speaking with an adviser at JustInsurance to ensure you’re fully prepared for success. Once you have your license in hand, you can focus on growing your career and helping clients, knowing you’ve checked off every requirement along the way.

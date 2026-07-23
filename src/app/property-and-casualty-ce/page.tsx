@@ -17,6 +17,44 @@ import {
   generateFAQSchema,
   generateArticleSchemaWithReviewer,
 } from "@/lib/schema";
+import {
+  CE_APPROVED_COUNT,
+  CE_PENDING_LABEL,
+  CE_PENDING_STATE_NAMES,
+} from "@/lib/site-facts";
+
+// ---------------------------------------------------------------------------
+// COVERAGE vs. APPROVAL — two different facts this page used to blur.
+//
+// Counted directly from src/lib/states.ts (50 state records): exactly two carry
+// providerApprovalNumber === "PENDING" — New York AND Washington. So our active
+// state CE provider approval covers 48 states, not 49, and Washington was being
+// silently counted as approved. Separately, we publish L&H CE for every state
+// except New York, which is 49 states of *coverage*. The old copy quoted the
+// 49-state coverage figure inside a paragraph about state approvals and named
+// only New York as pending, which asserted an approval we do not hold in
+// Washington.
+//
+// Both figures are derived (via src/lib/site-facts.ts, which reads states.ts) so
+// the copy self-corrects the moment an approval issues. Note this does NOT touch
+// the P&C coverage grid: neither pending state has a P&C CE package, so every
+// state shown in that grid genuinely is state-approved.
+// ---------------------------------------------------------------------------
+const LH_CE_SERVED_COUNT = Object.values(STATES).filter(
+  (s) => s.slug !== "new-york",
+).length;
+
+/** ", with New York and Washington still pending" — empty once every approval issues. */
+const CE_PENDING_CLAUSE = CE_PENDING_STATE_NAMES.length
+  ? `, with ${CE_PENDING_LABEL} still pending`
+  : "";
+
+/** Names every state where our CE provider approval has not issued yet. */
+const CE_PENDING_SENTENCE = CE_PENDING_STATE_NAMES.length
+  ? ` Our state CE provider approval is also still pending in ${CE_PENDING_LABEL}, so we do not describe CE in ${
+      CE_PENDING_STATE_NAMES.length === 1 ? "that state" : "those states"
+    } as state-approved.`
+  : "";
 
 // Title/meta/H1 rewrite 2026-06-08 — SERP CTR fix.
 // Diagnosis (GSC May 10–June 6): pos 3.07 / 3,525 imp / 1 click / 0.03% CTR.
@@ -61,22 +99,22 @@ const faqs = [
   {
     question: "Who needs to complete P&C CE?",
     answer:
-      "Anyone holding an active resident or non-resident Property & Casualty producer license — including Personal Lines and Commercial Lines sub-licenses in states that issue them. If you sell auto, homeowners, business, or workers' comp insurance, your state's Department of Insurance requires you to complete P&C CE on a recurring schedule. Life & Health-only producers do not satisfy P&C CE with their L&H credits; the two are tracked separately.",
+      "Anyone holding an active resident or non-resident Property & Casualty producer license — including Personal Lines and Commercial Lines sub-licenses in states that issue them. If you sell auto, homeowners, business, or workers' comp insurance, your state's Department of Insurance requires you to complete CE on a recurring schedule. In states that track credits by line of authority, L&H credits will not satisfy a P&C requirement; other states pool CE across every license you hold. Check your state page for which rule applies.",
   },
   {
     question: "How often is P&C CE required?",
     answer:
-      "Most states run a 2-year renewal cycle for P&C licensees. A handful operate on different cycles — Iowa is 3 years, Arizona is 4 years, and Massachusetts has both 3-year and extended-cycle tiers. Your CE deadline is typically tied to your license expiration date, and credits must be reported before that date to avoid a lapse.",
+      "Most states run a 2-year renewal cycle for P&C licensees. A handful operate on different cycles — Iowa is 3 years, Arizona is 4 years, and Massachusetts runs a single 3-year (36-month) cycle with a higher first-term requirement: 60 hours before your initial renewal, then 45 hours including 3 hours of ethics every 3-year period after that (211 CMR 50.04). Your CE deadline is typically tied to your license expiration date, and credits must be reported before that date to avoid a lapse.",
   },
   {
     question: "Do P&C hour requirements differ by state?",
     answer:
-      "Yes — significantly. Most states require 24 hours per cycle (typically 21 P&C electives + 3 ethics). Virginia requires only 16 hours per 2-year cycle. Kansas requires 18 hours. Iowa requires 36 hours per 3-year cycle. Arizona requires 48 hours per 4-year cycle. Florida is 20 hours per 2-year cycle for established producers, while Massachusetts has both 45-hour and 60-hour tiers. Always check your specific state page for the exact breakdown that applies to your license type.",
+      "Yes — significantly. Most states require 24 hours per cycle (typically 21 P&C electives + 3 ethics). South Dakota requires 10 hours per license qualification and New York 15 credits per 2-year cycle. Virginia and Missouri require 16 hours. Kansas requires 18 hours. Iowa requires 36 hours per 3-year cycle. Arizona requires 48 hours per 4-year cycle. Florida is 24 hours per 2-year cycle for producers in their first 6 years of licensure and 20 hours after that (Fla. Stat. §626.2815), while Massachusetts requires 60 hours before your first renewal and 45 hours each 3-year period after. Always check your specific state page for the exact breakdown that applies to your license type.",
   },
   {
     question: "Does my P&C CE need to include flood (NFIP) training?",
     answer:
-      "Federal law requires every producer who sells flood insurance under the National Flood Insurance Program to complete a one-time 3-hour NFIP basic training plus ongoing training for renewals. This is separate from your standard P&C CE. Several state P&C packages — including our Florida Homeowners + Flood track — bundle NFIP-aligned content. Kansas, in particular, requires P&C and Personal Lines licensees who write flood coverage to complete the dedicated 3-hour NFIP course in addition to standard CE.",
+      "Federal law sets a one-time requirement, not a recurring one: Section 207 of the Flood Insurance Reform Act of 2004, implemented through the FEMA notice at 70 Fed. Reg. 52,117 (Sept. 1, 2005), calls for a one-time minimum of 3 hours of flood education for producers who sell NFIP policies. Any recurring flood training comes from an individual state, not from federal law — New York, for example, requires P&C licensees to include 1 hour of flood instruction in each 2-year cycle. Several state P&C packages — including our Florida Homeowners + Flood track — bundle NFIP-aligned content. Kansas requires its resident P&C and Personal Lines licensees who may sell flood policies to complete a one-time 3-hour flood course, and counts those 3 hours inside the 18-hour biennial requirement rather than on top of it.",
   },
   {
     question: "When are CE credits reported to my state's Department of Insurance?",
@@ -86,12 +124,12 @@ const faqs = [
   {
     question: "Can I combine my Life & Health and P&C CE in one package?",
     answer:
-      "No. State Departments of Insurance track L&H and P&C credits in separate buckets, and a credit from an L&H-approved course does not count toward your P&C requirement (and vice versa). If you hold both license types, you need to complete both CE packages — but they can be done in parallel. Our L&H CE catalog is available at the Continuing Education hub, and pricing matches our P&C packages.",
+      "It depends on your state. Several states pool the requirement across every license you hold — Texas caps a producer at 24 hours total no matter how many licenses they carry (Tex. Ins. Code §4004.053), and Washington lets you apply any approved insurance CE course regardless of the lines of authority on your license — so in those states one package can satisfy both. Other states track credits per license qualification and expect P&C-specific coursework. Confirm on your state's CE page before buying a second package. Our L&H CE catalog is available at the Continuing Education hub, and pricing matches our P&C packages.",
   },
   {
     question: "What happens if I miss my P&C CE deadline?",
     answer:
-      "Consequences vary by state, but the typical pattern is: your license becomes inactive on the expiration date, you cannot legally write new business, and you have a grace period (commonly 60 to 90 days) to complete your CE and pay a reinstatement fee. After the grace window, most states require you to re-apply as a new applicant — which can mean retaking the prelicensing course and the state exam. Always complete CE well before your deadline — same-day reporting typically means your completion reaches the state the day you finish, but most states still take a few business days to post the credit to your record.",
+      "Consequences vary widely by state. Your license generally becomes inactive on the expiration date and you cannot legally write new business. Grace periods are not uniform — many states have none at all, some allow 30 days, and several run a full year. In most states you then have a reinstatement window running to roughly 12 months from expiration in which you can complete your CE, pay a reinstatement fee, and reinstate without retesting; only after that window closes do you generally have to reapply as a new applicant, which can mean retaking the prelicensing course and the state exam. A few states are much shorter — Idaho is 90 days, North Carolina 4 months, South Carolina 180 days — and North Dakota cancels the license at expiration. Always complete CE well before your deadline — same-day reporting typically means your completion reaches the state the day you finish, but most states still take a few business days to post the credit to your record.",
   },
 ];
 
@@ -211,10 +249,19 @@ function buildSupportedStates(): SupportedStateRow[] {
     const totalHoursDisplay =
       minHours === maxHours ? `${minHours} hrs` : `${minHours}–${maxHours} hrs`;
 
-    // All packages within a state share a price under our pricing rule, so
-    // surface the first package's price. (Verified: every state in
-    // PC_CE_PACKAGES has a single price across all of its packages.)
-    const priceDisplay = packages[0].price;
+    // Most states price every package identically, but NOT all — Massachusetts
+    // sells a 45-hour tier at $106.50 and a 60-hour tier at $129. The old
+    // "single price per state" assumption quoted MA $22.50 under its real
+    // 60-hour price, so derive a range whenever the prices actually differ.
+    const priceNumbers = packages.map((p) =>
+      parseFloat(p.price.replace(/[^0-9.]/g, "")),
+    );
+    const lowIdx = priceNumbers.indexOf(Math.min(...priceNumbers));
+    const highIdx = priceNumbers.indexOf(Math.max(...priceNumbers));
+    const priceDisplay =
+      priceNumbers[lowIdx] === priceNumbers[highIdx]
+        ? packages[lowIdx].price
+        : `${packages[lowIdx].price}–${packages[highIdx].price}`;
 
     return {
       slug,
@@ -281,7 +328,7 @@ export default function PropertyAndCasualtyCEPage() {
           </div>
 
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Renew your P&amp;C license today with state-approved CE packages starting at $39. Every bundle covers your state&apos;s full credit-hour requirement (typically 24 hours including Law &amp; Ethics), is typically filed with your Department of Insurance the same business day you finish, and ships with an instant printable certificate. IDECC-certified instructor curriculum across {supportedCount} states.
+            Renew your P&amp;C license today with state-approved CE packages starting at $39. Bundles are sized to the most common requirement in each state — usually 24 hours including Law &amp; Ethics — with separate tiers where a state has them (Florida requires 24 hours in your first 6 years and 20 after; Massachusetts requires 60 hours before your first renewal and 45 after), so pick the tier that applies to your license. Every package is typically filed with your Department of Insurance the same business day you finish, and ships with an instant printable certificate. IDECC-certified instructor curriculum across {supportedCount} states.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a
@@ -312,13 +359,13 @@ export default function PropertyAndCasualtyCEPage() {
           </h2>
           <div className="space-y-5 text-gray-700 leading-relaxed text-base">
             <p>
-              Property &amp; Casualty continuing education is the state-mandated training that licensed P&amp;C insurance producers must complete to keep their license active. Every state&apos;s Department of Insurance sets a recurring CE requirement — most commonly 24 credit hours every two years, with 3 of those hours dedicated to ethics. State requirements range from Virginia&apos;s 16-hour cycle on the low end to Massachusetts&apos; 60-hour extended tier on the high end, with Arizona running a unique 48-hour, 4-year cycle.
+              Property &amp; Casualty continuing education is the state-mandated training that licensed P&amp;C insurance producers must complete to keep their license active. Every state&apos;s Department of Insurance sets a recurring CE requirement — most commonly 24 credit hours every two years, with 3 of those hours dedicated to ethics. State requirements run from South Dakota&apos;s 10 hours per license qualification and New York&apos;s 15 credits per 2-year cycle on the low end up to the 60 hours Massachusetts requires before a producer&apos;s first renewal on the high end, with Arizona running a unique 48-hour, 4-year cycle.
             </p>
             <p>
               States require P&amp;C CE because the regulatory environment around property and casualty coverage moves quickly. Catastrophe modeling, NFIP flood program changes, commercial auto rate restructuring, and workers&apos; compensation classification updates all flow into how a producer must counsel clients. CE keeps every active producer current on coverage forms, statutory carve-outs, and the ethical duties owed to insureds.
             </p>
             <p>
-              P&amp;C CE differs from Life &amp; Health CE in subject matter and is tracked in a separate bucket by every state DOI. L&amp;H credits cannot satisfy a P&amp;C requirement, and vice versa. P&amp;C coursework covers personal auto, homeowners, dwelling fire, inland marine, commercial property, commercial general liability (CGL), commercial auto, workers&apos; compensation, professional liability (E&amp;O), umbrella and excess coverage, and surety. State-specific modules layer on top — California Anti-Fraud, Florida 4-Hour Law &amp; Ethics Update, Montana Insurance Law, Texas 50% Classroom Equivalent — depending on where you hold a license.
+              P&amp;C CE differs from Life &amp; Health CE in subject matter, but how the two are tracked depends on the state. Many states pool the requirement across every line you hold — Texas caps a producer at 24 hours total no matter how many licenses they carry (Tex. Ins. Code §4004.053), and Washington lets you apply any approved insurance CE course regardless of the lines of authority on your license. Other states count credits per license qualification (South Dakota, for example), so check your state page before assuming you owe two separate requirements. P&amp;C coursework covers personal auto, homeowners, dwelling fire, inland marine, commercial property, commercial general liability (CGL), commercial auto, workers&apos; compensation, professional liability (E&amp;O), umbrella and excess coverage, and surety. State-specific modules layer on top — California Anti-Fraud, Florida 4-Hour Law &amp; Ethics Update, Montana Insurance Law, Texas 50% Classroom Equivalent — depending on where you hold a license.
             </p>
           </div>
         </div>
@@ -386,7 +433,7 @@ export default function PropertyAndCasualtyCEPage() {
             {[
               {
                 label: "IDECC-certified instructor",
-                desc: "Curriculum is led by a qualified instructor credentialed by the International Distance Education Certification Center — the certification most state DOIs recognize as the bar for online insurance education.",
+                desc: "Curriculum is led by an instructor holding the Certified Distance Education Instructor (CDEI) designation from the International Distance Education Certification Center.",
               },
               {
                 label: "Same-day DOI reporting",
@@ -430,7 +477,7 @@ export default function PropertyAndCasualtyCEPage() {
           </h2>
           <div className="space-y-4 text-gray-700 leading-relaxed text-base">
             <p>
-              Property &amp; Casualty CE rules are not uniform across the country. Hour totals, ethics formats, renewal cycles, classroom-equivalent rules, and flood-training expectations all shift state by state. A producer licensed in California works under different anti-fraud rules than one in Florida; a Massachusetts licensee may owe 45 or 60 hours depending on tier; Texas requires that 50% of P&amp;C CE be classroom-equivalent.
+              Property &amp; Casualty CE rules are not uniform across the country. Hour totals, ethics formats, renewal cycles, classroom-equivalent rules, and flood-training expectations all shift state by state. A producer licensed in California works under different anti-fraud rules than one in Florida; a Massachusetts licensee owes 60 hours before their first renewal and 45 hours in each 3-year period after; Texas requires that 50% of P&amp;C CE be classroom-equivalent.
             </p>
             <p>
               The state cards above link directly to the dedicated P&amp;C CE hub for each state, where the exact hour breakdown, statutory citation, ethics module, and any state-specific add-on (NFIP, anti-fraud, MT Law) is documented. Always renew against your current state&apos;s rules — not a generic 24-hour assumption.
@@ -446,7 +493,7 @@ export default function PropertyAndCasualtyCEPage() {
             Coming Soon
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-            We are actively adding state-approved P&amp;C CE in these markets. If yours is below, your home state&apos;s licensing hub still has full prelicensing and L&amp;H CE coverage today.
+            We are actively adding state-approved P&amp;C CE in these markets. If yours is below, your home state&apos;s licensing hub still has prelicensing and L&amp;H CE coverage today — New York is the one exception, because we do not sell CE there yet.{CE_PENDING_SENTENCE}
           </p>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 mb-8">
             {unsupportedStates.map((s) => (
@@ -473,7 +520,7 @@ export default function PropertyAndCasualtyCEPage() {
               <Link href="/continuing-education" className="text-navy underline hover:text-gold font-medium">
                 Life &amp; Health CE catalog
               </Link>
-              {" "}— it covers 49 states today (all except New York).
+              {" "}— it covers {LH_CE_SERVED_COUNT} states today (all except New York). Our state CE provider approval is active in {CE_APPROVED_COUNT} states{CE_PENDING_CLAUSE}.
             </p>
           </div>
         </div>
@@ -494,7 +541,7 @@ export default function PropertyAndCasualtyCEPage() {
                 Life &amp; Health CE Hub
               </h3>
               <p className="text-sm text-gray-600">
-                The 49-state L&amp;H continuing education catalog — typically same-day reporting, $39 starting price.
+                The {LH_CE_SERVED_COUNT}-state L&amp;H continuing education catalog — state-approved in {CE_APPROVED_COUNT} states, typically same-day reporting, $39 starting price.
               </p>
             </Link>
             <Link

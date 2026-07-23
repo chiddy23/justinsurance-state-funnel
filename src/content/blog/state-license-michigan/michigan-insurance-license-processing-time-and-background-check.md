@@ -180,19 +180,19 @@ DIFS direct contact: For status questions: (517) 284-8800 or difs-licensing@mich
 
 Check status periodically (every few days) without excessive inquiries to DIFS.
 
-## Temporary License Option
+## Temporary Licenses: What They Actually Cover
 
-Michigan offers a 180-day temporary insurance license during the regular application process:
+Michigan does issue a temporary producer license, but it is not a head start for new applicants — it's a business-continuity tool. Under MCL 500.1211b, DIFS may issue a temporary license valid for up to 180 days, without an examination, only when it is necessary for the servicing of an existing insurance business:
 
-Apply through NIPR
+To the surviving spouse or court-appointed personal representative of a licensed producer who dies or becomes mentally or physically disabled
 
-Allows limited insurance activity while full application processes
+To a member or employee of a licensed business entity, upon the death or disability of the individual designated on that entity's application or license
 
-Available for various lines
+To the designee of a licensed producer entering active service in the U.S. armed forces
 
-Contact DIFS at (517) 284-8800 for specific instructions
+In any other circumstance DIFS determines will best serve the public interest
 
-The temporary license option can be valuable for candidates who need to begin limited insurance activity (such as carrier training programs) before full licensure.
+There is no temporary license that lets a first-time candidate transact insurance while a regular application is pending. Until DIFS issues your license, you may not solicit, negotiate, or sell insurance in Michigan — unlicensed activity is a disciplinary matter and can cost you the license you're waiting on. If you think a Section 1211b situation applies to you, contact DIFS at (517) 284-8800 for instructions.
 
 ## If Your Application Is Denied
 
@@ -254,7 +254,7 @@ Don't wait for the physical license to start these activities — use the proces
 - What happens if my 180-day application window expires? Your application expires. You must submit a new NIPR application and pay the ~$15.60 fee again before proceeding. Plan to complete all requirements (pass your exam) well before the 180-day deadline.
 - Does Michigan run a fingerprint-based background check? No. Michigan does not require fingerprinting. DIFS conducts its background review through analysis of your application disclosures and available records — no IdentoGO, no law enforcement fingerprinting.
 - If I fail my exam, do I need to reapply through NIPR? Yes. If you fail the exam within your 180-day application window, you must submit a new NIPR application (~$15.60) before rescheduling your exam — in addition to paying the $41 retake fee. This makes passing on the first attempt financially valuable.
-- Does Michigan offer a temporary license during processing? Yes. Michigan provides a 180-day temporary license option through NIPR. Contact DIFS at (517) 284-8800 for specific instructions on applying for a temporary license.
+- Can I get a temporary license so I can start selling while my application processes? No. Michigan's temporary producer license (MCL 500.1211b) exists to keep an existing book of business serviced — DIFS may issue it without an exam, for up to 180 days, in situations such as the death or disability of a licensed producer (to the surviving spouse or personal representative) or of a licensed agency's designated individual. It is not available to a first-time applicant, and you may not transact insurance in Michigan until your license is actually issued. Call DIFS at (517) 284-8800 if you believe a Section 1211b situation applies to you.
 
 ## Plan Your Michigan Licensing Timeline Accurately
 

@@ -20,7 +20,7 @@ Life authorizes the sale of life insurance policies and annuities. This includes
 
 Accident & Health (A&H) authorizes the sale of health insurance, disability income insurance, long-term care insurance, Medicare supplement policies, and accident insurance. In Colorado's post-ACA environment — where Connect for Health Colorado (the state exchange) serves hundreds of thousands of residents and individual market premiums are in significant flux — A&H is one of the most dynamic and in-demand lines in the state.
 
-Life, Accident & Health together is a single producer license covering both Life and A&H authority, but Colorado has no combined prelicensing course or combined exam to get there — a candidate must complete the separate 50-hour Life course and the separate 50-hour A&H course (100 hours total) and pass both Pearson VUE exams individually. For most candidates pursuing Life or Health as a career focus, planning for both lines from the outset is still the most efficient path, even though it requires two full course enrollments and two exam sessions rather than one.
+Life, Accident & Health together is a single producer license covering both Life and A&H authority, but — unlike Property and Casualty, which Colorado offers as a single combined 50-hour prelicensing course — there is no combined Life & Health prelicensing course or combined exam to get there. A candidate must complete the separate 50-hour Life course and the separate 50-hour A&H course (100 hours total) and pass both Pearson VUE exams individually. For most candidates pursuing Life or Health as a career focus, planning for both lines from the outset is still the most efficient path, even though it requires two full course enrollments and two exam sessions rather than one.
 
 Property authorizes the sale of property insurance: homeowners, commercial property, dwelling fire, inland marine, and related coverages. Colorado's hard insurance market — driven by catastrophic hail damage, wildfire exposure, and construction cost inflation — makes Property one of the most complex and consequential lines in the state.
 
@@ -34,11 +34,11 @@ Variable Products authorizes the sale of variable life insurance and variable an
 
 ## Decision Framework: Which Lines Do You Need?
 
-Pure Life and Health career (individual markets, group benefits, Medicare): → Life + Accident & Health license (100 hours of prelicensing across two separate 50-hour courses, two separate exams — no combined course or exam option)
+Pure Life and Health career (individual markets, group benefits, Medicare): → Life + Accident & Health license (100 hours of prelicensing across two separate 50-hour courses, two separate exams — no combined Life & Health course or exam option, unlike Property and Casualty)
 
 Property and Casualty career (personal lines only): → Personal Lines license (50-hour prelicensing, Personal Lines exam) — if you will not write commercial accounts
 
-Property and Casualty career (personal and commercial lines): → Property + Casualty licenses separately (100 total hours of prelicensing, two exams — though both can be taken in one session at a physical test center; confirm current combined-session pricing with Pearson VUE)
+Property and Casualty career (personal and commercial lines): → full Property + Casualty authority. Colorado's Combined Property & Casualty prelicensing course covers both licenses' education in a single 50-hour course, or you can take the two 50-hour courses separately (100 hours total). Either way you sit two separate exams — both can be taken in one physical-test-center session for a single $41 Pearson VUE fee
 
 Full-service multi-line career: → Property + Casualty + Life + Accident & Health — four lines, maximum market access, highest total prelicensing and exam investment, but access to every major insurance market segment in Colorado
 
@@ -86,7 +86,7 @@ Yes — Medicare Supplement (Medigap) policies are sold under Accident & Health 
 
 If I hold a Colorado Life license and want to add Accident & Health authority, do I need to complete 50 more hours of prelicensing?
 
-Yes — Accident & Health is a separate line of authority from Life in Colorado, requiring its own 50-hour prelicensing course and Pearson VUE exam. However, the Colorado-specific 10 hours may partially overlap with content you have already covered (particularly the ethics and principles of insurance components) since the state-specific requirements are the same across all lines. If you are at the beginning of your licensing journey and want both Life and A&H authority, plan to complete both the 50-hour Life course and the 50-hour A&H course (100 hours total) from the outset — Colorado does not offer a combined course or a combined exam, so each line still requires its own Certificate Exam and its own Pearson VUE exam.
+Yes — Accident & Health is a separate line of authority from Life in Colorado, requiring its own 50-hour prelicensing course and Pearson VUE exam. However, the Colorado-specific 10 hours may partially overlap with content you have already covered (particularly the ethics and principles of insurance components) since the state-specific requirements are the same across all lines. If you are at the beginning of your licensing journey and want both Life and A&H authority, plan to complete both the 50-hour Life course and the 50-hour A&H course (100 hours total) from the outset — Colorado does not offer a combined Life & Health course or a combined Life & Health exam (that combined-course option exists only for Property and Casualty), so each of Life and A&H still requires its own Certificate Exam and its own Pearson VUE exam.
 
 Does holding a Surplus Lines license in Colorado require separate prelicensing education?
 

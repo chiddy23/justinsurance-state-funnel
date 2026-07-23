@@ -42,7 +42,7 @@ CE Broker and other tracking systems: Many CE providers use CE Broker or similar
 
 Unapproved courses: Any course from a provider not on the TDCI's approved list, or any course that is not individually approved for Tennessee CE credit, does not count regardless of its subject matter or educational quality.
 
-Repeated courses: Tennessee does not permit a producer to repeat the same course within the same biennial CE period and receive credit for both completions. If a producer completes a course in year one of their biennial period and completes the same course again in year two, only one completion receives credit. The second completion produces no additional CE hours.
+Repeated courses: TDCI's rule is a rolling two-year bar, not a per-renewal-period bar. In the department's words, "continuing education courses previously submitted and approved for credit may only be repeated and submitted for credit after two (2) years." The clock runs from the date of the prior credited completion — not from the start of your biennial period — so a repeat can be denied credit even though it falls in a different renewal cycle. A course credited in month 22 of one biennium and retaken in month 3 of the next is still inside the 24-month window and earns nothing. Check the completion date of the earlier credit before re-enrolling in a course you have taken before, or you can reach your renewal deadline short of the 24 hours you thought you had.
 
 Company training that is not approved CE: Carrier product training, company compliance meetings, and agency sales training do not count as CE hours unless the specific session has been submitted to and approved by the TDCI as a CE course. Most internal company training is not approved CE. Producers who rely on company training to satisfy CE requirements without verifying TDCI approval discover the gap at renewal.
 
@@ -88,7 +88,7 @@ Limited lines licensees: Producers holding limited lines licenses — for credit
 
 Non-resident producers: Non-resident producers whose home state CE requirements are current are exempt from Tennessee's CE requirements. A Georgia producer who completes Georgia's 24-hour biennial CE has simultaneously satisfied their Tennessee non-resident CE obligation. No additional Tennessee-specific CE hours are required.
 
-The LTC exemption for non-residents: The non-resident CE exemption has one important exception. Non-resident producers who sell LTC products in Tennessee must complete the LTC initial certification and ongoing training requirements regardless of their home state's LTC training. The LTC training exemption does not apply to non-residents selling LTC in Tennessee.
+LTC training for non-residents: Tennessee extends the same reciprocity to long-term care training. Tenn. Comp. R. & Regs. 0780-01-61-.31 provides that "non-resident insurance producers who meet the education and training requirements of their home state will be deemed to meet the requirements for education and training in this state." A non-resident who has completed their home state's LTC training — both the initial course and the ongoing cycle — is deemed to have satisfied Tennessee's 8-hour initial and 4-hour ongoing LTC requirements. You do not need to buy duplicate Tennessee-specific LTC training. Keep your home state completion records available in case TDCI asks you to substantiate the deemed compliance.
 
 ## The CE Reporting Process
 
@@ -116,21 +116,21 @@ Tennessee licenses expire on the last day of the producer's birth month in the r
 
 Renewal is submitted through NIPR at nipr.com. Payment is by credit card or debit card at the time of submission.
 
-### The 60-Day Grace Period
+### There Is No Grace Period
 
-Tennessee provides a 60-day grace period after the license expiration date — the license can be renewed within 60 days of expiration at the standard renewal cost with no additional fee. A license that expires April 30 can be renewed through June 29 at the standard renewal cost.
+Tennessee producer licenses have no post-expiration grace period. The renewal window runs from 90 days before the expiration date through the expiration date itself, and a renewal is on time only if it is submitted on or before that date. A license that expires April 30 must be renewed by April 30 — a renewal submitted May 1 is a late renewal, not a grace-period renewal, and it carries the late fee described below.
 
-The grace period and active status: A license that has passed its expiration date — even within the grace period — is technically expired. Producers should not assume the grace period authorizes continued insurance transactions during the expired window. Consult the TDCI directly to confirm the scope of active authorization during the grace period before transacting business.
+Do not transact on an expired license: Once a Tennessee producer license passes its expiration date it is expired, and continuing to sell, solicit, or negotiate insurance on it means transacting without a valid license. There is no window during which an expired producer license authorizes continued business — renew on or before the expiration date.
 
 ### Late Renewal
 
-After the 60-day grace period expires, late renewal is available for up to one year from the expiration date. Late renewal carries a late fee in addition to the standard renewal fee — the TDCI does not publicly post the exact late-fee amount, so contact the TDCI directly for the current figure.
+After the expiration date, late renewal is available for up to one year from that date. Late renewal carries a $120 late renewal fee (for a license with at least one major line or Title) in addition to the standard $60 renewal fee — both amounts are published on NIPR's Tennessee renewal page.
 
 Late renewal is submitted through NIPR under the same process as standard renewal. The TDCI processes late renewals and restores the license to active status upon approval.
 
 ### After One Year: Full Relicensing Required
 
-If a license has been expired for more than one year from the expiration date, late renewal is no longer available. The producer must complete full relicensing — including retaking the Pearson VUE exam — to return to active status. The one-year threshold runs from the expiration date, not from the end of the grace period.
+If a license has been expired for more than one year from the expiration date, late renewal is no longer available. The producer must complete full relicensing — including retaking the Pearson VUE exam — to return to active status. The one-year late-renewal threshold runs from the expiration date itself.
 
 ### The Renewal Process Step by Step
 
@@ -188,9 +188,9 @@ This record provides documentation for any TDCI inquiry about CE compliance and 
 
 I completed a CE course last week but it has not appeared in the TDCI's records yet. My renewal deadline is in five days. What should I do?
 
-Contact the CE provider immediately and request confirmation that the completion was submitted to the TDCI. Ask for a resubmission if necessary. Simultaneously contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov to report the discrepancy and ask whether your renewal can be processed pending confirmation of the completion. Do not submit your NIPR renewal application until the hours appear in the TDCI's records — a renewal submitted with unverified CE will be rejected as non-compliant. If the five-day window is insufficient to resolve the reporting gap, you may need to submit renewal within the 60-day grace period after the expiration date, which carries no late fee. This situation illustrates exactly why completing CE at least 30 days before the renewal deadline — not five days before — is the right practice. Reporting delays of one to several business days are normal; a five-day window does not accommodate them.
+Contact the CE provider immediately and request confirmation that the completion was submitted to the TDCI. Ask for a resubmission if necessary. Simultaneously contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov to report the discrepancy and ask whether your renewal can be processed pending confirmation of the completion. Do not submit your NIPR renewal application until the hours appear in the TDCI's records — a renewal submitted with unverified CE will be rejected as non-compliant. If the five-day window is not enough to resolve the reporting gap before your expiration date, the license will lapse and you will have to late-renew afterward — paying the $120 late renewal fee on top of the $60 renewal fee, because Tennessee gives producers no no-fee grace period. This situation illustrates exactly why completing CE at least 30 days before the renewal deadline — not five days before — is the right practice. Reporting delays of one to several business days are normal; a five-day window does not accommodate them.
 
-I hold both Life and A&H licenses. Do I need 24 hours of CE for each line, or just 24 hours total?
+I hold both the Life and A&H lines of authority. Do I need 24 hours of CE for each line, or just 24 hours total?
 
 24 hours total — not 24 per line. Tennessee's CE requirement is 24 hours per biennial renewal period regardless of how many lines of authority the producer holds. A producer with all four major lines — Life, A&H, Property, and Casualty — completes 24 total hours including 3 ethics hours to satisfy the CE requirement for all lines simultaneously. The CE total does not multiply by the number of lines held.
 

@@ -115,6 +115,20 @@ interface CourseFeaturesProps {
    */
   ceEthicsWebinar?: boolean;
   /**
+   * Non-Illinois states whose CE rules mandate a minimum number of classroom,
+   * live-instructor, or classroom-equivalent hours that a purely self-paced
+   * package cannot satisfy on its own (currently New Mexico — at least 3 of 24
+   * via formal classroom / live instructor, 13.4.7.10(D)(2) NMAC — and Utah —
+   * at least 12 of 24 classroom/webinar/classroom-equivalent with no more than
+   * 12 self-study, Utah Admin. Code R590-142). The generic "Self-Paced Online"
+   * card claims "No classroom required," which is FALSE for these states, so
+   * its title and body are swapped for the accurate per-state copy the CE page
+   * builds from states.ts data. Mutually exclusive with ceEthicsWebinar
+   * (Illinois's own approved carve-out). Undefined for every other state, whose
+   * card renders byte-identically.
+   */
+  liveCeCard?: { title: string; description: string };
+  /**
    * Pending-approval states (providerApprovalNumber === "PENDING", currently NY
    * and WA): the CE course is not yet state-approved and completions cannot be
    * reported to the DOI, so the "State-Approved Content" and "Same-Day
@@ -127,6 +141,7 @@ interface CourseFeaturesProps {
 export default function CourseFeatures({
   variant = "prelicensing",
   ceEthicsWebinar = false,
+  liveCeCard,
   providerApproved = true,
 }: CourseFeaturesProps) {
   const isCE = variant === "ce";
@@ -140,6 +155,18 @@ export default function CourseFeatures({
             description:
               "Most CE hours are self-paced on any device. Per Illinois requirements (215 ILCS 5/500-35(b)), the 3 mandatory ethics hours are delivered in live classroom or webinar format with verified attendance.",
           }
+        : f
+    );
+  } else if (isCE && liveCeCard) {
+    // New Mexico / Utah (and any future state the CE page detects): the state
+    // mandates classroom/live-instructor/classroom-equivalent CE hours, so the
+    // "No classroom required" line on the Self-Paced card is false. Swap it for
+    // the per-state disclosure the CE page built from states.ts data. `card` is
+    // captured as a const so its non-undefined type survives into the closure.
+    const card = liveCeCard;
+    features = features.map((f) =>
+      f.title === "Self-Paced Online"
+        ? { ...f, title: card.title, description: card.description }
         : f
     );
   }

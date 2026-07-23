@@ -34,7 +34,7 @@ How to pass it: Build a simple comparison chart. Know the key features of each t
 
 ## 3. Texas-Specific State Laws and Regulations
 
-This is the section that catches people off guard, especially if they're using generic study materials. Texas has specific rules around replacement, free-look periods, unfair trade practices, and agent conduct — and the exam tests all of it.
+This is the section that catches people off guard, especially if they're using generic study materials. Pearson VUE's Texas content outline gives the state-specific portion 30 scored questions of the 130 on the Life & Health exam — close to a quarter of your score. Texas has specific rules around replacement, free-look periods, unfair trade practices, and agent conduct, and the exam tests all of it.
 
 How to pass it: Study Texas law separately from general insurance concepts. Use a Texas-specific course that covers TDI regulations, not just national standards.
 
@@ -56,7 +56,7 @@ It's not about reading everything — it's about practicing questions. The more 
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on the Texas Life & Health exam? The combined Life & Health exam has 150 questions. You have 2.5 hours to complete it, and you need a score of 70% to pass.
+- How many questions are on the Texas Life & Health exam? Pearson VUE's Texas content outlines (effective December 1, 2025) put the General Lines – Life, Accident & Health exam at 130 scored questions — 100 on general knowledge plus 30 on Texas-specific law — with 15 unscored pretest questions mixed in, for 145 items total. You get 150 minutes. Passing takes a **scaled score of 70**, not 70% of the questions answered correctly: Texas converts raw scores to a 0–100 scale, and the handbook is explicit that the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Confirm the current figures in the Texas candidate handbook before test day.
 - Is the Texas exam harder than other states? It's considered moderately difficult. The state law section is where Texas-specific knowledge matters most — generic study materials won't fully prepare you for that portion.
 - How soon can I retake the exam if I fail? There's no mandatory waiting period in Texas — you can typically schedule your next available test date right away. Each attempt requires a new registration fee paid to Pearson VUE.
 - Are there trick questions on the exam? The exam isn't designed to trick you, but questions are carefully worded. Read every question completely before answering — the difference between "all of the following EXCEPT" and a standard question changes your answer entirely.

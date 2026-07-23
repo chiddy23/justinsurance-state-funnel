@@ -24,17 +24,21 @@ Both UM and UIM coverage come in two forms under NJ law: bodily injury and prope
 
 Important limitation on UM/UIM property damage: New Jersey's UM/UIM property damage coverage only applies when the other driver is identified. In a hit-and-run accident where the at-fault driver cannot be identified, UM/UIM property damage does not pay for damage to your vehicle — you would rely on your collision coverage instead.
 
-## The Tracking Requirement: UM/UIM Follows Liability Minimums
+## What Actually Tracks: The Floor and the Ceiling, Not the Middle
 
-One of New Jersey's most distinctive UM/UIM rules is that your UM/UIM limits are required to match your liability limits — they track upward together. When the Phase 2 liability minimum increased to 35/70 on January 1, 2026, the UM/UIM minimum increased automatically as well. A policyholder carrying minimum liability coverage now carries 35/70 UM/UIM by default.
+This is the rule producers most often state too broadly, so it is worth being precise about what "tracks" means. Two things track liability. The middle does not.
 
-This tracking requirement has two important practical implications:
+The floor. N.J.S.A. 17:28-1.1(a) requires every standard policy to carry UM/UIM at no less than the statutory minimum, and that minimum is set at the same figure as the bodily injury liability minimum. When the Phase 2 liability minimum increased to 35/70 on January 1, 2026, the mandatory UM/UIM minimum moved with it. A policyholder carrying minimum liability coverage now carries 35/70 UM/UIM.
+
+The ceiling. Under N.J.S.A. 17:28-1.1(b), the limits for uninsured and underinsured motorist coverage "shall not exceed the insured's motor vehicle liability policy limits for bodily injury and property damage, respectively." A policyholder with 100/300 liability cannot purchase 250/500 UM/UIM.
+
+What does not track is everything in between. New Jersey does not require UM/UIM to equal the liability limits a client actually carries. Under N.J.S.A. 17:28-1.1(b), higher UM/UIM is coverage the insurer must offer to the named insured — up to at least 250/500 bodily injury — and that the named insured must affirmatively elect on the Coverage Selection Form. An insured carrying 100/300 liability may lawfully carry 35/70 UM/UIM, and many do.
+
+That distinction has two practical implications:
 
 For clients: The increase in liability minimums in January 2026 automatically raised UM/UIM floors as well — providing every minimum-coverage NJ driver with at least $35,000 per person in first-party protection against uninsured and underinsured drivers, up from $25,000 under Phase 1.
 
-For umbrella policies: Many umbrella carriers require that the underlying auto policy carry at least 100/300 in liability before the umbrella attaches. Because UM/UIM tracks liability, a client who upgrades their liability to meet umbrella requirements automatically upgrades their UM/UIM as well. Producers reviewing umbrella eligibility should confirm base auto limits satisfy the umbrella carrier's scheduled underlying requirements.
-
-The UM/UIM cap: your UM/UIM limits cannot exceed your liability limits. A policyholder with 100/300 liability cannot purchase 250/500 UM/UIM — the UM/UIM ceiling is equal to the liability limit. This is the other side of the tracking relationship — UM/UIM moves with liability in both directions.
+For umbrella policies: Many umbrella carriers require that the underlying auto policy carry at least 100/300 in liability before the umbrella attaches. Raising liability to 100/300 to satisfy that scheduled-underlying requirement raises only the ceiling on what UM/UIM the client may buy — it does not raise the UM/UIM limits themselves. This is a live E&O exposure: a producer who assumes the first-party coverage moved with the liability increase may tell a client they have 100/300 UM/UIM when the policy still carries 35/70. Pull the declarations page or the Coverage Selection Form and confirm the elected UM/UIM limits rather than inferring them.
 
 ## How UIM Works in Practice: The Credit and Offset
 
@@ -78,7 +82,7 @@ Uninsured motorist (UM) coverage pays when you are injured by a driver who has n
 
 Are UM/UIM limits required to equal liability limits in New Jersey?
 
-Yes, in two directions. UM/UIM limits must be at least equal to the liability minimums — so as of January 1, 2026, minimum UM/UIM is 35/70. And UM/UIM limits cannot exceed the liability limits on the same policy — so if you carry 100/300 liability, you cannot purchase more than 100/300 in UM/UIM coverage. This tracking relationship means that decisions about liability limits simultaneously determine UM/UIM ceiling and floor. Producers who recommend higher liability limits to clients are simultaneously providing higher UM/UIM protection, and clients who want maximum UM/UIM protection must also carry equivalent liability limits.
+No — not to the limits you carry. New Jersey sets a floor and a ceiling, and leaves everything between them to the insured's election. The floor is the statutory minimum under N.J.S.A. 17:28-1.1(a) — 35/70 for policies issued or renewed on or after January 1, 2026. The ceiling is your own liability limit: N.J.S.A. 17:28-1.1(b) provides that UM/UIM limits "shall not exceed the insured's motor vehicle liability policy limits," so with 100/300 liability you cannot buy more than 100/300 in UM/UIM. In between, higher UM/UIM is optional coverage the insurer must offer (up to at least 250/500) and the named insured must elect on the Coverage Selection Form. An insured with 100/300 liability may still be carrying only 35/70 UM/UIM. So raising a client's liability limits raises the ceiling, not the coverage — clients who want maximum UM/UIM protection must carry equivalent liability limits and then separately elect the higher UM/UIM.
 
 Does the verbal threshold apply to UM/UIM claims in New Jersey?
 
@@ -92,6 +96,6 @@ How does the 2026 UM/UIM minimum increase affect clients who already carry highe
 
 Clients who were already carrying UM/UIM limits above the previous 25/50 minimum — for example, 50/100 or 100/300 — are unaffected by the January 2026 minimum increase. Their limits were already above the new floor and did not change automatically. The automatic adjustment at renewal only affected policyholders who were carrying the prior Phase 1 minimum of 25/50. For all other clients, the change is an opportunity for a coverage review conversation — not because their limits changed, but because the underlying landscape of other drivers' coverage has shifted upward, which may affect UIM trigger analysis and coverage adequacy discussions going forward.
 
-UM/UIM coverage is the safety net that makes New Jersey's no-fault system genuinely protective — and its tracking relationship to liability minimums makes it one of the most tightly integrated features of the state's auto insurance architecture. Producers who understand it deeply can have coverage conversations with clients that go well beyond the minimum compliance checkbox.
+UM/UIM coverage is the safety net that makes New Jersey's no-fault system genuinely protective, and its relationship to liability is one of the most tightly integrated features of the state's auto insurance architecture — the statutory minimum sets the floor, the insured's own liability limit sets the ceiling, and everything between is an election the client has to make. Producers who understand that distinction can have coverage conversations with clients that go well beyond the minimum compliance checkbox, and can spot the client who believes they bought protection they never elected.
 
-Visit JustInsurance to enroll today and master NJ auto insurance law through a [prelicensing](/new-jersey/prelicensing) course built to the PSI Casualty exam content outline.
+Visit JustInsurance to enroll today and sharpen your NJ auto coverage expertise with DOBI-approved [continuing education](/new-jersey/continuing-education) for licensed Property and Casualty producers.

@@ -54,7 +54,7 @@ Reports compliance information to NCDOI
 
 What Sircon does (separate from Prometric):
 
-Accepts license renewal applications (after CE is complete)
+Processes license transactions and records — producer licenses are perpetual and require no renewal application; only the classes that actually renew (adjuster, public adjuster, surplus lines) file renewals through the state's licensing system
 
 Maintains producer license records
 

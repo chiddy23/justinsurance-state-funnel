@@ -230,7 +230,7 @@ export default async function PrelicensingCoursePage({
   const ilSelfHours =
     ilWebinar && hoursIsNumber ? (pricingHoursNum as number) - ilLiveHours : 0;
 
-  const faqs = withIlWebinarFaq(
+  const baseFaqs = withIlWebinarFaq(
     getPrelicensingCourseFAQs(
       buildFaqData(stateData),
       loaDef.name,
@@ -239,6 +239,259 @@ export default async function PrelicensingCoursePage({
     ),
     stateData
   );
+  // Some states charge MORE for the combined Life & Health exam than the
+  // single-line Life or Health exam that states.ts stores as examInfo.examFee.
+  // Apply the true combined fee on the L&H page only; every other state/LOA is
+  // byte-identical. Used below for the exam-fee box AND the retake FAQ.
+  //   • Utah — fid-227 (verified 2026-07-21 vs the XCEL Utah license-
+  //     requirements page and the Prometric Utah Insurance Exam FAQ): combined
+  //     Prometric L&H exam costs $44, more than the $32 single-line exam.
+  //   • Wyoming — fid-238 (verified 2026-07-21 vs the Pearson VUE Wyoming
+  //     Insurance Licensing Candidate Handbook, Stock #125100, "Available
+  //     Examinations and Fees"): combined exam #05 "Life and Accident and
+  //     Health or Sickness" (150 q, 2.5 hr) costs $113, more than the $96
+  //     single-line Life #01 / Health #02 exam.
+  //   • Nebraska — fid-199 (verified 2026-07-21 vs the PSI / Nebraska DOI
+  //     Insurance Licensing Examination Candidate Information Bulletin fees
+  //     table): the combined "Life, Accident and Health or Sickness" exam (PSI
+  //     series 13-03, 150 items) costs $47, more than the $43 single-line Life
+  //     (13-01) or Accident & Health (13-02) exam.
+  //   • South Dakota — fid-221 (verified 2026-07-21 vs the XCEL South Dakota
+  //     license-requirements page, "Exam fee - $85 for Single line and $95 for
+  //     combined lines," and the Pearson VUE South Dakota candidate portal):
+  //     combined-line L&H exam costs $95, more than the $85 single-line exam.
+  //   • Washington — fid-231 (RE-VERIFIED 2026-07-22 against the PSI Washington
+  //     OIC Candidate Information Bulletin PDF itself,
+  //     https://test-takers.psiexams.com/waoic, "Last Revised 3/6/2026" with
+  //     content outlines effective 4/1/2026, fee table: Life Producer /
+  //     Disability Producer / Property / Casualty / Personal Lines / Credit /
+  //     Adjuster / Crop Adjuster / Surety / Surplus Lines Broker = $38 each;
+  //     "Life and Disability Producer Combo" (150 q, 195 min) = $55; "Property
+  //     and Casualty Producer Combo" (150 q, 195 min) = $55): the combined Life
+  //     & Disability exam is $55, more than the $38 single-line Life /
+  //     Disability exam. This was a real PSI increase — the prior $52 combined /
+  //     $35 single-line figures are GONE from the bulletin and appear nowhere in
+  //     it. Do NOT "correct" this back from a web-search snippet: StateRequirement,
+  //     XCEL, Aceable and this site's own indexed pages still echo $35/$52, so
+  //     citing them is circular. Only the bulletin PDF governs.
+  //     🚨 $55/$55 COLLISION — DO NOT DEDUPLICATE: Washington has TWO distinct,
+  //     independently-payable $55 charges with different payees — this PSI EXAM
+  //     fee (per attempt) and the WA OIC resident-producer APPLICATION fee paid
+  //     via NIPR (states.ts applicationFee: "55", separately verified, once).
+  //     A combined-route candidate pays BOTH. They are not the same fee, must
+  //     never be merged/cross-referenced, and a blind find/replace on "$55"
+  //     would corrupt the application fee.
+  //   • Nevada — fid-201 (verified 2026-07-21 vs the Pearson VUE Nevada
+  //     Insurance Licensing Candidate Handbook, Stock #122900, Oct 2024 —
+  //     "EXAM FEES": "Single Line Exams is $37 and Combo Exams (Life/Health
+  //     or Property/Casualty) is $47," corroborated by the "Available
+  //     Examinations and Fees" table (exam InsNV_LAH05 "Life/Health Combo,"
+  //     3 hr 35 min, $47): the combined exam costs $47, more than the $37
+  //     single-line Life (InsNV_Life01) / Health (InsNV_Health02) exam.
+  //   • Maine — fid-188 (verified 2026-07-21 vs the current Pearson VUE Maine
+  //     Insurance Licensing Candidate Handbook, rev02/2026 [pub #122000],
+  //     "AVAILABLE EXAMS AND FEES" table): combined exam 12-ME-01 "Life,
+  //     Accident & Health Producer" (3 hr 30 min) costs $80, more than the
+  //     $55 single-line Life (12-ME-41) or Accident & Health (12-ME-42) exam.
+  //   • New Hampshire — fid-203 (verified 2026-07-21 vs the PSI New Hampshire
+  //     Insurance Candidate Information Bulletin fee table: Life 12-61 = $59,
+  //     Accident and Health 12-62 = $59, combined "Life, Accident and Health"
+  //     12-63 = $72; corroborated by the NHID "Announces New Licensing Exam
+  //     Vendor" notice — "$59 for single-line exams ... and $72 for combination
+  //     exams"): the combined exam costs $72, more than the $59 single-line
+  //     Life or Accident & Health exam.
+  //   • Texas — fid-225 (verified 2026-07-21 vs the National Online Insurance
+  //     School Texas exam-scheduling guide and the XCEL Texas license-
+  //     requirements page): the combined General Lines – Life, Accident &
+  //     Health exam costs $49, more than the $39 single-line Life exam that
+  //     states.ts stores as examInfo.examFee.
+  //   • Oregon — fid-214 (verified 2026-07-21 vs the PSI State of Oregon
+  //     Insurance Candidate Information Bulletin fee table hosted on the Oregon
+  //     DFR site, dfr.oregon.gov): combined exam 12-03 "Life and Health
+  //     (Includes Law)" costs $55, more than the $45 single-line Life (12-01)
+  //     or Health (12-02) exam.
+  //   • Pennsylvania — fid-216 (verified 2026-07-21 against the PSI
+  //     "Pennsylvania Insurance Department Licensing Examination Candidate
+  //     Information Booklet," effective 1/22/2026, Fees table: Life Insurance
+  //     16-01 $45.00, Accident and Health 16-02 $45.00, Life, Accident and
+  //     Health 16-03 $55.00): the combined exam costs $55, more than the $45
+  //     single-line Life or Accident & Health exam. NOTE: the audit proposed
+  //     $53 (and states.ts still stores the stale single-line $43); the current
+  //     PSI booklet supersedes both — single-line is $45, combined is $55.
+  //   • Alabama — combined Producer L&H exam costs $75 (verified 2026-07-21
+  //     against the official University of Alabama Insurance Testing fee
+  //     schedule, training.ua.edu/insurance-testing: "Individual Producer exams
+  //     are $50, Combined Producer exams are $75"): the combined exam is $75,
+  //     above the $50 single-line Life-only / Health-only exam. states.ts
+  //     stores the range "50-$75"; the L&H page pins the true combined $75.
+  //   • Arizona — combined exam PSI series 13-33 costs $59 (verified 2026-07-21
+  //     against the PSI Arizona (DIFI) Insurance Licensing Candidate Information
+  //     Bulletin #12137, "Types of Licenses with Fees": Life 13-31 $50, Accident
+  //     & Health 13-32 $50, Life/Accident & Health 13-33 $59): the combined exam
+  //     is $59, above the $50 single-line exam. The Exam Details box renders this
+  //     combined $59 clearly labeled against the $50 single-line exam, and the
+  //     retake FAQ (which otherwise inherited $50) is rewritten to match — both
+  //     via combinedExamFeeLabeled below. A secondary source claiming $49 is
+  //     WRONG per the primary PSI handbook.
+  //   • Connecticut — combined exam 12-CT-03 costs $105 (verified 2026-07-21
+  //     against the Pearson VUE Connecticut Insurance Candidate Handbook, pub
+  //     #120700, Mar 2026, "Available Exams and Fees": Life 12-CT-01 $65,
+  //     Accident & Health 12-CT-02 $65, Life/Accident & Health 12-CT-03 $105):
+  //     the combined exam is $105, above the $65 single-line exam.
+  //   • Louisiana — combined exam PSI series 103 costs $58 (verified 2026-07-21
+  //     against the PSI Louisiana DOI Licensing Examinations Candidate
+  //     Information Bulletin, upd. 1/1/2025, fee table: Life 101 $36, Health &
+  //     Accident 102 $36, Life/Health & Accident 103 $58): the combined exam is
+  //     $58, above the $36 single-line exam.
+  //   • Massachusetts — ARM REMOVED 2026-07-22. It stored $49, which came from
+  //     the retired Prometric-era MA Division of Insurance Candidate Licensing
+  //     Handbook ($39 single line / $49 two lines combined). MA moved to Pearson
+  //     VUE effective 2026-07-22 (handbook #122300, rev 06/2026): the single-line
+  //     Life / Accident & Health fee is $37 (states.ts, correct and current), and
+  //     $49 appears NOWHERE in that handbook — it lists no combined Life &
+  //     Accident & Health producer exam at all. The prior "left at $49 pending a
+  //     primary-source combined fee" note is now resolved AGAINST $49: we could
+  //     not source it, so the page must stop asserting it. Removing the arm makes
+  //     the Exam Fee box and the retake FAQ fall back to the single-line $37 that
+  //     every other Massachusetts page already prints — no new number is invented
+  //     and there is no cross-page contradiction.
+  //     ⚠️ HELD for the states.ts owner: massachusetts is still noCombinedExam:
+  //     false. If a primary source confirms Pearson VUE offers no combined MA
+  //     exam, flipping that flag to true is the whole fix — this page then
+  //     automatically renders "$74 (two exams)" plus the "No Combined Life &
+  //     Health Exam" note with NO further edit here. Do not hand-write $74.
+  //   • Kansas — combined major-lines exam 12-KS-05 costs $64 (verified
+  //     2026-07-22 against the Pearson VUE Kansas Insurance Licensing Candidate
+  //     Handbook, rev 07/2026, #121700: Life 12-KS-01 $57, Accident & Health
+  //     12-KS-02 $57, Life & Accident/Health 12-KS-05 $64; handbook body: "The
+  //     exam fee, $64 for combination major lines and $57 for single line or
+  //     limited line examinations"): the combined exam is $64, above the $57
+  //     single-line exam. states.ts single-line corrected $67 → $57.
+  //   • Missouri — combined exam code 54 costs $40 (verified 2026-07-21 against
+  //     the Pearson VUE Missouri Insurance Licensing Candidate Handbook, pub
+  //     #122600, Mar 2026, p.5 "Available Examinations and Fees": Life 50 $32,
+  //     Accident & Health 51 $32, Life/Accident & Health 54 $40): the combined
+  //     exam is $40, above the single-line exam. states.ts stores the range
+  //     "29-$35"; the L&H page pins the true combined $40.
+  //   • Tennessee — combined exam "Life and Accident & Health" costs $80
+  //     (verified 2026-07-22 against the current Pearson VUE Tennessee Insurance
+  //     Licensing Candidate Handbook, July 2025, available-exams-and-fees table):
+  //     the combined exam is $80, above the $55 single-line Life or Accident &
+  //     Health exam. The $55 single-line fee in states.ts is CORRECT and current —
+  //     Tennessee's defect was never the number, it was the structural flag.
+  //     ⚠️ HELD for the states.ts owner: tennessee is still noCombinedExam: true,
+  //     which the July 2025 Pearson VUE handbook contradicts. Until that flag is
+  //     flipped to false this arm stays dormant BY DESIGN (see the
+  //     !stateData.noCombinedExam gate below) so the page can never say "$110 (two
+  //     exams)" in the Exam Details box and "$80 combined" in the retake FAQ at
+  //     the same time. Flipping the flag activates this arm and simultaneously
+  //     fixes the Tennessee overview / requirements / practice-exam pages.
+  //   • Vermont — combined exam costs $67.60 (verified 2026-07-22 against the
+  //     Prometric Vermont insurance candidate information bulletin, "Effective as
+  //     of March 18, 2026," vs. the $52 single-line exam; the 2020-08-15 and
+  //     2021-07-20 revisions of the same bulletin both read $50 single / $65
+  //     combined, so this is a real Prometric increase, not a misread).
+  //     Note the cents: $67.60 is not a round dollar amount. Both the Exam Details
+  //     label and the retake FAQ interpolate this string verbatim and never parse
+  //     it as a number, so it renders correctly; the 2 * Number(examFee) doubling
+  //     path is the noCombinedExam branch, which Vermont does not take.
+  //     ⚠️ DISCLOSED AMBIGUITY: the current bulletin ships TWO CONFLICTING
+  //     registration forms. $52 / $67.60 is judged operative because it is the
+  //     only form whose figures were UPDATED in the 3/18/2026 revision, while the
+  //     competing $73 / $87 page is byte-for-byte unchanged since the Aug-2020
+  //     edition. Recorded here so a future auditor who finds $73/$87 in the same
+  //     PDF does not "correct" this back without re-reading both forms.
+  //   • New York and Ohio — deliberately NO arm. Both DO sell a combined Life &
+  //     Health exam, but at exactly the single-line price (NY $40 for all 28 PSI
+  //     exams incl. the 17-55 combined; OH one flat $49 for every insurance exam),
+  //     so the no-override fallback already prints the right number once states.ts
+  //     carries 40 / 49. Adding an arm would emit the contrast label "$40
+  //     (combined Life & Health exam; single-line Life or Health exam is $40)",
+  //     which is redundant and reads as a defect. The contrast label exists only to
+  //     defuse a real numeric mismatch against a state's other pages; NY and OH
+  //     have none. Verified against the fallback, not assumed.
+  // GATE: an override is only meaningful in a state that actually SELLS a combined
+  // Life & Health exam. Requiring !noCombinedExam keeps the Exam Details box (which
+  // branches on noCombinedExam FIRST, before ever reading the override) and the
+  // retake FAQ (which does not) from disagreeing. Verified 2026-07-22 to be a
+  // no-op for every current override state — none carries noCombinedExam: true.
+  const combinedExamFeeOverride =
+    loaDef.slug === "life-and-health" && !stateData.noCombinedExam
+      ? stateData.slug === "utah"
+        ? "$44"
+        : stateData.slug === "wyoming"
+        ? "$113"
+        : stateData.slug === "nebraska"
+        ? "$47"
+        : stateData.slug === "south-dakota"
+        ? "$95"
+        : stateData.slug === "washington"
+        ? "$55"
+        : stateData.slug === "nevada"
+        ? "$47"
+        : stateData.slug === "maine"
+        ? "$80"
+        : stateData.slug === "new-hampshire"
+        ? "$72"
+        : stateData.slug === "texas"
+        ? "$49"
+        : stateData.slug === "oregon"
+        ? "$55"
+        : stateData.slug === "pennsylvania"
+        ? "$55"
+        : stateData.slug === "alabama"
+        ? "$75"
+        : stateData.slug === "arizona"
+        ? "$59"
+        : stateData.slug === "connecticut"
+        ? "$105"
+        : stateData.slug === "louisiana"
+        ? "$58"
+        : stateData.slug === "missouri"
+        ? "$40"
+        : stateData.slug === "kansas"
+        ? "$64"
+        : stateData.slug === "tennessee"
+        ? "$80"
+        : stateData.slug === "vermont"
+        ? "$67.60"
+        : null
+      : null;
+  // ── Presentation fix (labeling only — NO fee VALUE is changed) ─────────────
+  // Where combinedExamFeeOverride applies, the combined Life & Health exam fee
+  // is higher than the single-line examFee that this state's overview /
+  // requirements / cost / single-line pages all show. Rendering the higher
+  // number under a bare "Exam Fee" label (and repeating it in the retake FAQ)
+  // reads as an internal contradiction — auditors repeatedly flagged it. So
+  // label it explicitly as the COMBINED Life & Health exam fee and, where the
+  // single-line fee is a clean figure, note that single-line fee for contrast.
+  // The only state whose states.ts examFee is a range is Alabama ("50-$75"),
+  // for which a "single-line is $X" clause would not read cleanly, so it is
+  // labeled without the contrast clause. singleLineExamFee is the SAME value the
+  // rest of the site prints, so no new number is introduced anywhere.
+  const singleLineExamFee = `$${stateData.examInfo.examFee}`;
+  const singleLineFeeIsRange = stateData.examInfo.examFee.includes("-");
+  const combinedExamFeeLabeled = combinedExamFeeOverride
+    ? singleLineFeeIsRange
+      ? `${combinedExamFeeOverride} (combined Life & Health exam)`
+      : `${combinedExamFeeOverride} (combined Life & Health exam; single-line Life or Health exam is ${singleLineExamFee})`
+    : null;
+
+  // On these combined pages the retake FAQ inherits the flat single-line fee
+  // from buildFaqData ("...paying the $55 exam fee again to Pearson VUE."):
+  // relabel just that one sentence to the combined fee and apply the same
+  // single-line contrast as the Exam Details box. Value is never changed.
+  const retakeSearch = `the ${singleLineExamFee} exam fee again to ${stateData.examInfo.examProvider}.`;
+  const retakeReplace = singleLineFeeIsRange
+    ? `the ${combinedExamFeeOverride} combined Life & Health exam fee again to ${stateData.examInfo.examProvider}.`
+    : `the ${combinedExamFeeOverride} combined Life & Health exam fee again to ${stateData.examInfo.examProvider} (the single-line Life or Health exam is ${singleLineExamFee}).`;
+  const faqs = combinedExamFeeOverride
+    ? baseFaqs.map((f) =>
+        f.answer.includes("exam fee again to")
+          ? { ...f, answer: f.answer.replace(retakeSearch, retakeReplace) }
+          : f
+      )
+    : baseFaqs;
   const learnBullets = WHAT_YOULL_LEARN[loaDef.slug];
 
   // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers on Ohio
@@ -506,6 +759,8 @@ export default async function PrelicensingCoursePage({
               ? `These two courses cover everything tested on the two Illinois exams — Life and Accident & Health — required for a Life & Health license.`
               : isCalifornia
               ? `This course delivers California's required 12-hour Code & Ethics prelicensing content, plus focused exam preparation for the ${stateData.name} ${loaDef.name} licensing exam.`
+              : loaDef.slug === "life-and-health" && stateData.noCombinedExam
+              ? `This course covers everything tested on the ${stateData.name} Life and Health licensing exams — a separate state exam for each line of authority.`
               : `This course covers everything tested on the ${stateData.name} ${loaDef.name} licensing exam.`}
           </p>
           <div className="bg-white rounded-xl p-6 md:p-8 shadow-sm">
@@ -544,8 +799,44 @@ export default async function PrelicensingCoursePage({
         loaSlug={loaDef.slug}
         examFeeDisplay={
           loaDef.slug === "life-and-health" && stateData.noCombinedExam
-            ? `$${2 * Number(stateData.examInfo.examFee)} (two exams)`
-            : undefined
+            ? // Colorado: no combined L&H exam, but that does NOT mean two
+              // fees. Pearson VUE Colorado Candidate Handbook #120600 (Exam
+              // Fees, eff. April 1, 2026): "Candidates may take up to two
+              // examinations during one exam session for a single fee of $41."
+              // Never double the fee for Colorado (audit 2026-07-20).
+              stateData.slug === "colorado"
+              ? `$${stateData.examInfo.examFee} (covers both exams in one session)`
+              : // Rhode Island: no combined L&H exam, but the two separate
+                // exams are buy-one-get-one-free when scheduled back-to-back
+                // in one test-center session. Pearson VUE Rhode Island
+                // Insurance Licensing Candidate Handbook #124000 (Feb 2026),
+                // Available Examinations: Life Producer $80 / Accident &
+                // Health Producer $80, "(If scheduled back to back, buy one
+                // get one free)". Do NOT double the fee (audit 2026-07-21).
+                stateData.slug === "rhode-island"
+              ? `$${stateData.examInfo.examFee} (buy one get one free when both exams are scheduled back-to-back in one session)`
+              : // Alaska: no combined L&H exam, but the two separate exams
+                // (Life level 01, Health level 02) can be taken in ONE in-person
+                // session at a physical Pearson VUE test center for a single $89
+                // fee. Pearson VUE Alaska Insurance Licensing Candidate Handbook
+                // (Sept 2023): "Candidates may take up to two examinations during
+                // one exam session only at a physical Pearson VUE test center
+                // location for a single fee of $89." OnVUE online charges per
+                // exam. Never double the in-person fee for Alaska (audit 2026-07-21).
+                stateData.slug === "alaska"
+              ? `$${stateData.examInfo.examFee} (covers both exams in one in-person session)`
+              : `$${2 * Number(stateData.examInfo.examFee)} (two exams)`
+            : // States that DO offer a combined Life & Health exam priced ABOVE
+              // the single-line exam (Arizona $59 vs $50, Connecticut $105 vs
+              // $65, Maine $80 vs $55, Texas $49 vs $39, … — see
+              // combinedExamFeeOverride). Render that combined fee explicitly
+              // labeled as the combined Life & Health exam (and, where the
+              // single-line fee is a clean figure, noting it for contrast) so it
+              // is never read as a contradiction against the single-line fee
+              // shown on this state's other pages. Arizona flows through the same
+              // combinedExamFeeLabeled as every other override state. Value
+              // unchanged — labeling only. L&H page only.
+              (combinedExamFeeLabeled ?? undefined)
         }
       />
 

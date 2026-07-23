@@ -30,7 +30,7 @@ PLE requirements created uneven barriers to entry
 
 Online self-study resources make preparation more accessible without mandating a specific format
 
-Washington's OIC still recommends preparation — every OIC-referenced source notes that exam prep "significantly" or "highly" improves [pass rates](/pass-rates) — but the specific format of that preparation is now entirely at the candidate's discretion.
+What the OIC actually says is narrow: "Effective July 23, 2023, Washington will no longer require pre-licensing education to take your insurance exam." It does not endorse any prep format, and it makes no claim about what preparation does to [pass rates](/pass-rates) — it simply points candidates to PSI's published exam statistics. Preparing is our recommendation, not the regulator's requirement, and the specific format of that preparation is now entirely at the candidate's discretion.
 
 What this means practically:
 
@@ -148,7 +148,7 @@ Washington residency and SR-22 provisions
 
 ## Health Care Service Contractors — Washington's Distinctive Entity
 
-One of Washington's most exam-notable features: Health Care Service Contractors (HCSCs) are a legal entity type unique to Washington state. Under RCW 48.44:
+One of Washington's most exam-notable features: Health Care Service Contractors (HCSCs) are a legal entity type most states do not have. Washington is not the only one — Oregon regulates health care service contractors under ORS Chapter 750 — but the category is uncommon enough that national study materials skip it, and Washington's Disability exam tests it directly. Under RCW 48.44:
 
 What HCSCs are: Organizations that provide health care services directly to subscribers rather than paying for health care on an indemnity basis. Traditional insurance companies pay money; HCSCs provide services. Group Health Cooperative was Washington's most famous HCSC before its acquisition.
 
@@ -164,7 +164,7 @@ Subject to OIC oversight but under HCSC-specific regulatory framework
 
 Exam implication: Washington exam questions test knowledge of HCSCs as distinct from traditional health insurance companies. A question asking about an organization that "provides health care services directly rather than paying indemnity benefits" describes an HCSC, not an HMO (though they're functionally similar).
 
-Washington Healthplanfinder: Washington's state-based health insurance exchange (insurance.wa.gov/healthplanfinder). Unlike Arizona (which uses Healthcare.gov), Washington manages its own state-based exchange. This is important for any producer seeking to sell individual market health insurance in Washington — marketplace producer certification is through Washington Healthplanfinder, not the federal system.
+Washington Healthplanfinder: Washington's state-based health insurance exchange (wahealthplanfinder.org), operated by the Washington Health Benefit Exchange — a separate agency from the OIC, not an OIC program. Unlike Arizona (which uses Healthcare.gov), Washington manages its own state-based exchange. This is important for any producer seeking to sell individual market health insurance in Washington — marketplace producer certification is through Washington Healthplanfinder, not the federal system.
 
 ## Disability vs. A&H: Washington's Distinctive Terminology
 
@@ -204,9 +204,9 @@ Not certifying exam registration compliance. When registering for the Washington
 
 ## 5 Frequently Asked Questions
 
-- When did Washington eliminate its prelicense education requirement? July 23, 2023. Washington eliminated mandatory PLE as part of a broader national trend toward exam-only licensing frameworks. Exam preparation is still strongly recommended — OIC's own resources acknowledge that prep courses significantly improve pass rates.
-- What is a Health Care Service Contractor and why does it appear on Washington's exam? A Health Care Service Contractor (HCSC) is a Washington-specific entity type under RCW 48.44 that provides health care services directly to subscribers rather than paying indemnity benefits. HCSCs are regulated separately from traditional health insurance companies under their own statutory chapter. Washington's Disability exam tests knowledge of this distinctive Washington entity type.
-- Does Washington have a state-based health exchange? Yes — Washington Healthplanfinder (washingtonhealthplanfinder.org). Unlike Arizona (which uses Healthcare.gov), Washington manages its own state-based marketplace. Producers selling individual market health insurance in Washington must complete Washington Healthplanfinder certification.
+- When did Washington eliminate its prelicense education requirement? July 23, 2023. Washington eliminated mandatory PLE as part of a broader national trend toward exam-only licensing frameworks. The OIC states only that pre-licensing education is no longer required to take the exam; it takes no position on prep courses. Preparing anyway is our recommendation — the exam did not get easier when the course requirement went away.
+- What is a Health Care Service Contractor and why does it appear on Washington's exam? A Health Care Service Contractor (HCSC) is an entity type defined under RCW 48.44 that provides health care services directly to subscribers rather than paying indemnity benefits. HCSCs are regulated separately from traditional health insurance companies and from HMOs (RCW 48.46), under their own statutory chapter. It is not an exclusively Washington category — Oregon regulates health care service contractors under ORS Chapter 750 — but few states do, so Washington's Disability exam tests it and generic national materials rarely cover it.
+- Does Washington have a state-based health exchange? Yes — Washington Healthplanfinder (wahealthplanfinder.org), run by the Washington Health Benefit Exchange rather than by the OIC. Unlike Arizona (which uses Healthcare.gov), Washington manages its own state-based marketplace. Producers selling individual market health insurance in Washington must complete Washington Healthplanfinder certification.
 - What's the passing score for Washington insurance exams? 70% — a single combined percentage score. Washington does not use a two-section independent scoring model like Arizona. The 70% applies to the exam as a whole.
 - What does "Disability" mean on a Washington insurance license? Washington licenses the health/disability line as "Disability" rather than "Accident & Health" or "A&H." The scope is the same as other states' A&H line — covering health insurance, disability income, long-term care, and related products. It's a terminology distinction reflecting Washington's regulatory framework.
 

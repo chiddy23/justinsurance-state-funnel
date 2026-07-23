@@ -89,7 +89,7 @@ When you arrive at the exam center, take a moment to breathe deeply. Remind your
 Below are five questions that often come up for first-time test-takers in Colorado:
 
 1.  “What scoring do I need to pass the Colorado insurance license exam?”  
-    You typically need a minimum passing score of 70%. Check the Colorado Division of Insurance website for any updates or exam-specific requirements.
+    Colorado’s passing standard is a scaled score of 70. Pearson VUE converts your raw score onto a 0–100 scale, and the Colorado Insurance Licensing Candidate Handbook is explicit that the reported figure “is neither the number of questions you answered correctly nor the percentage of questions you answered correctly”—so 70 is a competency standard, not 70% of the items on your form. Numeric scores are only reported to candidates who fail, so a passing report simply confirms that you passed. Confirm the current standard in the Pearson VUE Colorado candidate handbook and on the Colorado Division of Insurance website before you test.
 2.  “How many times can I retake the exam if I fail?”  
     You can retake the exam multiple times, though each additional attempt usually comes with a separate exam fee. Use any failed attempt as a learning opportunity to target your weak areas.
 3.  “Is pre-licensing education required in Colorado?”  

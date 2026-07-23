@@ -40,7 +40,7 @@ This means you can't "bank" ethics hours to skip the requirement later. Plan for
 
 Insurance is one of the most trust-dependent industries there is. Agents hold significant responsibility — they guide financial decisions affecting decades of clients' lives, handle sensitive personal and medical information, and process claims that change families' trajectories. When the trust underlying those relationships breaks down, it harms clients, insurers, and the industry as a whole.
 
-South Carolina requires ethics CE to make sure licensed professionals regularly revisit the standards that define responsible conduct. It's also a safeguard against the problem areas that come up repeatedly in SCDOI enforcement actions — misrepresentation, unsuitable sales, replacement violations, and undisclosed conflicts of interest.
+South Carolina requires ethics CE to make sure licensed professionals regularly revisit the standards that define responsible conduct. It's also a safeguard against the conduct that puts a producer license at risk under South Carolina law — misrepresentation, unsuitable sales, replacement violations, and undisclosed conflicts of interest.
 
 Ethics isn't an abstract philosophical requirement. It's practical career protection.
 
@@ -82,9 +82,9 @@ Claims cooperation. When agents are called to help with claims, how to genuinely
 
 ## Why This Matters for Your Career
 
-Ethics violations aren't just abstract concerns. They're the most common reason agents face license suspension or revocation in South Carolina.
+Ethics violations aren't just abstract concerns. Under S.C. Code Ann. § 38-43-130, the Director can place a producer on probation, suspend or revoke the license, refuse to reissue it, or impose an administrative penalty instead of taking the license.
 
-Most agents who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical line that their ethics CE was literally designed to prevent.
+The behaviors that put a license at risk — misrepresentation, unsuitable sales, mishandling client funds, and undisclosed conflicts of interest — are exactly what ethics CE is built to help you recognize and avoid.
 
 Taking ethics CE seriously is one of the cheapest forms of career insurance available.
 

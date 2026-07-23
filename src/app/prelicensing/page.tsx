@@ -1,7 +1,8 @@
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, pleRequirement } from "@/lib/prelicensing-status";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
@@ -46,6 +47,61 @@ const SERVED_PRELICENSING_PENDING = SERVED_PRELICENSING_STATES.filter(
 );
 const SERVED_PRELICENSING_APPROVED_COUNT =
   SERVED_PRELICENSING_STATES.length - SERVED_PRELICENSING_PENDING.length;
+
+// ---------------------------------------------------------------------------
+// COURSE-FORMAT FACTS — derived from states.ts, never retyped.
+//
+// This national page previously asserted four things the per-state data
+// contradicts. Each is now computed from the same records the state pages
+// render, so the copy self-corrects instead of drifting:
+//
+//  1. "40 to 60 hours" for combined L&H. Colorado mandates 50 hours PER LINE
+//     = 100 combined, so the stated ceiling understated a Colorado buyer's
+//     requirement by 40 hours. Real spread: 12 (CA) to 100 (CO), mode 40.
+//  2. "One exam covering both lines." False in every state flagged
+//     noCombinedExam — each line is tested separately, with two exam fees.
+//     (Use the per-record flag, NOT the NO_COMBINED_EXAM_STATES constant in
+//     states.ts, which is stale — it omits AR, IL and NC.)
+//  3. "100% self-paced." Illinois mandates live, attendance-verified webinar
+//     hours (classroomWebinarHours); California and Minnesota enforce
+//     monitored seat time that cannot be accelerated. Those two are the only
+//     seat-time states sitewide — verified against every rendered state page,
+//     2026-07-20 — and there is no data field for it, hence prose.
+//  4. "No deadlines." Every record carries a fixed courseAccessDays window.
+// ---------------------------------------------------------------------------
+const LH_HOURS: { name: string; hours: number }[] = [];
+for (const s of SERVED_PRELICENSING_STATES) {
+  const req = pleRequirement(s.prelicensing?.lifeAndHealth?.hours);
+  // Wisconsin has no combined license at all, so it has no combined hour figure.
+  if (req.required) LH_HOURS.push({ name: s.name, hours: req.hours });
+}
+const LH_MIN = LH_HOURS.reduce((lo, e) => (e.hours < lo.hours ? e : lo));
+const LH_MAX = LH_HOURS.reduce((hi, e) => (e.hours > hi.hours ? e : hi));
+/** Most common combined-L&H hour requirement among the states that mandate it. */
+const LH_MODE_HOURS = (() => {
+  const counts: Record<number, number> = {};
+  for (const e of LH_HOURS) counts[e.hours] = (counts[e.hours] ?? 0) + 1;
+  return Object.keys(counts)
+    .map(Number)
+    .sort((a, b) => counts[b] - counts[a] || a - b)[0];
+})();
+
+const NO_COMBINED_EXAM_STATES_SERVED = SERVED_STATES.filter((s) => s.noCombinedExam);
+const NO_COMBINED_EXAM_ABBRS = NO_COMBINED_EXAM_STATES_SERVED.map((s) => s.abbreviation).join(", ");
+
+/** Shortest access window across all records — uniform at 30 today, and taking
+ *  the minimum keeps this national claim true if any state ever differs. */
+const COURSE_ACCESS_DAYS = Math.min(
+  ...ALL_STATES.map((s) => Number(s.courseAccessDays)).filter((n) => Number.isFinite(n) && n > 0)
+);
+
+const IL_STATE = STATES["illinois"];
+const IL_LIVE_HOURS = IL_STATE?.classroomWebinarHours;
+const IL_LINE_REQ = pleRequirement(IL_STATE?.prelicensing?.life?.hours);
+const IL_LIVE_PHRASE =
+  IL_LIVE_HOURS && IL_LINE_REQ.required
+    ? `Illinois requires ${IL_LIVE_HOURS} of the ${IL_LINE_REQ.hours} hours per line of authority to be completed as live, attendance-verified webinar sessions`
+    : "Illinois requires part of your hours as live, attendance-verified webinar sessions";
 
 /** "A", "A and B", "A, B, and C" — for naming pending states in prose. */
 const formatStateNames = (states: { name: string }[]): string => {
@@ -98,7 +154,7 @@ const faqs = [
   {
     question: "How long does prelicensing take to complete?",
     answer:
-      "Most students complete their prelicensing course in 1 to 3 weeks studying part-time. The required hours vary by state and line of authority — life-only courses average around 20 hours, while combined life and health courses may require 40 to 60 hours depending on your state. Because our courses are fully self-paced, you can accelerate or spread out your study as needed.",
+      `Most students complete their prelicensing course in 1 to 3 weeks studying part-time. The required hours vary by state and line of authority — life-only courses average around 20 hours, while combined life and health courses range from ${LH_MIN.hours} hours (${LH_MIN.name}) to ${LH_MAX.hours} hours (${LH_MAX.name}), with ${LH_MODE_HOURS} hours the most common requirement. You can spread your study across your ${COURSE_ACCESS_DAYS}-day course access window; California and Minnesota require monitored seat time, so those courses cannot be completed in less than the state-required hours.`,
   },
   {
     question: "Do I need prelicensing before taking the state exam?",
@@ -108,7 +164,7 @@ const faqs = [
   {
     question: "What happens if I don't pass the licensing exam?",
     answer:
-      "JustInsurance backs every prelicensing course with a pass guarantee in eligible states (the guarantee is not offered in Ohio, Illinois, or West Virginia). If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.",
+      `JustInsurance backs every prelicensing course with a pass guarantee in eligible states (the guarantee is not offered in ${passGuaranteeExcludedLabel()}). If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. Claims require your official score report from the failed first attempt, submitted within 30 days of the exam. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.`,
   },
 ];
 
@@ -116,7 +172,11 @@ const stats = [
   { value: "$199", label: "Flat course price", sub: "No hidden fees or subscriptions" },
   { value: "93%", label: "First-attempt pass rate", sub: "Among students who complete the course" },
   { value: String(SERVED_STATE_COUNT), label: "States covered", sub: PRELICENSING_APPROVAL_SUB },
-  { value: "1–3 wks", label: "Avg. completion time", sub: "Fully self-paced, no deadlines" },
+  {
+    value: "1–3 wks",
+    label: "Avg. completion time",
+    sub: `Self-paced within your ${COURSE_ACCESS_DAYS}-day access window (Illinois includes scheduled live webinars)`,
+  },
 ];
 
 const videoSchema = {
@@ -218,10 +278,10 @@ export default function PrelicensingPage() {
             Insurance Prelicensing Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-4 max-w-2xl mx-auto">
-            Complete your state-required prelicensing education online for $199. Self-paced and backed by our pass guarantee in eligible states. Available in {SERVED_STATE_COUNT} states (all except New York) — and {PRELICENSING_APPROVAL_PHRASE}.
+            Complete your state-required prelicensing education online for $199. Self-paced in most states and backed by our pass guarantee in eligible states. Available in {SERVED_STATE_COUNT} states (all except New York) — and {PRELICENSING_APPROVAL_PHRASE}.
           </p>
           <p className="text-sm text-blue-200/80 mb-8 max-w-2xl mx-auto">
-            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-white">
               See guarantee terms
             </Link>
@@ -250,7 +310,7 @@ export default function PrelicensingPage() {
               Insurance prelicensing is state-required education in the states that mandate it &mdash; 17 of the 49 states we serve. Where it is required you must complete it before sitting for the state licensing exam; in the remaining states a prelicensing course is optional exam preparation that most successful candidates still take. In the states that do require it, the Department of Insurance sets the required number of study hours — typically between 20 and 40 hours — and defines the topics that must be covered, including life insurance concepts, health insurance products, policy structures, annuities, federal and state regulations, and professional ethics.
             </p>
             <p>
-              JustInsurance prelicensing courses are fully online and 100% self-paced. You study through video lessons, reading modules, and chapter quizzes, then take a final practice exam that mirrors your state&apos;s actual licensing test. When you pass, you receive a completion certificate — state-recognized in the states that approve prelicensing providers, where it unlocks your eligibility to sit for the official exam.
+              JustInsurance prelicensing courses are delivered fully online and are self-paced in most states. {IL_LIVE_PHRASE}, and California and Minnesota enforce monitored seat time that cannot be accelerated. You study through video lessons, reading modules, and chapter quizzes, then take a final practice exam that mirrors your state&apos;s actual licensing test. When you pass, you receive a completion certificate — state-recognized in the states that approve prelicensing providers, where it unlocks your eligibility to sit for the official exam.
             </p>
             <p>
               Where a state requires prelicensing, the requirement applies to each line of authority you want to carry — life insurance, health insurance, or both. In the 32 states that do not require it, a course is optional exam preparation. The right course depends on the license type your state requires and the products you plan to offer clients. Use the state grid below to find the course options available in your state.
@@ -350,7 +410,7 @@ export default function PrelicensingPage() {
             </Link>
             <Link href="/life-and-health-insurance-license" className="block p-6 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
               <div className="font-bold text-navy mb-2">Life &amp; Health License</div>
-              <div className="text-sm text-gray-600">The combined L&amp;H license — one exam covering both lines, and the most common starter license.</div>
+              <div className="text-sm text-gray-600">The combined L&amp;H license — one exam covering both lines in most states, though {NO_COMBINED_EXAM_STATES_SERVED.length} states ({NO_COMBINED_EXAM_ABBRS}) test each line separately.</div>
             </Link>
           </div>
           <div className="mt-6 text-center text-sm text-gray-600">

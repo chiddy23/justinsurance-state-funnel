@@ -58,7 +58,9 @@ Accepting or rejecting the claim within 15 business days after receiving all req
 
 Making payment within 5 business days of notifying the claimant that the claim has been accepted
 
-If an insurer violates these deadlines without reasonable cause, the policyholder may be entitled to additional damages, including 18% annual interest on the claim amount plus attorney's fees.
+If an insurer violates these deadlines without reasonable cause, the policyholder may be entitled to additional damages, including 18% annual interest on the claim amount plus attorney's fees under § 542.060 (property-damage claims governed by Chapter 542A instead use a variable rate — the Finance Code § 304.003 judgment rate plus five percent).
+
+Know the limits of this subchapter. The prompt-payment deadlines cover first-party claims — claims the insured, policyholder, or a named beneficiary makes under their own policy and that the insurer pays directly to them. And Tex. Ins. Code § 542.053 carves several products out entirely: workers' compensation, mortgage guaranty, title, fidelity/surety/guaranty bonds, marine insurance (as defined by § 1807.001), and guaranty associations under Chapter 2602. The subchapter also does not reach HMOs except as provided by § 1271.005(c), or claims governed by Subchapter C of Chapter 1301. If a client asks you about the 15-day clock on a workers' comp or title claim, the answer is that a different set of rules governs it.
 
 ## What This Means for Agents
 
@@ -74,9 +76,9 @@ Recognizing red flags when placing coverage. Some carriers have better claims-ha
 
 - Can an agent be held liable for unfair claims practices? Unfair claims practices are typically directed at the insurer and adjusters handling claims, not selling agents. However, agents can face liability if they misrepresent coverage at the time of sale in ways that affect later claims.
 - How does a client file a complaint about unfair claims practices? Complaints go to TDI's Consumer Protection division through the TDI website at tdi.texas.gov. The client can file online, by mail, or by phone.
-- What penalties can insurers face for violations? Penalties include fines, the 18% interest and attorney fees under the Prompt Payment Act, additional bad-faith damages in civil court, and regulatory action up to license suspension or revocation.
+- What penalties can insurers face for violations? Penalties include fines, the statutory interest and attorney fees under the Prompt Payment Act (18% a year, or the variable Chapter 542A rate for property-damage claims), additional bad-faith damages in civil court, and regulatory action up to license suspension or revocation.
 - Is the 15-day response requirement a hard deadline? It's a statutory requirement with some room for reasonable cause extensions. Chronic or unjustified missed deadlines create liability for the insurer.
-- Do these rules apply to all lines of insurance? Yes. Chapter 542 applies broadly to all types of insurance regulated by TDI, including life, health, property, casualty, and related lines.
+- Do these rules apply to all lines of insurance? Not quite. The unfair-practices standards reach most insurers TDI regulates, but the Prompt Payment of Claims subchapter (Subchapter B, Chapter 542) expressly does not apply to workers' compensation, mortgage guaranty, title, fidelity/surety/guaranty bonds, marine insurance, or Chapter 2602 guaranty associations — and it reaches HMOs only as provided by § 1271.005(c) and excludes claims governed by Subchapter C, Chapter 1301. See Tex. Ins. Code § 542.053. It also covers first-party claims, not third-party liability claims made against your insured.
 
 ## Know the Rules That Protect Your Clients
 

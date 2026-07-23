@@ -118,7 +118,7 @@ Top producers: $200,000–$500,000+. Commercial lines producers with large books
 
 ## Cost of Living Context
 
-Minnesota's cost of living provides a favorable context for insurance producer earnings compared to coastal markets with similar income levels. Housing expenses are about 4% above the national average in the Twin Cities — significantly below coastal metros. A Minneapolis insurance producer earning $95,000 has substantially more purchasing power than a producer earning $95,000 in San Francisco or New York. Minnesota's state income tax — a flat 4.4% (the 5th tier for the highest earners reaches 9.85%) — reduces after-tax income compared to states without income tax, but the overall cost-of-living offset remains favorable compared to most high-earning insurance markets.
+Minnesota's cost of living provides a favorable context for insurance producer earnings compared to coastal markets with similar income levels. Housing expenses are about 4% above the national average in the Twin Cities — significantly below coastal metros. A Minneapolis insurance producer earning $95,000 has substantially more purchasing power than a producer earning $95,000 in San Francisco or New York. Minnesota's state income tax is progressive — four brackets of 5.35%, 6.80%, 7.85%, and 9.85%, with the 9.85% top rate reaching only the highest earners — which reduces after-tax income compared to states without an income tax, but the overall cost-of-living offset remains favorable compared to most high-earning insurance markets.
 
 ## Frequently Asked Questions
 

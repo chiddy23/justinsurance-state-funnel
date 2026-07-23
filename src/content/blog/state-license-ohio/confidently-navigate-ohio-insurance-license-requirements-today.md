@@ -70,7 +70,7 @@ Licensing exam
 
 About 2–3 hours
 
-$40–$70 per exam
+$49 per exam (flat rate, every line)
 
 Fingerprinting
 

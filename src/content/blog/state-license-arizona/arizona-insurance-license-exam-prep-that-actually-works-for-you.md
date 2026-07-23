@@ -79,7 +79,7 @@ Below are five of the most common questions about the Arizona insurance license 
 1.  How do I register for the Arizona insurance exam?  
     You can register online through your chosen exam provider’s website. Most providers let you set an exam date and test location based on availability.
 2.  How much does the licensing exam cost?  
-    Arizona's PSI exam fee is a flat $50 per attempt, regardless of which line of authority you're testing for.
+    The PSI exam fee depends on the line of authority you sit for, so check the fee before you register. Per the PSI Arizona candidate information bulletin (rev. June 11, 2026), single lines such as Life (series 13-31), Accident and Health or Sickness (13-32), Property (13-42) and Personal Lines (13-44) are $50 per attempt, while the combined Life, Accident and Health or Sickness exam (13-33) and the combined Property and Casualty exam (13-34) are $59 per attempt. Casualty on its own (13-43) is $42. The fee is charged per attempt, is non-refundable, and is valid for one year from the date you pay it. Confirm the current amount in the [PSI Arizona candidate bulletin](https://test-takers.psiexams.com/anzins) before you pay, since fees can change.
 3.  Do I need to complete a [pre-licensing](/arizona/prelicensing) course?  
     Arizona does not currently mandate a set number of classroom hours for pre-licensing, but taking a course is strongly recommended. Classes help you focus your study and get updated info on state regulations.
 4.  What if I fail on my first try?  

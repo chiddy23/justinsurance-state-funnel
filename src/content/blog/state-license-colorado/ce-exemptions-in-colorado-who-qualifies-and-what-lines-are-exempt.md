@@ -36,7 +36,7 @@ A newly licensed producer who sells claims-made policies must complete the 2-hou
 
 The specialty training prerequisites are not CE in the conventional biennial sense — they are product-specific prerequisites that activate at the point of selling. The CE exemption does not delay them.
 
-The practical implication: A producer who completes only [prelicensing](/colorado/prelicensing), passes the state exam, obtains their license, and immediately begins selling annuities without the Annuity Best Interest training has violated Colorado Regulation 4-1-8, even though their biennial CE is not yet required. "I'm exempt from CE" is an accurate statement about the 24-hour biennial requirement. It is not an accurate statement about specialty training prerequisites.
+The practical implication: A producer who completes only [prelicensing](/colorado/prelicensing), passes the state exam, obtains their license, and immediately begins selling annuities without the Annuity Best Interest training has violated Colorado Regulation 4-1-11 (Best Interest Obligations and Supervision in Annuity Transactions), even though their biennial CE is not yet required. "I'm exempt from CE" is an accurate statement about the 24-hour biennial requirement. It is not an accurate statement about specialty training prerequisites.
 
 ## Exemption 2: Non-Resident Producers — Home State CE Compliance Deemed Sufficient
 
@@ -84,7 +84,7 @@ Update the Division of Insurance promptly on changes to background information (
 
 ## What No Exemption Covers: The Renewal Fee and Renewal Deadline
 
-Every producer — newly licensed, non-resident, or limited lines exempt — must still renew their license by the last day of their birth month in their renewal year and pay the applicable renewal fee. The CE exemptions remove the CE completion obligation; they do not remove the renewal obligation. A newly licensed producer who skips renewal because they believe the CE exemption means they have nothing to do will find their license lapsed at the first renewal deadline. An exempt limited lines producer who lets the renewal slide will face the same reinstatement rules ($29/line penalty, one-year reinstatement window) as any other lapsed licensee.
+Every producer — newly licensed, non-resident, or limited lines exempt — must still renew their license by the last day of their birth month in their renewal year and pay the applicable renewal fee. The CE exemptions remove the CE completion obligation; they do not remove the renewal obligation. A newly licensed producer who skips renewal because they believe the CE exemption means they have nothing to do will find their license lapsed at the first renewal deadline. An exempt limited lines producer who lets the renewal slide will face the same reinstatement rules as any other lapsed licensee: a lapsed Colorado license can be reinstated within a one-year window by filing a reinstatement application and paying the applicable fee — there is no separate flat per-line late penalty — but once that one-year window closes, reinstatement is no longer available and a full new license (50-hour prelicensing plus the Pearson VUE exam) is required.
 
 ## Producer Scenarios: Applying the Exemptions Correctly
 

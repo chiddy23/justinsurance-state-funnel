@@ -22,51 +22,55 @@ Here's the complete breakdown of the South Carolina insurance exam format.
 
 ## Who Administers the Exam
 
-South Carolina insurance licensing exams are administered by an approved testing provider on behalf of the South Carolina Department of Insurance (SCDOI). You register, schedule, and take the exam at authorized testing centers throughout South Carolina.
+South Carolina insurance licensing exams are administered by Pearson VUE on behalf of the South Carolina Department of Insurance (SCDOI). You register, schedule, and take the exam at authorized testing centers throughout South Carolina.
 
 ## Exam Breakdown by License Type
 
-Life, Accident, and Health (Combined) License:
+The item counts and time limits below come straight from the Pearson VUE South Carolina Insurance Licensing Candidate Handbook. Every one of these exams reports the same passing standard: a score of 70 on Pearson VUE's 0–100 scale (see the scoring section below — that is not the same thing as getting 70% of the questions right).
 
-Approximately 150 scored questions
+Life, Accident, and Health (Combined) License — InsSC-LAH03:
 
-Approximately 2 hours 30 minutes
+140 items
 
-70% passing score
+150 minutes (2 hours 30 minutes)
 
-Life-Only License:
+Passing score: 70 (scaled score)
 
-Approximately 75-100 scored questions (specific count varies)
+Life-Only License — InsSC-Life01:
 
-Approximately 1 hour 30 minutes to 2 hours
+85 items
 
-70% passing score
+120 minutes (2 hours)
 
-Accident and Health Only License:
+Passing score: 70 (scaled score)
 
-Approximately 75-100 scored questions
+Accident and Health Only License — InsSC-AH02:
 
-Approximately 1 hour 30 minutes to 2 hours
+85 items
 
-70% passing score
+120 minutes (2 hours)
 
-Property and Casualty (Combined) License:
+Passing score: 70 (scaled score)
 
-Approximately 150 scored questions
+Property, Casualty, Surety and Marine (Combined) License — InsSC-PCSM04:
 
-Approximately 2 hours 30 minutes
+140 items
 
-70% passing score
+165 minutes (2 hours 45 minutes)
 
-Personal Lines License:
+Passing score: 70 (scaled score)
 
-Approximately 75-100 scored questions
+South Carolina also offers Property (InsSC-Prop04) and Casualty (InsSC-Cas06) as standalone exams — 80 items and 120 minutes each.
 
-Approximately 1 hour 30 minutes
+Personal Lines License — InsSC-Pers17:
 
-70% passing score
+105 items
 
-The combined Life, Accident, and Health exam is the most common for new agents pursuing life and health careers.
+120 minutes (2 hours)
+
+Passing score: 70 (scaled score)
+
+The combined Life, Accident, and Health exam is the most common for new agents pursuing life and health careers. Verify current counts and times in the handbook before you schedule — Pearson VUE revises the table periodically.
 
 ## What Types of Questions Appear
 
@@ -82,29 +86,33 @@ Partial credit opportunities
 
 Each question is either right or wrong. Every scored question is weighted equally.
 
-## Scored vs. Pilot Questions
+## Scored vs. Unscored Questions
 
-South Carolina exams include two types of questions:
-
-Scored questions. These count toward your passing score.
-
-Pilot (unscored) questions. Small number of experimental questions being tested for use on future exams. These don't count toward your score, and you won't know which ones are pilot questions.
+The counts published in the handbook are total items. Pearson VUE does not publish a scored/unscored breakdown for South Carolina, and you have no way to tell during the exam which items (if any) are being trialed for future forms.
 
 The safest approach is to treat every question as scored.
 
-## How the 70% Passing Score Works
+## How the Passing Score of 70 Actually Works
 
-Your score is based only on the scored questions. For a 150-question exam:
+This is the part candidates most often get wrong, so read it carefully: South Carolina does not pass you on the percentage of questions you answer correctly.
 
-105 correct answers = 70% = passing
+The Pearson VUE South Carolina candidate handbook is explicit about it. The passing score for every South Carolina insurance exam "is reported as a score of 70," and:
 
-104 correct answers = failing (just below the threshold)
+> "Examination scores range from 0 to 100, but should not be interpreted as the percentage or number of correct answers. For example if the passing score is 70, any score below 70 indicates how close the candidate came to passing, not the actual percentage or number of questions answered correctly."
 
-There's no curve, no rounding up, and no partial credit. You either meet or exceed 70%, or you don't pass.
+That 0–100 number is a **scaled score**. Pearson VUE statistically equates each exam form so that a slightly harder form doesn't punish you and a slightly easier one doesn't hand you a pass. The raw number of items you got right is converted onto the common scale before anything is reported.
+
+What that means in practice:
+
+You cannot compute a target like "I need 98 of 140 correct." The raw count that produces a scaled 70 shifts with the difficulty of the form you happen to draw.
+
+A score of 68 or 69 does not tell you that you missed by two questions. It tells you how close you came on the scale, nothing more.
+
+Chasing an exact raw threshold is the wrong study goal. Aim for solid command of every content area instead of a minimum number of right answers.
 
 ## Time Management
 
-With 2 hours 30 minutes and 150 scored questions, you have about 60 seconds per question — a reasonable pace that most prepared candidates find manageable.
+With 150 minutes and 140 items on the combined Life, Accident, and Health exam, you have just over 60 seconds per question — a reasonable pace that most prepared candidates find manageable.
 
 Most candidates finish with time to spare.
 
@@ -164,7 +172,7 @@ These percentages shift over time and aren't exact, but they give you a sense of
 
 Arrive at your testing center at least 30 minutes early
 
-Bring two forms of ID (one must be government-issued with photo)
+Bring one valid, unexpired, government-issued photo ID with your signature — the name must exactly match your exam registration
 
 Store personal items in a provided locker
 
@@ -202,8 +210,8 @@ Use your failed score report to focus study on weak content areas before retakin
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on the South Carolina Life, Accident, and Health exam? Approximately 150 scored questions plus a small number of unscored pilot questions. You have about 2 hours 30 minutes to complete all of them.
-- What's the passing score? 70% — answer at least 70% of scored questions correctly to pass.
+- How many questions are on the South Carolina Life, Accident, and Health exam? 140 items, with a 150-minute time limit, per the Pearson VUE South Carolina candidate handbook.
+- What's the passing score? A scaled score of 70. Pearson VUE reports scores on a 0–100 scale that, in the handbook's own words, "should not be interpreted as the percentage or number of correct answers" — so passing is not a matter of answering 70% of the questions correctly.
 - Can I bring a calculator? No. Personal calculators aren't allowed. The testing platform may include a basic on-screen calculator.
 - What happens if I run out of time? Unanswered questions count as wrong. Always guess rather than leaving blank. The exam auto-submits when time expires.
 - Can I flag questions and come back to them? Yes. The testing platform lets you flag questions and return before submitting. Use this strategy.

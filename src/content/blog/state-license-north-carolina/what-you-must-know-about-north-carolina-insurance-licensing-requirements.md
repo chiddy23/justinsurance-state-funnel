@@ -64,9 +64,23 @@ As of October 1, 2025, North Carolina House Bill 737 eliminated the mandatory pr
 
 When selecting a course provider, make sure they’re approved by the state. They’ll guide you through the topics such as policy provisions, state regulations, and ethical responsibilities you need to master. You’ll usually complete quizzes or final assessments within these programs to confirm you thoroughly understand the material. A good pre-licensing course should also provide helpful study strategies, real-life examples, and exam tips.
 
+## Apply through NIPR first — this is the step most people get backwards
+
+Here is the single most important sequencing rule in North Carolina, and the one that trips up candidates who follow generic national advice: you apply for the license *before* you take the exam, not after.
+
+North Carolina is one of only a handful of application-before-exam states. The Pearson VUE North Carolina Insurance Licensing Candidate Handbook puts it plainly under "Before making an examination reservation": candidates "MUST visit www.nipr.com to complete the license application and pay ALL associated fees." You cannot book a seat until that is done.
+
+Here is how it actually flows:
+
+1.  **Complete the electronic application at nipr.com** and pay the license, fingerprint, and processing fees by card, electronic check, or PayPal. If you answer "yes" to any screening question, upload your supporting documentation to the NIPR Attachment Warehouse.
+2.  **Wait for the authorization email from Pearson VUE.** It contains your "reserved" NPN (National Producer Number), which doubles as your North Carolina candidate ID, plus the start and end dates of your eligibility period. The handbook is blunt: candidates who do not have this information "will not be allowed to register for an examination."
+3.  **Watch your 6-month window.** Your license application is valid for six months. If your license has not been issued by the end date on your authorization email, you have to reapply through NIPR for a new eligibility period — so do not sit on the application while you study for half a year.
+
+Practically, this means you should apply as soon as you have committed to a line of authority and have a realistic study plan, not once you feel exam-ready.
+
 ## Prepare for the licensing exam
 
-North Carolina requires you to pass a licensing exam before you can move forward. Although it might feel nerve-racking, thinking of it as a milestone in your journey keeps you motivated. Once you’ve finished preparing — whether through a pre-licensing course or self-study — sit down with your course materials and any practice exams you’ve received.
+North Carolina requires you to pass a licensing exam before your pending application can be approved. Although it might feel nerve-racking, thinking of it as a milestone in your journey keeps you motivated. Once you’ve finished preparing — whether through a pre-licensing course or self-study — sit down with your course materials and any practice exams you’ve received.
 
 Exam questions tend to focus on key definitions, policy types, and regulatory rules. Practicing with sample tests can highlight areas where you need more review, whether it’s understanding policy exclusions or state-specific regulations. Spend a little time each day reviewing your notes and vocabulary so you don’t cram everything at the last minute.
 
@@ -74,21 +88,23 @@ Remember to also invest in mental preparation. Sleep is your friend here, and so
 
 ## Gather your documents
 
-Once you feel ready for the exam, check if you need to submit any specific paperwork to the testing provider. If you completed a pre-licensing course, you'll receive a certificate with the course name and your completion date—keep it easily accessible, though it's no longer required to schedule your exam.
+Before you can book a seat, you need your Pearson VUE authorization email in hand — the one carrying your reserved NPN and your eligibility dates. Save it somewhere you can find it, because you will pull details straight out of it during the reservation process. If you completed a pre-licensing course, keep the completion certificate for your records too, though it is no longer required to schedule your exam.
 
-Be aware that the state may require you to complete a background check or submit fingerprints while applying for your license. Requirements can vary, so take a moment to read the official instructions before scheduling your exam. Keeping your documents and IDs in one folder or bag will make the exam day less hectic.
+North Carolina also requires a criminal background check with electronic (Live Scan) fingerprints for the major producer lines. You print the fingerprint package from the link in your NIPR email, take it to a local law enforcement office that does Live Scan, and upload the signed pages back to the NIPR Attachment Warehouse — North Carolina routes producer fingerprinting through local police departments rather than a commercial vendor like IdentoGO. Keeping your documents and IDs in one folder will make exam day less hectic.
 
 ## Register and schedule the exam
 
-The next step is registering for the licensing exam, which is usually done through an official testing provider approved by the North Carolina Department of Insurance. You’ll pay an exam fee, choose a date, and test location. Try to schedule at a time when you’re least likely to be rushed or distracted, like a weekday morning if that’s an option.
+With your authorization email in hand, you can register for the exam through Pearson VUE, which administers North Carolina's insurance licensing exams. You'll pay $45 per exam attempt at the time you make the reservation, then choose a date and test location. Reservations must be made at least 24 hours ahead — walk-ins are not available — so try to schedule at a time when you're least likely to be rushed or distracted, like a weekday morning if that's an option.
 
-If you live far from a test center, you might have to travel, so plan your route ahead of time. Test centers have specific policies about arrival times—arrive early. This buffer time will help you calm your nerves and let you focus on recalling what you’ve studied, instead of worrying about directions or parking. Bring two valid forms of identification, and remember that you usually can’t carry personal belongings or study materials into the exam room.
+If you live far from a test center, you might have to travel, so plan your route ahead of time. Pearson VUE asks candidates to report to the test center 30 minutes before the exam to complete check-in, so build that into your morning. Bring two valid forms of current signature identification — the primary one government-issued with a photo — and remember that you can't carry personal belongings or study materials into the exam room. One more deadline to respect: you must pass your exam before the end date of your six-month eligibility period.
 
-After you complete your exam, you’ll learn whether you passed. Sometimes results come instantly, while other times you might wait a short period. Passing means you’re one step closer to becoming a licensed insurance professional. If you didn’t pass, use the feedback from the exam to zero in on your weaker areas and schedule a retake as soon as you feel ready.
+You leave the test center with an official score report in hand — no waiting. Passing candidates get a "pass" result; candidates who fail receive a numeric score plus a diagnostic breakdown showing which content areas came up short. If you didn't pass, use that diagnostic to zero in on your weaker areas. You must wait 24 hours before scheduling a retake, and each attempt costs another $45.
 
 ## Plan your next steps
 
-Once you pass the exam, you’ll need to apply for your license with the North Carolina Department of Insurance. This application involves a fee and may require you to submit final documentation like your passing exam notice and proof of pre-licensing education if you completed a course. Double-check the instructions closely so you don’t miss any crucial details.
+Because you already applied, there is no second application to file after you pass. Pearson VUE transmits your exam result to NIPR, where it is matched to the application you have pending, and NIPR forwards the file electronically to the North Carolina Licensing Office of Pearson VUE for review. What you do need to make sure is complete: your fingerprint packet and SBI/FBI criminal history (where required), your NIPR application and fees, and any documents triggered by a "yes" answer on the screening questions. An incomplete application is withdrawn after six months.
+
+Once everything checks out and the license is voluntarily issued, you'll get an email telling you to print your own license — typically within 48 to 72 hours of the file being complete.
 
 As you prepare to take on clients, keep in mind that [North Carolina continuing education](/north-carolina/continuing-education) is a key part of maintaining your license. Over time, you’ll need to update your knowledge on new regulations, products, and ethical guidelines. It’s a good habit to stay curious and always keep learning. Your commitment to ongoing professional development will give you—and your clients—greater peace of mind.
 

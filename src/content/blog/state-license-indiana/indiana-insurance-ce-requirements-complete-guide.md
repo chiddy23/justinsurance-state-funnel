@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: complete guide.
 ---
 
-Indiana's CE framework requires 24 hours every 2 years with 3 mandatory Ethics hours — the same core structure as Ohio, Minnesota, New Jersey, and Maryland. Indiana's distinctive CE features include: the 2-hour professional organization participation credit (IC 27-1-15.7-2.4, added by HEA 1329, 2023 — active participation in state or national professional insurance organizations counts up to 2 hours toward CE); the July 1, 2024 Annuity Best Interest training (760 IAC 1-72-4.5 — 4-hour one-time course for life line producers before selling annuities); and the $160 late renewal fee (4x the $40 renewal — strongest financial incentive for timely renewal among comparison states). CE is tracked in Sircon or NIPR, with certificates retained for audit purposes. Here's the complete guide.
+Indiana's CE framework requires 24 hours every 2 years with 3 mandatory Ethics hours — the same core structure as Ohio, Minnesota, New Jersey, and Maryland. Indiana's distinctive CE features include: the 2-hour professional organization participation credit (IC 27-1-15.7-2.4, added by HEA 1329, 2023 — active participation in state or national professional insurance organizations counts up to 2 hours toward CE); the July 1, 2024 Annuity Best Interest training (760 IAC 1-72-4.5 — a one-time 4-hour course before selling annuities, which drops to a one-time 1-hour update for producers who had already completed Indiana's earlier annuity training); and the steep late-renewal cost — a $120 reinstatement penalty (3x the $40 renewal fee) for a $160 total to reinstate within 12 months, one of the strongest financial incentives for timely renewal among comparison states. CE is tracked in Sircon or NIPR, with certificates retained for audit purposes. Here's the complete guide.
 
 ## The Basic Framework
 
@@ -48,11 +48,11 @@ Important: This is 2 hours of the 24-hour total — not in addition to 24 hours.
 
 Annuity Best Interest Training (760 IAC 1-72-4.5; eff. July 1, 2024):
 
-One-time 4-hour IDOI-approved course before selling annuities
+One-time 4-hour IDOI-approved course before selling annuities — but check the two paths below before you buy a course, because producers already trained under Indiana's prior annuity rule owe only a 1-hour update, not the full 4 hours
 
-Life line producers who obtained the line before July 1, 2024: must complete within 6 months of July 1, 2024
+Life line producers who held the line on July 1, 2024: complete the 4-hour course within 6 months of July 1, 2024 — but producers who had already completed a department-approved annuity training course before that date could instead take a one-time 1-hour update course on the new best-interest standard. 760 IAC 1-72-4.5 sets the window at six months from July 1, 2024; IDOI's May 23, 2024 producer notification states the deadline as January 2, 2025
 
-Life line producers who obtain the line after July 1, 2024: must complete within 6 months of obtaining the line
+Life line producers who obtain the line on or after July 1, 2024: must complete the one-time 4-hour best-interest course before engaging in the sale of any annuity in Indiana — there is no grace period, so do not write an annuity until the course is done
 
 Contact IDOI: AgentLicensing@idoi.in.gov or (800) 622-4461 for approved courses
 
@@ -74,7 +74,7 @@ Verify current IDOI hour requirements at in.gov/idoi
 
 Counts toward CE
 
-All specialty training counts toward the 24-hour CE requirement.
+Indiana's specialty training is delivered by IDOI-approved CE providers and reports to Sircon or NIPR like any other approved course, so these hours normally post to your CE transcript for the cycle in which you complete them. Confirm each course's credit on your transcript before you submit renewal rather than assuming it landed.
 
 ## Renewal Process
 
@@ -88,15 +88,15 @@ Pay $40 renewal fee
 
 Receive updated license confirmation
 
-Renewal deadline: Last day of birth month every 2 years. Late renewal fee: $160 — pay on time; Indiana's late fee is 4x the standard renewal.
+Renewal deadline: Last day of birth month every 2 years. Miss it and reinstatement costs a $120 penalty on top of the $40 renewal — $160 total to reinstate within 12 months (after 12 months you must relicense from scratch). Pay on time: Indiana's reinstatement penalty is 3x the standard renewal fee.
 
 ## Indiana CE vs. Comparison States
 
 ## 5 Frequently Asked Questions
 
-- What is Indiana's professional organization CE credit and how does it work? IC 27-1-15.7-2.4 (added by HEA 1329, 2023) allows the Commissioner to apply up to 2 hours of CE credit per 2-year period for producers who actively participate in state or national professional insurance organizations — including service on a Board of Directors or in other active roles. To claim: provide a signed, dated letter from the organization's designee confirming the producer's participation, specific committee, and active status. Contact IDOI at [email protected] for current claim procedures.
-- Does the Annuity Best Interest training count toward CE? Yes — the 4-hour Annuity Best Interest training course (760 IAC 1-72-4.5) counts toward the 24-hour CE requirement in the renewal cycle completed. For a life producer completing the training in the first renewal period after July 1, 2024: the 4 hours of annuity training + 3 hours of Ethics + 17 additional hours = 24 hours total.
-- How does Indiana's $160 late renewal fee compare to other states? Indiana's $160 late renewal fee is 4x the standard $40 renewal — one of the most significant late renewal penalties among comparison states. Maryland's late renewal is $169 ($54 + $15 + $100 reinstatement); Colorado's is different; Minnesota's is $150 (within 1 year). Indiana's $160 creates the strongest financial incentive for timely renewal among comparison states.
+- What is Indiana's professional organization CE credit and how does it work? IC 27-1-15.7-2.4 (added by HEA 1329, 2023) allows the Commissioner to apply up to 2 hours of CE credit per 2-year period for producers who actively participate in state or national professional insurance organizations — including service on a Board of Directors or in other active roles. To claim: provide a signed, dated letter from the organization's designee confirming the producer's participation, specific committee, and active status. Contact IDOI at AgentLicensing@idoi.in.gov for current claim procedures.
+- Does the Annuity Best Interest training count toward CE, and is it always 4 hours? The training is offered through IDOI-approved CE providers and reports to Sircon or NIPR like any other approved course, so the hours normally post to your CE transcript for the cycle in which you complete them — verify the posting before you renew. It is not always 4 hours, and that changes the arithmetic. A producer who owes the full one-time 4-hour course can count 4 hours of annuity training + 3 hours of Ethics + 17 general hours to reach 24. A producer who had already completed Indiana's earlier annuity training owed only the one-time 1-hour update, which contributes 1 hour — leaving 3 hours of Ethics + 20 general hours to reach 24. Confirm which path applies to you with IDOI at AgentLicensing@idoi.in.gov before you plan the cycle.
+- How does Indiana's late-renewal cost compare to other states? Miss the deadline and Indiana charges a $120 reinstatement penalty on top of the $40 renewal — $160 total to reinstate within 12 months. That $120 penalty is 3x the standard renewal fee, one of the most significant among comparison states. Maryland's total to reinstate is about $169 ($54 + $15 + $100 reinstatement); Minnesota's late renewal is $150 (within 1 year). Indiana's $160 total creates a strong financial incentive for timely renewal.
 - Is CE reported to Sircon or NIPR? Both Sircon and NIPR are used for Indiana CE tracking — the same platforms used for license applications and renewals. CE providers report completions to Sircon or NIPR, which IDOI accesses for CE compliance verification. Producers should verify their CE transcript in Sircon or NIPR before submitting renewal to confirm all hours are properly recorded.
 - How does Indiana's CE structure compare to NJ or MN where any line counts? Indiana's CE requirements — verify current line-specific vs. general content requirements at in.gov/idoi or by contacting IDOI at AgentLicensing@idoi.in.gov. States like MN and NJ allow any approved course to count for non-Ethics CE; Indiana may have specific content requirements. Always verify current IDOI CE content requirements before enrolling.
 

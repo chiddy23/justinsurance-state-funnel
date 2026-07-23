@@ -60,9 +60,21 @@ Your CE must be completed before your license renewal date. There is no grace pe
 
 ## Carryover Credits
 
-Virginia does not allow excess CE credits to carry forward. Credits completed in excess of your requirement in the current biennium do not apply to the next biennium — you must complete your full 16 or 24 hours fresh in each renewal period.
+Virginia does allow excess CE credits to carry forward — but only one cycle deep, and only if you renew on time. Va. Code 38.2-1867(D) provides that an agent with excess credit hours accumulated during a biennium "may carry such hours forward to the next biennium only," and the Virginia Insurance Continuing Education Board — whose program is administered by Pearson VUE — posts those hours to your record automatically. You do not file anything to claim them.
 
-You may not take the same course twice within a single biennium for credit.
+Three limits define the rule:
+
+One cycle only. Hours carried into the next biennium cannot be carried a second time into the biennium after that.
+
+You must renew, not reinstate. If you miss your renewal and have to reinstate the license instead, the excess credits are forfeited — the CE Board's agent FAQ and provider handbook both say carried-over credits are lost if you fail to renew within the renewal period.
+
+Public adjusters are excluded. The carry-forward provision does not apply to public adjuster CE; excess public adjuster credits are not carried over to the next renewal period.
+
+The 75% company-sponsored cap interacts with this the same way: if you earn more than 75 percent of your credits from company- or agency-sponsored courses, the excess above the cap carries forward to the next renewal cycle provided you have otherwise complied with all CE requirements — those hours are not simply lost.
+
+One caution worth knowing: the Bureau of Insurance's own CE requirements web page still carries a summary line stating that excess CE credits will not be carried forward, which conflicts with both the statute and the CE Board's current agent FAQ. Your CE transcript — viewable at VirginiaInsuranceCE.com or through Sircon — is the operative record, so confirm your carried-over balance there before you plan a cycle around it.
+
+You may not take the same course twice within a single biennium for credit, though you may take the same course again and earn credit in a later renewal cycle.
 
 ## Specialty Requirements
 
@@ -88,7 +100,7 @@ For the 16-hour single license requirement, all CE hours must be relevant to the
 
 What happens if I complete more than my required CE hours?
 
-Excess CE credits above your biennial requirement do not carry forward — Virginia requires you to complete your full 16 or 24 hours fresh in each renewal period. There is no benefit to over-completing hours in one cycle to reduce the load in the next. What over-completing early does help with is timing: finishing your hours well before your renewal deadline gives course providers time to report completions to the CE tracking system before your license expiration, rather than scrambling in the final weeks before your renewal date.
+They carry forward — one renewal cycle only. Va. Code 38.2-1867(D) lets an agent with excess credit hours in a biennium carry those hours into the next biennium, and the CE Board's administrator posts them to your record automatically, so there is nothing to file. The limits are narrow: the hours cannot be carried a second time, they are forfeited if you let the license lapse and reinstate rather than renew, and the provision does not apply to public adjusters. Note that the Bureau of Insurance's CE requirements page still states the opposite, so verify the balance on your CE transcript rather than assuming the credit is there. Separately from carryover, finishing your hours well before your renewal deadline gives course providers time to report completions to the CE tracking system before your license expiration, rather than scrambling in the final weeks before your renewal date.
 
 How do I check my Virginia CE transcript?
 

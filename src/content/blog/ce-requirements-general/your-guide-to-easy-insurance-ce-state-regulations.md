@@ -25,14 +25,14 @@ If you’ve ever wondered which courses to take, when to complete them, or how e
 
 In the insurance field, you’re expected to keep learning. Regulators want to see that you’re up to date on new policy guidelines, ethical considerations, and evolving products. By fulfilling your [CE requirements](/continuing-education), you not only safeguard your license but also provide better service to your clients.
 
-Beyond preventing license suspensions, continuing education helps you sharpen your skills. From learning about cutting-edge life insurance policies to mastering property and casualty trends, fresh expertise can translate into better sales, loyal customers, and a positive reputation among industry peers.
+Beyond keeping your license from lapsing at renewal time, continuing education helps you sharpen your skills. From learning about cutting-edge life insurance policies to mastering property and casualty trends, fresh expertise can translate into better sales, loyal customers, and a positive reputation among industry peers.
 
 ## Compare different state rules
 
 Insurance CE requirements vary from one jurisdiction to another. Some states require fewer hours, while others have a more stringent system. In most cases, you’ll find these major elements:
 
-• Renewal cycles: Some states use a two-year renewal period, while others might opt for annual or even three-year cycles.  
-• Total CE hours: Estimations can run anywhere between 16 to 24 hours per cycle, though certain states go even higher.  
+• Renewal cycles: Two years is the norm, though a handful of states run three- or four-year cycles, and Florida keeps the license perpetual with a recurring 24-month CE compliance period instead of a renewal.  
+• Total CE hours: Most states land somewhere between 15 and 24 hours per cycle — New York is 15, while California, Texas, and Illinois are 24, and Florida is 24 for your first six years licensed and 20 after that — and a few states go higher.  
 • Specific subject requirements: Ethics, flood insurance, or long-term care may be mandatory for certain lines of authority.
 
 What’s most important is knowing the specific CE breakdown for your state. For example, New York emphasizes particular ethics and law requirements, whereas Texas might have additional rules for agents selling certain product types. Focus on these nuances so that you’re not caught off guard come renewal time.
@@ -65,7 +65,7 @@ California
 
 Every 2 years
 
-Ethics training mandatory
+3 hours of that total must be ethics
 
 Texas
 
@@ -77,11 +77,11 @@ At least 3 hours in ethics
 
 Florida
 
-24
+24 for your first 6 years licensed, then 20
 
-Every 2 years
+Every 2 years (the license itself is perpetual; CE is due the last day of your birth month)
 
-Varies by license type
+A 4-hour Law & Ethics Update specific to your license type
 
 New York
 
@@ -89,7 +89,7 @@ New York
 
 Every 2 years
 
-1 hour of ethics required
+Within the 15: 1 credit each in insurance law, ethics & professionalism, and diversity, inclusion & elimination of bias, and a flood credit for property/casualty licensees
 
 Illinois
 
@@ -97,18 +97,20 @@ Illinois
 
 Every 2 years
 
-Some lines must complete extra hours
+3 of the 24 must be ethics, taken in a classroom or webinar format
+
+New York deserves a closer read than its small number suggests. Under 11 NYCRR 20-2.2(b), the New York Department of Financial Services will not let you fill those 15 credits with 15 general ones: one has to be insurance law, one has to be ethics and professionalism, and one has to be diversity, inclusion and elimination of bias. Anyone licensed for a property/casualty line owes a flood credit as well, and at least three credits of enhanced flood instruction if you sell through the NFIP. Each course has to carry that specific topic designation to count.
 
 These figures serve as general guidelines, and not every agent faces the same set of requirements. It’s critical to confirm details with your respective state department to ensure you’re always up to date. If you’re ever unsure, contacting your state insurance commission or a trusted provider such as JustInsurance can clarify your next steps.
 
 ## Find answers to common questions
 
 1.  How do I confirm how many CE hours I’ve completed?  
-    Most approved CE providers will offer a portal to track your progress, or you can check your state’s license portal for a credit breakdown. Keep an eye on these records, because it is your responsibility to confirm hours are reported properly.
+    Your state’s licensee portal is the record that counts, so pull your credit breakdown there rather than relying on a provider’s course history. A provider can only show you what you finished with them; the Department of Insurance decides whether you’re compliant. It is your responsibility to confirm the hours were reported properly and posted to your license.
 2.  Do duplicate courses count if I take them in a different cycle?  
     Generally, you can’t repeat the exact same course in the same renewal cycle for credit. If you plan on taking it again in a future cycle, read your state’s guidelines, as some allow repetition if enough time has passed.
 3.  Is there a grace period for CE completion?  
-    Certain states offer a short grace period, but others enforce immediate penalties or fines. Even if a grace window exists, it’s best not to rely on it. Penalties for late compliance can include license suspension, so aim to finish hours well in advance.
+    Certain states offer a short grace period, but others enforce immediate penalties or fines. Even if a grace window exists, it’s best not to rely on it. What typically happens is that the state simply won’t renew you until your hours are on file, so the license lapses or expires, and getting it back means late or reinstatement fees on top of the coursework you still owe. Aim to finish your hours well in advance.
 4.  Which courses should I prioritize?  
     Focus on core courses mandated by your state, such as ethics or law, followed by any specialty areas linked to your license type. If you have extra time, select topics that align with your professional goals, such as emerging insurance products or advanced sales techniques.
 5.  How do I know if an online course meets my state’s standards?  

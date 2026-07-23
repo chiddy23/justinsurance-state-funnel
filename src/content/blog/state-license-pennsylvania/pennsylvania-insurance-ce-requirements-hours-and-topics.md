@@ -237,23 +237,31 @@ Renewal through: Sircon at sircon.com/pennsylvania
 
 Renewal window: Typically 60 days before expiration through the renewal date.
 
-Renewal fee: $55 standard.
+Renewal fee: $55 for a resident producer renewal (31 Pa. Code § 37a.3).
 
-Late renewal window: 60 days after expiration with $110 surcharge ($165 total).
+If the license lapses: Under 40 P.S. § 310.8, a producer who lets a license lapse — by missing the renewal, not paying the fee, or not finishing CE — may request reinstatement from the Department within one year of the license renewal date. Reinstatement requires a completed renewal form, the $165 lapsed-license renewal fee, and verification that all CE for the previously licensed and lapsed periods has been completed.
 
-After 60-day late window: License terminates voluntarily; producer must restart licensing process.
+Within 60 days of the lapse: Reinstatement is retroactive to the lapse date, so there is no gap in your licensing history.
+
+61 days to 12 months after the lapse: You can still reinstate on the same terms, but the reinstatement takes effect going forward from the date it is granted rather than retroactively — meaning you were genuinely unlicensed for the gap and could not lawfully transact business during it.
+
+More than 12 months after the lapse: The reinstatement path closes. The statute is explicit: "If a person applies for reinstatement more than one year after the lapse date, the person shall reapply for the license under this act" — a full new application, including examination and fingerprinting.
 
 ## What Happens If CE Is Incomplete
 
 Cannot renew online. Lapsed licenses cannot be renewed online — separate process required.
 
-License lapses. Without timely renewal, license becomes inactive.
+License lapses. Without timely renewal, the license lapses and you cannot legally transact insurance in Pennsylvania.
 
-Late renewal available. 60-day window with $110 surcharge for late renewal ($165 total).
+Outstanding CE must be made up first. Reinstatement requires verification that you completed all CE for the previously licensed and lapsed periods — you cannot buy your way past the CE shortfall with the fee alone.
 
-Beyond 60 days. Must restart licensing process (including new exam, new fingerprinting, and new application).
+Within 60 days. Reinstate with the $165 lapsed-license renewal fee and your completed CE, and the reinstatement is retroactive to the lapse date — no gap on your record.
 
-The 60-day late renewal window provides some flexibility, but missing this window has serious consequences.
+61 days to 12 months. Reinstatement is still available on the same terms, but it is effective prospectively. You were unlicensed during the gap, which can create appointment, commission, and E&O problems even after you are reinstated.
+
+More than 12 months. Reinstatement is no longer an option — you must reapply for the license, which means a new application, a new exam, and new fingerprinting.
+
+The 12-month reinstatement window is real breathing room, but the first 60 days are the only ones that leave your licensing history clean.
 
 ## Best Practices for CE Compliance
 

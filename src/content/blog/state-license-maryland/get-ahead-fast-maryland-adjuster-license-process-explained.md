@@ -32,7 +32,7 @@ If you instead plan to work as a staff or independent adjuster for an insurance 
 
 Before diving into the exam, confirm you meet Maryland's basic requirements for a public adjuster license, including being of legal age and submitting the required application (individuals submit the NAIC Uniform Individual Application; business entities must employ licensed adjusters and submit the NAIC Uniform Business Entity Application). The [Maryland Insurance Administration](https://insurance.maryland.gov/Producer/pages/publicadjusters.aspx) publishes the current application requirements and fees — confirm the specifics there before you apply, since requirements can change.
 
-Unlike producer licensing, Maryland does not publish a fixed pre-licensing education-hour requirement for public adjusters. Rather than guessing at study hours, review the MIA's public adjuster page directly and consider a reputable [exam-prep course](/maryland/prelicensing) if you want structured review material before test day.
+Unlike producer licensing, Maryland does not publish a fixed pre-licensing education-hour requirement for public adjusters. Rather than guessing at study hours, review the MIA's public adjuster page directly and consider a reputable exam-prep course built to the public adjuster content outline if you want structured review material before test day.
 
 ## Navigate the exam steps
 

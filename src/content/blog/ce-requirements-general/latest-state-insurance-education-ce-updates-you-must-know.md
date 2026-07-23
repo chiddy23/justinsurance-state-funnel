@@ -63,7 +63,7 @@ Staying aware of these patterns can help you pick the right courses that align w
 4.  Can I repeat the same course each renewal cycle?  
     In most states, repeating a course you have already taken only counts if a specified amount of time has passed since your last completion. If not, you may need to choose a new or updated version of that course.
 5.  Who can help me track my progress?  
-    Platforms like JustInsurance can remind you of upcoming deadlines, keep your certificates in one place, and suggest courses that meet your state’s new criteria. This ensures you never lose track of your compliance status.
+    Ultimately, that responsibility is yours — your state’s Department of Insurance licensee portal is the authoritative record of your completed hours and renewal status, so check it directly. What a provider like JustInsurance does is narrower but concrete: we offer state-approved CE courses, and in the states where we hold approval we report your completed hours straight to the Department of Insurance, typically the same business day you finish. We do not watch your renewal date for you, so keep your own deadlines on a calendar you check.
 
 ## Wrap up and next steps
 

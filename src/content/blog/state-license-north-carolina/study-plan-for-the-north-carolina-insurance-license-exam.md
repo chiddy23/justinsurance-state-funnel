@@ -16,7 +16,7 @@ imageAlt: >-
   plan for the north carolina insurance license exam.
 ---
 
-North Carolina's exam structure requires a study plan different from most states. With separate exams for each line of authority (no combined L&H or P&C options), a shorter 55-question format, and the application-first sequence that requires NIPR submission before scheduling, your approach to preparation matters significantly. Whether you're pursuing one line or all four, a structured plan calibrated to NC's distinctive format maximizes first-attempt [pass rates](/pass-rates) and controls the exam fee costs that multiply with failed attempts.
+North Carolina's exam structure requires a study plan different from most states. With separate exams for each line of authority (no combined L&H or P&C options), a short 55-question format on the four major lines, and the application-first sequence that requires NIPR submission before scheduling, your approach to preparation matters significantly. Whether you're pursuing one line or all four, a structured plan calibrated to NC's distinctive format maximizes first-attempt [pass rates](/pass-rates) and controls the exam fee costs that multiply with failed attempts.
 
 Here's a comprehensive study plan for the North Carolina insurance license exam.
 
@@ -68,13 +68,27 @@ Phase 1: Foundation (Weeks 1-2) Build foundational knowledge through structured 
 
 Phase 2: Active Practice (Week 2-3) Work through [practice questions](/north-carolina/practice-exam) systematically by topic.
 
-Phase 3: Full-Length Practice Exams (Week 3-4) Take multiple 55-question practice exams under timed conditions.
+Phase 3: Full-Length Practice Exams (Week 3-4) Take multiple full-length practice exams under timed conditions, sized to your line — 55 questions for Life, A&H, Property, or Casualty; 80 for Personal Lines.
 
 Phase 4: Final Review (Final 3-5 days) Address weak areas with focused review and light study.
 
 ## The NC-Specific Study Distinction
 
-Unlike some states where NC-specific content is a small fraction, North Carolina's statutes section (15-25% of the exam) is substantial on a 55-question exam. At 25%, that's roughly 13-14 NC-specific questions. On a 55-question exam where 39 correct answers are needed, 13 NC-specific questions represent enormous point value.
+Unlike some states where NC-specific content is a small fraction, North Carolina's statutes section is a heavy block on every exam. You do not have to guess at the weight — the Pearson VUE content outlines publish exact item counts:
+
+Life: 14 of 55 scored questions
+
+Accident and Health or Sickness: 14 of 55
+
+Property: 13 of 55
+
+Casualty: 15 of 55
+
+Personal Lines: 24 of 80
+
+That is roughly a quarter to 30% of your score, concentrated in the one area general-market study materials cover least well.
+
+One thing to keep straight while you plan: North Carolina reports a scaled score, not a raw percentage. Pearson VUE converts your raw score onto a 0-100 range with a cut of 70, and the NC candidate handbook states the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." So there is no published "you need X correct" target to aim at, and no arithmetic that lets you write off the NC section and make it up elsewhere. Every NC-specific item you lock down is score you are not leaving to chance.
 
 NC-specific study allocation: Plan 20-25% of your total study time specifically for North Carolina statutes and regulations.
 
@@ -134,7 +148,7 @@ Address weaknesses revealed
 
 Final NC-specific review
 
-Schedule and pass real exam (70%+)
+Schedule and sit the real exam
 
 Daily commitment: 1.5-2 hours
 
@@ -284,7 +298,7 @@ Short breaks every 45-60 minutes. Maintains focus and prevents fatigue.
 
 ## Practice Question Volume
 
-For a 55-question exam, meaningful practice volume:
+For a short exam like North Carolina's, meaningful practice volume:
 
 Minimum recommended per line: 300-400 practice questions.
 
@@ -296,11 +310,13 @@ Quality matters as much as quantity. Review every wrong answer — understand WH
 
 ## Practice Exam Strategy
 
-Take at least 2-3 full-length 55-question practice exams per line before scheduling real exam.
+Take at least 2-3 full-length practice exams per line before scheduling the real exam, sized to the line you're actually sitting for.
 
 Simulate real exam conditions:
 
-55 questions in 75 minutes maximum
+Life, A&H, Property, or Casualty: 55 questions in 1 hour 15 minutes maximum
+
+Personal Lines: 80 questions in 1 hour 45 minutes maximum
 
 No phone, no notes, no help
 
@@ -308,7 +324,7 @@ Quiet environment
 
 Same time of day as your scheduled exam
 
-Score interpretation:
+Score interpretation. The percentages below are your raw score on a practice exam — a readiness gauge you control, not the state standard. North Carolina reports a scaled score with a cut of 70 and does not publish a raw-correct target, so treat these as thresholds for your own confidence:
 
 Below 70%: Not ready — more preparation needed
 
@@ -318,51 +334,65 @@ Below 70%: Not ready — more preparation needed
 
 85%+: Strong readiness — very likely to pass comfortably
 
-Target 80%+ scores consistently before scheduling real exam.
+Target 80%+ raw scores consistently before scheduling the real exam.
 
 ## Content Area Allocation per Exam
 
-Life Insurance exam (55 questions):
+Don't estimate these. Pearson VUE's North Carolina content outlines assign an exact number of scored items to each section, and allocating study time to the published counts beats guessing at percentages every time.
 
-Types of life insurance: ~15-20%
+Life Insurance exam (55 scored questions):
 
-Annuities: ~10-15%
+Types of individual life insurance: 17 items (~31%)
 
-Policy provisions, options, features: ~20-25%
+Annuities: 5 items (~9%)
 
-Other life topics (group, tax, business uses): ~20-25%
+Policy provisions, options, and other features: 11 items (~20%)
 
-NC statutes pertinent to Life: ~15-25%
+Other life topics (group, tax, retirement, business uses): 8 items (~15%)
 
-Accident & Health exam (55 questions):
+NC statutes and regulations pertinent to Life: 14 items (~25%)
 
-A&H insurance policies: ~25-30%
+Accident & Health exam (55 scored questions):
 
-A&H provisions: ~20-25%
+Accident & health insurance policies: 22 items (~40%)
 
-Other A&H topics (Medicare, federal law): ~20-25%
+Accident & health insurance provisions: 11 items (~20%)
 
-NC statutes pertinent to A&H: ~15-25%
+Other A&H topics (Medicare, federal law): 8 items (~15%)
 
-Property exam (55 questions):
+NC statutes and regulations pertinent to A&H: 14 items (~25%)
 
-Terms and concepts: ~10-15%
+Property exam (55 scored questions):
 
-Personal insurance coverages: ~25-30%
+Terms and concepts: 7 items (~13%)
 
-Commercial coverages: ~15-20%
+Personal insurance coverages: 25 items (~45%)
 
-NC statutes pertinent to Property: ~15-25%
+Commercial insurance coverages: 10 items (~18%)
 
-Casualty exam (55 questions):
+NC statutes and regulations pertinent to Property: 13 items (~24%)
 
-Terms and concepts: ~10-15%
+Casualty exam (55 scored questions):
 
-Personal insurance coverages (NC auto): ~25-30%
+Terms and concepts: 7 items (~13%)
 
-Commercial coverages: ~15-20%
+Personal insurance coverages: 18 items (~33%)
 
-NC statutes pertinent to Casualty: ~15-25%
+Commercial insurance coverages: 15 items (~27%)
+
+NC statutes and regulations pertinent to Casualty: 15 items (~27%)
+
+Personal Lines exam (80 scored questions):
+
+Terms and concepts: 11 items (~14%)
+
+Personal insurance coverages: 30 items (~38%)
+
+Personal Auto Policy (NC Rate Bureau form): 15 items (~19%)
+
+NC statutes and regulations pertinent to Personal Lines: 24 items (~30%)
+
+Two of these deserve a flag. On the Property exam, personal insurance coverages is by far the single largest section at 25 of 55 items — nearly half the test — so that is where your first block of study hours belongs. And on the Casualty and Personal Lines exams, the NC statutes section is the joint-largest or second-largest section, not a footnote.
 
 ## When to Schedule Your Exam
 
@@ -418,7 +448,7 @@ Don't rush. North Carolina's per-line structure means even getting one line lice
 
 Starting preparation after applying. The 6-month NIPR window creates pressure. Don't apply too early before being ready to study actively.
 
-Ignoring NC-specific content. 15-25% of a 55-question exam = potentially 13+ questions. This is too important to skip.
+Ignoring NC-specific content. The NC statutes section is 13 to 15 of the 55 scored questions on the major-line exams and 24 of 80 on Personal Lines. This is too important to skip.
 
 Studying all lines simultaneously. Creates confusion and cognitive overload. Sequential study per line produces better outcomes.
 
@@ -436,10 +466,10 @@ Cramming. Short exam format doesn't make cramming more effective — it rewards 
 - How many practice questions should I work through per exam? Minimum 300-400 practice questions per line. Strong preparation involves 500-700+ practice questions per line. Each wrong answer should be reviewed carefully.
 - Should I study all four lines simultaneously? Generally no. Simultaneous study across four lines creates confusion and cognitive overload. Sequential preparation — pass one line's exam, then prepare for the next — produces better results for most candidates.
 - When should I apply through NIPR if my study timeline is 8 weeks? Apply about 1-2 weeks before you plan to take your first exam. The 6-month application window is long enough that applying when nearly ready makes more sense than applying 8+ weeks before your first scheduled exam.
-- How important is NC-specific content relative to general insurance knowledge? Both are critical. NC-specific content represents 15-25% of each exam — on a 55-question exam, that's potentially 13+ questions. Candidates who study general insurance well but neglect NC-specific content often fall short of the 70% passing mark.
+- How important is NC-specific content relative to general insurance knowledge? Both are critical. Per the Pearson VUE content outlines, the North Carolina statutes and regulations section is 14 of 55 scored questions on Life, 14 of 55 on Accident and Health or Sickness, 13 of 55 on Property, 15 of 55 on Casualty, and 24 of 80 on Personal Lines — roughly a quarter to 30% of the exam. Note that North Carolina reports a scaled score with a cut of 70, not a raw percentage, so there is no published number of correct answers you can aim for. Candidates who study general insurance well but neglect NC-specific content routinely come up short.
 
 ## Build a Study Plan That Matches North Carolina's Format
 
-North Carolina's per-line exam structure rewards a strategic, sequential study approach. At JustInsurance, our North Carolina prelicense courses are structured to support effective per-line preparation — with NC-specific statutory content, NC Rate Bureau coverage, and practice exam access calibrated to the 55-question format.
+North Carolina's per-line exam structure rewards a strategic, sequential study approach. At JustInsurance, we build [prelicense](/north-carolina/prelicensing) courses and [practice exams](/north-carolina/practice-exam) for North Carolina's two life and health lines — Life Agent and Accident and Health or Sickness Agent. North Carolina does not offer a combined Life & Health exam, so if you want both lines you prepare for and sit two separate 55-question tests; our materials are built that way, with the NC statutory content each of those exams actually tests. We do not currently offer Property, Casualty, or Personal Lines courses, so if you're pursuing those lines, use the outline-based plan above with a P&C prep provider whose materials track the current Pearson VUE North Carolina content outline.
 
-Enroll today and study for North Carolina's exams with a plan that matches the format.
+Enroll today and study for your North Carolina Life or Health exam with a plan that matches the format.

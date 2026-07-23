@@ -23,15 +23,15 @@ Across state insurance exams, California falls somewhere in the middle to upper-
 
 ## What Makes the California Exam Challenging
 
-Substantial California-specific content. Roughly 20–30% of the exam is California-specific law. That's more state-specific content than many smaller states have, and it requires dedicated study of California-only topics.
+Substantial California-specific content. CDI does not publish a percentage weight for state law on the producer exams, so treat any figure you see quoted as an estimate rather than a number the Department stands behind. What CDI does publish is the Educational Objectives for each license type — the list of California Insurance Code topics that are fair game — and that list is long. There is more state-specific material here than in many smaller states, and it requires dedicated study of California-only topics.
 
-Dense content breadth. The California Life, Accident, and Health exam covers 150 scored questions across a wide range of topics — life products, annuities, health insurance, Medicare, long-term care, California law, federal law, and ethics. The sheer breadth of content is significant.
+Dense content breadth. The California Life, Accident and Health or Sickness exam runs 150 questions across a wide range of topics — life products, annuities, health insurance, Medicare, long-term care, California law, federal law, and ethics. The sheer breadth of content is significant.
 
 Scenario-based question structure. Many California exam questions are scenario-based rather than definition-based. You're asked to apply knowledge to specific situations, not just recall terms. Scenario questions are harder because they test real understanding.
 
 Strong consumer protection focus. California has one of the strongest consumer protection frameworks in the country, and the exam reflects that. Questions about replacement rules, suitability, privacy, and unfair practices appear frequently and test nuanced understanding.
 
-3 hours and 15 minutes is generous but not unlimited. Time pressure is moderate on the California exam — most candidates finish within the allotted time. But 150 questions still requires steady pacing.
+Three hours is generous but not unlimited. CDI allots 3 hours for the 150-question Life, Accident and Health or Sickness exam. Time pressure is moderate — most candidates finish within the allotted time. But 150 questions in 180 minutes still requires steady pacing.
 
 ## Where California Is Easier Than Other States
 
@@ -41,15 +41,21 @@ Well-documented exam content outline. CDI publishes a detailed content outline s
 
 ## Comparison Snapshot: California vs. Other Major States
 
+The comparison below uses each state's combined life-and-health licensing exam: California's Life, Accident and Health or Sickness exam, Texas's General Lines – Life, Accident & Health exam, Florida's 2-15 Health and Life (including Annuities and Variable Contracts) exam, and New York's Life, Accident and Health Agent/Broker exam.
+
 | Factor | California | Texas | Florida | New York |
 | --- | --- | --- | --- | --- |
-| Number of scored questions | 150 | 150 (combined) | 150 | 150 |
-| Time limit | 3h 15m | 2h 30m | 3h 30m | 2h 30m |
-| Passing score | 60% | 70% | 70% | 70% |
-| State-specific content weight | 20–30% | 15–20% | 25–30% | 20–25% |
+| Number of scored questions | 150 | 130 (100 general + 30 state) | 150 (of 165 total) | 150 |
+| Time limit | 3h | 2h 30m | 2h 45m | 2h 30m |
+| Passing score | 60% (raw) | 70 (scaled score) | 70% (raw) | 70% (raw) |
+| State-specific content weight | Not published by CDI | ~23% (30 of 130) | 25–30% | 20–25% |
 | Prelicense education | 12 hours (Code & Ethics only) | None required (optional) | 60 hours (2-15) | 40 hours |
 
-Each state has its own mix of factors. California's combination — 150 questions, 60% passing, 20–30% state content, 12 hours [prelicense](/california/prelicensing) — puts it in the moderate difficulty tier overall.
+One row deserves a footnote, because it is a genuine difference in kind rather than degree. California, Florida, and New York report a raw percentage — the share of questions you answered correctly. Texas does not. Pearson VUE equates Texas exam forms and reports a scaled score from 0 to 100, and the Texas handbook states that the scaled score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Texas's cut is 70 on that scale, which is not the same statement as "70% correct," and the raw number of correct answers required moves with the form.
+
+The state-content row deserves a caution of its own. Only the Texas figure is fixed by the exam's published structure — 30 of its 130 questions are the state law section. California's Department of Insurance publishes Educational Objectives listing the testable California Insurance Code topics, but it does not publish a percentage weight, which is why that cell says so plainly instead of repeating one of the ranges that circulate online. Treat the Florida and New York shares as approximations too.
+
+Each state has its own mix of factors. California's combination — 150 questions, 3 hours, 60% passing, a substantial California-law component, and a 12-hour [prelicense](/california/prelicensing) requirement — puts it in the moderate difficulty tier overall.
 
 ## What Actually Determines Whether It's Hard for You
 
@@ -63,9 +69,9 @@ Test-taking skills. Scenario questions reward careful reading and thoughtful ana
 
 ## First-Attempt Pass Rates
 
-CDI doesn't publish official first-time [pass rates](/pass-rates). Industry estimates suggest roughly 50–65% of first-time California candidates pass on their initial attempt. This is in line with most state insurance exams — not dramatically higher or lower.
+CDI does not publish an official first-attempt pass rate for its producer exams, and we are not going to put a number in its place. You will see figures quoted around the internet — ranges attributed to "industry estimates," and third-party compilations of state exam statistics that land considerably higher than those ranges. None of them is a CDI-published first-attempt rate for the exam you are about to sit, and quoting one as though it were would tell you something we cannot actually substantiate. If you want the general landscape, our [pass rates](/pass-rates) page lays out what is and is not publicly reported by state.
 
-The biggest factor in pass rates is preparation quality. Candidates who complete quality prelicense education and practice extensively pass at much higher rates than the overall average.
+What is safe to say is narrower and more useful: first-attempt outcomes vary widely, and the variation tracks preparation far more closely than it tracks the exam. Candidates who work through the full content outline and practice extensively do markedly better than candidates who skim. That is the lever you control.
 
 ## How to Beat the California Exam
 
@@ -89,7 +95,7 @@ Score comfortably above 70% in practice. Don't aim to just squeak by the passing
 
 4. Is the California exam curved or adjusted? No. The 60% passing score is fixed. There's no curve based on how other candidates perform.
 
-5. How many attempts does it usually take to pass? Most candidates pass within 1–2 attempts with proper preparation. California doesn't cap attempts, but each retake requires a new PSI registration and fee.
+5. How many attempts does it usually take to pass? Most candidates pass within 1–2 attempts with proper preparation. There is no mandatory waiting period between attempts, but each retake requires a new PSI registration and a new fee — and California does have a statutory ceiling. Under Cal. Ins. Code § 1682, a candidate who has failed the same exam ten times within a 12-month period is barred from taking that exam for 12 months from the date of the tenth failure. Related exams count together: the statute groups exams by type, so life-only attempts and combined life and accident/health attempts are tallied against the same limit. It is a ceiling most prepared candidates will never approach, but it is real, and it is not something a fee can buy your way past.
 
 ## Prepare to Pass on Your First Attempt
 

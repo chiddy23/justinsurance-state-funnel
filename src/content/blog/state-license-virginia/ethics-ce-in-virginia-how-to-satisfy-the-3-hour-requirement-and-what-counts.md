@@ -60,7 +60,7 @@ Virginia public adjusters have a slightly different ethics CE rule. Public adjus
 
 Does Virginia require ethics CE every biennium, or only once?
 
-Virginia requires 3 ethics hours in every biennial renewal cycle — it is not a one-time requirement. Every time you renew your license, 3 of your required CE hours must be ethics-qualifying courses. There is no exemption from the ethics requirement for experienced producers or those with prior ethics course completion. A new ethics course (or Virginia laws and regulations course, for producers) must be taken in each biennium. Virginia does not carry forward excess credits between biennia at all — ethics or otherwise — so a prior cycle's ethics course provides no benefit toward the new biennium; you must take a new ethics-qualifying course each cycle.
+Virginia requires 3 ethics hours in every biennial renewal cycle — it is not a one-time requirement. Every time you renew your license, 3 of your required CE hours must be ethics-qualifying courses, and there is no exemption for experienced producers or for those who completed ethics CE in an earlier cycle. Virginia does allow excess CE credit hours to carry forward — but only to the very next renewal cycle, not indefinitely (Va. Code § 38.2-1867; the carry-forward does not apply to public adjusters, and excess credits are forfeited if you do not renew within the 90-day renewal window). Because the 3-hour ethics obligation recurs every cycle, plan to complete a fresh ethics-qualifying course — or a Virginia laws and regulations course, for producers — in each biennium unless you are applying carry-forward credits from the immediately preceding cycle.
 
 Can I take the same ethics course twice for credit in different biennia?
 

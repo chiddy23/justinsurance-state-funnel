@@ -26,7 +26,7 @@ Must be completed before submitting renewal application
 
 Tracked in Sircon or NIPR; retain certificates for audit
 
-Renewal fee: $40; late fee: $160 — timely completion matters
+Renewal fee: $40; late reinstatement penalty: $120 (plus the $40 renewal = $160 total to reinstate) — timely completion matters
 
 ## What Indiana Ethics CE Covers
 
@@ -91,10 +91,10 @@ Active participation on boards and committees creates both CE credit and ongoing
 ## 5 Frequently Asked Questions
 
 - Can Indiana professional organization participation satisfy Ethics CE hours? The professional organization CE credit (up to 2 hours per 2-year period under IC 27-1-15.7-2.4) may count toward the total 24-hour CE requirement, but may not specifically satisfy the Ethics credit unless the organization's activities are classified as ethics content by IDOI. Verify with IDOI whether professional org participation credits count toward the 3-hour Ethics specific requirement or only toward the 21 remaining general CE hours.
-- How does the Annuity Best Interest rule affect ethics CE for Indiana life producers? The 4-hour Annuity Best Interest training (760 IAC 1-72-4.5) covers both technical (disclosure requirements, needs analysis documentation) and ethical (best interest vs. suitability, avoiding churning) content. Ethics CE reinforces the documentation and best-interest obligations that support compliance with the Annuity Best Interest rule — making ethics training directly applicable to the highest-risk advisory transactions in Indiana's life insurance market.
+- How does the Annuity Best Interest rule affect ethics CE for Indiana life producers? Indiana's Annuity Best Interest training (760 IAC 1-72-4.5) — a one-time 4-hour course, or a one-time 1-hour update for producers who had already completed the state's earlier annuity training — covers both technical (disclosure requirements, needs analysis documentation) and ethical (best interest vs. suitability, avoiding churning) content. Ethics CE reinforces the documentation and best-interest obligations that support compliance with the Annuity Best Interest rule — making ethics training directly applicable to the highest-risk advisory transactions in Indiana's life insurance market.
 - What is the most practically important ethics obligation for Indiana P&C commercial producers? Accurate workers' comp classification — particularly for Indiana manufacturers, agricultural employers, and construction contractors. Misclassifying employees to lower payroll base or using incorrect class codes reduces premiums but constitutes insurance fraud. Indiana's ICRB classification system (which differs from NCCI) means classification knowledge is specifically Indiana-relevant. Ethics CE reinforces the obligation to classify accurately regardless of client pressure to minimize premiums.
 - Does ethics CE carryover in Indiana? Verify current IDOI policy on ethics CE carryover at in.gov/idoi. Some states (like MN) have no carryover at all; others (like Virginia) allow ethics hours to carry forward as general CE. Indiana's carryover policy should be confirmed for planning purposes.
-- How does the $160 late renewal fee create ethics-adjacent compliance incentives? Indiana's $160 late renewal fee (4x the $40 standard) creates a strong financial incentive to complete CE on time — including Ethics CE. Producers who complete Ethics CE late (after renewal deadline) face the $160 late fee. The fee structure reinforces the ethical obligation to maintain CE compliance by making non-compliance financially painful as well as professionally problematic.
+- How does the late reinstatement penalty create ethics-adjacent compliance incentives? Indiana's $120 reinstatement penalty (3x the $40 renewal fee) — $160 in total to reinstate once you add the renewal fee — creates a strong financial incentive to complete CE on time, including Ethics CE. Producers who let their license lapse past the renewal deadline face the $120 penalty on top of the $40 renewal. The fee structure reinforces the ethical obligation to maintain CE compliance by making non-compliance financially painful as well as professionally problematic.
 
 ## Complete Your Indiana Ethics CE Meaningfully
 

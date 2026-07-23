@@ -42,7 +42,7 @@ This concentration creates extensive markets for medical professionals, healthca
 
 Financial services presence. Major financial firms including Regions Bank (headquartered in Birmingham), BBVA (now PNC), Protective Life, ServisFirst Bank, and others create financial services ecosystem supporting executive client markets.
 
-Corporate headquarters. Birmingham hosts headquarters for Regions Financial, Vulcan Materials, Energen, Protective Life, and other major corporations.
+Corporate headquarters. Birmingham hosts headquarters for Regions Financial, Vulcan Materials, Protective Life, Encompass Health, and other major corporations.
 
 Professional services concentration. Significant law firm, accounting firm, and consulting practice presence creates professional client markets.
 
@@ -50,7 +50,7 @@ Diverse communities. Birmingham has notably diverse communities — historic Afr
 
 Suburban affluence. Affluent suburbs including Mountain Brook, Vestavia Hills, Hoover, and Homewood support high-net-worth insurance practices.
 
-Educational institutions. UAB, Samford University, Birmingham-Southern College, and other institutions create academic and educational professional markets.
+Educational institutions. UAB, Samford University, Miles College, Jefferson State Community College, and other institutions create academic and educational professional markets.
 
 ## The Birmingham Submarkets
 

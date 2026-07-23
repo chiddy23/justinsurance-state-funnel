@@ -1,4 +1,5 @@
-// Generated from seo-data.json — do not edit manually
+// Hand-maintained source of truth for state data. seo-data.json is a
+// downstream sync artifact kept in agreement — do NOT regenerate this file from it.
 // Field mapping: STATE_NAME→name, STATE_ABBR→abbreviation, etc.
 
 export interface StateExamInfo {
@@ -59,6 +60,17 @@ export interface CEInfo {
    * inclusion & elimination of bias — N.Y. Ins. Law § 2132; 11 NYCRR 20-2.2(b).)
    */
   mandatedTopicHours?: string;
+  /** Credit hours that must cover changes in this state's insurance statutes/administrative rules, beyond ethics (Montana: 1, Mont. Code Ann. §33-17-1203). Undefined elsewhere -> dependent copy renders byte-identically. */
+  lawChangeHours?: number;
+  /**
+   * Minimum CE hours that must be earned through a formal classroom OR another
+   * format permitting live-instructor interaction — a DELIVERY-FORMAT mandate a
+   * purely self-paced/recorded package cannot satisfy on its own (distinct from
+   * mandatedTopicHours, which is about subject matter). Undefined for every other
+   * state, which therefore renders byte-identically.
+   * (New Mexico: 3 of the 24 biennial hours — 13.4.7 NMAC.)
+   */
+  liveInstructorHours?: number;
   requirementsUrl: string;
   packagePrice: string;
   ethicsCoursePrice: string;
@@ -191,11 +203,15 @@ export interface StateData {
   };
 }
 
-// States confirmed to have NO combined Life & Health exam — must book separately
+// States confirmed to have NO combined Life & Health exam — must book separately.
+// Kept in sync with the per-record `noCombinedExam: true` flag, which is the
+// source of truth. This list previously omitted Arkansas, Illinois and North
+// Carolina, which is how the /prelicensing hub came to advertise "one exam
+// covering both lines" nationally.
 export const NO_COMBINED_EXAM_STATES = [
-  "montana", "tennessee", "north-dakota", "alaska", "colorado",
-  "hawaii", "idaho", "iowa", "new-jersey", "rhode-island",
-  "west-virginia", "wisconsin"
+  "alaska", "arkansas", "colorado", "hawaii", "idaho",
+  "illinois", "iowa", "montana", "new-jersey", "north-carolina",
+  "north-dakota", "rhode-island", "west-virginia", "wisconsin"
 ];
 
 // States where you must apply for your license BEFORE scheduling the exam
@@ -395,7 +411,7 @@ export const STATES: Record<string, StateData> = {
     minAge: 18,
     residencyRequirement: "Must be a resident of Alaska",
     backgroundRequirement: "Criminal background check required",
-    fingerprintRequirement: "Fingerprinting required through State-approved vendor",
+    fingerprintRequirement: "Fingerprinting required through a state-approved vendor",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "75",
     backgroundCheckCost: "47",
@@ -413,7 +429,7 @@ export const STATES: Record<string, StateData> = {
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/us/en/ak/insurance.html",
       examBookingUrl: "https://www.pearsonvue.com/us/en/ak/insurance.html",
-      retakeWaitingPeriod: "scheduling your next available test date with no mandatory waiting period",
+      retakeWaitingPeriod: "scheduling your next available test date — there is no mandatory waiting period for test-center retakes, though OnVUE online retakes require a 7-day wait after your first failed attempt, 14 days after the second, and 30 days after the third",
       retakeLimitInfo: "There is no limit on the number of times you can retake the exam at a test center. If testing online via OnVUE, you are limited to 4 attempts before needing to test in person.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://www.pearsonvue.com/us/en/ak/insurance.html",
@@ -475,7 +491,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "tip",
         title: "Alaska uses Pearson VUE with a 4-attempt OnVUE online limit",
-        body: "Alaska exams are delivered by Pearson VUE at testing centers and via OnVUE remote proctoring. There is no waiting period between retakes, but OnVUE online attempts are capped at 4 before you must test in person. Confirm current exam fee, question count, and time limit in the Pearson VUE Alaska candidate handbook before you schedule.",
+        body: "Alaska exams are delivered by Pearson VUE at testing centers and via OnVUE remote proctoring. There is no waiting period between test-center retakes, but OnVUE online retakes require waiting 7 days after your first failed attempt, 14 days after the second, and 30 days after the third — and OnVUE attempts are capped at 4 before you must test in person. Confirm current exam fee, question count, and time limit in the Pearson VUE Alaska candidate handbook before you schedule.",
         link: { href: "https://www.pearsonvue.com/us/en/ak/insurance.html", text: "Pearson VUE Alaska portal", external: true },
       },
       {
@@ -535,7 +551,7 @@ export const STATES: Record<string, StateData> = {
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
-    fingerprintingNotes: "Fingerprinting required through State-approved vendor",
+    fingerprintingNotes: "Fingerprinting required through a state-approved vendor",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
       annuity: "One-time 4-hour Annuity Best Interest training required before selling annuity products.",
@@ -574,8 +590,8 @@ export const STATES: Record<string, StateData> = {
     backgroundCheckCost: "22",
     totalCostRange: "$350-$550 total estimated licensing cost",
     applicationProcessingTime: "30 days",
-    licenseIssueTime: "Less than 1 month after submitting all required documentation",
-    totalLicensingTime: "Approximately 3-4 weeks from start to finish",
+    licenseIssueTime: "Up to 30 days after submitting all required documentation",
+    totalLicensingTime: "Approximately 5-7 weeks from start to finish",
 
     providerNumber: "500031644",
 
@@ -812,7 +828,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "Governed by Rule 50; lapse begins at expiration",
         reinstatementFee: "Not publicly posted — contact Arkansas DOI",
         reinstatementWindow: "Up to 1 year under Rule 50 before retesting required",
-        carryForward: "No — CE carry-forward not permitted under Rule 50",
+        carryForward: "Yes — up to 24 excess hours carry forward to the next biennial period under Rule 50; surplus ethics hours carry as general credit only (a new 3-hour ethics course is required each cycle)",
         lapseConsequence: "Your license lapses and you must complete delinquent CE and pay reinstatement fees before legally transacting insurance again.",
       },
     },
@@ -1099,9 +1115,9 @@ export const STATES: Record<string, StateData> = {
     backgroundRequirement: "Self-disclosure on NIPR application only",
     fingerprintRequirement: "Not required",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
-    applicationFee: "47",
-    backgroundCheckCost: "39.5",
-    totalCostRange: "$350-500 estimated total cost",
+    applicationFee: "44",
+    backgroundCheckCost: "No fee required",
+    totalCostRange: "$350–$500",
     applicationProcessingTime: "3-5 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
@@ -1111,7 +1127,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "48",
+      examFee: "41",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/co/insurance",
       examBookingUrl: "https://www.pearsonvue.com/co/insurance",
@@ -1127,19 +1143,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: 50,
         price: "$199",
-        totalCost: "$333.50",
+        totalCost: "$284.00",
         completionTime: "50 hours",
       },
       health: {
         hours: 50,
         price: "$199",
-        totalCost: "$333.50",
+        totalCost: "$284.00",
         completionTime: "50 hours",
       },
       lifeAndHealth: {
         hours: 100,
         price: "$199",
-        totalCost: "$532.50",
+        totalCost: "$527.00",
         completionTime: "100 hours",
       },
     },
@@ -1177,7 +1193,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "alert",
         title: "Colorado does not offer a combined Life & Health exam",
-        body: "Colorado requires separate exams for Life and for Accident & Health/Sickness — there is no combined option. Each line requires its own 50-hour prelicensing course and its own Pearson VUE exam fee. If you plan to sell both lines, budget for two complete course-and-exam cycles. Your prelicensing certificate is only valid for 12 months, so schedule promptly after finishing coursework.",
+        body: "Colorado requires separate exams for Life and for Accident & Health/Sickness — there is no combined option. Each line requires its own 50-hour prelicensing course. The exams are separate, but the exam fee is not: Pearson VUE lets you take up to two examinations in one exam session for a single $41 fee, so budget for two courses and one exam fee if you sit both in the same session. The Division's license fee is charged per line of authority. Your prelicensing certificate is only valid for 12 months, so schedule promptly after finishing coursework.",
       },
       {
         kind: "tip",
@@ -1336,7 +1352,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "Up to 1 year late-renewal window after expiration",
         reinstatementFee: "$130 reinstatement + NIPR transaction fee after 1 year",
         reinstatementWindow: "1 year for late renewal; after that, prelicensing + exam required",
-        carryForward: "No — CE carry-forward not permitted (24 hrs biennial)",
+        carryForward: "Yes — up to 24 excess hours may carry forward to the next renewal period",
         lapseConsequence: "Your license expires and you face $320 in late fees, or must retake prelicensing and the exam if over a year late.",
       },
     },
@@ -1355,7 +1371,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "alert",
         title: "Connecticut's late-renewal penalties stack quickly",
-        body: "If you miss your Connecticut renewal, a $160 late fee is added to the $160 renewal fee — a $320 total — for up to 12 months after expiration. Past 12 months you must pay $130 plus the NIPR transaction fee to reinstate, and if you let more than a year lapse you must retake prelicensing and the exam. CE carry-forward is not permitted.",
+        body: "If you miss your Connecticut renewal, a $160 late fee is added to the $160 renewal fee — a $320 total — for up to 12 months after expiration. Past 12 months you must pay $130 plus the NIPR transaction fee to reinstate, and if you let more than a year lapse you must retake prelicensing and the exam. Connecticut permits carrying forward up to 24 excess CE hours to the next renewal period.",
         link: { href: "https://portal.ct.gov/cid/licensing/producer-individual", text: "Connecticut Insurance Department producer licensing", external: true },
       },
       {
@@ -1465,8 +1481,8 @@ export const STATES: Record<string, StateData> = {
     backgroundCheckCost: "85",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "2-5 weeks",
-    licenseIssueTime: "Within a couple weeks of submitting all documentation",
-    totalLicensingTime: "2-4 weeks",
+    licenseIssueTime: "Within about two to five weeks of submitting all documentation",
+    totalLicensingTime: "3-6 weeks",
 
     providerNumber: "500031593",
 
@@ -1520,7 +1536,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "CE and renewal fees due by Feb 28 of renewal year",
         reinstatementFee: "Not publicly posted — contact Delaware Producer Licensing",
         reinstatementWindow: "Reinstatement available; timeframes not publicly posted",
-        carryForward: "No — CE carry-forward not permitted per Regulation 504",
+        carryForward: "Yes — up to 5 excess credits carry forward to the next biennium; ethics credits excluded (18 Del. Admin. Code 504)",
         lapseConsequence: "Your license lapses if CE and fees are not received by February 28, and you cannot transact insurance until reinstated.",
       },
     },
@@ -1669,19 +1685,19 @@ export const STATES: Record<string, StateData> = {
         // ("a 30-hour life, variable contracts prelicensing course"). Verified 2026-07-06.
         hours: 30,
         price: "$199",
-        totalCost: "$341.00",
+        totalCost: "$342.50",
         completionTime: "30 hours",
       },
       health: {
         hours: 40,
         price: "$199",
-        totalCost: "$341.00",
+        totalCost: "$342.50",
         completionTime: "40 hours",
       },
       lifeAndHealth: {
         hours: 60,
         price: "$199",
-        totalCost: "$540.00",
+        totalCost: "$541.50",
         completionTime: "60 hours",
       },
     },
@@ -1823,7 +1839,7 @@ export const STATES: Record<string, StateData> = {
     backgroundRequirement: "Criminal background check required",
     fingerprintRequirement: "Fingerprinting required through IdentoGO (Code: 2TGJ6B)",
     applicationProcess: "Submit your application through NIPR, then upload your notarized Proof of Citizenship Affidavit and photo ID to the NIPR Attachment Warehouse",
-    applicationFee: "100",
+    applicationFee: "120",
     backgroundCheckCost: "51.5",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "14 business days",
@@ -1851,19 +1867,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: 8,
         price: "$199",
-        totalCost: "$417.50",
+        totalCost: "$437.50",
         completionTime: "8 hours",
       },
       health: {
         hours: 8,
         price: "$199",
-        totalCost: "$417.50",
+        totalCost: "$437.50",
         completionTime: "8 hours",
       },
       lifeAndHealth: {
         hours: 16,
         price: "$199",
-        totalCost: "$616.50",
+        totalCost: "$636.50",
         completionTime: "16 hours",
       },
     },
@@ -1971,8 +1987,8 @@ export const STATES: Record<string, StateData> = {
     },
     stateSpecificIntro: "Georgia is one of the fastest-growing states in the Southeast, with the Atlanta metro area serving as a major insurance and financial services hub for the entire region. Effective June 24, 2025, Georgia reduced prelicensing education to just 8 hours per line of authority (16 hours combined for Life & Health) — one of the shortest prelicensing requirements in the country. Exams are administered by Pearson VUE. Georgia's booming population growth, strong healthcare sector, and large military presence at Fort Benning and Fort Gordon create diverse insurance demand across all lines of coverage.",
     stateSpecificFAQ: {
-      question: "How long does it take to get a Georgia insurance license?",
-      answer: "Most candidates complete the Georgia insurance licensing process in 1 to 2 weeks from start to finish. This includes completing the 16-hour Life & Health prelicensing course (usually 2-3 days with focused study), scheduling and passing the Pearson VUE exam, completing fingerprinting through IdentoGO (Code: 2TGJ6B), and submitting your NIPR application. Georgia reduced prelicensing hours from 20 to 8 per line of authority effective June 24, 2025, making it one of the fastest states to get licensed.",
+      question: "Why does Georgia have such a short prelicensing requirement?",
+      answer: "Effective June 24, 2025, Georgia reduced prelicensing education from 20 hours to just 8 hours per line of authority (16 hours combined for Life & Health) — one of the shortest prelicensing requirements in the country. That shortens your study time, but plan for about 2-4 weeks overall once you add scheduling and passing the Pearson VUE exam, completing fingerprinting through IdentoGO (Code: 2TGJ6B), submitting your NIPR application, and the roughly 14 business days the Georgia OCI takes to process it.",
     },
   },
 
@@ -2001,8 +2017,15 @@ export const STATES: Record<string, StateData> = {
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "45-60 days",
     licenseIssueTime: "Less than 60 days after submitting all documentation",
-    totalLicensingTime: "2-4 weeks",
+    totalLicensingTime: "8-12 weeks",
 
+    // Hawaii CE PROVIDER registration #500031918 (HRS § 431:9A-151 CE course
+    // provider certificate). Owner-substantiated 2026-07-22 from the official NAIC
+    // SBS provider-approval export: JUSTINSURANCE LLC, CE Provider, Approved, exp
+    // 07/01/2027. Hawaii mandates no prelicensing, so credentialKindFromHours
+    // resolves this to a "Continuing Education Provider" badge — never a
+    // prelicensing credential. Same number in providerApprovalNumber below and
+    // cited in state-disclosures.ts `ce`.
     providerNumber: "500031918",
 
     examInfo: {
@@ -2170,7 +2193,7 @@ export const STATES: Record<string, StateData> = {
     fingerprintRequirement: "Fingerprinting required through Pearson VUE (Code: InsID-FPELC)",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "80",
-    backgroundCheckCost: "61.25",
+    backgroundCheckCost: "65",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "1-2 business days after fingerprints",
     licenseIssueTime: "a few days after submitting all required documentation",
@@ -2185,7 +2208,7 @@ export const STATES: Record<string, StateData> = {
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/id/insurance",
       examBookingUrl: "https://home.pearsonvue.com/id/insurance",
-      retakeWaitingPeriod: "scheduling your next available test date with no mandatory waiting period",
+      retakeWaitingPeriod: "a mandatory 24-hour wait — Pearson VUE will not take a reexamination reservation until 24 hours after your last attempt, and retake reservations are never made at the test center",
       retakeLimitInfo: "There is no limit on the number of times you can retake the exam. Your exam results are valid for 180 days for license application purposes.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://home.pearsonvue.com/id/insurance",
@@ -2197,19 +2220,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$405.25",
+        totalCost: "$409",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$405.25",
+        totalCost: "$409",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$669.25",
+        totalCost: "$673",
         completionTime: "40 hours",
       },
     },
@@ -2310,9 +2333,9 @@ export const STATES: Record<string, StateData> = {
     fingerprintingNotes: "Fingerprinting required through Pearson VUE (Code: InsID-FPELC)",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
-      ltc: null,
-      nfip: null,
-      annuity: null,
+      ltc: "8-hour initial LTC training required before selling long-term care products, plus a 4-hour LTC update course each 2-year renewal cycle thereafter.",
+      nfip: "One-time 3-hour National Flood Insurance Program (NFIP) course required before selling federal flood insurance policies.",
+      annuity: "One-time 4-hour annuity best-interest training required before selling annuity products.",
       other: null,
     },
     stateSpecificIntro: "Idaho does not require prelicensing education, and the state's insurance market is one of the fastest-growing in the Mountain West due to strong population inflows from California and other high-cost states. The Boise metro area has seen rapid growth in financial services employment, creating new opportunities for insurance professionals. Idaho uses Pearson VUE for exam administration and fingerprinting, making the biometric requirement convenient to complete at the same location as the exam.",
@@ -2520,7 +2543,7 @@ export const STATES: Record<string, StateData> = {
     fingerprintRequirement: "Not required",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "40",
-    backgroundCheckCost: "50",
+    backgroundCheckCost: "No separate fee",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "5-7 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
@@ -2578,7 +2601,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "None — license expires on expiration date",
         reinstatementFee: "$160 total ($40 renewal + $120 penalty) if CE incomplete",
         reinstatementWindow: "Up to 12 months after expiration; otherwise new license required",
-        carryForward: "No — CE carry-forward not permitted (24 hrs biennial)",
+        carryForward: "Yes — up to 12 excess hours may be applied to your next renewal, but only if you completed them within 120 days before your last renewal took effect; ethics and long-term care hours never carry over (Ind. Code § 27-1-15.7-2.2)",
         lapseConsequence: "Your license expires and you owe $160 in renewal and penalty fees to reinstate within 12 months or must relicense entirely.",
       },
     },
@@ -2604,7 +2627,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "tip",
         title: "Indiana's late-renewal penalty stacks to $160 to reinstate",
-        body: "If you miss your Indiana renewal, the reinstatement penalty is $120 — three times the $40 renewal fee — for a total of $160 to bring your license current within 12 months. Past 12 months you must relicense from scratch. CE carry-forward is not permitted; you must complete a fresh 24 CE hours (3 ethics) every two years on the last day of your birth month.",
+        body: "If you miss your Indiana renewal, the reinstatement penalty is $120 — three times the $40 renewal fee — for a total of $160 to bring your license current within 12 months. Past 12 months you must relicense from scratch. Indiana requires 24 CE hours (3 ethics) every two years, due on the last day of your birth month; up to 12 excess hours can be carried into the next renewal if you earned them within 120 days before your last renewal took effect, though ethics and long-term care hours never carry (Ind. Code § 27-1-15.7-2.2).",
       },
     ],
 
@@ -2690,14 +2713,14 @@ export const STATES: Record<string, StateData> = {
     minAge: 18,
     residencyRequirement: "Must be a resident of Iowa",
     backgroundRequirement: "Criminal background check required",
-    fingerprintRequirement: "Fingerprinting required through Fieldprint Iowa (Code: FPIADOINONRES)",
+    fingerprintRequirement: "Fingerprinting required through Fieldprint Iowa — the Iowa Insurance Division sends your Fieldprint code in the NIPR confirmation email after you submit your application",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "50",
     backgroundCheckCost: "50",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "3-6 weeks",
-    licenseIssueTime: "Less than a few weeks after submitting all documentation",
-    totalLicensingTime: "2-4 weeks",
+    licenseIssueTime: "About three to six weeks after submitting all documentation",
+    totalLicensingTime: "4-8 weeks",
 
     providerNumber: "48050",
 
@@ -2765,7 +2788,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "alert",
         title: "Iowa licenses run 3 years — and require 36 CE hours per cycle",
-        body: "Iowa is one of the few states with a 3-year license cycle, which front-loads a 36-hour CE requirement (including 3 ethics hours) every renewal period. Plan your CE schedule across the longer cycle — and remember Iowa requires fingerprinting through Fieldprint Iowa using service code FPIADOINONRES, which adds a step versus states without fingerprinting.",
+        body: "Iowa is one of the few states with a 3-year license cycle, which front-loads a 36-hour CE requirement (including 3 ethics hours) every renewal period. Plan your CE schedule across the longer cycle — and remember Iowa requires fingerprinting through Fieldprint Iowa using the service code the Iowa Insurance Division emails you once your NIPR application is submitted, which adds a step versus states without fingerprinting.",
         link: { href: "https://iid.iowa.gov/", text: "Iowa Insurance Division", external: true },
       },
       {
@@ -2830,7 +2853,7 @@ export const STATES: Record<string, StateData> = {
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 3 years)",
-    fingerprintingNotes: "Fingerprinting required through Fieldprint Iowa (Code: FPIADOINONRES)",
+    fingerprintingNotes: "Fingerprinting required through Fieldprint Iowa — the Iowa Insurance Division sends your Fieldprint code in the NIPR confirmation email after you submit your application",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
       ltc: null,
@@ -2865,19 +2888,25 @@ export const STATES: Record<string, StateData> = {
     backgroundRequirement: "Criminal background check required",
     fingerprintRequirement: "Fingerprinting required through KS DOI, DCF locations, local law enforcement, Pearson VUE, or KBI (Code: KS920161Z)",
     applicationProcess: "Submit your application through NIPR and upload your Tax Clearance to the NIPR Attachment Warehouse",
-    applicationFee: "40",
+    applicationFee: "30",
     backgroundCheckCost: "60",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "3-5 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "",
+    // Kansas CE provider #500032151 — owner-official NAIC SBS export (JUSTINSURANCE
+    // LLC, Continuing Education, Approved, exp 12/31/2026). Kansas mandates no
+    // prelicensing (educationCitation "N/A — not required"), so the StateProviderBadge
+    // credentialKind resolves to "ce" and renders a truthful "Continuing Education
+    // Provider" badge — same field convention as AZ/OK/MT. Matches
+    // providerApprovalNumber below (previously this field was blank).
+    providerNumber: "500032151",
 
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "67",
+      examFee: "57",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/ks/insurance",
       examBookingUrl: "https://home.pearsonvue.com/ks/insurance",
@@ -2887,25 +2916,25 @@ export const STATES: Record<string, StateData> = {
       examSchedulingInfo: "https://home.pearsonvue.com/ks/insurance",
     },
     noCombinedExam: false,
-    applicationBeforeExam: true,
+    applicationBeforeExam: false,
 
     prelicensing: {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$396.00",
+        totalCost: "$346.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$396.00",
+        totalCost: "$346.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$595.00",
+        totalCost: "$552.00",
         completionTime: "40 hours",
       },
     },
@@ -2936,9 +2965,9 @@ export const STATES: Record<string, StateData> = {
     },
     specialNotices: [
       {
-        kind: "alert",
-        title: "Kansas requires you to apply through NIPR before scheduling your exam",
-        body: "Kansas is an application-before-exam state — you must submit your NIPR application and receive authorization from the Kansas Insurance Department before scheduling your Pearson VUE exam. Plan your timeline accordingly: NIPR processing typically takes a few business days, and you cannot book a test slot without the authorization in hand.",
+        kind: "tip",
+        title: "Kansas lets you take the exam before or after you apply",
+        body: "Kansas is not an application-before-exam state — there is no Authorization to Test (ATT) or Insurance Department pre-authorization required to schedule your Pearson VUE exam. You may take and pass your licensing exam at any time, before or after you submit your NIPR license application. Passed exam scores stay valid for 2 years from the exam date.",
         link: { href: "https://insurance.kansas.gov/", text: "Kansas Insurance Department", external: true },
       },
       {
@@ -3011,10 +3040,10 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Kansas does not require prelicensing education, but like Arkansas it is an application-before-exam state — you must apply to the Kansas Insurance Department and receive exam authorization before scheduling your Pearson VUE exam. Kansas offers multiple fingerprinting options including Pearson VUE test centers, KBI locations, and local law enforcement, making the biometric step relatively accessible. The state's agricultural communities and growing Wichita metro create steady demand for crop, life, and health insurance agents.",
+    stateSpecificIntro: "Kansas does not require prelicensing education, and it lets you sit for the licensing exam at any time — before or after you apply to the Kansas Insurance Department, with no Authorization to Test required. Kansas offers multiple fingerprinting options including Pearson VUE test centers, KBI locations, and local law enforcement, making the biometric step relatively accessible. The state's agricultural communities and growing Wichita metro create steady demand for crop, life, and health insurance agents.",
     stateSpecificFAQ: {
       question: "Does Kansas require you to apply before scheduling the insurance exam?",
-      answer: "Yes. Kansas is an application-before-exam state. You must submit your license application through NIPR and receive authorization from the Kansas Insurance Department before you can schedule your exam with Pearson VUE. Kansas also requires fingerprinting, which can be done at Pearson VUE centers, Kansas Bureau of Investigation (KBI) locations, or local law enforcement offices using code KS920161Z.",
+      answer: "No. Kansas does not require you to apply before you test, and there is no Authorization to Test (ATT). You may take and pass your Pearson VUE licensing exam at any time — before or after you submit your license application through NIPR. Kansas does require fingerprinting, which can be done at Pearson VUE centers, Kansas Bureau of Investigation (KBI) locations, or local law enforcement offices using code KS920161Z.",
     },
   },
 
@@ -3037,7 +3066,7 @@ export const STATES: Record<string, StateData> = {
     residencyRequirement: "Must be a resident of Kentucky",
     backgroundRequirement: "Criminal background check required (no fingerprinting)",
     fingerprintRequirement: "No fingerprinting required — Kentucky requires a criminal background check (a court-records report) via the Administrative Office of the Courts (AOC) at kycourts.gov, valid 60 days.",
-    applicationProcess: "Submit your application through NIPR, then schedule your exam through the Kentucky eServices Portal",
+    applicationProcess: "Submit your application through NIPR before scheduling your exam",
     applicationFee: "40",
     backgroundCheckCost: "25",
     totalCostRange: "$350-500 estimated total cost",
@@ -3128,13 +3157,13 @@ export const STATES: Record<string, StateData> = {
     ],
 
     studentsCount: "2,600",
-    avgIncome: "$90,150",
+    avgIncome: "$56,100",
     jobGrowth: "6",
     firstYearIncome: "$30,090",
     firstYearIncomeHigh: "$38,460",
-    experiencedIncome: "$59,590",
+    experiencedIncome: "$56,100",
     experiencedIncomeHigh: "$77,200",
-    topProducerIncome: "$133,580",
+    topProducerIncome: "$122,870",
 
     testimonial1Name: "Samantha F.",
     testimonial2Name: "Nathan V.",
@@ -3388,8 +3417,8 @@ export const STATES: Record<string, StateData> = {
     backgroundCheckCost: "No fee required",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "3-5 weeks",
-    licenseIssueTime: "Less than a month after submitting all required documentation",
-    totalLicensingTime: "2-4 weeks",
+    licenseIssueTime: "About three to five weeks after submitting all required documentation",
+    totalLicensingTime: "4-7 weeks",
 
     providerNumber: "",
 
@@ -3401,7 +3430,7 @@ export const STATES: Record<string, StateData> = {
       examProviderUrl: "https://home.pearsonvue.com/me/insurance",
       examBookingUrl: "https://home.pearsonvue.com/me/insurance",
       retakeWaitingPeriod: "a 24-hour waiting period",
-      retakeLimitInfo: "There is no limit on the number of times you can retake the exam. You must apply for your license within 1 year of passing or you will need to retake the exam.",
+      retakeLimitInfo: "There is no limit on the number of times you can retake the exam. You must apply for your license within 2 years of passing or you will need to retake the exam.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://home.pearsonvue.com/me/insurance",
     },
@@ -3457,7 +3486,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "alert",
         title: "Maine has one of the lowest application fees and no fingerprinting requirement",
-        body: "Maine's $25 application fee is among the lowest in the country, and the state does not require fingerprinting for resident producer licensing — both factors that meaningfully shrink the time and cost between exam pass and active license. Most candidates are fully licensed within 2 to 3 weeks of passing the state exam.",
+        body: "Maine's $25 application fee is among the lowest in the country, and the state does not require fingerprinting for resident producer licensing — both factors that hold the cost down between exam pass and active license. Budget about three to five weeks for the Bureau of Insurance to process the application itself, so most candidates are fully licensed roughly four to seven weeks after they start.",
         link: { href: "https://www.maine.gov/pfr/insurance/home", text: "Maine Bureau of Insurance", external: true },
       },
       {
@@ -3559,7 +3588,7 @@ export const STATES: Record<string, StateData> = {
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "54",
     backgroundCheckCost: "No fee required",
-    totalCostRange: "$350-500 estimated total cost",
+    totalCostRange: "$350-500",
     applicationProcessingTime: "7-10 business days",
     licenseIssueTime: "Less than 10 days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
@@ -3569,7 +3598,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "60",
+      examFee: "62",
       examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/maryland/insurance",
       examBookingUrl: "https://www.prometric.com/maryland/insurance",
@@ -3585,19 +3614,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$313.00",
+        totalCost: "$315.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$313.00",
+        totalCost: "$315.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$512.00",
+        totalCost: "$514.00",
         completionTime: "40 hours",
       },
     },
@@ -3732,7 +3761,7 @@ export const STATES: Record<string, StateData> = {
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "225",
     backgroundCheckCost: "No separate fee",
-    totalCostRange: "$350-500 estimated total cost",
+    totalCostRange: "$350–$500",
     applicationProcessingTime: "2 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
@@ -3742,7 +3771,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "39",
+      examFee: "37",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/us/en/ma/insurance.html",
       examBookingUrl: "https://www.pearsonvue.com/us/en/ma/insurance.html",
@@ -3758,19 +3787,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$463.00",
+        totalCost: "$461.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$463.00",
+        totalCost: "$461.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$662.00",
+        totalCost: "$660.00",
         completionTime: "40 hours",
       },
     },
@@ -3790,7 +3819,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "None — penalties begin at renewal date",
         reinstatementFee: "$450 or $525 depending on lines of authority",
         reinstatementWindow: "Reinstatement available for resident producers after suspension",
-        carryForward: "Yes — up to 45 hours (MA uses 3-year cycle); ethics carry as general only, must earn 3 new ethics each cycle",
+        carryForward: "Yes — excess classroom hours earned in one 36-month period may be carried forward to the next 36-month period only; each renewal still requires 3 new ethics credits",
         lapseConsequence: "Your license may be suspended and you must pay a $450 to $525 reinstatement fee plus complete all outstanding CE hours.",
       },
     },
@@ -3909,7 +3938,7 @@ export const STATES: Record<string, StateData> = {
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "14-21 business days",
     licenseIssueTime: "Less than a 3 weeks after submitting all required documentatino",
-    totalLicensingTime: "2-4 weeks",
+    totalLicensingTime: "5-8 weeks",
 
     providerNumber: "1140",
 
@@ -3963,7 +3992,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "Less than 90 days past CE review date: license reactivates on CE upload",
         reinstatementFee: "$10 application fee plus $5 NIPR transaction fee",
         reinstatementWindow: "Within 12 months of CE review date",
-        carryForward: "Yes — excess hours may carry over per DIFS carryover rules",
+        carryForward: "Yes — up to 12 excess credit hours carry into the next CE review period, and only once you are already compliant for the current one; ethics must be re-earned every period, so surplus ethics hours count only as general CE (DIFS)",
         lapseConsequence: "Your license is suspended or inactive and must be reinstated through NIPR with completed CE within 12 months or reapplication is required.",
       },
     },
@@ -4083,7 +4112,14 @@ export const STATES: Record<string, StateData> = {
     fingerprintRequirement: "Fingerprinting required through PSI test centers",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "50",
-    backgroundCheckCost: "65",
+    // ✅ VERIFIED + FIXED 2026-07-22 — was "65". PRIMARY SOURCE: PSI "Insurance
+    // Examinations Candidate Information Bulletin — Minnesota" (© 2026 PSI, dated
+    // 1/6/2026), "FINGERPRINT REQUIREMENT": electronic fingerprinting at a PSI
+    // Minnesota site is a "$63.75 fee ... payable by VISA, MasterCard, American
+    // Express or Discover." The bulletin documents ONLY on-site electronic
+    // fingerprinting at $63.75 — it contains no mail-in/hard-card option or
+    // $33.25 figure, so that alternative is HELD (unconfirmed) rather than stored.
+    backgroundCheckCost: "63.75",
     totalCostRange: "$360–$560 (course + state fees, by line of authority)",
     applicationProcessingTime: "10 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
@@ -4098,7 +4134,14 @@ export const STATES: Record<string, StateData> = {
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/mnins",
       examBookingUrl: "https://test-takers.psiexams.com/mnins",
-      retakeWaitingPeriod: "a 24-hour waiting period",
+      // ✅ VERIFIED + FIXED 2026-07-22 — was "a 24-hour waiting period" (unsupported).
+      // PRIMARY SOURCE: PSI Minnesota candidate bulletin (© 2026, 1/6/2026),
+      // "RETAKING A FAILED EXAMINATION": "It is not possible to make a new
+      // examination appointment on the same day you have taken an examination ...
+      // A candidate who tests unsuccessfully on a Wednesday can call the next day,
+      // Thursday, and retest as soon as Friday, depending upon space availability."
+      // No fixed 24-hour clock — it is a no-same-day-rebooking rule.
+      retakeWaitingPeriod: "you cannot book a new appointment on the same day you test, but you can register the next day and retest as soon as the following day, subject to seat availability",
       retakeLimitInfo: "There is no limit on the number of times you can retake the exam. Your exam results are valid for 3 years.",
       examResultsTiming: "Immediately at the test center (PSI shows your pass/fail result on screen when you finish)",
       examSchedulingInfo: "https://test-takers.psiexams.com/mnins",
@@ -4106,23 +4149,30 @@ export const STATES: Record<string, StateData> = {
     noCombinedExam: false,
     applicationBeforeExam: false,
 
+    // Totals below rebased 2026-07-22 after backgroundCheckCost $65 -> $63.75.
+    // These totalCost fields embed the background-check fee: life/health =
+    // course $199 + exam $45 + application $50 + background $63.75 = $357.75
+    // (was $359.00 at $65). lifeAndHealth = 2×course $398 + one combined
+    // "Life, Accident & Health Producer" exam $45 (PSI MN bulletin fee table) +
+    // application $50 + background $63.75 = $556.75 (was $558.00). Reconciles
+    // exactly by arithmetic; only the −$1.25 fee delta moved.
     prelicensing: {
       life: {
         hours: 20,
         price: "$199",
-        totalCost: "$359.00",
+        totalCost: "$357.75",
         completionTime: "20 hours",
       },
       health: {
         hours: 20,
         price: "$199",
-        totalCost: "$359.00",
+        totalCost: "$357.75",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: 40,
         price: "$199",
-        totalCost: "$558.00",
+        totalCost: "$556.75",
         completionTime: "40 hours",
       },
     },
@@ -4272,11 +4322,11 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 65,
       passRate: "93.20",
-      examFee: "52",
+      examFee: "50",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/ms/insurance",
       examBookingUrl: "https://home.pearsonvue.com/ms/insurance",
-      retakeWaitingPeriod: "a 24-hour waiting period at a test center (14 days if testing online, and only 1 online attempt is allowed)",
+      retakeWaitingPeriod: "a 24-hour waiting period at a test center, where retakes are unlimited (if testing online via OnVUE, you are limited to 2 attempts per exam and must wait 14 days before the second attempt)",
       retakeLimitInfo: "There is no limit on the number of times you can retake the exam at a test center. Your pre-licensing education certificate is valid for 2 years.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://home.pearsonvue.com/ms/insurance",
@@ -4288,19 +4338,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: 20,
         price: "$199",
-        totalCost: "$351.00",
+        totalCost: "$349.00",
         completionTime: "20 hours",
       },
       health: {
         hours: 20,
         price: "$199",
-        totalCost: "$351.00",
+        totalCost: "$349.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: 40,
         price: "$199",
-        totalCost: "$550.00",
+        totalCost: "$548.00",
         completionTime: "40 hours",
       },
     },
@@ -4450,7 +4500,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "29-$35",
+      examFee: "32",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/mo/insurance",
       examBookingUrl: "https://www.pearsonvue.com/mo/insurance",
@@ -4497,7 +4547,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "None — late fees accrue immediately after expiration",
         reinstatementFee: "$100 renewal fee plus accumulated monthly late fees",
         reinstatementWindow: "Up to 1 year past expiration with late fees",
-        carryForward: "No — courses must be completed within the applicable biennium",
+        carryForward: "Yes — excess hours earned in one two-year period carry forward to the two-year period immediately following, but no further (§ 375.020.4, RSMo)",
         lapseConsequence: "Your license expires and you owe $25 per month in late fees, capped at one year, after which you must reapply entirely.",
       },
     },
@@ -4629,7 +4679,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 75,
       passRate: "93.20",
-      examFee: "59",
+      examFee: "65",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/mt/insurance",
       examBookingUrl: "https://www.pearsonvue.com/mt/insurance",
@@ -4645,19 +4695,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$288.00",
+        totalCost: "$294.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$288.00",
+        totalCost: "$294.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$546.00",
+        totalCost: "$558.00",
         completionTime: "40 hours",
       },
     },
@@ -4666,6 +4716,9 @@ export const STATES: Record<string, StateData> = {
       totalHours: 24,
       renewalPeriod: "2 years",
       ethicsHours: 3,
+      lawChangeHours: 1,
+      mandatedTopicHours:
+        "Beyond the 3 ethics hours, at least 1 of the 24 credit hours must cover changes in Montana insurance statutes and administrative rules (Mont. Code Ann. §33-17-1203). A general course does not satisfy this — the credit must carry that specific topic designation.",
       requirementsUrl: "https://csimt.gov/insurance/licensing/",
       packagePrice: "$75",
       ethicsCoursePrice: "$10",
@@ -4702,7 +4755,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "tip",
         title: "Montana's agricultural economy drives farm and crop coverage demand",
-        body: "Montana's vast rural geography and ranching/farming-centric economy create significant demand for agricultural, crop, and life insurance specialists. Licenses renew every 2 years with 24 CE hours (3 ethics); a one-year grace period allows late renewal with a $100 fee, after which you must reapply as a new applicant. No fingerprinting for reciprocity — no exam either.",
+        body: "Montana's vast rural geography and ranching/farming-centric economy create significant demand for agricultural, crop, and life insurance specialists. Licenses renew every 2 years with 24 CE hours (3 ethics + a 1-hour Montana insurance-law-changes credit, per Mont. Code Ann. §33-17-1203); a one-year grace period allows late renewal with a $100 fee, after which you must reapply as a new applicant. No fingerprinting for reciprocity — no exam either.",
       },
     ],
 
@@ -5156,8 +5209,8 @@ export const STATES: Record<string, StateData> = {
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/nhins",
       examBookingUrl: "https://test-takers.psiexams.com/nhins",
-      retakeWaitingPeriod: "scheduling your next available test date for your first three attempts, but a 4-week mandatory waiting period applies after your third failure",
-      retakeLimitInfo: "You may take the exam up to 3 times within your 90-day authorization period. After a third failure, you must wait 4 weeks and repeat the entire application process.",
+      retakeWaitingPeriod: "scheduling your next available test date — you cannot rebook on the same day you test, but you can book a new attempt the next day and retest as soon as the day after, subject to seat availability",
+      retakeLimitInfo: "There is no limit on the number of times you can retake the exam. Your exam fee is valid for one year from the date of payment, so you must pass within that one-year window.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://test-takers.psiexams.com/nhins",
     },
@@ -5327,7 +5380,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "47",
+      examFee: "38",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/njins",
       examBookingUrl: "https://test-takers.psiexams.com/njins",
@@ -5343,19 +5396,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: 20,
         price: "$199",
-        totalCost: "$482.05",
+        totalCost: "$473.00",
         completionTime: "20 hours",
       },
       health: {
         hours: 20,
         price: "$199",
-        totalCost: "$482.05",
+        totalCost: "$473.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: 40,
         price: "$199",
-        totalCost: "$728.05",
+        totalCost: "$710.00",
         completionTime: "40 hours",
       },
     },
@@ -5492,10 +5545,15 @@ export const STATES: Record<string, StateData> = {
     backgroundCheckCost: "59",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "10 days to 3-5 weeks",
-    licenseIssueTime: "less than a month after submitting all required documentation.",
-    totalLicensingTime: "2-4 weeks",
+    licenseIssueTime: "roughly 10 days to five weeks after submitting all required documentation.",
+    totalLicensingTime: "3-6 weeks",
 
-    providerNumber: "",
+    // New Mexico CE provider #500032437 — owner-official NAIC SBS export
+    // (JUSTINSURANCE LLC, Continuing Education, Approved). New Mexico mandates no
+    // prelicensing, so the StateProviderBadge credentialKind resolves to "ce" and
+    // renders a truthful "Continuing Education Provider" badge — same field
+    // convention as AZ/OK/MT. Matches providerApprovalNumber below (previously blank).
+    providerNumber: "500032437",
 
     examInfo: {
       passingScore: 70,
@@ -5537,6 +5595,7 @@ export const STATES: Record<string, StateData> = {
       totalHours: 24,
       renewalPeriod: "2 years",
       ethicsHours: 3,
+      liveInstructorHours: 3,
       requirementsUrl: "https://www.osi.state.nm.us/en/insurance-professionals/individuals-and-agencies/continuing-education/",
       packagePrice: "$75",
       ethicsCoursePrice: "$10",
@@ -5662,7 +5721,7 @@ export const STATES: Record<string, StateData> = {
     fingerprintRequirement: "Not required",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "80",
-    backgroundCheckCost: "Varies by location",
+    backgroundCheckCost: "No separate fee",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "1-5 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
@@ -5673,7 +5732,13 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "33",
+      // Fee verified 2026-07-22 against the PSI New York insurance candidate
+      // bulletin (updated 4/28/2023) AND PSI's live booking API
+      // (/api/account/nyins/test/{id} -> {"feeType":"ExamFee","amount":40.0},
+      // RetakeFee 40.0) for all 28 NY exams. Was "33", a stale 2021 figure.
+      // NY's combined Life, Accident & Health exam (Series 17-55) is priced
+      // IDENTICALLY at $40, so the L&H page needs no combinedExamFeeOverride.
+      examFee: "40",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/nyins",
       examBookingUrl: "https://test-takers.psiexams.com/nyins",
@@ -5685,6 +5750,16 @@ export const STATES: Record<string, StateData> = {
     noCombinedExam: false,
     applicationBeforeExam: false,
 
+    // ⚠️ totalCost DELIBERATELY NOT RECOMPUTED for the $33 -> $40 exam-fee fix
+    // (audit 2026-07-22). New York's totals do NOT reconcile against its own
+    // stored inputs, and the exam fee is not the reason:
+    //   published single-line 352.00 - (199 course + 80 application + 0
+    //   background) = 73.00 of "exam fee", against a true PSI fee of $40.
+    //   Residual +33.00 is UNEXPLAINED and predates this fix (it was +40.00
+    //   against the stale $33). Forcing 199+40+80 = 319.00 here would be
+    //   asserting a number no source supports.
+    // The L&H total carries the identical residual: 551.00 - (398 + 80) = 73.00.
+    // HELD for a dedicated New York totals pass. Do not "reconcile" these.
     prelicensing: {
       life: {
         hours: 20,
@@ -5740,10 +5815,33 @@ export const STATES: Record<string, StateData> = {
       price: "$59",
     },
     specialNotices: [
+      // AVAILABILITY DISCLOSURE — must stay FIRST, and must stay in place for as
+      // long as providerApprovalNumber above is "PENDING". New York mandates
+      // prelicensing (20/20/40 numeric hours), so isPrelicensingHeld() already
+      // replaces /new-york/prelicensing and /new-york/prelicensing/[loa] with the
+      // neutral "Enrollment opening soon" placeholder (noindex). The state HUB
+      // (/new-york) and the COST page (/new-york/cost) are rendered by shared
+      // [state] templates that still present an active purchase path — see
+      // src/components/HowToGetLicensed.tsx ("JustInsurance offers Life, Health,
+      // and Life & Health prelicensing online for $199 per line") and
+      // src/app/[state]/cost/page.tsx (the "Plan for about $312 all-in" FAQ, the
+      // "$199 Everything Included" block, and the "Start Now for $199" CTAs that
+      // point at the held prelicensing route). This notice renders high on
+      // /new-york, above those blocks, so the availability status is stated
+      // before any price is. It is a mitigation, NOT the fix: the shared
+      // templates still need to gate on isPrelicensingHeld(). Delete this notice
+      // the moment DFS approval issues and providerApprovalNumber is set to a
+      // real number.
+      {
+        kind: "alert",
+        title: "JustInsurance New York enrollment is not open yet — DFS approval pending",
+        body: "Our New York provider approval with the Department of Financial Services is still pending, so JustInsurance prelicensing courses are not open for enrollment in New York. Course prices and all-in cost estimates shown on our New York pages are for planning reference only — they are not a purchase you can complete today. Our New York continuing education is not DFS-approved either, so CE completions cannot be reported to DFS and do not yet satisfy a New York renewal. The New York licensing information on this site — hour requirements, exam structure, fees, deadlines, and DFS contacts — stays current and maintained either way. Tell us you are interested and we will let you know the moment New York enrollment opens.",
+        link: { href: "/contact", text: "Get notified when New York opens" },
+      },
       {
         kind: "tip",
         title: "New York offers a combined Life, Accident & Health exam — plus single-line options",
-        body: "Through PSI, New York offers a combined Life, Accident & Health Insurance Agent/Broker exam (Series 10-55), so you can cover both lines in one sitting. You can also take separate Life (Series 10-51) and Accident & Health (Series 10-52) exams if you prefer to test one line at a time. Property and Casualty are separate lines with their own exams. Confirm your prelicensing course covers each line you plan to test.",
+        body: "Through PSI, New York offers a combined Life, Accident & Health Insurance Agent/Broker exam (Series 17-55), so you can cover both lines in one sitting. You can also take separate Life (Series 17-51) and Accident & Health (Series 17-52) exams if you prefer to test one line at a time. Property and Casualty are separate lines with their own exams. Confirm your prelicensing course covers each line you plan to test.",
         link: { href: "https://www.dfs.ny.gov/apps_and_licensing/agents_and_brokers/home", text: "NY DFS producer licensing", external: true },
       },
       {
@@ -5824,12 +5922,12 @@ export const STATES: Record<string, StateData> = {
       ltc: null,
       nfip: null,
       annuity: null,
-      other: "New York issues line-specific licenses (Life, Accident & Health, Property, Casualty). Life and Accident & Health can be taken as a combined exam (Series 10-55) or as separate single-line exams; Property and Casualty are licensed separately.",
+      other: "New York issues line-specific licenses (Life, Accident & Health, Property, Casualty). Life and Accident & Health can be taken as a combined exam (Series 17-55) or as separate single-line exams; Property and Casualty are licensed separately.",
     },
-    stateSpecificIntro: "New York anchors one of the largest insurance markets in the country, and its exam structure gives candidates a choice: through PSI, New York offers a combined Life, Accident & Health exam (Series 10-55) as well as separate single-line Life and Accident & Health exams. New York prelicensing certificates do not expire, providing scheduling flexibility. New York City is home to a dense concentration of financial services firms, commercial carriers, and retail agents across all product lines.",
+    stateSpecificIntro: "New York anchors one of the largest insurance markets in the country, and its exam structure gives candidates a choice: through PSI, New York offers a combined Life, Accident & Health exam (Series 17-55) as well as separate single-line Life and Accident & Health exams. New York prelicensing certificates do not expire, providing scheduling flexibility. New York City is home to a dense concentration of financial services firms, commercial carriers, and retail agents across all product lines.",
     stateSpecificFAQ: {
       question: "Does New York offer a combined Life & Health insurance exam?",
-      answer: "Yes. Through PSI, New York offers a combined Life, Accident & Health Insurance Agent/Broker exam (Series 10-55), so you can cover both lines in a single exam. You can also sit separate Life (Series 10-51) and Accident & Health (Series 10-52) exams if you prefer to test one line at a time. Property and Casualty are separate lines with their own exams. New York prelicensing certificates do not expire, and the state does not require fingerprinting for producer licensing, which simplifies the process.",
+      answer: "Yes. Through PSI, New York offers a combined Life, Accident & Health Insurance Agent/Broker exam (Series 17-55), so you can cover both lines in a single exam. You can also sit separate Life (Series 17-51) and Accident & Health (Series 17-52) exams if you prefer to test one line at a time. Property and Casualty are separate lines with their own exams. New York prelicensing certificates do not expire, and the state does not require fingerprinting for producer licensing, which simplifies the process.",
     },
   },
 
@@ -5847,18 +5945,18 @@ export const STATES: Record<string, StateData> = {
 
     agentLicensingUrl: "https://www.ncdoi.gov/licensees/agent-and-adjuster-licensing/become-insurance-producer-or-adjuster",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
-    licenseDuration: "2 years",
+    licenseDuration: "Perpetual (CE renewal every 2 years)",
     minAge: 18,
     residencyRequirement: "Must be a resident of North Carolina",
     backgroundRequirement: "Criminal background check required",
-    fingerprintRequirement: "Fingerprinting required through Local police department",
+    fingerprintRequirement: "Fingerprinting required through your local police department",
     applicationProcess: "Submit your application through NIPR before scheduling your exam — you will receive your Candidate ID# and exam authorization by email",
     applicationFee: "82",
     backgroundCheckCost: "38",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "2-6 weeks (official: 60 days)",
     licenseIssueTime: "less than a month after submitting all required documentation.",
-    totalLicensingTime: "2-4 weeks",
+    totalLicensingTime: "4-8 weeks (NCDOI official standard: 60 days)",
 
     providerNumber: "10031544",
 
@@ -5932,7 +6030,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "alert",
         title: "Submit your NIPR application BEFORE scheduling the Pearson VUE exam",
-        body: "North Carolina is one of only a few states that requires you to apply for licensure before testing. Submit your application through NIPR first; you will receive a Candidate ID and exam authorization by email. You then have up to 5 attempts within 90 days of receiving your Exam Admission Ticket to pass. Test centers will turn you away without authorization.",
+        body: "North Carolina is one of only a few states that requires you to apply for licensure before testing. Submit your application through NIPR first; you will receive a Candidate ID and exam authorization by email. Your license application is valid for 6 months, and the authorization email lists the start and end dates of your eligibility period — if your license has not been issued by that end date, you must reapply through NIPR. Test centers will turn you away without authorization.",
       },
       {
         kind: "tip",
@@ -5991,7 +6089,7 @@ export const STATES: Record<string, StateData> = {
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
-    fingerprintingNotes: "Fingerprinting required through Local police department",
+    fingerprintingNotes: "Fingerprinting required through your local police department",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
       ltc: null,
@@ -6024,21 +6122,29 @@ export const STATES: Record<string, StateData> = {
     minAge: 18,
     residencyRequirement: "Must be a resident of North Dakota",
     backgroundRequirement: "Criminal background check required",
-    fingerprintRequirement: "Fingerprinting required through ND DOI fingerprint forms",
+    fingerprintRequirement: "Fingerprinting required — initial resident applicants must submit a state and national fingerprint-based criminal history check; prints can be taken at a PSI test center ($29 processing fee to PSI) or elsewhere, plus a $40 fee to the North Dakota Attorney General",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "100",
     backgroundCheckCost: "70",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "3-5 weeks",
-    licenseIssueTime: "less than a month after submitting all required documentation.",
-    totalLicensingTime: "2-4 weeks",
+    licenseIssueTime: "about three to five weeks after submitting all required documentation.",
+    totalLicensingTime: "4-7 weeks",
 
     providerNumber: "500031603",
 
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "64",
+      // Fee verified 2026-07-22 against the PSI North Dakota candidate bulletin
+      // (rev. 6/22/2026): $67 for Life, Accident & Health or Sickness, Property
+      // and Casualty. Was "64" — the superseded 2024 bulletin figure, which
+      // insurance.nd.gov still hosts (revision drift, not a misread).
+      // ⚠️ LIMITED-LINES EXCEPTION not expressible in this scalar field: Personal
+      // Lines, Public Adjuster, Bail Bonds, Credit, Crop and Legal Expense are
+      // $61, not $67. $67 is stored because it covers the major producer lines
+      // this site sells (Life, Health, P&C). Do not apply $67 to Personal Lines.
+      examFee: "67",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/ndins/test",
       examBookingUrl: "https://test-takers.psiexams.com/ndins/test",
@@ -6050,23 +6156,29 @@ export const STATES: Record<string, StateData> = {
     noCombinedExam: true,
     applicationBeforeExam: false,
 
+    // totalCost recomputed 2026-07-22 for the $64 -> $67 PSI exam-fee revision.
+    // Single line: 199 (course) + 67 (exam) + 100 (application) + 70 (background)
+    //   = 436.00  [was 433.00, which reconciled exactly against the old $64]
+    // Life & Health: 199 x 2 (two line courses) + 67 x 2 (ND has NO combined
+    //   exam, so two exam fees) + 100 + 70 = 398 + 134 + 170 = 702.00
+    //   [was 696.00 = 398 + 128 + 170, i.e. exactly 2 x $64]
     prelicensing: {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$433.00",
+        totalCost: "$436.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$433.00",
+        totalCost: "$436.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$696.00",
+        totalCost: "$702.00",
         completionTime: "40 hours",
       },
     },
@@ -6182,12 +6294,12 @@ export const STATES: Record<string, StateData> = {
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
-    fingerprintingNotes: "Fingerprinting required through ND DOI fingerprint forms",
+    fingerprintingNotes: "Fingerprinting required — initial resident applicants must submit a state and national fingerprint-based criminal history check; prints can be taken at a PSI test center ($29 processing fee to PSI) or elsewhere, plus a $40 fee to the North Dakota Attorney General",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
-      ltc: null,
+      ltc: "8-hour initial LTC certification training required before selling long-term care partnership products, plus a 4-hour ongoing LTC training every 24 months thereafter (N.D. Insurance Department long-term care training requirement).",
       nfip: null,
-      annuity: null,
+      annuity: "One-time 4-hour annuity suitability training required before selling annuity products (N.D. Insurance Department annuity suitability training requirement).",
       other: null,
     },
     stateSpecificIntro: "North Dakota does not offer a combined Life & Health exam and does not require prelicensing education. North Dakota producer licenses renew every 2 years on the last day of the licensee's birth month, with 24 hours of CE required per cycle (including 3 hours of ethics). North Dakota's oil boom economy in the Bakken region has created significant demand for commercial insurance, workers' compensation, and business income coverage, while its large agricultural sector drives demand for crop and farm insurance specialists.",
@@ -6229,18 +6341,40 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
+      // Fee verified 2026-07-22 against the PSI Ohio candidate bulletin
+      // ("Updated 3/24/2026") and the Ohio DOI's own published fee statement:
+      // Ohio charges ONE FLAT $49 for every insurance exam, including the
+      // combined OH Life, Accident and Health (Series 11-35). Was "42", stale.
+      // NOTE: Ohio's prelicensing totalCost figures below were ALREADY computed
+      // from $49 and are correct as-is — do NOT add the $7 delta to them.
       examFee: "49",
       examProvider: "PSI Services LLC",
-      examProviderUrl: "https://www.psiexams.com/ohin",
-      examBookingUrl: "https://www.psiexams.com/ohin",
+      // DEAD-LINK FIX 2026-07-22: the PSI client alias "ohin" DOES NOT EXIST.
+      // Proven live, not inferred: https://test-takers.psiexams.com/api/account/ohins
+      // returns the Ohio Insurance account config (200, no errorCode), while
+      // .../api/account/ohin returns HTTP 400 (AccountsService.InvalidClient);
+      // and https://www.psiexams.com/ohin/ itself 301-redirects to
+      // https://test-takers.psiexams.com/ohins. The PSI bulletin header and the
+      // Ohio DOI both link to "ohins". Do not revert to "ohin".
+      examProviderUrl: "https://test-takers.psiexams.com/ohins",
+      examBookingUrl: "https://test-takers.psiexams.com/ohins",
       retakeWaitingPeriod: "scheduling your next available test date with no mandatory waiting period",
       retakeLimitInfo: "There is no formal limit on retakes, but your pre-licensing education certificate is valid for only 180 days. You must pass within that window or retake the entire pre-licensing course.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
-      examSchedulingInfo: "https://www.psiexams.com/ohin",
+      examSchedulingInfo: "https://test-takers.psiexams.com/ohins",
     },
     noCombinedExam: false,
     applicationBeforeExam: false,
 
+    // ⚠️ totalCost INTENTIONALLY UNCHANGED by the $42 -> $49 exam-fee fix
+    // (audit 2026-07-22). Ohio's published totals were ALREADY computed from
+    // the true $49; the stale side was examFee, not the totals. Verified:
+    //   single line: 199 + 49 + 10 + 72.25 = 330.25  (exact match)
+    //     — against the old $42 this was 323.25, i.e. the +7.00 "drift" some
+    //       audits reported was the fee being wrong, NOT the total.
+    //   life & health: 199 x 2 + 49 x 2 + 10 + 72.25 = 398 + 98 + 82.25
+    //       = 578.25  (exact match; 2 x $42 would give 564.25)
+    // DO NOT add $7 to these — that would double-count and break correct data.
     prelicensing: {
       life: {
         hours: 20,
@@ -6274,7 +6408,7 @@ export const STATES: Record<string, StateData> = {
       compliance: {
         lateFee: "$50 late renewal fee during 1-month grace",
         gracePeriod: "1 month after expiration",
-        reinstatementFee: "$300 (plus renewal fee if applicable)",
+        reinstatementFee: "$100 license reinstatement fee (plus the $25 renewal fee if applicable)",
         reinstatementWindow: "Up to 1 year; after that full re-licensing required",
         carryForward: "Yes — up to 50% of next cycle's requirement (up to 12 hrs for Major Lines)",
         lapseConsequence: "Your license is suspended and you cannot transact insurance in Ohio until CE is completed and reinstatement fees are paid.",
@@ -6301,7 +6435,7 @@ export const STATES: Record<string, StateData> = {
         kind: "tip",
         title: "Ohio uses PSI — register through the psiexams.com Ohio portal",
         body: "Ohio insurance licensing exams are delivered by PSI Services LLC at testing centers across the state. There is no mandatory waiting period between retakes. Most candidates receive results within minutes of finishing. Confirm question count, time limit, and current exam fee in the PSI Ohio candidate handbook before scheduling.",
-        link: { href: "https://www.psiexams.com/ohin", text: "PSI Ohio portal", external: true },
+        link: { href: "https://test-takers.psiexams.com/ohins", text: "PSI Ohio portal", external: true },
       },
       {
         kind: "tip",
@@ -6411,8 +6545,8 @@ export const STATES: Record<string, StateData> = {
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/okins",
       examBookingUrl: "https://test-takers.psiexams.com/okins",
-      retakeWaitingPeriod: "your next available test date for your first retake, but a mandatory 30-day waiting period applies after your second and each subsequent failure",
-      retakeLimitInfo: "There is no explicit limit on total attempts, but you have a 180-day eligibility window. The 30-day waits after your second failure significantly limit how many attempts are possible. If you pass one portion, you must pass the remaining portion within 30 days or start over.",
+      retakeWaitingPeriod: "scheduling your next available test date with no mandatory waiting period",
+      retakeLimitInfo: "There is no limit on the number of times you can retake the exam; the only restriction is that you cannot rebook on the same day as a failed attempt, so you must reschedule for the next available day.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://test-takers.psiexams.com/okins",
     },
@@ -6444,6 +6578,8 @@ export const STATES: Record<string, StateData> = {
       totalHours: 24,
       renewalPeriod: "2 years",
       ethicsHours: 3,
+      mandatedTopicHours:
+        "Within the 24-hour requirement, Oklahoma also mandates 2 hours of legislative update on top of the ethics hours — leaving 19 hours of producer general. A general course does not satisfy the ethics or legislative-update categories (Oklahoma Insurance Department, License CE Requirements).",
       requirementsUrl: "https://www.oid.ok.gov/licensing-and-education/license-ce-requirements/",
       packagePrice: "$75",
       ethicsCoursePrice: "$10",
@@ -6584,10 +6720,21 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "less than two weeks after submitting all required documentation.",
     totalLicensingTime: "2-4 weeks",
 
-    // Oregon issues SEPARATE provider registrations. #500030899 = Pre-Licensing
-    // (OAR 836-071-0190) — the correct number to show under a prelicensing badge.
-    // #500031572 = Continuing Education (OAR 836-071-0242) — use only on CE pages.
-    // Verified against NAIC SBS + DFR 2026-07-06.
+    // Oregon issues SEPARATE provider registrations (both are 9-digit NAIC SBS
+    // provider IDs — DFR administers Oregon insurance-education registration
+    // through State Based Systems, so the 5000xxxxx format is expected, not a typo):
+    //   #500030899 = Pre-Licensing SCHOOL (OAR 836-071-0190) — the correct number to
+    //     show under a PRELICENSING badge. Oregon mandates prelicensing (OAR
+    //     836-071-0180: 20 hrs/line, 40 combined), so a school registration exists.
+    //   #500031572 = Continuing Education PROVIDER (OAR 836-071-0242) — CE pages only;
+    //     held in `providerApprovalNumber` below and cited in state-disclosures.ts CE.
+    // OWNER-RECONFIRMED 2026-07-22: 500031572 IS JustInsurance's Oregon CE provider #.
+    // Originally verified against the owner-supplied NAIC SBS provider export + DFR
+    // 2026-07-06. NOTE: the live public SBS provider-record lookup is interactive
+    // (returns 403 to a direct fetch), so the specific record could not be re-pulled
+    // independently this session — roles rest on owner authority + the SBS export.
+    // HELD for owner: 500030899's school role was NOT re-confirmed this session; do
+    // NOT overwrite it. Left as-is per the 2026-07-06 SBS export.
     providerNumber: "500030899",
 
     examInfo: {
@@ -6630,6 +6777,14 @@ export const STATES: Record<string, StateData> = {
       totalHours: 24,
       renewalPeriod: "2 years",
       ethicsHours: 3,
+      // fid-215: ethicsHours captures only ONE of the two 3-hour components
+      // OAR 836-071-0215 mandates inside Oregon's 24 hours. The second — 3
+      // credit hours on Oregon statutes and administrative rules — has no
+      // dedicated CEInfo field, so it is surfaced via mandatedTopicHours on
+      // the CE hub, per-LOA CE and requirements pages. Do not read
+      // ethicsHours: 3 as "ethics is Oregon's only CE topic mandate."
+      mandatedTopicHours:
+        "Within the 24 hours, OAR 836-071-0215 mandates two separate components: at least 3 credit hours on professional ethics for insurance producers AND at least 3 credit hours on Oregon statutes and administrative rules, including recent changes. These are distinct requirements — a single course does not satisfy both.",
       requirementsUrl: "https://dfr.oregon.gov/business/licensing/training-ce/req/pages/index.aspx",
       packagePrice: "$75",
       ethicsCoursePrice: "$10",
@@ -6720,6 +6875,9 @@ export const STATES: Record<string, StateData> = {
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
+    // CE provider registration # (OAR 836-071-0242), owner-reconfirmed 2026-07-22.
+    // Distinct from providerNumber above (500030899 = prelicensing school). Do NOT
+    // relabel this as a "prelicensing approval #" — it is the CE registration number.
     providerApprovalNumber: "500031572",
     lastVerified: "March 2026",
     realPassRate: 93.2,
@@ -6772,7 +6930,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "43",
+      examFee: "45",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/pain",
       examBookingUrl: "https://test-takers.psiexams.com/pain",
@@ -6788,19 +6946,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$320.85",
+        totalCost: "$322.85",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$320.85",
+        totalCost: "$322.85",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$519.85",
+        totalCost: "$531.85",
         completionTime: "40 hours",
       },
     },
@@ -6909,7 +7067,7 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Pennsylvania does not require prelicensing education but does require fingerprinting through IdentoGO (Code: 1KGBGJ). The Philadelphia and Pittsburgh metros anchor Pennsylvania's insurance market, with Philadelphia in particular serving as a major East Coast hub for health insurance given its large concentration of hospital systems and academic medical centers. Pennsylvania's large population and diverse economy create strong, consistent demand across all insurance lines for licensed producers.",
     stateSpecificFAQ: {
       question: "Does Pennsylvania require prelicensing education for an insurance license?",
-      answer: "No. Pennsylvania does not require prelicensing education to sit for the state insurance exam. However, the state does require fingerprinting through IdentoGO using code 1KGBGJ. Pennsylvania uses PSI for exam administration. After passing the exam, you apply through NIPR and the Pennsylvania Insurance Department reviews your background and application. The overall process typically takes 3 to 5 weeks from exam to license issuance.",
+      answer: "No. Pennsylvania does not require prelicensing education to sit for the state insurance exam. However, the state does require fingerprinting through IdentoGO using code 1KGBGJ. Pennsylvania uses PSI for exam administration. After passing the exam, you apply through NIPR and the Pennsylvania Insurance Department reviews your background and application. Application processing typically takes 2 to 3 weeks, and most candidates complete the entire process in 2-4 weeks.",
     },
   },
 
@@ -6931,7 +7089,7 @@ export const STATES: Record<string, StateData> = {
     minAge: 18,
     residencyRequirement: "Must be a resident of Rhode Island",
     backgroundRequirement: "Criminal background check required",
-    fingerprintRequirement: "Fingerprinting required through Per DBR instructions",
+    fingerprintRequirement: "Background check required — Rhode Island residents obtain a certified BCI report from the RI Attorney General's Bureau of Criminal Identification and email it to DBR at dbr.inslic@dbr.ri.gov with their transaction number; the report cannot be more than 30 days old, and DBR issues any further fingerprinting instructions during the application process",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "120",
     backgroundCheckCost: "5",
@@ -6988,9 +7146,9 @@ export const STATES: Record<string, StateData> = {
       individualCoursePrice: "$10",
       completionTime: "A few hours (depending on course length)",
       compliance: {
-        lateFee: "None during 30-day grace — standard $130 renewal fee applies",
+        lateFee: "None during 30-day grace — standard $120 renewal fee applies",
         gracePeriod: "30 days after expiration (no penalty)",
-        reinstatementFee: "Days 31–365: $170 resident ($130 renewal + $50 reinstatement) / $180 non-resident",
+        reinstatementFee: "Days 31–365: $170 resident ($120 renewal + $50 reinstatement) / $180 non-resident ($130 renewal + $50 reinstatement)",
         reinstatementWindow: "30-day grace → 31–365 reinstatement → reapply as new after 1 year",
         carryForward: "Yes — up to 12 hours; ethics carry as general only (must earn 3 new ethics each cycle)",
         lapseConsequence: "Your license has a no-penalty 30-day grace, then a $170 reinstatement window through month 12, after which you must reapply as a new licensee.",
@@ -7071,7 +7229,7 @@ export const STATES: Record<string, StateData> = {
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
-    fingerprintingNotes: "Fingerprinting required through Per DBR instructions",
+    fingerprintingNotes: "Background check required — Rhode Island residents obtain a certified BCI report from the RI Attorney General's Bureau of Criminal Identification and email it to DBR at dbr.inslic@dbr.ri.gov with their transaction number; the report cannot be more than 30 days old, and DBR issues any further fingerprinting instructions during the application process",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
       ltc: null,
@@ -7082,7 +7240,7 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Rhode Island does not require prelicensing education and does not offer a combined Life & Health exam — each line must be tested separately. Fingerprinting instructions are provided by the Rhode Island Department of Business Regulation (DBR) Insurance Division. Despite its small size, Rhode Island's insurance market benefits from proximity to Boston and a growing financial services sector in Providence.",
     stateSpecificFAQ: {
       question: "Does Rhode Island offer a combined Life and Health insurance exam?",
-      answer: "No. Rhode Island does not offer a combined Life & Accident/Health exam. You must pass separate exams for each line of authority through Pearson VUE. Rhode Island requires fingerprinting per instructions from the Department of Business Regulation (DBR) Insurance Division — the specific fingerprinting process details are provided during the application process. No prelicensing education is required.",
+      answer: "No. Rhode Island does not offer a combined Life & Accident/Health exam. You must pass separate exams for each line of authority through Pearson VUE. Rhode Island residents also have to obtain a certified BCI background report from the RI Attorney General's Bureau of Criminal Identification and email it to the Department of Business Regulation (DBR) at dbr.inslic@dbr.ri.gov with their transaction number — the report cannot be more than 30 days old, and DBR provides any further instructions during the application process. No prelicensing education is required.",
     },
   },
 
@@ -7104,7 +7262,7 @@ export const STATES: Record<string, StateData> = {
     minAge: 18,
     residencyRequirement: "Must be a resident of South Carolina",
     backgroundRequirement: "Criminal background check required",
-    fingerprintRequirement: "Fingerprinting required through Instructions emailed after applying",
+    fingerprintRequirement: "Fingerprinting required through IdentoGO — the South Carolina Department of Insurance emails scheduling instructions the next business day after it receives your application, so do not get fingerprinted beforehand",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "25",
     backgroundCheckCost: "52",
@@ -7244,7 +7402,7 @@ export const STATES: Record<string, StateData> = {
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
-    fingerprintingNotes: "Fingerprinting required through Instructions emailed after applying",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO — the South Carolina Department of Insurance emails scheduling instructions the next business day after it receives your application, so do not get fingerprinted beforehand",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
       ltc: null,
@@ -7459,21 +7617,50 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "less than 10 days after submitting all documentation.",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "",
+    // Tennessee CE provider #500032111 — owner-official NAIC SBS export
+    // (JUSTINSURANCE LLC, Continuing Education, Approved, exp 12/31/2026). Tennessee
+    // eliminated its prelicensing-education mandate (2023 Tenn. Acts, ch. 57), so the
+    // StateProviderBadge credentialKind resolves to "ce" and renders a truthful
+    // "Continuing Education Provider" badge — same field convention as AZ/OK/MT.
+    // Matches providerApprovalNumber below (previously blank).
+    providerNumber: "500032111",
 
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "59",
+      examFee: "55",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/tn/insurance",
       examBookingUrl: "https://www.pearsonvue.com/tn/insurance",
       retakeWaitingPeriod: "a 10-day waiting period following your first failure, or a 30-day waiting period following each subsequent failure",
-      retakeLimitInfo: "There is no hard cap on retakes. Tennessee does not require prelicensing education, so there is no course to repeat — confirm current retake timing in your PSI candidate handbook.",
+      retakeLimitInfo: "There is no hard cap on retakes. Tennessee does not require prelicensing education, so there is no course to repeat — confirm current retake timing in your Pearson VUE Tennessee candidate handbook.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://www.pearsonvue.com/tn/insurance",
     },
-    noCombinedExam: true,
+    // ✅ VERIFIED + FIXED 2026-07-22 — noCombinedExam flipped true -> false.
+    // PRIMARY SOURCE: Pearson VUE "Tennessee Insurance Licensing Candidate
+    // Handbook," July 2025 (#124300, pub 10/2025), p.7 "EXAM FEES AND
+    // COMBINATIONS": a combined "Life and Accident & Health" exam IS offered at
+    // $80. The single-line "Life" ($55) and "Accident & Health" ($55) each
+    // "Must be taken alone in one session." Tennessee therefore DOES offer a
+    // combined L&H exam — the prior `true` (and the NO_COMBINED_EXAM_STATES
+    // membership, now removed) was factually wrong.
+    // BLAST RADIUS (verified 2026-07-22): src/app/[state]/prelicensing/[loa]/
+    // page.tsx ALREADY carries the `stateData.slug === "tennessee" ? "$80"` arm
+    // in combinedExamFeeOverride, gated behind `!stateData.noCombinedExam`.
+    // Flipping this flag activates that arm, so the Life & Health page now
+    // renders "$80 (combined Life & Health exam; single-line Life or Health exam
+    // is $55)" instead of the old "$110 (two exams)". The single-line examFee
+    // "55" is correct either way — this was a structural-flag defect, not a fee
+    // defect. lifeAndHealth.totalCost rebased $595.15 -> $565.15 below.
+    // ✅ RESOLVED 2026-07-22 (this pass): specialNotices[0], stateSpecificIntro,
+    // and stateSpecificFAQ previously still asserted "no combined exam" and
+    // contradicted this flag. All three were rewritten to state the truth —
+    // combined "Life and Accident & Health" exam $80, single-line Life or A&H $55
+    // each — re-confirmed by directly reading Pearson VUE handbook #124300 p.7
+    // "Exam Fees and Combinations": "Life and Accident & Health $80"; "Life* $55";
+    // "Accident & Health* $55"; "*Must be taken alone in one session."
+    noCombinedExam: false,
     applicationBeforeExam: false,
 
     prelicensing: {
@@ -7492,7 +7679,16 @@ export const STATES: Record<string, StateData> = {
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$595.15",
+        // Rebased $595.15 -> $565.15 (2026-07-22). Composition derived from TN's
+        // OWN stored fields: course price $199, single-line exam $55, applicationFee
+        // $50, backgroundCheckCost $37.15. Single-line life/health totalCost
+        // $341.15 = 199 + 55 + 50 + 37.15 (reproduces both tiers exactly). The old
+        // combined total embedded TWO single-line exams: 2×$199 course + 2×$55 exam
+        // + $50 app + $37.15 bg = $595.15. With the real $80 combined Life &
+        // Accident & Health exam (Pearson VUE handbook #124300) the candidate sits
+        // ONE exam, so 2×$199 + $80 + $50 + $37.15 = $565.15 (−$30 = $110 two exams
+        // less $80 one exam). Reconciles cleanly by arithmetic.
+        totalCost: "$565.15",
         completionTime: "40 hours",
       },
     },
@@ -7507,12 +7703,21 @@ export const STATES: Record<string, StateData> = {
       individualCoursePrice: "$10",
       completionTime: "A few hours (depending on course length)",
       compliance: {
-        lateFee: "Not publicly posted — contact Tennessee TDCI",
-        gracePeriod: "60-day expired-grace period for renewal",
-        reinstatementFee: "Not publicly posted — contact Tennessee TDCI",
-        reinstatementWindow: "60 days to renew via CORE; up to 1 year to reinstate",
-        carryForward: "Not publicly posted — contact Tennessee TDCI",
-        lapseConsequence: "Your license expires and after 60 days you must request reinstatement; after one year you must retest and reapply.",
+        // PRIMARY SOURCES (verified 2026-07-22): Tenn. Code Ann. § 56-6-107(d) —
+        // "An insurance producer who allows the license to lapse may, within
+        // twelve (12) months from the due date of the renewal fee, reinstate the
+        // same license without the necessity of passing a written examination;
+        // however, a penalty in the amount of double the unpaid renewal fee shall
+        // be required for any renewal fee received after the due date." NO grace
+        // period exists. Tenn. Code Ann. § 56-6-121 sets the renewal fee at $60
+        // major lines / $30 limited lines, so the doubled late fee is $120 / $60.
+        // Carry-forward: Tenn. Comp. R. & Regs. 0780-01-56-.08.
+        lateFee: "Double the unpaid renewal fee (Tenn. Code Ann. § 56-6-107(d)): $120 major lines / $60 limited lines",
+        gracePeriod: "None — Tenn. Code Ann. § 56-6-107(d) provides no grace period; a renewal received after the due date incurs a penalty of double the unpaid renewal fee",
+        reinstatementFee: "Reinstate within 12 months of expiration without re-examination by paying the doubled renewal fee — $120 major lines / $60 limited lines (Tenn. Code Ann. § 56-6-107(d))",
+        reinstatementWindow: "up to 1 year after expiration (late renewal through NIPR)",
+        carryForward: "Up to 12 excess CE credit hours carry forward to the next renewal cycle; ethics hours cannot be carried over (Tenn. Comp. R. & Regs. 0780-01-56-.08)",
+        lapseConsequence: "Your license expires and you must late-renew through NIPR within one year of the expiration date; after one year you must reapply as a new licensee.",
       },
     },
     practiceExams: {
@@ -7524,8 +7729,8 @@ export const STATES: Record<string, StateData> = {
     specialNotices: [
       {
         kind: "alert",
-        title: "Tennessee does not offer a combined Life & Health exam",
-        body: "Tennessee is one of a handful of states that requires separate Pearson VUE exams for Life and for Accident & Health — there is no combined option. If you plan to sell both lines, Pearson VUE offers a bundled Life + Accident & Health testing option in a single appointment for one combined fee — cheaper than booking the two exams separately. Tennessee also requires fingerprinting through IdentoGO as part of the background check.",
+        title: "Tennessee offers a combined Life & Accident & Health exam ($80)",
+        body: "Tennessee lets you cover both lines in a single Pearson VUE appointment: the combined \"Life and Accident & Health\" exam is $80, versus $55 each for the single-line Life and Accident & Health exams booked separately — a $30 saving. The single-line Life and single-line Accident & Health exams must each be taken alone in one session. Tennessee also requires fingerprinting through IdentoGO as part of the background check.",
         link: { href: "https://www.tn.gov/commerce/insurance-division.html", text: "Tennessee Department of Commerce and Insurance", external: true },
       },
       {
@@ -7598,10 +7803,10 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Tennessee does not require prelicensing education and does not offer a combined Life & Health exam — each line must be tested separately through Pearson VUE. The Nashville metro has emerged as one of the fastest-growing insurance markets in the South, driven by explosive population growth and a booming healthcare industry anchored by one of the country's largest concentrations of hospital companies. Tennessee's no-income-tax environment attracts high earners who value life insurance and annuity products for tax-advantaged savings.",
+    stateSpecificIntro: "Tennessee does not require prelicensing education, and it offers a combined \"Life and Accident & Health\" exam through Pearson VUE for $80 — or you can sit the single-line Life and Accident & Health exams separately at $55 each. The Nashville metro has emerged as one of the fastest-growing insurance markets in the South, driven by explosive population growth and a booming healthcare industry anchored by one of the country's largest concentrations of hospital companies. Tennessee's no-income-tax environment attracts high earners who value life insurance and annuity products for tax-advantaged savings.",
     stateSpecificFAQ: {
       question: "Does Tennessee have a combined Life and Health insurance exam?",
-      answer: "No. Tennessee does not offer a combined Life & Health insurance exam. You must pass separate exams for Life and for Accident & Health with Pearson VUE. No prelicensing education is required for either exam. Tennessee has reciprocity agreements with all other states, making it a popular choice for agents who want to expand their geographic market after getting licensed. Fingerprinting is required through IdentoGO as part of the background check.",
+      answer: "Yes — Tennessee offers a combined Life and Accident & Health exam through Pearson VUE for $80; if you prefer, you can sit the single-line Life or Accident & Health exam separately for $55 each. No prelicensing education is required for either option. Tennessee has reciprocity agreements with all other states, making it a popular choice for agents who want to expand their geographic market after getting licensed. Fingerprinting is required through IdentoGO as part of the background check.",
     },
   },
 
@@ -7805,7 +8010,7 @@ export const STATES: Record<string, StateData> = {
     minAge: 18,
     residencyRequirement: "Must be a resident of Utah",
     backgroundRequirement: "Criminal background check required",
-    fingerprintRequirement: "Fingerprinting required through Per UT DOI instructions",
+    fingerprintRequirement: "Fingerprinting required — the Utah Insurance Department requires every resident license applicant to be fingerprinted, and prints are taken at Prometric's Utah testing sites",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "75",
     backgroundCheckCost: "38",
@@ -7879,8 +8084,8 @@ export const STATES: Record<string, StateData> = {
     specialNotices: [
       {
         kind: "alert",
-        title: "Utah requires fingerprinting per UT DOI instructions",
-        body: "Utah processes fingerprints per the Utah Department of Insurance's instructions, which are provided during the application process — so plan to watch for those instructions promptly after submitting your NIPR application. No prelicensing education is required before the Prometric exam, keeping the overall timeline fast once fingerprinting is scheduled.",
+        title: "Utah fingerprints resident applicants at Prometric testing sites",
+        body: "The Utah Insurance Department requires every resident license applicant to be fingerprinted, and prints are taken at Prometric's Utah testing sites — so you can pair fingerprinting with your exam trip. No prelicensing education is required before the Prometric exam, keeping the overall timeline fast once fingerprinting is scheduled.",
         link: { href: "https://insurance.utah.gov/", text: "Utah Department of Insurance", external: true },
       },
       {
@@ -7945,7 +8150,7 @@ export const STATES: Record<string, StateData> = {
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
-    fingerprintingNotes: "Fingerprinting required through Per UT DOI instructions",
+    fingerprintingNotes: "Fingerprinting required — the Utah Insurance Department requires every resident license applicant to be fingerprinted, and prints are taken at Prometric's Utah testing sites",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
       ltc: null,
@@ -7956,7 +8161,7 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Utah does not require prelicensing education. Utah producer licenses renew every 2 years on the last day of the licensee's birth month. The Salt Lake City and Provo-Orem metros have seen explosive population growth and serve as growing financial services hubs, with several major tech companies relocating to the Silicon Slopes area creating high demand for group benefits and individual health insurance specialists. Utah's large young population and high birth rate create strong demand for life insurance products.",
     stateSpecificFAQ: {
       question: "How long does a Utah insurance license last?",
-      answer: "Utah insurance licenses renew every 2 years on the last day of the licensee's birth month. At renewal, Utah requires 24 hours of CE (including 3 hours of ethics) per 2-year cycle. Utah does not require prelicensing education before the exam, and fingerprinting is processed per Utah Department of Insurance instructions provided during the application process. Prometric administers Utah's licensing exams.",
+      answer: "Utah insurance licenses renew every 2 years on the last day of the licensee's birth month. At renewal, Utah requires 24 hours of CE (including 3 hours of ethics) per 2-year cycle. Utah does not require prelicensing education before the exam, and every resident applicant must be fingerprinted at one of Prometric's Utah testing sites. Prometric administers Utah's licensing exams.",
     },
   },
 
@@ -7982,7 +8187,7 @@ export const STATES: Record<string, StateData> = {
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "60",
     backgroundCheckCost: "No fee required",
-    totalCostRange: "$350-500 estimated total cost",
+    totalCostRange: "$350-500",
     applicationProcessingTime: "48 hours (routine); up to 10 days (non-routine)",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
@@ -7992,7 +8197,16 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "50",
+      // Fee verified 2026-07-22 against the Prometric Vermont insurance
+      // candidate bulletin, "Effective as of March 18, 2026": single-line $52
+      // (combined Life & Health $67.60). Proven by diffing three revisions of
+      // the same bulletin: 2020-08-15 = $50/$65, 2021-07-20 = $50/$65,
+      // 2026-03-18 = $52/$67.60. Was "50", the stale 2021 figure.
+      // ⚠️ DISCLOSED AMBIGUITY: the current bulletin ships TWO conflicting
+      // registration forms. $52/$67.60 is treated as operative because it is
+      // the only form whose numbers were UPDATED in the 2026 revision, while
+      // the competing $73/$87 page is byte-for-byte unchanged since Aug 2020.
+      examFee: "52",
       examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/vermont/insurance",
       examBookingUrl: "https://www.prometric.com/vermont/insurance",
@@ -8004,23 +8218,32 @@ export const STATES: Record<string, StateData> = {
     noCombinedExam: false,
     applicationBeforeExam: false,
 
+    // totalCost recomputed 2026-07-22 for the $50 -> $52 Prometric revision.
+    // Single line: 199 (course) + 52 (exam) + 60 (application) + 0 (Vermont
+    //   charges no background-check fee) = 311.00
+    //   [was 309.00 = 199 + 50 + 60 + 0, i.e. reconciled exactly against the
+    //    superseded $50, which is what proved the total stale]
+    // Life & Health: 199 x 2 (two line courses) + 52 (Vermont DOES offer a
+    //   combined exam, so ONE exam fee — the site-wide convention prints the
+    //   single-line fee here) + 60 + 0 = 398 + 52 + 60 = 510.00
+    //   [was 508.00 = 398 + 50 + 60]
     prelicensing: {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$309.00",
+        totalCost: "$311.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$309.00",
+        totalCost: "$311.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$508.00",
+        totalCost: "$510.00",
         completionTime: "40 hours",
       },
     },
@@ -8222,7 +8445,15 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "None — license expires on renewal date",
         reinstatementFee: "$10 renewal + $20 reinstatement per line of authority",
         reinstatementWindow: "Up to 12 months from renewal date",
-        carryForward: "No — excess CE credits do not carry forward",
+        // PRIMARY SOURCES (verified 2026-07-22): Va. Code § 38.2-1867(D) — "Any
+        // agent with excess credit hours accumulated during the two-year period
+        // set forth in subsection B of § 38.2-1868.1 may carry such hours forward
+        // to the next biennium only." SCC BOI CE Handbook (#125363) "CARRY FORWARD
+        // CREDITS ... Does not apply to Public Adjusters. Excess credit hours
+        // accumulated during any renewal cycle may be carried forward to the next
+        // renewal cycle only. Excess CE credits will not be carried over if you
+        // fail to renew your license during the 90-day renewal period."
+        carryForward: "Yes — excess CE hours carry forward to the next renewal cycle only (Va. Code § 38.2-1867(D)); forfeited if you fail to renew during the 90-day renewal period, and not available to public adjusters",
         lapseConsequence: "You cannot legally transact insurance in Virginia; all CE must be completed before reinstatement is submitted through Sircon.",
       },
     },
@@ -8354,7 +8585,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "35",
+      examFee: "38",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/waoic",
       examBookingUrl: "https://test-takers.psiexams.com/waoic",
@@ -8370,19 +8601,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$338.00",
+        totalCost: "$341.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$338.00",
+        totalCost: "$341.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$537.00",
+        totalCost: "$540.00",
         completionTime: "40 hours",
       },
     },
@@ -8397,12 +8628,12 @@ export const STATES: Record<string, StateData> = {
       individualCoursePrice: "$10",
       completionTime: "A few hours (depending on course length)",
       compliance: {
-        lateFee: "$82.50/line for days 1–60 after expiration (via OIC Online Services only)",
+        lateFee: "$82.50/line for days 1–30 and $110/line for days 31–60 after expiration (via OIC Online Services only)",
         gracePeriod: "60 days after expiration for late renewal",
         reinstatementFee: "$165 for individual full-lines producer (days 61–365) per WAC 284-17-490",
         reinstatementWindow: "Days 1–60 late renewal → 61–365 reinstatement → new licensee after 1 year",
         carryForward: "No — excess credits cannot be carried forward",
-        lapseConsequence: "Your license has a 60-day late renewal window at $82.50/line, then a $165 reinstatement window through month 12 before you must reapply.",
+        lapseConsequence: "Your license has a 60-day late renewal window ($82.50/line for days 1–30, $110/line for days 31–60), then a $165 reinstatement window through month 12 before you must reapply.",
       },
     },
     practiceExams: {
@@ -8693,9 +8924,9 @@ export const STATES: Record<string, StateData> = {
     backgroundRequirement: "Criminal background check required",
     fingerprintRequirement: "Fingerprinting required through Fieldprint Wisconsin (Code: FPWIOCIINSURANCE)",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
-    applicationFee: "75",
+    applicationFee: "10",
     backgroundCheckCost: "34.75",
-    totalCostRange: "$350-500 estimated total cost",
+    totalCostRange: "$300-450 estimated total cost",
     applicationProcessingTime: "24-48 hours",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
@@ -8722,19 +8953,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: 20,
         price: "$199",
-        totalCost: "$383.75",
+        totalCost: "$318.75",
         completionTime: "20 hours",
       },
       health: {
         hours: 20,
         price: "$199",
-        totalCost: "$383.75",
+        totalCost: "$318.75",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "no combined license",
         price: "$199",
-        totalCost: "$657.75",
+        totalCost: "$592.75",
         completionTime: "40 hours",
       },
     },
@@ -8931,7 +9162,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "One-year reinstatement period after expiration",
         reinstatementFee: "Renewal fee + equal late fee (e.g., $150 + $150 = $300)",
         reinstatementWindow: "12 months from expiration to reinstate",
-        carryForward: "Not publicly posted — contact Wyoming DOI",
+        carryForward: "Yes — up to 12 excess credits carry forward (courses completed within 120 days of expiration); ethics cannot carry over",
         lapseConsequence: "Your license expires and you must finish CE and pay double the renewal fee within 12 months to reinstate.",
       },
     },

@@ -31,7 +31,7 @@ Most agents in Texas need to fulfill certain hours every two years. Missing thes
 
 A structured strategy for your CE can save you more time than you might expect. By mapping out your required credits early, you can either cluster similar topics or spread them out so they fit your schedule comfortably. It all starts with recognizing your personal learning pace and adapting your plan around it.
 
-One helpful approach is listing your mandatory classes first, like ethics or any classroom-based requirements. Then, fill the remaining hours with courses that align with your professional interests, such as life insurance underwriting or client relationship management. By choosing relevant topics, you unlock professional growth and stay engaged throughout the process. Ultimately, your CE hours become meaningful steps toward your long-term goals.
+One helpful approach is listing your mandatory pieces first: the three ethics hours, plus the 12 hours that have to be classroom or classroom-equivalent rather than plain self-study. Then, fill the remaining hours with courses that align with your professional interests, such as life insurance underwriting or client relationship management. By choosing relevant topics, you unlock professional growth and stay engaged throughout the process. Ultimately, your CE hours become meaningful steps toward your long-term goals.
 
 ## Choose effective study methods
 
@@ -68,7 +68,7 @@ Q1: What are the basic renewal requirements?
 Most Texas agents must complete 24 hours of continuing education every two years, including at least three hours of ethics. Check the Texas Department of Insurance’s latest guidelines for any updates or special prerequisites.
 
 Q2: Can I complete all of my CE hours online?  
-Yes. Many providers offer 100% online programs that meet the Texas state requirements. Just ensure the provider is officially approved before signing up.
+Yes, many providers offer fully online programs — but the format mix is regulated. TDI requires at least half your hours, 12 of 24, to be earned in a classroom or "classroom-equivalent" course, which means no more than 12 can carry the instruction method of self-study. Classroom-equivalent is a TDI-registered online format with built-in question periods and identity checks, so an all-online plan is perfectly compliant as long as 12 of your hours are registered that way. Two courses can look identical on a provider's website and be filed differently with TDI, so confirm the instruction method on each course before signing up, not after.
 
 Q3: How can I prove my CE completion?  
 Once you finish a course, the provider typically issues a completion certificate. Save these documents for your own records in case of an audit, and keep digital copies as a backup.

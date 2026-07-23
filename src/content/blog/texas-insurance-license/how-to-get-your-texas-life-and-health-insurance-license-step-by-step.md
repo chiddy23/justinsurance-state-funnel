@@ -28,13 +28,17 @@ Your coursework covers the concepts you'll be tested on — policy types, state 
 
 ## Step 2: Pass the Texas Insurance Exam
 
-Once you feel prepared, you'll register for the state exam through Pearson VUE, TDI's official exam administrator. The combined Life & Health exam covers both lines of content, and the passing score is 70%.
+Once you feel prepared, you'll register for the state exam through Pearson VUE, TDI's official exam administrator. The General Lines – Life, Accident & Health exam covers both lines of content: 130 scored questions (100 general knowledge, 30 Texas-specific law) plus 15 unscored pretest questions, in 150 minutes.
+
+Passing requires a **scaled score of 70** — and that is not the same thing as answering 70% of the questions correctly. TDI sets the passing standard with Pearson VUE, raw scores are converted onto a 0–100 scale, and the candidate handbook states plainly that the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly."
 
 You'll take the exam at a Pearson VUE testing center. Bring a valid government-issued ID. Results are given immediately after you finish.
 
 ## Step 3: Get Fingerprinted
 
-Texas requires fingerprinting for all insurance license applicants. You'll complete this through IdentoGO, which handles fingerprinting for TDI. You can schedule your appointment online. This is a background check requirement — it runs through both state and federal databases.
+Most Texas applicants have to be fingerprinted. You'll complete this through IdentoGO (TDI Service Code 11G6QF), which handles fingerprinting for TDI and submits the results to the Texas Department of Public Safety. You can schedule your appointment online. This is a background check requirement — it runs through both state and federal databases.
+
+TDI lists exemptions, so check before you pay the fee twice. You do not need new prints if you live in Texas and already hold an active TDI license or registration for which you have already submitted fingerprints. Non-residents who hold an active resident license in their home state are also exempt — though if you don't hold one, you'll need to send TDI either a criminal history record from your state's law enforcement agency or a current Certificate of Good Standing with your application.
 
 You can complete fingerprinting before or after your exam, but it must be done before your license is issued.
 

@@ -52,7 +52,7 @@ Scenario 2 — Other driver at fault: The client's vehicle is rear-ended. The at
 
 Scenario 3 — Uninsured at-fault driver: The client is hit by an uninsured driver. The client's UMPD coverage (if carried) provides the payment mechanism for the repair. Whether DV is recoverable under UMPD in Colorado is a coverage question specific to the policy language — producers should review whether their carriers' UMPD forms include DV.
 
-Scenario 4 — Client partially at fault: Under Colorado's modified comparative negligence (50% bar rule), a client who is 30% at fault in an accident can recover 70% of their damages from the other driver — including 70% of their DV claim. A client who is more than 50% at fault has no third-party recovery right and bears their own DV loss entirely.
+Scenario 4 — Client partially at fault: Under Colorado's modified comparative negligence rule (CRS § 13-21-111), a client recovers only if their share of fault is less than the other driver's. A client who is 30% at fault can recover 70% of their damages from the other driver — including 70% of their DV claim. But Colorado applies a true 50% bar: a client who is 50% or more at fault recovers nothing, so at an even 50/50 split the client has no third-party recovery right and bears their own DV loss entirely.
 
 ## How Diminished Value Is Calculated in Colorado
 
@@ -144,4 +144,4 @@ Standard auto policy forms in Colorado do not provide first-party DV coverage �
 
 Colorado's diminished value and total loss framework rewards clients who understand their rights and producers who explain them proactively. A client who has never heard of diminished value until the day they discover their repaired vehicle is worth $6,000 less than before the accident will blame their producer for not preparing them. A client who was told at policy inception what their ACV means, what gap coverage addresses, and what their third-party DV rights are will navigate the claim process with realistic expectations — and will credit their producer for the preparation.
 
-Visit JustInsurance to enroll today and complete your Colorado Property and Casualty [prelicensing](/colorado/prelicensing) with a state-approved course covering every auto insurance claims provision tested on the Pearson VUE exam.
+Serving Colorado auto clients on diminished value and total-loss claims takes a Property and Casualty or Personal Lines license — study to the current Pearson VUE content outline until the claims provisions in this post are automatic, and confirm current fees with the Division and Pearson VUE before you register. Once you're licensed, JustInsurance's Colorado [continuing education](/colorado/continuing-education) keeps your P&C lines current through every biennial renewal.

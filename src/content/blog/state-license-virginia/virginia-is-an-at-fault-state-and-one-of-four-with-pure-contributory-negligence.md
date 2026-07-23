@@ -16,7 +16,9 @@ Virginia's liability system makes it one of the most consequential states in the
 
 ## Pure Contributory Negligence: The Rule
 
-Under Virginia Code § 8.01-34, and the common law doctrine established in Virginia courts — most notably affirmed in Baskett v. Banks (1947) — a plaintiff who contributes any negligence that is a proximate cause of their injury is completely barred from recovering damages from a defendant. The plaintiff's fault does not need to be equal to, or even comparable to, the defendant's fault. One percent of fault on the plaintiff's side is legally sufficient to eliminate the entire claim.
+Virginia's contributory negligence bar is not a statute. It is common law — a doctrine built and repeatedly reaffirmed by the Supreme Court of Virginia, most prominently in Baskett v. Banks, 186 Va. 1022 (1947), which held that a person cannot recover from another for damages occasioned by their own neglect. Under that rule, a plaintiff who contributes any negligence that is a proximate cause of their injury is completely barred from recovering damages from a defendant. The plaintiff's fault does not need to be equal to, or even comparable to, the defendant's fault. One percent of fault on the plaintiff's side is legally sufficient to eliminate the entire claim.
+
+Producers looking for a Code section that enacts this rule will not find one. (Va. Code § 8.01-34, which is sometimes cited by mistake in this context, is the contribution statute — it governs when one wrongdoer may recover from a co-defendant, not whether a plaintiff's own fault bars recovery.) The General Assembly has legislated around the edges of the doctrine, as noted below, but the bar itself lives in case law.
 
 This contrasts sharply with the comparative negligence system used in 46 states, where a plaintiff's fault reduces (but does not eliminate) their recovery proportionally. In a comparative negligence state, a plaintiff who is 20% at fault for an accident recovers 80% of their damages. In Virginia, that same plaintiff recovers nothing.
 
@@ -36,7 +38,7 @@ Umbrella policies have heightened value for defendants. Because Virginia plainti
 
 Virginia's pure contributory negligence doctrine has several recognized exceptions:
 
-Last clear chance doctrine: If the defendant had the final clear opportunity to avoid the accident but failed to use ordinary care to do so, the plaintiff may recover despite their own prior contributory negligence. The doctrine has two versions: (1) the helpless plaintiff — one who was in a position of peril from which they could not escape by ordinary care, and (2) the inattentive plaintiff — one who could have escaped but was not paying attention. The doctrine was upheld by the Virginia Supreme Court in Coutlakis v. CSX Transportation (2007).
+Last clear chance doctrine: If the defendant had the final clear opportunity to avoid the accident but failed to use ordinary care to do so, the plaintiff may recover despite their own prior contributory negligence. The doctrine has two versions: (1) the helpless plaintiff — one who was in a position of peril from which they could not escape by ordinary care, and (2) the inattentive plaintiff — one who could have escaped but was not paying attention. The Supreme Court of Virginia reaffirmed and applied the doctrine in Coutlakis v. CSX Transportation, Inc., 293 Va. 212 (decided March 9, 2017), where a pedestrian walking beside the tracks while wearing earbuds was struck from behind by a train — an inattentive-plaintiff case in which the Court reversed dismissal and allowed the claim to proceed despite the decedent's own negligence.
 
 Willful and wanton conduct: If the defendant's conduct rises to the level of willful and wanton behavior — conscious disregard for the plaintiff's safety — the contributory negligence defense does not apply. Drunk driving cases often trigger this exception, allowing recovery even when the plaintiff shared some fault.
 
@@ -78,4 +80,4 @@ Virginia's unfair trade practices statute (Title 38.2, Chapter 5) and the produc
 
 Pure contributory negligence is the legal reality that makes Virginia's insurance market distinctively demanding for both producers and clients. In a state where sharing 1% of fault eliminates 100% of recovery, the coverage strategy that makes sense in comparative negligence states does not fully translate. Producers who understand this advise Virginia clients differently — and more accurately.
 
-Visit JustInsurance to enroll today and master Virginia's liability framework with a state-approved course covering the full auto insurance law section of the Prometric exam.
+Let Virginia's pure contributory negligence rule shape how you counsel clients on liability and UM/UIM limits. This material is tested on the Virginia property and casualty exam — JustInsurance's exam prep covers the life, health, and combined life & health lines, and we do not offer a property and casualty prep course. If you already hold your Virginia P&C license, [Virginia continuing education](/virginia/continuing-education) keeps it current.

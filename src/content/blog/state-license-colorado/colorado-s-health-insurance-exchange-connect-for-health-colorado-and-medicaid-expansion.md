@@ -12,7 +12,7 @@ image: /blog/images/fast-track-your-success-with-a-colorado-insurance-license.jp
 imageAlt: "Colorado's Health Insurance Exchange: Connect for Health Colorado and Medicaid Expansion"
 ---
 
-Colorado operates its own state-based health insurance exchange — Connect for Health Colorado — giving the state direct control over enrollment infrastructure, financial assistance programs, and plan oversight that states using the federal Healthcare.gov platform do not have. Colorado's Medicaid expansion, implemented in 2013 under the Affordable Care Act, extended Health First Colorado coverage to adults earning up to 138% of the Federal Poverty Level. Together, the exchange and Medicaid expansion form the two primary pathways through which Colorado residents without employer-sponsored or Medicare coverage access health insurance. For producers licensed in the Accident and Health line, understanding how these programs work — who qualifies, how financial assistance is calculated, how enrollment operates, and what happened to premiums in 2026 — is foundational knowledge for serving Colorado's individual and small group health market.
+Colorado operates its own state-based health insurance exchange — Connect for Health Colorado — giving the state direct control over enrollment infrastructure, financial assistance programs, and plan oversight that states using the federal Healthcare.gov platform do not have. Colorado's Medicaid expansion, which took effect January 1, 2014 under the Affordable Care Act, extended Health First Colorado coverage to adults earning up to 138% of the Federal Poverty Level. Together, the exchange and Medicaid expansion form the two primary pathways through which Colorado residents without employer-sponsored or Medicare coverage access health insurance. For producers licensed in the Accident and Health line, understanding how these programs work — who qualifies, how financial assistance is calculated, how enrollment operates, and what happened to premiums in 2026 — is foundational knowledge for serving Colorado's individual and small group health market.
 
 ## Connect for Health Colorado: What It Is and Why It Matters
 
@@ -70,7 +70,7 @@ Health First Colorado and CHP+ enrollment: Medicaid and CHP+ accept applications
 
 ## Health First Colorado: Colorado's Medicaid Program
 
-Health First Colorado is the name of Colorado's Medicaid program. Colorado expanded Medicaid under the ACA in January 2013 — one of the earlier adopters among states, taking effect at the beginning of the year the ACA's expansion provision became available.
+Health First Colorado is the name of Colorado's Medicaid program. Colorado expanded Medicaid under the ACA effective January 1, 2014 — the date the ACA's Medicaid expansion provision first became available — making Colorado one of the earliest adopters among the states. (Colorado's enabling legislation passed in 2013, but the coverage expansion itself began January 1, 2014.)
 
 Income eligibility: Health First Colorado covers adults earning up to 138% of the Federal Poverty Level. For 2026, 138% FPL for a single adult is approximately $20,782 per year ($1,732 per month). For a family of four, 138% FPL is approximately $43,056 per year. These thresholds are updated annually when HHS publishes new FPL figures.
 

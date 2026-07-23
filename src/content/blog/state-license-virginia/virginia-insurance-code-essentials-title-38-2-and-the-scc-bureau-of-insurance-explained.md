@@ -42,7 +42,9 @@ Phone: (800) 552-7945 (toll-free, agent licensing)
 
 Email: AgentLicensing@scc.virginia.gov
 
-Consumer complaints: AskAQuestion@scc.virginia.gov
+Consumer complaints: the Bureau's online Insurance Complaint Portal at scc.virginia.gov — complaints are not accepted by phone or email
+
+General life and health insurance questions: AskAQuestion@scc.virginia.gov (this is an inquiry mailbox, not a complaint channel)
 
 ## The Structure of Title 38.2
 
@@ -90,7 +92,7 @@ The SCC Bureau of Insurance has broad enforcement authority against producers un
 
 How do I file a complaint against an insurance producer or company in Virginia?
 
-Consumer complaints against producers or insurers can be filed with the Bureau of Insurance online at scc.virginia.gov (select "File an Insurance Complaint"), by email to AskAQuestion@scc.virginia.gov, or by mail to State Corporation Commission, Bureau of Insurance, P.O. Box 1157, Richmond, VA 23218. The Bureau investigates complaints and has authority to take enforcement action against producers or insurers found to have violated Title 38.2. Producers who receive a complaint from the Bureau should respond promptly and completely — failure to respond to Bureau inquiries is itself a ground for disciplinary action.
+The Bureau of Insurance accepts consumer complaints against producers or insurers through three channels only: its online Insurance Complaint Portal (reached from the "File an Insurance Complaint" page at scc.virginia.gov), by mail or fax using the Bureau's complaint form (State Corporation Commission, Bureau of Insurance, P.O. Box 1157, Richmond, VA 23218; fax 804-371-9349), or in person at 1300 East Main Street in Richmond. The Bureau states plainly that it does not accept complaints by phone or email — so AskAQuestion@scc.virginia.gov, which is a general life and health inquiry mailbox, is not a way to file one. Whichever route a consumer uses, the Bureau asks for as much detail as possible plus copies of all supporting documentation. The Bureau investigates complaints and has authority to take enforcement action against producers or insurers found to have violated Title 38.2. Producers who receive a complaint from the Bureau should respond promptly and completely — failure to respond to Bureau inquiries is itself a ground for disciplinary action.
 
 What are the record retention requirements for Virginia insurance producers?
 
@@ -98,4 +100,4 @@ Under Va. Code § 38.2-1809, insurance producers must maintain sufficient record
 
 Virginia's insurance regulatory framework — rooted in the SCC's constitutional authority and codified in Title 38.2 — is the foundation that every producer compliance obligation rests on. Understanding the structure of the Bureau, the statute, and the key chapter references gives producers both exam-day advantage and career-long regulatory fluency.
 
-Visit JustInsurance to enroll today and master the Virginia insurance code with a state-approved course that covers Title 38.2 essentials for the Prometric exam.
+Visit JustInsurance to enroll today and master the Virginia insurance code with a course built to the current Prometric Virginia content outline that covers the Title 38.2 essentials for the exam.

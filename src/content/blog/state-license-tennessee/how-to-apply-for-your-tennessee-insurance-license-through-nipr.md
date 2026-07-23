@@ -136,7 +136,17 @@ National Producer Number (NPN): If you have been previously licensed in any stat
 
 The fee payment screen in NIPR collects all application-related fees in one transaction:
 
+The $50 TDCI license filing fee — a single flat fee per application, not per line of authority
+
+The $5.60 NIPR transaction processing fee — charged once per submission, not per line
+
 Example payment totals:
+
+Life only, in one application: $50 filing fee + $5.60 NIPR fee = **$55.60**
+
+Property and Casualty together in one application: $50 filing fee + $5.60 NIPR fee = **$55.60** — because the $50 is charged per application, covering two lines in one submission does not double it
+
+These figures cover the NIPR application only. They are separate from the $55-per-line Pearson VUE exam fee and the $37.15 IdentoGO fingerprinting fee, both paid earlier in the process through their own systems. NIPR itemizes the state filing fee and its own transaction fee at checkout, so confirm the exact total on the payment screen before you submit.
 
 Accepted payment methods: Credit card and debit card. NIPR does not accept checks or cash. Have your payment card ready before beginning the application — the session has a timeout and an incomplete application that times out before payment may need to be restarted.
 
@@ -166,7 +176,7 @@ After successful submission, NIPR provides a confirmation number and sends a con
 
 ### TDCI Review and Processing
 
-The TDCI reviews your application after NIPR routes it. Standard processing time is 2–5 business days for applications submitted electronically through NIPR where:
+The TDCI reviews your application after NIPR routes it. Standard processing time is typically about 10 business days for a complete application submitted electronically through NIPR where:
 
 Your Pearson VUE passing scores are confirmed in the TDCI's database
 
@@ -222,4 +232,4 @@ Tennessee allows resident license transfers from another state within 90 days of
 
 The NIPR application process is the final procedural step between passing the Tennessee insurance exam and holding an active license. Every element of the application — the 48-hour timing requirement, the name matching across all documents, the accurate background disclosure, and the correct fee payment — exists to create a clean, verifiable record that the TDCI can process efficiently. Candidates who follow the sequence correctly, verify every detail before submission, and submit complete and accurate applications receive their licenses in days rather than weeks. The process rewards preparation and attention to detail — the same qualities that characterize successful insurance producers throughout their careers.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course — so that when you reach the NIPR application step, you are submitting for a license you have already earned.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline — so that when you reach the NIPR application step, you are submitting for a license you have already earned.

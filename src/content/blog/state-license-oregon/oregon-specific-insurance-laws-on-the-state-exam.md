@@ -236,7 +236,7 @@ Free-look periods
 
 ## 5 Frequently Asked Questions
 
-- How much of the Oregon exam is state-specific law? Roughly 15-20% of the exam focuses on Oregon-specific content. That's substantial enough to fail the exam on its own if you skip it.
+- How much of the Oregon exam is state-specific law? PSI doesn't publish a single "state law" percentage, because Oregon statutes and rules aren't confined to one block — they're woven through the exam. The current PSI Oregon Life & Health content outline (Series 12-03) has a dedicated Insurance Regulation (Oregon licensing law) section and then threads Oregon-specific rules through replacement, unfair trade practices, the Oregon Life and Health Insurance Guaranty Association, Medicare supplement, long-term care, and group-health topics. Treat state content as testable across the whole exam, not a section you can isolate or skip.
 - Does the Oregon exam really cover the DFR vs. DOI distinction? Yes. Understanding Oregon's regulatory structure (DFR within DCBS rather than standalone DOI) is foundational and appears on the exam.
 - Can national study materials cover Oregon law? Partially. National materials cover general insurance concepts well but rarely go deep on Oregon-specific rules. Use Oregon-specific prelicense courses for state content.
 - Which Oregon law topic is most heavily tested? Replacement rules, unfair trade practices, producer conduct, and licensing requirements are consistently among the most tested topics.

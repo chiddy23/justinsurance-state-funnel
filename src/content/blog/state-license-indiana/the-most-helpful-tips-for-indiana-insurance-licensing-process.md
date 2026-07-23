@@ -94,7 +94,7 @@ You might want to commit to a regular schedule for completing CE courses instead
 4.  Can I sell multiple types of insurance with different licenses?  
     Absolutely. As long as you’ve completed the required coursework and passed each relevant exam, you can hold multiple lines of authority. This can expand your client base and potential income streams.
 5.  What can JustInsurance do for me?  
-    JustInsurance provides you with study materials, tracking tools, and progress dashboards to help you stay on course through your pre-licensing education. It’s an optional resource designed to streamline your coursework and exam preparation.
+    JustInsurance offers self-paced Indiana prelicensing courses for the Life, Health, and combined Life & Health lines. Each one includes video lessons, an interactive e-book, practice exams, and flashcard review sets, so your coursework and your exam prep come from the same place. For Property & Casualty prelicensing, search Sircon or the Indiana Department of Insurance’s approved-provider list instead.
 
 You may discover additional questions as you work through the details of each step. The Indiana Department of Insurance’s official website is always a reliable place to look for updated requirements and downloadable forms.
 

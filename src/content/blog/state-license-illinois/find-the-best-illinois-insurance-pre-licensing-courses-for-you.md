@@ -18,16 +18,13 @@ imageAlt: >-
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
-Master Description: Discover the best [Illinois insurance pre-licensing courses](/illinois/prelicensing) to help you earn your license with confidence!
-
-  
 If you are looking into Illinois insurance [pre-licensing](/illinois/prelicensing) courses, you are already taking a powerful step toward a new career. Pre-licensing is an essential requirement in the state of Illinois, whether you plan to sell life insurance, health insurance, property and casualty insurance, or any related line. The path may seem complicated at first, but once you understand the main requirements and develop a clear study plan, you will be well on your way. Below is a practical guide to help you meet Illinois requirements and confidently prepare for your insurance license exam.
 
 ## Understand your licensing path
 
 Before starting, it helps to clarify which type of insurance license you want. In Illinois, common license lines include life and health, property and casualty, or a specific combination of coverage areas. Each line comes with its own set of study mandates and exam details, so be as certain as you can about the type of insurance coverage you plan to offer. Knowing your path at the outset will save you time and frustration.
 
-A key point is that Illinois requires you to complete a specific number of credit hours of education before taking the licensing exam. Although the exact hours differ depending on the license line, you will typically need both core instruction and a classroom-equivalent course in specific product lines. As soon as you confirm your desired license line, you can look for a pre-licensing provider that meets these state rules.
+A key point is that Illinois requires you to complete a set number of education hours before taking the licensing exam: 20 hours for each major line of authority you want, with the limited-line Motor Vehicle license running shorter at 12.5 hours. Those hours are counted per line, not per person — so if you want both life and health, that is 20 hours each rather than 20 hours total. As soon as you confirm your desired license line, you can look for a pre-licensing provider that meets these state rules.
 
 ## Meet the pre-licensing requirements
 
@@ -37,7 +34,7 @@ The state of Illinois has a few fundamental requirements you need to meet, and c
 2.  Take an approved course in each line of authority you intend to be licensed for.
 3.  Receive a Pre-licensing Education Certificate of Completion, which proves that you successfully finished your required coursework.
 
-In some instances, background checks may also be necessary. If your career path includes lines such as life and health or property and casualty, it is wise to double-check any additional prerequisites or fingerprinting requirements with the [Illinois Department of Insurance](/illinois/requirements). Having everything in order early on will help you avoid delays or surprises when scheduling the official exam.
+One thing you can cross off your list: Illinois does not fingerprint resident producer applicants. Fingerprints are only required for public adjuster licenses, so if you are pursuing life, health, property, or casualty lines there is no fingerprint appointment to schedule. What Illinois does require is honest self-disclosure — the NIPR application asks a set of background questions, and if you answer yes to any of them you upload the supporting documents through NIPR’s attachments system. If something in your history is unusual, raise it with the [Illinois Department of Insurance](/illinois/requirements) early rather than at the application stage, so a disclosure review does not stall you after you have already paid for the course and passed the exam.
 
 ## Explore course types and formats
 
@@ -55,10 +52,11 @@ A crucial factor when choosing a course is to confirm that it is state-approved.
 
 Once you have finished your pre-licensing courses, it is time to focus on the state licensing exam. Passing the exam is a major milestone and a requirement to receive your official license. Here are some general points to keep in mind:
 
--   You need to schedule the exam with the designated testing service. Be sure to have your Pre-licensing Education Certificate of Completion ready.
+-   You need to schedule the exam with Pearson VUE, the testing service Illinois uses. Be sure to have your Pre-licensing Education Certificate of Completion ready — first-time candidates must present it, though retakers do not.
+-   Each major line is really two separate exams: a General portion and an Illinois State portion. You must pass both within 90 days of each other, or the portion you already passed stops counting. Ordering both portions for the same line on a single Pearson VUE order triggers a $92 discount, so the pair costs $92 rather than $184.
 -   Exam lengths vary by license line, but you can typically expect a multiple-choice format with a set time limit.
--   You will need a valid photo ID on test day. Depending on the test provider, you might have to arrive 30 minutes early or check in online.
--   The score you need to pass is usually around 70 percent, though it is best to confirm with the Illinois Department of Insurance for exact requirements.
+-   You will need two forms of current signature ID on test day, not one — the primary has to be government-issued and photo-bearing with a signature, and the secondary needs a valid signature too. Both must be in English and match your registration name exactly. Plan to arrive 30 minutes early for check-in.
+-   To pass, you need a scaled score of 70 or higher. Illinois reports your result on a scale of 0 to 100, and Pearson VUE is explicit that this number is not the raw percentage or count of questions you answered correctly — the score is statistically equated so the passing standard stays consistent across exam versions. For current question counts and time limits, confirm the details in the Pearson VUE Illinois candidate handbook.
 
 Even if the exam might feel intimidating, most people who commit to a thorough study plan do pass successfully. Approach it with a systematic study schedule and plenty of [practice questions](/illinois/practice-exam).
 

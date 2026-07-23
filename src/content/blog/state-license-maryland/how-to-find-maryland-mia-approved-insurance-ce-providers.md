@@ -65,11 +65,11 @@ Late renewal: Up to 1 year; $169 total ($54 + $15 + $100 reinstatement).
 
 ## Specialty Training Through Approved Providers
 
-LTC Training (initial and 4-hour ongoing): NAIC-approved LTC courses with MIA approval. Verify current MIA requirements for initial and ongoing LTC hours at insurance.maryland.gov.
+LTC Training (8-hour initial + 4-hour ongoing): Before you sell long-term care insurance you must complete a one-time 8-hour initial LTC training course, then 4 hours of ongoing LTC training every 24-month renewal period (COMAR 31.14.01.34). Use NAIC-approved LTC courses that carry MIA approval, and confirm current requirements at insurance.maryland.gov.
 
 Annuity Training: MIA-approved annuity course before selling annuities. Verify current hour requirements at insurance.maryland.gov.
 
-NFIP Flood (2-hour one-time): Any MIA-approved NFIP flood course satisfies the requirement. Only 2 hours required in Maryland — most NFIP flood courses are available in 2 or 3-hour versions.
+Flood/NFIP CE (2 hours every renewal): This is not a one-time course. Property & Casualty producers who sell flood, homeowners, or commercial property insurance must complete at least 2 hours of flood-related CE every renewal period (COMAR 31.03.02.03), and those 2 hours count as part of — not on top of — your required P&C CE hours. Any MIA-approved flood course satisfies it; courses are commonly offered in 2- or 3-hour versions.
 
 ## 5 Frequently Asked Questions
 
@@ -81,6 +81,6 @@ NFIP Flood (2-hour one-time): Any MIA-approved NFIP flood course satisfies the r
 
 ## Complete Your Maryland CE With Confidence
 
-JustInsurance's MIA-approved Maryland CE courses cover Ethics, LTC training, Annuity training, NFIP Flood (2 hours), and all required content types with Prometric reporting.
+JustInsurance's MIA-approved Maryland CE courses include Ethics, LTC training, Annuity training, and flood CE, with completions reported through Prometric. Confirm which courses satisfy the requirement for the line(s) you hold before enrolling.
 
 Enroll today and complete your Maryland CE efficiently.

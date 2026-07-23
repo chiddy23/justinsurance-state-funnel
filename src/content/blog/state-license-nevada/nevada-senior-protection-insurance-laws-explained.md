@@ -296,7 +296,7 @@ Be cautious with replacements. Replacement of existing senior coverage requires 
 - Does Nevada have specific senior insurance protections? Yes. Nevada's framework includes annuity Best Interest standards, LTC training requirements, suitability requirements, and prohibitions against high-pressure sales tactics — all with particular relevance to senior clients.
 - What should I do if I suspect a senior client has diminished capacity? Slow the process, encourage family involvement when appropriate, recommend simpler products if uncertain, document concerns, and consider declining the sale in significant cases.
 - When should I involve a senior client's family? When the senior welcomes their involvement, when significant decisions affect family, when capacity concerns exist, or when senior has limited financial sophistication. Always respect senior client's wishes about family involvement.
-- Are senior protection laws actually enforced in Nevada? Yes. Senior protection violations are among the most common reasons for producer disciplinary action in Nevada. Recent regulatory changes (annuity Best Interest) reflect ongoing enforcement priorities.
+- Are senior protection laws actually enforced in Nevada? Yes. The Nevada Division of Insurance has authority to discipline producers — through fines, license suspension, or revocation — for suitability, best-interest, and unfair-practice violations, and it applies that authority to conduct involving senior clients. Recent regulatory changes (the annuity Best Interest standard) reflect ongoing enforcement priorities. Treat senior-suitability rules as actively enforced, not aspirational.
 
 ## Serve Nevada Seniors Ethically
 

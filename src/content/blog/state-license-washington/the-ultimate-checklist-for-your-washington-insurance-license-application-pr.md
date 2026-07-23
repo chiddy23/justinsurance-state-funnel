@@ -27,7 +27,7 @@ Your [Washington insurance license](/washington) application process can feel ov
 
 Before diving into the formal application steps, you should confirm that you meet Washington's basic eligibility requirements for becoming an insurance producer. You generally need to be at least 18 years old, have legal authorization to work in the United States, and maintain a clean legal record (or disclose any incidents as required by law).
 
-It is also key to decide which line of insurance you want to pursue. The most common options are Life and Health (L&H) or Property and Casualty (P&C). While you can apply for both, keep in mind that each line has its own exam, and Washington does not require [pre-licensing](/washington/prelicensing) coursework for either one (that requirement was eliminated in 2023). If you are not entirely sure which path to take, do not worry. You can still earn additional lines of authority later.
+It is also key to decide which line of insurance you want to pursue. The most common options are Life and Health (L&H) or Property and Casualty (P&C). You can pursue both, and Washington lets you cover related lines in one sitting: the Life and Disability Producer exam tests the life and health (Washington calls it "disability") lines together, while Property and Casualty is a separate exam. Washington does not require [pre-licensing](/washington/prelicensing) coursework for any of them (that requirement was eliminated in 2023). If you are not entirely sure which path to take, do not worry. You can still earn additional lines of authority later.
 
 ## Consider optional pre-licensing prep
 
@@ -43,7 +43,7 @@ If you anticipate needing any special accommodations for the exam, this is also 
 
 ## Schedule and pass the exam
 
-When you have finished studying (with or without an optional pre-licensing course) and your documents are prepared, you are ready to tackle the [Washington insurance licensing exam](/washington/requirements). You will pick a testing date through a state-approved exam provider. Plan ahead—exam slots can fill quickly, especially during peak times of the year.
+When you have finished studying (with or without an optional pre-licensing course) and your documents are prepared, you are ready to tackle the [Washington insurance licensing exam](/washington/requirements). You will pick a testing date through PSI Services, the vendor the Office of the Insurance Commissioner contracts with for producer exams. Plan ahead—exam slots can fill quickly, especially during peak times of the year.
 
 If test-taking anxiety is a concern, try to give yourself enough study time before the exam date. Reviewing sample questions and practice exams can help you get familiar with the format and pinpoint any weak areas. On exam day, pace yourself, read each question carefully, and re-check your answers if you have time.
 
@@ -109,9 +109,9 @@ Once your license is approved, you can officially sell insurance within the line
 
 ## Frequently asked questions
 
-### Do I need separate licenses for different lines of authority?
+### Do I need a separate exam for every line of authority?
 
-Yes, you must complete a separate exam for each line of authority you intend to sell. Washington does not require pre-licensing courses for any line, though you can pursue optional combined prep if you plan to sit for both Life and Health and Property and Casualty at the same time.
+No — Washington offers combined exams, and using one saves you both time and money. The Life and Disability Producer exam covers both lines in a single 150-question, 195-minute sitting for $55; taking the single-line Life and Disability exams separately runs 100 questions and 150 minutes each at $38 apiece, or $76 total. ("Disability" is Washington's term for the accident and health line.) Property and Casualty is tested on its own separate exam, so a producer who wants both sides of the business sits two exams rather than four. Washington does not require pre-licensing courses for any line, though optional combined prep is available if you plan to test for multiple lines.
 
 ### Can I retake the exam if I fail?
 

@@ -74,9 +74,9 @@ Multi-Cultural Client Considerations. Nevada's diverse population (including sig
 
 ## Why This Matters for Your Career
 
-Ethics violations aren't just abstract concerns. They're the most common reason agents face license suspension or revocation in Nevada.
+Ethics violations aren't abstract concerns — they're written into Nevada law as grounds for losing your license. NRS 683A.451 lets the Commissioner impose a fine, order probation, suspend a license for up to 12 months, or revoke it outright for causes that read like an ethics CE syllabus: intentionally misrepresenting the terms of a policy or application, being found to have committed an unfair trade practice or fraud, misappropriating or improperly withholding money received in the course of insurance business, and using fraudulent, coercive, or dishonest practices.
 
-Most agents who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical line that their ethics CE was literally designed to prevent.
+Nevada doesn't publish a ranked breakdown of why producers lose their licenses, so nobody can honestly tell you which cause tops the list. What the statute does tell you is that the conduct your ethics course covers is the same conduct the Commissioner can end your career over.
 
 Taking ethics CE seriously is one of the cheapest forms of career insurance available.
 

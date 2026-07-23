@@ -42,7 +42,7 @@ Exam questions this generates: "How long are Minnesota insurance exam results va
 
 ### Application Requirements
 
-Application fee: $50 per line of authority. Submitted through NIPR or Sircon. Fingerprinting required for all resident applicants — electronically at a PSI test center ($65) or by mail ($33.25). Processing time: approximately 10 business days.
+Application fee: $50 per line of authority. Submitted through NIPR or Sircon. Fingerprinting required for all resident applicants — electronically at a PSI test center ($63.75) or by mail ($33.25). Processing time: approximately 10 business days.
 
 Exam questions this generates: "What is the application fee for a single line of authority in Minnesota?" ($50.) "Who must be fingerprinted when applying for a Minnesota resident insurance license?" (All resident applicants.)
 
@@ -58,9 +58,9 @@ Renewal deadline: Last day of the licensee's birth month, biennial (every 2 year
 
 CE requirements: 24 hours per renewal period. 3 hours must be ethics. At least 12 hours must not be sponsored by or affiliated with an insurance company. The 12-hour non-company-sponsored requirement is a Minnesota-specific CE provision that appears regularly in state law section questions.
 
-Renewal fee: $50 + $30 technology surcharge = $80 total.
+Renewal fee: $50 per line of authority + a single $10 technology surcharge (≈ $60 for a single-line license).
 
-Lapsed license reinstatement: Within 12 months — double the unpaid renewal fee (approximately $160 in base penalty). After 12 months — full relicensing required (new prelicensing, new exam, new fingerprinting).
+Lapsed license reinstatement: Within 12 months — double the unpaid renewal fee (the $50-per-line renewal fee doubled to approximately $100 for a single-line license). After 12 months — full relicensing required (new prelicensing, new exam, new fingerprinting).
 
 Exam questions this generates: "How many total CE hours must a Minnesota insurance producer complete per renewal period?" (24.) "How many of those hours must be ethics?" (3.) "What is the minimum number of hours that must not be sponsored by or affiliated with an insurance company?" (12.) "What is the penalty for reinstating a lapsed Minnesota license within 12 months?" (Double the unpaid renewal fee.) "What happens if a Minnesota producer's license lapses for more than 12 months?" (Full relicensing is required — new prelicensing, exam, and fingerprinting.)
 
@@ -70,7 +70,7 @@ The Commissioner may deny, suspend, revoke, or refuse to renew a license for: pr
 
 ### Temporary License
 
-Minnesota offers a 180-day temporary producer license for applicants sponsored by an appointing insurer. Applied through Sircon. Prelicensing and exam requirements still apply — the temporary license is a timing accommodation, not an exemption from substantive licensing requirements.
+Under Minn. Stat. §60K.42, the commissioner may issue a temporary producer license for up to 180 days without requiring an examination. It is a narrow accommodation — not a path for ordinary new applicants. It is available to the surviving spouse or court-appointed personal representative of a producer who dies or becomes disabled, to a member or employee of a licensed business entity upon a producer's death or disability, to the designee of a producer entering active military service, or in any other circumstance the commissioner finds will best serve the public interest. The commissioner may require a suitable sponsor — a licensed producer or insurer — who assumes responsibility for the temporary licensee's acts.
 
 ## Universal Topic 2: Minnesota Department of Commerce Structure
 
@@ -142,7 +142,7 @@ The $10,000 property damage minimum is among the lowest in the United States (Ma
 
 PIP structure: The $40,000 PIP limit is split — $20,000 for medical expenses and $20,000 for non-medical expenses including: lost wages at 85% of gross income capped at $500 per week; replacement services (household tasks the injured person cannot perform); and funeral expenses up to $2,000.
 
-Six-month PIP filing deadline: A PIP claim must be filed within six months of the accident. Claims filed after six months are barred.
+Six-month PIP notice provision: Under Minn. Stat. §65B.55, subd. 1, a policy may require the insured — or someone acting for them — to notify the insurer of the accident and the possibility of a claim within a period of not less than six months. Know it as a notice rule rather than an absolute cutoff: failure to give timely notice does not make a person ineligible for benefits unless the insurer shows actual prejudice, and then only to the extent of that prejudice.
 
 ### The Tort Threshold
 
@@ -156,7 +156,9 @@ Permanent disfigurement
 
 Death
 
-The $4,000 threshold and the diagnostic test exclusion are both specifically testable. An exam question may specify a claimant's total medical expenses and ask whether the tort threshold is met — and the answer depends on whether diagnostic tests are excluded from the calculation.
+Disability for 60 days or more — the inability to engage in substantially all of the injured person's usual and customary daily activities (Minn. Stat. §65B.51, subd. 3)
+
+The $4,000 threshold, the diagnostic test exclusion, and the 60-day disability trigger are all specifically testable. An exam question may specify a claimant's total medical expenses and ask whether the tort threshold is met — and the answer depends on whether diagnostic tests are excluded from the calculation.
 
 ### SR-22
 
@@ -206,7 +208,7 @@ Medical Assistance: Minnesota's name for Medicaid. Covers adults up to 138% FPL.
 
 MNsure: Minnesota's state-based health insurance exchange. The only platform through which Minnesotans can access APTC and CSR financial assistance.
 
-Minnesota LTC certification: Producers must complete an 8-hour initial certification before selling LTC products; this must be specific to Minnesota Medicaid and Minnesota Partnership plans. A 5-hour biennial refresher is required at each subsequent renewal cycle.
+Minnesota LTC certification: Producers must complete an 8-hour initial certification before selling LTC products; this must be specific to Minnesota Medicaid and Minnesota Partnership plans. A 4-hour ongoing (refresher) training is then required every 24 months (non-residents who completed the 8-hour course in another state take a 2-hour Minnesota-specific version instead).
 
 Minnesota Continuation Law: Extends COBRA-like continuation coverage to employees of employers with fewer than 20 employees — those too small to be subject to federal COBRA. Provides up to 18 months of continuation coverage.
 

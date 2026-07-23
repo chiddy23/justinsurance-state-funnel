@@ -170,7 +170,7 @@ Alabama license fees vary by license type. Current fee information is available 
 
 License renewal fee: $70 (per renewal cycle)
 
-NIPR processing fee: approximately $5.60 per transaction
+NIPR transaction fee: $5.00 per initial or renewal transaction (charged on top of the required state fee, for all license types)
 
 CE reporting fee: $1.00 per credit hour
 
@@ -242,6 +242,6 @@ Wrong license type. Applying for license types you didn't pass exams for means r
 
 ## Navigate Alabama Licensing with Confidence
 
-Understanding ALDOI requirements helps you move through the process smoothly. At JustInsurance, our Alabama-focused exam prep course gives you everything you need to pass your Alabama licensing exam and begin your insurance career.
+Understanding ALDOI requirements helps you move through the process smoothly. At JustInsurance, our Alabama-focused exam prep course gives you everything you need to pass the Alabama life and health licensing exam and begin your insurance career.
 
 Enroll today and start your Alabama insurance journey.

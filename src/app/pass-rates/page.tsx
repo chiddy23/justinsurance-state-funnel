@@ -1,3 +1,4 @@
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import ArticleByline from "@/components/ArticleByline";
@@ -62,7 +63,7 @@ const features = [
   {
     title: "Pass Guarantee",
     description:
-      "We're so confident in our courses that we back them with a pass guarantee in eligible states. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don't pass, we refund your course fee. The guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.",
+      `We're so confident in our courses that we back them with a pass guarantee in eligible states. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don't pass, we refund your course fee. The guarantee is available in most states and is not offered in ${passGuaranteeExcludedLabel()}.`,
   },
 ];
 

@@ -33,8 +33,8 @@ Before you dive into an official training program, you need to make sure you mee
 
 -   You must be at least 18 years old.
 -   You need a clean criminal background, as outlined by the California Department of Insurance (CDI).
--   You must complete [pre-licensing education hours](/california/prelicensing) that correspond to the type of insurance you plan to sell (for example, life, health, or property and casualty).
--   You are required to pass the appropriate licensing exam, administered by the CDI or an authorized testing center.
+-   You must complete the 12-hour Ethics and California Insurance Code course through a CDI-approved [pre-licensing education](/california/prelicensing) provider. Since January 1, 2026 (AB 943), this is the only prelicensing course California mandates — there is no longer a separate hour requirement tied to the line you plan to sell.
+-   You are required to pass the appropriate licensing exam, administered for the CDI by PSI at a test center or through PSI's online proctoring.
 
 Once these are fulfilled, you can apply for your official license. The underlying rules and specifics can vary, so it is always a good idea to verify the current regulations on the CDI website. If you stay organized from the very start, your training path will be far smoother.
 
@@ -42,7 +42,9 @@ Once these are fulfilled, you can apply for your official license. The underlyin
 
 One of the best ways to set yourself up for success is to map out a clear timeline for your california insurance license training. Some people opt for part-time study if they are employed full-time, while others dedicate themselves to an intensive, shorter program.
 
-Keep in mind that different lines of authority require a set amount of study hours, as mandated by state regulation. For instance, life insurance, property and casualty, or health insurance each have prerogatives for how many hours you must spend in a [pre-licensing](/california/prelicensing) course.
+Keep in mind that the mandated portion of your schedule is now fixed rather than line-specific. Before AB 943 took effect on January 1, 2026, California layered a 20-hour prelicensing requirement on top of the ethics course for each line of authority — life, accident and health, property, casualty, personal lines, and limited lines automobile. That requirement is repealed. What remains is the 12-hour Ethics and California Insurance Code course, which is monitored seat time and cannot be finished in less than 12 hours no matter how fast you read.
+
+Everything beyond those 12 hours is exam preparation you choose for yourself, not a legal hurdle. That is a real planning advantage — you decide how much line-specific study you need based on your background, rather than sitting through a fixed number of hours per line. Just don't mistake "not required" for "not necessary": the state exam still tests the full line content in depth, and a retake costs another fee and another test date.
 
 If you want to move quickly, you can concentrate your studies and try to complete your coursework within a few weeks. For a steadier approach, you can stretch your training over a few months while balancing work or family obligations. Either way, a well-thought-out schedule helps you stay on track and reduces stress.
 

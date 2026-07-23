@@ -1,7 +1,7 @@
 ---
 title: "Virginia Insurance License Requirements Explained: What Every Applicant Must Know"
 description: >-
-  Virginia stands out from most states in ways that matter to every applicant: it does not require prelicensing education, its licensing authority is the ...
+  Virginia's licensing rules differ from the generic advice online: the Bureau of Insurance is the regulator, Fieldprint handles fingerprinting, and the 183-day exam window runs to license issuance — not to the day you hit submit.
 keyword: virginia insurance license requirements explained what
 targetKeywords: virginia insurance license requirements explained what
 cluster: state-license-virginia
@@ -13,7 +13,7 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: "Virginia Insurance License Requirements Explained: What Every Applicant Must Know"
 ---
 
-Virginia stands out from most states in ways that matter to every applicant: it does not require [prelicensing](/virginia/prelicensing) education, its licensing authority is the Bureau of Insurance within the State Corporation Commission rather than a standalone department, its exam score is only valid for 183 days, and its fingerprinting vendor is Fieldprint — not IdentoGO, which most other states use. If you have read generic insurance licensing content and assumed Virginia works the same way as other states, this post corrects the record. Here is every requirement, every deadline, and every number you need to get your Virginia insurance license right the first time.
+Virginia works differently from the generic insurance licensing advice you will find online, and the differences matter to every applicant: the licensing authority is the Bureau of Insurance inside the State Corporation Commission rather than a standalone department, the exam score is good for only 183 calendar days — and that clock runs to license *issuance*, not to the day you hit submit — and fingerprinting goes through Fieldprint rather than IdentoGO. Virginia also requires no [prelicensing](/virginia/prelicensing) education for the major producer lines. That last point is worth knowing, but it is not a Virginia quirk: roughly half of U.S. licensing jurisdictions now require no mandatory prelicensing hours for the major producer lines, and the count keeps growing. Here is every requirement, every deadline, and every number you need to get your Virginia insurance license right the first time.
 
 ## Who Must Be Licensed
 
@@ -35,13 +35,13 @@ Virginia's insurance licensing exams are administered exclusively by Prometric. 
 
 No prelicensing course is required before sitting any Virginia insurance exam except Title. The Title exam requires prior completion of an approved 16-hour course.
 
-Exam structure by line:
+Exam mechanics that apply to every line:
 
 Passing score: 70% on all exams.
 
 Retake policy: 24-hour wait between attempts; 30-day mandatory wait after 3rd failure on the same exam.
 
-Score validity: 183 days from the exam date. You must apply for and receive your license within 183 days of passing.
+Score validity: 183 calendar days from the exam date — and this is the deadline applicants most often misread. The Bureau's licensing bulletin says only that "Exams remain valid for license applications for 183 calendar days," which reads like a filing deadline. The statute behind it is stricter. Va. Code § 38.2-1817(F) provides that "[i]f the applicant fails to obtain the appropriate license from the Commission within 183 calendar days from the date he passes the examination, the examination grade shall be considered invalid and the examination fee and application processing fee shall be forfeited." What has to happen inside the window is issuance of the license, not merely submission of the application — so Bureau review time comes out of your 183 days. Do not treat day 180 as a safe filing date.
 
 Experimental questions: Each exam contains unscored pretest questions mixed in with scored questions. They are not identified and do not affect your score.
 
@@ -57,27 +57,27 @@ All resident applicants must complete a fingerprint-based criminal history backg
 
 Scheduling: fieldprintvirginia.com Fieldprint Code: FPVABOIProducer (essential — this code routes results to the Bureau of Insurance) Cost: $34.95 (covers Virginia State Police and FBI checks) Timing: Fingerprints must not be more than 90 days old when you submit your license application. You must also submit your application within 90 days of completing fingerprinting.
 
-Fieldprint has approximately 46 locations across Virginia. Appointments are 10 minutes. You must bring your appointment number and two valid forms of identification to the Fieldprint appointment.
+The Bureau's application page puts the network at 93 Fieldprint locations, so there is almost certainly one within reasonable driving distance. Appointments are short — bring your appointment number and two valid forms of identification.
 
 Exemption: If you submitted fingerprints in the last 12 months, currently hold a license, and are applying for the same license type, you do not need new fingerprints.
 
-## The Criminal History Record Report (CHRR)
+## Background Check and Prior Convictions
 
-Virginia requires all resident applicants to submit a Criminal History Record Report (CHRR) obtained from the Virginia State Police, no more than 90 days old. This is submitted electronically as an attachment to your online application through NIPR or Sircon.
+The Fieldprint appointment described above *is* your background check. Fieldprint's technicians capture your prints electronically and transmit them to the Virginia State Police and the FBI — you do not separately order a Criminal History Record Report (CHRR) from the State Police and upload it yourself.
 
-If you have lived in Virginia for less than six months, provide a CHRR from your previous home state.
+This is worth stating plainly because older guidance still circulating online — including the 2020 Prometric licensing bulletin — instructs applicants to obtain a mailed CHRR from the Virginia State Police before applying. That reflects the pre-Fieldprint process. The Bureau's current application page, last updated January 5, 2024, lists three things: pass the exam, apply through Sircon or NIPR, and complete Fieldprint fingerprinting. If you encounter the CHRR instruction and are unsure which applies to your situation, confirm with Agent Licensing at AgentLicensing@scc.virginia.gov before spending money on a report you may not need.
 
-If your CHRR shows any conviction — misdemeanor or felony — you must also attach a detailed written explanation and copies of relevant court documents. The Bureau reviews all background information individually. Having a prior conviction does not automatically disqualify you, but it requires disclosure and documentation.
+If your record includes any conviction — misdemeanor or felony — you must disclose it and attach a detailed written explanation along with copies of the relevant court documents, following the misdemeanor and felony conviction checklists the Bureau publishes. The Bureau reviews all background information individually. A prior conviction does not automatically disqualify you, but it requires full disclosure and documentation, and it extends processing time considerably.
 
 ## Applying for the License
 
 Applications are submitted electronically through NIPR (nipr.com) or Sircon (sircon.com/virginia).
 
-Application fee: $15 per line of authority (non-refundable).
+Application fee: $15 per qualification, per application (non-refundable).
 
-Processing time: Applications are processed in date order. Allow 15 business days from submission. NIPR does not pre-verify your exam results before accepting submission — the Bureau reviews everything post-submission.
+Processing time: Applications are processed in date order. Allow 15 business days from submission, and a minimum of 30 business days if you answered any background question affirmatively. NIPR does not pre-verify your exam results before accepting submission — the Bureau reviews everything post-submission. Note also that an application is closed after 30 calendar days if the required documentation has not been provided, and reapplying costs another nonrefundable fee.
 
-Two critical windows: You must submit your application within 90 days of fingerprinting AND within 183 days of passing your exam. Both windows must be satisfied simultaneously. If either expires, you must start over.
+Two critical windows — and they do not work the same way. The fingerprint window is a submission deadline you control: your prints must be no more than 90 days old when the application is submitted. The 183-day exam window is not a submission deadline. Under Va. Code § 38.2-1817(F), the license must be obtained from the Commission within 183 calendar days of the date you passed, so every business day the Bureau spends reviewing your file consumes part of that window. If the 183 days run out before the license issues, the exam grade is void and both the exam fee and the application processing fee are forfeited — you retake the exam and pay again. Build in a margin: apply as soon as your fingerprints clear, and answer any Bureau request for documentation the day it arrives.
 
 ## What Happens After Approval
 
@@ -85,31 +85,33 @@ Once approved, you print your license from NIPR or Sircon. No physical license i
 
 ## License Types: Major Lines
 
-Virginia issues producer licenses for the following major lines of authority requiring an exam:
+The Bureau's Lines of Authority page lists these producer qualifications:
 
-Life and Annuities (includes variable products with applicable securities registration)
+Life and Annuities
 
 Accident and Health or Sickness (Health)
 
-Property
-
-Casualty
+Property and Casualty — a single qualification, not two, earned with the single Series 11-03 exam; it also includes the Personal Lines classes of insurance
 
 Personal Lines
 
 Title (requires prelicensing course)
 
-Life, Annuities, and Health are treated as a combined single line for CE purposes. A producer holding all three through the 11-01 combined exam holds one license type for CE calculations.
+Variable Contracts (requires the applicable securities registration)
+
+Note the Property and Casualty entry carefully. Virginia does not issue a Property-only or a Casualty-only producer license, and there is no Property-only or Casualty-only exam — the exam schedule runs 11-01 (Life, Annuities & Health), 11-03 (Property & Casualty), 11-04 (Title), 11-05 (Life & Annuities), 11-06 (Health), 11-07 (Personal Lines), and 11-08 (Public Adjuster).
+
+Note also what the Series 11-01 exam actually buys you. Passing it qualifies you for two agent licenses, not one and not three: Life and Annuities, and Health. You request each qualification on the application and pay the $15 fee for each. For continuing education, though, both sit in the same bracket — Va. Code § 38.2-1866(C) requires an agent holding a life and annuities license or a health agent license, "or both," to complete 16 credit hours every two years, three of which must be ethics. The 24-hour total in subsection (G) applies only when you also hold a license in a different category, such as Property and Casualty, and then at least eight of those hours must be specific to each category.
 
 ## Frequently Asked Questions
 
 What makes Virginia's insurance licensing requirements different from most other states?
 
-Several things distinguish Virginia from the typical state licensing framework. First, no prelicensing education is required — Virginia is one of the few states with no mandatory hours before the exam (except for Title). Second, the regulatory authority is the Bureau of Insurance within the State Corporation Commission, not a standalone Department of Insurance — this affects where you apply, where you look up regulations, and how you communicate with the regulator. Third, Virginia uses Fieldprint (not IdentoGO) for fingerprinting. Fourth, Virginia's exam score is valid for 183 days rather than the 1-year window many states offer. Fifth, the 30-day mandatory wait after three failed exam attempts is a Virginia-specific rule that does not apply in many states. Understanding these distinctions upfront prevents the most common application errors.
+Several things distinguish Virginia from the typical state licensing framework. First, no prelicensing education is required for the major producer lines — and while that once set Virginia apart, it no longer does: roughly half of U.S. states now require no mandatory hours before the exam, and the number keeps climbing (Title is the exception, still requiring a 16-hour course). Second, the regulatory authority is the Bureau of Insurance within the State Corporation Commission, not a standalone Department of Insurance — this affects where you apply, where you look up regulations, and how you communicate with the regulator. Third, Virginia uses Fieldprint (not IdentoGO) for fingerprinting. Fourth, Virginia's exam score is valid for 183 days rather than the 1-year window many states offer. Fifth, the 30-day mandatory wait after three failed exam attempts is a Virginia-specific rule that does not apply in many states. Understanding these distinctions upfront prevents the most common application errors.
 
 Is the $15 application fee charged per line of authority or per application?
 
-The $15 fee is charged per line of authority. If you are applying for both a Life & Annuities license and a Health license separately, you pay $15 for each line. If you take the combined Series 11-01 exam covering Life, Annuities and Health and apply for all three lines in one application, you pay $15 per qualification. A producer applying for Property and Casualty as separate lines pays $15 twice. Always budget per line, not per application session, when calculating your total licensing cost.
+The Bureau charges a non-refundable $15 per qualification, per application. If you are applying for both a Life & Annuities qualification and a Health qualification, you pay $15 for each. Property and Casualty, by contrast, is a single qualification rather than two — one Series 11-03 exam, one $15 fee, not two — and it carries the Personal Lines classes with it. Always budget per qualification, not per application session, when calculating your total licensing cost.
 
 How do I know if my background will prevent me from getting a Virginia insurance license?
 
@@ -125,4 +127,4 @@ The Virginia State Corporation Commission (SCC) is a constitutional body establi
 
 Virginia's insurance licensing requirements are straightforward once you understand what makes the Commonwealth different — no mandatory prelicensing, Prometric as the exam vendor, Fieldprint for fingerprinting, and the SCC as the regulator. Know these facts before you start, and the path to your license is clear.
 
-Visit JustInsurance to enroll today and prepare for your Virginia Prometric exam with a course built to the current content outline approved by the Bureau of Insurance.
+Visit JustInsurance to enroll today and prepare for your Virginia Prometric exam with a course built to the current Prometric Virginia content outline. (Virginia does not approve prelicensing or exam-prep courses for these lines; JustInsurance is separately an approved Virginia continuing education provider, #158885.)

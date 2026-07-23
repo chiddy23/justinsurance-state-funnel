@@ -17,7 +17,7 @@ imageAlt: >-
   workers' compensation and fraud: producer guide.
 ---
 
-Missouri's workers' compensation system creates specific producer obligations in one of the Midwest's most industrially and economically diverse states. Missouri workers' comp has a private competitive market with NCCI rating and Travelers as the assigned risk administrator — the same structure as Indiana (though Indiana uses ICRB instead of NCCI). The 5-employee general threshold (1-employee for construction) creates a significant group of small Missouri employers who are NOT required to carry workers' comp — creating both advisory and commercial insurance conversations. The Class A Misdemeanor/Class F Felony non-compliance penalties are among the more severe of comparison states. And Missouri's significant manufacturing (Boeing Defense; Anheuser-Busch InBev), healthcare (BJC HealthCare; SSM Health), financial services (Edward Jones; Centene), and agricultural sectors all create active commercial workers' comp advisory markets.
+Missouri's workers' compensation system creates specific producer obligations in one of the Midwest's most industrially and economically diverse states. Missouri workers' comp has a private competitive market with NCCI rating and Travelers as the assigned risk administrator — the same structure as Indiana (though Indiana uses ICRB instead of NCCI). The 5-employee general threshold (1-employee for construction) creates a significant group of small Missouri employers who are NOT required to carry workers' comp — creating both advisory and commercial insurance conversations. The Class A Misdemeanor/Class E Felony non-compliance penalties are among the more severe of comparison states. And Missouri's significant manufacturing (Boeing Defense; Anheuser-Busch InBev), healthcare (BJC HealthCare; SSM Health), financial services (Edward Jones; Centene), and agricultural sectors all create active commercial workers' comp advisory markets.
 
 ## Missouri Workers' Compensation Framework
 
@@ -61,7 +61,7 @@ Non-compliance penalties:
 
 First offense: Class A Misdemeanor (up to 1 year county jail + fines)
 
-Second offense: Class F Felony (potentially significant prison time)
+Second (or subsequent) offense: Class E Felony under RSMo § 287.128 (potentially significant prison time). Missouri classifies felonies A through E — there is no Class F.
 
 Fine: up to 3x estimated annual premium OR $50,000 (whichever is greater)
 
@@ -71,7 +71,7 @@ Missouri Second Injury Fund:
 
 Fund compensates workers who become permanently disabled beyond scope of a single work-related injury due to pre-existing disabilities
 
-Supported by surcharge on all Missouri workers' comp premiums (currently 6%)
+Supported by a surcharge on Missouri workers' comp premiums. RSMo § 287.715 caps the regular annual surcharge at 3% of the prior policy year's net premiums (or net deposits/assessments for self-insureds), with a supplemental surcharge of up to 1% authorized through calendar year 2026. The Division sets the actual rate each year, so quote the current published rate rather than a remembered figure.
 
 The Second Injury Fund created through legislation allows employers and their insurers to pay only for the new injury — the fund covers the additional disability attributable to the combination
 
@@ -111,12 +111,12 @@ Construction industry special attention: Missouri's 1-employee construction thre
 
 - What is the Missouri workers' comp 5-employee threshold and why is it distinctive? Missouri requires workers' comp for employers with 5+ employees (general rule), with construction at 1+ employee. This 5-employee general threshold is higher than Indiana (1+), Maryland (1+), New Jersey (1+), and Minnesota (1+) — all of which require workers' comp starting with the first employee. Missouri's threshold means small businesses with 2-4 employees are not required to carry workers' comp. This creates both an advisory conversation (explaining civil lawsuit exposure without coverage) and potential premium conversations for elective coverage.
 - What is the Missouri Second Injury Fund and why does it matter for producers? The Missouri Second Injury Fund compensates workers who suffer additional disability because a new work injury combines with a pre-existing condition. The fund is funded by a surcharge on all Missouri workers' comp premiums. For employers, the Second Injury Fund means they're only liable for the new injury's disability — not the combined disability from new + pre-existing conditions. Producers should explain the Second Injury Fund's role in limiting employer liability for workers with pre-existing conditions.
-- How does the Class F Felony penalty for second workers' comp non-compliance affect advisory? Missouri's escalating non-compliance penalties — Class A Misdemeanor (first offense) to Class F Felony (second offense) — are among the most severe of comparison states. For producers advising small Missouri employers near the 5-employee threshold, clearly explaining that a second violation could result in a felony charge provides genuine advisory value that motivates compliance. The "elect to be covered" option for sub-5-employee employers is worth discussing in this context.
+- How does the Class E Felony penalty for second workers' comp non-compliance affect advisory? Missouri's escalating non-compliance penalties — Class A Misdemeanor (first offense) to Class E Felony (second offense) — are among the most severe of comparison states. For producers advising small Missouri employers near the 5-employee threshold, clearly explaining that a second violation could result in a felony charge provides genuine advisory value that motivates compliance. The "elect to be covered" option for sub-5-employee employers is worth discussing in this context.
 - What is Missouri's NCCI relationship and how does it differ from Indiana's ICRB? Missouri uses NCCI (National Council on Compensation Insurance) for workers' comp rate setting and class codes — a national standard system used in most states. Indiana uses ICRB (Indiana Compensation Rating Bureau) — Indiana's own independent rating organization with potentially different class codes. For producers who work in both states, this means Indiana workers' comp requires ICRB-specific classification knowledge while Missouri workers' comp uses standard NCCI class codes applicable in most comparison states.
 - Does Missouri have a state fund for workers' compensation like Ohio's BWC? No — Missouri does not have a monopoly state fund. Travelers Commercial Casualty administers the assigned risk pool (Missouri Workers' Compensation Plan) for employers who cannot obtain voluntary market coverage — similar to Indiana's Travelers residual market and Maryland's Chesapeake Employers Insurance. Ohio's BWC is a monopoly; Missouri's assigned risk is accessed only when voluntary market coverage cannot be obtained.
 
 ## Build Your Missouri Commercial Lines Practice
 
-Missouri's workers' comp market — NCCI rating, 5-employee threshold, Class F Felony non-compliance, and Second Injury Fund — plus Boeing, healthcare systems, A-B InBev, and Missouri's agricultural sector create active commercial insurance advisory opportunities. JustInsurance's DCI-approved Missouri courses cover workers' comp law and fraud in producer-focused depth.
+Missouri's workers' comp market — NCCI rating, 5-employee threshold, Class E Felony non-compliance, and Second Injury Fund — plus Boeing, healthcare systems, A-B InBev, and Missouri's agricultural sector create active commercial insurance advisory opportunities. If you're already a licensed Missouri producer, JustInsurance's DCI-approved Missouri property & casualty continuing education helps you keep your commercial lines knowledge current and satisfy your renewal hours.
 
-Enroll today and develop your Missouri commercial lines expertise.
+Enroll in JustInsurance's Missouri P&C continuing education and keep building your commercial lines practice.

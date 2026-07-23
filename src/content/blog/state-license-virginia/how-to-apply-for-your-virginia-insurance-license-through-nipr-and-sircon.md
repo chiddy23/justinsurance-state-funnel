@@ -12,7 +12,7 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: How to Apply for Your Virginia Insurance License Through NIPR and Sircon
 ---
 
-Passing the Prometric exam is the hard part of getting your Virginia insurance license. Submitting the application is the administrative part — but it has enough specific requirements, attachment obligations, and window constraints that candidates who handle it carelessly create delays or forfeit their passing scores. Virginia does not offer grace periods or exceptions for missed application windows. The 183-day score validity and the 90-day fingerprint window run simultaneously and independently, and both must be satisfied before you submit. This post walks through the application process exactly as Virginia requires it.
+Passing the Prometric exam is the hard part of getting your Virginia insurance license. Submitting the application is the administrative part — but it has enough specific requirements, attachment obligations, and window constraints that candidates who handle it carelessly create delays or forfeit their passing scores. Virginia does not offer grace periods or exceptions for missed windows. The 183-day exam-score window — within which your license must actually be *issued*, not merely applied for (Va. Code § 38.2-1817) — and the 90-day fingerprint window run simultaneously and independently, so submit early enough for the Bureau to finish processing inside both. This post walks through the application process exactly as Virginia requires it.
 
 ## Where to Apply: NIPR vs. Sircon
 
@@ -28,41 +28,35 @@ Renewal note: Both NIPR and Sircon are used for license renewals as well. The $1
 
 ## The Application Fee
 
-Virginia charges a $15 non-refundable processing fee per line of authority (also called "per qualification"). This fee does not vary by line — Life, Health, Property, Casualty, and Personal Lines each cost $15.
+Virginia charges a $15 non-refundable processing fee per line of authority (also called "per qualification"). This fee does not vary by qualification — Life and Annuities, Health, Property and Casualty, and Personal Lines each cost $15.
 
-If you are applying for both Property and Casualty as separate lines, you pay $30. If you passed the combined Series 11-01 exam and are applying for Life, Annuities, and Health as a package, you pay $15 per qualification requested — check the specific NIPR or Sircon application flow to confirm exactly how the charges apply for combined exam results.
+Property and Casualty is a single Virginia qualification, not two — one $15 fee and one exam (Series 11-03), and it already includes the Personal Lines classes of insurance, so do not also apply for Personal Lines. If you passed the combined Series 11-01 exam, Life & Annuities and Health are two separate qualifications, so you pay $15 for each ($30) — check the specific NIPR or Sircon application flow to confirm exactly how the charges apply for combined exam results.
 
-## What You Must Attach to Your Application
+## What Your Application Requires
 
-Virginia's Bureau of Insurance requires specific documentation attached to the online application:
+Virginia's Bureau of Insurance verifies most of your file automatically, but a few items still need action on your part:
 
-### Criminal History Record Report (CHRR)
+### Criminal Background Check (Fingerprinting — not a document you attach)
 
-A current CHRR from the Virginia State Police, no more than 90 days old at the time of submission. You obtain this through the Virginia State Police website. The CHRR is submitted electronically as an attachment to your NIPR or Sircon application.
-
-If you have been a Virginia resident for less than six months, submit a CHRR from your previous home state.
+Virginia does not have you obtain and upload a Criminal History Record Report. Since January 1, 2020 the background check is fingerprint-based: you complete a live-scan appointment at Fieldprint (code FPVABOIProducer, $34.95), and Fieldprint transmits your prints to the Virginia State Police and the FBI, who return the results directly to the Bureau's Agent Licensing Unit. Your fingerprints must be no more than 90 days old when the application is processed. You do not need new prints if you submitted them within the last 12 months, currently hold a Virginia license, and are applying for the same license type. You never upload the results yourself, but your prints must be on file before the application can be fully processed — so complete your Fieldprint appointment before or around the same time as your exam.
 
 ### Disclosure Documents for Criminal History
 
-If your CHRR shows any conviction — misdemeanor or felony — you must additionally attach:
+If you have any conviction — misdemeanor or felony — to disclose, you must additionally attach:
 
-A detailed personal statement explaining the circumstances, including dates, location, charges, disposition, and any rehabilitation or mitigating factors
+A detailed written statement explaining the circumstances surrounding each offense, including dates, location, charges, disposition, and any rehabilitation or mitigating factors
 
-Copies of court documents or letters from your probation officer indicating completion
+The charging document, the court document showing the final disposition of the case, and the sentencing order — plus, if applicable, the court document or probation officer's letter showing completion of probation
 
-Court documents obtained directly from the Clerk of the Court with jurisdiction — printouts from court websites are not acceptable
+Virginia's conviction checklist directs you to request these court documents from the Clerk of the Court that had jurisdiction over your case. If a conviction was pardoned or expunged, or your civil rights were restored, attach that documentation as well
 
 The Bureau reviews these documents individually. Incomplete disclosure is treated as misrepresentation and is grounds for license denial independent of the underlying conviction.
-
-### Fingerprint Verification
-
-You do not need to upload fingerprint results separately — Fieldprint transmits results directly to the Bureau of Insurance electronically. However, your fingerprints must be on file with the Bureau before the application can be fully processed. Complete your Fieldprint appointment before or around the same time as your exam to avoid delays.
 
 ## The Two Windows You Must Track Simultaneously
 
 Virginia's application requirements create two independent deadlines that must both be satisfied:
 
-Window 1 — Exam score validity: 183 calendar days from your Prometric exam date. Your application must be submitted and approved within this window. If 183 days pass without an approved license, your exam score expires and you must retake the exam.
+Window 1 — Exam score validity: 183 calendar days from your Prometric exam date. Virginia requires your license to be *issued* within this window — not merely applied for (Va. Code § 38.2-1817). If 183 days pass without your license being issued, your exam grade is void and you must retake the exam, so submit with enough lead time for the Bureau's processing.
 
 Window 2 — Fingerprint validity: 90 calendar days from your Fieldprint appointment. Your fingerprints expire 90 days after they were taken. You must submit your application within this window, and the Bureau must be able to retrieve your background check results.
 
@@ -72,7 +66,7 @@ The simplest approach: schedule your Fieldprint appointment within a week of you
 
 ## Processing Time and What to Expect
 
-Applications are processed by the Virginia Bureau of Insurance in date order. The typical processing time is approximately 15 business days from the date of submission. During processing, the Bureau reviews your exam results (transmitted electronically by Prometric), your CHRR, and any disclosure documents.
+Applications are processed by the Virginia Bureau of Insurance in date order. The typical processing time is approximately 15 business days from the date of submission. During processing, the Bureau reviews your exam results (transmitted electronically by Prometric), your fingerprint background check (returned by the Virginia State Police and FBI), and any disclosure documents.
 
 You can check application status through the NIPR website after submission.
 
@@ -94,11 +88,11 @@ Both platforms are accepted by the Virginia Bureau of Insurance and connect to t
 
 What happens if I miss the 183-day window after passing my Prometric exam?
 
-If 183 calendar days pass from your Prometric exam date without an approved Virginia license application, your exam score expires. You must retake and pass the Prometric exam before the Bureau will process a new application. There are no exceptions, waivers, or extensions to this rule under Virginia law. This is one of the most important deadlines to understand before you start the process — particularly if you are completing fingerprinting and the CHRR after passing the exam. Build in time for the Bureau's 15-business-day processing window when you calculate how much time you have.
+If 183 calendar days pass from your Prometric exam date without your Virginia license being issued, your exam score expires. You must retake and pass the Prometric exam before the Bureau will process a new application. There are no exceptions, waivers, or extensions to this rule under Virginia law. This is one of the most important deadlines to understand before you start the process — particularly if you are completing fingerprinting after passing the exam. Build in time for the Bureau's 15-business-day processing window when you calculate how much time you have, because the deadline is on the license being issued, not on your submission.
 
 Can I apply for multiple lines of authority in a single application submission?
 
-Yes. When applying through NIPR or Sircon, you can select multiple lines of authority in a single application session. You pay $15 per line selected. If you passed the combined Series 11-01 exam (Life, Annuities & Health) and want to hold all three as separate lines of authority, you apply for each qualification separately — the application platform will prompt you through this. Similarly, if you passed both the Series 11-01 and Series 11-03 exams, you can apply for all lines in a single session. Be sure to attach your CHRR and any disclosure documents once — they apply across all lines requested in the same application.
+Yes. When applying through NIPR or Sircon, you can select multiple qualifications in a single application session. You pay $15 per qualification selected. Passing the combined Series 11-01 exam (Life, Annuities & Health) grants two qualifications — Life & Annuities and Health — which you apply for at $15 each, and the application platform will prompt you through this. Similarly, if you passed both the Series 11-01 and Series 11-03 exams, you can apply for all of your qualifications in a single session. Your fingerprint background check and any conviction-disclosure documents apply across all qualifications requested in the same application, so you handle them once.
 
 How do I add a line of authority to my license after it is issued?
 

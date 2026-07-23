@@ -16,23 +16,27 @@ imageAlt: >-
   ce requirement: hours and topics.
 ---
 
-Every licensed insurance producer in Alabama has to complete ethics [continuing education](/alabama/continuing-education) — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. The Alabama Department of Insurance (ALDOI) treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
+If you hold an Alabama producer or service representative license in the life lines, the property lines, or bail bonds, ethics [continuing education](/alabama/continuing-education) is part of every 2-year renewal cycle — it's mandatory, and it can't be satisfied with other coursework. A couple of categories sit outside the requirement altogether rather than getting a smaller version of it, and those are worth checking before you buy anything. The Alabama Department of Insurance (ALDOI) treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
 
 Here's what every Alabama agent should know about the ethics CE requirement.
 
 ## The Basic Requirement
 
-Under ALDOI Regulation 110, Alabama requires 3 hours of Ethics CE in every 2-year renewal cycle for major lines producers. These 3 hours are part of your total 24-hour CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
+Under ALDOI Regulation 110, Rule 482-1-110-.05(1) requires a minimum of 24 classroom hours of approved coursework per 2-year renewal cycle, "3 hours of which shall be on the topic of insurance producer ethics." Those 3 hours are part of the 24 — not in addition to them — but they are a mandatory subset that can't be swapped for other coursework.
 
-For service representatives and some limited license holders, the ethics requirement is 2 hours of Ethics CE in every 2-year cycle, as part of the total 12-hour CE requirement.
+Service representatives are on the same schedule. Rule 482-1-110-.05(1) applies its 24 hours, 3 of them ethics, to every insurance representative licensed in this state "as a producer or service representative," so the title on your license does not change what you owe. If you have been told service representatives get an automatic 12-hour rate, check the rule before you rely on it.
 
-Skip the Ethics component, and your CE is considered incomplete even if your total hours hit 24. No renewal, no active license.
+There is a 12-hour schedule with a 2-hour ethics component, but it turns on where you work rather than what your license is called. Under Rule 482-1-110-.05(5), a producer or service representative employed by another producer or by an insurer to work only in the office of the employer, and who is not licensed as a nonresident in any other state, completes 12 classroom hours in lieu of the 24 — 2 of them on ethics. Sell outside the office, or hold a non-resident license in any other state, and you are back on 24 and 3.
+
+Two groups fall outside the educational requirements entirely rather than getting a reduced version. Rule 482-1-110-.03(3)(d) excuses newly licensed producers and service representatives for the 12 months following the effective date of their license. And Rule 482-1-110-.03(3)(b) exempts a producer whose license is limited to acting only for lines such as credit insurance, rental vehicle, crop, portable electronic, travel, motor club, dental services, and legal services, or any combination of those — for those licensees the educational requirements, ethics included, do not apply at all. The exempt list has been amended over the years, so confirm the current version on the [ALDOI continuing education page](https://aldoi.gov/ContinuingEd/) before claiming an exemption.
+
+Skip the ethics component and your CE is incomplete even if your total hours hit 24. No renewal, no active license.
 
 ## Why Alabama Requires Ethics CE
 
 Insurance is one of the most trust-dependent industries there is. Agents hold significant responsibility — they guide financial decisions affecting decades of clients' lives, handle sensitive personal and medical information, and process claims that change families' trajectories. When the trust underlying those relationships breaks down, it harms clients, insurers, and the industry as a whole.
 
-Alabama requires ethics CE to ensure licensed professionals regularly revisit the standards that define responsible conduct. It's also a safeguard against the problem areas that come up repeatedly in ALDOI enforcement actions — misrepresentation, unsuitable sales, replacement violations, and undisclosed conflicts of interest.
+Alabama requires ethics CE to ensure licensed professionals regularly revisit the standards that define responsible conduct. It also lines up with the conduct the Insurance Code actually punishes: among the causes for discipline listed in Ala. Code § 27-7-19 are intentionally misrepresenting the terms of an actual or proposed insurance contract or application, and having committed an insurance unfair trade practice or fraud.
 
 Ethics isn't an abstract philosophical requirement. It's practical career protection.
 
@@ -74,15 +78,15 @@ Rural and Small Community Dynamics. In smaller Alabama communities where agents 
 
 ## Why This Matters for Your Career
 
-Ethics violations aren't just abstract concerns. They're the most common reason agents face license suspension or revocation in Alabama.
+Ethics violations aren't just abstract concerns. Under Ala. Code § 27-7-19 the Commissioner may place a licensee on probation, refuse to issue or renew, suspend, or revoke the license, levy a civil penalty, or apply any combination of those.
 
-Most agents who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical line that their ethics CE was literally designed to prevent.
+The conduct the statute names — misrepresenting the terms of an actual or proposed contract, obtaining a license by misrepresentation or fraud, committing an insurance unfair trade practice — is exactly what ethics CE is built to help you recognize and stay clear of.
 
 Taking ethics CE seriously is one of the cheapest forms of career insurance available.
 
 ## How to Get the Most from Ethics CE
 
-Don't treat it as a box to check. The 3 hours are an opportunity to review standards that may save your career. Read carefully, engage with the examples, and think through how they apply to your specific practice.
+Don't treat it as a box to check. Your ethics hours — 3 on the standard 24-hour schedule, 2 if you qualify for the in-office 12-hour schedule — are an opportunity to review standards that may save your career. Read carefully, engage with the examples, and think through how they apply to your specific practice.
 
 Look for Alabama-specific content. Generic national ethics courses may not fully address Alabama's regulatory environment. Courses specifically designed for Alabama give you more useful context.
 
@@ -116,11 +120,12 @@ Flood Training. The 3-hour NFIP training includes ethical disclosures about cove
 
 Together, these specialty trainings and ethics CE reinforce a coherent standard of ethical conduct across different product lines.
 
-## 5 Frequently Asked Questions
+## Frequently Asked Questions
 
-- Can I substitute general CE hours for the Ethics requirement? No. The 3-hour Ethics requirement must be specifically ethics-focused content approved by the ALDOI.
+- Can I substitute general CE hours for the Ethics requirement? No. Your ethics hours — 3 on the standard 24-hour schedule, 2 on the in-office 12-hour schedule under Rule 482-1-110-.05(5) — must be ethics-focused content approved by the ALDOI.
+- Do service representatives owe fewer ethics hours than producers? No. Rule 482-1-110-.05(1) applies the same 24 hours, 3 of them ethics, to producers and service representatives alike. The 12-hour/2-ethics rate comes from Rule 482-1-110-.05(5) and depends on your working arrangement, not your license type.
 - Can I take more than 3 hours of ethics? Yes. If you complete more ethics hours, they count toward your general CE hours. However, Alabama doesn't allow carryover to the next cycle.
-- Does the Ethics requirement apply every renewal cycle or just once? Every cycle. The 3-hour Ethics requirement applies to every 2-year renewal period throughout your career.
+- Does the Ethics requirement apply every renewal cycle or just once? Every cycle you are subject to CE at all. The one common exception is your first renewal: under Rule 482-1-110-.03(3)(d), producers and service representatives licensed less than 12 months at that point are not required to complete the educational requirements.
 - Are online ethics courses accepted? Yes. The ALDOI accepts approved online ethics courses, and most agents complete their ethics CE online.
 - What happens if I complete 24 hours but skip the Ethics portion? Your CE won't be considered complete, and your renewal won't be accepted. The Ethics requirement is mandatory.
 

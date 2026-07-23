@@ -130,11 +130,11 @@ Practical benefit: You can complete CE courses entirely online at any hour, with
 
 ## CE Administration — PSI and SBS
 
-Arizona's CE administration involves two systems:
+Arizona's CE administration involves two systems that work together:
 
-PSI Services: Handles CE provider and course approval applications. Course providers apply through PSI to get courses approved for Arizona CE credit.
+PSI Services: Arizona's DIFI-designated CE administrator since September 2025 (replacing Prometric). PSI's CE Department reviews and approves — or denies — CE provider, course, and instructor applications on behalf of DIFI, and administers exam content on the licensing side.
 
-State Based Systems (SBS) portal (statebasedsystems.com): The platform through which providers submit CE rosters and course completions. CE fees are invoiced through SBS. All CE provider, course, and instructor applications must be submitted through SBS.
+State Based Systems (SBS) portal (statebasedsystems.com): The submission platform. Providers submit their CE provider, course, and instructor applications through SBS, and also file CE rosters and course completions there. CE fees are invoiced through SBS. In short, applications and rosters are entered in SBS, and PSI is the authority that reviews and approves them.
 
 CE transcript access: Available through the SBS portal (statebasedsystems.com). Producers can check their transcript to verify course completions are posted.
 
@@ -194,7 +194,7 @@ LTC Training: 8-hour initial + 4-hour ongoing every 24 months before/while selli
 
 NFIP Flood: 3-hour one-time course before selling flood insurance
 
-All specialty training counts toward the 48-hour CE requirement in the period completed. Full details on each in Post 4.
+All specialty training counts toward the 48-hour CE requirement in the period completed — each requirement is detailed in the section above.
 
 ## Proof of CE at Renewal
 

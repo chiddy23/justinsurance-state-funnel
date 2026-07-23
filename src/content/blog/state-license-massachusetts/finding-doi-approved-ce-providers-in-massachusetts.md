@@ -51,21 +51,21 @@ The credit hour also changed: Massachusetts now uses a 50-minute credit hour (do
 
 You can find Massachusetts DOI-approved CE providers and courses through:
 
-Prometric's Website
+NAIC State Based Systems (SBS)
 
-Prometric provides course review services for the Massachusetts Continuing Education Program. Their website includes:
+Massachusetts runs provider approval, course approval, roster reporting, and CE transcripts through NAIC's State Based Systems. The public lookup at sbs.naic.org/solar-external-lookup lets you:
 
-Approved course searches
+Search approved Massachusetts CE courses and providers
 
-Provider listings
+Confirm course approval numbers and course type designations
 
-Course approval numbers and details
+Check your own CE transcript and compliance status
 
-Course type designations
+Pearson
 
-Provider Package information for new providers
+Pearson administers the Massachusetts Division of Insurance CE program — course review, provider approvals, renewals, and roster processing. It took over from Prometric on July 22, 2026. For questions the SBS lookup can't answer, contact Pearson at 1-866-777-7896, ce@pearson.com (producers) or ce_providers@pearson.com (providers). Pearson also publishes the Massachusetts DOI CE Provider Handbook at pearsonvue.com/us/en/ma/insurance.
 
-Visit prometric.com/test-takers/search/maceprov for course search.
+Heads up: older guidance that points you to Prometric's Massachusetts CE course search is out of date. Prometric stopped administering the Massachusetts CE program after July 16, 2026.
 
 Massachusetts Division of Insurance
 
@@ -78,14 +78,6 @@ Recent CE program announcements
 Provider approval guidance
 
 CER Agreement information
-
-NAIC State Based Systems
-
-Massachusetts uses NAIC's State Based Systems for licensing. Through SBS:
-
-Verify your CE compliance status
-
-View your CE transcript
 
 ## Key Information to Verify Before Enrolling
 
@@ -209,7 +201,7 @@ Specialty training (LTC, Annuity Best Interest, NFIP) typically costs $25-$150 p
 
 Bundle discounts are common for full CE packages.
 
-State reporting fee. Massachusetts reporting fee is approximately $1.50 per CE hour, typically added to course pricing or billed separately. A 60-hour package with reporting = ~$90 in reporting fees.
+State roster fee. Massachusetts charges providers $2.00 per credit per student to file your completion roster through SBS, and providers typically build that into course pricing or bill it separately. On a 60-hour first-term package, that's $120 in roster fees.
 
 Compare total costs (including reporting fees) when evaluating providers.
 
@@ -275,7 +267,7 @@ Double-check your NPN before enrolling. A wrong NPN means your completion gets r
 
 After completing a CE course, expect:
 
-Provider reporting: Within 1-10 business days for most quality providers. Massachusetts allows 10 days from exam completion for reporting.
+Provider reporting: Within 1-10 business days for most quality providers. Massachusetts requires providers to file the completion roster with SBS within 10 calendar days of course completion, and providers who miss that window can face sanctions.
 
 Massachusetts DOI processing: Up to 30 days for the DOI to process your new completion results on their systems.
 
@@ -301,7 +293,7 @@ Phone: (617) 521-7794
 
 Toll-free: (877) 563-4467
 
-Email: producerupdate.mailbox@state.ma.us
+Email: producerupdate.mailbox@mass.gov
 
 ## Course Completion Certificates
 
@@ -317,9 +309,9 @@ Reporting backup. Certificates serve as backup documentation if provider reporti
 
 ## 5 Frequently Asked Questions
 
-- Where can I find a list of Massachusetts-approved CE providers? Through Prometric's website at prometric.com (Massachusetts CE program) or the Massachusetts Division of Insurance website at mass.gov/orgs/division-of-insurance.
+- Where can I find a list of Massachusetts-approved CE providers? Through the public NAIC State Based Systems lookup at sbs.naic.org/solar-external-lookup, or the Massachusetts Division of Insurance website at mass.gov/orgs/division-of-insurance. Pearson has administered the Massachusetts CE program since July 22, 2026 (1-866-777-7896, ce@pearson.com), replacing Prometric.
 - Can I use CE I completed for another state in Massachusetts? Yes, since the December 1, 2020 CER Agreement. Massachusetts producers can complete approved CE courses in reciprocal states or online and receive Massachusetts CE credit.
-- What's the reporting fee for Massachusetts CE? Approximately $1.50 per CE hour. This fee covers the cost of reporting your completion to the DOI and is typically added to course pricing or billed separately by providers.
+- What's the reporting fee for Massachusetts CE? $2.00 per credit per student. Providers pay this roster fee through SBS when they file your completion, and they typically add it to course pricing or bill it separately.
 - Do all Massachusetts CE courses require proctoring? Self-study courses (online and book-based) require proctored final exams by disinterested third parties. Live classroom and webinar formats typically don't require separate proctoring (attendance verification serves a similar purpose).
 - How fast should approved CE hours appear on my transcript? Providers typically report within 1-10 business days. Massachusetts DOI takes up to 30 days to process. Allow 30-40 days total before contacting your provider about missing credits.
 

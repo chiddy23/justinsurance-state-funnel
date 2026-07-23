@@ -49,7 +49,7 @@ Small Employer Health Insurance. Illinois regulates the small employer health ma
 
 Long-Term Care Insurance Standards. Specific rules for LTC sales, including training requirements, disclosure standards, and benefit requirements.
 
-Annuity Suitability. Illinois requires agents to have reasonable grounds for annuity recommendations, with enhanced standards for senior consumers.
+Annuity Suitability and Best Interest. When recommending an annuity, Illinois requires producers to act in the consumer's best interest — a higher bar than the older "reasonable basis" suitability test — by meeting obligations of care, disclosure, conflict-of-interest management, and documentation under 50 Ill. Adm. Code 3120. This best-interest standard applies to every annuity consumer, not only seniors.
 
 Privacy and Information Protection. How you collect, store, and share client information is regulated under both Illinois law and federal frameworks like HIPAA and GLBA.
 
@@ -125,7 +125,7 @@ Both are legally binding. "Illinois insurance law" typically refers to both toge
 
 ## How to Stay Compliant
 
-Know the rules for your products. If you sell life insurance, know replacement rules. If you sell annuities, know suitability. If you sell LTC, know the specific LTC requirements.
+Know the rules for your products. If you sell life insurance, know replacement rules. If you sell annuities, know the best-interest standard. If you sell LTC, know the specific LTC requirements.
 
 Document everything. Notes on client conversations, reasons for recommendations, forms signed and retained. Documentation is your primary defense if questions arise.
 

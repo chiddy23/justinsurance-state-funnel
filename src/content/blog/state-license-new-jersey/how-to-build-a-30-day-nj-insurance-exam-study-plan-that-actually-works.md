@@ -16,7 +16,7 @@ Most people who fail the New Jersey insurance exam did not fail because the mate
 
 ## Why 30 Days Works for Most Candidates
 
-New Jersey requires 20 hours of prelicensing education per line of authority, with three of those hours dedicated to ethics. That is a relatively modest requirement compared to states like New York (20 hours per line, 40 for the combined Life & Health course) or Florida (60 hours for 2-20). The course content is manageable in under two weeks for most people, which leaves the second half of your 30 days for active review, practice testing, and targeted drilling on the state law section — the area where NJ candidates most commonly fall short.
+New Jersey requires 20 hours of prelicensing education per line of authority under N.J.A.C. 11:17-3.4. The regulation prescribes the subject areas the course has to cover — including producer trade practices, standards of conduct and ethics — but it does not carve out a fixed number of ethics hours the way some states do. (New Jersey's 3-hour ethics rule belongs to biennial continuing education, not prelicensing. Do not go looking for a separate ethics block in your course.) Twenty hours is a relatively modest requirement compared to states like New York (20 hours per line, 40 for the combined Life & Health course) or Florida, where the 2-20 General Lines license carries a 200-hour prelicensing course. The course content is manageable in under two weeks for most people, which leaves the second half of your 30 days for active review, practice testing, and targeted drilling on the state law section — the area where NJ candidates most commonly fall short.
 
 If you are taking two lines simultaneously (for example, Life and Health), add 10 days to this plan and treat each line's state-specific content as a separate study unit.
 
@@ -56,9 +56,11 @@ Question-first studying. After completing a topic in your course, immediately fi
 
 Time your practice sessions. Every NJ exam line gives you 210 minutes, but the scored-question count varies by line — 83 for Life, 88 for Health, 79 for Property, 91 for Casualty — which works out to roughly 2 to 2.5 minutes per question depending on your line. You should be comfortably finishing practice sets well under pace. If you are regularly running out of time, your familiarity with the material needs work.
 
-## A Word on the Prelicensing Certification Exam
+## A Word on Your Course Final Exam
 
-Before you can sit for the PSI state exam, you must pass your prelicensing course's internal certification exam. In New Jersey, this exam must be proctored by a disinterested third party — someone who is not a friend, family member, or anyone with a financial interest in your results. You must score at least 70% to receive your certificate of completion. Plan for this exam in Week 1 of your study schedule — complete your 20 course hours, then schedule your proctored certification exam before moving into Week 2 review.
+Most approved New Jersey prelicensing courses end with a final examination, and your provider has to retain proof that you passed it along with the rest of your student record (N.J.A.C. 11:17-3.2). What New Jersey regulation does *not* do is set the terms of that exam: N.J.A.C. 11:17-3.4 and 11:17-3.2 do not prescribe a disinterested third-party proctor or a specific minimum passing score. Those conditions, where they exist, come from the individual course provider, and they vary.
+
+So do not assume — ask. Before Day 1, confirm with your provider whether their course ends in a final exam, whether it has to be proctored and how, and what score you need. Then build it into Week 1: finish your 20 course hours, clear the course final, and move into Week 2 review with your certificate of completion in hand.
 
 ## Frequently Asked Questions
 
@@ -76,7 +78,7 @@ Yes, and you should. Practice exams are one of the most effective preparation to
 
 What if I finish my prelicensing course but don't feel ready for the exam?
 
-Your prelicensing certificate of completion in New Jersey never expires, which means there is no pressure to rush to the exam after finishing your course. Take the time you need to study. The PSI exam fee is $47, and retakes cost the same — but avoiding retakes by preparing thoroughly is always the better strategy, both for your confidence and your wallet. If you finish your course and feel uncertain, spend one to two additional weeks on active recall and practice testing before scheduling.
+Your prelicensing certificate of completion in New Jersey never expires, which means there is no pressure to rush to the exam after finishing your course. Take the time you need to study. PSI's New Jersey candidate bulletin currently lists the examination fee at $38, and a retake costs the same $38 again — but avoiding retakes by preparing thoroughly is always the better strategy, both for your confidence and your wallet. Confirm the current fee in the bulletin before you book; it is the only published source that governs. If you finish your course and feel uncertain, spend one to two additional weeks on active recall and practice testing before scheduling.
 
 Is the NJ insurance exam hard to pass?
 

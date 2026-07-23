@@ -33,7 +33,7 @@ If you plan to sell long-term care insurance, you must hold A&H authority **firs
 
 ## Step 2 — Schedule and pass the PSI exam
 
-PSI replaced Pearson VUE as Arizona's licensing exam vendor in September 2025. NIPR's [Arizona licensing overview](https://nipr.com/licensing-center/state-information/arizona) lists PSI as the current vendor and confirms exam scores remain valid for **12 months** from the test date. Schedule directly through the [PSI Arizona portal](https://test-takers.psiexams.com/anzins) — accounts created on the old Pearson VUE Arizona portal do not transfer.
+PSI replaced **Prometric** as Arizona's licensing exam vendor on **September 3, 2025** — Prometric's last Arizona insurance testing day was August 24, 2025. (Pearson VUE has never administered Arizona insurance exams. If a study guide or forum post tells you otherwise, it is wrong about this state.) NIPR's [Arizona licensing overview](https://nipr.com/licensing-center/state-information/arizona) lists PSI as the current vendor and confirms exam scores remain valid for **12 months** from the test date. Schedule directly through the [PSI Arizona portal](https://test-takers.psiexams.com/anzins) — nothing from the retired Prometric Arizona system carries over, so you create a new PSI account from scratch.
 
 What to expect on test day:
 
@@ -43,11 +43,11 @@ What to expect on test day:
 - No personal items in the testing room (lockers provided)
 - Score report printed at the test center immediately after submission
 
-If you fail, PSI publishes the section-level score breakdown so you know which content area to re-study before retaking. Arizona does not impose a retake waiting period beyond PSI's own 24-hour cooldown.
+If you fail, PSI publishes the section-level score breakdown so you know which content area to re-study before retaking. Arizona does cap retakes by statute: **A.R.S. § 20-284(H)** permits a maximum of **four attempts per line of authority in any 12-month period**, and after a fourth unsuccessful attempt you must wait **one full year from that attempt** before testing that line again. Between individual attempts there is no statutory waiting period — but PSI cannot rebook you on the same day you tested, because scores have to process first. A candidate who tests unsuccessfully on a Wednesday can call Thursday and retest as soon as Friday, subject to seat availability. One trap worth knowing: PSI's Arizona bulletin states that failing an exam covering more than one line of authority counts as a failure **for each** line it covers, so a failed Life, Accident & Health exam burns an attempt on both.
 
 ## Step 3 — Submit fingerprints and background disclosures
 
-Arizona requires electronic fingerprinting through DIFI's approved vendor before license issuance. The [DIFI licensing hub](https://difi.az.gov/licensing) links the current fingerprinting instructions; do not submit through a generic IdentoGO page without a service code from DIFI, or your prints will not be transmitted to the right queue.
+Arizona requires electronic fingerprinting before license issuance, and the route is specific: you create accounts on both the **AZ DPS Public Services Portal** and **Fieldprint**, DPS's approved electronic fingerprint vendor, then take the Fieldprint appointment (roughly $20 for fingerprinting plus a $22 FBI processing fee — about $42 total) and mail **Form L-FPV** to DIFI with your Fieldprint reference number. The [DIFI licensing hub](https://difi.az.gov/licensing) links the current instructions. Arizona does not use IdentoGO for insurance licensing, and DIFI does not accept an AZ DPS Fingerprint Clearance Card in place of this process — prints submitted any other way will not reach DIFI. You are not required to resubmit fingerprints when you add a line of authority to an existing Arizona license.
 
 Background disclosures appear on the NIPR application. Disclose every misdemeanor, every alias, and every prior license action — even ones from 20 years ago in another state. DIFI cross-checks against NAIC's Regulatory Information Retrieval System, and undisclosed actions trigger investigative holds far longer than the actions themselves would have caused if disclosed cleanly.
 
@@ -81,9 +81,9 @@ Set up your CRM and document storage plan **while** you study for PSI — not af
 
 ## Common pitfalls Arizona resident producers hit
 
-- **Confusing PSI with the old Pearson VUE portal.** Pearson VUE accounts no longer exist for Arizona insurance — start fresh on the PSI portal.
+- **Hunting for a legacy Pearson VUE account.** Arizona insurance exams never ran through Pearson VUE. The retiring vendor was Prometric, which stopped testing Arizona insurance candidates on August 24, 2025 — start fresh on the PSI portal.
 - **Selling LTC without § 20-1691.12 training.** This is a strict-liability statute. No grandfather clause, no "I'll get the CE next month" defense.
-- **Skipping fingerprints from the DIFI-coded vendor.** Generic IdentoGO submissions don't reach DIFI.
+- **Fingerprinting through the wrong vendor.** Arizona insurance prints go through the AZ DPS Public Services Portal and Fieldprint, followed by Form L-FPV to DIFI. IdentoGO submissions and DPS Fingerprint Clearance Cards don't satisfy the requirement.
 - **Misreading the 4-year CE clock as 2 years.** The 48-hour requirement is per 4-year term — but it's still 12 hours per year on average if you pace it properly.
 - **Ignoring the principal-place requirement for business entities.** If your agency operates from a Phoenix address, that address must be on file with DIFI as the principal place of business for the entity license.
 
@@ -129,6 +129,9 @@ Secure a real principal office that satisfies **§ 20-290**, pass PSI within the
 - [Arizona Legislature — A.R.S. § 20-290 (records & principal place)](https://www.azleg.gov/ars/20/00290.htm)
 - [Arizona Legislature — A.R.S. § 20-1691.12 (long-term care training)](https://www.azleg.gov/ars/20/01691-12.htm)
 - [Arizona Legislature — A.R.S. § 20-283 (licensing exceptions)](https://www.azleg.gov/ars/20/00283.htm)
+- [Arizona Legislature — A.R.S. § 20-284 (examinations; four attempts per 12 months)](https://www.azleg.gov/ars/20/00284.htm)
+- [DIFI — Arizona Electronic Fingerprint Process Guide (AZ DPS Public Services Portal + Fieldprint)](https://difi.az.gov/sites/default/files/AZ%20Fingerprint%20Process%20Guide%2020240111.pdf)
+- [DIFI — Form L-FPV: Fingerprint Verification](https://difi.az.gov/sites/default/files/l-fpv_20220601_f.pdf)
 - [DIFI — Producer (Agent/Broker) License Application: Individual](https://difi.az.gov/producers/producer-agentbroker/producer-agentbroker-license-application-individual)
 - [DIFI — Continuing Education Providers](https://difi.az.gov/insurance-ce)
 - [DIFI — Licensing hub](https://difi.az.gov/licensing)

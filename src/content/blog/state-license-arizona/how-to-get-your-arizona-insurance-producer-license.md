@@ -17,7 +17,7 @@ imageAlt: >-
   arizona insurance producer license.
 ---
 
-Getting your Arizona insurance producer license opens doors to one of the fastest-growing insurance markets in the country. Phoenix's substantial financial services, healthcare, and technology sectors, Tucson's growing professional markets, Arizona's distinctive retiree and snowbird population creating significant senior insurance demand, and one of the largest net population in-migration rates in the nation all create real opportunity for licensed agents. Arizona's licensing process has several features worth understanding upfront — no [prelicense](/arizona/prelicensing) education requirement, a two-section exam where each section must independently hit 70%, a four-attempt annual exam limit, and a multi-step fingerprinting process through Fieldprint.
+Getting your Arizona insurance producer license opens doors to one of the fastest-growing insurance markets in the country. Phoenix's substantial financial services, healthcare, and technology sectors, Tucson's growing professional markets, Arizona's distinctive retiree and snowbird population creating significant senior insurance demand, and one of the largest net population in-migration rates in the nation all create real opportunity for licensed agents. Arizona's licensing process has several features worth understanding upfront — no [prelicense](/arizona/prelicensing) education requirement, a state exam covering both national insurance content and Arizona-specific law with a 70% passing score, a four-attempt annual exam limit, and a multi-step fingerprinting process through Fieldprint.
 
 Here's exactly how to get your Arizona insurance producer license.
 
@@ -45,7 +45,7 @@ Arizona does not require prelicense education. Candidates can proceed directly t
 
 However, exam preparation is strongly recommended:
 
-Arizona's two-section exam requires 70% on each section independently
+Arizona's exam requires a 70% passing score and tests both national insurance content and Arizona-specific law
 
 The Arizona-specific section covers A.R.S. Title 20 provisions that need focused study
 
@@ -65,7 +65,7 @@ Website: test-takers.psiexams.com/anzins
 
 Phone: (877) 215-7924
 
-Pay exam fee at registration
+Pay exam fee at registration — $42 to $59 depending on the exam series (see the cost breakdown below)
 
 Testing options:
 
@@ -79,17 +79,17 @@ Cancel or change: Contact PSI at least 48 hours in advance or forfeit the exam f
 
 Arizona issues exams for each line of authority separately, with combined options available:
 
-The critical Arizona scoring rule: Every Arizona exam has two distinct sections — General Knowledge and Arizona State Law. Both sections must independently score 70% or higher. The scores are NOT averaged.
+The Arizona passing score: You need a 70% overall score to pass an Arizona insurance exam. Each exam blends national insurance content with Arizona-specific A.R.S. Title 20 material, so both areas are tested and both count toward your score.
 
-Example: Scoring 85% on the General section but 65% on the Arizona State section = FAIL. You must retake both sections.
+Don't underestimate the Arizona state law content. General insurance knowledge alone won't carry you — the Arizona-specific rules are a common weak spot and deserve dedicated study.
 
-This two-section independent scoring requirement is one of Arizona's most distinctive exam features and the most common source of avoidable failures.
+Underpreparing on the Arizona state law material is one of the most common sources of avoidable failures.
 
 Exam validity: Once passed, you must apply for your license within one year of passing.
 
 Retake limit: Arizona limits candidates to four attempts per line of authority within a one-year period (A.R.S. § 20-284). After four failed attempts, you must wait one full year from the date of your last attempt before retesting on that line.
 
-Results: Displayed on screen immediately after completing the exam. A printed score report is provided. If you fail one or more sections, a separate numeric score is reported for each failed section.
+Results: Displayed on screen immediately after completing the exam, and PSI emails you a score report. If you don't pass, that report includes a diagnostic breakdown of your strengths and weaknesses, so you can see exactly where you were weak before retaking.
 
 ## Step 4: Complete Fingerprinting Through Fieldprint (After Passing Exam)
 
@@ -141,7 +141,7 @@ P.O. boxes are not accepted as resident or business addresses in Arizona.
 
 ## Step 6: DIFI Reviews and Issues Your License
 
-After DIFI receives your complete application, exam results, and fingerprint background check, your license is reviewed and issued. Processing time varies but clean applications are typically processed within a few business days.
+After DIFI receives your complete application, exam results, and fingerprint background check, your license is reviewed and issued. DIFI states that it processes most license applications within 10 days, with electronic (NIPR) applications moving faster than paper — allow roughly an additional 30 days if you apply on paper. By statute DIFI has up to 60 days to determine whether your application is administratively complete and up to another 60 days to review its substance, so those are the outer limits rather than the typical experience. If your application is deficient, you have 60 days from the deficiency notice to cure it or the application is withdrawn and the fees forfeited.
 
 ## Arizona License Lines of Authority
 
@@ -179,7 +179,7 @@ CE carryover: NOT allowed — excess CE hours cannot be carried over to the next
 
 Non-resident licensing: Non-residents in good standing in their home state are exempt from Arizona's exam requirement. Apply through NIPR; DIFI verifies home state license status.
 
-Relocating producers (moving TO Arizona): If you held a resident license in another state for the same line of authority Arizona offers, you are exempt from the exam requirement. Complete fingerprinting and apply within 90 days of receiving clearance from your prior state.
+Relocating producers (moving TO Arizona): If you held a resident license in another state for the same line of authority Arizona offers, you are exempt from the exam requirement. Complete fingerprinting and apply within 90 days of canceling your prior-state resident license, and include a Clearance Letter showing that cancellation occurred within 90 days of DIFI receiving your application.
 
 Relocating producers (moving FROM Arizona): Complete Form L-CLR (Request for Letter of Clearance) and email to DIFI. New state application must be completed within 90 days of receiving clearance. If you want to retain an Arizona non-resident license, email a copy of your new resident license to DIFI within 30 days of receiving it.
 
@@ -191,44 +191,48 @@ Address: 100 North 15th Avenue, Suite 261, Phoenix, AZ 85007-2630
 
 Phone: 602-364-3100
 
-Licensing email: [email protected]
+Licensing email: insurancelicensing@difi.az.gov
 
 Website: difi.az.gov
 
 ## Total Cost Summary
 
-Single line (e.g., Life only):
+Arizona's exam fee is not flat — PSI charges by exam series, so your total depends on which line you sit for.
 
-Exam: $50
+Single line:
+
+Exam: $50 for Life, Accident & Health or Sickness, Property, or Personal Lines — $42 for Casualty
 
 Fingerprinting: ~$42
 
 Application: ~$125.60
 
-Total: ~$217.60
+Total: ~$209.60-$217.60
 
-Combined L&H or Combined P&C:
+Combined L&H or Combined P&C (one exam covering two lines):
 
-Exam: $50
+Exam: $59
 
 Fingerprinting: ~$42 (one-time)
 
 Application: ~$125.60
 
-Total: ~$217.60
+Total: ~$226.60
+
+Exam fees are non-refundable and non-transferable, and a paid exam fee is only valid for one year from the date of payment. Confirm the current fee for your exam series in the PSI Arizona candidate bulletin before registering.
 
 Arizona's costs are moderate nationally — higher than Michigan (~$56.60 for application and exam, with no fingerprinting fee) but reflecting the fingerprint processing and higher license fee.
 
 ## 5 Frequently Asked Questions
 
-- Does Arizona require prelicense education? No. Arizona has no formal prelicense education requirement. However, given the 4-attempt annual exam limit and the two-section independent scoring requirement (70% each), quality exam preparation is strongly recommended.
-- How does Arizona's two-section scoring work? Both the General Knowledge section and the Arizona State Law section must independently score 70% or higher. The scores are NOT averaged. A strong General score cannot compensate for a failing State section.
+- Does Arizona require prelicense education? No. Arizona has no formal prelicense education requirement. However, given the 4-attempt annual exam limit and a 70% passing score on an exam that tests both national content and Arizona-specific law, quality exam preparation is strongly recommended.
+- What score do I need to pass the Arizona exam? A 70% overall passing score. The exam covers both national insurance content and Arizona-specific A.R.S. Title 20 law, so you need to be solid on both — the Arizona state law material is where underprepared candidates most often fall short.
 - When do I get fingerprinted in Arizona? After passing your exam — not before. All fingerprint fees are non-refundable, so DIFI recommends completing fingerprinting only after you've passed. Then complete the multi-step Fieldprint/AZ DPS process and mail Form L-FPV to DIFI with your Fieldprint reference number.
 - How many times can I attempt the Arizona exam? Four attempts per line of authority within a one-year period. After four failed attempts, you must wait one full year from the date of the last attempt before retesting on that line (A.R.S. § 20-284).
 - What's the application fee for an Arizona producer license? $120 non-refundable license fee plus $5.60 transaction fee through NIPR. If fingerprints are required, an additional $22 FBI processing fee is incorporated into the application costs. Low-income applicants may qualify for a fee waiver (Form L-WAV).
 
 ## Start Your Arizona Insurance Career Right
 
-Arizona's no-PLE requirement makes entry accessible, but quality preparation is essential given the 4-attempt annual limit and two-section independent scoring. At JustInsurance, our Arizona exam prep course is designed around Arizona's distinctive exam structure, including the state law section that determines so many outcomes.
+Arizona's no-PLE requirement makes entry accessible, but quality preparation is essential given the 4-attempt annual limit and a 70% passing score. At JustInsurance, our Arizona exam prep course is designed around Arizona's exam content, including the state law material that determines so many outcomes.
 
 Enroll today and take your first step toward an Arizona insurance producer license.

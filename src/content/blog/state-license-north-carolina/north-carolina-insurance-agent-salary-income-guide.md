@@ -60,7 +60,7 @@ Wilmington and coastal NC. Growing coastal and retirement markets. Established c
 
 Asheville and Western NC. Growing affluent markets and substantial retiree in-migration. Established agents commonly earn $48,000-$78,000+.
 
-Fayetteville. Military-adjacent market (Fort Liberty, formerly Fort Bragg). Established agents commonly earn $45,000-$75,000+.
+Fayetteville. Military-adjacent market (Fort Bragg — the installation carried the name Fort Liberty from 2023 until it was redesignated Fort Bragg in February 2025). Established agents commonly earn $45,000-$75,000+.
 
 Smaller cities (Greenville, Rocky Mount, Hickory, Burlington, etc.). Less competition, moderate income. Established agents commonly earn $40,000-$70,000+.
 
@@ -84,9 +84,9 @@ Population growth leverage. North Carolina's substantial population growth (cons
 
 North Carolina has attractive financial characteristics for producers:
 
-State income tax. North Carolina has a flat 5.25% state income tax rate (as of recent years), reduced from a higher graduated rate system. This flat rate is modestly favorable compared to many northeastern states with top rates of 8-10%+, though higher than states like Pennsylvania (3.07%) or states with no income tax.
+State income tax. North Carolina levies a flat individual income tax rather than a graduated one, and the rate has been stepping down for several years running: 4.50% for 2024, 4.25% for 2025, and 3.99% for tax year 2026 under the phased reductions in Session Law 2023-134. A further cut to 3.49% is scheduled for 2027 if General Fund revenue clears the statutory trigger. At 3.99% the rate is meaningfully favorable compared to many northeastern states with top rates of 8-10%+, though still higher than Pennsylvania (3.07%) or states with no income tax at all. Confirm the current rate on the NCDOR tax rate schedules before you build a take-home projection.
 
-Local taxes. Some NC municipalities have local taxes, but these are generally modest compared to major northeastern cities.
+Local income tax. North Carolina cities and counties are not authorized to levy an income tax, so your commission income is taxed once at the state level — no municipal add-on anywhere in the state.
 
 Cost of living. North Carolina's overall cost of living is favorable:
 
@@ -108,7 +108,7 @@ No estate tax. North Carolina does not have a state estate tax — relevant for 
 
 Sales tax. 4.75% state rate plus local rates (typically 2-2.5%), total typically 6.75-7.5% depending on county.
 
-The combination of flat 5.25% income tax, moderate cost of living (particularly in smaller metros), and no estate tax means North Carolina nominal incomes translate to strong take-home purchasing power — better than many higher-income states after tax and cost of living adjustment.
+The combination of a flat 3.99% income tax (2026), moderate cost of living (particularly in smaller metros), and no estate tax means North Carolina nominal incomes translate to strong take-home purchasing power — better than many higher-income states after tax and cost of living adjustment.
 
 ## Year-One Reality
 
@@ -150,7 +150,7 @@ Coastal growth. North Carolina's coastal communities continue growing with subst
 
 Military presence. North Carolina hosts several major military installations:
 
-Fort Liberty (formerly Fort Bragg, Fayetteville — among the largest US Army bases)
+Fort Bragg (Fayetteville — among the largest US Army bases; known as Fort Liberty from 2023 until its February 2025 redesignation)
 
 Camp Lejeune (Jacksonville — major Marine installation)
 
@@ -178,9 +178,9 @@ Each model has different income trajectories and lifestyle implications.
 
 ## 5 Frequently Asked Questions
 
-- Is North Carolina a good state for insurance agent income? Yes. North Carolina's combination of Charlotte banking markets, Research Triangle tech and healthcare, substantial population growth, moderate cost of living, and flat 5.25% income tax creates favorable conditions. Top NC agents earn comparably to top agents in major insurance markets with better purchasing power than many higher-cost states.
+- Is North Carolina a good state for insurance agent income? Yes. North Carolina's combination of Charlotte banking markets, Research Triangle tech and healthcare, substantial population growth, moderate cost of living, and a flat 3.99% income tax (2026) creates favorable conditions. Top NC agents earn comparably to top agents in major insurance markets with better purchasing power than many higher-cost states.
 - How long does it take to earn a full-time income as a North Carolina agent? Most serious agents reach full-time income levels within 12-18 months. Agents with strong networks, connections to Charlotte banking or Research Triangle tech communities, or niche market focus can accelerate this timeline.
-- Do North Carolina agents pay state income tax on commissions? Yes. North Carolina has a flat 5.25% state income tax rate on all income including commissions. No local income tax in most NC municipalities.
+- Do North Carolina agents pay state income tax on commissions? Yes. North Carolina applies its flat state income tax to all taxable income, commissions included — 3.99% for tax year 2026, scheduled to fall to 3.49% in 2027 if the state's revenue trigger is met. There is no local income tax anywhere in North Carolina.
 - What's a realistic first-year income for a new North Carolina agent? Most new agents earn between $34,230 and $39,620 in year one depending on agency structure, product mix, work ethic, and market focus (figures illustrative, not a guarantee of earnings).
 - Can I earn over $100,000 as a North Carolina insurance agent? Yes. Many established North Carolina agents — particularly those serving Charlotte banking professionals, Research Triangle tech and healthcare workers, HNW markets, or coastal property specialty — earn $100,000+ annually, and top producers can reach toward the state's top-producer benchmark of roughly $126,970 (figures illustrative, not a guarantee of earnings).
 

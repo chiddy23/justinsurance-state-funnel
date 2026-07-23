@@ -16,7 +16,7 @@ imageAlt: >-
   massachusetts insurance exam pass rate and difficulty level.
 ---
 
-The Massachusetts insurance exam has a reputation for being one of the more difficult state insurance exams in the country. Despite the relatively low $39 exam fee, candidates regularly fail on first attempts — particularly those who skip [pre-licensing](/massachusetts/prelicensing) education (which Massachusetts notably doesn't require). Understanding why the exam is challenging and how to prepare effectively helps you pass on your first attempt.
+The Massachusetts insurance exam has a reputation for being one of the more difficult state insurance exams in the country. Despite the relatively low $37 exam fee, candidates regularly fail on first attempts — particularly those who skip [pre-licensing](/massachusetts/prelicensing) education (which Massachusetts doesn't require). Understanding why the exam is challenging and how to prepare effectively helps you pass on your first attempt.
 
 Here's an honest look at Massachusetts insurance exam difficulty and what it takes to pass.
 
@@ -26,13 +26,13 @@ Several factors contribute to Massachusetts's reputation as a challenging exam:
 
 No required prelicense education. Many candidates show up underprepared because the state doesn't mandate prelicense. They overestimate their readiness based on general knowledge.
 
-Substantial state-specific content. Approximately 15-25% of the exam covers Massachusetts-specific topics including the Health Connector, MassHealth, no-fault auto insurance, and other state-specific rules that don't transfer from other states.
+Substantial state-specific content. On the main producer lines, 30 of the 80 scored questions — roughly 37% of the exam — cover Massachusetts-specific topics including the Health Connector, MassHealth, no-fault auto insurance, and other state-specific rules that don't transfer from other states.
 
 Sophisticated question construction. Massachusetts questions tend to be application and analysis style rather than pure recall. Questions often present scenarios requiring you to apply principles rather than recite memorized facts.
 
-Comprehensive content coverage. With 100-150 questions per exam covering substantial content breadth, candidates need genuine knowledge across all areas — not just the topics they prefer.
+Comprehensive content coverage. Under the Pearson VUE content outlines that took effect July 22, 2026, each producer line exam pairs a 50-question general knowledge section with a 30-question Massachusetts-specific section — 80 scored questions in all, plus 5 unscored pretest items attached to each section. (Personal Lines is the larger outlier at 75 general knowledge plus 30 state-specific.) That breadth means candidates need genuine knowledge across every area — not just the topics they prefer.
 
-70% passing requirement. Standard 70% passing score, but applied to questions designed to genuinely test understanding.
+A scaled score of 70 to pass. Massachusetts equates scores across exam forms, so what you see is a scaled score rather than the raw percentage of questions you answered correctly. There is no fixed "you can miss this many" number to plan around — the only safe target is genuine mastery.
 
 ## Realistic Pass Rate Considerations
 
@@ -198,7 +198,7 @@ Receive score report. Showing performance areas to identify weak spots.
 
 Wait period. Usually no required wait — you can typically reschedule fairly quickly.
 
-Pay another exam fee. Each retake requires another $39 fee.
+Pay another exam fee. Each retake requires another $37 fee.
 
 Strategic re-preparation. Address weak areas identified by score report. Don't just re-study everything.
 

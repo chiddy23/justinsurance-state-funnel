@@ -28,7 +28,7 @@ The first thing TDI verifies is that you passed the state licensing exam through
 
 Texas requires a criminal background check for all insurance license applicants, processed through IdentoGO. TDI checks both state and federal criminal history databases.
 
-Having a criminal record doesn't automatically disqualify you — but certain convictions, especially those involving fraud, dishonesty, or financial crimes, can result in denial. If you have a prior conviction, you can request a pre-application determination from TDI before investing time and money into the process. TDI will give you a non-binding assessment of how your history might affect your application.
+Having a criminal record doesn't automatically disqualify you — but certain convictions, especially those involving fraud, dishonesty, or financial crimes, can result in denial. TDI weighs each applicant's history individually, looking at how closely the offense relates to the duties of an insurance license, how long ago it happened, and any evidence of rehabilitation since. If you have a prior conviction and want to gauge where you stand before investing time and money, contact TDI's licensing division (License@tdi.texas.gov) directly rather than relying on secondhand advice.
 
 ## Your Application Disclosures
 
@@ -44,7 +44,7 @@ The non-refundable application fee is $50, paid through Sircon or NIPR when you 
 
 ## How Long Does TDI Take to Review Your Application?
 
-Most applications are processed within 5 to 10 business days if everything is in order. Delays happen when fingerprint results are pending, disclosures require additional review, or there are inconsistencies in your application. Submitting complete and accurate information upfront is the fastest way through.
+Most complete electronic applications are processed within one to two business days — often as soon as the next business day when everything is in order. Delays happen when fingerprint results are pending, disclosures require additional review, or there are inconsistencies in your application. Submitting complete and accurate information upfront is the fastest way through.
 
 ## 5 Frequently Asked Questions
 

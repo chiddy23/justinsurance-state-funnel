@@ -27,19 +27,23 @@ Establishes definitions and foundational terms used throughout Title 56. Defines
 
 ### Chapter 2 — Commissioner of Insurance
 
-Establishes the Commissioner of Commerce and Insurance's authority, duties, and enforcement powers. The most frequently tested provisions in this chapter are found in §56-2-305 — the Commissioner's civil penalty authority — which authorizes penalties of up to $1,000 per violation for standard violations and higher penalties for willful misconduct.
+Establishes the Commissioner of Commerce and Insurance's authority, duties, and enforcement powers. The most frequently tested provisions in this chapter are found in §56-2-305 — the Commissioner's civil penalty authority — which authorizes penalties of up to $1,000 per violation for ordinary violations and up to $25,000 per violation where the violation was knowing. Both tiers carry an express aggregate ceiling for ordinary and knowing violations — subject to a set of enumerated exceptions covered below.
 
 Key §56-2-305 provisions:
 
-Civil penalties up to $1,000 per violation
+Ordinary violations: a monetary penalty of not more than $1,000 for each violation, not to exceed an aggregate penalty of $100,000
 
-Each separate act constituting a violation may be treated as a separate violation
+Knowing violations: a monetary penalty of not more than $25,000 for each violation, not to exceed an aggregate penalty of $250,000
 
-Higher penalties available for willful misconduct — no specific statutory ceiling for willful violations
+Each day of continued violation constitutes a separate violation
 
-Commissioner may issue cease and desist orders
+Commissioner may order the insurer, person, or entity to cease and desist from the act or practice giving rise to the violation
 
-Commissioner may seek injunctive relief in state courts
+Commissioner may suspend or revoke the license of the insurer, person, or entity
+
+Penalties are imposed after notice and the opportunity for a contested case hearing under the Uniform Administrative Procedures Act
+
+The exam-testable pairing is the two tiers and their two caps: $1,000/$100,000 for ordinary violations, $25,000/$250,000 when the violation is knowing. The per-violation caps always apply. The aggregate caps, however, are not absolute: §56-2-305(c) expressly lifts the aggregate ceiling for an enumerated set of violations — failing to file audited financial statements, quarterly financial statements, actuarial opinions, annual reports, or risk-based capital reports, and violating an order entered after a contested case hearing. For those, the per-violation penalty still applies but no aggregate cap does.
 
 ### Chapter 3 — Insurers Generally
 
@@ -55,43 +59,45 @@ The chapter most directly governing every licensed Tennessee producer. Chapter 6
 
 The subchapter structure of Chapter 6:
 
-§56-6-101 through §56-6-103 — Licensing required: Establishes that no person may sell, solicit, or negotiate insurance in Tennessee without a producer license. Defines who is considered to be selling, soliciting, or negotiating. Establishes the exemptions from licensing requirements.
+§56-6-101 through §56-6-103 — Licensing required: §56-6-101 is the short title (the Tennessee Insurance Producers Licensing Act of 2002) and §56-6-102 defines who is considered to be selling, soliciting, or negotiating insurance. The core prohibition lives at §56-6-103 — no person may sell, solicit, or negotiate insurance in Tennessee for any class of insurance unless licensed for that line of authority.
 
-§56-6-104 through §56-6-109 — Application and licensing process: Governs how producers apply for licenses, what information must be provided, the background check requirement, and how the TDCI processes applications.
+§56-6-104 through §56-6-109 — Exceptions and the application process: §56-6-104 sets out the exceptions to licensing — the narrowly drawn categories (certain officers, directors, and salaried employees who receive no commission, among others) that are exempt from the producer-license requirement. The sections that follow govern how producers apply for licenses, what information must be provided, the background check requirement, and how the TDCI processes applications.
 
 §56-6-110 through §56-6-114 — License maintenance: Governs CE requirements, license renewal, inactive status, and the grounds and procedures for license suspension, revocation, and non-renewal.
 
-§56-6-112 — Grounds for discipline: The most frequently tested section of Chapter 6 on the Tennessee licensing exam. Establishes 14 specific grounds on which the Commissioner may place on probation, suspend, revoke, or deny renewal of a producer license:
+§56-6-112 — Grounds for discipline: The most frequently tested section of Chapter 6 on the Tennessee licensing exam. Subsection (a) establishes fifteen specific grounds on which the Commissioner may place on probation, suspend, revoke, or deny renewal of a producer license:
 
-Providing incorrect, misleading, incomplete, or materially untrue information on a license application
+(1) Providing incorrect, misleading, incomplete, or materially untrue information on a license application
 
-Violating any insurance law or failing to comply with any order, subpoena, or regulation of the Commissioner
+(2) Violating any insurance law, or violating any regulation, subpoena, or order of the Commissioner or of another state's insurance commissioner
 
-Obtaining or attempting to obtain a license through misrepresentation
+(3) Obtaining or attempting to obtain a license through misrepresentation or fraud
 
-Improperly withholding, misappropriating, or converting money or property received in the course of insurance business
+(4) Improperly withholding, misappropriating, or converting money or property received in the course of insurance business
 
-Intentionally misrepresenting the terms of an insurance policy or application
+(5) Intentionally misrepresenting the terms of an insurance policy or application
 
-Having been convicted of a felony
+(6) Having been convicted of a felony
 
-Having admitted to or been found to have committed an insurance-related fraud, misappropriation, conversion, or dishonest act
+(7) Having admitted to or been found to have committed an insurance unfair trade practice or insurance fraud
 
-Using fraudulent, coercive, or dishonest practices, or demonstrating incompetence, untrustworthiness, or financial irresponsibility
+(8) Using fraudulent, coercive, or dishonest practices, or demonstrating incompetence, untrustworthiness, or financial irresponsibility in the conduct of business
 
-Having an insurance producer license or its equivalent denied, suspended, or revoked in any other state
+(9) Having an insurance producer license or its equivalent denied, suspended, or revoked in any other state, province, district, or territory
 
-Forging another's name to any document related to an insurance transaction
+(10) Forging another's name to any document related to an insurance transaction
 
-Improperly using notes or other reference materials to complete an insurance licensing examination
+(11) Improperly using notes or other reference materials to complete an insurance licensing examination
 
-Knowingly accepting insurance business from an individual not licensed as required
+(12) Knowingly directing a person to apply for TennCare benefits when that person is covered by a group policy, or when the group policy is being renewed, and then quoting a group health insurance rate if the producer knows the person would otherwise have been eligible to participate in the group policy
 
-Failing to comply with an administrative or court order imposing a child support obligation
+(13) Knowingly accepting insurance business from an individual who is not licensed as required
 
-Knowingly directing a person to apply for TennCare when that person is covered by a group policy, or when the group policy is being renewed, and then quoting a group health insurance rate if the producer knows the person would otherwise have been eligible to participate in the group policy
+(14) Selling, soliciting, or negotiating insurance for a company that is not authorized to transact the business of insurance in this state
 
-The TennCare direction prohibition — ground 14 — is uniquely Tennessee and consistently tested on the A&H and Life exam state law sections.
+(15) Violating the unfair trade practices enumerated in §56-6-125
+
+The TennCare direction prohibition — ground (12) — is uniquely Tennessee and consistently tested on the A&H and Life exam state law sections. (Note that non-compliance with a child support order, while it can affect a Tennessee professional license under separate family-law statutes, is not one of the §56-6-112(a) grounds.)
 
 §56-6-115 — Appointment requirement: Establishes that a producer may not act as agent for an insurer unless appointed by that insurer through a notice of appointment filed with the TDCI. The insurer must file the appointment within 15 days of the date the agency contract is executed or the first insurance application is submitted, whichever is earlier.
 
@@ -99,9 +105,9 @@ The TennCare direction prohibition — ground 14 — is uniquely Tennessee and c
 
 §56-6-125 — Prohibited conduct: Establishes additional specific prohibited practices for producers including rebating, misrepresentation, twisting, and churning.
 
-### Chapter 7 — Insurance Contracts
+### Chapter 7 — Policies and Policyholders
 
-Governs the terms and conditions of insurance policies issued in Tennessee — policy form filing requirements, mandatory policy provisions, and the remedies available to policyholders when insurers fail to honor their obligations.
+Governs the terms and conditions of insurance policies issued in Tennessee — policy form filing requirements, mandatory policy provisions, and the remedies available to policyholders when insurers fail to honor their obligations. It is also where the general mandatory provisions and consumer protections for life and health policies live, and — in Part 15 (§§ 56-7-1501 et seq.) — the Medicare supplement (Medigap) standardization requirements.
 
 §56-7-105 — The bad faith penalty: The single most frequently tested Tennessee-specific statutory provision across every line of the Tennessee licensing exam.
 
@@ -117,7 +123,7 @@ The triggering standard: The penalty applies to wrongful refusal to pay a valid 
 
 Policy form filing: Chapter 7 also requires that insurance policy forms be filed with and, where required, approved by the TDCI before use. Policy forms that do not comply with Tennessee law or that contain provisions contrary to public policy may be disapproved.
 
-Free look period: Tennessee requires life insurance policies to include a free look period — typically 10 days from delivery — during which the policyholder may return the policy for a full premium refund. Replacement policies have a 30-day free look period.
+Free look period: Tennessee requires life insurance policies to include a free look period — typically 10 days from delivery — during which the policyholder may return the policy for a full premium refund. Replacement policies carry a 20-day right to an unconditional refund of all premiums, measured from the date the policy is delivered (Tenn. Comp. R. & Regs. 0780-01-24-.07).
 
 Grace periods: Tennessee mandates grace periods for premium payment — typically 30 days for life insurance, 31 days for annual premium health insurance policies — during which coverage remains in force even if the premium is unpaid.
 
@@ -145,29 +151,39 @@ The frequency standard: Unfair claims practices are prohibited when committed wi
 
 The prohibited acts beyond claims practices: Chapter 8 also prohibits misrepresentation, false advertising, defamation, boycott and coercion, unfair discrimination, and rebating. The rebating prohibition is bilateral — both the producer who offers the rebate and the client who knowingly accepts it have violated Chapter 8.
 
-### Chapter 11 — Variable Contracts
+### Chapter 14 — Surplus Lines Insurance
 
-Governs the issuance and sale of variable life insurance and variable annuity contracts in Tennessee. Establishes the licensing requirements for variable products — including the requirement that producers hold both the Tennessee Variable Products line of authority and the applicable FINRA securities registration.
+Tennessee's surplus lines framework — governing when and how non-admitted insurance coverage may be placed through licensed surplus lines brokers, the diligent search requirements, and the disclosure obligations to policyholders placing coverage with non-admitted carriers. Note the chapter number: surplus lines is Chapter 14, not Chapter 35. (Chapter 35 is Tennessee's Title Insurance Law — a frequent miscitation.)
 
-### Chapter 14 — Property and Casualty Insurance Generally
+The surplus lines guarantee fund exclusion: Non-admitted carrier policies are not covered by Tennessee's insurance guaranty associations. Producers who place surplus lines coverage are required to disclose this to clients.
 
-Establishes framework provisions for property and casualty insurance lines in Tennessee — policy form and rate filing requirements, standard provisions, and the regulatory oversight mechanisms specific to P&C insurance.
+### Chapter 26 — Accident and Sickness Insurance
 
-### Chapter 17 — Auto Insurance
+Establishes the mandatory provisions and consumer protections for individual and group accident and health coverage in Tennessee. Medicare supplement (Medigap) standardization sits in Chapter 7, Part 15 (§§ 56-7-1501 et seq.) and in the Commissioner's Medicare Supplement Insurance Minimum Standards rule (Tenn. Comp. R. & Regs. 0780-01-58), which implements the federal Medigap standardization requirements at the state level.
 
-Tennessee's statutory framework for auto insurance, establishing the mandatory minimum coverage requirements, the structure of the at-fault tort system, and the modified comparative fault rule.
+### Chapter 42 — Long-Term Care Insurance Act
 
-The 25/50/25 minimums: Tennessee's mandatory minimum auto liability limits — $25,000 per person bodily injury, $50,000 per accident bodily injury, $25,000 property damage — are established in this chapter.
+Tennessee's LTC insurance regulatory framework — including the training requirements for LTC producers, the benefit trigger standards, the consumer protection provisions, and the LTC Partnership Program that coordinates private LTC benefits with TennCare eligibility.
+
+## Producer-Relevant Law That Lives Outside Title 56
+
+Two of the coverages producers place most often are not governed by Title 56 at all — a distinction the exam and everyday practice both reward you for knowing.
+
+### Auto Insurance — Title 55, Not Title 56
+
+Tennessee's mandatory auto liability rules sit in Title 55 (Motor Vehicles) under the Financial Responsibility Law — not in Title 56. (Title 56, Chapter 17 is "Discount Plans," which regulates non-insurance discount cards, not auto coverage.)
+
+The 25/50/25 minimums: Tennessee's mandatory minimum auto liability limits — $25,000 per person bodily injury, $50,000 per accident bodily injury, $25,000 property damage — are established by the Financial Responsibility Law at Tenn. Code Ann. § 55-12-102.
 
 The at-fault system: Tennessee is a tort state. The injured party's recovery comes from the at-fault driver's liability coverage — not from their own first-party coverage as in no-fault states.
 
 Modified comparative fault — the 50% bar: Tennessee's comparative fault rule bars recovery entirely for claimants who are 50% or more at fault. Claimants less than 50% at fault recover damages reduced proportionally by their percentage of fault.
 
-Uninsured motorist: UM coverage is required unless the insured affirmatively rejects it in writing.
+Uninsured motorist: UM coverage must be offered and is included unless the insured affirmatively rejects it in writing.
 
-### Chapter 18 — Workers' Compensation Insurance
+### Workers' Compensation — Title 50, Not Title 56
 
-Tennessee's workers' compensation insurance framework — the statutory basis for the employer coverage threshold, the competitive market structure, and the oversight responsibilities of the Tennessee Department of Labor and Industry for claims versus the Department of Commerce and Insurance for carriers.
+Tennessee's workers' compensation law is Title 50, Chapter 6, administered by the Bureau of Workers' Compensation within the Tennessee Department of Labor and Workforce Development. The carriers that write the coverage are regulated by the Department of Commerce and Insurance, but the claims system itself lives in Title 50. (Title 56, Chapter 18 is "Mutual Life Insurance Companies," not workers' compensation.)
 
 The employer thresholds:
 
@@ -177,23 +193,9 @@ Construction: 1 or more employees — mandatory coverage from the first hire
 
 Competitive market: Tennessee workers' compensation operates in a competitive private insurance market — not a monopolistic state fund. This distinguishes Tennessee from North Dakota, Ohio, Washington, and Wyoming.
 
-### Chapter 25 — Life and Health Insurance Generally
+### A Note on Commonly Miscited Chapters
 
-Establishes framework provisions for life and health insurance policies in Tennessee — mandatory policy provisions, consumer protections, and the regulatory oversight specific to life and health lines.
-
-### Chapter 26 — Medicare Supplement Insurance
-
-Governs the standardization and marketing of Medicare supplement (Medigap) insurance in Tennessee, implementing the federal Medigap standardization requirements at the state level.
-
-### Chapter 27 — Long-Term Care Insurance
-
-Tennessee's LTC insurance regulatory framework — including the training requirements for LTC producers, the benefit trigger standards, the consumer protection provisions, and the LTC Partnership Program that coordinates private LTC benefits with TennCare eligibility.
-
-### Chapter 35 — Surplus Lines Insurance
-
-Tennessee's surplus lines framework — governing when and how non-admitted insurance coverage may be placed through licensed surplus lines brokers, the diligent search requirements, and the disclosure obligations to policyholders placing coverage with non-admitted carriers.
-
-The surplus lines guarantee fund exclusion: Non-admitted carrier policies are not covered by Tennessee's insurance guaranty associations. Producers who place surplus lines coverage are required to disclose this to clients.
+Several Title 56 chapter numbers are easy to misremember because their subject matter is not what a producer might guess. For the record: Chapter 11 is "Insurance Holding Companies and Risk Management"; Chapter 25 is "Fraternal Benefit Societies"; and Chapter 27 is the "Medical Service Plan Law, 1945." Variable life and variable annuity products are not a standalone Title 56 chapter at all — they are sold under the Variable Products line of authority licensed through Chapter 6, and because they are securities the producer must also hold the applicable FINRA registration (Series 6 or Series 7).
 
 ## The Department of Commerce and Insurance: Structure and Authority
 
@@ -273,7 +275,7 @@ Tennessee's decision to consolidate oversight of multiple regulated financial in
 
 A producer discovers mid-transaction that the carrier whose policy they are placing is not admitted in Tennessee. What are their immediate obligations?
 
-The producer cannot place the coverage through a standard admitted market transaction because the carrier lacks a Tennessee certificate of authority. If the risk genuinely cannot be placed with admitted carriers after a diligent search — documented efforts to place the coverage with licensed admitted carriers — the producer may place coverage with the non-admitted carrier through Tennessee's surplus lines framework, provided the producer holds or works with a licensed Tennessee surplus lines broker. Before completing the placement, the producer must disclose to the client that the carrier is non-admitted and that the policy will not be covered by Tennessee's insurance guaranty associations. Proceeding with a non-admitted carrier placement without completing the required diligent search, without surplus lines broker involvement, or without the required client disclosure violates Tennessee's surplus lines requirements under Chapter 35 and creates grounds for discipline under §56-6-112.
+The producer cannot place the coverage through a standard admitted market transaction because the carrier lacks a Tennessee certificate of authority. If the risk genuinely cannot be placed with admitted carriers after a diligent search — documented efforts to place the coverage with licensed admitted carriers — the producer may place coverage with the non-admitted carrier through Tennessee's surplus lines framework, provided the producer holds or works with a licensed Tennessee surplus lines broker. Before completing the placement, the producer must disclose to the client that the carrier is non-admitted and that the policy will not be covered by Tennessee's insurance guaranty associations. Proceeding with a non-admitted carrier placement without completing the required diligent search, without surplus lines broker involvement, or without the required client disclosure violates Tennessee's surplus lines requirements under Chapter 14 and creates grounds for discipline under §56-6-112.
 
 The bad faith penalty under §56-7-105 is 25% of the liability amount. Does that apply only to insurers, or can a producer be subject to bad faith claims as well?
 
@@ -281,4 +283,4 @@ The bad faith penalty under §56-7-105 applies specifically to insurers that wro
 
 Tennessee's insurance code — Title 56 of the Tennessee Code Annotated — is not a regulatory abstraction. It is the direct legal authority under which every Tennessee insurance license is issued, every Tennessee policy is filed, every Tennessee appointment is recorded, and every Tennessee enforcement action is taken. Producers who understand its structure — which chapter governs which aspect of their practice, what the specific provisions they are tested on actually say, and how the TDCI's authority derives from and operates within this framework — operate with a professional context that transforms compliance from a checklist into a coherent understanding of the regulatory environment they work in every day.
 
-Visit JustInsurance to enroll today and complete your Tennessee [prelicensing](/tennessee/prelicensing) with a state-approved course that covers every Title 56 provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Tennessee [prelicensing](/tennessee/prelicensing) with a course built to the current Pearson VUE Tennessee content outline that covers every Title 56 provision tested on the Pearson VUE exam.

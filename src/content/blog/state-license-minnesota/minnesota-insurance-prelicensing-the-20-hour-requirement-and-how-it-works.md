@@ -106,7 +106,7 @@ Self-paced online vs. live classroom: Self-paced online courses allow applicants
 
 Quality indicators for provider selection: A high-quality prelicensing provider offers content that is closely aligned with the PSI state exam content outline, includes practice exams that reflect the format and difficulty of the state exam, provides clear explanations of Minnesota-specific legal requirements (not just general insurance principles), has a transparent proctoring process for the certification exam, and reports completions to the Department promptly. JustInsurance's Minnesota-approved courses are built to the current PSI content outline and include full-length practice exams that mirror the format of the actual state exam.
 
-Cost comparison: Prelicensing course costs vary by provider and format. A single-line online course typically costs $75–$150. Combined-line packages (P&C or Life and A&H) typically cost $150–$250. Live classroom courses often cost more. The prelicensing course cost is one component of the total licensing cost — exam fees ($45), fingerprinting ($65), and application fees ($50 per line plus technology and transaction fees) are separate.
+Cost comparison: Prelicensing course costs vary by provider and format. A single-line online course typically costs $75–$150. Combined-line packages (P&C or Life and A&H) typically cost $150–$250. Live classroom courses often cost more. The prelicensing course cost is one component of the total licensing cost — exam fees ($45), fingerprinting ($63.75), and application fees ($50 per line plus technology and transaction fees) are separate.
 
 ## Common Prelicensing Mistakes and How to Avoid Them
 

@@ -22,7 +22,7 @@ The enforcement trigger: The Commissioner may investigate any person engaged in 
 
 The penalty framework (CRS §§ 10-3-1107 through 10-3-1109):
 
-Civil penalties for each violation: up to $1,000 per violation where the person did not know or reasonably should not have known the conduct was prohibited; up to $5,000 per violation for willful violations
+Civil penalties: under CRS § 10-3-1108, the Commissioner may order a monetary penalty of not more than $3,000 for each act or violation, not to exceed an aggregate penalty of $30,000. Violating a cease-and-desist order carries a separate penalty under CRS § 10-3-1109 — up to $500 per act for an individual producer (up to $10,000 per act for an insurer), or suspension or revocation of the license
 
 The Commissioner may also issue cease and desist orders, suspend licenses, revoke licenses, and refer criminal violations to prosecutorial authorities
 
@@ -162,17 +162,19 @@ The frequency standard — the most important interpretive element: A single ins
 
 The producer's direct obligation versus the insurer's obligation: CRS § 10-3-1104(1)(h) applies to all persons in the business of insurance — both insurers and producers. Producers who misrepresent policy provisions when a client files a claim, who discourage clients from pursuing legitimate claims, or who participate in a pattern of claim discouragement are themselves in violation, not just the insurer.
 
-### 8. Colorado Insurance Fraud (CRS §§ 10-1-128; 10-1-129)
+### 8. Colorado Insurance Fraud (CRS §§ 10-1-128, 10-1-129; criminal penalties under CRS § 18-5-211)
 
-The statutory definition (§ 10-1-128): Willfully making a false statement or misrepresentation in any insurance application, policy, certificate, affidavit, proof of loss, or other document presented to an insurer in connection with insurance.
+The statutory definition (§ 10-1-128): Willfully making a false statement or misrepresentation in any insurance application, policy, certificate, affidavit, proof of loss, or other document presented to an insurer in connection with insurance. Section 10-1-128 is the Title 10 regulatory definition — it does not itself specify criminal penalties. The criminal punishment flows from CRS § 18-5-211 in the Colorado Criminal Code (Title 18).
 
-Criminal classification:
+Criminal classification — by the type of act, not the dollar amount: Colorado does not grade insurance fraud on how much money was involved. Under CRS § 18-5-211, the classification turns on what the person did:
 
-Fraudulent acts involving amounts over $1,000: Class 5 felony (1–3 years imprisonment; $1,000–$100,000 fine)
+Presenting a false or fraudulent application or request for insurance (§ 18-5-211(1)(a)) is a class 2 misdemeanor.
 
-Fraudulent acts involving amounts $1,000 or less: Class 1 misdemeanor
+Presenting a false or fraudulent claim, a fraudulent motor-vehicle-collision claim, or a false certificate of insurance (§ 18-5-211(1)(b)–(e) and (3)) is a class 6 felony.
 
-Who is subject to prosecution: The producer who assists in submitting a fraudulent application or claim — even without directly making the false statement — is subject to prosecution if they had knowledge of and participated in the fraud. An insured who submits a false claim. A producer who helps an applicant conceal a material medical condition. An adjuster who inflates a repair estimate. All are potential defendants under §§ 10-1-128 and 10-1-129.
+Knowingly misappropriating or diverting insurance premium funds (§ 18-5-211(2)) is a class 5 felony — the most serious exposure a producer faces under the statute.
+
+Who is subject to prosecution: The producer who assists in submitting a fraudulent application or claim — even without directly making the false statement — is subject to prosecution if they had knowledge of and participated in the fraud. An insured who submits a false claim. A producer who helps an applicant conceal a material medical condition. An adjuster who inflates a repair estimate. All are potential defendants — the regulatory definition is supplied by §§ 10-1-128 and 10-1-129, and the criminal charge is brought under § 18-5-211.
 
 The willfulness requirement: Insurance fraud requires a willful, intentional false statement — not an innocent mistake or good-faith error. A producer who corrects an error on an application immediately upon discovering it has not committed fraud. A producer who knows an application contains false information and submits it anyway has committed fraud.
 
@@ -180,7 +182,7 @@ The willfulness requirement: Insurance fraud requires a willful, intentional fal
 
 The statute contains additional prohibited acts beyond the eight most commonly tested:
 
-Churning: Not specifically named in § 10-3-1104 as a standalone term, but the conduct it describes — recommending repeated replacements or policy changes that generate commissions without benefit to the policyholder — constitutes misrepresentation, unfair claims practices, and potentially a fiduciary violation under Regulation 1-2-1. Colorado's annuity best interest standard (Regulation 4-1-8) specifically addresses churning in the annuity context.
+Churning: Not specifically named in § 10-3-1104 as a standalone term, but the conduct it describes — recommending repeated replacements or policy changes that generate commissions without benefit to the policyholder — constitutes misrepresentation, unfair claims practices, and potentially a fiduciary violation under Regulation 1-2-1. Colorado's annuity best interest standard (Regulation 4-1-11) specifically addresses churning in the annuity context.
 
 Unfair discrimination in health insurance (§ 10-3-1104(1)(h) additional subsections): The statute contains additional specific prohibitions relevant to health insurance producers: making adverse underwriting decisions based on nonspecific blood code information; reducing benefits under health insurance policies by adding exclusionary riders for conditions not documented in original underwriting; denying health coverage based solely on casual participation in activities such as motorcycling, snowmobiling, off-highway vehicles, and similar recreational activities.
 
@@ -216,7 +218,7 @@ Not if the reduced commission results in a lower premium that is reflected in a 
 
 What is the practical difference between misrepresentation and the annuity best interest standard — aren't they both about honest recommendations?
 
-They address the same ethical concern from different legal angles. Misrepresentation under CRS § 10-3-1104(1)(a) prohibits false or misleading statements about a policy's terms, benefits, or the insurer's financial condition — it targets the accuracy of information provided. The annuity best interest standard under Regulation 4-1-8 goes further: it requires that the recommendation itself be in the consumer's best interest, regardless of whether any false statement was made. A producer can recommend an annuity with perfectly accurate disclosures and still violate the best interest standard if the recommendation serves the producer's commission interest rather than the client's financial needs. The best interest standard imposes an affirmative obligation to optimize the recommendation; misrepresentation imposes a prohibition on inaccuracy. Compliance with one does not guarantee compliance with the other — a producer must satisfy both.
+They address the same ethical concern from different legal angles. Misrepresentation under CRS § 10-3-1104(1)(a) prohibits false or misleading statements about a policy's terms, benefits, or the insurer's financial condition — it targets the accuracy of information provided. The annuity best interest standard under Regulation 4-1-11 goes further: it requires that the recommendation itself be in the consumer's best interest, regardless of whether any false statement was made. A producer can recommend an annuity with perfectly accurate disclosures and still violate the best interest standard if the recommendation serves the producer's commission interest rather than the client's financial needs. The best interest standard imposes an affirmative obligation to optimize the recommendation; misrepresentation imposes a prohibition on inaccuracy. Compliance with one does not guarantee compliance with the other — a producer must satisfy both.
 
 Colorado's unfair trade practices law draws clear, enforceable boundaries around every producer's conduct. The eight prohibited acts are not abstract regulatory concepts — they are the specific behaviors that generate the majority of Division enforcement actions, license revocations, and civil penalties against Colorado producers each year. Producers who can articulate precisely what each prohibition covers, what triggers it, and what distinguishes it from permissible conduct operate with the kind of informed clarity that prevents violations rather than reacting to them after the fact.
 

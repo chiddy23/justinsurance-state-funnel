@@ -32,12 +32,12 @@ const faqs = [
   {
     question: "How close is the practice exam to the real state exam?",
     answer:
-      "Our practice exams mirror the real Pearson VUE, PSI, or Prometric state exam in format, question style, and topic weighting. The content is written by licensed insurance educators who track each state's exam content outline. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt — that's the threshold our pass guarantee uses.",
+      "Our practice exams mirror your state's actual licensing exam in format, question style, and topic weighting. The content is written by licensed insurance educators who track each state's exam content outline. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt — that's the threshold our pass guarantee uses.",
   },
   {
     question: "Which practice exam should I buy — Life, Health, or Life + Health?",
     answer:
-      "Match your practice exam to the license you plan to test for. Taking just the Life exam? Buy the Life Practice Exam. Just Health? Buy Health. Taking the combined Life & Health exam (the most common path for new agents)? Buy the Life + Health Practice Exam — it covers both lines in one sitting exactly like the real state exam.",
+      "Match your practice exam to the license you plan to test for. Taking just the Life exam? Buy the Life Practice Exam. Just Health? Buy Health. Taking both lines? Buy the Life + Health Practice Exam. In most states it mirrors the single combined Life & Health state exam; in the 15 states that have no combined exam (including Illinois, New Jersey, North Carolina, Tennessee and Wisconsin) it prepares you for each of the two separate state exams you'll sit.",
   },
   {
     question: "Do I need to take a prelicensing course first?",
@@ -47,7 +47,7 @@ const faqs = [
   {
     question: "How much does the practice exam cost?",
     answer:
-      "$59 per practice exam. You can buy Life, Health, or Life + Health — or purchase multiple if you're testing for more than one line. Instant access at checkout, no waiting. Course access duration depends on your state.",
+      "$59 per practice exam. You can buy Life, Health, or Life + Health — or purchase multiple if you're testing for more than one line. Instant access at checkout, no waiting. Each practice exam includes 30 days of full access from the date of purchase, with unlimited retakes during that window.",
   },
   {
     question: "Can I get a refund if I don't pass?",
@@ -148,8 +148,9 @@ export default function PracticeExamHubPage() {
             Need the Full Prep Package?
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6">
-            Our state-approved prelicensing courses include a full-length practice exam at no extra
-            cost — plus complete video lessons, readings, and quizzes. One purchase, test-ready in
+            Our prelicensing courses, state-approved where the state requires it, include a
+            full-length practice exam at no extra cost — plus complete video lessons, readings, and
+            quizzes. One purchase, test-ready in
             days, and backed by our pass guarantee in eligible states.
           </p>
           <Link
@@ -193,8 +194,8 @@ export default function PracticeExamHubPage() {
             Why a Practice Exam Is the Single Best Prep Investment
           </h2>
           <p className="text-gray-600 text-center mb-10 max-w-2xl mx-auto">
-            The #1 reason candidates fail is walking in unfamiliar with the test format. Our
-            practice exam closes that gap.
+            Many candidates lose points simply because the real exam&apos;s format and pacing are
+            unfamiliar. Our practice exam closes that gap.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[

@@ -12,7 +12,7 @@ image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
 imageAlt: Virginia No Prelicensing Insurance Requirement  What It Means
 ---
 
-Virginia is one of many states that does not require candidates to complete any [prelicensing](/virginia/prelicensing) education before sitting for an insurance licensing exam. In states that still mandate it — New York requires 20 to 40 hours, New Jersey requires 20 hours per line, Florida requires 30 to 60 hours depending on the line — a candidate cannot even schedule the state exam without a certificate of completion from a state-approved prelicensing provider. Virginia eliminated this hurdle entirely for all lines except Title insurance. You can schedule your Prometric exam tomorrow, study entirely on your own, and sit for a 140-question test that determines whether you get your license. For candidates who understand what this means, it is a genuine advantage. For candidates who misread it as permission to show up unprepared, it is a trap.
+Virginia is one of many states that does not require candidates to complete any [prelicensing](/virginia/prelicensing) education before sitting for an insurance licensing exam. In states that still mandate it — New York requires 20 to 40 hours, New Jersey requires 20 hours per line, Florida requires 30 to 60 hours depending on the line — a candidate cannot even schedule the state exam without a certificate of completion from a state-approved prelicensing provider. Virginia eliminated this hurdle entirely for all lines except Title insurance. You can schedule your Prometric exam tomorrow, study entirely on your own, and sit for a timed multiple-choice test — 140 scored questions on the Life, Annuities & Health exam, 135 on Property & Casualty — that determines whether you get your license. For candidates who understand what this means, it is a genuine advantage. For candidates who misread it as permission to show up unprepared, it is a trap.
 
 ## What the Rule Actually Says
 
@@ -46,7 +46,7 @@ The Virginia Life, Annuities & Health exam (Series 11-01) has 140 scored questio
 
 The Virginia Property & Casualty exam (Series 11-03) has 135 scored questions covering dwelling policies, homeowners forms, auto insurance (including Virginia's 2025 minimum changes and UIM stacking rules), commercial packages, businessowners policies, workers' compensation, and Virginia-specific P&C law. The Virginia state law section — which covers the Bureau of Insurance's regulatory authority, unfair trade practices, licensing requirements, and Virginia-specific coverage rules — requires specific statutory knowledge that general business sense does not provide.
 
-[Pass rates](/pass-rates) reflect this reality. While Virginia does not publish line-level pass rates publicly in the same granular detail as some states, national data consistently shows that candidates who complete structured preparation outperform those who do not across every state and every line. The exam is not designed to be passed by the unprepared.
+[Pass rates](/pass-rates) reflect this reality — and Virginia publishes them in more detail than most states do. The SCC Bureau of Insurance posts annual Prometric demographic reports on its Licensing Exam Pass Rates page, broken out by exam title and by insurance school. In the most recent report, covering June 1, 2024 through May 31, 2025, the first-time pass rate was 67.34% on the Life, Annuities & Health exam (3,426 first-time candidates) and 69.52% on Property & Casualty (1,552 first-time candidates). Across all Virginia insurance exams that year, 68.65% of 9,561 first-time candidates passed. Roughly a third did not. The exam is not designed to be passed by the unprepared.
 
 ## How to Self-Study Effectively in Virginia
 
@@ -74,7 +74,13 @@ Because the exam is genuinely difficult, and preparation is the single most cont
 
 How does Virginia compare to neighboring states on prelicensing requirements?
 
-Virginia's no-prelicensing rule is no longer exceptional in the region — it is now the norm among its direct neighbors. North Carolina and Maryland both once required 20 hours of prelicensing per line, but North Carolina repealed its requirement in 2025 and Maryland repealed its requirement in 2024; neither currently requires any prelicensing hours. Tennessee, which once required 40 hours per line, repealed its requirement back in 2023. Pennsylvania also eliminated its prelicensing requirement, effective 2025. West Virginia is the one direct neighbor that still requires prelicensing — 20 hours per line before the Pearson VUE exam. Virginia has operated without a mandatory prelicensing requirement for all lines except Title the longest of the group, but candidates in Maryland, North Carolina, Tennessee, and Pennsylvania today face the same no-mandatory-coursework starting point.
+Virginia's no-prelicensing rule is no longer exceptional in the region, but it is not yet universal among its neighbors either. Virginia borders five states — Maryland, West Virginia, Kentucky, Tennessee, and North Carolina — plus the District of Columbia.
+
+Three of those five have dropped the requirement. Maryland repealed its requirement in 2024 and North Carolina repealed its effective October 1, 2025; neither now requires any prelicensing hours. Tennessee eliminated its requirement effective March 21, 2023 — and note that Tennessee's old rule was 20 hours per line of authority, with 40 hours applying only to a combined two-line license such as Life plus Accident & Health, not 40 hours for every single line.
+
+Two neighbors still mandate it. West Virginia requires 20 hours per line before its Pearson VUE exam, and Kentucky requires 20 hours per line — 40 for a combined Life and Health credential — before its state-administered exam. So if you are weighing Virginia against a nearby state, prelicensing coursework is still a real cost in two of the five bordering jurisdictions.
+
+Pennsylvania also eliminated its prelicensing requirement effective 2025, though Pennsylvania does not actually border Virginia — Maryland and West Virginia sit between them. Virginia has operated without a mandatory prelicensing requirement for all lines except Title longer than any state in the group.
 
 Does taking a prelicensing course give me any official standing with the Virginia Bureau of Insurance?
 
@@ -90,4 +96,4 @@ Yes. Virginia imposes no lifetime limit on exam attempts. After each failure, yo
 
 Virginia's no-prelicensing rule is a feature, not a shortcut. It rewards candidates who take initiative, study the right material, and walk into Prometric prepared. The exam itself is the filter — and it is designed to be one.
 
-Visit JustInsurance to enroll today and prepare for your Virginia insurance exam with a state-approved course that covers both national content and Virginia-specific law.
+A note on what that means for course shopping. Because Virginia does not require prelicensing for these lines, the Bureau of Insurance does not approve or register prelicensing courses for them — there is no state prelicensing approval for any provider to hold, so treat "state-approved prelicensing" claims about Virginia with suspicion. What you are buying is exam preparation built to the Prometric content outline. JustInsurance's Virginia exam prep covers the life, annuities, and health lines (Series 11-01, and the separate Life & Annuities and Health exams); we do not offer a Virginia property and casualty prep course. Visit JustInsurance to enroll today.

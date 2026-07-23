@@ -44,9 +44,9 @@ Scheduling and cancellation: Exams must be scheduled at least two days in advanc
 
 Minnesota requires all resident producer license applicants to submit fingerprints for a criminal history background check conducted at both the state level (Minnesota Bureau of Criminal Apprehension) and the federal level (FBI). The fingerprinting fee depends on how and where you complete the fingerprinting.
 
-Option 1 — Electronic fingerprinting at a PSI test center (recommended): The fee is $65. This is the strongly recommended approach for two reasons: it is the fastest method, with prints transmitted electronically to the Department on the same day, and it eliminates the mailing delay associated with the paper card option. You can be fingerprinted at a PSI test center on the day of your exam — same appointment, same location, no additional scheduling required. You must bring a signed Background Check Consent Form. The $65 fee is paid at the PSI test center by VISA, MasterCard, American Express, or Discover.
+Option 1 — Electronic fingerprinting at a PSI test center (recommended): The fee is $63.75. This is the strongly recommended approach for two reasons: it is the fastest method, with prints transmitted electronically to the Department on the same day, and it eliminates the mailing delay associated with the paper card option. You can be fingerprinted at a PSI test center on the day of your exam — same appointment, same location, no additional scheduling required. You must bring a signed Background Check Consent Form. The $63.75 fee is paid at the PSI test center by VISA, MasterCard, American Express, or Discover.
 
-Option 2 — Fingerprinting at a local police station or similar facility: The facility charges its own fee (typically $10–$30 at police stations; prices vary). After fingerprinting, you receive a fingerprint card that you mail together with the Background Check Consent Form and a separate $33.25 check payable to the Minnesota Department of Commerce to: Attn: Licensing, Minnesota Department of Commerce, 85 7th Place East, Suite 280, St. Paul, MN 55101. The total cost of this option — facility fee plus the $33.25 Department fee — may be lower in some cases than the $65 PSI electronic option, but the processing time is significantly longer due to mailing.
+Option 2 — Fingerprinting at a local police station or similar facility: The facility charges its own fee (typically $10–$30 at police stations; prices vary). After fingerprinting, you receive a fingerprint card that you mail together with the Background Check Consent Form and a separate $33.25 check payable to the Minnesota Department of Commerce to: Attn: Licensing, Minnesota Department of Commerce, 85 7th Place East, Suite 280, St. Paul, MN 55101. The total cost of this option — facility fee plus the $33.25 Department fee — may be lower in some cases than the $63.75 PSI electronic option, but the processing time is significantly longer due to mailing.
 
 One-time cost: Fingerprinting is a one-time cost for initial licensing. License renewals do not require a new background check unless your license has lapsed for more than 12 months and you are reapplying as a new producer.
 
@@ -56,7 +56,7 @@ The license application fee is paid at the time of submission through NIPR or Si
 
 Base application fee: $50 per line of authority. This is a per-line charge — an applicant seeking Property and Casualty lines separately pays $50 + $50 = $100 in base application fees. An applicant seeking Life only pays $50.
 
-Technology fee: $10–$20 per application, added on top of the base fee. The technology fee funds the Department's electronic licensing system. The specific amount may vary — verify the current technology fee at the time of application through NIPR or Sircon.
+Technology fee: $10 per application — a single flat charge added on top of the base fees, not a per-line charge. The technology fee funds the Department's electronic licensing system. Confirm the current technology fee at the time of application through NIPR or Sircon.
 
 NIPR transaction fee: $5.60 per application submitted through NIPR. This fee is charged by NIPR for processing the transaction and is separate from the state's application fee. Applications submitted through Sircon may have a different or no separate transaction fee — confirm with Sircon at the time of submission.
 
@@ -96,11 +96,11 @@ Important constraint: At least 12 of the 24 required CE hours must not be sponso
 
 ### License Renewal Fee
 
-The biennial renewal fee is $50 plus a $30 technology surcharge, totaling $80 per renewal cycle per license. Applied through NIPR. The renewal does not require a new exam or new prelicensing — only the CE completion and the renewal fee payment.
+The biennial renewal fee is $50 per line of authority plus a single $10 technology surcharge — roughly $60 for a single-line license, and $50 more for each additional line. Applied through NIPR. The renewal does not require a new exam or new prelicensing — only the CE completion and the renewal fee payment.
 
 Renewal timing: The renewal fee is due no later than the last day of your birth month, biennially. You may renew up to 90 days early. No late renewal grace period exists — if your renewal deadline passes without renewal and CE completion, your license lapses.
 
-Lapsed license reinstatement fee: If your license lapses, you have 12 months to reinstate it by paying double the unpaid renewal fee — $100 ($80 × 2, plus transaction fees). After 12 months, the reinstatement pathway closes and you must reapply as a new producer, paying all initial licensing costs again.
+Lapsed license reinstatement fee: If your license lapses, you have 12 months to reinstate it by paying a penalty of double the unpaid renewal fee under Minn. Stat. §60K.38 — about $100 for a single line (2 × the $50-per-line renewal fee) — on top of the overdue renewal fee itself, the $10 technology surcharge, and any NIPR transaction fee, which brings the all-in reinstatement cost for one line to roughly $160. After 12 months, the reinstatement pathway closes and you must reapply as a new producer, paying all initial licensing costs again.
 
 ### Ongoing Annual Cost Summary
 
@@ -108,7 +108,7 @@ Lapsed license reinstatement fee: If your license lapses, you have 12 months to 
 
 Errors and omissions (E&O) insurance: Most Minnesota agencies and carriers require appointed producers to carry E&O coverage as a condition of appointment. E&O is not a state licensing requirement but is a practical requirement for working as a producer. Annual E&O premiums for individual producers typically range from $300–$1,500 depending on lines, volume, and claims history.
 
-FINRA registration (for variable products): Producers who want Variable Life and Variable Annuities authority must also register with FINRA (Series 6 or Series 7, plus Series 63). FINRA exam fees — approximately $245 for the SIE, $245 for the Series 6, $300 for the Series 7 — are separate from Minnesota Department of Commerce fees and are not included in the costs above.
+FINRA registration (for variable products): Producers who want Variable Life and Variable Annuities authority must also register with FINRA (Series 6 or Series 7, plus Series 63). FINRA exam fees — $100 for the SIE, $100 for the Series 6, $395 for the Series 7, and $147 for the Series 63 — are separate from Minnesota Department of Commerce fees and are not included in the costs above. FINRA sets these fees and adjusts them periodically, so confirm the current amount on FINRA's website before you register.
 
 Study materials beyond the course: Some producers purchase supplementary study guides, flashcard apps, or additional [practice exam](/minnesota/practice-exam) subscriptions beyond what their course provider offers. These are discretionary costs — the prelicensing course itself is the only required educational expense.
 
@@ -128,9 +128,9 @@ I want to get licensed in Minnesota and Wisconsin. Can I combine any fees to sav
 
 The Minnesota-specific fees — prelicensing education, PSI exam, fingerprinting, and the Minnesota Department of Commerce application fee — apply only in Minnesota and cannot be combined with Wisconsin fees. Each state's costs are independent. However, using NIPR for your applications provides a practical efficiency — you can submit your Minnesota resident application and your Wisconsin non-resident application in a single NIPR session, paying each state's fee separately but using one platform. If you are a Wisconsin resident adding a Minnesota non-resident license, you do not pay Minnesota prelicensing or exam fees due to reciprocity — only the Minnesota application fee ($50 per line plus technology and transaction fees).
 
-Is the $65 fingerprinting fee at the PSI test center the same regardless of which PSI location I use?
+Is the $63.75 fingerprinting fee at the PSI test center the same regardless of which PSI location I use?
 
-Yes. The $65 electronic fingerprinting fee is consistent across PSI test center locations in Minnesota — Rochester, St. Paul, Willmar, Woodbury, Brainerd, and other sites. The fee is set by PSI and does not vary by location. The payment is made at the test center by credit or debit card on the day of fingerprinting.
+Yes. The $63.75 electronic fingerprinting fee is consistent across PSI test center locations in Minnesota — Rochester, St. Paul, Willmar, Woodbury, Brainerd, and other sites. The fee is set by PSI and does not vary by location. The payment is made at the test center by credit or debit card on the day of fingerprinting.
 
 Understanding the full cost of getting your Minnesota insurance license before you begin allows you to budget accurately, choose the most cost-effective path for your licensing goals, and avoid unexpected fees that slow your progress. The total investment for the most common licensing paths — roughly $385–$485 for P&C or Life and A&H — is a manageable entry cost into a career with compounding income potential.
 

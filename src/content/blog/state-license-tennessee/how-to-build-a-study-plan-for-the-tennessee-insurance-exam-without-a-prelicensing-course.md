@@ -12,7 +12,7 @@ image: /blog/images/why-tennessee-insurance-continuing-education-is-a-smart-move
 imageAlt: How to Build a Study Plan for the Tennessee Insurance Exam Without a Prelicensing Course
 ---
 
-Tennessee eliminated its mandatory [prelicensing](/tennessee/prelicensing) requirement in March 2023. That decision gave every candidate complete control over how they prepare — but it did not change what the exam tests, how difficult the state law section is for unprepared candidates, or what the consequences of a failed attempt look like in time and money. The freedom to skip a formal course is real. The risk of treating that freedom as permission to underprepare is equally real, as the 55–65% first-time [pass rate](/pass-rates) demonstrates.
+Tennessee eliminated its mandatory [prelicensing](/tennessee/prelicensing) requirement in March 2023. That decision gave every candidate complete control over how they prepare — but it did not change what the exam tests, how difficult the state law section is for unprepared candidates, or what the consequences of a failed attempt look like in time and money. The freedom to skip a formal course is real. The risk of treating that freedom as permission to underprepare is equally real. Neither the TDCI nor Pearson VUE publishes a Tennessee first-time [pass rate](/pass-rates), so be wary of any "state average" figure — but the exam tests substantive product and state-law knowledge with equal rigor, and the candidates who struggle are consistently those who underprepared for it.
 
 Building your own study plan without a structured course telling you what to study, in what order, and for how long requires a different kind of preparation discipline. You are not following a curriculum. You are building one. This post gives you the complete framework: how to assess your starting knowledge, how to allocate study time across the two exam sections, the specific topics that demand the most attention in each line, how to structure your daily study schedule, how to use practice exams correctly, and how to know when you are genuinely ready to schedule your exam date.
 
@@ -160,7 +160,7 @@ What Phase 2 reveals: Your Phase 2 score identifies which Phase 1 content areas 
 
 Use the Phase 2 practice exam section performance breakdown to identify your three to five weakest content areas. Allocate Phase 3 study time exclusively to those areas. Do not review material you already know well — the marginal return on studying strong areas is negligible compared to the return on closing genuine gaps.
 
-For Tennessee state law gaps: Read the actual TCA statutory provision, not a paraphrase. The specific numbers — $1,000 civil penalty limit, 25% bad faith penalty, 48-hour application wait, 60-day grace period, 15-day appointment filing window, 5-employee general workers' comp threshold, 1-employee construction threshold — are tested directly and must be recalled without hesitation (confirm the current late-fee amount with the TDCI, since it is not publicly posted). Create flashcards for every specific number and provision and drill them daily through Phase 3.
+For Tennessee state law gaps: Read the actual TCA statutory provision, not a paraphrase. The specific numbers — $1,000 civil penalty limit, 25% bad faith penalty, 48-hour application wait, the $60 renewal fee and the $120 late renewal fee (double the renewal fee under Tenn. Code Ann. §56-6-107, with no penalty-free grace period), 15-day appointment filing window, 5-employee general workers' comp threshold, 1-employee construction threshold — are tested directly and must be recalled without hesitation. Create flashcards for every specific number and provision and drill them daily through Phase 3.
 
 For general content gaps: Return to the study guide section for the specific topic, re-read it from the beginning, then immediately answer 10–15 practice questions on that specific topic. The combination of re-reading immediately followed by targeted practice questions activates the material more effectively than re-reading alone.
 
@@ -178,7 +178,7 @@ Address remaining content gaps with a short targeted review session after each e
 
 On the final day before your exam: take one practice exam in the morning, review missed questions, drill Tennessee state law flashcards in the afternoon, and stop studying by early evening
 
-The 80% practice exam target: When your practice exam scores are consistently reaching 80% or above, you have meaningful buffer above the 70% pass threshold. Test-day conditions — mild stress, unfamiliar question phrasing, real stakes — typically reduce performance 3–7% below practice levels. An 80% practice performer has sufficient margin to absorb that reduction and still clear 70% on the scored questions.
+The 80% practice exam target: Tennessee reports your result as a scaled score, and passing is a scaled score of 70 — not 70% of questions answered correctly — so you cannot map a raw practice percentage directly onto the passing line. What you can do is build a clear margin. When your practice-exam scores consistently reach 80% or above on the raw questions, you have demonstrated command of the material well beyond a bare pass. Test-day conditions — mild stress, unfamiliar question phrasing, real stakes — typically reduce performance several points below practice levels, and an 80% practice performer has enough command to absorb that dip and still pass comfortably.
 
 ## Step 4: The Tennessee State Law Deep Dive
 
@@ -202,11 +202,11 @@ Licensing mechanics:
 
 No mandatory prelicensing effective March 21, 2023
 
-Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results
+Exam: Pearson VUE; $55 per attempt (per the current Pearson VUE Tennessee candidate handbook); passing is a scaled score of 70, not a raw percentage; immediate results
 
 Fingerprinting: IdentoGO; $37.15; TBI + FBI; Fingerprint Policy and Acknowledgement Form submitted to TDCI
 
-Application: NIPR; $50 per line; 48-hour mandatory post-exam wait
+Application: NIPR; $50 filing fee per application (not per line); 48-hour mandatory post-exam wait
 
 License: Biennial; last day of birth month
 
@@ -214,11 +214,11 @@ CE and renewal:
 
 24 CE hours biennial; 3 hours ethics; no classroom minimum
 
-Renewal fee: standard amount (contact the TDCI for the current figure)
+Renewal fee: $60 for a major line of authority, plus the $5.60 NIPR transaction fee
 
-Grace period: 60 days; no additional fee
+No penalty-free grace period: any renewal fee received after the expiration date (last day of your birth month) is treated as late — Tenn. Code Ann. §56-6-107
 
-Late renewal fee: not publicly posted — contact the TDCI; available up to 1 year from expiration
+Late renewal fee: double the renewal fee under Tenn. Code Ann. §56-6-107 — $120 for a major line — payable through NIPR for up to one year from the expiration date
 
 After 1 year: full relicensing required
 
@@ -326,4 +326,4 @@ Use multiple practice exam sources — not just one question bank repeated until
 
 The Tennessee exam rewards a specific kind of preparation discipline — systematic coverage of both knowledge domains, deliberate focus on the state law section as a standalone study challenge, regular timed practice under realistic conditions, and the self-awareness to schedule only when practice performance genuinely justifies it. Candidates who build this discipline into their self-directed study plan reach exam day as prepared as candidates who followed a formal course. The absence of a required course makes the discipline more necessary, not less.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course — or use this study plan framework to build the preparation that first-time passes are built on.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline — or use this study plan framework to build the preparation that first-time passes are built on.

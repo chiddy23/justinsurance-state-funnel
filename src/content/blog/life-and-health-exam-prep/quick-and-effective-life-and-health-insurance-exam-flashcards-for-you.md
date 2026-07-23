@@ -61,7 +61,7 @@ Below are five FAQs that many first-time test takers ask about preparing for the
 2.  What if I can’t remember everything I read?  
     Prioritize the core topics that appear most frequently on practice tests. Use flashcards to drill them until they become second nature. Then broaden your focus to more detailed concepts.
 3.  Do I need to pay for professional study materials?  
-    You can succeed with a mix of free resources and paid tools if the content is accurate and up to date. JustInsurance, for example, offers comprehensive guides, quizzes, and personalized tips that can complement your flashcards.
+    You can succeed with a mix of free resources and paid tools if the content is accurate and up to date. JustInsurance, for example, offers self-paced life and health prelicensing courses built from video lessons, reading modules, and chapter quizzes, plus full-length practice exams that pair well with your flashcards.
 4.  How often should I do practice tests?  
     Take a practice test every week or two to track your progress, then adjust your flashcards based on the areas you struggle with. This approach ensures you’re always focusing on the most relevant material.
 5.  How can I manage test anxiety?  
@@ -71,6 +71,6 @@ Below are five FAQs that many first-time test takers ask about preparing for the
 
 Give yourself credit for investing in well-structured study habits—it makes a huge difference in your chance of passing the life and health insurance exam on the first try. The combination of flashcards, focused reading, and regular practice tests will help you learn faster and retain more. Plus, even after you pass, flashcards remain handy for refreshing your memory on specific points as you start your professional journey.
 
-If you’re looking for deeper insights and personalized guidance, consider exploring the resources from JustInsurance. Their modules and support tools can enhance your flashcard sessions by giving you targeted feedback on the areas you want to strengthen. Taking these steps now will set you up for success both on the test and in your future insurance career.
+If you want more structure than flashcards alone can provide, consider exploring the self-paced prelicensing courses from JustInsurance. The video lessons, reading modules, and chapter quizzes work through the same material your cards cover, and the final practice exam mirrors the format of your state’s actual licensing test — so you can see how your recall holds up under exam conditions. Taking these steps now will set you up for success both on the test and in your future insurance career.
 
 Good luck with your studies. You’ve got this! Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

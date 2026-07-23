@@ -56,7 +56,7 @@ Ordering rate review and approval
 
 Issuing cease and desist orders
 
-Fining licensees — up to $1,000 per offense for producers; fines must be paid within 15-30 days of order
+Fining licensees. Note the citation: the producer fine authority sits in the licensing chapter, not in RCW 48.02. Under RCW 48.17.560 the Commissioner may fine a licensee not more than $1,000 for each offense, and the fine must be fully paid not less than 15 nor more than 30 days from the date of the order. If it is not paid when due, the Commissioner revokes the license.
 
 2025 Legislative Priority — Enhanced Fine Authority: OIC sought legislative authority to assess fines against insurers for each violation of state insurance laws — aligning the fine schedule for insurers with other regulated entities. This reflects the Commissioner's focus on consumer protection enforcement not just at the producer level but at the insurer level.
 
@@ -88,7 +88,7 @@ Non-resident address change: 30 days
 
 Termination notification to Commissioner: 30 days
 
-Response to Commissioner inquiries: 21 days
+Response to Commissioner inquiries: 15 business days from your receipt of the inquiry (RCW 48.17.475; WAC 284-30-650). Count business days, not calendar days — and note that the clock is measured by when the Commissioner *receives* your written response, not when you send it.
 
 Compensation disclosure retention: 5 years
 
@@ -106,7 +106,7 @@ Violation of any RCW 48 provision
 
 Prior license action in any state
 
-Failure to respond to OIC inquiries within 21 days
+Failure to respond to OIC inquiries within 15 business days (a violation of RCW 48.17.475 in its own right, penalized under RCW 48.17.530 and/or 48.17.560)
 
 Criminal conviction involving dishonesty or breach of trust
 
@@ -120,15 +120,15 @@ Rebating (RCW 48.30.140):
 
 No insurer or producer may offer any rebate, discount, or reduction of premium not specified in the policy as inducement to insurance
 
-Rebate threshold: Goods worth more than $25 constitute a prohibited rebate
+Merchandise threshold (RCW 48.30.140(4)): Prizes, goods, wares, gift cards, gift certificates or merchandise are permitted only up to $100 in value per person in the aggregate in any twelve-month period, and only when offered to all insureds or prospective insureds under similar qualifying circumstances. The aggregation window is the part producers miss — four $30 gift cards to the same client inside twelve months breaks the limit even though no single gift does.
 
 Exception: Commissions paid to a licensed producer for insurance on their own property
 
-Insured accepting rebates (RCW 48.30.150):
+Illegal inducements (RCW 48.30.150): No insurer, producer or title insurance agent may offer stock, securities, special advisory board contracts, or prizes, goods, gift cards or merchandise exceeding $100 per person in the aggregate in any consecutive twelve-month period as an inducement to insurance
 
-No insured person may receive or accept any rebate not specified in the policy
+Insured accepting rebates (RCW 48.30.170): No insured person may receive or accept any rebate not specified in the policy
 
-Penalty for accepting a rebate: Fine of not more than $200
+Penalty for accepting a rebate: Fine of not more than $200 (RCW 48.30.170)
 
 Unfair claims settlement (RCW 48.30.010; WAC 284-30-330):
 
@@ -202,17 +202,17 @@ Producer obligations when OIC investigates:
 
 Must cooperate fully
 
-Respond to OIC inquiries within 21 days
+Respond in writing to OIC inquiries so the Commissioner receives your response within 15 business days of your receipt of the inquiry (RCW 48.17.475)
 
 Produce records as requested (producer licensing records subject to OIC examination)
 
 ## Recent Significant Washington Insurance Legislation
 
-Auto appraisal umpires (ESB 5721, effective January 31, 2026): The Legislature created a standard automobile insurance appraisal clause language. When an insurer and insured cannot agree on a loss amount, an appraisal process applies. OIC now maintains a registry of competent and disinterested umpires — ensuring that when appraisers can't agree, a qualified neutral can be identified quickly.
+Auto appraisal umpires (ESB 5721, Chapter 394, Laws of 2025 — statute effective July 27, 2025): The Legislature created standard automobile insurance appraisal clause language. When an insurer and insured cannot agree on the amount of a covered loss, an appraisal process applies. Keep the three dates straight, because they get conflated constantly: the act itself took effect July 27, 2025; the standardized clause is required in automobile policies with first-party physical damage coverage issued or renewed on or after January 1, 2026; and OIC's umpire registry came from a separate rulemaking, R 2025-04, filed December 31, 2025 and effective January 31, 2026. That registry gives appraisers who cannot agree on an umpire a pool of competent and disinterested neutrals to draw from.
 
-Fire loss reporting (SSB 5419, effective December 19, 2025): Requires insurers to report known or suspected criminal activity related to fire losses to local authorities. Allows OIC to share confidential fire loss data with the State Fire Marshal's Office, NAIC, law enforcement, and others. Creates a new data collection mechanism for understanding fire insurance trends.
+Fire loss reporting (SSB 5419, Chapter 225, Laws of 2025 — statute effective July 27, 2025): Requires insurers to report known or suspected criminal activity related to fire losses to local authorities. Allows OIC to share confidential fire loss data with the State Fire Marshal's Office, NAIC, law enforcement, and others. Same two-date pattern as the appraisal bill: the statute took effect July 27, 2025, while OIC's implementing rule, R 2025-03, took effect December 19, 2025 and attaches reporting to fire claims that close, or are subsequently investigated or adjusted, on or after January 1, 2026.
 
-Supplemental LTC insurance (ESSB 5291, effective March 7, 2026): Created supplemental long-term care insurance as a new product category in Washington. Triggered the May 1, 2026 CE requirement for producers selling supplemental LTC policies (1-hour additional course).
+Supplemental LTC insurance (ESSB 5291, Chapter 380, Laws of 2025 — signed May 20, 2025): Created supplemental long-term care insurance as a new Washington product category, designed to pay after a client's WA Cares benefit is exhausted. OIC's implementing rule, R 2025-06, was adopted February 4, 2026 and took effect March 7, 2026. Producer impact: on top of the standard 8-hour initial LTC course and the 4-hour refresher every 24 months, OIC requires a one-time, one-credit WA Supplemental LTC course before you may sell a supplemental LTC policy. As of this writing no carrier has filed a supplemental LTC policy form with OIC, so confirm the current requirement at insurance.wa.gov before you market the product.
 
 Health care benefit managers (effective January 24, 2026): New rule implementing regulations for health care benefit managers and pharmacy benefit managers — addressing transparency and accountability in the PBM market that affects health insurance costs.
 
@@ -221,13 +221,13 @@ Provider contract transparency (SSB 5579, RCW 48.43.732): Regulates public state
 ## 5 Frequently Asked Questions
 
 - What is Washington's primary insurance statute? Revised Code of Washington Title 48 (RCW 48), available free at app.leg.wa.gov. OIC's implementing rules are in Washington Administrative Code Title 284 (WAC 284). Together these govern all aspects of insurance licensing, unfair practices, guaranty associations, and market regulation in Washington.
-- What fine can the Washington Commissioner impose on a producer? Up to $1,000 per offense under RCW 48.02. Fines must be paid within 15-30 days of the order. If unpaid, the Commissioner will revoke the license. OIC sought legislative authority in 2025 to also assess per-violation fines against insurers — currently fine schedules for insurers differ from producers.
+- What fine can the Washington Commissioner impose on a producer? Not more than $1,000 for each offense under RCW 48.17.560 — the producer and adjuster licensing chapter, not RCW 48.02, which establishes the Commissioner's office rather than the fine authority. The fine must be fully paid not less than 15 nor more than 30 days from the date of the order. If unpaid, the Commissioner will revoke the license. OIC sought legislative authority in 2025 to also assess per-violation fines against insurers — currently fine schedules for insurers differ from producers.
 - What is Washington's P&C Guaranty Association coverage range? The Washington P&C Insurance Guaranty Association covers claims above $100 and less than $300,000 per claim (RCW 48.32). Claims must arise within 30 days of the liquidation order. The Association is not obligated beyond the face amount of the policy.
-- What is Washington's rebate threshold and penalty? Under RCW 48.30.140, goods worth more than $25 constitute a prohibited rebate. Producers who offer prohibited rebates violate RCW 48.30. Insureds who accept prohibited rebates face a fine of not more than $200 under RCW 48.30.150.
-- What recent Washington legislation most affects P&C producers in 2025-2026? The auto appraisal umpire rule (ESB 5721, effective January 31, 2026) creating standard appraisal clause language and OIC's umpire registry; the fire loss reporting requirements (SSB 5419); and OIC's establishment of a Claims Review Team focused on RCW 48.30 claims handling violations — reflecting heightened P&C enforcement.
+- What is Washington's rebate threshold and penalty? Under RCW 48.30.140(4), prizes, goods, wares, gift cards, gift certificates or merchandise are permitted only up to $100 in value per person in the aggregate in any twelve-month period; anything above that aggregate is a prohibited rebate. RCW 48.30.150 applies the same $100 aggregate limit to illegal inducements. Insureds who accept prohibited rebates face a fine of not more than $200 under RCW 48.30.170.
+- What recent Washington legislation most affects P&C producers in 2025-2026? The standard automobile appraisal clause created by ESB 5721 (Chapter 394, Laws of 2025, effective July 27, 2025), which must appear in auto policies with first-party physical damage coverage issued or renewed on or after January 1, 2026 — OIC's umpire registry was added separately by rule R 2025-04, effective January 31, 2026. Also the fire loss reporting requirements of SSB 5419 (effective July 27, 2025, implemented by rule R 2025-03 effective December 19, 2025), and OIC's establishment of a Claims Review Team focused on RCW 48.30 claims handling violations — reflecting heightened P&C enforcement. Note the recurring pattern: the bill's effective date and the OIC rule's effective date are different dates, and study materials frequently merge them.
 
 ## Build Your Career on Strong Washington Compliance Knowledge
 
-RCW 48 is the foundation of Washington insurance practice — not just exam content. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses cover the Insurance Code in practical, producer-focused depth including recent legislative changes.
+RCW 48 is the foundation of Washington insurance practice — not just exam content. Washington doesn't require prelicensing education for any line, so there's no prelicensing course to complete first — the edge comes from staying current on the code. A note on JustInsurance: our Washington CE provider approval is still pending with the OIC, so until it's issued we can't report Washington CE credit. Complete your continuing education through a provider on the OIC's current approved list, and verify each course number at insurance.wa.gov before you enroll.
 
-Enroll today and build your Washington insurance career on solid compliance ground.
+Build your Washington insurance career on solid compliance ground.

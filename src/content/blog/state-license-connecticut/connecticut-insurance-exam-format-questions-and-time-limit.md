@@ -46,11 +46,11 @@ Immediate results. You learn pass or fail immediately after submitting.
 
 ## Question Counts and Time by Exam
 
-Connecticut exam specifics:
+Connecticut exam specifics (each total includes a small number of unscored pretest questions mixed in with the scored questions — pretest items don't affect your score):
 
 Life Producer Exam (12-CT-01):
 
-90 questions
+85 questions (75 scored plus 10 unscored pretest)
 
 2 hours
 
@@ -58,59 +58,59 @@ Single line of authority
 
 Accident & Health or Sickness Producer Exam (12-CT-02):
 
-90 questions
+85 questions (75 scored plus 10 unscored pretest)
 
 2 hours
 
 Single line of authority
 
-Life and Health Producer Combined Exam:
+Life, Accident & Health or Sickness Producer Combined Exam (12-CT-03):
 
-145 questions
+95 questions (80 scored plus 15 unscored pretest)
 
-Approximately 2.5 hours
+2.5 hours
 
 Combined lines of authority
 
-Property Producer Exam:
+Property Producer Exam (12-CT-19):
 
-Approximately 85-90 questions
-
-2 hours
-
-Single line of authority
-
-Casualty Producer Exam:
-
-Approximately 85-90 questions
+80 questions (75 scored plus 5 unscored pretest)
 
 2 hours
 
 Single line of authority
 
-Property and Casualty Producer Combined Exam:
+Casualty Producer Exam (12-CT-20):
 
-Approximately 145 questions
+80 questions (75 scored plus 5 unscored pretest)
 
-Approximately 2.5 hours
+2 hours
+
+Single line of authority
+
+Property and Casualty Producer Combined Exam (12-CT-04):
+
+145 questions (130 scored plus 15 unscored pretest)
+
+2.5 hours
 
 Combined lines of authority
 
-Personal Lines Producer Exam:
+Personal Lines Producer Exam (12-CT-18):
 
-Approximately 85-90 questions
+115 questions (105 scored plus 10 unscored pretest)
 
 2 hours
 
 Limited P&C for personal (non-commercial) insurance only
 
-These formats are subject to change, so verify current specifications through Pearson VUE before your exam.
+These figures reflect the current Pearson VUE Connecticut Insurance Content Outlines (effective October 27, 2025) and the Connecticut Insurance Candidate Handbook. Formats can change, so verify current specifications through Pearson VUE before your exam.
 
 ## Time per Question
 
 Understanding pacing helps:
 
-90-question exams over 2 hours: Approximately 1 minute 20 seconds per question on average
+Single-line exams (80–85 questions) over 2 hours: Roughly 1 minute 25 to 30 seconds per question on average
 
 145-question exams over 2.5 hours: Approximately 1 minute per question on average
 
@@ -174,11 +174,17 @@ Misreading modifiers is one of the most common sources of preventable wrong answ
 
 ## Section Distribution
 
-The combined exam allocates questions across sections:
+Every Connecticut exam is built from a general-knowledge portion and a Connecticut-specific (state law) portion, each carrying a fixed number of scored questions set by the current Pearson VUE content outline (effective October 27, 2025):
 
-General Insurance Concepts: ~10-15% Life Insurance Topics: ~30-35% (on combined exam) Health Insurance Topics: ~30-35% (on combined exam) Connecticut State-Specific: ~15-25%
+Single-line Life, Accident & Health, Property, and Casualty exams: 50 general-knowledge scored questions plus 25 Connecticut-specific scored questions — so state law is roughly one-third (about 33%) of your scored questions.
 
-These distributions guide where to focus study time.
+Life, Accident & Health combined exam: 50 general-knowledge plus 30 Connecticut-specific scored questions (about 37% state content).
+
+Property and Casualty combined exam: 100 general-knowledge plus 30 Connecticut-specific scored questions (about 23% state content).
+
+Personal Lines exam: 75 general-knowledge plus 30 Connecticut-specific scored questions (about 28% state content).
+
+For the exact topic-by-topic weighting of your specific exam, work from the Pearson VUE Connecticut Insurance Content Outlines — the outline lists every scored topic and how many questions it carries, so you can target study time precisely instead of guessing at percentages.
 
 ## Calculator Availability
 
@@ -268,7 +274,7 @@ Passing score. 70% standard across most state insurance exams.
 
 Format. Computer-based multiple choice consistent with most state exams.
 
-State-specific weighting. ~15-25% Connecticut content typical of most state exams.
+State-specific weighting. Connecticut devotes a substantial block to state law — 25 of the 75 scored questions on each single-line exam (about a third), and 30 scored questions on the combined and Personal Lines exams. Check any other state’s own content outline for its exact split rather than assuming it matches Connecticut’s.
 
 ## Format Doesn't Equal Difficulty
 
@@ -288,8 +294,8 @@ Two candidates taking the same format exam can have very different outcomes base
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on Connecticut single-line exams? Approximately 90 questions on Life or Health single-line exams; approximately 85-90 on Property, Casualty, or Personal Lines exams.
-- How long is the Connecticut combined Life and Health exam? Approximately 2.5 hours for 145 questions.
+- How many questions are on Connecticut single-line exams? Approximately 85 questions on the Life or the Accident & Health single-line exam, and about 80 on the Property or Casualty single-line exam (Personal Lines runs longer, around 115).
+- How long is the Connecticut combined Life and Health exam? Approximately 2.5 hours for 95 questions (80 scored plus 15 unscored pretest). The 145-question exam is the Property and Casualty combined exam (12-CT-04), not the Life and Health combined exam (12-CT-03).
 - Can I use a calculator on the Connecticut exam? Yes. An on-screen calculator with basic functionality is provided.
 - What's the passing score on Connecticut insurance exams? 70% across all Connecticut insurance license exams.
 - Is online testing available for Connecticut insurance exams? Pearson VUE's online proctored testing availability varies. Verify current options through Pearson VUE.

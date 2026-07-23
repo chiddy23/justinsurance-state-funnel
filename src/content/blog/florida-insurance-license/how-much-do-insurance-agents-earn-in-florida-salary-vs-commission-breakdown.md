@@ -22,7 +22,7 @@ Here's an honest breakdown of what Florida insurance agents earn.
 
 ## Typical Income Ranges by Experience
 
-First-year agents: $38,420 – $46,330 Experienced agents (several years in): $59,790 – $81,260 Average Florida agent income: around $80,300 Top producers and agency owners: $132,250+
+First-year agents: $38,420 – $46,330 Experienced agents (several years in): $59,790 – $81,260 Average Florida agent income: around $80,300 Top producers and agency owners: $132,640+
 
 These numbers reflect realistic outcomes, not maximum potential. Top performers in niche markets like high-net-worth life insurance, Medicare, or final expense can exceed these ranges. Agents who don't actively prospect rarely reach them. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
@@ -76,7 +76,7 @@ Agents who expect a slow first year and plan for it almost always break through 
 
 3. Do Florida agents get health benefits from their agency? Captive agencies often provide benefits. Independent agents typically secure their own — which, ironically, they're often well-positioned to do themselves.
 
-4. How does Florida compare to other states for agent income? Florida agents tend to outperform national averages, driven by volume, no state income tax, and strong demographic tailwinds. Top-earning states for insurance agents consistently include Florida, Texas, California, and New York.
+4. How does Florida compare to other states for agent income? Honestly, Florida is middle of the pack on gross pay, not a standout. The average Florida agent income cited above sits roughly in line with the national average for insurance sales agents reported by the Bureau of Labor Statistics — the states that post the highest average wages for this occupation are elsewhere. Where Florida does help is what you keep: with no state income tax, the same gross commission income leaves you with more after taxes than it would in a state that taxes wages. Florida's size, population growth, and hurricane-driven property market also mean plenty of demand and plenty of competition, which cuts both ways.
 
 5. Can I make a good income as a part-time agent in Florida? Yes, but it takes longer to build a book. Part-time agents can succeed especially in relational niches like final expense, though full-time agents almost always outperform over the long run.
 

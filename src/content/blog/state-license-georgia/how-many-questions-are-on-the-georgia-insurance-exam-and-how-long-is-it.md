@@ -22,51 +22,61 @@ Here's the complete breakdown of the Georgia insurance exam format.
 
 ## Who Administers the Exam
 
-Georgia insurance licensing exams are administered by Pearson VUE on behalf of the Georgia Office of Commissioner of Insurance and Safety Fire (OCI). You register, schedule, and take the exam at Pearson VUE testing centers throughout Georgia.
+Georgia insurance licensing exams are administered by Pearson VUE on behalf of the Georgia Office of the Commissioner of Insurance and Safety Fire (OCI). Georgia has no "Department of Insurance" — OCI is the agency that owns the licensing rules, and it is the name you will see on every official form. You register, schedule, and take the exam at Pearson VUE testing centers throughout Georgia.
 
 ## Exam Breakdown by License Type
 
-Life, Accident, and Sickness (Combined) License:
+Every number below comes from two published Pearson VUE documents: the Georgia Insurance Content Outlines (effective October 22, 2024), which state the exact scored and pretest question counts, and the exam table in the Georgia Insurance Licensing Candidate Handbook, which sets the time limit and fee. Each exam includes a small block of unscored pretest questions on top of the scored ones, so you will always answer more questions than are actually graded.
 
-- 150 scored questions
+Life, Accident, and Sickness (Combined) — exam 12-GA-05:
+
+- 125 scored questions plus 10 unscored pretest questions (135 total)
 
 - 2 hours 30 minutes (150 minutes)
 
-- 70% passing score (at least 105 correct)
+- 70% passing score — about 88 of the 125 scored questions correct
 
-Life-Only License:
+Life Only — exam 12-GA-01:
 
-- Approximately 75–100 scored questions (specific count varies)
+- 80 scored questions plus 10 pretest (90 total)
 
-- Approximately 1 hour 30 minutes to 2 hours
+- 2 hours
 
-- 70% passing score
+- 70% passing score — 56 of 80 scored questions correct
 
-Accident and Sickness Only License:
+Accident and Sickness Only — exam 12-GA-02:
 
-- Approximately 75–100 scored questions
+- 80 scored questions plus 10 pretest (90 total)
 
-- Approximately 1 hour 30 minutes to 2 hours
+- 2 hours
 
-- 70% passing score
+- 70% passing score — 56 of 80 scored questions correct
 
-Property and Casualty (Combined) License:
+Property and Casualty (Combined) — exam 12-GA-06:
 
-- 150 scored questions
+- 125 scored questions plus 10 pretest (135 total)
 
 - 2 hours 30 minutes
 
-- 70% passing score
+- 70% passing score — about 88 of 125
 
-Personal Lines License:
+Property Only (12-GA-03) and Casualty Only (12-GA-04):
 
-- Approximately 75–100 scored questions
+- 80 scored questions plus 10 pretest each (90 total)
 
-- Approximately 1 hour 30 minutes
+- 2 hours each
 
-- 70% passing score
+- 70% passing score — 56 of 80
 
-The combined Life, Accident, and Sickness exam is by far the most common for new agents pursuing life and health careers.
+Personal Lines — exam 12-GA-55:
+
+- 90 scored questions plus 5 pretest (95 total)
+
+- 2 hours
+
+- 70% passing score — 63 of 90
+
+The combined Life, Accident, and Sickness exam is by far the most common for new agents pursuing life and health careers — and at 125 scored questions it is one of the two longest on Georgia's schedule.
 
 ## What Types of Questions Appear
 
@@ -82,29 +92,31 @@ All Georgia insurance exam questions are multiple choice with four answer option
 
 Each question is either right or wrong. Every scored question is weighted equally.
 
-## Scored vs. Pilot Questions
+## Scored vs. Pretest Questions
 
 Georgia exams include two types of questions:
 
-Scored questions. These count toward your passing score. The Life, Accident, and Sickness exam has 150 scored questions.
+Scored questions. These count toward your passing score. The Life, Accident, and Sickness exam has 125 of them.
 
-Pilot (unscored) questions. Small number of experimental questions being tested for use on future exams. These don't count toward your score, and you won't know which ones are pilot questions.
+Pretest (unscored) questions. A fixed block of experimental questions being tried out for use on future exams — 10 on the Life, Accident, and Sickness exam, and on most other Georgia agent exams, and 5 on Personal Lines. These don't count toward your score, and you won't know which ones they are.
 
 The safest approach is to treat every question as scored. Answer each one carefully.
 
 ## How the 70% Passing Score Works
 
-Your score is based only on the scored questions. For a 150-question exam:
+Your score is based only on the scored questions. Pearson VUE reports the result as a percent score on a 0%–100% scale — literally the percentage of scored questions you answered correctly — and Georgia's Office of the Commissioner of Insurance and Safety Fire set the passing mark at 70% after a study of each examination.
 
-- 105 correct answers = 70% = passing
+For the 125 scored questions on the Life, Accident, and Sickness exam:
 
-- 104 correct answers = failing (just below the threshold)
+- 88 correct answers = 70.4% = passing
+
+- 87 correct answers = 69.6% = failing (just below the threshold)
 
 There's no curve, no rounding up, and no partial credit. You either meet or exceed 70%, or you don't pass.
 
 ## Time Management
 
-With 2 hours 30 minutes and 150 scored questions, you have about 60 seconds per question — a reasonable pace that most prepared candidates find manageable.
+With 2 hours 30 minutes and 135 questions in front of you — 125 scored plus 10 pretest — you have about 66 seconds per question. That's a reasonable pace that most prepared candidates find manageable.
 
 Most candidates finish with time to spare. If you're struggling to finish, it's typically a preparation issue rather than a time pressure issue.
 
@@ -138,27 +150,33 @@ The interface is straightforward. Spend a minute or two orienting yourself at th
 
 ## Content Area Distribution
 
-While OCI doesn't always publish exact percentages, the Life, Accident, and Sickness exam typically distributes questions across content areas roughly as follows:
+You don't have to guess at this one. The Pearson VUE content outline assigns an exact number of scored questions to each section of the Life, Accident, and Sickness exam:
 
-- General Insurance Concepts: ~10%
+- Life: Types of Policies — 15
 
-- Life Insurance Basics: ~15%
+- Life: Policy Riders, Provisions, Options, and Exclusions — 15
 
-- Life Insurance Policies and Provisions: ~15%
+- Life: Completing the Application, Underwriting, and Delivering the Policy — 12
 
-- Annuities: ~10%
+- Life: Retirement and Other Insurance Concepts — 8
 
-- Health Insurance Basics: ~10%
+- Accident & Sickness: Types of Policies — 16
 
-- Health Insurance Policies and Provisions: ~15%
+- Accident & Sickness: Policy Provisions, Clauses, and Riders — 15
 
-- Medicare and Specialized Coverage: ~10%
+- Social Insurance (Medicare Parts A–D and related programs) — 6
 
-- Georgia-Specific Laws: ~15–20%
+- Accident & Sickness: Other Insurance Concepts — 5
 
-- Federal Regulation and Ethics: balance of exam
+- Accident & Sickness: Field Underwriting Procedures — 8
 
-These percentages shift over time and aren't exact, but they give you a sense of where to focus study time.
+- Georgia Laws, Rules, and Regulations Pertinent to Life, Accident & Sickness Insurance — 19
+
+- Georgia Rules and Codes Pertinent to Life Insurance Only — 3
+
+- Georgia Rules and Codes Pertinent to Accident & Sickness Insurance Only — 3
+
+That adds up to the full 125 scored questions. Note where the weight actually sits: Georgia law and regulation account for 25 questions — a fifth of the exam and the single largest block — which is exactly the material candidates most often shortchange in study. Pearson VUE revises these outlines periodically, so confirm the current version before you build a study plan around it.
 
 ## What to Expect on Exam Day
 
@@ -168,7 +186,7 @@ These percentages shift over time and aren't exact, but they give you a sense of
 
 - Store personal items in a provided locker
 
-- Receive scratch paper and pencil
+- Receive note-taking materials from the administrator once you're seated — you can't bring your own paper, pens, or pencils into the room
 
 - Be escorted to your testing station
 
@@ -202,11 +220,11 @@ Use your failed score report to focus study on weak content areas before retakin
 
 ## 5 Frequently Asked Questions
 
-1. How many questions are on the Georgia Life, Accident, and Sickness exam? 150 scored questions plus a small number of unscored pilot questions. You have 2 hours 30 minutes to complete all of them.
+1. How many questions are on the Georgia Life, Accident, and Sickness exam? 125 scored questions plus 10 unscored pretest questions — 135 in total. You have 2 hours 30 minutes to complete all of them.
 
-2. What's the passing score? 70% — at least 105 correct answers out of 150 scored questions.
+2. What's the passing score? 70% of the scored questions, which works out to 88 correct out of 125 on the Life, Accident, and Sickness exam.
 
-3. Can I bring a calculator? No. Personal calculators aren't allowed. The testing platform may include a basic on-screen calculator for simple calculations.
+3. Can I bring a calculator? No — electronic devices of any kind stay in your locker. Pearson VUE's test center policy is that the administrator provides you with materials to make notes or calculations after you're seated, so you work the math on what they hand you.
 
 4. What happens if I run out of time? Unanswered questions count as wrong. Always guess rather than leaving blank. The exam auto-submits when time expires.
 

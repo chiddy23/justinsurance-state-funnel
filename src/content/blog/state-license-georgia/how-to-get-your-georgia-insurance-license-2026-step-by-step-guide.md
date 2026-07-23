@@ -84,5 +84,3 @@ Map your Georgia lines, finish **8.0**-hour (or credit **5**-hour) prelicensing 
 - [Georgia OCI — Education Providers / Rule 120-2-3-.08 summary](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)
 - [NIPR — Georgia licensing overview (12-month score validity)](https://nipr.com/licensing-center/state-information/georgia)
 - [Pearson VUE — Georgia Insurance Licensing Candidate Handbook (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf)
-
-**Word count:** ~1,520 words

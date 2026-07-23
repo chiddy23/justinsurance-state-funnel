@@ -58,6 +58,8 @@ Limited scheduling flexibility
 
 You may discover a blend of two or more formats works best for you. For instance, you could enroll in an online course for self-study but still join the occasional webinar to ask live questions.
 
+Blend deliberately, though, because Texas puts a limit on the mix: at least half your hours must be classroom or classroom-equivalent, and no more than half your credits can be in the self-study instruction method. Many online courses are registered as classroom-equivalent and count toward the classroom half — but you have to verify that on the course listing rather than assume it from the delivery style.
+
 ## Select the right CE provider
 
 Not all professional education providers are equal. Course content may vary in depth, delivery style, and support features, so it’s wise to do some detective work before enrolling.
@@ -86,7 +88,9 @@ Usually, you can’t repeat the exact same course within the same licensing cycl
 
 ### 3\. Do online courses count toward my official CE hours?
 
-Absolutely. Online courses approved by the Texas Department of Insurance meet the same CE criteria as classroom-based options, so long as you complete all required modules.
+Yes, TDI-approved online courses count — but Texas also regulates the format mix, and this is where agents get caught. TDI requires that at least half your hours be earned in a classroom or classroom-equivalent environment, and no more than half your credits may carry the instruction method of "self-study."
+
+An online course can be either one. "Classroom equivalent" is a registration status under 28 TAC §19.1009(h), which requires built-in interactive question periods and periodic authentication of the student; an online course registered that way counts toward your classroom half, while an ordinary self-study module does not. Completing all 24 hours as plain self-study would leave you deficient even though every course was TDI-approved. The instruction method is shown with the course on Sircon — check it there before you enroll.
 
 ### 4\. How do I prove I finished my CE courses?
 
@@ -94,7 +98,7 @@ Once you successfully complete a course, you receive a certificate of completion
 
 ### 5\. Is there a way to speed up my CE completion?
 
-Yes. Focusing on self-paced online modules or webinars often lets you finish at a faster rate, especially if you set aside dedicated time each week to study.
+You can make the schedule more convenient, but you can't compress the seat time. TDI awards credit on time, not on how fast you click through: a classroom hour is 50 minutes of actual instruction contact time, credit for classroom-equivalent and self-study courses is calculated from measured completion time under 28 TAC §19.1010, and §19.1009(i) requires a self-study course to be designed so the typical enrollee cannot finish it in less time than the period it is certified for. What self-paced online modules and on-demand webinars really buy you is flexibility: you choose when the hours happen rather than how long they take. The most effective way to finish comfortably is to start early in the renewal cycle and block out a standing weekly slot, while keeping an eye on the classroom-equivalent versus self-study split described in question 3.
 
 ## Take your next step
 

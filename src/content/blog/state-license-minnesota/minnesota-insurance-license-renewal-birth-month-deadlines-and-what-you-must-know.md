@@ -66,9 +66,9 @@ The renewal is not automatic. The Department does not renew licenses without a p
 
 ### Condition 3: Pay the Renewal Fee
 
-Standard renewal fee: $50 per license plus a $30 technology surcharge, totaling $80 per renewal period for a standard individual producer license. Payment is by credit card or debit card through the NIPR or Sircon portal at the time of the renewal application submission.
+Standard renewal fee: $50 per line of authority plus the current technology surcharge (authorized under Minn. Stat. 45.24). A producer who holds a single line pays $50 plus the surcharge; a producer who holds several lines pays the $50 fee for each line, plus one technology surcharge. Because the surcharge amount is set administratively and has changed over time, confirm the exact current figure through NIPR or Sircon before you rely on a total. Payment is by credit card or debit card through the NIPR or Sircon portal at the time of the renewal application submission.
 
-Multiple lines of authority: The $80 renewal fee covers the complete license regardless of how many lines of authority are on the license. A producer holding Property, Casualty, Life, and A&H on a single license pays one $80 renewal fee — not $80 per line. Confirm the specific fee structure through NIPR or Sircon at the time of your renewal, as fee schedules may be updated.
+Multiple lines of authority: A single renewal application renews every line of authority on your license at once, but the $50 renewal fee is charged per line of authority. A producer holding Property, Casualty, Life, and A&H pays the $50 fee for each of those four lines — not a single flat fee — plus one technology surcharge. Confirm the specific fee structure through NIPR or Sircon at the time of your renewal, as fee schedules may be updated.
 
 Payment is required at submission. The renewal application is not processed without payment. A renewal application that is submitted without successful payment completion is not a completed renewal.
 
@@ -124,7 +124,7 @@ Completing any outstanding CE that was not finished before the renewal deadline
 
 Submitting a reinstatement application through NIPR or Sircon
 
-Paying the reinstatement penalty — double the unpaid renewal fee, approximately $160 in base penalty plus applicable technology and transaction fees
+Paying the reinstatement penalty — double the unpaid renewal fee (the $50-per-line renewal fee, doubled) plus applicable technology and transaction fees
 
 No new [prelicensing](/minnesota/prelicensing), no new PSI exam, and no new fingerprinting are required within the 12-month reinstatement window. The reinstatement restores the original license — all lines of authority are reinstated.
 
@@ -132,11 +132,11 @@ After 12 months — full relicensing: If the 12-month reinstatement window close
 
 ## Renewal for Producers Holding Multiple Lines
 
-A Minnesota producer who holds multiple lines of authority — for example, Property, Casualty, Life, and A&H — has a single license that encompasses all lines. The renewal deadline, renewal fee, and CE requirement apply to the entire license as a unit.
+A Minnesota producer who holds multiple lines of authority — for example, Property, Casualty, Life, and A&H — has a single license that encompasses all lines. The renewal deadline and CE requirement apply to the entire license as a unit, and the renewal fee is assessed per line of authority.
 
 CE course coverage for multiple lines: When a producer holds multiple lines, their CE courses should be approved for the lines they hold. Many broad insurance CE courses carry approval for all major lines simultaneously — review the Department's course approval designations before enrolling. A producer whose CE mix includes only Life and A&H-approved courses may not satisfy CE for Property and Casualty lines on the same license. Ensure your CE selection covers all lines you hold.
 
-Renewal applies to all lines simultaneously: Renewing the license renews all lines of authority on the license at once. There is no separate renewal for each line — the single renewal application and single renewal fee cover the complete license regardless of how many lines it contains.
+Renewal applies to all lines simultaneously: Renewing the license renews all lines of authority on the license at once. There is no separate renewal application for each line — one renewal application covers the complete license — though the renewal fee is assessed per line of authority, regardless of how many lines the license contains.
 
 ## Renewal for Producers Who Have Added Lines During the Renewal Period
 

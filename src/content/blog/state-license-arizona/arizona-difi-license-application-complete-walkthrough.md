@@ -52,7 +52,7 @@ Address: 100 North 15th Avenue, Suite 261, Phoenix, AZ 85007-2630
 
 Phone: 602-364-3100
 
-Licensing email: [email protected]
+Licensing email: insurancelicensing@difi.az.gov
 
 Website: difi.az.gov
 
@@ -242,23 +242,35 @@ Form L-152 (Lawful Presence). Required unless fingerprints submitted electronica
 
 ## The Relocating Producer Path
 
-If you're moving TO Arizona from another state where you held an active resident license:
+### Moving TO Arizona
 
-Exam exemption: If Arizona offers the exact same license type and line of authority you held in your prior state, you are exempt from Arizona's exam requirement.
+Exam exemption: If Arizona offers the exact same license type and line of authority you held in your prior state, you are exempt from Arizona's exam requirement — provided you document the prior license with a Clearance Letter.
 
 Process:
 
-Complete Arizona electronic fingerprinting through Fieldprint (within 90 days of receiving clearance from prior state)
+Cancel your prior state's resident license (or let it convert to non-resident status) and request a Clearance Letter from that state's insurance department. The letter must show the date your prior resident license was cancelled, expired, or converted, the lines of authority you held, and that you were in good standing at that time.
 
-Apply for Arizona resident producer license through NIPR
+Complete Arizona electronic fingerprinting through Fieldprint and mail Form L-FPV to DIFI.
 
-Complete Form L-CLR (Request for Letter of Clearance) and email to DIFI
+Apply for the Arizona resident producer license through NIPR, submitting the Clearance Letter with the application.
 
-Apply in your new home state (if leaving Arizona) within 90 days
+Two different 90-day clocks — and neither one is about fingerprinting:
 
-Email copy of new resident license to DIFI within 30 days if you want to retain AZ non-resident license
+A.R.S. § 20-285(F) sets the statutory deadline: a producer licensed in another state "who becomes a resident of this state and who continues to act as an insurance producer shall apply to become a resident licensee pursuant to this section within ninety days." That clock starts the day you become an Arizona resident — not the day your old state issues clearance.
 
-90-day window: Arizona's relocation process has a 90-day window from receiving clearance from the prior state. Don't delay this process after relocating.
+DIFI's Clearance Letter rule sets the paperwork deadline: the letter must show your prior resident license was cancelled within 90 days of DIFI receiving your Arizona application. Let too much time pass between cancelling the old license and filing in Arizona and the letter no longer supports the exam exemption.
+
+Fingerprinting carries no relocation deadline of its own. But DIFI cannot finish reviewing your application without the background check, so schedule Fieldprint early rather than treating it as a last step.
+
+### Moving OUT of Arizona
+
+If you leave Arizona for another state, the process runs the other direction:
+
+Complete Form L-CLR (Request for Letter of Clearance) and email it to DIFI.
+
+Complete your new home state's resident license application within 90 days of receiving Arizona's clearance.
+
+Email a copy of your new resident license to DIFI within 30 days of receiving it, and DIFI will issue you an Arizona non-resident license without a separate non-resident application or fee.
 
 ## Special Application Categories
 

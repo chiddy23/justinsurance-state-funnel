@@ -45,9 +45,9 @@ Competitive positioning. Agents who can serve all of a client's needs often reta
 
 The process is similar to getting your initial license — with some key differences.
 
-Step 1 — Complete [prelicense](/california/prelicensing) education for the new line.
+Step 1 — Check your education requirement. For most producers, there isn't one.
 
-As of January 1, 2026, California no longer requires line-specific prelicense education under AB 943. No additional prelicense coursework is required to add a new line of authority:
+As of January 1, 2026, California no longer requires line-specific [prelicense](/california/prelicensing) education under AB 943. No additional prelicense coursework is required to add a new line of authority:
 
 - Life: None (eliminated by AB 943, effective January 1, 2026)
 - Accident and Health: None (eliminated by AB 943, effective January 1, 2026)
@@ -55,9 +55,9 @@ As of January 1, 2026, California no longer requires line-specific prelicense ed
 - Casualty: None (eliminated by AB 943, effective January 1, 2026)
 - Personal Lines: None (eliminated by AB 943, effective January 1, 2026)
 
-If you've already completed the 12 hours of California Insurance Code and Ethics for your initial license, you generally don't need to retake that — it's a one-time requirement for resident producers.
+The one piece of prelicensing education California still requires is the 12-hour Code and Ethics course, and that is a one-time requirement for resident producers. If you completed it for your initial license, you do not repeat it to add a line.
 
-Complete the prelicense coursework through a CDI-approved provider and receive your completion certificate.
+So Step 1 is really a decision, not a requirement: you can go straight to the exam, or you can take a course for the new line as exam preparation. A prep course is optional. CDI does not require a completion certificate to schedule or sit for the exam on an added line.
 
 Step 2 — Schedule your exam.
 
@@ -83,15 +83,23 @@ However, if significant time has passed since your initial licensing, or if new 
 
 ## Timeline for Adding a Line of Authority
 
-Prelicense education: 1 to 3 weeks Scheduling and taking the exam: 1 to 2 weeks Application processing: 1 to 2 weeks
+Scheduling and taking the exam: 1 to 2 weeks Endorsement application processing: 1 to 2 weeks
 
-Total time is typically 3 to 6 weeks from starting prelicense education to having the new line active.
+Total time is typically 2 to 4 weeks from booking your exam to having the new line active. Add whatever study time you want on top — since AB 943 removed the line-specific course requirement, exam prep is self-directed and entirely up to you.
 
 ## Continuing Education Implications
 
-Adding a line of authority expands your CE obligations. California's CE requirements apply to your active lines — so adding property and casualty to a life-only license typically increases your CE hours per renewal cycle.
+Here's the good news most agents don't expect: adding a line of authority does not increase your base CE hours.
 
-Check California's current CE requirements for each line of authority to understand the combined obligation after adding the new line.
+California requires 24 hours of CE, including 3 hours of ethics, per two-year license term — in total, not per license type. CDI states it plainly: for licensees who hold one or more of the Life-Only, Accident and Health, Property Broker-Agent, Casualty Broker-Agent, or Personal Lines Broker-Agent license types, "the 24 hours of CE may be completed in courses applicable for any of the license types held." A producer holding Life-Only, Accident and Health, and Property and Casualty simultaneously still completes 24 combined hours per term (Cal. Ins. Code § 1749.3).
+
+What can change is product-specific training, and that is triggered by what you intend to *sell*, not by how many lines you hold. Examples CDI requires before soliciting individual consumers:
+
+- Long-term care: an 8-hour LTC course before soliciting, with 8 hours annually for the first four years of licensure
+- Annuities: an initial 8-hour annuity training course, then 4 hours each two-year term
+- Homeowners: a one-time 3-hour homeowners insurance valuation course before estimating replacement values
+
+Check CDI's current CE page before you plan your cycle, but do not budget for a second full 24-hour block just because you added a line.
 
 ## Carrier Appointments for the New Line
 
@@ -129,18 +137,18 @@ Appointment access. Can you get appointments with quality carriers in the new li
 
 ## 5 Frequently Asked Questions
 
-1. Can I add multiple lines at once? Yes. You can pursue multiple lines simultaneously — taking multiple prelicense courses and exams — though most agents add one at a time to stay focused.
+1. Can I add multiple lines at once? Yes. Each line has its own exam, so adding two lines means sitting two exams — but there is no prelicensing course to stack on top of that, and you can pursue them simultaneously. Most agents still add one at a time to stay focused.
 
 2. Do I have to retake the Ethics and California Insurance Code course? Generally no. The 12-hour Ethics and Code requirement is a one-time requirement for resident producers. You don't repeat it when adding lines.
 
-3. How much does adding a line cost? Budget for prelicense education, exam fees, and the CDI endorsement fee. Total cost per added line typically ranges from $200 to $500.
+3. How much does adding a line cost? Since AB 943, there is no mandatory course to pay for. Budget for the PSI exam fee for the line you're adding and CDI's endorsement fee, plus any optional exam-prep material you choose to buy. Confirm both current amounts on the PSI California portal and CDI's fee schedule before you file — they change.
 
 4. Will adding a line affect my license renewal date? No. Your renewal date stays tied to your original license. Adding a line doesn't change the timing of your renewal cycle.
 
-5. Can I remove a line of authority later if I don't use it? You generally keep all lines of authority once added, though you must still satisfy ongoing CE for each active line. If you genuinely don't use a line, CDI may allow removal upon request.
+5. Can I remove a line of authority later if I don't use it? You generally keep all lines of authority once added. Carrying an unused line does not add to your 24-hour CE total, so there is little compliance cost to leaving it in place. If you genuinely don't want a line, contact CDI about removing it.
 
 ## Grow Your California License the Right Way
 
-Expanding your California license is one of the smartest ways to grow your practice. At JustInsurance, our California prelicense courses cover every major line of authority — so whether you're adding P&C to a life and health license or expanding in another direction, we can get you exam-ready.
+Expanding your California license is one of the smartest ways to grow your practice. At JustInsurance, our California prelicensing courses get you exam-ready for the Life and Accident & Health lines, and — once you're licensed — our California [continuing education](/california/continuing-education) keeps every line of authority you hold current, including Property and Casualty. If you're adding P&C, build your exam study around the current PSI content outline so you cover every property and casualty topic the state tests, then let our P&C continuing education keep you compliant after you pass.
 
-Enroll today and expand your California insurance career.
+Enroll today and keep growing your California insurance career.

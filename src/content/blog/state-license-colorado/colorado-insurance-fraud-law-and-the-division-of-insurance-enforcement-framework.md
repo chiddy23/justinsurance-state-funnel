@@ -44,9 +44,17 @@ The intent requirement: The statute requires knowing conduct with intent to defr
 
 ## The Criminal Classification: CRS § 18-5-211
 
-Colorado's criminal insurance fraud statute classifies the offense based on the amount involved:
+Colorado's criminal insurance fraud statute classifies the offense by the type of prohibited act — not by the dollar amount involved:
 
-Class 5 felony consequences beyond imprisonment: A felony conviction carries consequences that extend well beyond the criminal sentence. For licensed insurance producers, a felony conviction is grounds for mandatory license revocation under CRS § 10-2-801. The conviction must be disclosed on all future license applications in Colorado and other states. Federal law prohibits felons from participating in the business of insurance without specific written consent from state insurance regulators under 18 U.S.C. § 1033-1034 (the federal insurance fraud statutes). A single insurance fraud conviction can permanently end a producer's career in the industry.
+Presenting a false or fraudulent application or request for insurance (CRS § 18-5-211(1)(a)) is a class 2 misdemeanor.
+
+Presenting a false or fraudulent claim, a fraudulent motor-vehicle-collision claim, or a false certificate of insurance (CRS § 18-5-211(1)(b)–(e) and (3)) is a class 6 felony.
+
+An insurance producer or other person who knowingly misappropriates or diverts premium funds (CRS § 18-5-211(2)) commits a class 5 felony.
+
+The classification turns on what the defendant did, not on how much money was involved. For producers, the most serious exposure comes from filing false claims (a felony) and, above all, from misappropriating client premium funds (a class 5 felony).
+
+Felony consequences beyond imprisonment: A felony conviction carries consequences that extend well beyond the criminal sentence. For licensed insurance producers, conviction of a felony — or of a misdemeanor involving moral turpitude — is an enumerated ground for discipline under CRS § 10-2-801(1)(g)(I). The statute is discretionary, not automatic: after notice to the licensee and a hearing held under CRS §§ 24-4-104 and 24-4-105, the Commissioner *may* place the producer on probation; suspend, revoke, or refuse to issue, continue, or renew the license; order restitution; or assess a civil penalty. Revocation is the outcome the Division commonly pursues in fraud cases, but it is reached through an administrative proceeding — the conviction opens the door to it rather than imposing it by operation of law. The conviction must be disclosed on all future license applications in Colorado and other states. Federal law prohibits felons from participating in the business of insurance without specific written consent from state insurance regulators under 18 U.S.C. § 1033-1034 (the federal insurance fraud statutes). A single insurance fraud conviction can permanently end a producer's career in the industry.
 
 The statute of limitations runs from discovery: HB17-1048 amended Colorado's insurance fraud prosecution timeline to provide that the statute of limitations begins running upon discovery of the criminal act — not upon commission of the act. This is a significant departure from standard limitations rules and reflects the practical reality of insurance fraud: many fraudulent acts are not discovered until months or years after they occur, when claim patterns are analyzed, audits are conducted, or whistleblowers come forward. The discovery rule gives prosecutors the full limitations period from the point of discovery rather than from the point when the fraud was committed.
 

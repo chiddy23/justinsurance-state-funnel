@@ -32,7 +32,7 @@ Your insurance journey in New York starts with meeting specific prerequisites be
 
 Next comes your licensing exam:
 
-1.  Schedule your test online with a recognized provider or through the New York Department of Financial Services.
+1.  Schedule your test online with PSI Services LLC, the vendor that administers New York's insurance licensing exams, at test-takers.psiexams.com/nyins. The Department of Financial Services issues the license, but it does not schedule or administer the exam.
 2.  Prepare thoroughly with practice exams and study guides.
 3.  Arrive early on exam day with valid identification.
 
@@ -50,7 +50,7 @@ Detail
 
 Renewal cycle
 
-Every 2 years from license issue date
+Every 2 years on your birthday — not the license issue date. Producers born in an odd-numbered year renew in odd-numbered years; those born in an even-numbered year renew in even-numbered years. Renewal opens up to 180 days before expiration
 
 Required CE hours
 
@@ -87,9 +87,9 @@ By making these steps a habit, you will avoid last-minute rushes and get real va
 
 ## Choose a trusted provider
 
-When selecting a continuing education provider, look for one that is state-approved, offers diverse course topics, and has reliable student support. Some providers specialize in certain insurance lines, while others offer a full range of training options. Also consider user-friendly online platforms so you can study any time, even during your busiest weeks.
+One check comes before all the others: in New York, CE credit counts only when the course comes from a provider approved by the Department of Financial Services under Insurance Law § 2132 and 11 NYCRR Part 20. Verify a provider's New York approval on the DFS site before you pay for anything — an excellent course from an unapproved provider earns you exactly zero credit toward your 15 hours. After that, look for diverse course topics, reliable student support, and a user-friendly online platform so you can study any time, even during your busiest weeks.
 
-JustInsurance stands out for delivering high-quality instruction that focuses on everyday scenarios you might encounter as a New York insurance professional. Their course library covers a broad skill set, from fundamental ethics to specialized underwriting programs. With interactive lessons and responsive customer service, JustInsurance simplifies the entire CE process so you can stay confident about meeting your renewal deadlines.
+To be straight with you about where we stand: JustInsurance's New York CE provider approval is still pending with DFS. Until it is issued, our courses cannot be reported for New York CE credit, so complete your 15 hours through a provider currently on the DFS approved list. We would rather tell you that now than have you discover it when your hours fail to post before your birthday deadline.
 
 ## Keep your license going strong
 
@@ -97,4 +97,4 @@ Your insurance license reflects all the hard work you have invested, so it makes
 
 If you are ready to level up your insurance career, explore the many options available for your New York insurance continuing education. Each course you take keeps you relevant and equipped to handle a rapidly evolving industry. Whether you choose in-person sessions, online modules, or a blend of both, continuing education is your ticket to staying competitive and fulfilling your obligations as a licensed agent.
 
-Need a reliable partner for your CE journey? Check out what JustInsurance can do for you. By signing up for the right courses, you will stay well ahead of the curve, deliver top-notch client support, and maintain your hard-earned license with confidence. Good luck on your continuing education path and congratulations on taking an important step toward a thriving insurance career!
+Start with the basics: pull the DFS approved-provider list, calendar the birthday deadline for your renewal year, and book your 15 hours early rather than in the final weeks. Do that, and you will stay well ahead of the curve, deliver top-notch client support, and maintain your hard-earned license with confidence. Good luck on your continuing education path and congratulations on taking an important step toward a thriving insurance career!

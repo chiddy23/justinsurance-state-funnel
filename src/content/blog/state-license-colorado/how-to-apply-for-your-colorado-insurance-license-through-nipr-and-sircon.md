@@ -16,9 +16,9 @@ After passing the Pearson VUE state exam, the next step in Colorado's insurance 
 
 ## The Two Application Platforms
 
-NIPR (nipr.com): NIPR is the national producer licensing platform used by most states. For Colorado, NIPR charges the state's $47 application fee per line of authority plus a $5.60 NIPR transaction fee. NIPR is particularly useful for producers who are simultaneously applying for licenses in multiple states, as the platform allows multi-state filings in a single workflow.
+NIPR (nipr.com): NIPR is the national producer licensing platform used by most states. For Colorado, NIPR collects the state's application fee — $44 per authority for residents, $68 per authority for non-residents — plus a $5.60 NIPR transaction fee. NIPR is particularly useful for producers who are simultaneously applying for licenses in multiple states, as the platform allows multi-state filings in a single workflow.
 
-Sircon (sircon.com/colorado): Sircon is the Colorado Division of Insurance's licensed electronic application and license management system, operated by Vertafore. Sircon charges the $47 application fee per line of authority with no additional transaction fee. Sircon is also the platform where you print your license, track your CE credits, and manage renewals after your license is issued.
+Sircon (sircon.com/colorado): Sircon is the Colorado Division of Insurance's licensed electronic application and license management system, operated by Vertafore. Sircon collects the same state application fee per authority with no additional transaction fee. Sircon is also the platform where you print your license, track your CE credits, and manage renewals after your license is issued. Resident applicants should note that the fee schedule directs several resident transactions to Sircon specifically.
 
 Which should you use? For a single Colorado license application, Sircon saves $5.60 compared to NIPR. For candidates applying for non-resident licenses in multiple states at the same time, NIPR's multi-state filing efficiency may outweigh the $5.60 difference. Either platform is valid — your application goes to the same Division of Insurance queue regardless of which platform you use.
 
@@ -44,7 +44,7 @@ Any felony conviction: charging documents and final disposition documents (court
 
 Any administrative action by another government agency: copies of the action and resolution
 
-All disclosure documentation should be mailed or faxed to: Pearson VUE / Colorado Division of Insurance 3131 S. Vaughn Way, Suite 205, Aurora, CO 80014 Fax: 303-733-9507
+Do not mail or fax this documentation. Colorado's process is electronic end to end: after you complete the online application and answer the screening questions, supporting documentation for any "yes" answer is uploaded directly to sircon.com/colorado or nipr.com. The same applies to Public Adjuster applicants, whose surety bond and power of attorney must be attached electronically in Sircon — the handbook warns that mailing them, or failing to attach them, delays processing.
 
 ## The Application Screening Questions
 
@@ -62,15 +62,32 @@ Answer every question truthfully. The Colorado Division of Insurance cross-refer
 
 ## Fees Summary
 
+These are the Division's filing fees as published in the Colorado forms and fees schedule effective April 1, 2026. All of them are non-transferable and non-refundable.
+
+| Transaction | Fee |
+| --- | --- |
+| New license / add an authority — resident | $44 per authority |
+| New license / add an authority — nonresident | $68 per authority |
+| New license / add an authority — Surplus Lines, resident | $141 |
+| New license / add an authority — Surplus Lines, nonresident | $291 |
+| License renewal — resident | $27 per authority |
+| License renewal — nonresident | $40 per authority |
+| Licensing examination | $41 per session (covers up to two exams) |
+| Canceling an authority, name change, address change, letter of certification, letter of clearance | No fee |
+
+Add NIPR's $5.60 transaction fee if you file through nipr.com; Sircon does not charge one. Note that the fee is charged per authority, not per application — a candidate applying for Life and Accident & Health as a resident pays $88, not $44.
+
+One fee worth protecting: if Pearson VUE reviews your application and finds it incomplete, you are notified in writing and have 20 days from the date of that letter to supply what is missing. If the application is still incomplete after 30 days it is closed, you forfeit the application fee, and you must re-apply and pay again. Respond to a deficiency letter immediately.
+
 ## After Submission: What Happens Next
 
 Processing time: The Colorado Division of Insurance processes most applications in under 5 business days. Applications that require more in-depth review (due to "yes" answers to screening questions, missing documentation, or name discrepancies) take longer. There is no fixed maximum processing time — the Division reviews each application on its own merits.
 
-While your application is pending: You cannot transact insurance business in Colorado while your application is under review. There are no temporary licenses in Colorado. You must wait for Division approval before selling any policy.
+While your application is pending: You cannot transact insurance business in Colorado while your application is under review. You must wait for Division approval before selling any policy. Colorado does issue temporary licenses under CRS 10-2-410(1), but not as a bridge for new applicants — they run up to 180 days and exist for succession situations, such as the surviving spouse, next of kin, executor, or employee of a producer who dies or becomes disabled, or the designee of a producer entering active military service. Nothing in that provision lets a first-time applicant sell while waiting on approval.
 
 Email confirmation: When your application is approved, the Division sends an email confirmation. Your license becomes active on the issue date shown in the email.
 
-Printing your license: Once approved, print your license directly from Sircon (sircon.com/colorado) using the "Print or Download Your License" service. The printing fee through Sircon is $5. Your license must be available for inspection upon request — producers are expected to have access to their current license documentation.
+Printing your license: Once approved, you can view your license information or print a copy directly from Sircon (sircon.com/colorado). Your license must be available for inspection upon request — producers are expected to have access to their current license documentation.
 
 ## After Your License Is Issued: Key Next Steps
 
@@ -90,13 +107,15 @@ Bankruptcy filings
 
 ## Non-Resident Applications
 
-Non-resident producers applying for a Colorado license through NIPR or Sircon follow the same electronic process but do not need to submit exam scores (no exam is required for non-residents applying from reciprocal states). Non-resident applicants must:
+Non-resident producers applying for a Colorado license through NIPR or Sircon follow the same electronic process but do not need to submit exam scores (no exam is required for non-residents applying from reciprocal states). The one thing that changes materially is the price. Non-resident applicants must:
 
 Be currently licensed and in good standing in their home state
 
-Pay the $47 per line application fee (plus $5.60 NIPR fee)
+Pay $68 per authority — not the $44 residents pay — plus NIPR's $5.60 transaction fee if filing through nipr.com
 
-Complete Colorado's LTC training requirements before selling LTC products (LTC training does not transfer from most home states)
+Budget for the same premium on every other transaction: Surplus Lines is $291 for a non-resident against $141 for a resident, and non-resident renewals run $40 per authority against the resident $27
+
+Continuing education, on the other hand, is reciprocal. Colorado treats a non-resident as compliant with its CE requirement if the producer has satisfied the CE requirements of their home state, provided the home state extends the same treatment to Colorado producers. Long-term care is the one area to settle before you market LTC products: Colorado's 16-credit LTC training requirement is written for resident Life and Accident & Health producers, and how your home-state LTC training maps onto it is worth a written answer from the Division rather than an assumption.
 
 ## Frequently Asked Questions
 
@@ -106,7 +125,7 @@ The Colorado Division of Insurance sends an email confirmation to the address yo
 
 Can I start selling insurance before I receive my license confirmation?
 
-No. Colorado has no temporary license provision, and you cannot conduct any insurance transaction — including quoting, soliciting, or negotiating — while your application is pending. This is one of the most important compliance rules for new Colorado producers. Conducting insurance activity without a valid license is a violation of Title 10 CRS that can result in fines, license denial, and future licensing restrictions. The typical 3–5 business day processing time means the wait is brief — plan your career start date around the realistic processing timeline rather than assuming your license will be issued the day you apply.
+No. Colorado's temporary license provision under CRS 10-2-410(1) covers succession situations — the family or employees of a producer who dies or becomes disabled, or the designee of a producer entering active military service — and offers nothing to a first-time applicant waiting on approval. You cannot conduct any insurance transaction, including quoting, soliciting, or negotiating, while your application is pending. This is one of the most important compliance rules for new Colorado producers. Conducting insurance activity without a valid license is a violation of Title 10 CRS that can result in fines, license denial, and future licensing restrictions. The typical 3–5 business day processing time means the wait is brief — plan your career start date around the realistic processing timeline rather than assuming your license will be issued the day you apply.
 
 What should I do if my application is taking longer than 5 business days?
 
@@ -118,7 +137,7 @@ No. A Colorado producer license authorizes you to sell insurance only in Colorad
 
 How do I add a second line of authority to my existing Colorado license?
 
-Adding a line of authority to an existing Colorado license requires completing the prelicensing education for the new line (50 hours for most lines; 100 hours total if adding both Life and A&H, since each is its own separate 50-hour course with no combined option), passing the Pearson VUE exam for that line, and submitting a new line-of-authority application through NIPR or Sircon with the applicable $47 fee. You do not need to reapply for your existing lines — only the new line addition requires application. The new line will appear on your license record after the Division approves the addition, typically within 5 business days of application.
+Adding a line of authority to an existing Colorado license requires completing the prelicensing education for the new line, passing the Pearson VUE exam for that line, and submitting a new line-of-authority application through NIPR or Sircon with the applicable $44 resident fee per authority. The education requirement is 50 hours per major line under Regulation 1-2-5, with two shortcuts worth knowing: the regulation sets Combined Property & Casualty at 50 hours, so one course covers both of those lines, and a producer who already holds Property and Casualty is exempt from both the training and the exam for Personal Lines. Life and Accident & Health have no combined entry, so adding both means two 50-hour courses — though the 3 ethics hours only need to be taken once. You do not need to reapply for your existing lines — only the new line addition requires application. The new line will appear on your license record after the Division approves the addition, typically within 5 business days of application.
 
 Colorado's all-electronic application system is efficient once you understand the two platforms, the fee structures, and the disclosure requirements. The most important habits to build from day one are: always use consistent name information across all three registrations, answer disclosure questions completely and truthfully, and print and retain your license documentation for compliance purposes.
 

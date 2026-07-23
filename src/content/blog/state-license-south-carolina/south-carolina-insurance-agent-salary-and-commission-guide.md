@@ -22,9 +22,9 @@ Here's an honest breakdown of South Carolina insurance agent income.
 
 ## The Short Answer
 
-South Carolina insurance agents typically earn between $40,000 and $80,000 in their first few years, with experienced agents regularly reaching $95,000 to $180,000 once they've built a solid book of business. Top producers and agency owners can earn $200,000 to $400,000+ annually.
+South Carolina insurance agents typically earn between $30,840 and $38,930 in their first few years, with experienced agents regularly reaching $51,550 to $78,390 once they've built a solid book of business. Top producers and agency owners can earn $100,000 to $121,770+ annually.
 
-These figures describe commission-based earning potential tied to book-of-business size and specialization, which is why they run higher than broad, statewide labor-statistics averages for insurance sales agents — both describe real but different things.
+These numbers reflect realistic outcomes based on public labor-market data for South Carolina insurance sales agents, not ceiling potential. South Carolina's market — particularly Charleston, Hilton Head, Mount Pleasant, and the coastal property niche — supports strong earning potential for agents who specialize effectively, with the highest earners being commission-driven producers and agency owners rather than salaried staff.
 
 *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
@@ -48,25 +48,25 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by South Carolina City
 
-Charleston metro. South Carolina's most economically active and culturally distinctive market. Tourism, military (Joint Base Charleston), Boeing manufacturing, and the Port of Charleston create diverse opportunity. New agents in Charleston metro can reach $48,000-$80,000 in their first 1-2 years; established agents commonly earn $115,000-$220,000+.
+Charleston metro. South Carolina's most economically active and culturally distinctive market. Tourism, military (Joint Base Charleston), Boeing manufacturing, and the Port of Charleston create diverse opportunity. New agents in Charleston metro can reach $32,000-$45,000 in their first 1-2 years; established agents commonly earn $58,000-$100,000+. Top Charleston producers in coastal-property, military, or high-net-worth niches can approach or exceed the state's top-producer benchmark of roughly $121,770.
 
-Mount Pleasant. Affluent Charleston suburb with strong family markets and high-net-worth pockets. Established Mount Pleasant agents commonly earn $110,000-$200,000+.
+Mount Pleasant. Affluent Charleston suburb with strong family markets and high-net-worth pockets. Established Mount Pleasant agents commonly earn $60,000-$102,000+.
 
-Greenville. Upstate manufacturing and corporate hub including BMW Spartanburg's regional impact. Strong professional client markets. Established Greenville agents commonly earn $100,000-$185,000+.
+Greenville. Upstate manufacturing and corporate hub including BMW Spartanburg's regional impact. Strong professional client markets. Established Greenville agents commonly earn $55,000-$95,000+.
 
-Spartanburg. Manufacturing-driven market with BMW and supplier ecosystem. Steady commercial and personal lines opportunity. Established Spartanburg agents commonly earn $90,000-$165,000+.
+Spartanburg. Manufacturing-driven market with BMW and supplier ecosystem. Steady commercial and personal lines opportunity. Established Spartanburg agents commonly earn $50,000-$85,000+.
 
-Columbia. State capital with substantial government employment, University of South Carolina, healthcare. Steady, recession-resistant market. Established Columbia agents commonly earn $90,000-$170,000+.
+Columbia. State capital with substantial government employment, University of South Carolina, healthcare. Steady, recession-resistant market. Established Columbia agents commonly earn $52,000-$88,000+.
 
-Myrtle Beach / Grand Strand. Tourism-driven market with substantial vacation property, second-home, and short-term rental insurance opportunity. Established Myrtle Beach agents commonly earn $95,000-$180,000+.
+Myrtle Beach / Grand Strand. Tourism-driven market with substantial vacation property, second-home, and short-term rental insurance opportunity. Established Myrtle Beach agents commonly earn $52,000-$90,000+.
 
-Hilton Head Island. Affluent resort market with substantial high-net-worth and retiree client base. Established Hilton Head agents commonly earn $115,000-$225,000+, with high-net-worth specialty practices earning more.
+Hilton Head Island. Affluent resort market with substantial high-net-worth and retiree client base. Established Hilton Head agents commonly earn $60,000-$105,000+, with high-net-worth specialty practices approaching or exceeding the state's top-producer benchmark of roughly $121,770.
 
-Bluffton. Rapidly growing community near Hilton Head with substantial retiree migration. Established Bluffton agents commonly earn $95,000-$175,000+.
+Bluffton. Rapidly growing community near Hilton Head with substantial retiree migration. Established Bluffton agents commonly earn $52,000-$90,000+.
 
-Rock Hill. Charlotte-area suburb growing rapidly. Established Rock Hill agents commonly earn $85,000-$160,000+.
+Rock Hill. Charlotte-area suburb growing rapidly. Established Rock Hill agents commonly earn $50,000-$85,000+.
 
-Smaller markets and rural South Carolina. Lower cost of living significantly affects practical income. Established rural SC agents commonly earn $70,000-$130,000+.
+Smaller markets and rural South Carolina. Lower cost of living significantly affects practical income. Established rural SC agents commonly earn $42,000-$72,000+.
 
 *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
@@ -86,7 +86,7 @@ Specialization. Agents who specialize — in coastal property, retiree planning,
 
 South Carolina's cost-of-living and tax environment significantly affects real income value:
 
-State income tax. South Carolina has state income tax with top rate of 6.4% (recently reduced from 6.5%). Moderate compared to high-tax states like California or New York.
+State income tax. South Carolina levies a state income tax, but the rate has fallen sharply in recent years. Under H.4216, effective for the 2026 tax year, the state moved to a two-bracket structure — 1.99% on taxable income under $30,000 and a top rate of 5.21% on income of $30,000 and above (down from a 6% top rate in 2025). That is moderate compared to high-tax states like California or New York.
 
 Social Security exemption. South Carolina does not tax Social Security benefits, making it attractive for retirees.
 
@@ -116,7 +116,7 @@ Many new South Carolina agents underestimate this and quit before their book pro
 
 ## South Carolina-Specific Income Considerations
 
-Strong coastal property market. South Carolina's coast creates substantial homeowners and wind/hail coverage opportunity, including SCWHA (Beach Plan) coverage for properties in coastal wind zones.
+Strong coastal property market. South Carolina's coast creates substantial homeowners and wind/hail coverage opportunity, including SCWHUA (Beach Plan) coverage for properties in coastal wind zones.
 
 Substantial retiree migration. Hilton Head, Bluffton, coastal areas, and Greenville-area mountain communities attract retirees from across the country, creating strong Medicare, life insurance, and final expense opportunity.
 
@@ -148,9 +148,9 @@ Each model has different income trajectories and lifestyle implications.
 
 - Is South Carolina a good state for insurance agent income? Yes. The combination of moderate income tax, low cost of living, substantial coastal property opportunity, retiree migration, and growing metro markets creates strong real income value for capable agents.
 - How long does it take to earn a full-time income as a South Carolina insurance agent? Most serious agents reach full-time income levels within 12-24 months. Agents with strong networks or niche focus (coastal property, retiree markets) can accelerate this timeline.
-- Do South Carolina agents pay state income tax on commissions? Yes. South Carolina has state income tax with a top rate of 6.4%. Moderate compared to high-tax states.
-- What's a realistic first-year income for a new South Carolina agent? Most new agents earn between $38,000 and $75,000 in year one depending on agency structure, product mix, and work ethic. *(Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.)*
-- Can I earn over $150,000 as a South Carolina insurance agent? Yes, consistently. Many established South Carolina agents earn $150,000+ annually, particularly those serving coastal property, high-net-worth, or specialty markets. Top producers earn substantially more. *(Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.)*
+- Do South Carolina agents pay state income tax on commissions? Yes. South Carolina has a state income tax, but the top rate has dropped to 5.21% for 2026 under H.4216 (down from 6% in 2025) — moderate compared to high-tax states.
+- What's a realistic first-year income for a new South Carolina agent? Most new agents earn between $30,840 and $38,930 in year one depending on agency structure, product mix, and work ethic. *(Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.)*
+- Can I earn over $100,000 as a South Carolina insurance agent? Yes. Many established South Carolina agents — particularly those serving coastal property, high-net-worth, or retiree markets — earn $100,000+ annually, and top producers can approach or exceed the state's top-producer benchmark of roughly $121,770. *(Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.)*
 
 ## Start Your South Carolina Insurance Income Right
 

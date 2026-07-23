@@ -16,17 +16,17 @@ imageAlt: >-
   insurance market: northwestern mutual and financia.
 ---
 
-The Milwaukee insurance market is defined by one extraordinary anchor: Northwestern Mutual — one of America's largest and most prestigious life insurance and financial services companies — headquartered in Milwaukee. With approximately $500 billion in assets under management, 8,000+ Wisconsin employees, and a financial representative network of 19,000+ advisors throughout the United States, Northwestern Mutual creates a professional advisory market in Milwaukee unlike any other Midwest city of comparable size. Add ManpowerGroup (Fortune 500; global staffing headquarters in Milwaukee), Johnson Controls (Fortune 500; global HVAC/fire/security leader), Rockwell Automation (Fortune 500; industrial automation), and Harley-Davidson — and Milwaukee offers a professional financial services market whose depth exceeds what its population rank among U.S. cities would suggest.
+The Milwaukee insurance market is defined by one extraordinary anchor: Northwestern Mutual — one of America's largest and most prestigious life insurance and financial services companies — headquartered in Milwaukee. With more than $780 billion in total assets under management, 8,000+ Wisconsin employees, and a nationwide network of financial professionals, Northwestern Mutual creates a professional advisory market in Milwaukee unlike any other Midwest city of comparable size. Add ManpowerGroup (Fortune 500; global staffing headquarters in Milwaukee), Johnson Controls (Fortune 500; global HVAC/fire/security leader), Rockwell Automation (Fortune 500; industrial automation), and Harley-Davidson — and Milwaukee offers a professional financial services market whose depth exceeds what its population rank among U.S. cities would suggest.
 
 ## Northwestern Mutual — America's Financial Services Giant in Milwaukee
 
 Northwestern Mutual (headquartered in downtown Milwaukee) is one of the most financially stable and respected life insurance and financial services companies in the United States:
 
-Fortune 500; manages approximately $500 billion in assets
+Fortune 500; manages more than $780 billion in total assets
 
 Largest direct seller of individual life insurance in the U.S. by face amount (consistently)
 
-19,000+ financial representatives throughout the U.S. and Canada
+Nationwide network of financial professionals across the United States
 
 Major Milwaukee-area employer: approximately 8,000+ Wisconsin employees at the Milwaukee headquarters campus
 

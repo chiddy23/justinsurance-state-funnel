@@ -30,20 +30,20 @@ Before you dive into any online training, ask yourself what appeals to you most 
 
 ## Understand licensing requirements
 
-Meeting your state’s licensing requirements is essential if you want to legally sell insurance. Every state has its own guidelines, so be sure to check the specific rules for your location. Typically, the requirements involve pre-licensing education hours, background checks, and passing a comprehensive insurance exam.
+Meeting your state’s licensing requirements is essential if you want to legally sell insurance. Every state has its own guidelines, so be sure to check the specific rules for your location. Typically, the requirements involve a background check and passing a comprehensive insurance exam — and, in some states, a set number of pre-licensing education hours first.
 
 1.  Pre-licensing education  
-    Most states require you to complete a certain number of pre-licensing hours before sitting for the exam. These hours can vary widely depending on which lines of insurance you plan to sell, such as life, health, property, or casualty coverage.
+    This is where states diverge most. Eighteen states require you to complete a set number of pre-licensing hours before you can sit for the exam; the other 32 let you schedule the exam without any coursework, which makes a course optional exam prep rather than a legal prerequisite. Where hours are mandated they vary widely — 8 hours per line in Georgia, 12 in California, 20 in states like Ohio and Michigan, 30 to 60 in Florida, and 50 to 100 in Colorado — and the exact figure depends on which lines you plan to sell, such as life, health, property, or casualty coverage.
 2.  Background check  
     Many states also run a background check on new applicants, primarily focusing on criminal history. If you have a questionable record, you may need to submit additional paperwork or speak to a licensing representative about your eligibility.
 3.  Passing the state exam  
-    After finishing your [pre-licensing course](/prelicensing), you will typically schedule a computer-based exam. Expect multiple-choice questions on relevant regulations, ethical practices, insurance products, and state laws.
+    Once you have finished preparing — including your [pre-licensing course](/prelicensing), if your state requires one — you will schedule a computer-based exam. Expect multiple-choice questions on relevant regulations, ethical practices, insurance products, and state laws.
 
 Consider a quick call or email to your state’s insurance department if you feel unsure about any step. Confirming the details up front will prevent unwelcome surprises later on and help you tailor your online training program to meet the exact requirements.
 
 ## Plan your training pathway
 
-Once you know how many pre-licensing hours you need, it is time to figure out the most efficient way to get them. An online course can seamlessly fit into your schedule, letting you keep your current job or manage family commitments more easily.
+Once you know whether your state mandates pre-licensing hours — and how many, if it does — it is time to figure out the most efficient way to prepare. An online course can seamlessly fit into your schedule, letting you keep your current job or manage family commitments more easily. In an exam-only state, you are not buying required hours; you are buying structured preparation, and it is worth being honest with yourself about how much of it you need.
 
 Most online training programs include: • Interactive modules that break down essential content.  
 • Practice quizzes covering licensing exam topics.  
@@ -74,15 +74,15 @@ Varies by state and provider
 
 Exam fee
 
-$50–$200
+$32–$98
 
-Typically a state-specific charge
+Set by the state and its testing vendor, and often by line of authority — for example $33 in New York, $44 in Florida, $49 in Texas for the General Lines Life, Accident and Health exam ($39 for life-only), and $98 in California
 
 License application
 
-$30–$200
+$0–$225
 
-Depends on the state and may include background check costs
+Depends on the state — Montana charges nothing, Massachusetts $225 — and may not include background check costs
 
 Additional materials
 

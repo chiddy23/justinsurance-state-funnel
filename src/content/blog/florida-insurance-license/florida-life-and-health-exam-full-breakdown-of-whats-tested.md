@@ -46,7 +46,7 @@ Life Insurance Basics. Types of life insurance (term, whole, universal, variable
 
 Life Insurance Policies and Provisions. The contractual details — grace periods, reinstatement, incontestability, misstatement of age, beneficiaries, policy loans, settlement options, and riders.
 
-Annuities. Fixed, variable, immediate, and deferred annuities. Accumulation and payout phases. Tax treatment. Suitability requirements for annuity sales.
+Annuities. Single-premium and flexible-premium, immediate and deferred, fixed, variable, and indexed annuities. Accumulation and annuity periods. Payout options. Suitability and best-interest requirements for annuity sales — the outline lists that topic as "Suitability/Best Interest," which is exactly how Fla. Stat. § 627.4554 now reads.
 
 Health Insurance Basics. Types of health plans (HMO, PPO, POS, EPO), the structure of individual and group coverage, and how health plans are funded.
 
@@ -54,31 +54,51 @@ Health Insurance Policies and Provisions. Deductibles, coinsurance, copayments, 
 
 Medical Plans and Specialized Coverage. Medicare and Medicare supplements, Medicaid, long-term care insurance, disability income insurance, and group health topics like COBRA.
 
-Federal Regulation. HIPAA, ERISA, and the federal framework that affects Florida agents.
+Federal Rules Inside the Application Process. HIPAA privacy and point-of-sale disclosures, the USA PATRIOT Act and anti-money-laundering rules, Gramm-Leach-Bliley privacy, and the Fair Credit Reporting Act. Florida's outline doesn't test these as a standalone federal section — it folds them into the application, underwriting, and policy-delivery material, so study them in that context.
 
-Florida Laws, Rules, and Regulations. This is the Florida-specific portion — and it's where state-specific study materials matter most. Topics include the Florida Insurance Code, DFS regulations, the Florida Replacement Rule, unfair trade practices, the free-look period, and licensing rules.
+Florida Laws, Rules, and Regulations. This is the Florida-specific portion — and it's where state-specific study materials matter most. Topics include the structure of DFS, the Office of Insurance Regulation, and the Office of Financial Regulation; licensing and appointment rules; the Florida Replacement Rule; unfair methods of competition; the guaranty fund; and the free-look period.
 
-Ethics. Fiduciary duty, fair dealing, confidentiality, and agent conduct standards.
+Ethics and Agent Responsibilities. Fiduciary capacity, premium accountability, commissions and charges for extra services, replying to DFS, and ethics. The outline places these inside the Florida law section rather than in a separate ethics domain.
 
 ## What Gets the Most Weight?
 
-While the exact percentages shift over time, the heaviest-weighted areas on the Florida 2-15 exam are typically:
+You don't have to guess at this. Pearson VUE publishes the exact percentage weight of every section in the Florida Insurance Examination Content Outlines — the same document DFS links to from its own exam page. Under the outline effective January 1, 2026, the 2-15 breaks down like this.
 
-- Life insurance policies and provisions — one of the largest sections
+General knowledge — 67% of the exam:
 
-- Health insurance policies and provisions — similarly large
+- Types of health policies — 11%
 
-- Florida-specific laws and regulations — significant and often underprepared for
+- Types of life policies and features — 10%
 
-- Annuities — consistently tested and often missed
+- Life policy riders, provisions, options, and exclusions — 10%
 
-These four areas alone make up the majority of the exam. If you're strong here, you're in good shape.
+- Health policy provisions, clauses, and riders — 10%
+
+- Completing the life application, underwriting, and delivering the policy — 8%
+
+- Retirement and other life insurance concepts — 5%
+
+- Field underwriting procedures — 5%
+
+- Social insurance — 4%
+
+- Other health insurance concepts — 4%
+
+Florida statutes, rules, and regulations — 33% of the exam:
+
+- Common to all lines — 13%
+
+- Pertinent to life and annuity insurance, including variable products — 10%
+
+- Pertinent to health insurance — 10%
+
+Read that list again and notice what it says. No general-knowledge section is worth more than 11%. Florida law is worth 33% — the single largest block on the exam, and bigger than the two biggest general sections put together. Candidates who treat the state portion as a footnote to their national study materials are skipping a third of the test.
 
 ## What About the 2-40?
 
 If you're taking the 2-40 Health Agent exam instead, the structure is similar but narrower:
 
-- 100 questions (typically)
+- 95 questions (85 scored plus 10 unscored pretest questions)
 
 - 2 hours to complete
 
@@ -86,19 +106,19 @@ If you're taking the 2-40 Health Agent exam instead, the structure is similar bu
 
 - Focused entirely on health insurance, health regulations, and Florida-specific health law
 
-No life or annuity content appears on the 2-40 exam.
+No life or annuity content appears on the 2-40 exam. And the Florida portion is even heavier here than on the 2-15: 23% common to all lines plus 18% pertinent to health insurance, for 41% of the exam.
 
 ## 5 Frequently Asked Questions
 
-1. How many Florida-specific questions are on the exam? Roughly 25% to 30% of the exam focuses on Florida-specific content. This is the portion where generic national study materials fall short.
+1. How many Florida-specific questions are on the exam? Exactly 33% of the 2-15 under the content outline effective January 1, 2026 — 13% common to all lines, 10% pertinent to life and annuity insurance including variable products, and 10% pertinent to health insurance. On a 150-scored-question exam, that's about 50 questions. This is the portion where generic national study materials fall short.
 
-2. Are the questions multiple choice only? Yes. All questions on Florida insurance exams are multiple choice with four answer options. There's no fill-in-the-blank or essay content.
+2. Are the questions multiple choice only? Yes. Florida insurance exams are multiple choice throughout — there's no fill-in-the-blank or essay content, and every item is machine scored, which is why you get a result the moment you finish.
 
-3. Can I flag questions to come back to? Yes. The Pearson VUE testing platform lets you flag questions and return to them before submitting. Use this to answer what you know first, then revisit harder questions with remaining time.
+3. Can I flag questions to come back to? The Pearson VUE platform lets you mark questions and return to them before you submit. Run through the untimed tutorial that opens before the exam — it walks you through the review screen, and the time you spend on it doesn't come out of your exam clock. Answer what you know first, then revisit the hard ones.
 
-4. Are calculators provided during the exam? The testing center may provide a basic on-screen calculator. Personal calculators are not allowed. The math is straightforward — no complex calculations required.
+4. Are calculators provided during the exam? The Pearson VUE candidate handbook says the exams don't require a calculator, but you may request one from test center staff if you want it. Personal calculators are not permitted. The math is straightforward — no complex calculations required.
 
-5. When do I get my results? Your pass or fail result appears on screen immediately after you finish. A printed score report is also provided at the testing center.
+5. When do I get my results? Immediately. When you finish, you receive a photo-bearing score report marked "pass" or "fail," with a numeric score and diagnostic information showing how you performed by content area. Passing score is 70% across all Florida insurance exams.
 
 ## Walk Into Your Exam Fully Prepared
 

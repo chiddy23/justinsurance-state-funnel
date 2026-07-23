@@ -12,7 +12,7 @@ image: /blog/images/how-to-easily-get-your-new-jersey-health-insurance-license.j
 imageAlt: "NJ FamilyCare and Medicaid Expansion: What Insurance Producers Need to Know in 2026"
 ---
 
-New Jersey expanded Medicaid under the Affordable Care Act in 2014 — one of the early expansion states — and NJ FamilyCare, the state's Medicaid program, now covers approximately 1.9 million New Jerseyans as of 2026. That number includes roughly 546,000 working-age adults enrolled specifically through the ACA expansion pathway. For health insurance producers in New Jersey, NJ FamilyCare is not a niche program. It is the coverage pathway for a substantial share of the state's population, and understanding how it works — who qualifies, where it intersects with the Get Covered NJ marketplace, and what the major 2026 changes mean for clients — is part of serving the NJ health insurance market competently.
+New Jersey expanded Medicaid under the Affordable Care Act in 2014 — one of the early expansion states — and NJ FamilyCare, the state's Medicaid program, covers approximately 1.82 million New Jerseyans as of October 2025 (per the NJ Department of Human Services monthly enrollment report). That number includes roughly 546,000 working-age adults enrolled specifically through the ACA expansion pathway. For health insurance producers in New Jersey, NJ FamilyCare is not a niche program. It is the coverage pathway for a substantial share of the state's population, and understanding how it works — who qualifies, where it intersects with the Get Covered NJ marketplace, and what the major 2026 changes mean for clients — is part of serving the NJ health insurance market competently.
 
 ## What NJ FamilyCare Is
 
@@ -64,7 +64,7 @@ The Long-Term Care Medicaid connection. For Life and Health producers advising c
 
 When did New Jersey expand Medicaid under the ACA?
 
-New Jersey expanded Medicaid under the Affordable Care Act effective January 1, 2014 — the first day expansion was available to states. New Jersey was among the early expansion states, having also partially expanded Medicaid to low-income childless adults in April 2011, well before the ACA's full expansion. Full expansion brought adults ages 19–64 with incomes up to 138% of the federal poverty level into NJ FamilyCare eligibility. As of June 2025, approximately 546,000 New Jerseyans were enrolled specifically through the ACA expansion pathway. Total NJ FamilyCare/CHIP enrollment was approximately 1.75 million as of October 2025.
+New Jersey expanded Medicaid under the Affordable Care Act effective January 1, 2014 — the first day expansion was available to states. New Jersey was among the early expansion states, having also partially expanded Medicaid to low-income childless adults in April 2011, well before the ACA's full expansion. Full expansion brought adults ages 19–64 with incomes up to 138% of the federal poverty level into NJ FamilyCare eligibility. As of June 2025, approximately 546,000 New Jerseyans were enrolled specifically through the ACA expansion pathway. Total NJ FamilyCare/CHIP enrollment was approximately 1.82 million as of October 2025, per the NJ Department of Human Services monthly enrollment report.
 
 What is the income limit for NJ FamilyCare for adults in 2026?
 

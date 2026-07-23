@@ -18,17 +18,17 @@ Here is exactly how to approach your retake.
 
 ## Step 1: Read Your Diagnostic Report Before You Do Anything Else
 
-PSI emails you a diagnostic report within one to three business days of your exam. This report is the most valuable study tool available to you for your retake — and most failed candidates do not use it properly.
+You do not have to wait for it. Your score is displayed on screen the moment you finish the examination, and PSI emails you a score report — and per PSI's New Jersey candidate information bulletin, if you fail, that emailed score report includes a diagnostic report indicating your strengths and weaknesses by examination type. This report is the most valuable study tool available to you for your retake — and most failed candidates do not use it properly.
 
-The diagnostic breaks down your performance by content section: general knowledge versus state law, and within each section, by topic area. It does not show you which specific questions you missed, but it tells you your percentage score in each subsection — and that is exactly the information you need.
+The diagnostic breaks down your performance by content area rather than by question — it will not tell you which specific items you missed, but it does show where you were strong and where you were weak across the exam's sections. That is exactly the information you need.
 
 Before you open a single study material, open your diagnostic report and identify your two or three lowest-scoring sections. Everything in your retake strategy flows from those numbers. A candidate who scored 80% on general knowledge but 45% on state law needs a completely different retake plan than one who scored evenly but below 70% across the board.
 
 ## Step 2: Schedule Your Retake With a Realistic Timeline
 
-New Jersey has no mandatory waiting period between exam attempts beyond the 24-hour scheduling restriction — you can call PSI the next business day and book your retake as soon as the following day. But booking immediately is almost never the right move.
+New Jersey imposes no mandatory waiting period between exam attempts. The only limit is PSI's booking mechanics: you cannot make a new appointment on the same day you tested, because PSI needs to process and report your score. PSI's own example — a candidate who tests unsuccessfully on a Wednesday can call Thursday and retest as soon as Friday, subject to seat availability. But booking immediately is almost never the right move.
 
-Unless your diagnostic report shows you were extremely close (within a few questions of passing) with no concentrated weak areas, give yourself a minimum of one week — and preferably two weeks — before retaking. The goal is not to take the exam again quickly; it is to take it and pass. An unprepared retake is another $47 and another diagnostic report.
+Unless your diagnostic report shows you were extremely close (within a few questions of passing) with no concentrated weak areas, give yourself a minimum of one week — and preferably two weeks — before retaking. The goal is not to take the exam again quickly; it is to take it and pass. An unprepared retake is another $38 and another diagnostic report.
 
 Rule of thumb by diagnostic score:
 
@@ -48,7 +48,7 @@ Pull up the PSI content outline for your exam line. Go through every item listed
 
 Key NJ-specific facts that candidates frequently miss and must drill cold:
 
-Commissioner's civil penalty authority: up to $15,000 per knowing violation
+Commissioner's civil penalty authority (N.J.S.A. 17:22A-45): not more than $5,000 for the first offense, and not more than $10,000 for the second and each subsequent offense — plus restitution and the costs of investigation and prosecution
 
 Hearing notice: at least 20 days in advance
 
@@ -90,7 +90,7 @@ If any of these were factors, address them directly. Arrive 30 minutes early. Pr
 
 ## There Is No Lifetime Limit in New Jersey
 
-New Jersey imposes no limit on the number of times you can retake the exam. Each attempt costs $47. Your prelicensing certificate of completion never expires, so you do not need to retake the course before retaking the exam. Your score report from a failed attempt serves as your exam admission document in place of the certificate if you bring it to PSI on your retake.
+New Jersey imposes no limit on the number of times you can retake the exam. Each attempt costs $38 — the examination fee listed in PSI's New Jersey candidate information bulletin — and registration fees are not refundable, so book only when you are ready to sit. Your prelicensing certificate of completion never expires, so you do not need to retake the course before retaking the exam. Your score report from a failed attempt serves as your exam admission document in place of the certificate if you bring it to PSI on your retake.
 
 The only constraint on retakes is the one-year validity of a passing score — but that is irrelevant here, because you are working toward passing, not starting a clock.
 
@@ -98,15 +98,15 @@ The only constraint on retakes is the one-year validity of a passing score — b
 
 How soon can I retake the NJ insurance exam after failing?
 
-New Jersey's only mandatory waiting period is procedural: you cannot schedule a new exam appointment on the same day you tested, because PSI needs time to process and report your score. You can call PSI the next business day and book a retake as early as the following day, subject to available seats. That said, booking the next available slot is rarely the right strategy — unless you were extremely close to passing with no concentrated weak areas, give yourself at least one to two weeks to study the sections your diagnostic report identified as weak before retaking.
+New Jersey does not impose a mandatory waiting period between attempts. The only constraint is procedural, and it comes from PSI rather than from the state: you cannot make a new examination appointment on the same day you tested, because PSI needs time to process and report your score. You can call PSI the next day and book a retake as early as the day after that, subject to available seats. That said, booking the next available slot is rarely the right strategy — unless you were extremely close to passing with no concentrated weak areas, give yourself at least one to two weeks to study the sections your diagnostic report identified as weak before retaking.
 
 Do I need to bring my prelicensing certificate to a retake?
 
-No — for a retake, you can bring either your original prelicensing certificate of completion or your failing score report from your previous attempt. Whichever document you bring must be original; PSI will not accept photocopies or screenshots. Make sure before your retake appointment that you have one of these two documents ready and that the name on it matches your government-issued ID exactly. A mismatch can result in denial of entry and forfeiture of your exam fee.
+For a retake you can bring either your prelicensing education course completion certificate or your failing score report from your previous attempt. PSI's New Jersey bulletin accepts the certificate as an electronic version or a hard copy. Make sure before your retake appointment that you have one of these two documents ready and that the name on it matches your government-issued ID exactly. A mismatch can result in denial of entry and forfeiture of your exam fee.
 
 How many times can I retake the NJ insurance exam?
 
-New Jersey imposes no lifetime limit on exam attempts. You can retake the exam as many times as needed, paying $47 per attempt. There is no escalating fee for multiple attempts and no cooling-off period beyond the 24-hour scheduling restriction. However, be aware that your passing score is only valid for one year from the date of the passing attempt — you must complete fingerprinting and submit a NIPR license application within 12 months of passing or your score expires.
+New Jersey imposes no lifetime limit on exam attempts. You can retake the exam as many times as needed, paying the standard $38 PSI examination fee per attempt. There is no escalating fee for multiple attempts and no state-imposed cooling-off period — only PSI's rule that you cannot rebook on the same day you tested. However, be aware that your passing score is only valid for one year from the date of the passing attempt — you must complete fingerprinting and submit a NIPR license application within 12 months of passing or your score expires.
 
 Should I retake the exam at a test center or switch to remote?
 
@@ -114,7 +114,7 @@ If you took your first exam at a test center and the environment itself was not 
 
 My diagnostic showed I failed the state law section specifically. What should I study?
 
-The NJ state law section has seven subsections; your diagnostic will show your percentage score in each. Focus first on whichever subsections scored below 60%. For most candidates who fail the state law section, the highest-loss areas are licensing (specifically the grounds for denial and the rules around temporary work authority, nonresident licensing, and controlled business) and trade practices (specifically the $100 inducement threshold, the blindness discrimination provision, and unfair claims settlement rules). Spend at least five to seven days exclusively on NJ state law, using the PSI content outline sections 6 and 7 as your checklist, and take scenario-based practice questions on each subsection before rebooking.
+Your diagnostic breaks the exam down by content area, so start with whichever state law areas it flagged as weakest. For most candidates who fail the state law section, the highest-loss areas are licensing (specifically the grounds for denial and the rules around temporary work authority, nonresident licensing, and controlled business) and trade practices (specifically the $100 inducement threshold, the blindness discrimination provision, and unfair claims settlement rules). Spend at least five to seven days exclusively on NJ state law, using the PSI content outline sections 6 and 7 as your checklist, and take scenario-based practice questions on each subsection before rebooking.
 
 Failing the NJ insurance exam is a setback, not a verdict. The diagnostic report tells you exactly where the points went. Use it, study the right material, and go back in when your practice scores say you are ready.
 

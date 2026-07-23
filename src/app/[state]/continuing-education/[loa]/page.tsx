@@ -127,6 +127,41 @@ export default async function CECoursePage({
   const ceRequirementPhrase = firstTermHours
     ? `${ce.totalHours}-hour renewal-cycle CE requirement`
     : `${ce.totalHours}-hour CE requirement`;
+  // The generic CourseFeatures "Self-Paced Online" card claims "No classroom
+  // required." That is FALSE for states whose CE rules mandate a minimum number
+  // of classroom / live-instructor / classroom-equivalent hours a purely
+  // self-paced package cannot satisfy on its own. Build the honest replacement
+  // per state from real states.ts data (read-only). Illinois has its own
+  // attorney-approved carve-out (CourseFeatures `ceEthicsWebinar`, gated on
+  // classroomWebinarHours), so it is excluded here and never double-handled.
+  // Every state without such a rule leaves this undefined → the card renders
+  // byte-identically.
+  let liveCeCard: { title: string; description: string } | undefined;
+  if (!stateData.classroomWebinarHours) {
+    if (ce.liveInstructorHours) {
+      // New Mexico: at least 3 of the 24 biennial CE hours must be earned
+      // through a formal classroom or another learning format that permits the
+      // student to interact with a live instructor (13.4.7.10(D)(2) NMAC;
+      // verified 2026-07-22 against srca.nm.gov). A purely self-paced package
+      // does not satisfy this on its own.
+      liveCeCard = {
+        title: "Live-Instructor Hours Required",
+        description: `Your online CE hours are self-paced on any device, but ${stateData.name} requires at least ${ce.liveInstructorHours} of your ${ce.totalHours} CE hours to be earned through a formal classroom or another format that lets you interact with a live instructor (13.4.7 NMAC). Confirm your course formats cover this before you renew.`,
+      };
+    } else if (stateData.slug === "utah") {
+      // Utah: at least 12 of the 24 CE hours must be classroom, webinar, or
+      // other classroom-equivalent courses; no more than 12 hours may be
+      // self-study (Utah Admin. Code R590-142; verified 2026-07-22 against the
+      // Utah Insurance Department CE page, insurance.utah.gov). states.ts
+      // carries no dedicated field for this split and is read-only, so this
+      // gates on the real state slug. Copy mirrors the approved disclosure
+      // already on the Utah CE hub page.
+      liveCeCard = {
+        title: "Classroom-Equivalent Hours Required",
+        description: `Your online CE hours are self-paced on any device, but Utah requires at least 12 of your ${ce.totalHours} CE hours in classroom, webinar, or other classroom-equivalent courses — no more than 12 hours may be completed by self-study (Utah Admin. Code R590-142). Confirm your course formats cover this split before you renew.`,
+      };
+    }
+  }
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
   const faqs = getCECourseFAQs(
     buildFaqData(stateData),
@@ -203,17 +238,39 @@ export default async function CECoursePage({
             ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`
             : `Complete your ${ceHoursPhrase} online, at your own pace, with courses built to the ${stateData.doiName} CE topic requirements. Only ${ce.packagePrice}.`
         }
-        ctaButtons={[
-          { text: `Enroll Now — ${ce.packagePrice}`, href: enrollLink },
-        ]}
+        ctaButtons={
+          providerApproved
+            ? [{ text: `Enroll Now — ${ce.packagePrice}`, href: enrollLink }]
+            : [{ text: "View CE Requirements", href: "#ce-requirements" }]
+        }
       />
 
-      {/* Item #6 — refund policy microcopy under the hero Enroll CTA */}
-      <div className="bg-navy-dark px-4 pb-6">
-        <p className="max-w-4xl mx-auto text-center text-blue-200 text-xs leading-relaxed">
-          <RefundDisclosure />
-        </p>
-      </div>
+      {/* Under-hero band. Approved states: refund microcopy at the point of sale.
+          Pending-approval states (NY, WA): no purchase is possible yet, so the
+          buyable CTA is replaced with a neutral "opening soon" notice and the
+          refund microcopy is dropped. Factual CE-requirement content below is
+          unchanged. */}
+      {providerApproved ? (
+        <div className="bg-navy-dark px-4 pb-6">
+          <p className="max-w-4xl mx-auto text-center text-blue-200 text-xs leading-relaxed">
+            <RefundDisclosure />
+          </p>
+        </div>
+      ) : (
+        <div id="ce-requirements" className="bg-navy-dark px-4 pb-8">
+          <div className="max-w-4xl mx-auto text-center">
+            <p className="text-gold font-semibold text-base md:text-lg">
+              Opening soon — our {stateData.name} CE provider approval is pending.
+            </p>
+            <p className="text-blue-200 text-sm leading-relaxed mt-2 max-w-2xl mx-auto">
+              We&apos;ll open {stateData.name} {loaDef.name} CE enrollment as soon as
+              the {stateData.doiName} issues our provider approval. In the meantime, the
+              full {ce.totalHours}-hour requirement and course topics below are accurate
+              and kept up to date.
+            </p>
+          </div>
+        </div>
+      )}
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
@@ -260,12 +317,40 @@ export default async function CECoursePage({
         </section>
       ) : null}
 
+      {/* fid-215: mandated CE subjects BEYOND ethics. This page tells the agent
+          the package covers their renewal hours and lists "Ethics hours
+          included", but some states require additional named subjects inside
+          the same total (Oregon: 3 credit hours on Oregon statutes and
+          administrative rules, separate from the 3 ethics hours —
+          OAR 836-071-0215). Shown before the buy box so the agent can confirm
+          coverage. Rendered from states.ts ce.mandatedTopicHours; undefined for
+          other states, which render byte-identically. */}
+      {ce.mandatedTopicHours && (
+        <section className="bg-white px-4 pt-10">
+          <div className="max-w-4xl mx-auto">
+            <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-5">
+              <p className="font-bold text-navy text-sm mb-1">
+                {stateData.name} mandates specific CE subjects beyond ethics
+              </p>
+              <p className="text-gray-700 text-sm leading-relaxed">
+                {ce.mandatedTopicHours} Confirm your course selections satisfy every
+                required subject with the {stateData.doiName} before you renew.
+              </p>
+            </div>
+          </div>
+        </section>
+      )}
+
       <CourseOverviewBox
         hours={ce.totalHours}
         price={ce.packagePrice}
         accessDuration="365 Days"
         includes={[
-          firstTermHours ? `All ${ce.totalHours} renewal-cycle CE hours` : "All required CE hours",
+          firstTermHours
+            ? `All ${ce.totalHours} renewal-cycle CE hours`
+            : stateData.slug === "new-mexico"
+              ? `Covers ${ce.totalHours} self-paced CE hours`
+              : "All required CE hours",
           "Ethics hours included",
           "Interactive online modules",
           "Progress tracking",
@@ -389,6 +474,7 @@ export default async function CECoursePage({
       <CourseFeatures
         variant="ce"
         ceEthicsWebinar={!!stateData.classroomWebinarHours}
+        liveCeCard={liveCeCard}
         providerApproved={stateData.providerApprovalNumber !== "PENDING"}
       />
 
@@ -425,26 +511,47 @@ export default async function CECoursePage({
         </div>
       </section>
 
-      <CTABanner
-        title={`Renew Your ${stateData.name} ${loaDef.shortName} License Today`}
-        subtitle={
-          providerApproved
-            ? `Complete your ${ceRequirementPhrase} online. Only ${ce.packagePrice}. We typically report to the state same-day.`
-            : `Complete your ${ceRequirementPhrase} online. Only ${ce.packagePrice}.`
-        }
-        ctaText={`Enroll Now — ${ce.packagePrice}`}
-        ctaHref={enrollLink}
-        externalLink
-        disclosure={<RefundDisclosure />}
-      />
+      {/* Closing CTA. Approved states: purchasable "Enroll Now" banner + sticky
+          mobile enroll bar. Pending-approval states (NY, WA): both are purchase
+          surfaces, so they are replaced with a neutral "opening soon" notice and
+          the sticky enroll bar is not rendered at all. */}
+      {providerApproved ? (
+        <>
+          <CTABanner
+            title={`Renew Your ${stateData.name} ${loaDef.shortName} License Today`}
+            subtitle={`Complete your ${ceRequirementPhrase} online. Only ${ce.packagePrice}. We typically report to the state same-day.`}
+            ctaText={`Enroll Now — ${ce.packagePrice}`}
+            ctaHref={enrollLink}
+            externalLink
+            disclosure={<RefundDisclosure />}
+          />
 
-      <StickyMobileCTA
-        text="Enroll Now"
-        href={enrollLink}
-        price={ce.packagePrice}
-        state={state}
-        loa={loa}
-      />
+          <StickyMobileCTA
+            text="Enroll Now"
+            href={enrollLink}
+            price={ce.packagePrice}
+            state={state}
+            loa={loa}
+          />
+        </>
+      ) : (
+        <section className="bg-navy py-16 px-4">
+          <div className="max-w-3xl mx-auto text-center">
+            <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
+              {stateData.name} {loaDef.shortName} CE — Opening Soon
+            </h2>
+            <p className="text-blue-100 text-lg mb-4 leading-relaxed">
+              Our {stateData.name} CE provider approval is pending with the{" "}
+              {stateData.doiName}. Enrollment for this course will open as soon as
+              approval is issued.
+            </p>
+            <p className="text-blue-200 text-sm leading-relaxed">
+              The {ce.totalHours}-hour {stateData.name} {loaDef.name} CE requirement
+              and the topic details above are accurate and kept up to date.
+            </p>
+          </div>
+        </section>
+      )}
     </>
   );
 }

@@ -58,7 +58,7 @@ The three states have distinct licensing requirements that affect how quickly a 
 
 ### Colorado Licensing
 
-Colorado requires 50 hours of [prelicensing](/colorado/prelicensing) education per line of authority (Property, Casualty, Life, A&H) — 100 hours total for Life and A&H together, since each is a separate 50-hour course with its own exam (Colorado has no combined Life/A&H course or exam). The exam is administered by Pearson VUE. Application fee is $47 per line plus $5.60 NIPR processing fee. CE is 24 hours biennial. The regulatory framework under DORA is well-organized, and the Colorado DOI's enforcement record is transparent and publicly accessible.
+Colorado requires 50 hours of [prelicensing](/colorado/prelicensing) education per line of authority (Property, Casualty, Life, A&H) — 100 hours total for Life and A&H together, since each is a separate 50-hour course with its own exam (Colorado has no combined Life/A&H course or exam). The exam is administered by Pearson VUE. Application fee is $44 per line of authority plus a $5.60 NIPR transaction fee. CE is 24 hours biennial. The regulatory framework under DORA is well-organized, and the Colorado DOI's enforcement record is transparent and publicly accessible.
 
 Colorado's licensing framework is among the more demanding in the Mountain West — its 50-hour mandatory prelicensing requirement is higher than several neighboring states, including Utah and New Mexico, which have no mandatory prelicensing hours at all (candidates there may sit for the exam directly, though most complete an optional self-study course to prepare). The comprehensive coverage of Colorado-specific law in the exam content makes genuine state-specific knowledge a meaningful component of licensing rather than a formality.
 

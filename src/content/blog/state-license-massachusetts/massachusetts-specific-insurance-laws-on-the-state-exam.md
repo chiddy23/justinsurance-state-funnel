@@ -60,13 +60,13 @@ Plays significant role in regional insurance regulation
 
 Massachusetts DOI Contact Information:
 
-Address: 1000 Washington Street, Suite 810, Boston, MA 02118-6200
+Address: One Federal Street, Suite 700, Boston, MA 02110-2012
 
-Phone: 617-521-7794
+Phone: (617) 521-7794 — choose option 3 for producer licensing
 
 Toll-Free: (877) 563-4467
 
-Email: producerupdate.mailbox@state.ma.us
+Email: producerupdate.mailbox@mass.gov
 
 Website: mass.gov/orgs/division-of-insurance
 
@@ -236,7 +236,7 @@ Massachusetts has specific LTC training requirements:
 
 Initial 8-hour LTC training before selling LTC insurance
 
-4-hour LTC refresher course every renewal period to continue selling LTC (every 3 years)
+4-hour ongoing LTC training every 24 months thereafter to continue selling LTC — this runs on its own 2-year clock, not on the 3-year license renewal cycle
 
 Initial and refresher LTC course credits count toward CE requirement
 
@@ -244,7 +244,7 @@ Resident agents may complete in any state with department approval
 
 Additional 2-hour MassHealth-specific CE required for producers who took LTC training in other states
 
-The 4-hour refresher every renewal is more frequent than many states require — every 3 years rather than every 2 years.
+The detail candidates most often get wrong: the 4-hour ongoing LTC training is due every 24 months, measured from the completion date of your 8-hour initial course — it is not tied to your 3-year license renewal. Massachusetts sets this out in M.G.L. c. 176U, §6, which requires initial training of "not less than 8 hours" and ongoing training of "not less than 4 hours every 24 months." That 24-month cycle matches the NAIC standard most states use, so it is not unusually frequent — but it does mean an agent who only thinks about LTC training at renewal will fall out of compliance in between.
 
 ## Massachusetts NFIP Flood Training
 
@@ -300,7 +300,7 @@ Pay attention to distinctively Massachusetts features. Health Connector (state e
 
 ## 5 Frequently Asked Questions
 
-- How much of the Massachusetts exam is state-specific law? Approximately 15-25% of the exam focuses on Massachusetts-specific content.
+- How much of the Massachusetts exam is state-specific law? A substantial share. On the Life exam and the Accident & Health exam, 30 of the 80 scored questions — about 37.5% — cover Massachusetts-specific laws and regulations, and the other 50 cover general insurance concepts (per the Pearson VUE Massachusetts content outlines effective July 22, 2026). State law is roughly a third of the exam, not a minor slice, so give it real study time.
 - What's distinctive about Massachusetts's health insurance exchange? Massachusetts Health Connector predates the federal ACA and is one of the most established state-based marketplaces. The 2006 Massachusetts health reform law (Chapter 58) created the Connector and inspired the federal ACA.
 - Does Massachusetts have no-fault auto insurance? Yes. Massachusetts uses a modified no-fault auto insurance system requiring Personal Injury Protection (PIP) coverage of $8,000 per person.
 - What's the MassHealth-specific LTC training? Producers who took their initial 8-hour LTC training in another state must complete an additional 2 hours of CE specific to MassHealth requirements before selling LTC in Massachusetts.
@@ -308,6 +308,6 @@ Pay attention to distinctively Massachusetts features. Health Connector (state e
 
 ## Master Massachusetts-Specific Exam Content
 
-Massachusetts law is where many exam failures happen because generic materials miss state-specific depth. At JustInsurance, our Massachusetts prelicense course dedicates real attention to state-specific content — including the Health Connector, MassHealth, no-fault auto insurance, and other Massachusetts-specific topics.
+Massachusetts law is where many exam failures happen because generic materials miss state-specific depth. At JustInsurance, our Massachusetts Life & Health prelicense course dedicates real attention to state-specific content — including the Health Connector, MassHealth, and other Massachusetts-specific topics.
 
 Enroll today and own the Massachusetts portion of the exam.

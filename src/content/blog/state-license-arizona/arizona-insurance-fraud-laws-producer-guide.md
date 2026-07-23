@@ -26,7 +26,7 @@ Arizona's fraud laws draw from multiple statutes:
 
 A.R.S. Title 20 — Insurance Code:
 
-A.R.S. § 20-458: Fraudulent statement in application; classification — making false or fraudulent statements in an insurance application is a criminal offense, not merely a civil/regulatory matter
+A.R.S. § 20-458: Fraudulent statement in application; classification — knowingly making a false or fraudulent statement in or relative to an application for life or disability insurance is a class 2 misdemeanor, not merely a civil/regulatory matter
 
 A.R.S. § 20-461: Unfair claim settlement practices — includes fraudulent claims processing
 
@@ -36,7 +36,7 @@ A.R.S. Title 13 — Criminal Code:
 
 A.R.S. § 13-2301 et seq.: Fraud provisions of the Arizona Penal Code applicable to insurance fraud
 
-A.R.S. § 13-2313: Fraudulent schemes and artifices (felony)
+A.R.S. § 13-2310: Fraudulent schemes and artifices — obtaining any benefit through a scheme or artifice to defraud is a class 2 felony
 
 False Swearing and Perjury provisions: Apply when false statements are made in sworn insurance-related documents
 
@@ -122,7 +122,7 @@ Unauthorized signatures — signing on clients' behalf without authorization
 
 Policy churning — unnecessarily replacing policies to generate new commissions
 
-Misrepresentation in sales presentations — A.R.S. § 20-443, § 20-458
+Misrepresentation in sales presentations — A.R.S. § 20-443 (misrepresentation and false advertising); § 20-458 where the misstatement is made in or relative to a life or disability application
 
 ## Arizona-Specific Fraud Concerns
 
@@ -166,19 +166,21 @@ Bad faith claim handling by insurers (different type of insurance fraud)
 
 A.R.S. § 20-458 — Fraudulent statement in application:
 
-Making false or fraudulent statements in an insurance application is a criminal offense
+Reaches a life insurance producer, examining physician, or other person who knowingly makes a false or fraudulent statement in or relative to an application for life or disability insurance — or who makes such a statement to obtain a fee, commission, money, or benefit
 
-Classification determines felony or misdemeanor status based on amount and circumstances
+A class 2 misdemeanor. The classification is fixed by statute — it does not scale with the dollar amount involved, and § 20-458 cannot produce a felony conviction
+
+Note the scope: § 20-458 does not reach auto, home, or other property-casualty applications. Misstatements on those applications are prosecuted under Title 13 (below)
 
 Both the producer who submits and the applicant who makes false statements can be criminally liable
 
-A.R.S. § 13-2313 — Fraudulent schemes and artifices:
+A.R.S. § 13-2310 — Fraudulent schemes and artifices:
 
-Arizona's broad fraud statute covers fraudulent insurance schemes
+Arizona's broad fraud statute — knowingly obtaining any benefit "pursuant to a scheme or artifice to defraud, by means of false or fraudulent pretenses, representations, promises or material omissions"
 
-Class 2 felony for certain amounts
+Class 2 felony. There is no dollar threshold for the offense itself, though § 13-2310(C) removes probation eligibility where the benefit obtained was $100,000 or more
 
-Applies to organized fraud rings
+This is the statute that carries the felony exposure in Arizona insurance fraud cases — including application fraud on lines § 20-458 does not cover, claim fraud, and organized fraud rings
 
 Federal prosecutions:
 
@@ -190,7 +192,7 @@ Healthcare fraud (18 U.S.C. § 1347): specific health insurance fraud
 
 ## Producer Anti-Fraud Obligations Under Arizona Law
 
-Accurate applications (A.R.S. § 20-458): Take reasonable steps to ensure application information is accurate. Facilitating a client's misrepresentation — even passively — creates criminal exposure. If a client wants to misrepresent their address or primary driver, declining that business is required.
+Accurate applications (A.R.S. § 20-458 for life and disability; A.R.S. § 13-2310 for every line): Take reasonable steps to ensure application information is accurate. Facilitating a client's misrepresentation — even passively — creates criminal exposure. On a life or disability application, a knowing misstatement is a class 2 misdemeanor under § 20-458. On an auto or property application, § 20-458 does not apply, but helping a client misrepresent their garaging address or primary driver to obtain cheaper coverage is obtaining a benefit by false pretenses under § 13-2310 — a class 2 felony. Either way, declining that business is required.
 
 Premium integrity: All premiums collected from clients must be remitted to carriers in the appropriate timeframe. Commingling client premiums with operating funds or personal accounts is theft, regardless of intent to repay.
 
@@ -228,7 +230,7 @@ License revocation: DIFI will revoke the license of a producer involved in insur
 
 Criminal prosecution: Depending on the nature and amount of fraud, prosecution can result in:
 
-Felony conviction under A.R.S. § 20-458 or § 13-2313
+A class 2 felony conviction under A.R.S. § 13-2310 (fraudulent schemes and artifices), or a class 2 misdemeanor conviction under A.R.S. § 20-458 for a false statement on a life or disability application
 
 Federal prosecution for mail/wire fraud or healthcare fraud
 
@@ -257,7 +259,7 @@ Report and walk away from fraud. If a client wants you to participate in misrepr
 ## 5 Frequently Asked Questions
 
 - Does Arizona's DIFI Fraud Unit have law enforcement authority? Yes. Under A.R.S. § 20-466, DIFI Fraud Unit investigators have peace officer status — full law enforcement authority including arrest powers. They regularly refer cases for criminal prosecution and share information with other law enforcement agencies.
-- Is making a false statement on an insurance application a criminal offense in Arizona? Yes. A.R.S. § 20-458 classifies fraudulent statements in insurance applications as criminal offenses. Both the producer who submits and the applicant who makes false statements can be criminally liable.
+- Is making a false statement on an insurance application a criminal offense in Arizona? Yes, but the statute depends on the line. A.R.S. § 20-458 makes a knowing false or fraudulent statement in or relative to a life or disability application a class 2 misdemeanor — a fixed classification that does not vary with the dollar amount. Applications for other lines fall under A.R.S. § 13-2310, fraudulent schemes and artifices, a class 2 felony. Both the producer who submits and the applicant who makes false statements can be criminally liable.
 - What are Arizona's most common auto insurance fraud schemes? Application fraud (misrepresenting garaging location or primary driver), staged accidents, and auto glass fraud (inflated or unnecessary claims, kickback schemes) are among the most common. Arizona's auto glass fraud history prompted specific 2025 legislation (A.R.S. § 20-463.02).
 - What happens to a producer's license if they're involved in fraud? DIFI revokes the license — typically permanently for fraud convictions. The revocation is reported to the National Producer Database and visible to every state. Obtaining insurance licenses in any state after fraud involvement becomes effectively impossible.
 - Must Arizona producers report suspected insurance fraud? While Arizona law doesn't create an absolute mandatory reporting obligation for producers (as some states do), failing to report known fraud when you have an obligation to cooperate with DIFI creates regulatory exposure. Report suspected fraud to DIFI's Fraud Unit, your carrier's SIU, or the NICB.

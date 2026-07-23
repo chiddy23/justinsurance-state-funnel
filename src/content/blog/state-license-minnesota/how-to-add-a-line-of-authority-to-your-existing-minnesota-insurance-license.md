@@ -42,7 +42,7 @@ Exam specifics for commonly added lines:
 
 If you are adding both Life and A&H simultaneously, take the combined Life, Accident and Health exam — one sitting, one $45 fee, covering both lines. This is the efficient path when adding both lines at once.
 
-Exam fee: $45 per sitting for major lines. Retakes cost $45 each with a 24-hour waiting period between attempts.
+Exam fee: $45 per sitting for major lines. Retakes cost $45 each. PSI will not let you rebook on the same day you tested — your result has to process first — so you schedule the retake for the next available date (fail on a Wednesday, for example, and you can often sit again by Friday).
 
 Your existing exam results do not transfer. The fact that you passed the P&C exam when you initially licensed has no bearing on your Life exam. Each exam is specific to its line.
 
@@ -50,7 +50,7 @@ Your existing exam results do not transfer. The fact that you passed the P&C exa
 
 This is the primary difference between adding a line and initial licensing. If you already hold an active Minnesota producer license, your fingerprints are already on file with the Department of Commerce. You do not need to repeat the fingerprinting and background check process when adding a line to an existing license.
 
-This saves both the $65 fingerprinting fee and the time associated with scheduling fingerprinting. For producers who are adding lines after initial licensure, the total cost of adding each additional line is reduced by the $65 fingerprinting cost compared to initial licensing.
+This saves both the $63.75 fingerprinting fee and the time associated with scheduling fingerprinting. For producers who are adding lines after initial licensure, the total cost of adding each additional line is reduced by the $63.75 fingerprinting cost compared to initial licensing.
 
 Exception: If your license lapsed for more than 12 months and you reapplied as a new producer, new fingerprinting is required because you are treated as a new applicant. For producers with continuously active licenses adding lines, no new fingerprinting is needed.
 
@@ -84,7 +84,7 @@ Minnesota's 24-hour biennial CE requirement covers your full license — all lin
 
 However, if the new line has specialty CE requirements, those apply immediately upon adding the line:
 
-Long-term care (LTC) specialty CE: A producer who adds A&H authority and intends to sell long-term care insurance must complete the 8-hour initial LTC certification before selling LTC products. This 8-hour initial requirement is separate from the 24-hour biennial CE requirement and must be specific to Minnesota Medicaid and Minnesota Partnership plans. After the initial certification, a 5-hour LTC refresher is required each renewal cycle thereafter.
+Long-term care (LTC) specialty CE: A producer who adds A&H authority and intends to sell long-term care insurance must complete the 8-hour initial LTC certification before selling LTC products. The training must be specific to Minnesota Medical Assistance and its relationship to Minnesota Partnership plans. After the initial certification, Minn. Stat. §60K.365 requires ongoing LTC training of no less than 4 hours every 24 months.
 
 Annuity suitability training: A producer who adds Life authority and intends to sell annuities must complete annuity suitability training before making annuity recommendations. The Minnesota Department of Commerce requires this training in accordance with the NAIC model suitability regulation — confirm current requirements directly with the Department at the time of adding the Life line, as annuity training requirements have evolved.
 
@@ -140,4 +140,4 @@ You can submit the application to add a line at any time — there is no require
 
 Adding a line of authority to an existing Minnesota producer license is a straightforward investment — three weeks of study, one PSI exam, and a modest application fee — that permanently expands what you are authorized to sell. For producers who are leaving income on the table because a client need falls outside their current license, the question is rarely whether to add the line but only how soon.
 
-Visit JustInsurance to enroll today and complete the prelicensing for your next Minnesota line of authority — state-approved courses that get you from enrollment to exam-ready in your own time, on your own schedule.
+Visit JustInsurance to enroll today and complete your Minnesota Life or Accident & Health pre-licensing with a state-approved course that gets you from enrollment to exam-ready on your own schedule. Adding a property and casualty line? Complete that pre-licensing through a state-approved P&C provider — then rely on JustInsurance for your Minnesota [continuing education](/minnesota/continuing-education) across every line you carry.

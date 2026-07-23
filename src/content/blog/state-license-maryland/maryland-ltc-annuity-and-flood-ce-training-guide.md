@@ -16,13 +16,13 @@ imageAlt: >-
   annuity, and flood ce training guide.
 ---
 
-Maryland's specialty training requirements unlock three of the state's most significant insurance markets: the federal employee and defense contractor community's retirement advisory creating exceptional annuity and LTC demand, the Chesapeake Bay and Eastern Shore coastal communities creating distinctive NFIP flood insurance advisory needs, and the Johns Hopkins and academic medical center community creating LTC planning opportunities among professionals with above-average healthcare cost awareness. Maryland's LTC tax credit — a state income tax credit for qualifying LTC premiums — adds a uniquely Maryland dimension to LTC advisory that no comparison state offers. All specialty training counts toward Maryland's 24-hour CE requirement.
+Maryland's specialty training requirements unlock three of the state's most significant insurance markets: the federal employee and defense contractor community's retirement advisory creating exceptional annuity and LTC demand, the Chesapeake Bay and Eastern Shore coastal communities creating distinctive NFIP flood insurance advisory needs, and the Johns Hopkins and academic medical center community creating LTC planning opportunities among professionals with above-average healthcare cost awareness. Maryland's one-time LTC tax credit — a nonrefundable state income tax credit for eligible LTC premiums, capped at $500 per insured — adds a state tax-planning wrinkle to LTC advisory that generic national training does not cover. All specialty training counts toward Maryland's 24-hour CE requirement.
 
 ## Annuity Training
 
-Maryland requires completion of an MIA-approved annuity training course before selling annuities.
+Maryland requires completion of an MIA-approved annuity training course before you sell, solicit, or negotiate annuities. Producers licensed on or after October 8, 2022 must complete a one-time 4-hour Annuity Best Interest certification course, reflecting Maryland's adoption of the NAIC best interest standard of conduct.
 
-Verify current required hours and any Best Interest standard requirements at insurance.maryland.gov — Maryland has been aligning with NAIC Best Interest standards and requirements may have been updated.
+An equivalent NAIC best interest annuity training course completed for another state generally reciprocates toward the Maryland requirement — confirm current hours and reciprocity at insurance.maryland.gov before you rely on it.
 
 Counts toward CE requirement.
 
@@ -54,25 +54,27 @@ T. Rowe Price and Legg Mason/Franklin Templeton professionals: Baltimore's inves
 
 ## LTC Training
 
-Before selling LTC in Maryland: Complete MIA-approved initial LTC training. 4-hour ongoing training required each renewal period.
+Before selling LTC in Maryland: Complete the MIA-approved 8-hour initial long-term care certification training. After that, a 4-hour ongoing LTC course is due every 24 months, measured from the date you finished the 8-hour initial training — not from your license expiration date, so the two clocks can drift apart. Confirm current initial and ongoing hour requirements at insurance.maryland.gov before you enroll.
 
-Maryland LTC Tax Credit — The Distinctive Maryland LTC Advantage:
+Maryland LTC Tax Credit — Know Its Limits Before You Raise It:
 
-Maryland provides a state income tax credit for qualifying LTC insurance premium payments. This is specifically in the MIA exam content outline (A&H state section: "LTC Tax Credits — 1 item") and is a uniquely Maryland advisory dimension:
+Maryland allows a nonrefundable credit against state income tax for eligible LTC insurance premiums under Md. Code, Tax-General § 10-718, claimed on Form 502CR, Part E. It appears in the MIA exam content outline (A&H state section: "LTC Tax Credits — 1 item"), and it is worth knowing precisely rather than pitching loosely:
 
-Clients who purchase qualifying LTC insurance may receive a Maryland state income tax credit on a portion of their LTC premiums
+It is a one-time credit, not a recurring annual benefit — it cannot be claimed for the same insured in any other tax year, or by any other taxpayer
 
-This creates a dual advisory conversation: LTC coverage AND state tax planning
+It is capped at the qualified premium paid per insured, up to $500 (the cap is lower for an insured age 40 or under — $480 for tax year 2025 — and Maryland resets that band annually)
 
-For high-income Maryland clients paying Maryland's combined 8%+ state + local income tax rates, an LTC tax credit has meaningful value
+It is unavailable if the insured carried LTC coverage at any time before July 1, 2000, or is not a Maryland resident
 
-Verify current credit amounts and qualifying policy requirements at the Maryland Comptroller's website
+Maryland is not alone here — Minnesota credits 25% of LTC premiums up to $100 per beneficiary, and New York credits 20% of qualifying premiums
+
+For a client paying $6,000 a year in LTC premiums, that is a single $500 offset at the point of sale — a useful conversation opener, not a planning centerpiece. Read the current year's Form 502CR instructions before you quote a number, and verify eligibility with the client's CPA.
 
 LTC counts toward CE.
 
 Maryland LTC Market:
 
-Federal employees and retirees: FLTCIP (Federal Long Term Care Insurance Program) has had coverage changes affecting many federal employees and retirees. Maryland's proximity to major federal agencies (NSA, NIH, FDA, SSA) creates a concentrated population of federal retirees considering LTC options. Federal retirees with FERS pension + TSP + Social Security as income base have the financial foundation to support LTC premiums.
+Federal employees and retirees: OPM suspended new FLTCIP (Federal Long Term Care Insurance Program) applications effective December 19, 2022, and extended that suspension on December 19, 2024 for another 24 months (through at least December 2026) — so new enrollments and benefit increases are currently closed, though existing enrollees keep their coverage as long as premiums are paid. Maryland's proximity to major federal agencies (NSA, NIH, FDA, SSA) creates a concentrated population of federal retirees considering LTC options. Federal retirees with FERS pension + TSP + Social Security as income base have the financial foundation to support LTC premiums.
 
 Johns Hopkins community: Johns Hopkins University and Johns Hopkins Medicine together employ over 50,000 people in the Baltimore area — physicians, researchers, nurses, administrators, and support staff. Medical professionals with acute awareness of healthcare costs are highly receptive to LTC advisory conversations.
 
@@ -82,9 +84,9 @@ Maryland LTC Partnership: Maryland has an LTC Partnership program that protects 
 
 ## NFIP Flood Insurance Certification
 
-Requirement: One-time 2-hour NFIP Flood Insurance course before selling NFIP policies.
+Requirement: 2 hours of MIA-approved NFIP flood insurance CE before selling NFIP policies (COMAR 31.03.02, effective October 1, 2023).
 
-Maryland's 2-hour requirement is the lowest among comparison states (NJ, VA, MN all require 3 hours). Counts toward CE.
+Watch the two versions of this rule. If you write both homeowners and flood, the 2 hours are a one-time requirement. If you write flood without the accompanying homeowners business, the 2 flood credits are due every renewal period. Either way the hours sit inside your 24-hour CE total rather than on top of it.
 
 Maryland flood context:
 
@@ -114,13 +116,13 @@ Chesapeake Bay impact on Maryland's insurance advisory: Maryland's MIA issued Bu
 
 Life/A&H producer — 24 hours needed:
 
-Annuity training ✓
+4-hr Annuity Best Interest certification ✓
 
-LTC initial training ✓
+8-hr LTC initial certification ✓
 
 3-hr Ethics ✓
 
-Remaining hours in Life/A&H content ✓
+9 remaining hours in Life/A&H content ✓
 
 Total: 24 hours ✓
 
@@ -136,14 +138,14 @@ Total: 24 hours ✓
 
 ## 5 Frequently Asked Questions
 
-- What is Maryland's LTC tax credit and how does it affect advisory? Maryland provides a state income tax credit for qualifying LTC insurance premium payments. This creates a dual LTC advisory conversation — both coverage benefits and state tax planning. For high-income Maryland clients paying 8%+ combined state and local income taxes, an LTC tax credit has meaningful annual value. Verify current credit amounts at the Maryland Comptroller's website; confirm with clients' CPAs on eligibility and documentation requirements.
-- Why is Maryland's NFIP flood training only 2 hours? MIA established a 2-hour NFIP requirement — shorter than NJ, Virginia, and MN which each require 3 hours. The 2-hour Maryland requirement still covers NFIP program structure, flood zone maps, SFIP coverage, and producer obligations — just in a more condensed format.
+- What is Maryland's LTC tax credit and how does it affect advisory? It is a nonrefundable state income tax credit for eligible LTC insurance premiums (Md. Code, Tax-General § 10-718), claimed on Form 502CR, Part E, and capped at the premium paid per insured up to $500 — less for an insured age 40 or under ($480 for tax year 2025). The limit producers most often get wrong is that it is a one-time credit: it cannot be claimed for the same insured in another tax year or by another taxpayer, and it is unavailable if the insured held LTC coverage before July 1, 2000 or is a nonresident. Present it accurately as a single point-of-sale offset rather than a recurring annual benefit. Read the current year's Form 502CR instructions for the exact caps, and confirm eligibility with the client's CPA.
+- How much NFIP flood training does Maryland require? Two hours of MIA-approved flood CE, established by COMAR 31.03.02 effective October 1, 2023. Producers who write both homeowners and flood satisfy it once; producers who write flood without the companion homeowners business owe the 2 credits each renewal period. Two hours still covers NFIP program structure, flood zone maps, SFIP coverage, and producer obligations — just in a condensed format — and the hours count inside your 24-hour CE requirement, not in addition to it.
 - What makes the Chesapeake Bay context distinctive for flood insurance advisory? The Chesapeake Bay is the most biologically productive estuary in the United States — surrounded by tidal waterways, rivefronts, and coastal communities with significant flood exposure. Tidal flooding affects communities from Annapolis to the Eastern Shore; storm surge from Atlantic storms affects Ocean City. Many Chesapeake Bay waterfront homeowners underestimate flood risk or assume standard homeowners policies cover flood. NFIP certification positions P&C producers to serve this large and genuinely underserved market.
-- How does the federal retiree community create specific LTC advisory demand in Maryland? Federal retirees (from NIH, NSA, FDA, and other Maryland-area agencies) have FERS pension + TSP + Social Security income base that supports LTC premium affordability. FLTCIP (Federal Long Term Care Insurance Program) coverage changes have left some federal retirees without previous coverage options. Maryland's LTC Partnership program protects assets from Medicaid spend-down — relevant for federal retirees with significant real property assets (homes in high-value Montgomery County, Frederick County, etc.).
+- How does the federal retiree community create specific LTC advisory demand in Maryland? Federal retirees (from NIH, NSA, FDA, and other Maryland-area agencies) have FERS pension + TSP + Social Security income base that supports LTC premium affordability. With new FLTCIP (Federal Long Term Care Insurance Program) applications suspended by OPM since December 19, 2022 (extended through at least December 2026), federal employees and retirees who are not already enrolled cannot currently obtain FLTCIP coverage — leaving private LTC insurance as the available path. Maryland's LTC Partnership program protects assets from Medicaid spend-down — relevant for federal retirees with significant real property assets (homes in high-value Montgomery County, Frederick County, etc.).
 - Do specialty training hours count toward Maryland's 24-hour CE requirement? Yes — all specialty training (Annuity, LTC, NFIP Flood) counts toward the 24-hour CE requirement in the cycle completed. Maryland's no-carryover rule means any hours beyond 24 in a cycle are lost — so specialty training that satisfies part of the 24-hour requirement is particularly efficient (opens doors to specialty markets without adding to the CE burden).
 
 ## Build Your Maryland Specialty Insurance Practice
 
-Maryland's annuity advisory demand from the federal professional community, LTC tax credit context, and Chesapeake Bay flood market create specialty opportunities available nowhere else on the East Coast. JustInsurance's MIA-approved Maryland CE includes all specialty training courses.
+Maryland's annuity advisory demand from the federal professional community, the state LTC tax credit, and the Chesapeake Bay flood market give Maryland producers three specialty tracks worth building a practice around. JustInsurance's MIA-approved Maryland CE catalog includes annuity training, LTC training, and NFIP flood.
 
 Enroll today and develop your Maryland specialty insurance expertise.

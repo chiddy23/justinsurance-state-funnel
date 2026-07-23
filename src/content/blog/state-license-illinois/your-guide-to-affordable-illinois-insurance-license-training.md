@@ -16,10 +16,7 @@ imageAlt: Two business professionals reviewing documents together.
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
-Master Description: Get affordable [Illinois insurance license](/illinois) training with friendly expert support to jumpstart your career
-
-  
-Understand licensing basics
+## Understand licensing basics
 
 If you’re preparing to enter the insurance industry in Illinois, you’ll need to complete Illinois insurance license training before you can represent clients. It’s a statewide requirement recognized by the [Illinois Department of Insurance](/illinois/requirements) to ensure you have the foundational knowledge to advise people effectively. The basic prerequisites usually include being at least 18 years old, completing a minimum number of [Illinois insurance prelicensing](/illinois/prelicensing) hours, and passing the official state licensing exam.
 
@@ -29,7 +26,7 @@ When you hold an Illinois insurance license, you can sell and negotiate insuranc
 
 Once you know you must fulfill a set number of [pre-licensing](/illinois/prelicensing) hours, you’ll want to pick a course format that suits your schedule and learning style. Many people choose online classes because they offer flexibility and often come with interactive tools. In-person sessions can be great if you value face-to-face instruction and immediate feedback from instructors. Whatever you prefer, confirm that your course provider is approved by the Illinois Department of Insurance so you’re always following the correct curriculum. Also plan for live instruction: Illinois requires 7.5 of the 20 prelicensing hours per line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119), with the remaining hours available as self-paced study.
 
-Costs can vary, but most reputable courses offer comprehensive materials and practice exams as part of a package. You can sometimes find combo deals that cover multiple lines of authority, which is helpful if you plan to sell both life and health or property and casualty. Keep in mind that your chosen path not only influences your study routine but also your confidence level once you face the licensing exam.
+Costs can vary, but most reputable courses offer comprehensive materials and practice exams as part of a package. If you plan to sell both life and health, a combined Life and Health package can lower your total cost compared with taking each line on its own. Keep in mind that your chosen path not only influences your study routine but also your confidence level once you face the licensing exam.
 
 ## Complete the required coursework
 

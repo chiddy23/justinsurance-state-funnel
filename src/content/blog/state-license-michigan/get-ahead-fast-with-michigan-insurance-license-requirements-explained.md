@@ -39,9 +39,9 @@ Keep in mind, if you have any prior legal or financial issues, the Michigan Depa
 
 ## Complete your pre-licensing education
 
-Once you confirm that you meet the basic eligibility requirements, your next step is to complete a state-approved [Michigan prelicensing course](/michigan/prelicensing). These courses typically cover relevant insurance laws, client confidentiality practices, ethics, and the fundamentals of property and casualty insurance. They may be offered online or in person, depending on your preference and scheduling needs.
+Once you confirm that you meet the basic eligibility requirements, your next step is to complete a state-approved Michigan property and casualty prelicensing course through a DIFS-approved provider. These courses typically cover relevant insurance laws, client confidentiality practices, ethics, and the fundamentals of property and casualty insurance. They may be offered online or in person, depending on your preference and scheduling needs.
 
-[Pre-licensing](/michigan/prelicensing) education has several benefits: • You gain a solid foundation of insurance terminology and concepts.  
+Pre-licensing education has several benefits: • You gain a solid foundation of insurance terminology and concepts.  
 • You become familiar with state-specific rules about coverage and underwriting.  
 • You learn critical communication skills to better guide your future clients.
 
@@ -89,6 +89,6 @@ Depending on your schedule and interests, you can select CE courses that align w
 
 Now that you know the roadmap to getting your Michigan property and casualty license, you are well on your way to launching a successful insurance career. Each part of the process — from pre-licensing education to applying for the license — equips you with the skills and credentials you need to confidently serve Michigan residents and businesses.
 
-If you are looking for more personalized guidance, JustInsurance can help you navigate the process with ease. They can assist you in selecting the right pre-licensing program, understanding exam registration steps, and finalizing your application. By getting the right support from the start, you can hit the ground running with confidence and a solid plan.
+If you are looking for more personalized guidance, JustInsurance can help you understand the property and casualty licensing path — from prelicensing requirements and exam registration steps to finalizing your application. And once you are licensed, JustInsurance's Michigan [property and casualty continuing education](/michigan/continuing-education) keeps your credential in good standing. By getting the right support from the start, you can hit the ground running with confidence and a solid plan.
 
 Remember, the effort you put into preparing for your property and casualty license will set a strong foundation for your future in the insurance industry. Your dedication and knowledge will help you stand out, bring peace of mind to your clients, and open the door to an impactful, rewarding career.

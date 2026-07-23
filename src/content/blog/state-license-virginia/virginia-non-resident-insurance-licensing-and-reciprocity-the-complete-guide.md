@@ -46,7 +46,7 @@ Your Social Security Number or FEIN
 
 No fingerprinting required for non-residents. Virginia does not require Fieldprint fingerprinting for non-resident applicants. This is a significant difference from the resident application process.
 
-No CHRR required for non-residents. Virginia does not require a separate Virginia State Police background check for non-resident applicants.
+No separate Virginia background check for non-residents. Virginia relies on the background check your home state already completed, so non-resident applicants do not undergo a separate Virginia criminal history check. (Even resident applicants have no standalone Criminal History Record Report to file — Virginia's check runs through the Fieldprint fingerprint submission itself, which is transmitted to the Virginia State Police and FBI.)
 
 Processing time: Applications are processed in the same 15-business-day window as resident applications.
 
@@ -54,7 +54,11 @@ Processing time: Applications are processed in the same 15-business-day window a
 
 Non-resident producers who hold a Virginia non-resident license are not required to complete Virginia CE. Virginia accepts CE compliance from the producer's home state as satisfying the Virginia [continuing education](/virginia/continuing-education) requirement. If you are CE-compliant in your resident state, you are CE-compliant in Virginia.
 
-Important exception for LTC: Non-resident producers who sell Long-Term Care Partnership products in Virginia must complete the initial 8-hour LTC training and the 2-hour Virginia LTC Partnership course before selling LTC Partnership policies in the state, regardless of their home state's LTC training completion. They must also complete the 4-hour ongoing LTC training every 24 months thereafter.
+Important exception for LTC Partnership products: Virginia's Partnership training rule applies to the person selling the policy, not to their state of residence. Under 14VAC5-200-205, no one may sell, solicit, or negotiate a Virginia Partnership long-term care policy without completing initial training of no less than eight hours, followed by ongoing training of no less than four hours every 24 months thereafter. All of that training must be approved as continuing education by the Virginia Insurance Continuing Education Board under Va. Code § 38.2-1867.
+
+The regulation itself prescribes required subject matter rather than an hour-by-hour syllabus — Medicaid and the Partnership program's relationship to other public and private long-term care coverage, available services and providers, alternatives to private LTC insurance, the effect of inflation and the importance of inflation protection, and suitability standards. The Continuing Education Board is where that becomes a course structure, and as the Board administers it the eight initial hours run six hours of general long-term care content plus two hours of Virginia-specific Partnership and Medicaid material, with the four-hour ongoing requirement split two and two.
+
+For a non-resident, the practical consequence is narrower than "retake everything." The Board credits general LTC continuing education completed for another state toward the non-Virginia portion, provided it is CE-approved and identified as long-term care CE. What it does not waive is the Virginia-specific piece: a non-resident who completed an eight-hour LTC course in their home state must still complete Virginia's two-hour Partnership and Medicaid module before writing Partnership business in the Commonwealth. Because approval status is what the Board actually checks, confirm with your CE provider — or with the Bureau of Insurance — that the course carries current Virginia CE Board approval before relying on hours logged elsewhere.
 
 ## Virginia Residents Obtaining Non-Resident Licenses
 
@@ -78,21 +82,19 @@ The most valuable multi-state combinations for Virginia producers depend on wher
 
 ## Transferring Your Resident License to Virginia
 
-If you are relocating to Virginia and hold a resident license in another state, Virginia allows you to transfer your resident license status within 90 days of canceling your previous resident license — without retaking the Prometric exam.
+If you are relocating to Virginia and hold a resident license in another state, Virginia allows you to transfer your resident license status within 90 days of inactivating your previous resident license — without retaking the Prometric exam and without being fingerprinted again in Virginia.
 
 The transfer process:
 
-Surrender your prior state's resident license
+Inactivate or surrender your prior state's resident license
 
 Within 90 days, apply to Virginia for a resident license in the same lines you held
 
 Pay the $15 per-line application fee
 
-Complete Fieldprint fingerprinting (FPVABOIProducer code) — required for new Virginia resident applicants regardless of transfer
+That is the entire list, and the omissions are the point. Because you are applying within 90 days of inactivating a home-state resident license, the Bureau of Insurance does not require you to sit the Prometric exam or complete Fieldprint fingerprinting in Virginia for the lines you already held — its guidance for agents moving to Virginia states that an applicant inside that window "will not be required to take the Exam(s) or get Fingerprinting done in Virginia for licenses held in your current home state." Your Virginia non-resident license, if you hold one, remains active during the 90-day period.
 
-Submit your CHRR
-
-If you miss the 90-day transfer window, you must satisfy all Virginia resident [prelicensing](/virginia/prelicensing) requirements from scratch — including passing the Prometric exam for each line.
+If you miss the 90-day transfer window, you must satisfy all Virginia resident [prelicensing](/virginia/prelicensing) requirements from scratch — including passing the Prometric exam for each line and completing Fieldprint fingerprinting under code FPVABOIProducer.
 
 Virginia's system verifies license status automatically through the NAIC Producer Database — no letter of certification from your prior state is required.
 
@@ -100,7 +102,7 @@ Virginia's system verifies license status automatically through the NAIC Produce
 
 Do I need to take the Virginia Prometric exam if I already hold a license in another state?
 
-No — if your home state has a reciprocal agreement with Virginia (which virtually all states do through the NAIC framework), Virginia waives the exam for non-resident applicants. You apply through NIPR or Sircon, pay $15 per line, and Virginia verifies your home state license status through the NAIC database. No exam, no fingerprinting, no CHRR. This is the non-resident licensing framework designed for producers who are licensed in one state and want to expand their authority to additional states. The only scenario where a non-resident might need to take the Virginia exam is if their home state does not have a reciprocal agreement with Virginia — an extremely rare situation given the near-universal NAIC participation.
+No — if your home state has a reciprocal agreement with Virginia (which virtually all states do through the NAIC framework), Virginia waives the exam for non-resident applicants. You apply through NIPR or Sircon, pay $15 per line, and Virginia verifies your home state license status through the NAIC database. No exam, no fingerprinting, no separate Virginia background check. This is the non-resident licensing framework designed for producers who are licensed in one state and want to expand their authority to additional states. The only scenario where a non-resident might need to take the Virginia exam is if their home state does not have a reciprocal agreement with Virginia — an extremely rare situation given the near-universal NAIC participation.
 
 Can I maintain my Virginia non-resident license if my home state license lapses?
 
@@ -108,7 +110,7 @@ No. Virginia's non-resident license is contingent on maintaining an active, good
 
 What happens to my Virginia non-resident license if I move to Virginia?
 
-When you establish Virginia residency and surrender your prior home state resident license, your Virginia non-resident license automatically becomes void — Virginia does not allow residents to hold the state's non-resident license. Within 90 days of surrendering your prior resident license, apply for a Virginia resident license in the same lines through NIPR or Sircon. You must complete Fieldprint fingerprinting and submit a CHRR as part of the resident application, but you do not need to retake the Prometric exam if you apply within the 90-day window. Miss the window and you must satisfy all resident requirements including the exam.
+When you establish Virginia residency you move from non-resident to resident authority — Virginia does not allow a resident to hold the state's non-resident license. Within 90 days of inactivating your prior home state resident license, apply for a Virginia resident license in the same lines through NIPR or Sircon. Inside that window Virginia waives both requirements that would otherwise apply: you do not retake the Prometric exam and you do not complete Virginia Fieldprint fingerprinting for the lines you already held. Your Virginia non-resident license stays active during the 90-day transition, so you are not left unlicensed mid-move. Miss the window and you must satisfy all resident requirements from scratch, including the exam and fingerprinting.
 
 How many states should a Virginia-based producer consider getting licensed in?
 

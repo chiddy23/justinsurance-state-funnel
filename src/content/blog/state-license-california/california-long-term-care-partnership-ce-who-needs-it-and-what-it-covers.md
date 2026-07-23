@@ -37,18 +37,25 @@ The distinction matters: Partnership policies require Partnership-trained agents
 
 ## The Required Training Structure
 
-California requires two distinct CE requirements for Partnership LTC:
+California requires two distinct trainings for Partnership LTC, and both are 8 hours — initially and on an ongoing basis.
 
-- Initial training:
+Initial training:
+
 - 8-hour initial California LTC training (required for all LTC sales, Partnership or not)
-- 8-hour initial California Partnership training (required specifically for Partnership sales)
+- 8-hour initial California Partnership training (required specifically for Partnership sales) — **classroom only**, see below
 
-Ongoing refresher training:
+Ongoing training:
 
-- 4-hour LTC refresher CE every 2 years (for ongoing LTC sales authority)
-- 4-hour Partnership refresher CE every 2 years (for ongoing Partnership sales authority)
+- General LTC: 8 hours of LTC training in each of the first four 12-month periods after your license is originally issued, and 8 hours before each license renewal after that
+- Partnership: repeat the 8 hours of classroom training on the Partnership **each two-year license approval period**
 
-Both initial trainings must be completed before your first Partnership sale. Refresher hours must be current at the time of each sale.
+Both initial trainings must be completed before your first Partnership sale, and your ongoing hours must be current at the time of each sale. There is no 4-hour version of either requirement in California — if a course catalog is selling you a "4-hour LTC refresher" as your California obligation, it does not satisfy the state.
+
+### The classroom-only rule nobody mentions until it's too late
+
+The 8 hours of Partnership training must be completed in a live classroom setting. Online self-study does not satisfy it, no matter how the course is labeled. Under 22 CCR § 58056 and the Department of Health Care Services' agent training rules, the Partnership hours are "classroom only CE," and only providers jointly approved by the California Department of Insurance and DHCS may deliver them. As of this writing, DHCS lists exactly two: **Sandi Kruise Insurance Training** and **Senior Insurance Training Services**.
+
+Check the current approved-provider list on the DHCS California Partnership for Long-Term Care agent training page before you register for anything. Buying an online Partnership course is the single most common way agents discover — after the fact — that they are not certified to market the product they have already been selling.
 
 ## What the Partnership Training Covers
 
@@ -76,14 +83,14 @@ CDI takes Partnership compliance seriously. Agents selling Partnership products 
 
 ## How Partnership CE Fits Into Your Total CE
 
-The Partnership training hours count toward your overall CE obligation, but they're specific:
+The LTC and Partnership hours count toward your overall CE obligation rather than sitting on top of it — Cal. Ins. Code § 10234.93 provides that the required LTC training hours "shall count toward the licensee's continuing education requirement," while noting you may still end up completing more than the minimum. Specifically:
 
 - Your initial 8-hour LTC training and 8-hour Partnership training count as CE hours
-- Your 4-hour refresher LTC and 4-hour refresher Partnership count toward your 24-hour biennial CE requirement
+- Your ongoing 8-hour LTC training and 8-hour Partnership classroom training count toward your 24-hour biennial CE requirement
 - You still need to satisfy the Ethics requirement separately
 - You still need to meet the full 24-hour total
 
-For active LTC and Partnership agents, this structure often covers most of the CE requirement in any given cycle, with only a few additional hours needed to round out the 24.
+For active LTC and Partnership agents, 16 hours of the 24 can come from these two requirements in a renewal period where both are due, leaving a much smaller gap to fill.
 
 ## What Happens If You Don't Complete Partnership CE
 
@@ -94,7 +101,7 @@ Selling Partnership products without proper training:
 - Exposes you to fines and license sanctions
 - Undermines the protection the client expected to have
 
-If you've let Partnership CE lapse, stop selling Partnership products immediately and complete the required refresher before resuming sales.
+If you've let Partnership CE lapse, stop selling Partnership products immediately and complete the required 8 classroom hours before resuming sales. Because the training is classroom-only, seats are scheduled rather than on-demand — build in lead time.
 
 ## 5 Frequently Asked Questions
 
@@ -102,14 +109,18 @@ If you've let Partnership CE lapse, stop selling Partnership products immediatel
 
 2. Can I take Partnership training before my initial LTC training? No. The general LTC training is a prerequisite. Partnership training builds on the foundation of general LTC knowledge.
 
-3. Does Partnership training expire if I don't renew it on schedule? Yes. Your authority to sell Partnership products depends on current refresher training. Let it lapse, and you lose Partnership sales authority until you complete refresher hours.
+3. Does Partnership training expire if I don't renew it on schedule? Yes. Your authority to sell Partnership products depends on repeating the 8 hours of classroom Partnership training each two-year license approval period. Let it lapse, and you lose Partnership sales authority until you complete those hours in a classroom — an online course will not restore it.
 
-4. Do Partnership training hours count toward my regular 24-hour CE requirement? Yes. Partnership refresher hours count toward your 24-hour biennial requirement, which is why many LTC-focused agents efficiently cover most of their CE through LTC and Partnership training.
+4. Do Partnership training hours count toward my regular 24-hour CE requirement? Yes. Cal. Ins. Code § 10234.93 provides that the required LTC training hours count toward the licensee's continuing education requirement, so the 8 Partnership hours and the 8 general LTC hours apply against your 24-hour biennial total. You may still need additional hours to reach 24, and the Ethics requirement is satisfied separately.
 
 5. Are there Partnership programs in other states? Yes. Several states operate Partnership programs, and California Partnership policies may provide asset protection in reciprocal Partnership states if the client relocates. The Partnership training covers these reciprocal relationships.
 
 ## Serve Long-Term Care Clients the Right Way
 
-Long-term care and Partnership coverage is a powerful tool for the right clients. At JustInsurance, our CDI-approved California LTC and Partnership training keeps you compliant and confident when selling these important products.
+Long-term care and Partnership coverage is a powerful tool for the right clients — and the compliance around it is unusually unforgiving.
 
-Enroll today and meet your Partnership CE requirements with ease.
+To be clear about what we do and don't provide: JustInsurance does not offer the California Partnership training. That requirement is classroom-only and can only be satisfied through a provider jointly approved by CDI and DHCS — currently Sandi Kruise Insurance Training or Senior Insurance Training Services. No online course from us or anyone else will meet it. Get your 8 Partnership hours from an approved classroom provider, and verify the current list with DHCS before you enroll.
+
+What we can help with is the rest of your California compliance — our CDI-approved online CE keeps your 24-hour biennial requirement and your 3-hour Ethics obligation current, so the only thing left on your calendar is the classroom Partnership day.
+
+Enroll today and keep your California license in good standing.

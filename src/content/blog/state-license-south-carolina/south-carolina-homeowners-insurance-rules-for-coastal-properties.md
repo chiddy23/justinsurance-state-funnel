@@ -36,7 +36,7 @@ Beaufort County (Hilton Head Island, Beaufort, Fripp Island, Harbor Island)
 
 Jasper County (along the Savannah River coastal area)
 
-The specific boundaries of "coastal" for insurance purposes are defined by SCWHA territory designations and individual carrier underwriting territories.
+The specific boundaries of "coastal" for insurance purposes are defined by SCWHUA territory designations and individual carrier underwriting territories. Don't read the county list above as a wind pool eligibility map — SCWHUA's eligible territory is narrower, covering specific designated coastal areas established under South Carolina's wind and hail statute rather than entire counties. Check a given address against current SCWHUA territory designations before assuming the property qualifies.
 
 ## Coverage Structure for Coastal Properties
 
@@ -44,7 +44,7 @@ Coastal homeowners insurance typically involves multiple components:
 
 Homeowners Policy (Standard HO-3 or similar). Covers the dwelling, other structures, personal property, liability, and additional living expenses. In coastal areas, typically excludes wind/hurricane and flood damage.
 
-Windstorm Coverage. Obtained separately through SCWHA or, where available, from private carriers. Covers damage from wind, hurricanes, and related perils.
+Windstorm Coverage. Obtained separately through SCWHUA or, where available, from private carriers. Covers damage from wind, hurricanes, and related perils.
 
 Flood Insurance. Separate NFIP or private flood policy covering flood damage, which homeowners policies universally exclude.
 
@@ -52,17 +52,17 @@ Dwelling Form Variations. For rental properties, second homes, or seasonal use, 
 
 This layered coverage structure catches many coastal property buyers off guard. Helping clients understand what they need — and don't need — is central to a coastal agent's role.
 
-## SCWHA Eligibility and Coverage
+## SCWHUA Eligibility and Coverage
 
-When private carriers won't provide wind coverage on a coastal property, SCWHA becomes the placement option:
+When private carriers won't provide wind coverage on a coastal property, SCWHUA becomes the placement option:
 
-Eligibility. Properties in designated SCWHA territories that cannot obtain wind coverage in the private market.
+Eligibility. Properties in designated SCWHUA territories that cannot obtain wind coverage in the private market.
 
-Coverage limits. SCWHA has maximum coverage limits that may be lower than the property's value. High-value coastal properties may need additional private excess coverage.
+Coverage limits. SCWHUA has maximum coverage limits that may be lower than the property's value. High-value coastal properties may need additional private excess coverage.
 
-Rating. Based on specific SCWHA rate structures reflecting territory, construction, mitigation features, and property characteristics.
+Rating. Based on specific SCWHUA rate structures reflecting territory, construction, mitigation features, and property characteristics.
 
-Exclusions. SCWHA excludes perils it doesn't cover (anything other than wind and hail), specific property types, and other defined exclusions.
+Exclusions. SCWHUA excludes perils it doesn't cover (anything other than wind and hail), specific property types, and other defined exclusions.
 
 Renewal. Annual renewal with specific underwriting review.
 
@@ -78,7 +78,7 @@ Reinsurance market dynamics
 
 Historical loss experience
 
-This creates a coverage gap that SCWHA fills — but agents must navigate this landscape to construct appropriate coverage for coastal clients.
+This creates a coverage gap that SCWHUA fills — but agents must navigate this landscape to construct appropriate coverage for coastal clients.
 
 ## Flood Coverage Requirements
 
@@ -160,7 +160,7 @@ Ignoring mitigation opportunities. Missing premium discounts for which clients q
 
 Pressure sales before storms. Trying to bind coverage during moratorium periods or overstating coverage in pre-storm panic.
 
-Inadequate disclosure. Not explaining hurricane deductibles, SCWHA limitations, or flood exclusions clearly.
+Inadequate disclosure. Not explaining hurricane deductibles, SCWHUA limitations, or flood exclusions clearly.
 
 ## Career Opportunity in Coastal Properties
 
@@ -178,7 +178,7 @@ Referral networks. Real estate professionals, mortgage brokers, property manager
 
 ## 5 Frequently Asked Questions
 
-- Does standard homeowners insurance cover hurricane damage in South Carolina? In coastal areas, standard homeowners policies typically exclude wind/hurricane damage. Separate wind coverage through SCWHA or private carriers is typically required.
+- Does standard homeowners insurance cover hurricane damage in South Carolina? In coastal areas, standard homeowners policies typically exclude wind/hurricane damage. Separate wind coverage through SCWHUA or private carriers is typically required.
 - Is flood insurance required for South Carolina coastal properties? Properties in Special Flood Hazard Areas (SFHAs) with federally-backed mortgages are generally required to maintain flood insurance. Flood insurance is also strongly recommended for many coastal properties outside formally designated flood zones.
 - What's the typical hurricane deductible on South Carolina coastal policies? Hurricane deductibles commonly range from 1% to 5% of dwelling coverage value, applied specifically to hurricane losses. The exact percentage depends on the carrier, property location, and coverage structure.
 - Can I buy insurance for a coastal property as a hurricane approaches? No. Insurance moratoriums typically prevent new coverage from being bound once a hurricane watch or warning is in effect. Flood insurance has a standard 30-day waiting period before coverage begins.

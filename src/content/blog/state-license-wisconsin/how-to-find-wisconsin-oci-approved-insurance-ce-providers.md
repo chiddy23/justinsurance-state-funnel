@@ -16,7 +16,7 @@ imageAlt: >-
   wisconsin oci-approved insurance ce providers.
 ---
 
-Wisconsin's CE system requires OCI-approved courses from OCI-approved providers. Completions are reported to OCI within one business day by providers, and a $1.00 per credit hour reporting fee is charged. The CE transcript is verifiable at oci.wi.gov. Wisconsin's no-duplicate-course rule and no-carryover policy require deliberate course planning across the 2-year renewal cycle. Here's how to find and work with OCI-approved Wisconsin CE providers efficiently.
+Wisconsin's CE system requires OCI-approved courses from OCI-approved providers. Providers bank your completed credits with OCI — the state gives them 10 days after course completion to do it — and a $1.00 per credit hour reporting fee applies. The CE transcript is verifiable at oci.wi.gov. Wisconsin's no-duplicate-course rule and no-carryover policy require deliberate course planning across the 2-year renewal cycle. Here's how to find and work with OCI-approved Wisconsin CE providers efficiently.
 
 ## Where to Find Approved Providers
 
@@ -34,7 +34,7 @@ Hours. Confirm exact hours per course.
 
 Wisconsin Medicaid content for LTC: Verify that LTC courses include the Wisconsin Medicaid-specific content (2 hours for initial; 1 hour for refresher) — not all LTC courses include this WI-specific component.
 
-Reporting. CE providers report to OCI within 1 business day. Verify completion in OCI transcript at oci.wi.gov.
+Reporting. OCI allows approved providers 10 days after completion to bank your credits. Verify completion in your OCI transcript at oci.wi.gov.
 
 $1.00/hr fee. Confirm whether your CE provider includes the OCI reporting fee in the course price or charges it separately.
 
@@ -52,7 +52,7 @@ NFIP Flood (one-time) ✓
 
 Remaining general CE to reach 24 hours ✓
 
-Annual renewal tracking: OCI renewal emails are sent to business email on file within 60 days of expiration. Ensure OCI has your current business email address — if the email is outdated, you may miss renewal reminders.
+Biennial renewal tracking: Wisconsin producer licenses renew every 2 years, on the last day of your birth month — there is no annual renewal event. OCI sends its renewal fee notice to the business email on file at least 60 days before the due date, so make sure OCI has your current business email address. If the address is outdated, you may miss the reminder entirely.
 
 ## The Renewal Submission Process
 
@@ -70,14 +70,16 @@ No grace period — submit before the last day of birth month.
 
 ## 5 Frequently Asked Questions
 
-- How do I verify my CE transcript in Wisconsin? Log into the OCI producer portal at oci.wi.gov using your license number and NIPR credentials. The CE transcript shows all completed courses reported by OCI-approved providers. If a course doesn't appear within 2 business days of completion, contact your CE provider to confirm they reported it and then contact OCI if the problem persists.
-- What is the Wisconsin-specific Medicaid content requirement for LTC courses? OCI requires that LTC training courses include specific coverage of Wisconsin Medicaid (BadgerCare Plus) and LTC — 2 hours in the initial 8-hour course and 1 hour in the 4-hour refresher. When selecting an LTC CE course, confirm with the provider that the Wisconsin Medicaid-specific content is included. Generic LTC courses approved in other states may not include this WI-specific component.
+- How do I verify my CE transcript in Wisconsin? Log into the OCI producer portal at oci.wi.gov using your license number and NIPR credentials. The CE transcript shows all completed courses reported by OCI-approved providers. Providers have 10 days to bank credits, so if a course still doesn't appear after that window, contact your CE provider to confirm they reported it and then contact OCI if the problem persists.
+- What is the Wisconsin-specific Medicaid content requirement for LTC courses? OCI requires LTC training to include Wisconsin-specific Medicaid and long-term care information — 2 hours within the initial 8-hour course, and 1 hour within the 4-hour refresher taken each renewal period. In the long-term care context, that means Wisconsin's Medicaid long-term care programs: Family Care, Family Care Partnership, IRIS, and institutional Medicaid, along with the Partnership policy asset-disregard rules that attach to them. It does not mean BadgerCare Plus, which is Wisconsin's Medicaid coverage for low-income families and adults, not the long-term care benefit — a distinction worth getting right before you advise a client on spend-down or asset protection. When selecting an LTC CE course, confirm with the provider that the Wisconsin-specific Medicaid content is included. Generic LTC courses approved in other states may not include this WI-specific component.
 - How does the no-duplicate-course rule affect CE planning? Wisconsin prohibits counting the same CE course twice within the same renewal period. Plan your CE course selection to include different courses each renewal period. Most CE providers have sufficient course catalogs that this is not a practical barrier — but if you rely on the same 1-2 courses every renewal cycle, you may need to expand your course selection.
-- What if a CE provider doesn't report to OCI within 1 business day? OCI's standard is that approved providers report within 1 business day. If your course completion doesn't appear in the OCI transcript within 3-5 business days, contact your CE provider first — most reporting delays originate with providers. If the provider confirms they reported and OCI still doesn't show it, contact OCI at [email protected] or 608-266-8699.
+- What if my completion never shows up in the OCI transcript? OCI gives approved education providers 10 days to bank credits after a course is completed, so let that window run before you worry. If the completion still isn't posted after 10 days, contact your CE provider first — most reporting delays originate with providers. If the provider confirms they reported it and OCI still doesn't show it, contact OCI Agent Licensing at ociagentlicensing@wisconsin.gov or 608-266-8699.
 - Can I complete Wisconsin CE through online self-paced courses? Yes — OCI approves both online self-paced and instructor-led CE courses. Many Wisconsin producers complete CE entirely online. Verify that the specific online course is OCI-approved for Wisconsin before enrolling.
 
 ## Complete Your Wisconsin CE With Confidence
 
-JustInsurance's OCI-approved Wisconsin CE courses cover Ethics, Annuity Best Interest, LTC (with Wisconsin Medicaid content), NFIP Flood, and all required content types with OCI reporting within 1 business day.
+JustInsurance offers a state-approved Wisconsin CE package covering all 24 hours, including the 3 required ethics hours, for $75 — and we typically report your completion to OCI the same day you finish. Individual à-la-carte courses are available if you only need to top off a few hours.
+
+If your renewal also calls for a separately mandated product training — LTC Partnership certification with its Wisconsin Medicaid component, annuity best-interest training, or NFIP flood training — source that specific course from a provider approved for it, and confirm the approval before you enroll.
 
 Enroll today and complete your Wisconsin CE efficiently.

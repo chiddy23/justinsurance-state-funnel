@@ -80,7 +80,7 @@ NIPR processing fees (paid to NIPR)
 
 ## NIPR Processing Fee
 
-NIPR adds a processing fee of approximately $5.60 to transactions. This covers NIPR's administrative costs for processing your application electronically and transmitting it to the ALDOI.
+NIPR adds a processing fee of approximately $5.00 to transactions. This covers NIPR's administrative costs for processing your application electronically and transmitting it to the ALDOI.
 
 ## Prelicense Preparation Costs
 
@@ -120,7 +120,7 @@ Renewal Fee: $70 per renewal cycle.
 
 CE Reporting Fee: $1.00 per credit hour for CE reporting to the ALDOI.
 
-NIPR Processing Fee: approximately $5.60 per transaction.
+NIPR Processing Fee: approximately $5.00 per transaction.
 
 [Continuing Education](/alabama/continuing-education) Costs:
 
@@ -216,7 +216,7 @@ Use ALDOI-approved providers. Approved providers ensure your hours count and cos
 - How much is the Alabama license renewal fee? $70 every 2 years, plus CE costs and $1.00 per credit hour for CE reporting.
 - Do I need to pay for prelicense education in Alabama? No. Prelicense education is no longer required as of January 1, 2024, so this cost is optional (though recommended).
 - What happens if I miss my renewal deadline? During the 30-day grace period, a $50 late fee applies on top of the renewal fee. After the grace period, reinstatement requires double the renewal fee. Beyond 1 year, you may need to reapply as a new applicant.
-- Are there any hidden fees I should know about? Watch for NIPR processing fees ($5.60), CE reporting fees ($1.00/hour), and potential fingerprinting retakes if you time it wrong. Most "hidden" fees are actually predictable if you know the system.
+- Are there any hidden fees I should know about? Watch for NIPR processing fees ($5.00), CE reporting fees ($1.00/hour), and potential fingerprinting retakes if you time it wrong. Most "hidden" fees are actually predictable if you know the system.
 
 ## Budget Smart for Your Alabama License
 

@@ -1,8 +1,8 @@
 ---
 title: Step-by-Step Plan to Get Your Texas Life and Health Insurance License
 description: >-
-  Texas life and health insurance license: education requirements, exam format,
-  background check process, application steps, and fees from licensed
+  Texas life and health insurance license: optional prelicensing education, exam
+  format, background check process, application steps, and fees from licensed
 keyword: texas life and health insurance license
 targetKeywords: texas insurance license cost
 cluster: texas-insurance-license
@@ -30,9 +30,11 @@ You’ll also need a Social Security number and a valid government-issued photo 
 
 ## Consider a pre-licensing course (optional)
 
-Unlike most states, Texas does not require you to complete [Texas pre-licensing education](/texas/prelicensing) before you can sit for the life and health insurance exam. Even so, many candidates opt for a structured course — usually around 40 hours of coursework covering topics like policy provisions, ethical conduct, state regulations, and insurance products — to give themselves a solid foundation before test day.
+Texas does not require you to complete [Texas pre-licensing education](/texas/prelicensing) before you can sit for the life and health insurance exam — here the coursework is optional, not mandatory. Even so, many candidates opt for a structured course — usually around 40 hours of coursework covering topics like policy provisions, ethical conduct, state regulations, and insurance products — to give themselves a solid foundation before test day.
 
-Pre-licensing courses are offered online or in-person, providing flexibility to fit your schedule. If you’re someone who wants a more hands-on approach, a classroom setting might be a good fit. On the other hand, online courses can be ideal if you’re balancing a full-time job or other commitments. In either case, make sure the course you select is approved by the TDI so you receive the official course completion certificate.
+Pre-licensing courses are offered online or in-person, providing flexibility to fit your schedule. If you’re someone who wants a more hands-on approach, a classroom setting might be a good fit. On the other hand, online courses can be ideal if you’re balancing a full-time job or other commitments.
+
+One point of confusion worth clearing up: because Texas doesn't require prelicensing education for life and health producer licenses, TDI doesn't approve those courses or issue an "official" completion certificate for them, and you won't be asked for one anywhere in the application. (TDI does certify prelicensing courses for *adjuster* licenses — a different credential.) That means you should choose a course on merit rather than on an approval stamp that doesn't exist for this license type: does it follow the current Pearson VUE content outline for General Lines – Life, Accident & Health, does it include realistic practice exams, and can you get help when a concept doesn't click?
 
 ## Schedule your Texas exam
 
@@ -69,9 +71,8 @@ This final stage can take a few weeks for processing and background checks. Once
 
 ## Keep key documents in order
 
-Throughout this process, you’ll collect course certificates, exam passes, and application forms. Organizing your records in one place makes it easier to provide any required follow-ups. While digital storage works well for many people, you might also keep hard copies in a dedicated folder at home. Here are some of the most important documents to file:
+Throughout this process, you’ll collect exam paperwork, application forms, and — if you took a course — whatever your provider issued you. Organizing your records in one place makes it easier to provide any required follow-ups. While digital storage works well for many people, you might also keep hard copies in a dedicated folder at home. Here are some of the most important documents to file:
 
--   Pre-licensing certificate of completion
 -   Exam entry confirmation and score report
 -   Application submission confirmation
 -   Payment receipts for exam and application fees

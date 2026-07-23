@@ -192,6 +192,42 @@ export default async function CEHubPage({
                   License lapses can result in reinstatement fees and additional requirements. Complete your CE at least 30 days before your renewal deadline. JustInsurance courses are self-paced online, so you can work through your required hours on your own schedule.
                 </p>
               </div>
+
+              {/* fid-228 (Utah Admin. Code R590-142; Utah Insurance Department
+                  CE page, verified 2026-07-21): Utah caps self-study at 12 of the
+                  24 hours — at least 12 must be classroom, webinar, or other
+                  classroom-equivalent courses. Disclosed here so the self-paced
+                  online framing does not imply all 24 hours can be self-study.
+                  Utah-only; every other state renders byte-identically. */}
+              {stateData.slug === "utah" && (
+                <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-4 mt-4">
+                  <p className="font-semibold text-navy text-sm mb-1">Utah classroom-equivalent requirement</p>
+                  <p className="text-gray-600 text-sm">
+                    Utah requires at least 12 of your 24 CE hours to be completed in classroom, webinar, or other classroom-equivalent courses; no more than 12 hours may be completed by self-study (Utah Admin. Code R590-142). Confirm your course formats cover this split before you renew.
+                  </p>
+                </div>
+              )}
+
+              {/* fid-215: this page's prose and FAQ disclose only the ethics
+                  component, while the à-la-carte catalog below invites agents to
+                  assemble their own hours. States that mandate additional
+                  specific CE subjects inside the same total (Oregon: 3 credit
+                  hours on Oregon statutes and administrative rules, distinct
+                  from the 3 ethics hours — OAR 836-071-0215) must surface that
+                  before an agent picks courses, or they can under-complete.
+                  Rendered from states.ts ce.mandatedTopicHours; undefined for
+                  other states, which render byte-identically. */}
+              {ce.mandatedTopicHours && (
+                <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-4 mt-4">
+                  <p className="font-semibold text-navy text-sm mb-1">
+                    {stateData.name} mandates specific CE subjects beyond ethics
+                  </p>
+                  <p className="text-gray-600 text-sm">
+                    {ce.mandatedTopicHours} Check these topic requirements against your
+                    course selections — especially if you are building your hours à la carte.
+                  </p>
+                </div>
+              )}
             </div>
 
             {/* Requirements Summary */}
@@ -242,10 +278,14 @@ export default async function CEHubPage({
           courseType="continuing-education"
           stateData={stateData}
         />
-        {/* COM-08 (audit 2026-07-14): refund microcopy at the point of sale. */}
-        <p className="max-w-4xl mx-auto px-4 pt-4 text-center text-xs text-gray-600">
-          <RefundDisclosure />
-        </p>
+        {/* COM-08 (audit 2026-07-14): refund microcopy at the point of sale.
+            Hidden for pending-approval states — there is no purchase to refund
+            while CE enrollment is gated. */}
+        {providerApproved && (
+          <p className="max-w-4xl mx-auto px-4 pt-4 text-center text-xs text-gray-600">
+            <RefundDisclosure />
+          </p>
+        )}
 
         {/* Individual-courses catalog tile — links to the à-la-carte
             INDIVIDUAL course category in Absorb (distinct from the PACKAGE

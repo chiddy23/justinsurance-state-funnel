@@ -48,7 +48,7 @@ The Virginia NFIP flood training is a one-time requirement — complete it once 
 
 ## How It Counts Toward CE
 
-The 3-hour flood training counts toward Virginia CE credit in the biennium in which it is completed. For a P&C-only producer with a 16-hour CE requirement, completing the 3-hour flood course satisfies nearly 20% of the biennial obligation while also satisfying the one-time flood training requirement. Because it is one-time only, the flood course does not generate ongoing CE credit in future biennia — in subsequent cycles, those 3 hours must be filled by other approved CE content.
+The 3-hour flood training counts toward Virginia CE credit in the biennium in which it is completed. For a P&C-only producer with a 16-hour CE requirement, completing the 3-hour flood course satisfies nearly 20% of the biennial obligation while also satisfying the one-time flood training requirement. Keep the two ideas separate: the *NFIP training mandate* is one-time, but the flood *course* is a standing CE option. Virginia's CE Board handbook lets an agent take the same course again in a future renewal cycle and receive credit, and Flood is an approved Virginia CE category that applies toward Property & Casualty — so you can count a flood course toward your CE hours in later biennia if you choose. What is prohibited is claiming credit for the same course twice within the same renewal period.
 
 ## The Private Flood Market Consideration
 
@@ -58,7 +58,7 @@ Private flood policies are P&C products sold under standard P&C producer authori
 
 ## Virginia's Flood Exposure Context
 
-Virginia has approximately 549 NFIP-participating municipalities — a high number reflecting the state's geographic diversity of flood risk. The coastal communities of Hampton Roads (Virginia Beach, Norfolk, Chesapeake, Portsmouth) face chronic tidal flooding and storm surge exposure. Richmond and communities along the James, Rappahannock, and Potomac rivers experience freshwater flood events. The Eastern Shore and Northern Neck are low-lying and flood-prone. Northern Virginia has significant development in FEMA-designated flood zones.
+Approximately 291 Virginia communities participate in the NFIP — counties, independent cities, and towns that have adopted and enforce floodplain management ordinances covering riverine, lake, and coastal development. That reach reflects the state's geographic diversity of flood risk. The coastal communities of Hampton Roads (Virginia Beach, Norfolk, Chesapeake, Portsmouth) face chronic tidal flooding and storm surge exposure. Richmond and communities along the James, Rappahannock, and Potomac rivers experience freshwater flood events. The Eastern Shore and Northern Neck are low-lying and flood-prone. Northern Virginia has significant development in FEMA-designated flood zones.
 
 After Hurricane Floyd (1999), Hurricane Isabel (2003), and repeated flooding events throughout the subsequent two decades, Virginia has a well-developed awareness of flood insurance in both its regulatory framework and its client population. Producers who understand the NFIP — and the expanding private flood market — have a distinct advantage in serving these communities.
 
@@ -70,7 +70,7 @@ The flood training requirement applies specifically to Property and Casualty and
 
 Is the NFIP flood training different from other CE courses in terms of how it is delivered or proctored?
 
-No. Virginia's NFIP flood training is a standard CE course — it can be delivered online, in a classroom, or via webinar, following the same CE format requirements as other courses. Online self-study flood courses require a proctored completion exam (supervised by a supervisor, co-worker, or disinterested third party). Classroom and webinar flood courses require attendance and participation for the full duration without a separate completion exam. The 3 hours count toward CE credit and are reported to the Virginia CE system through the course provider the same as any other approved CE course.
+No. Virginia's NFIP flood training is a standard CE course — it can be delivered online, in a classroom, or via webinar, following the same CE format requirements as other courses. If you take it online, no proctor is involved: the Virginia Insurance Continuing Education Board's handbook states that "Proctor Certification is not required for courses and examinations offered in an online format," and your completion date is simply the date and time you pass the final exam. Proctoring applies only to paper-and-pencil self-study exams, and even then the proctor must be a disinterested party over 18 — a supervisor, instructor, librarian, office manager, or similar — and cannot be a relative, friend, or acquaintance. Classroom and webinar flood courses require attendance and participation for the full duration without a separate completion exam. The 3 hours count toward CE credit and are reported to the Virginia CE system through the course provider the same as any other approved CE course.
 
 What happens if I sell an NFIP flood policy before completing the 3-hour training?
 

@@ -52,7 +52,7 @@ Life: CLU, Fellow of the Society of Actuaries Apply via paper application to MIA
 
 Maryland uses Prometric — same as Virginia; different from NJ and MN (PSI) and Colorado/Tennessee (Pearson VUE).
 
-Scheduling: prometric.com/exams/mia or (800) 610-1174 Remote: ProProctor — compatibility check at rpcandidate.prometric.com Exam fee: $60 per exam Passing: 70% Score validity: 6 months — apply within 6 months or exam expires Results: Screen display immediately + email report Retakes: Unlimited; 4-day wait; can resit failed part only (within 6 months)
+Scheduling: prometric.com/exams/mia or (800) 610-1174 Remote: ProProctor — compatibility check at rpcandidate.prometric.com Exam fee: $62 per exam Passing: 70% Score validity: 6 months — apply within 6 months or exam expires Results: Screen display immediately + email report Retakes: Unlimited; 4-day wait; can resit failed part only (within 6 months)
 
 MD Exam Specifications:
 
@@ -108,12 +108,12 @@ Appointments: Maryland does not require insurers to report appointments or termi
 
 - What changed about Maryland licensing in October 2024? Two major changes took effect October 1, 2024: (1) MIA Bulletin 24-19 eliminated the prelicensing education requirement — candidates now proceed directly to the Prometric exam without completing a mandated PLE course; and (2) Prometric implemented a new Candidate Management System requiring all candidates to create a new Prometric profile. Any existing exam history from before October 1, 2024 was not migrated to the new system.
 - Why does Maryland accept ITIN in addition to SSN? Maryland's ITIN acceptance reflects the state's large immigrant population in the Washington DC and Baltimore metro areas. Legal Maryland residents who are work-authorized but don't have a Social Security Number can use their Individual Taxpayer Identification Number for the licensing application. This makes Maryland more accessible than states that only accept SSN.
-- How does the combined P&C exam compare to separate Property and Casualty exams? Combined P&C (120 questions, 150 minutes, $60) covers both lines in one sitting for the same fee as one individual exam ($60). Candidates pursuing both P&C lines save $60 and one exam sitting by taking the combined exam. The combined exam's 75-second per-question pacing is slightly tighter than individual exams' ~79-second pace, but most candidates find it manageable.
+- How does the combined P&C exam compare to separate Property and Casualty exams? Combined P&C (120 questions, 150 minutes, $62) covers both lines in one sitting for the same fee as one individual exam ($62). Candidates pursuing both P&C lines save $62 and one exam sitting by taking the combined exam. The combined exam's 75-second per-question pacing is slightly tighter than individual exams' ~79-second pace, but most candidates find it manageable.
 - What is the $15 fraud prevention fee in MD renewal? Maryland's renewal fee includes a $15 fraud prevention fee on top of the $54 renewal fee ($69 total). This fee funds MIA's insurance fraud investigation and prevention activities. It also applies to the reinstatement process ($54 + $15 + $100 reinstatement). For late renewal within 1 year: total is $169 per license.
 - What makes Maryland's MIA distinctive from multi-sector regulators like VA's SCC or NJ's DOBI? Maryland's MIA is an insurance-only regulator with dedicated focus on insurance regulation. Virginia's SCC (insurance + utilities + securities + railroads), NJ's DOBI (banking + insurance), and Minnesota's DOC (insurance + securities + real estate + weights/measures) all have multi-sector mandates that create different regulatory priorities. Maryland's MIA concentrates exclusively on insurance — creating a regulator that is highly insurance-focused and deeply expert in the Maryland Insurance Article.
 
 ## Get Your Maryland License With Confidence
 
-JustInsurance's MIA-approved Maryland courses cover the full Prometric content outline with Maryland state law depth.
+JustInsurance's Maryland exam-prep courses cover the full Prometric content outline with Maryland state law depth.
 
 Enroll today and build your Maryland insurance career.

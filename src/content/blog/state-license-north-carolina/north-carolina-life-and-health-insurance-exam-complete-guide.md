@@ -56,19 +56,31 @@ You cannot register for a North Carolina exam without the authorization informat
 
 ## Where You'll Take the Exam
 
-Pearson VUE offers two testing options for North Carolina:
+North Carolina insurance exams are delivered at Pearson VUE test centers. Physical testing locations are spread throughout the state, with appointments typically available within 1-2 weeks of booking, and Pearson VUE also administers NC insurance exams at authorized test centers on military bases.
 
-Pearson VUE Testing Centers. Physical testing locations throughout North Carolina with appointments typically available within 1-2 weeks of booking.
-
-Online Proctored Testing. North Carolina permits online proctored testing through Pearson VUE, providing flexibility for candidates with compatible computers and quiet test environments.
+Plan on a test center. The current Pearson VUE North Carolina Insurance Licensing Candidate Handbook describes test-center delivery only — candidates "should report to the test center at least thirty (30) minutes before the examination begins," each candidate "will leave the test center with an official score report in hand," and walk-ins are not available. The Pearson VUE North Carolina Insurance program page likewise offers only "Find a test center." Unlike some states, NC insurance is not listed as an OnVUE online-proctored program, so do not build your plan around testing from home. If that changes, Pearson VUE's NC insurance page is where it will show up first.
 
 To cancel or change your appointment, contact Pearson VUE at least 48 hours in advance or you forfeit the exam fee.
 
 ## North Carolina's Distinctive Exam Structure
 
-North Carolina stands apart from most states in exam structure. Passing score is 70% (at least 39 of 55 scored questions).
+North Carolina stands apart from most states in exam structure.
 
-All major line exams: 55 questions, 1 hour 15 minutes.
+Passing score is a scaled score of 70 — not 70% of the questions. NCDOI and Pearson VUE convert your raw score onto a 0-100 scale, and the candidate handbook is explicit that the score reported to you "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Because the conversion accounts for how hard your particular exam form was, there is no fixed number of correct answers that guarantees a pass, and you should not study to a "39 out of 55" target. Numeric scores are only reported to candidates who fail; if you pass, you simply get a score report marked PASS.
+
+Exam length and time by line:
+
+Life Agent: 55 scored questions (plus up to 5 unscored pretest), 1 hour 15 minutes
+
+Accident and Health or Sickness Agent: 55 scored (plus up to 5 pretest), 1 hour 15 minutes
+
+Property Agent: 55 scored (plus up to 5 pretest), 1 hour 15 minutes
+
+Casualty Agent: 55 scored (plus up to 5 pretest), 1 hour 15 minutes
+
+Personal Lines Agent: 80 scored questions (plus up to 16 pretest), 1 hour 45 minutes
+
+The Personal Lines exam is the exception that trips people up — it is a longer test on a longer clock, so do not pace it like the four major-line exams.
 
 Critical North Carolina distinctions:
 
@@ -86,11 +98,17 @@ This per-line separate exam structure means multi-line candidates take multiple 
 
 Each North Carolina exam covers two content areas:
 
-General Knowledge. Insurance principles applicable in any state — roughly 75-85% of each exam.
+General Knowledge. Insurance principles applicable in any state.
 
-North Carolina Statutes and Regulations. North Carolina-specific insurance laws — roughly 15-25% of each exam, drawing from Chapter 58 of the North Carolina General Statutes (G.S. 58).
+North Carolina Statutes and Regulations. North Carolina-specific insurance laws, drawing from Chapter 58 of the North Carolina General Statutes (G.S. 58).
 
-You receive a single combined score for the entire exam.
+The published Pearson VUE content outlines give exact item counts rather than ranges. On both exams covered here, the NC statutes section is 14 of the 55 scored questions — a full quarter of the test, and more than most candidates expect:
+
+Life Agent: 41 general knowledge, 14 North Carolina statutes and regulations
+
+Accident and Health or Sickness Agent: 41 general knowledge, 14 North Carolina statutes and regulations
+
+The two parts are scored together, not separately. You receive a single combined result for the entire exam, and you must reach the overall passing standard — a strong general section will not rescue a weak NC section, or the reverse.
 
 ## Life Insurance Exam Content
 
@@ -322,7 +340,7 @@ If you fail: Score report includes numeric score and diagnostic information on g
 
 ## After Each Exam
 
-If you pass: Results electronically submitted to NIPR. Continue with fingerprinting and wait for license issuance (48-72 hours after all requirements met).
+If you pass: Results electronically submitted to NIPR. Continue with fingerprinting, then wait for license issuance — and budget real time for it. NCDOI tells applicants to "allow 60 days for submitted license applications," and you will receive an email when your license issues with instructions for a one-time free print. Passing the exam is a milestone, not the finish line.
 
 If you fail: You can retake the exam. Pay another $45 exam fee and reschedule. Retake policy allows rescheduling after reasonable waiting period.
 
@@ -355,8 +373,8 @@ Spacing exams: Most candidates benefit from at least 1-2 weeks between different
 ## 5 Frequently Asked Questions
 
 - Is there a combined Life and Health exam in North Carolina? No. North Carolina requires separate exams for each line — Life Insurance and Accident & Health or Sickness are distinct exams. Similarly, Property and Casualty are separate exams. Each costs $45.
-- How many questions are on each North Carolina insurance exam? 55 questions per major-line exam (Life, A&H, Property, Casualty, Personal Lines), with 1 hour 15 minutes to complete each.
-- What's the passing score on North Carolina insurance exams? 70% — at least 39 of 55 scored questions answered correctly.
+- How many questions are on each North Carolina insurance exam? The four major-line exams — Life, Accident and Health or Sickness, Property, and Casualty — are 55 scored questions each (plus up to 5 unscored pretest questions) with 1 hour 15 minutes to complete each. Personal Lines Agent is different: 80 scored questions plus up to 16 pretest questions, with 1 hour 45 minutes.
+- What's the passing score on North Carolina insurance exams? A scaled score of 70 on a 0-100 scale — not 70% of the questions and not a fixed count of correct answers. Pearson VUE converts raw scores to scaled scores, and the NC candidate handbook states the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Numeric scores are reported only to candidates who fail.
 - How many forms of ID do I need for the North Carolina exam? Two. A primary ID with photo and signature (driver's license, passport, military ID) and a secondary ID with signature. This two-ID requirement is distinctive to North Carolina.
 - Can I cancel my North Carolina exam appointment? Yes, but you must contact Pearson VUE at least 48 hours in advance or forfeit the $45 exam fee.
 

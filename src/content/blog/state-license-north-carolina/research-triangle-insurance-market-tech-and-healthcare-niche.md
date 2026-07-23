@@ -23,7 +23,7 @@ Here's what makes the Research Triangle insurance market distinctive and how new
 
 ## Why the Research Triangle Is a Powerful Insurance Market
 
-Scale and growth. The Raleigh-Durham-Chapel Hill metro area has approximately 1.5 million residents, growing rapidly and consistently ranking among the fastest-growing metros in the United States. This organic growth creates constant new client opportunity.
+Scale and growth. The combined Raleigh–Durham–Cary region — the Census Combined Statistical Area anchored by Raleigh, Durham, and Chapel Hill — has roughly 2.4 million residents (the Raleigh-Cary metro area alone is about 1.5 million), growing rapidly and consistently ranking among the fastest-growing regions in the United States. This organic growth creates constant new client opportunity.
 
 World-class universities. Three anchor institutions:
 
@@ -61,7 +61,7 @@ Cisco, IBM, Red Hat (now IBM), SAS Institute (Cary-based, major analytics compan
 
 Epic Games (Cary — major gaming company)
 
-Lenovo North America headquarters
+Lenovo North America headquarters (Morrisville)
 
 Growing startup ecosystem
 
@@ -77,7 +77,7 @@ Durham. Duke University and Duke Health concentration. Growing tech and creative
 
 Chapel Hill. UNC concentration. Compact, highly educated professional market.
 
-Cary. Large suburb with substantial corporate presence (SAS, Lenovo, Epic Games, etc.). Highly educated, high-income residents. One of NC's wealthiest communities.
+Cary. Large suburb with substantial corporate presence — SAS Institute and Epic Games are both headquartered here, and Lenovo's North America headquarters sits just across the line in neighboring Morrisville. Highly educated, high-income residents. One of NC's wealthiest communities.
 
 Apex, Morrisville, Wake Forest, Fuquay-Varina. Growing suburban communities with young professional and family markets.
 
@@ -251,7 +251,7 @@ These clients often have substantial financial sophistication and expect genuine
 
 ## Military-Adjacent Triangle Markets
 
-The Triangle's proximity to Fort Liberty (formerly Fort Bragg) in Fayetteville — about 90 minutes south — creates accessible military market opportunity for Triangle-based producers.
+The Triangle's proximity to Fort Bragg (known as Fort Liberty from 2023 until it was redesignated Fort Bragg in March 2025) in Fayetteville — about 90 minutes south — creates accessible military market opportunity for Triangle-based producers.
 
 Additionally, numerous veterans and former military members live in Triangle communities, many transitioning to technology, healthcare, or government careers.
 
@@ -273,7 +273,7 @@ Leverage growth dynamics. Research Triangle is growing rapidly. In-migration cre
 
 - What makes Research Triangle different from Charlotte as an insurance market? Charlotte is primarily a banking and financial services market. Research Triangle is dominated by pharmaceutical/biotech, technology, academic healthcare, and university markets. Both are strong but require different expertise, relationship approaches, and product knowledge.
 - What's Research Triangle Park (RTP)? RTP is a large research park between Raleigh, Durham, and Chapel Hill housing major pharmaceutical companies (GlaxoSmithKline, Biogen, Pfizer, Merck, Novo Nordisk, Syngenta, etc.) along with technology companies. It's one of the largest research parks in the world by tenant employment.
-- Is Cary part of the Research Triangle market? Yes. Cary — one of NC's wealthiest communities — sits at the southwest corner of the Triangle and is home to SAS Institute headquarters, Lenovo North America, Epic Games, and substantial tech professional residential populations. It's an important Triangle submarket.
+- Is Cary part of the Research Triangle market? Yes. Cary — one of NC's wealthiest communities — sits at the southwest corner of the Triangle and is home to SAS Institute headquarters and Epic Games, with Lenovo's North America headquarters just next door in Morrisville, alongside substantial tech professional residential populations. It's an important Triangle submarket.
 - What specialty training helps differentiate in the Research Triangle? Understanding pharmaceutical compensation (equity, bonuses, deferred compensation), Duke and UNC healthcare system benefit structures, technology company equity programs, and academic institution compensation models all differentiate Triangle producers from generalists.
 - How does Triangle growth affect market opportunity? Research Triangle is among the fastest-growing US metros. In-migration — particularly from Bay Area, NYC, and Seattle tech workers — constantly creates new high-income client opportunities. Agents don't compete solely for existing local market share; they benefit from continuous new arrivals.
 

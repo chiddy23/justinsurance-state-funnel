@@ -56,9 +56,9 @@ This process exists to protect consumers. When the existing insurer is notified,
 
 Florida explicitly prohibits practices that turn legitimate replacement into fraud or misrepresentation:
 
-Twisting. Misrepresenting facts about either the existing or the new policy to induce the client to replace. This is a serious violation under Florida unfair trade practices law.
+Twisting. Under Fla. Stat. §626.9541(1)(l), knowingly making misleading representations, incomplete or fraudulent comparisons, or fraudulent material omissions about a policy or an insurer in order to induce a client to lapse, surrender, borrow against, or convert existing coverage — or to take out a policy with another insurer. This is a serious violation under Florida's unfair trade practices law.
 
-Churning. Replacing the client's own policies repeatedly to generate commissions without genuine client benefit. Florida regulators track patterns of replacement and will act on suspected churning.
+Churning. This has a narrow statutory definition, and it is not the same thing as "replacing too often." Under Fla. Stat. §626.9541(1)(aa), churning is using the values inside a client's existing life policy or annuity — cash value, loan values, dividend values, or values in any rider — directly or indirectly to buy another policy or annuity **with that same insurer**, for the purpose of earning additional premiums, fees, commissions, or other compensation. It becomes an unfair trade practice when it is done without an objectively reasonable basis for believing the client gets an actual, demonstrable benefit, or without telling the applicant that the existing policy's values will be reduced, forfeited, or used up, or that the new policy will not be paid up and further premiums will be due. A single transaction can be churning. Moving a client to a *different* insurer through misleading comparisons is twisting under §626.9541(1)(l), not churning.
 
 Failure to disclose. Skipping required notices, omitting replacement forms, or failing to document the transaction properly.
 
@@ -94,7 +94,7 @@ The test is always whether the replacement serves the client's interests — not
 
 4. How long must I keep replacement paperwork? Retention requirements vary but are typically several years. Follow insurer guidelines and keep complete documentation indefinitely in your own records for compliance protection.
 
-5. Can the same policy be replaced more than once? Legally, yes — but repeated replacements of the same client's policies raise churning concerns immediately. Each replacement must independently serve the client's interests.
+5. Can the same policy be replaced more than once? Legally, yes — but each replacement must independently serve the client's interests, and a pattern of repeat replacements is exactly what draws regulator and carrier scrutiny. Note that frequency alone isn't what makes a transaction churning under §626.9541(1)(aa) — funding a new contract with the *same* insurer out of the old contract's values, without a demonstrable client benefit or the required disclosures, is what the statute targets, and one transaction is enough.
 
 ## Get Replacement Compliance Right Every Time
 

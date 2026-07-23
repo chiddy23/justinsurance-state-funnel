@@ -1,8 +1,9 @@
 ---
-title: Step-by-Step Guide to Your Colorado Insurance Adjuster License
+title: 'Colorado Insurance Adjuster License: What Colorado Actually Requires'
 description: >-
-  Colorado insurance adjuster license explained: prelicensing hours, exam fees,
-  application steps, and what to expect. Updated 2026 guidance from licensed
+  Colorado does not license staff, independent, or catastrophe adjusters. What
+  the state actually requires, who needs a public adjuster license, and how
+  Colorado residents get licensed instead.
 keyword: colorado insurance adjuster license
 targetKeywords: colorado insurance adjuster license
 cluster: state-license-colorado
@@ -18,72 +19,81 @@ imageAlt: >-
 imageCredit: Photo by Antoni Shkraba Studio on Pexels
 ---
 
-If you’re preparing to launch a new career in insurance, securing your [Colorado insurance adjuster license](/colorado) is a major milestone. Becoming an adjuster opens the door to interesting work that involves investigating, negotiating, and settling claims on behalf of policyholders and insurance companies alike. The process may seem a bit intimidating at first, but once you break it down into clear steps, you’ll find it’s entirely achievable—even if you’re brand-new to the industry. Below, you’ll discover the main requirements you need to meet, how to complete your [pre-licensing](/colorado/prelicensing) education, and how to pass your exam successfully.
+If you searched for a "Colorado insurance adjuster license," the honest answer is going to save you time and money: **for most adjusting work, Colorado doesn't issue one.** Colorado is a non-licensing state for staff, independent, and catastrophe adjusters. There is no Colorado prelicensing course for that role, no Colorado adjuster exam, and no Colorado Division of Insurance adjuster license application to submit.
 
-## Understand the adjuster role
+That surprises a lot of people, because plenty of course sellers advertise "Colorado adjuster licensing" packages as though the state required one. It doesn't. The Division's list of producer lines of authority includes exactly two adjuster-related credentials — **public adjuster** and **crop hail** — and neither one is the license an IA firm means when it asks whether you're licensed. If your goal is to work property claims for carriers or independent adjusting firms, the credential you actually need comes from a different state entirely.
 
-Before you dive into coursework and licensing fees, it’s crucial to know what an adjuster actually does. As an insurance adjuster, you’ll evaluate accidents, property damage, or policyholder claims and determine how much coverage applies. You might work on behalf of an insurance carrier, an independent adjusting firm, or you may even go the freelance route once you’ve gained enough experience. Regardless of the path you choose, your primary goal is to ensure fair and accurate claim settlements.
+Below is what's real, so you can pick the right path instead of paying for a license that doesn't exist.
 
-Most adjusters handle either property or casualty claims—though in some roles, you might handle both. Property claims usually focus on home or commercial building claims. Casualty claims can involve auto collisions, liability assessments, or personal injury. In Colorado specifically, adjusters often deal with claims involving weather-related damage or other natural events that affect property.
+## First, understand which kind of adjuster you mean
 
-Being successful in this profession often requires strong communication skills, attention to detail, and a knack for negotiation. Many adjusters also enjoy working with a variety of people and the opportunity to learn something new each day. If that sounds like you, then getting your license is a natural next step.
+The word "adjuster" covers three roles that regulators treat very differently:
 
-## Verify your eligibility
+-   **Staff (company) adjusters** work directly for an insurance carrier and handle that carrier's claims.
+-   **Independent adjusters** are contracted by carriers — often through an independent adjusting firm — and work claims on the carrier's behalf. Catastrophe ("cat") adjusters are independent adjusters deployed after hurricanes, hail events, and wildfires.
+-   **Public adjusters** work for the *policyholder*, not the insurer. They are hired by the property owner to document and negotiate a claim against the insurance company.
 
-Colorado has a few specific requirements you must meet before you can move forward. First and foremost, you need to be at least 18 years old, and you must be a resident of Colorado or comply with Colorado’s non-resident requirements. Additionally, you’ll undergo a background check to ensure that you meet the standards set by the state’s Department of Insurance.
+Colorado draws a hard line between the first two categories and the third. Staff, independent, and catastrophe adjusters are not licensed by the state. Public adjusters are — because they're representing consumers directly in a transaction where the consumer is paying them a cut of the settlement.
 
-For many people, the background check is a routine process. However, if you have concerns about past convictions or regulatory issues, you’ll want to provide any requested documentation to clarify your situation. It’s best to be upfront about any irregularities so you can move through the licensing steps as smoothly as possible.
+Colorado does see plenty of adjusting work regardless of the licensing rules. Hail, wind, and wildfire losses are a familiar feature of the state's property claims landscape, and cat adjusters travel into Colorado after major storm events.
 
-## Complete pre-licensing education
+## The adjuster license Colorado does issue: public adjuster
 
-Once you confirm your eligibility, it’s time to enroll in a state-approved [Colorado insurance prelicensing](/colorado/prelicensing) program. This training gives you a solid foundation in Colorado laws, ethics, and insurance principles—especially as they apply to the adjuster role. Depending on the type of lines you wish to adjust (property, casualty, or both), your required coursework can vary.
+Colorado's public adjuster license is created by [C.R.S. § 10-2-417](https://law.justia.com/codes/colorado/title-10/licenses/article-2/part-4/section-10-2-417/), which provides that a person may not act or hold themselves out as a public adjuster in Colorado unless licensed as one. The statute also imposes a financial-responsibility requirement that has no equivalent on the producer side: before the license is issued, and for as long as it's held, the applicant must maintain a **surety bond of at least $20,000** in favor of the state, from which the Commissioner can recover on behalf of Colorado consumers harmed by the adjuster's conduct.
 
-Pre-licensing courses can cover:
+The broad strokes of the process:
 
--   Basic insurance terminology and concepts
--   Colorado-specific regulations and standards
--   Claims adjusting principles for property and casualty lines
--   Ethical practices and professional responsibilities
+-   **Pass the Public Insurance Adjuster examination** with Pearson VUE, the vendor the Division has retained to administer all Colorado insurance licensing exams. It is a limited-line exam with a 1 hour 15 minute time limit.
+-   **Secure the $20,000 surety bond,** along with a Power of Attorney in the format the regulation prescribes. Both are attached electronically in Sircon after you submit your application — mailing them, or omitting them, delays processing.
+-   **Apply** through Sircon or NIPR.
+-   **Renew every two years,** with **24 credits of continuing education** per continuation cycle. Colorado's CE rule expressly covers public adjusters alongside the major producer lines, and the obligation begins with your second cycle — first-cycle licensees are exempt.
 
-In many cases, you’ll be able to take these classes online, in person, or in a blended format, depending on your schedule and learning style. Typically, the pre-licensing hours for an adjuster are designed to ensure you have a thorough understanding of the topics you’ll face on the state exam. Be sure to choose a reputable provider with up-to-date materials and interactive study methods—both factors can significantly boost your confidence heading into the test.
+One practical note on preparation: Colorado requires prelicensing training for Life, Accident & Health, Property, Casualty, and Personal Lines — the public adjuster line is **not** on that list. You need to pass the exam, but the state does not mandate a set number of course hours first. Confirm your own situation with the [Colorado Division of Insurance](https://doi.colorado.gov/) before you buy any package that claims otherwise.
 
-## Sign up for the exam
+One thing to be clear-eyed about: a public adjuster license does **not** qualify you to work claims for a carrier or an IA firm. It's the opposite side of the table.
 
-After completing your coursework, you’re ready to schedule your licensing exam. Most exam providers offer testing locations around Colorado, and many also permit online proctored exams if you’d prefer to test from home. When you register, you’ll receive an outline of the exam topics. Focus your final study sessions on areas you found challenging during your course, and consider using practice exams to gauge your readiness.
+## If you want to adjust claims for carriers: get a Designated Home State license
 
-On exam day, arrive early (or log in early for a virtual test) so you can address any last-minute details without stress. Bring the necessary identification and exam registration documents. The test is generally multiple choice, with questions covering everything from the claims process to state regulations. As you work through each question, read carefully, and watch for specific keywords that can guide you toward the right answer.
+Here's the part the "Colorado adjuster license" course pages usually leave out. Carriers and independent adjusting firms commonly require their adjusters to hold a license — even though Colorado itself doesn't demand one — because those firms deploy adjusters into states that *do* license, and non-resident reciprocity runs off your home-state license.
 
-If you don’t pass on your first attempt, don’t get discouraged—you’re allowed to retake the exam after a brief waiting period. Take advantage of this time to revisit your study materials and refine your test-taking strategies.
+Residents of non-licensing states solve this with a **Designated Home State (DHS)** license. You designate a licensing state as your home state for adjuster purposes and meet that state's requirements. In practice, Colorado residents most commonly designate **Florida** or **Texas**, both because those licenses are widely reciprocal and because they're the ones IA firms tend to ask for by name.
 
-## Apply for your license
+If that's your goal, your steps look like this:
 
-Once you pass the exam, you’ll submit your official application to the Colorado Department of Insurance. This step typically involves paying a licensing fee and providing proof of your exam results. At some point, you’ll also complete the background check process via self-disclosure on your application if you haven’t already — Colorado does not require fingerprinting. Once the state processes your information, you can expect to receive your Colorado insurance adjuster license in electronic form.
+1.  Confirm with the firm you want to work for which DHS license they expect.
+2.  Meet that state's adjuster requirements — its prelicensing or designation course, its exam, and its application, filed with *that* state's department of insurance.
+3.  Add non-resident adjuster licenses in other states through reciprocity as your deployment footprint grows.
 
-Remember to keep your contact information updated with the Department of Insurance. If you move, change your name, or switch jobs, you should notify them promptly. Staying on top of basic administrative details helps you avoid potential fines or delays in renewing your license down the road.
+Note what is *not* on that list: any filing with the Colorado Division of Insurance. If a course provider tells you Colorado requires prelicensing hours and a state exam before you can adjust claims, that's a sales pitch, not a regulation.
 
-## Maintain and renew your license
+## If your goal is an insurance career in Colorado, look at the producer license
 
-Like most professional credentials, your license comes with renewal requirements and [continuing education](/colorado/continuing-education) (CE). Colorado will require you to complete a certain number of [Colorado continuing education](/colorado/continuing-education) hours within each renewal period. This ensures your knowledge remains current, especially as insurance regulations and best practices evolve.
+A lot of people arrive at adjusting because they want into the insurance industry, not because they specifically want to inspect roofs. If that's you, the credential Colorado actually issues to residents — and the one with the clearest in-state career path — is the **insurance producer license**.
 
-When choosing CE courses, look for subjects that help you grow professionally. For example, you might select advanced claims investigation or negotiation tactics to sharpen your expertise. Maintaining an active license also ensures you’re not limited in the types of claims you can handle or the clients you can serve. Think of renewing your license as an opportunity to refine your skill set rather than just another obligation.
+Unlike the adjuster situation, this one is straightforward and entirely in-state:
 
-## FAQs about the Colorado insurance adjuster license
+-   **Prelicensing education is required.** Colorado mandates **50 hours per line of authority** for Life, Accident & Health, Property, Casualty, and Personal Lines. A [Colorado prelicensing](/colorado/prelicensing) course satisfies it, and your completion certificate is good for 12 months — you must pass the exam inside that window or retrain.
+-   **Pass the state exam** through Pearson VUE. Colorado reports a scaled score on a 0–100 scale, so the passing standard is a scaled score of 70 — which, per Pearson VUE, is neither the number nor the percentage of questions you answered correctly, not a raw 70% of the exam.
+-   **Apply through NIPR.** Colorado handles the background check by self-disclosure on the application — **no fingerprinting is required.**
+-   **Renew every two years** with **24 credits of [continuing education](/colorado/continuing-education)** — 18 in a line you hold, 3 in ethics, and 3 in a category of your choice. Your first cycle is exempt.
 
-Here are five common questions people ask when pursuing an adjuster license in Colorado:
+Most candidates go from enrollment to an active Colorado producer license in roughly two to four weeks, with the Division typically processing a clean application in a few business days.
 
-1.  How long does it take to complete pre-licensing education?  
-    It varies based on the provider, but many courses can be finished in a few weeks if you study consistently. Self-paced online classes offer flexibility if you have a busy schedule.
-2.  Can I hold both property and casualty lines at the same time?  
-    Yes. If you plan to adjust various types of claims, you can pursue multiple lines. Just be mindful that each line might require its own focused coursework or exam content.
-3.  What happens if I fail my exam the first time?  
-    You can retake the exam after a short waiting period. Use this time to refocus your studies, take additional practice tests, and strengthen any areas of weakness.
-4.  Is a background check always required?  
-    Yes. To ensure consumer protection, the Department of Insurance will review your criminal and financial history. Be straightforward about any past issues and provide documentation if asked.
-5.  Can I transfer an adjuster license from another state?  
-    Colorado may allow for reciprocity with certain states. Check with the Department of Insurance to see if your current credentials meet their requirements.
+## FAQs about adjuster licensing in Colorado
+
+1.  Do I need a license to work as a claims adjuster in Colorado?  
+    No. Colorado does not license staff, independent, or catastrophe adjusters. Your employer or the IA firm you contract with may still require a license from a licensing state, but that's a business requirement, not a Colorado one.
+2.  Is there a Colorado adjuster prelicensing course and state exam?  
+    Not for staff, independent, or catastrophe adjusters — those don't exist because the license doesn't exist. Colorado does administer two adjuster-related limited-line exams through Pearson VUE: Public Insurance Adjuster and Crop Hail Adjuster. Neither carries a state-mandated prelicensing hour requirement; the mandated 50 hours per line apply to Life, Accident & Health, Property, Casualty, and Personal Lines.
+3.  Which state should I use for a Designated Home State license?  
+    Florida and Texas are the two most common choices for residents of non-licensing states, largely because of how widely they're recognized. Ask the firm you want to work for before you pay for anything — some have a strong preference.
+4.  What's the difference between a public adjuster and an independent adjuster?  
+    A public adjuster is hired by the policyholder to press a claim against the insurer. An independent adjuster is retained by the insurer to handle the claim on its behalf. Colorado licenses the first and not the second.
+5.  Can I transfer an adjuster license from another state to Colorado?  
+    There's nothing to transfer for the staff/independent/cat categories, since Colorado issues no such license. For public adjusters, non-resident licensing is available through NIPR; check current reciprocity terms with the Division of Insurance.
 
 ## Your next steps with JustInsurance
 
-Now that you have a clear roadmap for earning your Colorado insurance adjuster license, the final step is turning your knowledge into action. Whether you’re looking to join an established agency or strike out on your own, the right support can make all the difference. That’s where JustInsurance comes in. We offer resources, tools, and mentorship opportunities to help you sharpen your adjusting skills and find the professional community you need to flourish.
+The most useful thing you can do right now is match the credential to the work you actually want. If you're headed for carrier or IA-firm claims work, your money belongs in a Designated Home State license from Florida or Texas — not in a Colorado adjuster package. If you want to represent policyholders, the Colorado public adjuster license is the real credential, bond and all. And if what you really want is to build an insurance practice in Colorado, the producer license is the front door.
 
-Take that first step today by exploring your pre-licensing course options, preparing diligently for the exam, and assembling all the documentation you’ll need for your application. With each milestone you complete, you’re one step closer to working as a licensed insurance adjuster in Colorado—ready to serve your community by evaluating and settling claims fairly. When you’re all set, reach out to JustInsurance to see how our services can further elevate your career. We look forward to being part of your journey.
+That last path is the one we can take you all the way through. JustInsurance offers Colorado-approved [prelicensing courses](/colorado/prelicensing), practice exams, and [continuing education](/colorado/continuing-education) for resident producers, plus the support to keep your license in good standing once you have it. Start where the license is real, and build from there.

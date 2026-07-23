@@ -16,7 +16,7 @@ imageAlt: >-
   modern office.
 ---
 
-Before you invest time and money into becoming a Georgia insurance agent, confirm that you meet the state's licensing requirements. Georgia's Office of Commissioner of Insurance (OCI) has specific standards around age, education, and background that every applicant must satisfy.
+Before you invest time and money into becoming a Georgia insurance agent, confirm that you meet the state's licensing requirements. Georgia's Office of Commissioner of Insurance and Safety Fire (OCI) has specific standards around age, education, and background that every applicant must satisfy.
 
 Here's exactly what Georgia requires — and what can cause application issues.
 
@@ -54,7 +54,7 @@ Prelicense education must be completed through an OCI-approved provider, and you
 
 ## Background Check Requirements
 
-Every Georgia insurance license applicant must complete a criminal background check as part of the application process. This is done through electronic fingerprinting with an OCI-approved provider (typically IdentoGO).
+Every Georgia insurance license applicant must complete a criminal background check as part of the application process. This is done through electronic fingerprinting scheduled with the GBI's approved vendor, IdentoGO, using OCI service code 2TGJ6B.
 
 Your fingerprints are submitted to both:
 
@@ -122,7 +122,7 @@ Provide documentation where relevant. Court records, certificates of rehabilitat
 
 If you're worried about a past issue, you have options:
 
-Pre-application determination. Georgia generally allows applicants to request guidance before investing in the licensing process. Contact OCI directly with details of your concern and ask for informal guidance on how it might be viewed.
+Know that there's no advance ruling. Georgia does not offer a pre-application determination for criminal history — OCI evaluates eligibility only when it reviews a filed application, so there is no way to get a binding answer before you apply. OCI's licensing staff can answer general procedural questions at (404) 656-2070, but treat anything you're told as informal and non-binding.
 
 Legal counsel. For complex situations, consulting with an attorney experienced in Georgia administrative law can clarify your options.
 
@@ -132,9 +132,9 @@ Full disclosure with documentation. Sometimes the best approach is simply to app
 
 Truthful application. Misrepresentations on your application are themselves a basis for denial — separate from any underlying issue you might have disclosed.
 
-Fingerprint payment. You'll pay the fingerprinting fee directly to the provider (typically $50–$75), separate from the application fee paid to OCI.
+Fingerprint payment. You'll pay the fingerprinting fee directly to the provider — about $52 for the combined Georgia and FBI background check — separate from the application fee paid to OCI.
 
-Application fee. The resident license application fee is approximately $100, paid through NIPR or Sircon at application submission.
+Application fee. The resident individual producer license application fee is $120. Georgia residents apply through Sircon.com/georgia, OCI's licensing system of record.
 
 Exam registration fee. Pearson VUE charges approximately $67 per exam attempt. This is separate from application and fingerprint fees.
 
@@ -142,7 +142,7 @@ Exam registration fee. Pearson VUE charges approximately $67 per exam attempt. T
 
 1. Do I need a high school diploma to get a Georgia insurance license? No. Georgia doesn't require a specific education level. You need to complete the 16-hour prelicense course and pass the exam, but no prior educational credential is required.
 
-2. How long does the background check take? Electronic fingerprint results typically reach OCI within a few days of your appointment. Overall application review including background check takes 1–3 weeks for straightforward applications.
+2. How long does the background check take? Electronic fingerprint results typically reach OCI within a few days of your appointment. Overall application review, including the background check, runs about 14 business days for straightforward applications.
 
 3. Does a DUI from years ago disqualify me from getting a Georgia license? Usually not, especially if it's an isolated older offense. OCI evaluates context — the nature of the offense, time elapsed, rehabilitation, and relevance to insurance work.
 

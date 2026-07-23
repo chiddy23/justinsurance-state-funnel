@@ -35,11 +35,13 @@ MultiCare Health System (Deaconess Hospital and Valley Hospital in Spokane)
 
 Shriners Hospitals (Spokane children's hospital)
 
-VA Eastern Washington Healthcare System (Wausau) Growing healthcare sector across the region as population ages and in-migration continues.
+Mann-Grandstaff VA Medical Center (Spokane) — the VA Spokane health care system, serving more than 30,000 veterans annually across central and eastern Washington, northern Idaho, and northwestern Montana
+
+Growing healthcare sector across the region as population ages and in-migration continues.
 
 Higher Education:
 
-Washington State University (WSU) — Pullman (20 miles from Spokane); major research university with 21,000+ students; substantial faculty and staff market
+Washington State University (WSU) — Pullman (about 75 miles south of Spokane, roughly a 90-minute drive via US-195); major research university with more than 16,000 students on the Pullman campus; substantial faculty and staff market
 
 Gonzaga University — Spokane; private Jesuit university; faculty and staff market
 
@@ -310,11 +312,11 @@ Washington's no state income tax applies equally in Spokane as in Seattle — ea
 - Is Spokane a viable market for a full insurance career? Yes. Spokane's healthcare dominance, Fairchild AFB military community, WSU and Gonzaga academic markets, growing professional services, and proximity to Idaho create genuine specialty market depth. Lower competition than Seattle and a more accessible community culture reward relationship-focused producers.
 - Why should a Spokane-area producer get Idaho licensed? Coeur d'Alene and northern Idaho are 30 miles from downtown Spokane — effectively the same metro market. Idaho licensing allows Spokane producers to serve the full Spokane/Coeur d'Alene/Post Falls market, dramatically expanding the addressable client base.
 - What's the agricultural insurance opportunity in eastern Washington? Eastern Washington produces 60% of US apples, significant wine grapes, wheat, hops, and potatoes. Agricultural producers need commercial property, liability, crop insurance, and farm equipment coverage. Wine industry specialty (winery property, product liability, tasting room) is a growing niche. The Yakima Valley, Wenatchee area, and Palouse are the primary agricultural insurance markets.
-- Is there a specialty opportunity with Washington State University? Yes. WSU's Pullman campus has 21,000+ students, thousands of faculty and staff. Faculty members — particularly tenured and tenure-track professors — are excellent LTC, life, and disability insurance prospects with stable academic incomes and professional sophistication. WSU Research and Technology Park in Pullman also creates tech-adjacent professional market.
+- Is there a specialty opportunity with Washington State University? Yes. WSU's Pullman campus has more than 16,000 students, thousands of faculty and staff. Faculty members — particularly tenured and tenure-track professors — are excellent LTC, life, and disability insurance prospects with stable academic incomes and professional sophistication. WSU Research and Technology Park in Pullman also creates tech-adjacent professional market.
 - How does eastern Washington's business culture differ from Seattle? Eastern Washington is generally more relationship-oriented and community-anchored than Seattle's fast-moving tech market. Referrals, community involvement, and long-term relationships matter more. Authenticity in community engagement — church involvement, civic organizations, farm bureau participation — translates to business more directly than in Seattle's more transactional professional environment.
 
 ## Build Your Eastern Washington Insurance Career
 
-Eastern Washington's combination of healthcare, military, agricultural, and university markets — with substantially less competition than the Puget Sound — offers genuine specialty opportunity for producers willing to invest in relationship-based community development. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses prepare you for the exam and for building a career throughout Washington state.
+Eastern Washington's combination of healthcare, military, agricultural, and university markets — with substantially less competition than the Puget Sound — offers genuine specialty opportunity for producers willing to invest in relationship-based community development. At JustInsurance, our Washington [exam-prep coursework](/washington/prelicensing) covers both the national insurance content and the Washington-specific law under RCW 48 and WAC 284 that the PSI exam tests — the foundation you build a Spokane, Tri-Cities, or Yakima Valley practice on. One thing to be clear about: JustInsurance is not currently an OIC-approved continuing education provider in Washington, so what we offer here is exam preparation, not resident CE credit. When your first renewal comes due, take your 24 hours from a provider on the OIC's approved list at insurance.wa.gov.
 
 Enroll today and start building your eastern Washington insurance career.

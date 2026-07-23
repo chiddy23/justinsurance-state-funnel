@@ -74,7 +74,7 @@ Yes, you can study for life and health, or other lines such as property and casu
 
 ### 3\. What do I need to bring on exam day?
 
-Typically, you’ll need two forms of valid ID that match the name on your application. Confirm with the testing provider which types of identification are acceptable. If you did take an optional pre-licensing course, it can also be useful to bring your completion certificate, though Arizona doesn't require one to sit for the exam.
+Typically, you’ll need one current, government-issued photo ID (such as a driver’s license, state ID, or passport) that shows your signature, and the name on it must match your exam registration exactly. Confirm the full list of acceptable identification with your testing provider. If you did take an optional pre-licensing course, it can also be useful to bring your completion certificate, though Arizona doesn't require one to sit for the exam.
 
 ### 4\. How soon will I know if I passed?
 
@@ -84,4 +84,4 @@ You usually receive your exam results immediately or shortly after you finish. I
 
 In most cases, the state provides a reason for denial, such as incomplete documents or legal issues in your background check. You may be allowed to correct the oversight or provide additional documentation. If your application isn’t approved, carefully review the response you receive and consider consulting an insurance licensing expert or a legal professional if needed.
 
-Getting your Arizona life insurance license can launch you into a fulfilling career, and avoiding these common mistakes will make the process much smoother. If you ever feel unsure or want extra support, JustInsurance provides resources and guidance to help you stay on track. Take that first step today by reviewing the state’s requirements, assembling reliable prep materials, and mapping out a smart study plan. Your future clients will be grateful you put in the effort now to become the best licensed agent you can be.
+Getting your Arizona life insurance license can launch you into a fulfilling career, and avoiding these common mistakes will make the process much smoother. If you want a structured way to prepare, JustInsurance offers optional self-paced Life and Health prelicensing courses and full-length Arizona practice exams, even though Arizona does not require prelicensing hours. Take that first step today by reviewing the state’s requirements, assembling reliable prep materials, and mapping out a smart study plan. Your future clients will be grateful you put in the effort now to become the best licensed agent you can be.

@@ -60,7 +60,7 @@ Primary personal auto: Standard private passenger auto liability cannot be place
 
 Surety: Fidelity and surety bonds cannot be placed in the surplus lines market in Tennessee.
 
-Workers' compensation — general: Standard workers' compensation coverage cannot be placed in the surplus lines market. Employers who cannot obtain voluntary market workers' compensation coverage are directed to Tennessee's assigned risk plan — the market of last resort within the admitted framework.
+Workers' compensation — general: Standard workers' compensation coverage cannot be placed in the surplus lines market. Employers who cannot obtain voluntary market workers' compensation coverage are directed to Tennessee's assigned risk plan — the Workers Compensation Insurance Plan (WCIP), administered by NCCI on behalf of the TDCI, which is the market of last resort within the admitted framework.
 
 Excess workers' compensation — permitted: Excess workers' compensation coverage — policies that provide coverage above a high self-insured retention for large employers who self-insure their workers' compensation obligations — is an exception. Excess workers' compensation may be placed in the surplus lines market.
 
@@ -86,19 +86,27 @@ Tennessee does not specify a precise number of admitted carrier declinations req
 
 ### When Diligent Search Is Not Required
 
-The exempt commercial purchaser: Tennessee has implemented the NRRA's exempt commercial purchaser provision at TCA §56-14-102(8). An exempt commercial purchaser — a sophisticated commercial entity meeting specific size and financial criteria — may access the surplus lines market without requiring the surplus lines agent to conduct a diligent search. The exempt commercial purchaser has voluntarily waived the admitted market requirement based on its sophistication and financial capacity.
+The exempt commercial purchaser: Tennessee has implemented the NRRA's exempt commercial purchaser provision in the definitions at TCA §56-14-102. An exempt commercial purchaser — a sophisticated commercial entity meeting specific size and financial criteria — may access the surplus lines market without requiring the surplus lines agent to conduct a diligent search. The exempt commercial purchaser has effectively waived the admitted market requirement based on its sophistication and financial capacity.
 
-Exempt commercial purchaser qualification criteria (meeting any one of the following):
+Read the test carefully, because it is where producers most often go wrong: the criteria are cumulative, not a menu. A buyer is an exempt commercial purchaser only if it satisfies all three of the following at the time of placement.
+
+First — the risk manager. The buyer employs or retains a qualified risk manager to negotiate insurance coverage. The statute defines "qualified risk manager" in detail, and the person must meet the specified education and experience standards.
+
+Second — the premium floor. The buyer has paid aggregate nationwide commercial property and casualty insurance premiums in excess of $100,000 in the immediately preceding twelve months. This element is mandatory and independent of size; a large but lightly insured entity fails the test here.
+
+Third — one of the five size thresholds. The buyer must also meet at least one of:
 
 Net worth exceeding $20 million
 
-Annual gross revenues exceeding $50 million
+Annual revenues exceeding $50 million
 
-Employs or retains a qualified risk manager who is responsible for purchasing insurance
+More than 500 full-time or full-time-equivalent employees, or an affiliated group employing more than 1,000 in the aggregate
 
-Total insured value of property exceeding $40 million
+A not-for-profit organization or public entity with annual budgeted expenditures of at least $30 million
 
-Is a non-profit or public entity with a combined annual budget exceeding $30 million
+A municipality or other local governmental entity with a population in excess of 50,000 inhabitants
+
+There is no total-insured-value criterion in the statute. If a client's file supports only property values and nothing else, that is not an ECP qualification — and skipping the diligent search on that basis is a Surplus Lines Insurance Act violation with the surplus lines agent's license on the line. When in doubt, run the diligent search anyway and document it; the cost of an unnecessary search is a few hours, and the cost of a missing one is your license.
 
 The industrial insured exemption: Tennessee also maintains an industrial insured exemption for large commercial insurance buyers who negotiate directly with surplus lines insurers. Industrial insureds may procure coverage directly without going through the admitted market, though premium taxes still apply.
 
@@ -234,7 +242,7 @@ Construction wrap-up programs: Owner-controlled insurance programs (OCIPs) and c
 
 My commercial client needs workers' compensation coverage but the voluntary market has declined them because of their loss history. Can I place their workers' compensation in the surplus lines market?
 
-No — standard workers' compensation is one of the specifically ineligible coverages under Tennessee's surplus lines framework. Workers' compensation cannot be placed in the surplus lines market regardless of the client's loss history or the voluntary market's declination. The appropriate pathway for a client declined in the voluntary workers' compensation market is Tennessee's assigned risk plan — the residual market mechanism operated through the Tennessee Compensation Rating Bureau. The assigned risk plan is required to accept all qualifying employers who cannot obtain voluntary market coverage, though at rates that reflect the elevated risk. Excess workers' compensation — coverage above a high self-insured retention for large employers who self-insure their primary workers' compensation obligation — is the one workers' compensation-related coverage that may be placed in the surplus lines market.
+No — standard workers' compensation is one of the specifically ineligible coverages under Tennessee's surplus lines framework. Workers' compensation cannot be placed in the surplus lines market regardless of the client's loss history or the voluntary market's declination. The appropriate pathway for a client declined in the voluntary workers' compensation market is Tennessee's assigned risk plan — the Workers Compensation Insurance Plan (WCIP), which NCCI has administered as Plan Administrator on behalf of the TDCI since July 1, 2015. Applications go through NCCI's residual market system. The assigned risk plan is required to accept all qualifying employers who cannot obtain voluntary market coverage, though at rates that reflect the elevated risk. Excess workers' compensation — coverage above a high self-insured retention for large employers who self-insure their primary workers' compensation obligation — is the one workers' compensation-related coverage that may be placed in the surplus lines market.
 
 I completed what I believe is a diligent search — I contacted two admitted carriers and both declined. Is that sufficient for Tennessee surplus lines purposes?
 
@@ -246,4 +254,4 @@ The surplus lines premium tax is a Tennessee state tax on insurance premiums pai
 
 Tennessee's surplus lines framework — built on the foundational requirement of admitted market primacy, conditional permission for non-admitted placement when the admitted market is genuinely unavailable, procedural compliance through the diligent search and mandatory disclosure stamping, financial accountability through the 5% premium tax and quarterly remittance obligations, and the critical client disclosure that guaranty protection does not apply — creates a structured but accessible pathway to the E&S market for Tennessee risks that need it. Producers who understand every element of this framework serve commercial clients with the sophistication that complex risk placement requires and maintain the compliance posture that Tennessee's surplus lines law demands.
 
-Visit JustInsurance to enroll today and complete your Tennessee Property and Casualty [prelicensing](/tennessee/prelicensing) with a state-approved course covering every surplus lines provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline covering every surplus lines provision tested on the Pearson VUE exam.

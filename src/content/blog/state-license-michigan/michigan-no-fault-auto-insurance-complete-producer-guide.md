@@ -70,7 +70,7 @@ Covers all reasonable and necessary medical expenses with no lifetime cap
 
 Default if no selection is made
 
-Requires participation in MCCA for catastrophic claims above $635,000 threshold (2025)
+Requires participation in MCCA for catastrophic claims above the MCCA retention — $675,000 for policies issued or renewed July 1, 2025 through June 30, 2027
 
 Required PIP premium reduction: average 10%+ vs. prior unlimited rates
 
@@ -176,7 +176,7 @@ What MCCA does:
 
 Reimburses no-fault auto insurers for catastrophic PIP claims above a set threshold
 
-Current threshold: $635,000 (2025, subject to annual adjustment)
+Current threshold: $675,000 (for policies issued or renewed July 1, 2025 through June 30, 2027; the retention is reset every two years)
 
 All Michigan auto insurers must be MCCA members
 
@@ -184,7 +184,7 @@ Annual per-vehicle assessment charged to policyholders
 
 How MCCA works with reform:
 
-Policies issued/renewed after July 1, 2020 with unlimited PIP: MCCA reimburses above $635,000
+Policies issued/renewed after July 1, 2020 with unlimited PIP: MCCA reimburses above the current retention ($675,000 as of July 1, 2025)
 
 Policies issued/renewed before July 2, 2020 with unlimited PIP: MCCA continues paying unlimited catastrophic claims under the old system
 
@@ -286,12 +286,12 @@ Producer responsibility: Recognize red flags in client applications and claims. 
 
 - What changed in Michigan's no-fault reform effective July 2, 2020? Public Acts 21 and 22 of 2019 replaced mandatory unlimited PIP with a tiered PIP choice system (unlimited, $500,000, $250,000, $50,000 Medicaid, opt-out), implemented a Medicare-based medical fee schedule, introduced attendant care limits, and established higher default BI limits ($250,000/$500,000).
 - What is Michigan's default if a driver doesn't select a PIP level? Unlimited PIP is the default if no selection is made. The driver must actively choose and document a lower tier.
-- What is the MCCA and why do policyholders pay an assessment? The Michigan Catastrophic Claims Association reimburses no-fault insurers for catastrophic PIP claims above $635,000 (2025). The per-vehicle MCCA assessment funds this reinsurance pool and appears on every Michigan auto policy.
+- What is the MCCA and why do policyholders pay an assessment? The Michigan Catastrophic Claims Association reimburses no-fault insurers for catastrophic PIP claims above the MCCA retention ($675,000 as of July 1, 2025). The per-vehicle MCCA assessment funds this reinsurance pool and appears on every Michigan auto policy.
 - What is Property Protection Insurance (PPI)? PPI is Michigan-specific coverage paying up to $1,000,000 for property damage you cause within Michigan. It covers damage to buildings, structures, and properly parked vehicles — replacing the property damage liability function that other states use.
 - Is UM/UIM coverage required in Michigan? No. Michigan does not mandate uninsured/underinsured motorist coverage. However, given Michigan's high uninsured driver rates — particularly in Detroit metro — UM/UIM is strongly recommended for clients.
 
 ## Serve Michigan Auto Clients With Genuine Expertise
 
-Michigan's no-fault system rewards producers who understand it deeply. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) and CE courses provide comprehensive no-fault coverage including reform details, PIP tier implications, MCCA, and producer obligations.
+Michigan's no-fault system rewards producers who understand it deeply. At JustInsurance, our Michigan [property and casualty continuing education](/michigan/continuing-education) helps licensed producers master no-fault in practice — reform details, PIP tier implications, MCCA, and producer obligations.
 
 Enroll today and develop the Michigan auto insurance expertise clients need.

@@ -1,6 +1,86 @@
 import type { Metadata } from "next";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import { STATES } from "@/lib/states";
+import {
+  PASS_GUARANTEE_EXCLUDED_STATES,
+  PASS_GUARANTEE_PENDING_APPROVAL_STATES,
+} from "@/lib/pass-guarantee";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+
+// ---------------------------------------------------------------------------
+// CE provider approval is NOT universal. states.ts carries
+// providerApprovalNumber === "PENDING" for New York and Washington, yet CE is
+// actively sold for both. The old flat §5 claim ("approved provider in each
+// state where we offer CE courses") was therefore false in the site's own
+// controlling contract. Derived from states.ts so this self-corrects the moment
+// an approval issues — same pattern as /continuing-education and
+// /license-renewal-guide.
+// ---------------------------------------------------------------------------
+const CE_APPROVAL_PENDING_STATES = Object.values(STATES).filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+
+/** "A", "A and B", "A, B, and C" — for naming pending states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+// ---------------------------------------------------------------------------
+// Pass Guarantee availability.
+//
+// @/lib/pass-guarantee is the single gate every page consults before it may
+// advertise the guarantee (hasPassGuarantee), and it withholds the guarantee
+// for TWO reasons: a regulatory/elective exclusion
+// (PASS_GUARANTEE_EXCLUDED_STATES) and a pending provider approval
+// (PASS_GUARANTEE_PENDING_APPROVAL_STATES). Section 4 previously hard-coded
+// only the first group — Ohio, West Virginia and Illinois — so this contract
+// promised a Pass Guarantee in the approval-pending states while the site
+// itself never offered one there. Deriving the list from the same two sets the
+// gate uses means the contract and the product can no longer disagree, and the
+// text self-corrects the moment a slug is added to or removed from either set.
+// ---------------------------------------------------------------------------
+type GuaranteeState = { slug: string; name: string };
+
+/** Resolve gate slugs to display names. A slug with no states.ts record falls
+ *  back to the slug itself rather than being dropped — a state must never fall
+ *  silently out of a legal exclusion list. */
+const guaranteeStates = (slugs: ReadonlySet<string>): GuaranteeState[] =>
+  Array.from(slugs)
+    .map((slug) => ({
+      slug,
+      name: Object.values(STATES).find((s) => s.slug === slug)?.name ?? slug,
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+const GUARANTEE_EXCLUDED_STATES = guaranteeStates(PASS_GUARANTEE_EXCLUDED_STATES);
+const GUARANTEE_PENDING_STATES = guaranteeStates(PASS_GUARANTEE_PENDING_APPROVAL_STATES);
+const GUARANTEE_UNAVAILABLE_STATES = [
+  ...GUARANTEE_EXCLUDED_STATES,
+  ...GUARANTEE_PENDING_STATES,
+].sort((a, b) => a.name.localeCompare(b.name));
+
+/** Why the guarantee is withheld, per state. Ohio and West Virginia are
+ *  regulatory; anything else is an elective business decision and is described
+ *  as such rather than being attributed to a rule that does not exist. */
+const GUARANTEE_EXCLUSION_REASON: Record<string, React.ReactNode> = {
+  ohio: (
+    <>
+      Ohio Admin. Code 3901-5-07(H)(16) prohibits an insurance education provider from
+      offering any guarantee to a student that completing its program of insurance
+      education will result in passing the state insurance license examination.
+    </>
+  ),
+  "west-virginia": (
+    <>
+      The West Virginia Offices of the Insurance Commissioner Pre-Licensing Provider
+      Information Packet (item 9) directs that advertising for an approved course carry no
+      guarantee that the student will pass a required exam.
+    </>
+  ),
+};
 
 export const metadata: Metadata = {
   title: { absolute: "Terms of Service | JustInsurance" },
@@ -230,7 +310,7 @@ export default function TermsPage() {
           <LI>
             <strong>Other products.</strong> Standalone practice exams provide access for the
             period stated on the product page. The Pass Guarantee applies only to qualifying
-            prelicensing courses as described in Section 4. Agency, bulk, and subscription
+            prelicensing courses in eligible states, as described in Section 4. Agency, bulk, and subscription
             arrangements are governed by a separate written agreement between JustInsurance and
             the partner organization.
           </LI>
@@ -306,7 +386,10 @@ export default function TermsPage() {
 
         <p className="text-sm font-semibold text-navy mb-2">Pass Guarantee</p>
         <P>
-          JustInsurance offers a Pass Guarantee on qualifying prelicensing courses. To be eligible:
+          JustInsurance offers a Pass Guarantee on qualifying prelicensing courses in eligible
+          states. The Pass Guarantee is not offered in every state &mdash; see &ldquo;States where the
+          Pass Guarantee is not offered&rdquo; below. Where the guarantee is offered, you must meet all
+          of the following conditions to be eligible:
         </P>
         <UL>
           <LI>
@@ -337,22 +420,79 @@ export default function TermsPage() {
           The Pass Guarantee applies to the prelicensing course cost only and does not cover exam
           fees, application fees, or any other third-party costs. Courses purchased at a
           promotional discount may have modified guarantee terms disclosed at the time of sale.
-          The Pass Guarantee is not available for Ohio courses (Ohio Admin. Code
-          3901-5-07(H)(16)), West Virginia courses (WV Offices of the Insurance
-          Commissioner pre-licensing provider advertising requirements), or
-          Illinois courses. The list of eligible states is reflected on each
-          state&apos;s course pages; where the guarantee is not offered, no
-          purchase includes it.
         </P>
+
+        {GUARANTEE_UNAVAILABLE_STATES.length > 0 && (
+          <>
+            <p className="text-sm font-semibold text-navy mb-2">
+              States where the Pass Guarantee is not offered
+            </p>
+            <P>
+              The Pass Guarantee is not available on prelicensing courses purchased for{" "}
+              {formatStateNames(GUARANTEE_UNAVAILABLE_STATES)}. In{" "}
+              {GUARANTEE_UNAVAILABLE_STATES.length === 1 ? "that state" : "those states"} the
+              guarantee is not part of the course, is not included in any purchase, and is not
+              advertised on the corresponding course pages. The reasons are:
+            </P>
+            <UL>
+              {GUARANTEE_EXCLUDED_STATES.map((s) => (
+                <LI key={s.slug}>
+                  <strong>{s.name}</strong> &mdash;{" "}
+                  {GUARANTEE_EXCLUSION_REASON[s.slug] ?? (
+                    <>
+                      We have elected not to offer an outcome guarantee on {s.name} prelicensing
+                      courses.
+                    </>
+                  )}
+                </LI>
+              ))}
+              {GUARANTEE_PENDING_STATES.length > 0 && (
+                <LI>
+                  <strong>{formatStateNames(GUARANTEE_PENDING_STATES)}</strong> &mdash; our
+                  provider approval{" "}
+                  {GUARANTEE_PENDING_STATES.length === 1
+                    ? "in this state is"
+                    : "in these states is"}{" "}
+                  still pending, and we do not offer an outcome guarantee on a course whose state
+                  approval has not yet issued.
+                </LI>
+              )}
+            </UL>
+            <P>
+              Whether the Pass Guarantee applies to a given course is stated on that state&apos;s
+              course pages at the time of purchase. If you are unsure whether your purchase
+              includes the Pass Guarantee, contact{" "}
+              <a
+                href="mailto:support@justinsuranceco.com"
+                className="text-navy underline hover:text-gold"
+              >
+                support@justinsuranceco.com
+              </a>{" "}
+              before enrolling.
+            </P>
+          </>
+        )}
       </Section>
 
       {/* 5. CE Reporting */}
       <Section id="ce-reporting" number="5" title="CE Reporting" altBg={false}>
         <P>
-          JustInsurance is a state-approved continuing education provider in each state where we
-          offer CE courses. Upon your successful completion of a CE course, we are required by law
-          to report your completion to the applicable state Department of Insurance (DOI) or its
-          authorized reporting agent.
+          JustInsurance is a state-approved continuing education provider in each state where our
+          CE courses are offered as state-credited CE.
+          {CE_APPROVAL_PENDING_STATES.length > 0 && (
+            <>
+              {" "}
+              Our CE provider approval is still pending in{" "}
+              {formatStateNames(CE_APPROVAL_PENDING_STATES)}; until that approval issues, CE
+              purchased for{" "}
+              {CE_APPROVAL_PENDING_STATES.length === 1 ? "that state" : "those states"} is not yet
+              creditable toward your state CE requirement and will not be reported to the state
+              &mdash; you receive a certificate of completion for your own records instead.
+            </>
+          )}{" "}
+          Upon your successful completion of a CE course in a state where our provider approval is
+          active, we are required by law to report your completion to the applicable state
+          Department of Insurance (DOI) or its authorized reporting agent.
         </P>
         <UL>
           <LI>

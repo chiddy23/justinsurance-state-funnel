@@ -291,6 +291,6 @@ The 90-day CE suspension and termination timeline
 
 ## Own the Michigan-Specific Exam Content
 
-Michigan's elevated passing thresholds mean Michigan-specific law questions are where passing and failing separate. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) course dedicates real attention to MCL 500, DIFS regulations, Michigan's no-fault auto reform, MBPIA, and the full scope of Michigan-specific content — not just the national framework.
+Michigan's elevated passing thresholds mean Michigan-specific law questions are where passing and failing separate. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) course dedicates real attention to MCL 500, DIFS regulations, and the full scope of Michigan-specific content — not just the national framework.
 
 Enroll today and master the Michigan content that determines your exam outcome.

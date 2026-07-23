@@ -46,15 +46,17 @@ Most candidates find appointments within 1-2 weeks of booking.
 
 The South Carolina Life, Accident, and Health exam typically includes:
 
-Approximately 150 scored questions (plus a small number of unscored pilot questions)
+140 total questions — 130 scored plus 10 unscored pretest questions
 
-Approximately 2 hours 30 minutes to complete
+150 minutes (2 hours 30 minutes) to complete
 
-70% passing score required
+A scaled score of 70 required to pass
 
 All questions are multiple choice with four answer options
 
-You won't know which questions are pilot questions — they're mixed throughout. Treat every question as if it counts.
+The 130 scored questions break down as 100 general-knowledge items plus 30 South Carolina law and regulation items. You won't know which questions are the 10 pretest items — they're mixed throughout. Treat every question as if it counts.
+
+One thing worth understanding before you sit down: Pearson VUE reports South Carolina scores on a 0–100 scale, and the handbook is explicit that the number "should not be interpreted as the percentage or number of correct answers." A 70 is the cut score after statistical equating, not "70% correct." Don't try to reverse-engineer how many questions you can afford to miss — study to master the content outline instead.
 
 ## Before the Exam: What to Bring
 
@@ -122,7 +124,7 @@ Review flagged questions before submitting
 
 See your remaining time on screen
 
-Time management. With 150 questions and 150 minutes, you have about 60 seconds per question. Most candidates finish with time to spare.
+Time management. With 140 questions and 150 minutes, you have a little over 60 seconds per question. Most candidates finish with time to spare.
 
 Strategy for hard questions. Flag questions you're unsure about and come back to them. Answer what you know confidently first, then revisit the harder ones with remaining time.
 
@@ -162,13 +164,15 @@ Don't panic. Many successful South Carolina agents failed their first attempt.
 
 Review the score report to identify weak content areas
 
-Wait at least 1-2 weeks before retaking — use the time for focused review
+Wait at least 24 hours — that's Pearson VUE's minimum before you can reschedule. Practically, give yourself 1-2 weeks for focused review
 
-Re-register with the testing provider and schedule your retake
+Re-register with Pearson VUE and schedule your retake
 
-Pay the retake fee
+Pay the retake fee (each attempt is a separate $59 exam fee)
 
 Come back with stronger preparation in your weak areas
+
+One limit to keep in mind: South Carolina allows each exam to be taken a maximum of six times in a one-year period. That's plenty of room for a normal candidate, but it isn't unlimited — don't burn attempts sitting for the exam unprepared.
 
 ## Test-Day Tips That Help
 
@@ -186,11 +190,11 @@ Breathe. If anxiety hits during the exam, pause for three deep breaths and reset
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on the South Carolina Life & Health exam? Approximately 150 scored questions plus unscored pilot questions. You have about 2 hours 30 minutes to complete all of them.
-- What's the passing score? 70%. You need to answer at least 70% of scored questions correctly to pass.
+- How many questions are on the South Carolina Life & Health exam? 140 questions total — 130 scored plus 10 unscored pretest questions. You have 150 minutes (2 hours 30 minutes) to complete them.
+- What's the passing score? A scaled score of 70. Pearson VUE reports South Carolina scores on a 0–100 scale, and the handbook states the number "should not be interpreted as the percentage or number of correct answers" — so 70 is the cut score, not "70% correct."
 - Can I leave and come back during the exam? Short bathroom breaks are typically allowed, but the clock keeps running.
 - When do I find out if I passed? Immediately after submitting the exam. Your result appears on screen before you leave the testing center.
-- How many times can I retake the exam if I fail? South Carolina doesn't cap attempts, but each retake requires a new registration and fee. Most candidates pass within 1-2 attempts with proper preparation.
+- How many times can I retake the exam if I fail? Each South Carolina exam may be taken a maximum of six times in a one-year period, with a 24-hour wait between attempts. Every retake requires a new registration and a new $59 fee. Most candidates pass within 1-2 attempts with proper preparation.
 
 ## Walk Into Test Day Prepared
 

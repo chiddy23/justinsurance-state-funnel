@@ -117,7 +117,9 @@ Michigan's exams are distinctive for their variable passing scores — unlike mo
 
 Major exam specifications:
 
-The Accident & Health exam at 76% is the most demanding standard in Michigan. The variable passing scores reflect different content difficulty assessments by DIFS.
+DIFS publishes a cut score for every exam it offers. Among the core producer lines, Accident and Health Producer carries the highest cut score at 76%, followed by Property Producer and Personal Lines Producer at 75%, then Casualty Producer and the combined Property and Casualty Producer exam at 74%. Life Producer sits lowest at 72%, and the combined Life, Accident and Health Producer exam is 75%.
+
+It is worth knowing that 76% is not the highest bar in the state overall — Surplus Lines Producer is 77%, and the counselor exams run higher still (Life Counselor 80%, Property and Casualty Counselor 80%, Accident & Health Counselor 82%). The variable cut scores come from a PSI job analysis and Michigan subject-matter-expert review rather than a single flat standard, so check the current DIFS Insurance Examination Cut Scores sheet for the exam you are actually sitting.
 
 No limit on retakes. Michigan allows unlimited retake attempts, but requires a 24-hour wait between attempts and charges $41 for each.
 
@@ -247,9 +249,9 @@ Application: ~$15.60 (NIPR)
 
 Exam: $41 (PSI)
 
-PLE course: $199 (JustInsurance 40-hour combined course)
+PLE course: $199 (JustInsurance 40-hour combined course — one flat price covers both lines)
 
-Total: ~$449
+Total: ~$250 (same all-in cost as a single line, because the combined course is the same flat $199 — you just walk away with two lines of authority)
 
 No fingerprinting fee, no separate background check fee.
 
@@ -258,11 +260,11 @@ No fingerprinting fee, no separate background check fee.
 - Does Michigan require prelicensing education? Yes. Michigan requires 20 hours of prelicensing education per line of authority before taking the state exam. Unlike some states that have recently eliminated PLE requirements, Michigan maintains this requirement. You must complete PLE before taking the state exam — passing the exam before completing PLE invalidates your results.
 - Does Michigan require fingerprinting for insurance producers? No. Michigan does not require fingerprinting for insurance producer license applicants — an unusual feature nationally. DIFS conducts its background review through application disclosures and records.
 - How much does the Michigan insurance exam cost? $41 per exam, paid to PSI at registration.
-- What's the passing score for Michigan insurance exams? Michigan uses variable passing scores: 72% for Life, 76% for Accident & Health (the highest requirement in Michigan), and 74% for the combined Property and Casualty exam. These are higher than the standard 70% used by most states.
+- What's the passing score for Michigan insurance exams? Michigan sets a separate cut score for each exam rather than a flat threshold: 72% for Life Producer, 76% for Accident and Health Producer, 75% for Property Producer and for Personal Lines Producer, and 74% for Casualty Producer and for the combined Property and Casualty Producer exam. Most of these sit above the 70% standard used by many states. Accident and Health is the highest of the core producer lines, though not the highest in the state — Surplus Lines Producer is 77% and the counselor exams reach 80-82%. DIFS publishes the full list in its Insurance Examination Cut Scores sheet.
 - How long does Michigan license processing take? 14-21 business days from the date you submit all requirements (exam results, completed application). Michigan mails a physical license to your address on file.
 
 ## Start Your Michigan Insurance Career Right
 
-Michigan's reasonable costs, straightforward process, and distinctive market opportunities make it an accessible state for new producers. At JustInsurance, our Michigan prelicense course covers all exam content including Michigan-specific insurance laws and no-fault auto considerations.
+Michigan's reasonable costs, straightforward process, and distinctive market opportunities make it an accessible state for new producers. At JustInsurance, our Michigan prelicense course covers all exam content including Michigan-specific insurance laws.
 
 Enroll today and take your first step toward a Michigan insurance producer license.

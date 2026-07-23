@@ -56,7 +56,7 @@ Step 1: Develop FEGLI literacy. Federal Employees Group Life Insurance (FEGLI) p
 
 Step 2: Complete Annuity Best Interest training first. TSP rollovers at federal employee separation or retirement are one of the most consistent and substantial advisory opportunities in the Maryland market. NIH scientists retire with $500,000-$2,000,000+ TSP balances; Lockheed Martin executives transition between jobs carrying 401(k) balances of similar size. Annuity Best Interest certification must be completed before any rollover advisory.
 
-Step 3: Complete LTC training with Maryland-specific content. Maryland's LTC Partnership program (protecting assets from Maryland Medicaid spend-down) is highly relevant for federal retirees with significant assets — particularly the real property wealth common among long-career Montgomery County homeowners. The Maryland LTC tax credit adds a state-specific financial incentive dimension.
+Step 3: Complete LTC training with Maryland-specific content. Maryland's LTC Partnership program (protecting assets from Maryland Medicaid spend-down) is highly relevant for federal retirees with significant assets — particularly the real property wealth common among long-career Montgomery County homeowners. Maryland's LTC tax credit is worth knowing precisely rather than pitching loosely: it is a one-time nonrefundable credit claimed on Form 502CR, Part E, equal to the qualified LTC premium paid per insured up to $500 (the cap is lower for an insured age 40 or under — $480 for tax year 2025 — and that band is reset annually). It cannot be claimed for the same insured in any other tax year or by any other taxpayer, and it is unavailable if the insured carried LTC coverage before July 1, 2000 or is not a Maryland resident — a live limitation in a corridor where a large share of clients live in Virginia or the District. Present it as a small one-time offset at the point of sale, not as an ongoing state incentive.
 
 Step 4: Understand FEHB-to-Medicare coordination. Federal retirees at 65 continue FEHB as secondary to Medicare. Many federal retirees don't purchase separate Medigap/Medicare Supplement because FEHB serves supplemental functions. Understanding when FEHB + Medicare is adequate vs. when Medigap provides additional value is a practical advisory distinction for the large Maryland federal retiree community.
 
@@ -72,6 +72,6 @@ Step 5: Develop cleared professional market relationships. NSA and other intelli
 
 ## Build Your Maryland Federal and Defense Practice
 
-Maryland's federal agency ecosystem and Lockheed Martin defense anchor create specialty income opportunities that reward producers who develop genuine federal benefits literacy. JustInsurance's MIA-approved Maryland courses prepare you for the exam and for serving Maryland's distinctive professional market.
+Maryland's federal agency ecosystem and Lockheed Martin defense anchor create specialty income opportunities that reward producers who develop genuine federal benefits literacy. JustInsurance's Maryland courses are built to the current Prometric Maryland content outline to prepare you for the exam and for serving Maryland's distinctive professional market. JustInsurance is also an MIA-approved Maryland continuing-education provider.
 
 Enroll today and position yourself in the DC corridor's Maryland market.

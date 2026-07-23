@@ -128,6 +128,6 @@ The Watermen community: Chesapeake Bay watermen (commercial crabbers, oystermen,
 
 ## Build Your Baltimore and Chesapeake Insurance Career
 
-Baltimore's T. Rowe Price, Johns Hopkins, and commercial port market and the Chesapeake Bay's waterfront, agricultural, and maritime communities create specialty income opportunities that reward producers with genuine local expertise. JustInsurance's MIA-approved Maryland courses prepare you for the exam and for serving these distinctive markets.
+Baltimore's T. Rowe Price, Johns Hopkins, and commercial port market and the Chesapeake Bay's waterfront, agricultural, and maritime communities create specialty income opportunities that reward producers with genuine local expertise. JustInsurance's Maryland courses are built to the current Prometric Maryland content outline to prepare you for the licensing exam, and JustInsurance is also an MIA-approved Maryland continuing-education provider for producers building expertise in these specialty markets.
 
 Enroll today and build your Baltimore and Chesapeake insurance career.

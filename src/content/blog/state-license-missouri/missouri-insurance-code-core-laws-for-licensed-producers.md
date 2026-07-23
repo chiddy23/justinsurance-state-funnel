@@ -16,7 +16,7 @@ imageAlt: >-
   insurance code: core laws for licensed producers.
 ---
 
-Missouri's insurance legal framework is built on Missouri Revised Statutes (RSMo) — administered by the Department of Commerce and Insurance (DCI/DIFP). What makes Missouri's framework most distinctive is the combination of pure comparative negligence (Mo. Rev. Stat. § 537.765 — the most plaintiff-friendly auto liability standard; no fault bar; any fault recovers proportionally), RSMo § 303.190's $10,000 statutory property damage minimum (among the lowest nationally), required UM at 25/50 (RSMo § 379.203), and the 5-employee workers' comp threshold (1-employee for construction) with NCCI rating and Travelers as the assigned risk carrier. Add Healthcare.gov (federal marketplace), MO HealthNet (Missouri Medicaid expanded through contested Amendment 2 ballot initiative; implemented summer 2021), and the "highest degree of care" auto driving standard — and Missouri's insurance legal landscape is more distinctive than its Midwest geographic profile suggests.
+Missouri's insurance legal framework is built on Missouri Revised Statutes (RSMo) — administered by the Department of Commerce and Insurance (DCI/DIFP). What makes Missouri's framework most distinctive is the combination of pure comparative negligence (Mo. Rev. Stat. § 537.765 — the most plaintiff-friendly auto liability standard; no fault bar; any fault recovers proportionally), RSMo § 303.190's 25/50/25 financial responsibility minimums (raised to a $25,000 property damage floor effective July 1, 2019), required UM at 25/50 (RSMo § 379.203), and the 5-employee workers' comp threshold (1-employee for construction) with NCCI rating and Travelers as the assigned risk carrier. Add Healthcare.gov (federal marketplace), MO HealthNet (Missouri Medicaid expanded through contested Amendment 2 ballot initiative; implemented summer 2021), and the "highest degree of care" auto driving standard — and Missouri's insurance legal landscape is more distinctive than its Midwest geographic profile suggests.
 
 ## Missouri Insurance Legal Framework
 
@@ -42,9 +42,9 @@ DCI multi-sector: insurance + financial institutions + professional registration
 
 PLE: NOT REQUIRED
 
-Pearson VUE: $29-$35; in-person only (May 2025); 70% BOTH sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting
+Pearson VUE: $32 single-line / $40 combined; in-person only (May 2025); passing score 70 on a 0-100 scaled score (not a raw percentage of questions correct); 1-year validity; 24-hr wait before rescheduling a retake; no fingerprinting
 
-NIPR application: $100; 24-48 hr wait; 5-10 business days; no temp license
+NIPR application: $100; 24-48 hr wait; 5-10 business days; no temporary license as a bridge for new applicants — RSMo § 375.025 temporary licenses run up to 90 days and are limited to business-continuity grounds (death or disability of a licensed producer, death or disability of a business entity's designated individual, a producer entering active military service, or any other circumstance the director finds serves the public interest)
 
 Renewal: every 2 years on your birth date (not month-end); CE 16 hrs/3 Ethics
 
@@ -64,9 +64,9 @@ $25,000 bodily injury per person
 
 $50,000 bodily injury per accident
 
-$10,000 property damage (statutory minimum per explicit RSMo text)
+$25,000 property damage (statutory minimum per explicit RSMo text)
 
-Note: Many insurers market $25,000 PD as standard minimum policy; statutory floor is $10,000
+Note: The property damage floor was $10,000 before A.L. 2018 S.B. 708 raised it to $25,000 effective July 1, 2019 — older study guides and legacy policy forms still circulate the outdated figure. Missouri's minimums are now 25/50/25.
 
 Pure comparative negligence (Mo. Rev. Stat. § 537.765):
 
@@ -122,7 +122,7 @@ Non-compliance penalties:
 
 First offense: Class A Misdemeanor
 
-Second offense: Class F Felony
+Subsequent offense: Class E Felony (Missouri classifies felonies A through E — there is no Class F)
 
 Fine: up to 3x estimated annual premium OR $50,000 (whichever is greater)
 
@@ -149,13 +149,13 @@ No Missouri individual mandate.
 ## 5 Frequently Asked Questions
 
 - What makes Missouri's pure comparative negligence so important for producers to understand? Pure comparative negligence (Mo. Rev. Stat. § 537.765) creates the most plaintiff-friendly liability environment of all comparison states. There is NO fault percentage that bars recovery in Missouri. A plaintiff who is 80% at fault still recovers 20% of damages from the other driver. This makes adequate liability coverage essential for Missouri drivers — even a driver who bears significant fault in an accident may recover substantial damages from you. Advisory implication: never recommend liability limits below $100,000/300,000/100,000 for Missouri clients.
-- What is the RSMo § 303.190 property damage minimum and why does it matter? RSMo § 303.190 explicitly requires $10,000 property damage minimum — the statutory floor. Many Missouri insurers market $25,000 PD as their standard minimum product, but the legal requirement is $10,000. A Missouri driver with only $10,000 PD coverage who totals a $55,000 vehicle faces $45,000 out-of-pocket exposure. This is a specifically tested Missouri auto law fact and a key advisory conversation.
+- What is the RSMo § 303.190 property damage minimum and why does it matter? RSMo § 303.190 requires $25,000 of property damage liability — the statutory floor since A.L. 2018 S.B. 708 took effect on July 1, 2019. The prior floor was $10,000, and that stale figure still shows up in older exam-prep material, so verify it against the current statute rather than a legacy study guide. Even at the current minimum, a Missouri driver carrying only $25,000 PD who totals a $55,000 vehicle faces $30,000 of out-of-pocket exposure — which is why minimum limits are a floor, not a recommendation, and why this is a key advisory conversation.
 - What is Missouri's workers' comp Second Injury Fund? The Missouri Second Injury Fund (RSMo Chapter 287) compensates workers who become permanently disabled beyond the scope of a single work-related injury due to prior disabilities. For example: a worker with a pre-existing back condition suffers a work injury resulting in permanent total disability — the combination of prior disability and new injury exceeds what the new injury alone would have caused. The Second Injury Fund covers the excess disability. The fund is supported by a surcharge on all Missouri workers' comp premiums.
 - How does Missouri's Centene Corporation involvement in MO HealthNet affect advisory? Centene is a major managed care organization that administers MO HealthNet (Medicaid) plans in Missouri through subsidiaries. Producers who advise clients on MO HealthNet coverage navigate the managed care structure where Centene (under the Wellcare/Healthy Blue brand in Missouri) administers benefits. Understanding that MO HealthNet is administered through managed care organizations — not directly by the state — helps producers accurately explain coverage access to clients.
 - What is Missouri's "highest degree of care" driving standard? Missouri courts have interpreted Missouri law to require drivers to exercise the "highest degree of care" — more than "reasonable care" or "ordinary care." This higher standard means Missouri drivers are expected to be more attentive than in most states. In comparative fault determinations, the highest degree of care standard means that minor inattention may be weighed more heavily against Missouri defendants than in states with lower care standards. Producers who understand this standard can explain why adequate liability and UM/UIM coverage is particularly important for Missouri drivers.
 
 ## Build Your Career on Strong Missouri Compliance Knowledge
 
-RSMo Chapters 303, 375, 379, and 287 — pure comparative negligence, $10,000 PD minimum, MO HealthNet expansion, and NCCI workers' comp — form the foundation of Missouri insurance practice. JustInsurance's DCI-approved Missouri courses cover the Insurance Code in depth.
+RSMo Chapters 303, 375, 379, and 287 — pure comparative negligence, the 25/50/25 financial responsibility minimums, MO HealthNet expansion, and NCCI workers' comp — form the foundation of Missouri insurance practice. JustInsurance's DCI-approved Missouri courses cover the Insurance Code in depth.
 
 Enroll today and build your Missouri insurance career on solid compliance ground.

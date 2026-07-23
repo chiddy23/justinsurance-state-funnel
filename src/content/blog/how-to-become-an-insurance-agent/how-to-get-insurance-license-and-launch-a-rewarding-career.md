@@ -29,7 +29,7 @@ Most states require you to be at least 18 years old, pass a state exam, and go t
 
 ## Complete your [pre-licensing courses](/prelicensing)
 
-In many states, you have to enroll in mandatory pre-licensing courses before you can schedule your exam. These courses range from 20 to 40 hours (or more) for each line of authority. Although studying for that long may sound daunting, think of it as building a foundation for your future success. You are learning the regulations, ethical responsibilities, and product details you will rely on every day in your new career.
+In many states, you have to enroll in mandatory pre-licensing courses before you can schedule your exam. How many hours you owe depends entirely on where you live and what you plan to sell. Twenty hours per line of authority is the most common requirement, but the spread is wide: Georgia dropped to 8 hours per line in June 2025, Colorado requires 50 hours per line, and Florida's 2-20 general lines (property and casualty) license sits at the top of the scale at 200 hours. California is a case of its own — under AB 943 the state retired its 20-hour pre-licensing mandate, and the only education still required before licensure is a 12-hour Code and Ethics course. Whatever your number turns out to be, think of the coursework as building a foundation for your future success. You are learning the regulations, ethical responsibilities, and product details you will rely on every day in your new career.
 
 As you select a course provider, focus on offerings that match your schedule and learning style. Some organizations deliver in-person classes, while others feature online modules you can complete at your own pace. If you prefer interactive lessons and immediate feedback, a virtual live classroom might be right for you. If your schedule is especially busy, then recorded on-demand lessons are a flexible alternative.
 
@@ -71,19 +71,25 @@ Pre-licensing Course
 
 $150 to $400+
 
-1 to 4 weeks of study
+1 to 6+ weeks of study, depending on required hours
 
 Exam Fee (per attempt)
 
-$50 to $100+
+$29 to $98
 
 1 day
 
-License Application & Background Fee
+License Application Fee
 
-$100 to $200+
+$0 to $225
 
 1 to 2 weeks processing
+
+Fingerprinting / Background Check
+
+$0 to $85
+
+Schedule early; adds days, not weeks
 
 Additional Study Materials
 
@@ -91,7 +97,7 @@ Varies
 
 Ongoing
 
-Keep in mind that you might need to factor in travel expenses for test centers if you opt for in-person exams. However, remote proctoring has become more common, potentially saving you time and money. Plan to spend around one to two months from starting your pre-licensing course to fully completing the process, depending on your schedule and your state’s processing times.
+Those state-fee ranges are real spreads, not rounding: Montana charges no application fee at all, while Massachusetts charges $225. Several states also fold the background check into the application fee instead of billing it separately, so check your own state’s fee schedule rather than budgeting from a national average. Keep in mind that you might need to factor in travel expenses for test centers if you opt for in-person exams. However, remote proctoring has become more common, potentially saving you time and money. Plan to spend around one to two months from starting your pre-licensing course to fully completing the process, depending on your schedule and your state’s processing times. High-hour licenses such as Florida’s 200-hour 2-20 will take noticeably longer.
 
 ## Renew and maintain your license
 

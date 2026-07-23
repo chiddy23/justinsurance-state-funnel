@@ -20,8 +20,6 @@ imageAlt: >-
 imageCredit: Photo by PICHA Stock on Pexels
 ---
 
-Insurance: [insurance license](/prelicensing) state registration process
-
 Congratulations on passing your insurance exam! You have accomplished an important milestone that opens the door to a rewarding career. Yet, passing the exam is only the first step toward becoming a fully licensed agent. Before you can officially sell policies or advise clients, you must complete the insurance license state registration process.
 
 Although this process can seem overwhelming, the steps are usually straightforward once you know what to expect. Below, you will find a clear breakdown of each phase, along with answers to common questions and tips to help you avoid delays. By the time you finish reading, you will be ready to verify your exam results, submit your paperwork, and launch your journey as a licensed professional.
@@ -37,6 +35,7 @@ If you are missing your exam certificate or believe your score was not properly 
 Preparing the right documents before starting your application helps you avoid multiple stops and starts. Your state’s insurance department typically lists all required paperwork on its official website, but here are some common items you should have ready:
 
 -   Official exam certificate or pass letter
+-   Your [pre-licensing education](/prelicensing) completion certificate, if your state requires a course
 -   Valid government-issued ID (driver’s license or passport)
 -   Proof of residency (utility bill, lease agreement, or mortgage statement)
 -   Social Security number or tax identification number
@@ -90,8 +89,8 @@ In most jurisdictions, you cannot legally act as an insurance agent or receive c
 
 ### 5\. How can JustInsurance help me?
 
-JustInsurance provides personalized guidance at every stage of the licensing process, from exam preparation to ongoing support after you have passed. Whether you need help understanding your state’s online application portal or you want to stay updated on changes to licensing laws, the JustInsurance team is here to answer questions and offer clarity. Reach out anytime if you need a friendly expert to walk you through the next steps.
+JustInsurance sells self-paced online [prelicensing courses](/prelicensing) for life and health insurance, along with full-length practice exams and study materials to get you through the state exam — plus [continuing education](/continuing-education) courses for the hours you will owe once you are licensed. Our support team can answer questions about those courses. For the application itself, your state’s insurance department is the authority: check its website for application status, filing rules, and any changes to licensing law, since no course provider is notified of those on your behalf.
 
-You now hold all the key information you need to finalize your licensing process. With your exam success confirmed, your documents in order, and a plan to stay organized, you can approach each requirement confidently. When you keep an eye on deadlines and communicate openly with your state’s insurance department, you will be one step closer to serving clients as a licensed agent. If you find yourself stuck or want extra support, remember that JustInsurance can answer your questions and ensure everything stays on track.
+You now hold all the key information you need to finalize your licensing process. With your exam success confirmed, your documents in order, and a plan to stay organized, you can approach each requirement confidently. When you keep an eye on deadlines and communicate openly with your state’s insurance department, you will be one step closer to serving clients as a licensed agent. If you find yourself stuck, remember that the JustInsurance support team can answer questions about our courses, and that your state’s insurance department is the place to confirm exactly where your application stands.
 
 Take that next step and get your license officially in hand. Before you know it, you will be helping individuals and families find the coverage they need, growing in your career, and making a positive difference in people’s lives. Good luck, and enjoy the journey ahead!

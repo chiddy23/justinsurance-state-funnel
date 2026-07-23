@@ -26,7 +26,7 @@ The fix: Treat your prelicensing course as the foundation, not the ceiling. Afte
 
 The NJ state law section carries 25 scored questions — and on every NJ exam line, it is where candidates lose the most points relative to the general section. The reason is straightforward: the state law section tests New Jersey-specific rules that many prelicensing courses cover lightly, and candidates who rely on their general insurance knowledge to carry them through the state law section routinely find that it does not.
 
-The $100 inducement threshold. The Commissioner's $15,000 penalty authority. The 20-day hearing notice requirement. The controlled business prohibition. The 60-day temporary work authority. These are NJ-specific details that do not appear on exams in most other states, and a candidate who does not specifically study them will guess on questions that well-prepared candidates answer in seconds.
+The $100 inducement threshold. The Commissioner's unfair-trade-practice penalty authority — up to $1,000 per act, or $5,000 per act for a knowing violation. The 20-day hearing notice requirement. The controlled business prohibition. The 60-day temporary work authority. These are NJ-specific details that do not appear on exams in most other states, and a candidate who does not specifically study them will guess on questions that well-prepared candidates answer in seconds.
 
 The fix: Allocate at least one full week of your study plan exclusively to the NJ state law section. Use the PSI content outline sections 6 and 7 as your checklist. Study the specific numbers, the specific statutory names, and the specific fact patterns PSI uses to test each topic.
 

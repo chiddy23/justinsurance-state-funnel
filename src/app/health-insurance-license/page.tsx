@@ -1,3 +1,4 @@
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
@@ -55,10 +56,29 @@ const faqs = [
   },
 ];
 
+// Derived so the count self-corrects the moment a pending provider approval
+// issues. We serve every state except New York; "state-approved CE" is truthful
+// only where our providerApprovalNumber has actually issued — Washington is still
+// "PENDING" (and New York is not served), so CE approval currently holds in 48 of
+// the 49 served states. Mirrors the derivation in src/app/press/page.tsx.
+const servedStates = Object.values(STATES).filter((s) => s.slug !== "new-york");
+const ceApprovalPendingStates = servedStates.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const ceApprovedStateCount = servedStates.length - ceApprovalPendingStates.length;
+const cePendingNote =
+  ceApprovalPendingStates.length === 0
+    ? ""
+    : ` (${ceApprovalPendingStates.map((s) => s.name).join(", ")} pending)`;
+
 const stats = [
   { value: "$199", label: "Prelicensing price", sub: "Flat rate, no hidden fees" },
   { value: "93%", label: "First-attempt pass rate", sub: "Among JustInsurance completers" },
-  { value: "49", label: "States covered", sub: "Health exam prep and state-approved CE" },
+  {
+    value: String(servedStates.length),
+    label: "States covered",
+    sub: `Health exam prep, with state-approved CE in ${ceApprovedStateCount}${cePendingNote}`,
+  },
   { value: "10,000+", label: "Medicare enrollees per day", sub: "Turning 65 in the U.S. daily" },
 ];
 
@@ -123,11 +143,11 @@ export default function HealthInsuranceLicensePage() {
             Find My State
           </a>
           <p className="text-blue-200 text-xs mt-6 max-w-xl mx-auto leading-relaxed">
-            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-white">
               Terms
             </Link>
-            : complete the recommended hours, score 80%+ on the practice exam three times, and sit for your state exam within 30 days of enrolling.
+            : complete the recommended hours, score 80%+ on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment.
           </p>
         </div>
       </section>
@@ -146,7 +166,7 @@ export default function HealthInsuranceLicensePage() {
               A health insurance license grants you the legal authority to sell a wide spectrum of health and benefits products. The most common are individual and group major medical plans — including ACA marketplace plans — as well as short-term medical coverage. Beyond standard health plans, a health license is also required for disability income insurance, which replaces a portion of a client&apos;s income if they become unable to work due to illness or injury.
             </p>
             <p>
-              Long-term care insurance and Medicare products represent two of the fastest-growing segments in the industry. More than 10,000 Americans turn 65 every single day, and virtually all of them need help navigating Medicare Supplement, Medicare Advantage, and Part D prescription drug plans. Health-licensed agents who specialize in the senior market are among the most in-demand in the country.
+              Long-term care insurance and Medicare products are two major product areas open to health-licensed agents, and demand from an aging population continues to grow. More than 10,000 Americans turn 65 every single day, and virtually all of them need help navigating Medicare Supplement, Medicare Advantage, and Part D prescription drug plans. Health-licensed agents who specialize in the senior market are among the most in-demand in the country.
             </p>
             <p>
               To sell any of these products, you must hold an active health insurance license in each state where your clients reside. In the states that require prelicensing, the process starts with completing a state-approved prelicensing course, passing the state licensing exam, and submitting a license application to the Department of Insurance. JustInsurance provides the online prelicensing education — $199 flat, self-paced, and backed by our pass guarantee, available in most states. Select your state below to get started.

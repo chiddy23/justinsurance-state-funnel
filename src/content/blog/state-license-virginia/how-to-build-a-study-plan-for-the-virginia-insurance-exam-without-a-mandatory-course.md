@@ -17,13 +17,23 @@ Virginia's no-[prelicensing](/virginia/prelicensing) requirement puts every cand
 
 ## Understand the Exam Before You Study
 
-Before you open any study material, understand exactly what you are preparing for. Virginia's licensing exams test two distinct types of content:
+Before you open any study material, understand exactly what you are preparing for. Virginia's licensing exams test two distinct types of content — but Prometric does not divide the exam into a "national half" and a "state half," and assuming it does will distort your whole study plan.
 
-National/general content covers insurance principles, policy mechanics, coverage structures, and federal regulations that apply across all states. For the P&C exam, this section has 100 scored questions. For the Life, Annuities & Health exam, also 100 scored questions. This material is the same core content tested in every state.
+National/general content covers insurance principles, policy mechanics, coverage structures, and federal regulations that apply across all states. This is the same core material tested in every state.
 
-Virginia state law content covers Title 38.2 of the Code of Virginia, the SCC Bureau of Insurance's regulatory framework, Virginia-specific auto insurance rules (50/100/25 minimums, UIM stacking, mandatory coverage), unfair trade practices, producer licensing rules, and Virginia-specific health and life insurance statutes. The P&C exam has 35 scored state law questions; the L/A/H exam has 40. You must score 70% or higher on each section separately.
+Virginia state law content covers Title 38.2 of the Code of Virginia, the SCC Bureau of Insurance's regulatory framework, Virginia-specific auto insurance rules (50/100/25 minimums, UIM stacking, mandatory coverage), unfair trade practices, producer licensing rules, and Virginia-specific health and life insurance statutes.
 
-Your study plan must cover both. Candidates who under-prepare the state law section fail despite strong national content knowledge.
+What Prometric actually publishes is a single integrated content outline per series, built from weighted sections, with Virginia citations threaded through the substantive sections rather than quarantined in one block. The most concentrated block of state law is the "Insurance Regulation" section — 20 of the 135 scored items (15%) on the P&C exam, and 14 of the 140 scored items (10%) on Life, Annuities & Health — but Virginia statutes also appear inside the auto, life, health, and unfair-trade-practices sections. There is no published national-versus-state question count, so do not build your schedule around one.
+
+The published structure is:
+
+-   Series 11-03 (Property & Casualty): 135 scored questions plus 10 unscored pre-test items, 2.5-hour limit
+-   Series 11-01 (Life, Annuities & Health): 140 scored plus 10 pre-test items, 2.5-hour limit
+-   Series 11-05 (Life & Annuities) and 11-06 (Health): 90 scored plus 15 pre-test items each, two-hour limit
+
+Scoring works the same way: one overall percentage, computed by dividing the questions you answered correctly by the total number of questions, with 70% overall as the passing standard. Your score report also breaks out a percentage for each outline section, but those numbers are diagnostic only — the Virginia bulletin says they are "shown to guide you, or your employer and/or trainer, about areas requiring additional preparation for retesting if you do not pass the exam," and notes the section percentages will not average out to your total. There is no separate per-section pass requirement.
+
+That is not permission to skip state law. It just means a weak area is arithmetic, not a trapdoor: enough missed Virginia-specific items will pull your single overall score under 70 all on their own. Candidates who under-prepare the state law content fail despite strong national content knowledge.
 
 Your first action: Download the Prometric content outline for your specific exam series at prometric.com/virginia/insurance. This document lists every topic tested by section and percentage weight. It is the authoritative study guide — everything on the outline is fair game, nothing off it will appear.
 
@@ -49,7 +59,7 @@ End of week 1 benchmark: Take a full-length timed national-content practice exam
 
 Shift entirely to Virginia-specific content. Work through:
 
-The SCC Bureau of Insurance structure — Title 38.2 of the Code of Virginia, how the SCC differs from a standalone department of insurance, what the Commissioner does and does not do (Virginia's "Commissioner" equivalent is the SCC itself)
+The SCC Bureau of Insurance structure — Title 38.2 of the Code of Virginia, how the SCC differs from a standalone department of insurance, and the two officials it references: the State Corporation Commission (the regulatory body) and the Commissioner of Insurance, defined by Va. Code § 38.2-100 as the administrative or executive officer who heads the Bureau of Insurance
 
 Producer licensing requirements: age, residency, exam, fingerprinting, application, fees, CE obligations
 
@@ -57,7 +67,7 @@ Unfair trade practices and unfair claim settlement practices under Virginia law
 
 Virginia auto insurance law: 50/100/25 minimums (effective January 1, 2025), mandatory coverage requirement (effective July 1, 2024), UIM stacking (effective July 1, 2023 under Va. Code § 38.2-2206), FR-44 DUI requirements (100/200/50)
 
-Virginia health insurance law: individual mandate provisions, Get Covered Virginia exchange, COBRA and continuation, small employer health insurance requirements
+Virginia health insurance law: Virginia's Insurance Marketplace — the state-based exchange the Virginia Health Benefit Exchange launched for plan year 2024 at marketplace.virginia.gov, replacing HealthCare.gov for Virginia enrollees — plus Va. Code § 38.2-3430.1:1, which states that no Virginia resident is required to obtain individual health coverage and none is liable for a penalty for going without it (Virginia has no state individual mandate), COBRA and Virginia continuation, and small employer health insurance requirements
 
 Virginia life insurance law: replacement regulations, free-look periods, grace periods, incontestability, policyholder rights
 
@@ -69,15 +79,15 @@ End of week 2 benchmark: Take a full-length Virginia state law practice exam or 
 
 Review your practice exam diagnostics from weeks 1 and 2. Identify the specific content areas where you scored below 70% and target those specifically. Do not re-study areas where you are already strong.
 
-Take two full-length integrated practice exams — covering both national and state sections — under timed conditions. For the P&C exam, that means 135 minutes for 135 questions. For the L/A/H exam, 150 minutes for 140 questions. Do not allow yourself more time than the real exam provides.
+Take two full-length integrated practice exams — covering both national and Virginia content — under timed conditions. Both major exams allow 150 minutes: the P&C exam gives you 150 minutes for 135 scored questions (plus 10 unscored pre-test items you cannot identify, so pace yourself across all 145), and the L/A/H exam gives you 150 minutes for 140 scored questions plus 10 pre-test items. Do not allow yourself more time than the real exam provides.
 
-End of week 3 benchmark: Consistently scoring 75%+ on both sections on practice exams. If you are not there, extend week 3 before proceeding.
+End of week 3 benchmark: Consistently scoring 75%+ overall on practice exams, with no outline section still sitting below 70%. If you are not there, extend week 3 before proceeding.
 
 ### Week 4: Refinement and Final Preparation
 
 Continue targeted weak-area review. Reduce new content study and increase practice exam repetition. Your final 3–5 days should primarily be practice exams and review of diagnostic reports.
 
-Do not schedule the real exam until your practice scores are consistently at 75% or above on both sections. The cost of scheduling too early is $35 per retake plus the 30-day wait if you hit three failures.
+Do not schedule the real exam until your practice scores are consistently at 75% or above overall and no content area is still lagging behind the rest. The cost of scheduling too early is $35 per retake plus the 30-day wait if you hit three failures.
 
 ## Measuring Readiness
 
@@ -109,4 +119,6 @@ Two days before the exam, stop introducing new topics. Your brain consolidates i
 
 The Virginia insurance exam rewards structured preparation. Build the plan, execute it systematically, measure your readiness honestly, and schedule the exam when your practice scores demonstrate you are ready — not when your calendar says you should be.
 
-Visit JustInsurance to enroll today and prepare with a structured Virginia-approved course that covers both national content and state law in a single program.
+One note on shopping for materials: Virginia does not approve prelicensing or exam-prep courses for these lines — the Bureau of Insurance says plainly that "neither the Bureau nor Prometric reviews or approves study materials or pre-licensing schools." So ignore any provider's "state-approved" badge and judge the course on whether it is built to the current Prometric content outline instead.
+
+Visit JustInsurance to enroll today and prepare with a structured course built to the current Prometric Virginia content outline, covering both national content and Virginia state law in a single program.

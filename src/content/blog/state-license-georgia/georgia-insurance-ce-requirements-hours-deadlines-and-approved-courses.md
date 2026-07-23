@@ -48,6 +48,8 @@ Limited Lines (travel, credit, etc.): Reduced CE requirements apply. Confirm wit
 
 Adjuster licenses: Separate CE requirements apply for adjuster credentials.
 
+Two reductions to know about: OCI's published CE schedule sets 24 hours for resident licensees with fewer than 20 years of service and 20 hours for those with more than 20 years of service, and licensees who hold certain designations (CPCU, CLU, FLMI, CIC, CEBS, ChFC, AAI, CFP, or a related risk-management degree) may qualify for a reduced 12-hour requirement on proof to the office. The 3-hour ethics requirement applies at every tier. Check OCI's continuing education page for the requirement that applies to you rather than assuming the flat 24.
+
 ## The 3-Hour Ethics Requirement
 
 Georgia requires 3 hours of Ethics CE as part of every 2-year renewal cycle. This requirement is:
@@ -62,7 +64,9 @@ The Ethics course covers fiduciary duty, agent conduct standards, conflicts of i
 
 ## When Your CE Is Due
 
-Your CE requirement is tied to your license renewal date. Your specific date is based on when your license was originally issued — OCI lists it in your online producer profile.
+Your CE requirement is tied to your license renewal date, and in Georgia that date is driven by your birth month — not by the date your license was originally issued. Georgia agent licenses expire on the last day of your birth month every 2 years, and your CE must be completed on or before that date.
+
+One consequence worth knowing: because the cycle is anchored to your birth month, a brand-new license is issued with an initial term of roughly 18 to 29 months depending on when in the year you were born. Your exact expiration date is listed in your OCI producer record and on the Georgia Producer Portal at sircon.com/georgia.
 
 OCI sends renewal reminders as the date approaches, but you're ultimately responsible for tracking your own deadline. Don't rely exclusively on reminders.
 
@@ -152,7 +156,7 @@ These specialty requirements are in addition to — not part of — your standar
 
 ## 5 Frequently Asked Questions
 
-1. When exactly is my Georgia CE due? Your CE is tied to your 2-year renewal cycle based on your original license date. Confirm your specific date through OCI's producer portal or Sircon.
+1. When exactly is my Georgia CE due? On or before the last day of your birth month, every 2 years. The cycle is anchored to your birth month, not to the date your license was originally issued. Confirm your exact expiration date through OCI's producer record or the Georgia Producer Portal at sircon.com/georgia.
 
 2. Can I carry over extra CE hours to the next renewal cycle? Yes — up to 50% of the biennial requirement (12 of your 24 hours) may carry forward to the next filing period (Ga. Comp. R. & Regs. 120-2-3-.15(5)). Ethics hours must still be completed each cycle.
 

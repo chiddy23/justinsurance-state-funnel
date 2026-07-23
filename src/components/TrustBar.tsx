@@ -28,7 +28,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
       </svg>
     ),
     label: "20,000+ Students",
-    sub: "Licensed and counting",
+    sub: "Trained and counting",
   },
   {
     icon: (
@@ -125,9 +125,15 @@ interface TrustBarProps {
    * guarantee, that signal is swapped for a neutral one. Omit on national
    * pages — rendering is unchanged. */
   stateSlug?: string;
+  /** Set false on product surfaces the Pass Guarantee cannot reach — the CE
+   * hub and any CE page. Terms § 4 limits the guarantee to qualifying
+   * PRELICENSING courses and conditions it on a first-time state exam
+   * attempt; CE renewal has no state exam, so no CE purchase can ever
+   * trigger it. Defaults true, so every existing caller renders unchanged. */
+  passGuaranteeApplies?: boolean;
 }
 
-export default async function TrustBar({ stateSlug }: TrustBarProps) {
+export default async function TrustBar({ stateSlug, passGuaranteeApplies = true }: TrustBarProps) {
   // Live Google Business Profile rating + count (auto-updates via ISR; falls
   // back to the static display when no API key/place ID is configured).
   const google = await getGoogleReviews();
@@ -148,6 +154,9 @@ export default async function TrustBar({ stateSlug }: TrustBarProps) {
       if (signal.label === "Same-Day Reporting") return ONLINE_SELF_PACED_SIGNAL;
     }
     if (signal.label === "Pass Guarantee") {
+      // Product-level gate runs BEFORE the state-level gate: on a CE surface the
+      // guarantee is unavailable in every state, eligible ones included.
+      if (!passGuaranteeApplies) return INSTANT_ACCESS_SIGNAL;
       if (!stateSlug)
         return { ...signal, sub: "Pass or we refund — eligible states, terms apply" };
       if (!hasPassGuarantee(stateSlug)) return INSTANT_ACCESS_SIGNAL;

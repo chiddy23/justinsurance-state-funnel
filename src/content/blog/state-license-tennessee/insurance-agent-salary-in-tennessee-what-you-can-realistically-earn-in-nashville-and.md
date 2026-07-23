@@ -20,13 +20,13 @@ Tennessee insurance producer income is not a single number — it is a range det
 
 ### The Wide Range Problem
 
-Salary.com reports a statewide average of around $53,000–$54,000 (July 2025); ZipRecruiter shows $64,706 (October 2025); and Indeed reports $80,017 for licensed agents (December 2025). The $26,000 spread between the lowest and highest of those three figures from three credible sources is not a data quality problem — it reflects genuine variation in what the data is capturing. Salary.com tends to capture base salary-heavy compensation structures. ZipRecruiter captures job postings with self-reported salary ranges. Indeed captures actual compensation reported by workers, including commission income. Glassdoor
+Salary.com reports a statewide average of around $53,000–$54,000 (July 2025); ZipRecruiter shows $64,706 (October 2025); and Indeed reports $80,017 for licensed agents (December 2025). The $26,000 spread between the lowest and highest of those three figures from three credible sources is not a data quality problem — it reflects genuine variation in what the data is capturing. Salary.com tends to capture base salary-heavy compensation structures. ZipRecruiter captures job postings with self-reported salary ranges. Indeed captures actual compensation reported by workers, including commission income.
 
 The most useful interpretation: a Tennessee insurance producer who is salaried and early-career might earn in the $45,000–$55,000 range in base compensation. A licensed producer who has been working for three or more years and whose total compensation includes growing commission and renewal income is likelier in the $65,000–$85,000 range statewide. Experienced producers with established books of business regularly earn $100,000–$150,000 or more — numbers that appear in the data but get averaged with the entry-level figures to produce the medians.
 
 ### Nashville vs. the Rest of Tennessee
 
-The average salary for an insurance agent in Nashville, TN is $85,996 per year based on 230 salaries taken from job postings on Indeed in the past 36 months (updated April 2026). Nashville beats the Tennessee average by 6.4%, and Franklin furthers that trend with another approximately 8.8% above the Tennessee average. PublicationsRegure
+Nashville, as Tennessee's largest insurance market, consistently pays above the statewide average, and the affluent Williamson County suburbs — Franklin and Brentwood — run higher still. That premium is driven by the size and complexity of the accounts a producer can reach in those markets rather than by any single published salary figure; exact dollar averages from job-posting aggregators swing widely from month to month, so treat them as directional rather than precise.
 
 Why Nashville pays more: Nashville is Tennessee's largest market by insurance premium volume, its most economically diverse market, and the market with the highest concentration of commercial accounts, employee benefits opportunities, healthcare industry clients, and high-net-worth individuals. Every line of insurance pays more when the underlying premiums are larger and the accounts are more complex — and Nashville's economy produces more of both.
 
@@ -40,13 +40,13 @@ Understanding Tennessee insurance agent income requires understanding that most 
 
 A captive agent works for a single carrier — State Farm, Allstate, Farmers, GEICO, or similar — and can only sell that carrier's products. In exchange for the exclusivity, the captive model typically provides:
 
-Base salary or draw: Captive agents work exclusively for one carrier. Their insurance agent commission structure typically includes a base salary or draw against commissions, plus bonuses and incentive trips. Base compensation is typically $30,000–$50,000 salary or draw during the first one to two years. Indeed
+Base salary or draw: Captive agents work exclusively for one carrier. Their insurance agent commission structure typically includes a base salary or draw against commissions, plus bonuses and incentive trips. Base compensation is typically $30,000–$50,000 salary or draw during the first one to two years.
 
-Lower commission rates: Captive home and auto insurance agents typically earn a 5% to 10% commission on the first year's premium. The lower rate reflects the carrier's investment in providing the agent with leads, training, brand recognition, office infrastructure, and administrative support. ZipRecruiter
+Lower commission rates: Captive home and auto insurance agents typically earn a 5% to 10% commission on the first year's premium. The lower rate reflects the carrier's investment in providing the agent with leads, training, brand recognition, office infrastructure, and administrative support.
 
 Structured growth path: Captive carriers typically provide new agents with a path from training to full production to agency ownership or management, with defined milestones and compensation adjustments at each stage.
 
-The captive trade-off: Because captive agents are bound to one insurance carrier, they may offer customers coverage options from only that carrier. When compared to independent agents, the commission rate a captive agent receives is lower. This is because captive agents also receive a base salary and benefits. Indeed
+The captive trade-off: Because captive agents are bound to one insurance carrier, they may offer customers coverage options from only that carrier. When compared to independent agents, the commission rate a captive agent receives is lower. This is because captive agents also receive a base salary and benefits.
 
 For new producers entering Tennessee's insurance market without prior industry experience, the captive model's combination of training, leads, and base compensation reduces the financial risk of the career's early stages — when commission income is modest because the book of business is small.
 
@@ -54,13 +54,13 @@ For new producers entering Tennessee's insurance market without prior industry e
 
 An independent agent represents multiple carriers and can place clients with the carrier whose product best fits the client's needs. This flexibility creates higher commission rates and uncapped income potential — but also transfers all business development risk to the producer.
 
-Higher commission rates: Independent agents generally earn higher commissions, averaging around 15% on new home and auto policies. ZipRecruiter
+Higher commission rates: Independent agents generally earn higher commissions, averaging around 15% on new home and auto policies.
 
 No base salary: Most independent agents have no guaranteed income floor. Early-career independent producers may access a draw against future commissions through their agency — but that draw must be repaid from production. Producers who do not generate sufficient sales in early months face financial pressure that the captive model's base salary absorbs.
 
 Book ownership: Independent agents typically own their book of business — the accumulated client relationships and renewal commissions that represent the economic value of years of production. This ownership is not present in most captive arrangements, where the carrier owns the book and the agent loses access to it upon departure.
 
-The independent income ceiling: Independent agents earn higher commissions (85–100% on life products) and own their client base. The commission difference compounds significantly over a career. An independent agent earning 85% versus a captive earning 60% on the same premium volume could see hundreds of thousands more in lifetime earnings. ZipRecruiter
+The independent income ceiling: Independent agents earn higher commissions (85–100% on life products) and own their client base. The commission difference compounds significantly over a career. An independent agent earning 85% versus a captive earning 60% on the same premium volume could see hundreds of thousands more in lifetime earnings.
 
 ## Commission Rates by Line: The Income Architecture
 
@@ -70,7 +70,7 @@ What a producer earns from each policy depends entirely on the line of insurance
 
 Personal lines new business: Captive agents typically earn 5–10% of the first-year premium. Independent agents typically earn 12–15% of the first-year premium. On a $3,000 homeowners policy, a captive agent earns $150–$300; an independent agent earns $360–$450.
 
-Personal lines renewals: For property and casualty insurance, renewal commissions typically range from 2% to 5%. The renewal commission is where long-term P&C income is built — a producer with 500 personal lines clients each paying an average of $2,500 in annual premium has a renewal book generating $25,000–$62,500 per year simply by retaining those clients, with no new sales required. ZipRecruiter
+Personal lines renewals: For property and casualty insurance, renewal commissions typically range from 2% to 5%. The renewal commission is where long-term P&C income is built — a producer with 500 personal lines clients each paying an average of $2,500 in annual premium has a renewal book generating $25,000–$62,500 per year simply by retaining those clients, with no new sales required.
 
 Commercial lines: Commercial P&C commission rates are typically higher than personal lines — often 10–15% on new business for mid-market accounts, with some specialty lines and surplus lines placements producing higher rates. A single commercial account producing $50,000 in annual premium generates $5,000–$7,500 in annual commission. Commercial accounts also renew at higher retention rates than personal lines — business clients who are well-served rarely shop their coverage annually.
 
@@ -78,25 +78,25 @@ Commercial lines: Commercial P&C commission rates are typically higher than pers
 
 Life insurance commissions have the highest first-year rates of any insurance line — and the most dramatic differential between first-year and renewal income.
 
-First-year commissions: Individual Life insurance first-year commissions can reach 55–120% of premium. Term life policies typically pay 30–70% of the first-year premium. Whole life and universal life pay 80–120%. A $5,000 annual whole life premium produces $4,000–$6,000 in first-year commission for the producer. Indeed
+First-year commissions: Individual Life insurance first-year commissions can reach 55–120% of premium. Term life policies typically pay 30–70% of the first-year premium. Whole life and universal life pay 80–120%. A $5,000 annual whole life premium produces $4,000–$6,000 in first-year commission for the producer.
 
-Renewal commissions: For life insurance, ongoing commissions after the first year are usually in the 2% to 5% range. Life insurance renewal income is modest per policy — but accumulated across hundreds of in-force policies built over years, it creates a meaningful recurring income base. ZipRecruiter
+Renewal commissions: For life insurance, ongoing commissions after the first year are usually in the 2% to 5% range. Life insurance renewal income is modest per policy — but accumulated across hundreds of in-force policies built over years, it creates a meaningful recurring income base.
 
 The life insurance income model: Life insurance producers who focus on building volume — placing dozens of new policies per month — can generate substantial first-year income quickly. The income is lumpy and front-loaded, requiring consistent new sales to sustain income levels because renewal income on each policy is modest. Producers who combine volume with high persistency (clients who keep their policies in force) build renewal income that eventually provides a stable base regardless of new sales activity.
 
 ### Health and Benefits Commissions
 
-Individual health: Health insurance commission sits at 3–7% of premium. Individual health insurance commissions are the lowest of any major line — which is why individual health specialists typically depend on volume and ancillary product sales (dental, vision, supplemental) to produce adequate income from health insurance activity alone. Indeed
+Individual health: Health insurance commission sits at 3–7% of premium. Individual health insurance commissions are the lowest of any major line — which is why individual health specialists typically depend on volume and ancillary product sales (dental, vision, supplemental) to produce adequate income from health insurance activity alone.
 
 Group health and employee benefits: Group health and employee benefits commissions are typically paid as a percentage of premium (often 3–5% for large groups) or as a per-employee-per-month fee for smaller groups. The per-head model on small group health — $15–$25 per enrolled employee per month — can produce substantial income when a producer manages a portfolio of employer groups. A benefits producer with 30 employer group clients averaging 20 enrolled employees at $20 per head generates $12,000 per month in recurring commission income — purely from retention of existing accounts.
 
-Medicare: Initial enrollment commissions for Medicare Advantage in 2025 average over $623 per plan in states like Alabama and Arkansas, with significant state-specific variations. Medicare supplement commissions vary by carrier and plan type but generate meaningful first-year and renewal income given the volume of Medicare-eligible Tennesseans, particularly in the expanding Middle Tennessee retirement communities. Indeed
+Medicare: Initial enrollment commissions for Medicare Advantage in 2025 average over $623 per plan in states like Alabama and Arkansas, with significant state-specific variations. Medicare supplement commissions vary by carrier and plan type but generate meaningful first-year and renewal income given the volume of Medicare-eligible Tennesseans, particularly in the expanding Middle Tennessee retirement communities.
 
 ## Tennessee's Specific Income Advantages
 
 ### No State Income Tax
 
-Tennessee eliminated its Hall income tax on investment income and has no personal income tax on wages. This is a direct income advantage for Tennessee insurance producers compared to producers in income-tax states. A Tennessee producer earning $100,000 in commission income retains the full $100,000 minus federal taxes. A Georgia producer earning the same $100,000 pays an additional 5.49% state income tax — approximately $5,490 more in annual tax burden. Over a 30-year career, the Tennessee tax advantage on a growing commission income is substantial.
+Tennessee eliminated its Hall income tax on investment income and has no personal income tax on wages. This is a direct income advantage for Tennessee insurance producers compared to producers in income-tax states. A Tennessee producer earning $100,000 in commission income retains the full $100,000 minus federal taxes. A Georgia producer earning the same $100,000 pays Georgia's flat 4.99% state income tax (the 2026 rate) — roughly $5,000 more in annual tax burden that a Tennessee producer keeps. Over a 30-year career, the Tennessee tax advantage on a growing commission income is substantial.
 
 ### Nashville's Healthcare Industry
 
@@ -172,4 +172,4 @@ Yes — and it compounds significantly over a career. A Tennessee producer earni
 
 Tennessee insurance agent income is not a fixed salary — it is a function of how much you sell, what you sell it for, how long you keep your clients, and how efficiently you acquire new ones. The producers who treat the career as a profession — who invest in expertise, build systematic client service processes, develop referral relationships, and compound renewal income over years — consistently reach income levels that salaried careers in comparable fields cannot match. The producers who treat it as a job — who rely on the carrier to bring them leads, who do not develop niches, who do not systematically service accounts — tend to plateau at levels that reflect the effort they have invested rather than the career's actual potential.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course — the first step toward the license that makes every income number in this post available to you.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline — the first step toward the license that makes every income number in this post available to you.

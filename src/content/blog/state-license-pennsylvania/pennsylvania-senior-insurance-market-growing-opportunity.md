@@ -24,9 +24,9 @@ Here's what Pennsylvania producers should know about the senior insurance specia
 
 Pennsylvania's senior demographics are substantial:
 
-Approximately 18-19% of Pennsylvania's population is 65 or older — among the highest concentrations in the country
+Approximately 20% of Pennsylvania's population is age 65 or older (about 20.4% in 2024, versus roughly 18% nationally) — well above the national average
 
-Pennsylvania ranks among the top 5 states for senior population proportion
+Pennsylvania has the fifth-largest 65-and-older population of any state, behind only California, Florida, Texas, and New York
 
 Substantial senior populations across all major metros
 
@@ -330,7 +330,7 @@ For producers prioritizing stability and mission-alignment, senior practice ofte
 
 ## 5 Frequently Asked Questions
 
-- Why is Pennsylvania a strong senior insurance market? Pennsylvania has approximately 18-19% of population age 65+ (among highest concentrations in country), substantial senior populations across all major metros and rural areas, and Pennsylvania-specific senior protection regulations creating practice opportunity.
+- Why is Pennsylvania a strong senior insurance market? Pennsylvania has approximately 20% of its population age 65+ (about 20.4% in 2024, versus roughly 18% nationally) and the fifth-largest senior population of any state, with substantial senior populations across all major metros and rural areas, plus Pennsylvania-specific senior protection regulations creating practice opportunity.
 - What's the most common entry point for Pennsylvania senior insurance practice? Medicare. Annual Enrollment Period activity (October 15 - December 7) creates substantial recurring opportunity. Most successful senior practices include strong Medicare component.
 - Do I need special training to sell LTC in Pennsylvania? Yes. Pennsylvania requires initial 8-hour state-approved LTC Training course (one-time), then 4-hour ongoing LTC Training every 24 months. Producers must hold active Health and Sickness/Accident license.
 - How does Pennsylvania annuity practice for seniors compare to other states? Pennsylvania adopted enhanced Annuity Best Interest standards aligned with NAIC 2020 Annuity Model Law. Producers licensed on or after June 20, 2022 must complete a 4-hour Annuity Best Interest course. All producers with life and fixed annuities or variable life/variable line must complete this regardless of intent to sell annuities.
@@ -338,6 +338,6 @@ For producers prioritizing stability and mission-alignment, senior practice ofte
 
 ## Build Your Pennsylvania Senior Insurance Practice
 
-Pennsylvania's senior market offers exceptional opportunity for properly trained producers. At JustInsurance (Provider Approval #147815), our Pennsylvania [prelicense](/pennsylvania/prelicensing) and CE courses provide foundational expertise supporting senior specialty practice including Medicare, LTC, and annuity considerations.
+Pennsylvania's senior market offers exceptional opportunity for properly trained producers. At JustInsurance — an approved Pennsylvania continuing education provider (#147815) — our Pennsylvania [exam-prep](/pennsylvania/prelicensing) and CE courses provide foundational expertise supporting senior specialty practice including Medicare, LTC, and annuity considerations.
 
 Enroll today and start building toward Pennsylvania senior insurance specialty practice.

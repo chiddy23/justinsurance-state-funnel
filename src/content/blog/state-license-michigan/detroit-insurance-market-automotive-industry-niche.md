@@ -86,7 +86,7 @@ West Bloomfield/Farmington Hills — substantial Jewish community and broader af
 
 Macomb County:
 
-Sterling Heights — largest Michigan city outside Detroit; substantial manufacturing and working-class/middle-income market
+Sterling Heights — one of Michigan's largest cities (roughly fourth statewide, behind Detroit, Grand Rapids, and neighboring Warren) and a major Macomb County manufacturing center; substantial working-class/middle-income market
 
 Clinton Township, Warren, St. Clair Shores — large middle-income markets with significant UAW and retired auto worker populations
 

@@ -92,9 +92,9 @@ Up to 12 hours of excess CE may be carried over to the next review period.
 
 This cap is important because:
 
-Some states allow unlimited carryover (like Pennsylvania with 24 hours)
+Some states allow a higher carryover cap — Pennsylvania, for example, lets a licensee carry forward up to 24 credit hours from one licensing period to the next (40 P.S. § 310.8(b)(1))
 
-Michigan caps at 12 hours — earning 36 hours in one period gives you 12 carried hours, not 12
+Michigan caps at 12 hours — finishing 40 hours in one review period still carries only 12 forward, not 16
 
 What carries over:
 

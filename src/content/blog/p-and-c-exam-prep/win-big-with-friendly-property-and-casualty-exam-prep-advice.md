@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-Whether you are brand-new to insurance or have been planning to test for a while, effective property and casualty exam prep can make all the difference in your success. Many people feel pressure when facing a [licensing exam](/prelicensing), and that is completely normal. With the right approach, you can absorb the material, test with confidence, and move one step closer to a rewarding career.
+Whether you are brand-new to insurance or have been planning to test for a while, effective property and casualty exam prep can make all the difference in your success. Many people feel pressure when facing a licensing exam, and that is completely normal. With the right approach, you can absorb the material, test with confidence, and move one step closer to a rewarding career.
 
 ## Understand the exam structure
 
@@ -81,7 +81,7 @@ Rushing through questions is a frequent mistake. Although you should keep an eye
 
 Skipping practice tests is also risky. Many learners think they will figure it out on exam day, only to be caught off guard by question formats. Give yourself time to practice so you know how to read multiple-choice questions efficiently and apply your knowledge to tricky wording.
 
-If you need extra support, consider an online or in-person prep course. JustInsurance, for example, has a variety of online resources designed to simplify property and casualty exam prep. Whether you learn best through videos, quizzes, or flashcards, there is always a tool to match your style.
+If you need extra support, consider an online or in-person prep course. Look for a provider approved by your state's department of insurance for the P&C line, and favor one that bundles video instruction, quizzes, and flashcards with a timed practice-exam engine — mixing formats is what makes the material stick. To be clear about our own lane: JustInsurance does not publish property and casualty exam prep. Our videos, quizzes, and flashcards belong to the [Life, Health, and Life & Health prelicensing courses](/prelicensing), so you will need a different provider for P&C.
 
 ## Answers to frequently asked questions
 
@@ -100,4 +100,4 @@ If you need extra support, consider an online or in-person prep course. JustInsu
 
 By building a solid foundation of knowledge and practicing under realistic conditions, you can head into your property and casualty exam feeling well-prepared. Small efforts each day—instead of rushing at the last minute—are what truly boost your confidence.
 
-Whenever you are ready for an extra push, remember that JustInsurance has tools and resources to help you study strategically. Explore the materials that fit your schedule and learning style, then stay consistent in reaching each milestone. A successful exam day is well within your grasp—start your prep now, and soon you will be stepping into the insurance industry with a license in hand.
+Pick a state-approved P&C provider whose materials fit your schedule and learning style, then stay consistent in reaching each milestone. And once you are licensed, JustInsurance can pick up the rest: we run [state-approved property and casualty continuing education](/property-and-casualty-ce) for producers renewing their license, plus prelicensing if you ever add the Life or Health lines. A successful exam day is well within your grasp—start your prep now, and soon you will be stepping into the insurance industry with a license in hand.

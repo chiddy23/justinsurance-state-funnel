@@ -64,6 +64,8 @@ Vehicle title fraud schemes
 
 Premium fraud (misclassification, false statements about risks)
 
+Chapter 58 also builds in a reporting duty. G.S. 58-2-163 (Report to Commissioner) requires any person licensed or registered under Articles 1 through 67 of Chapter 58 — licensed producers included — who knows or has reasonable cause to believe that another person has violated G.S. 58-2-161, 58-2-162, 58-2-164, 58-2-180, 58-8-1, or 58-24-180(e) to notify the Commissioner. More on what that means for you below.
+
 Supplementing G.S. 58: North Carolina also applies general criminal fraud provisions (G.S. 14 — Criminal Law) and NCDOI enforcement authority under G.S. 58-2 to address insurance fraud.
 
 ## False Pretenses and Cheats (G.S. 14-100)
@@ -164,7 +166,7 @@ Accurate applications. Producers must take reasonable steps to ensure applicatio
 
 Premium handling integrity. Premiums collected from clients must be remitted promptly to carriers. Mixing client premiums with personal funds is a serious violation.
 
-Reporting suspected fraud. Producers who suspect fraud have obligations to report through appropriate channels.
+Reporting suspected fraud. This one is statutory, not merely good practice. Under G.S. 58-2-163, a producer who knows or has reasonable cause to believe that another person has violated one of the listed fraud statutes has a duty, upon acquiring that knowledge, to notify the Commissioner and provide a complete statement of all of the relevant facts and circumstances. The report is a privileged communication, and when made without actual malice it does not subject you to liability.
 
 No participation. Producers cannot participate in fraud schemes — even when clients request it or when pressure comes from within an agency.
 
@@ -234,13 +236,15 @@ Communication primarily through agent rather than carrier
 
 ## How to Report Insurance Fraud in NC
 
-NCDOI Criminal Investigations Bureau:
+Start with the Department. Your statutory duty under G.S. 58-2-163 runs to the Commissioner of Insurance — the other channels below are useful additional referrals, not substitutes for notifying NCDOI.
 
-Phone: 855-408-1212
+NCDOI Criminal Investigations Division (CID):
 
-Website: ncdoi.gov
+Phone: 888-680-7684 (toll-free in NC) or 919-807-6840
 
-Handles producer fraud and insurance company fraud
+Online report form: ncdoi.gov/fraud-control/report-insurance-fraud
+
+Handles producer fraud and insurance company fraud referrals
 
 National Insurance Crime Bureau (NICB):
 
@@ -294,7 +298,7 @@ Industry database reporting
 
 Permanent professional reputation damage
 
-Even peripheral involvement — knowing about fraud and not reporting it, or looking the other way at obvious red flags — can create serious consequences.
+Even peripheral involvement — knowing about fraud and not reporting it, or looking the other way at obvious red flags — can create serious consequences. G.S. 58-2-163 says so expressly: the Commissioner may suspend, revoke, or refuse to renew the license of any licensee who willfully fails to comply with the reporting duty.
 
 ## Building Anti-Fraud Practice Habits
 
@@ -308,7 +312,7 @@ Maintain proper premium handling. Use trust accounts appropriately. Never commin
 
 Refuse participation when asked. When clients ask you to help misrepresent information, refuse clearly and document the refusal.
 
-Report suspicious activity. Timely reporting through appropriate channels is both an ethical obligation and career protection.
+Report suspicious activity. Notifying the Commissioner under G.S. 58-2-163 is a legal duty, not a judgment call — and because the statute makes the report privileged when it is made without actual malice, the downside risk of reporting is far smaller than the downside risk of staying quiet.
 
 Maintain current fraud awareness. Quality ethics CE covers emerging fraud patterns. NCDOI publishes enforcement actions providing real-world context.
 
@@ -316,9 +320,9 @@ Maintain current fraud awareness. Quality ethics CE covers emerging fraud patter
 
 - What constitutes insurance fraud in North Carolina? Insurance fraud includes any intentional misrepresentation, concealment, or false statement made to obtain insurance benefits, lower premiums, or otherwise gain advantage in insurance transactions. Both producers and consumers can commit insurance fraud under G.S. 58-2-161 and related criminal statutes.
 - What are the penalties for insurance fraud in North Carolina? Penalties range from misdemeanor to felony charges depending on amounts and circumstances. Convicted producers almost always lose their licenses permanently. Civil liability and restitution obligations may also apply.
-- Am I required to report suspected fraud as a North Carolina producer? Yes. Producers have obligations to report suspected fraud through appropriate channels (carriers, NCDOI, NICB, or law enforcement depending on the type). Failing to report known fraud can itself create liability.
+- Am I required to report suspected fraud as a North Carolina producer? Yes. G.S. 58-2-163 makes it the duty of any person licensed or registered under Articles 1 through 67 of Chapter 58 — producers included — who knows or has reasonable cause to believe that another person has violated G.S. 58-2-161, 58-2-162, 58-2-164, 58-2-180, 58-8-1, or 58-24-180(e) to notify the Commissioner and provide a complete statement of all of the relevant facts and circumstances. The duty runs to the Commissioner specifically, so a referral to your carrier's SIU or the NICB is a good additional step but does not discharge it. The report is privileged and, made without actual malice, does not subject you to liability — while the statute lets the Commissioner suspend, revoke, or refuse to renew the license of a licensee who willfully fails to comply.
 - What happens if I unknowingly participate in a fraud scheme? Intent matters in fraud evaluation, but producers have duties to know what they're doing. Willful blindness to obvious red flags doesn't protect you. Document concerns, ask questions, and report suspicious activity to protect yourself.
-- How do I report suspected insurance fraud to the NCDOI? Contact the NCDOI through their main phone number (855-408-1212) or through ncdoi.gov. The NCDOI's Criminal Investigations Bureau handles producer fraud and insurance company fraud referrals.
+- How do I report suspected insurance fraud to the NCDOI? Report to the NCDOI Criminal Investigations Division at 888-680-7684 (toll-free in NC) or 919-807-6840, or use the online fraud report form at ncdoi.gov/fraud-control/report-insurance-fraud. The Criminal Investigations Division handles producer fraud and insurance company fraud referrals. (The NCDOI's general consumer line, 855-408-1212, is not the fraud-reporting number.)
 
 ## Build Anti-Fraud Awareness Into Your North Carolina Practice
 

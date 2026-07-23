@@ -278,6 +278,6 @@ Coastal property expertise is genuinely differentiated — most producers don't 
 
 ## Serve Coastal NC Clients With Real Expertise
 
-North Carolina's coastal property market requires genuine expertise to serve clients well — from understanding wind exclusions to CPIP eligibility to flood coverage gaps. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses provide the foundational knowledge supporting coastal property specialty practice.
+North Carolina's coastal property market requires genuine expertise to serve clients well — from understanding wind exclusions to CPIP eligibility to flood coverage gaps. Producers who already hold a North Carolina property and casualty license can keep this specialized coastal knowledge current through JustInsurance's North Carolina [property and casualty continuing education](/north-carolina/continuing-education).
 
-Enroll today and build toward serving North Carolina's complex coastal property market.
+Master these coastal property fundamentals and serve North Carolina's complex coastal market with real expertise.

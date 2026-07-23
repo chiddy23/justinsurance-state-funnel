@@ -53,7 +53,12 @@ const features: Feature[] = [
       </svg>
     ),
     title: "API Integration",
-    desc: "We\u2019re one of the few insurance education companies with API integration. Plug our courses directly into your onboarding or AMS system.",
+    // Audit 2026-07-20 (fid 82): removed "one of the few insurance education
+    // companies with API integration" - an unsubstantiated comparative scarcity
+    // claim about the whole competitive field (competitors including ExamFX
+    // market enterprise/agency integrations). Only restore a scarcity claim with
+    // a dated, documented survey of named competitors on file.
+    desc: "Plug our courses directly into your onboarding or AMS system through our API.",
   },
   {
     icon: (
@@ -62,7 +67,12 @@ const features: Feature[] = [
       </svg>
     ),
     title: "93% Pass Rate",
-    desc: "Our students pass at a 93% rate among those who complete the course. Better-prepared agents means lower attrition and faster production.",
+    // Audit 2026-07-20 (fid 51): the qualifier must describe the population
+    // actually measured on /pass-rates - students who completed the full course
+    // AND met the recommended study metrics (recommended hours + 80%+ on the
+    // practice exam three times in a row), first attempt. Plain "complete the
+    // course" overstated it.
+    desc: "93% first-attempt pass rate among students who complete the full course and score 80% or higher on the practice exam three times in a row. Individual results vary. Better-prepared agents means lower attrition and faster production.",
     link: { href: "/pass-rates", label: "See how we calculate this →" },
   },
   {
@@ -71,8 +81,14 @@ const features: Feature[] = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
       </svg>
     ),
-    title: "Nationwide Coverage",
-    desc: "State-approved CE nationwide, with prelicensing in the states where we are approved. Whether you\u2019re a regional agency or national IMO, we have your markets covered.",
+    title: "Multi-State Coverage",
+    // Audit 2026-07-20 (fid 50): "nationwide" CE was false. states.ts carries
+    // providerApprovalNumber: "PENDING" for new-york (line 5816) and washington
+    // (line 8478), and stateClaims() in src/lib/prelicensing-status.ts sets
+    // canClaimCeApproval = (providerApprovalNumber !== "PENDING"), so CE approval
+    // is held in 48 of 50 states, not all 50. If either approval issues, update
+    // this count and the hero copy below.
+    desc: "State-approved CE in 48 states \u2014 New York and Washington approvals are pending \u2014 with state-approved prelicensing in the states where we are approved. Regional agency or national IMO, we cover the states where we hold approval.",
   },
 ];
 
@@ -181,11 +197,20 @@ export default function PartnersPage() {
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
             Partner with JustInsurance
           </h1>
+          {/* Audit 2026-07-20 (fid 9 + fid 51): "nationwide" CE was false - CE
+              approval is PENDING in New York and Washington per states.ts, so the
+              true count is 48 of 50; and New York DOES mandate prelicensing (20/20/40
+              hours) where our approval has not issued, so "prelicensing where
+              required" was also false. The 93% qualifier now matches the population
+              actually measured on /pass-rates. */}
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-3xl mx-auto">
-            Give your recruits a 93% pass rate among students who complete the course
-            (<Link href="/pass-rates" className="underline hover:text-gold">see methodology</Link>).
-            State-approved CE nationwide, plus prelicensing where required &mdash; with agency
-            dashboards, bulk pricing, and dedicated support.
+            Give your recruits a 93% first-attempt pass rate among students who complete
+            the full course and score 80% or higher on the practice exam three times in a
+            row (<Link href="/pass-rates" className="underline hover:text-gold">see methodology</Link>).
+            Individual results vary. State-approved CE in 48 states &mdash; New York and
+            Washington approvals are pending &mdash; plus state-approved prelicensing in the
+            states where we are approved, with agency dashboards, bulk pricing, and
+            dedicated support.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -412,19 +437,25 @@ export default function PartnersPage() {
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-4">
             We Finish What We Start
           </h2>
+          {/* Audit 2026-07-20 (fid 142): "Every ... within 24 hours of passing" was an
+              absolute service guarantee we cannot control - PSI/Pearson VUE release scores
+              to the candidate and the DOI, not to us, so the trigger is the student telling
+              us - and it contradicted the OPTIONAL SMS consent on this same page, under which
+              a student who does not opt in cannot lawfully be texted. */}
           <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10 leading-relaxed">
             Most prelicensing providers stop at &ldquo;you passed your exam.&rdquo; We don&apos;t.
-            Every JustInsurance student gets personal text outreach within 24 hours of passing,
-            walked through NIPR, helped with fingerprinting, and followed up through state DOI
-            license issuance.
+            Students who opt in to text messages hear from a real team member &mdash; usually
+            within one business day of telling us they passed &mdash; and we walk them through
+            NIPR, help with fingerprinting, and follow up through state DOI license issuance.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
             <div className="bg-gold/10 border border-gold/30 rounded-xl p-5 flex gap-3">
               <span className="text-2xl flex-shrink-0">📱</span>
               <div>
-                <h3 className="font-bold text-navy text-base mb-1">Post-pass text within 24 hours</h3>
+                <h3 className="font-bold text-navy text-base mb-1">Post-pass text, usually within 1 business day</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  Real team members &mdash; not chatbots &mdash; reach out the moment a candidate passes.
+                  Real team members &mdash; not chatbots &mdash; reach out once a candidate tells us
+                  they passed. Text outreach requires opting in to text messages.
                 </p>
               </div>
             </div>
@@ -463,11 +494,18 @@ export default function PartnersPage() {
           </div>
           <div className="bg-navy text-white rounded-xl p-6 text-center">
             <p className="text-lg font-semibold mb-2">For agency partners, that means:</p>
+            {/* Audit 2026-07-20 (fid 52 + fid 119): "typically 2-4 weeks" was the fastest
+                end of the site's own range - /how-long-to-get-insurance-license publishes
+                2 to 6 weeks typical and 4 to 8 weeks part-time, and states.ts itself lists
+                3-4, 2-5 and 3-6 week states. "No abandoned candidates" was an absolute
+                zero-failure claim about DOI processing we do not control, and "measurable
+                retention" asserted a metric with no figure, period, or basis - its only
+                baseline was partner hearsay. Both removed rather than invented. */}
             <p className="text-blue-100 leading-relaxed">
-              Your new agents reach <strong className="text-gold">active license status faster</strong> &mdash;
-              typically 2&ndash;4 weeks from enrollment &mdash; with no abandoned candidates stuck mid-process.
-              That&apos;s measurable retention versus an industry pattern our agency partners frequently describe,
-              where many trainees never finish licensing.
+              Your new agents move from enrollment to an <strong className="text-gold">active license
+              number</strong> with hands-on help at every step &mdash; typically 2 to 6 weeks, or 4 to 8
+              weeks for candidates studying part-time, with timelines varying by state. We follow up
+              with every student through license issuance so fewer candidates stall mid-process.
             </p>
           </div>
         </div>

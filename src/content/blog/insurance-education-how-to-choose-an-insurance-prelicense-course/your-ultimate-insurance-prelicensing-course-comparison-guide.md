@@ -26,7 +26,7 @@ Whether you’re just beginning the journey or you’ve already been browsing co
 
 ## Understand the purpose of a prelicensing course
 
-An insurance prelicensing course prepares you to pass the state-required exam, which covers a range of insurance topics. By law, most states require a certain number of credit hours in an “approved” course before you can actually schedule your exam. These mandated classes aren’t just about meeting requirements—they also help build the foundation for what you’ll be tested on.
+An insurance prelicensing course prepares you to pass the state-required exam, which covers a range of insurance topics. Whether the course itself is mandatory depends entirely on where you live, and this trips up more candidates than any other detail: 18 of the 50 states require a set number of credit hours in a state-approved course before you can be licensed, and in the other 32 a course is optional exam preparation. In the states that mandate it, those hours aren’t just a box to check—they build the foundation for what you’ll be tested on. In the states that don’t, a good course is still what separates walking in prepared from walking in hopeful.
 
 Prelicensing courses often provide structured lessons, practice questions, and supplemental study guides to familiarize you with exam material. You’ll cover everything from underwriting to policy classification. The idea is to master these essentials so you’re not just finding the right answers on test day but also starting a knowledge base you’ll continue building throughout your career.
 
@@ -57,7 +57,7 @@ In addition to official pass rates, look at what kind of support the provider of
 
 ## Verify state approvals
 
-Every state has different regulations for licensure, so it’s critical that your chosen school is recognized by your specific Department of Insurance. This approval can influence whether your credits count toward the official prelicense requirement. Course providers typically list the states in which they’re approved, but it’s still a good idea to confirm your state’s rules. You certainly don’t want to sign up for 40 hours of coursework only to find out later that it doesn’t match your state’s standards.
+Every state writes its own licensure rules, so start by checking whether yours mandates prelicensing at all. In the 18 states that do, your school has to hold that state’s prelicensing approval or the hours won’t count toward your requirement — and you certainly don’t want to sign up for 40 hours of coursework only to find out later that it doesn’t match your state’s standards. In the other 32 states there is no prelicensing approval to verify, because there’s no requirement to satisfy; the course is exam prep, so judge it on quality and on how closely it tracks your state’s exam content outline rather than on a credential the state doesn’t issue. Course providers typically list the states in which they’re approved, but it’s still a good idea to confirm your state’s rules directly with your Department of Insurance.
 
 ## Identify access periods and flexibility
 
@@ -117,7 +117,7 @@ Each provider has its own approach to these features, so really explore what’s
 
 ### Do I need a prelicensing course for every type of insurance license?
 
-It varies by state, but most states require separate certifications or course completions for each line of insurance. For example, Property & Casualty might have different hour requirements than Life & Health. Check your state’s guidelines, especially if you plan to specialize in multiple lines.
+It depends on your state. In the 18 states that mandate prelicensing, the requirement is set per line of authority — Property & Casualty typically carries different hours than Life & Health, and finishing one does not satisfy the other. In the 32 states with no requirement, there’s no coursework to complete for any line, though you’ll still sit a separate exam for each one. Check your state’s guidelines, especially if you plan to specialize in multiple lines.
 
 ### How long does it usually take to finish a prelicensing course?
 
@@ -129,7 +129,7 @@ Yes, many providers offer 100% online courses. You’ll have digital modules, pr
 
 ### Do prelicensing courses differ by state?
 
-They can. Since insurance regulations vary, you need a course that’s approved for your specific state. Concepts like general insurance principles might be shared across regions, but the legal details will likely differ. Always confirm that your course meets your Department of Insurance’s requirements.
+They do. Insurance regulations vary, and every state exam carries its own state-law section. If your state is one of the 18 that mandate prelicensing, you need a course carrying that state’s approval or the hours won’t count. If it isn’t, there’s no approval to check — what matters is that the course is built to your state’s exam content outline. General insurance principles are largely shared across regions, but the legal details are not, so always confirm what your Department of Insurance actually requires.
 
 ### What if I need extra help to pass the exam?
 

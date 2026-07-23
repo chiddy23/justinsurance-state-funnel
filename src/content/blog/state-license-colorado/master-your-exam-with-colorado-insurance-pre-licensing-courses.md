@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Thirdman on Pexels
 ---
 
-If you’re ready to embark on a new career path in the insurance world, enrolling in Colorado insurance [pre-licensing](/colorado/prelicensing) courses is a crucial first step. These courses help you gain the knowledge and confidence to pass the official state exam and begin selling life, health, or property & casualty coverage throughout Colorado. Whether you’re switching careers or just starting out, a structured curriculum can ensure you’re fully prepared on test day.
+If you’re ready to embark on a new career path in the insurance world, enrolling in Colorado insurance pre-licensing courses is a crucial first step. These courses help you gain the knowledge and confidence to pass the official state exam and begin selling coverage throughout Colorado, in whichever line of authority you pursue. Whether you’re switching careers or just starting out, a structured curriculum can ensure you’re fully prepared on test day.
 
 ## Understand Colorado pre-licensing
 

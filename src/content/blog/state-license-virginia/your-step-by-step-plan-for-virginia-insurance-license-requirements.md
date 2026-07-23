@@ -28,7 +28,7 @@ In addition, you’ll want to familiarize yourself with the specific lines of in
 
 ## Consider optional pre-licensing education
 
-Virginia does not require prelicensing hours for standard lines — that mandate was repealed statewide, and only title insurance still carries a separate education requirement. Even so, once you’ve confirmed your eligibility, many candidates choose to voluntarily complete a state-approved [Virginia prelicensing course](/virginia/prelicensing). These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material if you choose to take a course, since it factors heavily into your exam performance.
+Virginia does not require prelicensing hours for standard lines — that mandate was repealed statewide, and only title insurance still carries a separate education requirement. Even so, once you’ve confirmed your eligibility, many candidates choose to voluntarily complete an optional [Virginia prelicensing course](/virginia/prelicensing) built as exam preparation. These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material if you choose to take a course, since it factors heavily into your exam performance.
 
 Common lines of authority in Virginia include:
 

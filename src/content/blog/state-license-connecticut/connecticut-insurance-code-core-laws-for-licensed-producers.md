@@ -27,7 +27,7 @@ The Connecticut Insurance Code is the statutory framework that regulates insuran
 
 Connecticut General Statutes (CGS) Title 38a — comprehensive insurance code
 
-CGS §38a-702 — [prelicense](/connecticut/prelicensing) education requirements
+CGS §38a-702e — [prelicense](/connecticut/prelicensing) education requirements
 
 CGS §38a-782a — [continuing education](/connecticut/continuing-education) requirements
 
@@ -41,7 +41,7 @@ The Code covers everything from licensing and producer duties to policy forms, c
 
 Producer Licensing Provisions. Foundation provisions covering producer qualifications, licensing requirements, examinations, and standards of conduct.
 
-CGS §38a-702. Specific provisions for prelicense education requirements (20 hours per line, 40 hours for combined L&H or P&C).
+CGS §38a-702e. Specific provisions for prelicense education requirements (20 hours per line, 40 hours for combined L&H or P&C).
 
 CGS §38a-782a. Continuing education requirements (24 hours per 2-year cycle, 3 hours Laws/Regs/Ethics, 6 hours per line of authority).
 
@@ -105,7 +105,7 @@ State of emergency response (August 2024). Connecticut Governor Lamont declared 
 
 NFIP Flood training requirement (effective April 15, 2026). Connecticut resident producers with Property/Casualty or Personal Lines authority must complete a one-time 3-credit NFIP Flood Insurance course.
 
-2026 plan year health insurance rates. On June 6, 2025, the CID posted insurance carriers' rate filings for small group and individual health insurance markets, with average individual rates reflecting 17.8% increase and small group rates 13.1% increase for 2026.
+2026 plan year health insurance rates. On September 10, 2025, the CID issued its rate decisions for the 2026 individual and small group health insurance markets, approving an average individual-market increase of 16.8% (down from the 23.3% insurers requested) and an average small-group increase of 11% (down from the 13.1% requested) — reductions the Department estimated saved consumers about $125 million.
 
 These changes reflect Connecticut's ongoing modernization and responsiveness to evolving insurance markets.
 

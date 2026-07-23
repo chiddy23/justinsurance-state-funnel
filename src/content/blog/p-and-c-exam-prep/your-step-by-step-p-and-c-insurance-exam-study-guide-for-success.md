@@ -2,8 +2,7 @@
 title: Your Step-by-Step P&C Insurance Study Guide
 description: >-
   P&c insurance exam study guide prep guide with practice questions, study
-  strategies, and test-day tips from licensed agents. 93% first-attempt pass
-  rate among students who complete the course.
+  strategies, and test-day tips from licensed agents.
 keyword: p&c insurance exam study guide
 targetKeywords: p&c insurance exam study guide
 cluster: p-and-c-exam-prep
@@ -123,6 +122,6 @@ Staying motivated is just as important. You can celebrate small wins, like acing
 5.  How do I manage exam-day nerves?  
     Prepare well in advance, get a good night’s sleep, and arrive early to the testing center. Deep breathing or quick relaxation exercises help you stay composed if nerves kick in.
 
-Studying for the P&C exam can sometimes feel overwhelming, but you are never alone on this journey. JustInsurance understands the challenges of exam preparation and has helped countless individuals gain their licenses with confidence. They offer helpful insights, practice tools, and a supportive community to keep you motivated until you pass.
+Studying for the P&C exam can sometimes feel overwhelming, but you are never alone on this journey. One planning note before you buy anything: JustInsurance’s prelicensing courses and practice exams cover the Life, Health, and Life & Health lines, not property and casualty, so your P&C exam prep should come from a provider that publishes P&C-specific material matched to your state’s content outline.
 
-If you are ready to take the next step, consider connecting with JustInsurance so you can get personalized guidance that goes beyond what any single study guide can provide. You have already put in the effort to prepare, and now it is time to transform that preparation into exam-day success. Remember, every day you dedicate to studying is an investment in your future as a property and casualty insurance professional. Good luck, and keep going—you have got this!
+Where we do fit into a property and casualty career is after the exam — our state-approved [P&C continuing education](/property-and-casualty-ce) handles the credit hours you will owe at every renewal once your license is in hand. You have already put in the effort to prepare, and now it is time to transform that preparation into exam-day success. Remember, every day you dedicate to studying is an investment in your future as a property and casualty insurance professional. Good luck, and keep going—you have got this!

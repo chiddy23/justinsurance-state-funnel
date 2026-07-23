@@ -26,9 +26,9 @@ One-time 4-hour IDOI-approved course
 
 Required for any life line producer intending to sell annuities
 
-Existing producers before July 1, 2024: must complete within 6 months of rule effective date
+Producers who already held a life line on July 1, 2024 and wanted to sell annuities: complete the 4-hour course within six months of the effective date (760 IAC 1-72-4.5(c)). Producers who had already finished a department-approved annuity training course before July 1, 2024 could instead take a one-time 1-hour update course on the new best-interest standard (760 IAC 1-72-4.5(h)(2)) — either path was due by January 2, 2025, and IDOI inactivated the 1-hour courses after that date
 
-New life line producers after July 1, 2024: complete within 6 months of obtaining line
+Producers who obtain a life line on or after July 1, 2024: no grace period. Under 760 IAC 1-72-4.5(c) you may not engage in the sale of annuities until the 4-hour Annuity Best Interest course is complete. The training is a prerequisite to your first annuity sale — not something you have six months to finish afterward
 
 IDOI-approved courses: contact AgentLicensing@idoi.in.gov or (800) 622-4461
 
@@ -80,11 +80,15 @@ Indiana University Health (Indianapolis): Major academic medical center and heal
 
 Physicians, nurses, administrators: creating ongoing rollover and annuity advisory demand at career transitions and retirement
 
-Indiana state income tax advantage for annuity advisory: Indiana's 3.05% flat income tax — one of the lowest state income tax rates nationally — means Indiana professionals keep more of their income than peers in higher-tax states. Higher net income supports more aggressive retirement savings and annuity premium capacity.
+Indiana state income tax advantage for annuity advisory: Indiana's 2.95% flat income tax (2026 rate) — one of the lowest state income tax rates nationally — means Indiana professionals keep more of their income than peers in higher-tax states. Higher net income supports more aggressive retirement savings and annuity premium capacity.
 
 ## LTC Training
 
-Initial LTC training before selling LTC products in Indiana. 4-hour ongoing training per renewal period — verify current Indiana-specific requirements at in.gov/idoi.
+Initial training: an 8-hour basic LTC continuing education course specifically approved for LTC — classroom or self-study — before you sell LTC products in Indiana.
+
+Ongoing training: once you have satisfied the initial 8 hours, a minimum of 5 hours of LTC insurance courses every two years. The hours can be taken at any point during each two-year period.
+
+Indiana Long-Term Care Partnership (ILTCP) add-on: producers who want to market, sell, or solicit Partnership-qualified policies need 15 hours before they start — the 8-hour basic LTC course plus a one-time 7-hour ILTCP course, which IDOI requires to be classroom only. Confirm current requirements at in.gov/idoi.
 
 Indiana LTC Market:
 
@@ -126,7 +130,7 @@ Life producer — 24 hours needed:
 
 4-hr Annuity Best Interest ✓
 
-LTC initial training ✓ (check hours)
+8-hr initial LTC training ✓ (plus the one-time 7-hr classroom ILTCP course if you intend to sell Partnership policies)
 
 3-hr Ethics ✓
 
@@ -141,9 +145,9 @@ NFIP Flood training (check hours), 3-hr Ethics, and remaining P&C hours from an 
 ## 5 Frequently Asked Questions
 
 - What makes Eli Lilly the most significant annuity advisory opportunity in Indiana? Eli Lilly is one of the world's largest pharmaceutical companies — Fortune 500, headquartered in Indianapolis, with tens of thousands of Indiana employees and one of the strongest stock performances in the S&P 500 over the past decade. Lilly employees at all levels accumulate significant 401(k) balances; Lilly's RSU program creates equity compensation at senior levels; and career transitions (internal Lilly moves, early retirement at 55+, separation packages) create consistent rollover advisory demand. Annuity Best Interest certification is required before any rollover advisory.
-- What is Indiana's LTC Partnership program and how does it relate to HIP 2.0? Indiana's LTC Partnership program links LTC insurance benefit payments to Medicaid asset protection on a dollar-for-dollar basis — same structure as Maryland, Minnesota, and other Partnership states. When a Partnership-qualified LTC policy pays benefits, Indiana Medicaid (through HIP 2.0 for long-term care needs) protects an equivalent amount of the policyholder's assets from spend-down. For Indiana farmers and rural landowners with significant asset wealth, Partnership protection preserves farm and real property assets that would otherwise be spent down before Medicaid eligibility.
+- What is Indiana's LTC Partnership program and how does it relate to HIP 2.0? Indiana's LTC Partnership program links LTC insurance benefit payments to Medicaid asset protection on a dollar-for-dollar basis — same structure as Maryland, Minnesota, and other Partnership states. When a Partnership-qualified LTC policy pays benefits, Indiana Medicaid (through HIP 2.0 for long-term care needs) protects an equivalent amount of the policyholder's assets from spend-down. For Indiana farmers and rural landowners with significant asset wealth, Partnership protection preserves farm and real property assets that would otherwise be spent down before Medicaid eligibility. Note the training gate: selling Partnership policies requires 15 hours up front — the 8-hour basic LTC course plus a one-time 7-hour ILTCP course that IDOI requires to be taken in a classroom, not self-study.
 - Why is NFIP flood training relevant for Indiana P&C producers? Indiana's rivers — White River through Indianapolis, Wabash River across northern Indiana, Ohio River along southern Indiana — create genuine NFIP flood advisory needs for communities in FEMA-designated floodplains. Many Indiana homeowners assume standard homeowners policies cover flood damage — which they don't. NFIP flood certification positions Indiana P&C producers to correctly advise clients on flood insurance as a separate coverage need, particularly in communities with historic flood events.
-- How does Indiana's 3.05% flat income tax affect annuity advisory? Indiana's low, flat income tax (3.05%) means Indiana professionals retain more after-tax income than peers in higher-tax states like MN (up to 9.85%), NJ (up to ~11%), or MD (up to 8.95%+). Higher net income supports stronger retirement savings capacity and greater premium affordability for annuity products. Additionally, favorable Indiana tax treatment of retirement income reduces the tax friction on annuity distributions for Indiana retirees.
+- How does Indiana's 2.95% flat income tax affect annuity advisory? Indiana's low, flat income tax (2.95% in 2026, on a scheduled step-down to 2.90% in 2027) means Indiana professionals retain more after-tax income than peers in higher-tax states like MN (up to 9.85%), NJ (up to ~11%), or MD (up to 8.95%+). Higher net income supports stronger retirement savings capacity and greater premium affordability for annuity products. Additionally, favorable Indiana tax treatment of retirement income reduces the tax friction on annuity distributions for Indiana retirees.
 - Do specialty training hours count toward Indiana's 24-hour CE requirement? Yes — all specialty training (Annuity Best Interest, LTC, NFIP Flood) counts toward the 24-hour CE requirement in the cycle completed. Indiana doesn't appear to have a strict daily CE limit (verify with IDOI) — specialty training courses can be completed on flexible schedules alongside standard CE to efficiently reach the 24-hour total.
 
 ## Build Your Indiana Specialty Insurance Practice

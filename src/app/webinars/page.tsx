@@ -3,6 +3,7 @@ import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import {
   generateBreadcrumbSchema,
   generateFAQSchema,
@@ -79,7 +80,7 @@ const crumbs = [
 const valueProps = [
   {
     title: "5x per week cadence",
-    desc: "Live sessions run Monday through Friday so you never have to wait more than a day for your next real-time review with an instructor.",
+    desc: "Live sessions run Monday through Friday, so during the week you are never more than a day from your next real-time review with an instructor.",
   },
   {
     title: "Real licensed instructors",
@@ -94,7 +95,7 @@ const valueProps = [
 const topics = [
   {
     title: "State exam format walkthrough",
-    desc: "How the real Pearson VUE, PSI, or Prometric exam is structured — question count, time limit, topic weights, and pacing strategy.",
+    desc: "How your state's exam is structured — Pearson VUE, PSI, Prometric, or a state-administered exam (Alabama's is delivered by the University of Alabama; Kentucky's is administered directly by the Kentucky Department of Insurance) — including question count, time limit, topic weights, and pacing strategy.",
   },
   {
     title: "Commonly missed questions by line of authority",
@@ -267,6 +268,18 @@ export default function WebinarsPage() {
         subtitle="Pick your state and enroll. Live sessions, recordings, practice exams, and our pass guarantee (in eligible states) — all included in the base $199 course."
         ctaText="Find My State"
         ctaHref="/"
+        disclosure={
+          <>
+            Pass guarantee is available in eligible states and is not offered in{" "}
+            {passGuaranteeExcludedLabel()}. Eligibility requires completing the
+            recommended study hours, scoring 80%+ on the practice exam three times
+            in a row, and testing within 30 days of enrollment.{" "}
+            <Link href="/pass-rates" className="underline hover:text-white">
+              See guarantee terms
+            </Link>
+            .
+          </>
+        }
       />
     </>
   );

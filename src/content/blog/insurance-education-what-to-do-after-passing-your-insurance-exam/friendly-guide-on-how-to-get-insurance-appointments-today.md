@@ -18,7 +18,6 @@ imageAlt: >-
   setting.
 imageCredit: Photo by Kampus Production on Pexels
 ---
-Insurance:  how to get insurance appointments
 
 Congratulations on passing your insurance exam!
 
@@ -85,7 +84,7 @@ If you plan to move or add a non-resident license, you will likely need to secur
 
 ## Move forward with confidence
 
-As you can see, getting appointed is not just a bureaucratic formality, it is your key to unlocking real earning potential in the insurance industry. You have already proved your dedication by passing the exam, and now is the time to take action. The next step is building partnerships with the right carriers so that you can serve your clients with confidence. If you ever feel uncertain, JustInsurance offers helpful resources and personalized guidance that can streamline the entire process.
+As you can see, getting appointed is not just a bureaucratic formality, it is your key to unlocking real earning potential in the insurance industry. You have already proved your dedication by passing the exam, and now is the time to take action. The next step is building partnerships with the right carriers so that you can serve your clients with confidence. Appointment paperwork itself runs through the carrier and your state Department of Insurance; JustInsurance's role is the education side, with self-paced prelicensing and continuing education courses that keep the license behind those appointments in good standing.
 
 Ready to grow your insurance career? Start exploring carrier options today, finalize your appointments, and embrace the rewarding journey of helping people protect what matters most in their lives.
 

@@ -23,6 +23,20 @@ const MULTI_PACKAGE_LH_CE_PRICE_OVERRIDE: Record<string, string> = {
   massachusetts: "$106.50 – $129",
 };
 
+// States that genuinely certify prelicensing via a SINGLE combined Life & Health
+// course (one course covering both lines), primary-source verified. Do NOT infer
+// anything about the remaining states from this list: most of them require no
+// prelicensing education at all and certify nothing (see prelicensingRequired
+// below). California is NOT in this set: post-AB-943 it is one line-agnostic
+// 12-hour Code & Ethics course (not a multi-hour combined L&H product course)
+// and is handled by its own branch below.
+const COMBINED_COURSE_STATES = new Set<string>([
+  "connecticut",
+  "florida",
+  "indiana",
+  "new-york",
+]);
+
 function isOptionalHours(hours: number | string): boolean {
   if (typeof hours !== "string") return false;
   const lower = hours.toLowerCase();
@@ -72,6 +86,12 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
   // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
   // and WA) cannot claim "state-approved" hours or DOI reporting in the CE cards.
   const providerApproved = stateData.providerApprovalNumber !== "PENDING";
+  // Owner decision: CE cannot be PURCHASED in pending-approval states. Gate ONLY
+  // the CE enroll buttons — the `courseType` guard leaves every prelicensing card
+  // untouched, and `providerApproved` leaves the 48 approved states' CE cards
+  // byte-identical. When true, the enroll button is replaced with a neutral,
+  // non-purchase "opening soon" notice; the "Details" learn-more link stays.
+  const ceHold = courseType === "continuing-education" && !providerApproved;
   const catalogKey = courseType === "continuing-education" ? "continuing-education" : "prelicensing";
   const stateCatalog = (catalogLinks as CatalogLinks)[stateSlug as keyof CatalogLinks];
 
@@ -80,6 +100,64 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
     const section = stateCatalog[catalogKey as keyof typeof stateCatalog] as Record<string, string>;
     return section?.[loaKey] ?? "https://yourinsurancelicense.myabsorb.com/";
   }
+
+  // Does this state actually MANDATE prelicensing education? Driven by the
+  // states.ts hours: exam-only states carry a non-numeric "None required
+  // (optional)" / "Not Required (as of ...)" marker on every line instead of an
+  // hour count, while mandate states carry per-line hour numbers.
+  //
+  // COMPLIANCE — do not reintroduce: no branch may say this state "certifies"
+  // or "approves" prelicensing. That is false in every exam-only state, which
+  // neither requires prelicensing nor approves a prelicensing curriculum.
+  // Primary sources: Idaho Pearson VUE candidate handbook rev 03/2026 ("You do
+  // not require approval from the State of Idaho to take the examination"; only
+  // exam + fingerprints + NIPR application) and Idaho Code 41-1006 (exam only);
+  // Louisiana Acts 2022 No. 273 (HB 545) résumé digest, eff. 06/03/2022 —
+  // "New law repeals prior law and the prelicensing education provisions and
+  // requirements", repealing R.S. 22:1571; New Mexico OSI/PSI Candidate
+  // Information Bulletin — "OSI does not specify an official study manual, nor
+  // are you required to take a pre-licensing study course"; Washington OIC —
+  // "Effective July 23, 2023, Washington will no longer require pre-licensing
+  // education to take your insurance exam"; Virginia Bureau of Insurance
+  // Candidate Information Bulletin — "Neither the Bureau nor Prometric reviews
+  // or approves study materials or pre-licensing schools"; Rhode Island DBR
+  // licensing FAQ — "Rhode Island does not require pre-licensing education";
+  // South Carolina DOI /481/Producer — the license path is exam, application,
+  // fingerprints, with no education step.
+  const prelicensingRequired =
+    !isOptionalHours(stateData.prelicensing.life.hours) &&
+    !isOptionalHours(stateData.prelicensing.health.hours);
+
+  // Shared exam clause fragment for the combined-course and California branches.
+  const lhExamClause = stateData.noCombinedExam
+    ? "a separate state exam for each line"
+    : "the state's combined Life & Health exam";
+
+  const lhIntro =
+    "The most popular choice — get licensed to sell both life and health products.";
+
+  // Default-branch copy — every state not caught by the Illinois, California or
+  // COMBINED_COURSE_STATES branches below. Two genuinely different products:
+  //
+  //  - Mandate states (AR, CO, GA, KY, MI, MN, MS, NJ, OH, OR, WV, WI): the
+  //    state sets prelicensing hours PER LINE OF AUTHORITY, so the package is
+  //    the Life and Health prelicensing courses completed separately. Verified
+  //    on Ohio R.C. 3905.04 — twenty hours "in a program of insurance education
+  //    approved by the superintendent" for each line of authority applied for.
+  //
+  //  - Exam-only states: the state mandates no prelicensing hours, so what we
+  //    sell is two EXAM-PREP courses. This copy deliberately makes no claim
+  //    about the state's education requirements at all — it describes only our
+  //    own product and the state's exam structure.
+  //
+  // Both variants take their exam structure from stateData.noCombinedExam.
+  const lhDefaultDescription = prelicensingRequired
+    ? stateData.noCombinedExam
+      ? `${lhIntro} ${stateData.name} requires prelicensing education for each line of authority, so this package covers the Life and Health prelicensing courses separately — with a separate state exam for each line.`
+      : `${lhIntro} ${stateData.name} requires prelicensing education for each line of authority, so this package covers the Life and Health prelicensing courses separately — and prepares you for the state's combined Life & Health exam.`
+    : stateData.noCombinedExam
+    ? `${lhIntro} This package pairs two self-paced exam-prep courses — one for Life, one for Health — preparing you for the state's separate Life and Health licensing exams.`
+    : `${lhIntro} This package pairs two self-paced exam-prep courses — one for Life, one for Health — that together prepare you for the state's combined Life & Health licensing exam.`;
 
   const cards: LOACardData[] =
     courseType === "prelicensing"
@@ -107,15 +185,19 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life-and-health",
             name: "Life & Health Insurance",
-            // Illinois certifies Life and Accident & Health as SEPARATE lines
-            // (215 ILCS 5/500-30(b)) — the L&H package is two separate courses
-            // + two separate exams, never "a single combined course and exam."
-            // Gated on classroomWebinarHours (IL) so other states are unchanged.
+            // Branch order (most-specific first): Illinois (two live-classroom
+            // line courses) → California (single 12-hour Code & Ethics course,
+            // AB 943) → COMBINED_COURSE_STATES (a genuine single combined L&H
+            // course) → default (lhDefaultDescription, which itself splits
+            // prelicensing-mandate states from exam-only states). All branches
+            // vary the exam clause via noCombinedExam.
             description: stateData.classroomWebinarHours
               ? "The most popular choice — get licensed to sell both life and health products. In Illinois this package is two separately state-certified courses (a 20-hour Life course + a 20-hour Health course) bundled at one price, with separate Life and Health state exams."
-              : stateData.noCombinedExam
-              ? "The most popular choice — get licensed to sell both life and health products. This state has no combined Life & Health exam, so the package is two separate courses with two separate state exams. Maximize your earning potential from day one."
-              : "The most popular choice — get licensed to sell both life and health products with a single combined course and exam. Maximize your earning potential from day one.",
+              : stateSlug === "california"
+              ? `The most popular choice — get licensed to sell both life and health products. California requires a single 12-hour Code & Ethics prelicensing course that satisfies the education requirement for both lines (AB 943, effective 2026), then ${lhExamClause}.`
+              : COMBINED_COURSE_STATES.has(stateSlug)
+              ? `The most popular choice — get licensed to sell both life and health products with a single combined Life & Health prelicensing course, then ${lhExamClause}.`
+              : lhDefaultDescription,
             hours: stateData.prelicensing.lifeAndHealth.hours,
             completionTime: stateData.prelicensing.lifeAndHealth.completionTime,
             hoursSubtext:
@@ -152,7 +234,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life-and-health",
             name: "Life & Health CE",
-            description: "Fulfill the CE requirements for both your life and health licenses in one package. The most efficient way to renew your combined license.",
+            description: "Fulfill the CE requirements for both your life and health licenses in one package. The most efficient way to renew both at once.",
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
@@ -273,7 +355,13 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               >
                 {card.name} Details
               </Link>
-              {card.enrollHref.startsWith("/") ? (
+              {ceHold ? (
+                // Pending-approval CE state: no purchasable enroll button. The
+                // requirement copy + "Details" learn-more link above remain.
+                <div className="block text-center bg-gray-100 text-gray-500 font-semibold py-3 px-4 rounded-lg text-sm leading-snug">
+                  Opening soon — our {stateData.name} CE provider approval is pending.
+                </div>
+              ) : card.enrollHref.startsWith("/") ? (
                 // Internal link (multi-package landing) — no new tab, "Choose"
                 // label since the user is selecting a package, not paying yet.
                 <Link

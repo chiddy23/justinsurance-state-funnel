@@ -16,11 +16,13 @@ Producers who hold or are considering licenses in Minnesota, Wisconsin, and Iowa
 
 ## The Salary Benchmark Comparison
 
-Income data across multiple sources consistently shows a clear hierarchy among the three states, with Minnesota leading, Wisconsin in the middle, and Iowa trailing — while all three states offer meaningful careers:
+Producer compensation data comes from several sources that measure different populations in different ways, so the first job is establishing what each number actually represents — before comparing states at all.
 
-The Salary.com figures represent base salary benchmarks — the floor of compensation before commission and variable income. The ZipRecruiter and Indeed figures capture total compensation including commission, which is more relevant to how producers actually earn. The BLS Minneapolis MSA figure — $104,915 mean annual wage — reflects the full distribution of experienced producers earning total compensation including renewals and bonuses, and is the most useful benchmark for a producer projecting long-term income trajectory in a major market.
+The most rigorous source is the Bureau of Labor Statistics Occupational Employment and Wage Statistics survey. For insurance sales agents in the Minneapolis-St. Paul-Bloomington MSA, BLS reported a mean hourly wage of $50.44 in May 2024 — roughly $104,915 a year. That is a mean across the full distribution, pulled upward by experienced commercial producers and salaried insurance roles, and it is the most useful benchmark for a producer projecting a long-term trajectory in a major metro. Statewide, BLS puts Minnesota insurance agents at an average of $98,220.
 
-The key interpretation: The salary gap between Minnesota and Wisconsin is meaningful but not dramatic at the base salary level ($59,527 vs. $57,223). The gap becomes larger when total compensation including commission is measured, because Minnesota's larger commercial economy generates higher-premium accounts that produce higher commission per placement. The Iowa gap is consistent across all sources — Iowa's lower salary benchmarks reflect a smaller commercial economy, lower average business premiums, and fewer high-value specialty lines accounts than either Minnesota or Wisconsin.
+Base-salary trackers land considerably lower because they are measuring something else. Salary.com, for example, puts Minnesota's statewide average at $59,527 — a base salary benchmark that excludes the commission and variable income where most producer earnings actually originate. Neither number is wrong. One describes the floor; the other describes the whole package.
+
+What this post will not do is publish a precise state-by-state salary ranking. Producer wage benchmarks for Wisconsin and Iowa shift between survey vintages and between methodologies, and a head-to-head dollar comparison assembled from mismatched sources would imply a precision the underlying data does not support. The defensible comparison is structural rather than numerical — what each state's economy actually generates in insurable premium, because that, not a posted salary range, is what sets a commission-based producer's ceiling. That is the subject of the next section.
 
 *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
@@ -58,9 +60,9 @@ The three states have meaningfully different licensing requirements that affect 
 
 State exam: PSI Services; $45 major lines. Combined P&C: 130 questions/3 hours. Combined Life and A&H: 145 questions/3 hours. Remote testing available via PSI Bridge.
 
-Application fee: $50 per line plus technology fee plus $5.60 NIPR transaction fee. Combined P&C approximately $125.60 total.
+Application fee: $50 per line of authority, plus a single $10 technology surcharge and the $5.60 NIPR transaction fee. Combined P&C — two lines of authority — comes to approximately $115.60 total.
 
-CE: 24 hours biennial; 3 hours ethics; 12 hours non-company-sponsored minimum (satisfiable entirely through self-paced online courses from an independent provider — no live instruction required). No carryover. Renewal: $80.
+CE: 24 hours biennial; 3 hours ethics; 12 hours non-company-sponsored minimum (satisfiable entirely through self-paced online courses from an independent provider — no live instruction required). No carryover. Renewal fee: $50 per line of authority plus a single $10 technology surcharge — about $60 for a single-line license.
 
 Overall assessment: Minnesota's prelicensing requirement (20 hours per line) is among the more demanding in the region. The investment is higher than Wisconsin or Iowa at entry but produces more comprehensively prepared producers.
 
@@ -72,9 +74,9 @@ State exam: PSI Services; exam results valid 180 days. Wisconsin's exam validity
 
 Application fee: Competitive with Minnesota.
 
-CE: 24 hours biennial; no mandatory ethics hour requirement in the same structure as Minnesota. Wisconsin's CE flexibility — all hours can be completed through self-paced online courses — is similar to Minnesota's, where the non-company-sponsored requirement can likewise be satisfied entirely online through an independent provider.
+CE: 24 hours biennial, including a minimum of 3 hours of ethics — the same 24-hour total and the same 3-hour ethics minimum Minnesota requires (Wis. Admin. Code ch. Ins 28; OCI agent CE page). Wisconsin's CE flexibility — all hours, ethics included, can be completed through self-paced online courses — is similar to Minnesota's, where the non-company-sponsored requirement can likewise be satisfied entirely online through an independent provider.
 
-Overall assessment: Wisconsin's licensing requirements are somewhat less demanding at entry than Minnesota's. Both states allow CE to be completed entirely through self-paced online courses. The 180-day exam validity window is the most significant operational difference — candidates must apply promptly after passing.
+Overall assessment: Wisconsin's licensing requirements are somewhat less demanding at entry than Minnesota's, though the two states' ongoing CE obligations are effectively identical — 24 hours every two years with 3 hours of ethics in both. Both states allow CE to be completed entirely through self-paced online courses. The 180-day exam validity window is the most significant operational difference — candidates must apply promptly after passing.
 
 ### Iowa
 
@@ -84,9 +86,9 @@ State exam: Pearson VUE; $44 per exam. Exam results valid 90 days — the shorte
 
 Application fee: Comparable to other states.
 
-CE: 36 hours triennial (every three years rather than biennial). Iowa's triennial CE cycle means producers complete CE over a three-year period rather than two years, but the total hours (36) are 50% more than Minnesota's or Wisconsin's biennial 24 hours.
+CE: 36 hours triennial (every three years rather than biennial), including 3 hours of ethics. The per-cycle total is larger than Minnesota's or Wisconsin's 24 hours, but the annual pace is identical — 12 CE hours a year in all three states. Iowa also dropped its former 18-hour classroom mandate effective June 9, 2021; all 36 hours may now be completed by classroom, classroom-equivalent, or self-study/online course.
 
-Overall assessment: Iowa is the easiest state to enter (no mandatory prelicensing) but has the most intensive CE structure over the full career cycle (36 hours including 18 classroom every three years). The Pearson VUE exam platform differs from the PSI platform used in Minnesota and Wisconsin, requiring platform-specific preparation for candidates testing in all three states.
+Overall assessment: Iowa is the easiest state to enter (no mandatory prelicensing), and its CE burden is a scheduling difference rather than a heavier one — the same 12 hours a year as Minnesota and Wisconsin, banked over a three-year term instead of a two-year one, with no in-person requirement. The Pearson VUE exam platform differs from the PSI platform used in Minnesota and Wisconsin, requiring platform-specific preparation for candidates testing in all three states.
 
 ## The Reciprocity Advantage for Multi-State Producers
 
@@ -110,7 +112,15 @@ Iowa: Iowa has also experienced significant homeowners insurance rate increases 
 
 ## The Career Outlook Scorecard
 
-Evaluating each state across the dimensions most relevant to a producer's long-term career outcome:
+Pulling the analysis together across the dimensions that most affect a producer's long-term outcome:
+
+Income ceiling: Minnesota is the highest of the three, driven by Twin Cities commercial complexity and the specialty lines demand that Fortune 500 density and the Medical Alley medtech cluster generate. Wisconsin is solid through the Madison and Milwaukee commercial markets. Iowa's field-producer ceiling is the lowest of the three — though its Des Moines carrier cluster offers career-side opportunity that field production alone does not.
+
+Entry cost and speed: Iowa is the fastest and least expensive entry, with no mandatory prelicensing education at all. Wisconsin sits in the middle, with prelicensing required and a certificate that expires after a year. Minnesota's 20 hours per line of authority is the largest up-front investment of the three states.
+
+Ongoing compliance: effectively a wash. All three states work out to 12 CE hours a year, none of the three requires classroom instruction, and reciprocity means a producer's home state CE satisfies the other two for non-resident purposes.
+
+Market specialization: Minnesota for healthcare professional liability, medical device products liability, financial institution coverage, and technology E&O. Wisconsin for dairy, agriculture, and mid-market manufacturing. Iowa for crop, farm property, and livestock.
 
 ## Making the Choice: Which State Is Right for Your Career
 

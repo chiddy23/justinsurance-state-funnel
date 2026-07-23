@@ -96,35 +96,43 @@ Premium increases. Wildfire-exposed properties have seen substantial premium inc
 
 Coverage limitations. Some policies have specific provisions affecting wildfire claims.
 
-Mandatory disclosure. Oregon has implemented disclosure requirements regarding wildfire risk in real estate and insurance contexts.
+Disclosure and explanation duties. The map-based item in the seller property disclosure form was repealed in 2025, but SB 82 (2023) still requires insurers to give policyholders a reasonable explanation when wildfire risk drives a non-renewal or a premium increase, and to account for the property owner's mitigation work.
 
-## The Oregon Wildfire Hazard Map
+## The Oregon Wildfire Hazard Map Was Repealed in 2025
 
-Oregon's Wildfire Hazard Map classifies properties by wildfire risk level. This map affects:
+Oregon spent several years developing a statewide Wildfire Hazard Map that assigned properties to wildfire hazard zones. It was revised repeatedly, drew sustained opposition from rural property owners, and in June 2025 Governor Kotek signed Senate Bill 83, which repealed it. SB 83 voided the State Forestry Department order assigning properties to hazard zones and removed the requirements keyed to those zones — the mandatory defensible space standards, the wildfire-hazard building code standards as applied to mapped existing properties, and the seller property disclosure item asking about wildland-urban interface classification.
 
-Disclosure requirements. Properties in higher-risk zones may have specific disclosure requirements.
+What replaced it: the State Fire Marshal develops a model defensible space code that local jurisdictions may adopt or decline, and wildfire-hazard building code standards now apply only to new construction.
 
-Insurance availability. Carriers consider Wildfire Hazard Map classifications in underwriting decisions.
+What this means for producers: there is no longer a statewide hazard-zone classification, and the disclosure, mitigation, and building code mandates that were tied to the map are no longer in force. Do not tell a client their property "is in a state hazard zone" — the state no longer assigns one.
 
-Mitigation requirements. Properties in higher-risk zones may face mitigation requirements.
-
-Building codes. Oregon has implemented stricter building code requirements for higher-risk wildfire zones.
-
-The map has been controversial, with multiple revisions and ongoing political and regulatory debates affecting its implementation.
+One point that is widely misunderstood, and was true even before the repeal: Oregon carriers were never permitted to underwrite off the state map. Under SB 82 (2023), an insurer may not use a state-published map identifying wildfire risk or exposure as a basis for canceling or declining to renew a homeowners policy, or for increasing its premium. Carriers still assess wildfire exposure — they simply have to do it with their own data and models, they must consider the property owner's risk mitigation, and they owe the policyholder an explanation.
 
 ## The Oregon FAIR Plan
 
-Oregon does not have a FAIR (Fair Access to Insurance Requirements) Plan equivalent to those operating in California, Florida, or other high-risk states. Oregon homeowners who can't obtain coverage in the standard market typically:
+Oregon does have a FAIR (Fair Access to Insurance Requirements) Plan. The Oregon FAIR Plan Association was created by the Legislature in 1971 under ORS 735.005 to 735.145 as a nonprofit property insurance pool supported by every insurer licensed to write property insurance in the state. It is Oregon's insurer of last resort. It is not a state agency and receives no tax dollars.
 
-Work with surplus lines insurers
+Eligibility. Coverage is available only when the applicant cannot obtain coverage in the normal market. The Association directs applicants to check with at least two insurance companies or their agents first — if coverage is available voluntarily, the applicant is not eligible for the FAIR Plan.
 
-Use specialty high-risk carriers
+What it writes. Basic property coverage on ISO forms — DP-00-01 for rented and owner-occupied dwellings, FP-00-12 for farm dwellings and appurtenant structures, and CP-00-99 for commercial buildings — valued at actual cash value.
 
-Pursue mitigation to qualify for standard coverage
+What it does not write. No personal liability, no theft coverage, no personal article floaters, and no vacant buildings.
 
-Consider relocating from highest-risk areas
+Limits. Up to $600,000 on a dwelling or farm policy and $1,000,000 on a commercial policy without facultative reinsurance; higher limits are arranged case by case.
 
-This creates challenges for Oregon producers serving clients in high-wildfire-risk areas.
+Your role. The FAIR Plan has no appointed agents. Any Oregon-licensed property agent can complete the application and submit it on the client's behalf and is paid a commission for doing so — the client's premium is the same either way.
+
+Because FAIR Plan coverage is deliberately basic, it is a bridge back to the standard market rather than a destination, and the gaps it leaves (liability and theft in particular) usually need to be filled with a wrap-around policy. Oregon homeowners who can't obtain coverage in the standard market generally have these options:
+
+The Oregon FAIR Plan, with wrap-around coverage for the perils it excludes
+
+Surplus lines insurers
+
+Specialty high-risk carriers
+
+Mitigation to qualify for standard-market coverage
+
+Producers serving clients in high-wildfire-risk areas should know the FAIR Plan is there. Telling a client who has been declined by the standard market that Oregon has no last-resort option is both wrong and a real service failure.
 
 ## Wildfire Mitigation and Insurance
 
@@ -204,13 +212,14 @@ Missing mitigation opportunities. Clients who could improve insurance terms thro
 
 Inadequate documentation. Failing to document coverage discussions leaves both client and producer exposed.
 
-## 5 Frequently Asked Questions
+## Frequently Asked Questions
 
 - Does standard homeowners insurance cover earthquake damage in Oregon? No. Oregon homeowners must purchase separate earthquake coverage. Most Oregon homeowners don't have it, despite the state's significant earthquake risk.
 - Is wildfire damage covered under standard Oregon homeowners insurance? Yes. Wildfire is typically covered as a fire peril under standard homeowners policies. However, coverage availability and pricing in high-risk areas has been significantly affected.
 - What's the typical earthquake insurance deductible in Oregon? Earthquake deductibles are typically percentage-based, often 5%-20% of dwelling coverage. The exact percentage varies by carrier and policy.
 - Does Oregon have a state-backed insurance pool for earthquake? No. Unlike California's CEA, Oregon doesn't have a state-level earthquake insurance entity. Coverage comes from private carriers and surplus lines.
-- What is the Oregon Wildfire Hazard Map? Oregon's official classification of properties by wildfire risk level. The map affects disclosure requirements, insurance availability, and may affect building codes in high-risk areas.
+- What is the Oregon Wildfire Hazard Map? It no longer exists. Oregon's statewide Wildfire Hazard Map was repealed by SB 83, signed in June 2025, which voided the hazard-zone assignments along with the defensible space, building code, and seller-disclosure requirements tied to them. Even while the map was in effect, SB 82 (2023) barred insurers from using a state wildfire map to cancel, non-renew, or raise the premium on a homeowners policy.
+- Does Oregon have a FAIR Plan? Yes. The Oregon FAIR Plan Association, created by the Legislature in 1971, is the state's property insurer of last resort. It writes basic actual-cash-value property coverage — no liability, no theft — for applicants who cannot obtain coverage in the normal market, up to $600,000 on a dwelling and $1,000,000 on a commercial policy. Any Oregon-licensed property agent can submit the application.
 
 ## Master Oregon's Natural Hazard Insurance Landscape
 

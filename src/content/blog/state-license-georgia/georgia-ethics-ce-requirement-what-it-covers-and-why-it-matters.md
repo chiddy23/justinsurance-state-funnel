@@ -22,17 +22,19 @@ Here's why Georgia ethics CE is required and what it actually covers.
 
 ## The Basic Requirement
 
-Georgia requires 3 hours of Ethics CE in every 2-year renewal cycle. These 3 hours are part of your total 24-hour CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
+Georgia requires 3 hours of Ethics CE in every 2-year renewal cycle. Those 3 hours are part of your total CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
 
-The requirement applies to producers across license types — Life, Accident, and Sickness; Property and Casualty; Personal Lines; and others. Adjusters have their own ethics obligations.
+Most resident licensees owe 24 hours per cycle. Beginning in 2026, licensees with more than 20 years of service receive an automatic 4-hour reduction, bringing them to 20 hours. Either way, the 3-hour ethics obligation is unchanged.
 
-Skip the Ethics component, and your CE is considered incomplete even if your total hours hit 24. No renewal, no active license.
+The requirement applies to producers holding the major lines — Life, Accident, and Sickness; Property and Casualty; and Personal Lines. Some limited licenses are treated differently: credit-insurance-only and limited subagent licensees have a reduced 10-hour requirement with no ethics component, and workers' compensation adjusters carry a 20-hour requirement with no mandated ethics course.
+
+Skip the Ethics component, and your CE is considered incomplete even if your total hours are otherwise satisfied. No renewal, no active license.
 
 ## Why Georgia Requires Ethics CE
 
 Insurance is one of the most trust-dependent industries there is. Agents hold significant responsibility — they guide financial decisions affecting decades of clients' lives, handle sensitive personal and medical information, and process claims that change families' trajectories. When the trust underlying those relationships breaks down, it harms clients, insurers, and the industry as a whole.
 
-Georgia requires ethics CE to make sure licensed professionals regularly revisit the standards that define responsible conduct. It's also a safeguard against the problem areas that come up repeatedly in OCI enforcement actions — misrepresentation, unsuitable sales, replacement violations, and undisclosed conflicts of interest.
+Georgia requires ethics CE to make sure licensed professionals regularly revisit the standards that define responsible conduct. It also reinforces the conduct rules Georgia actually writes into law — the unfair methods of competition and deceptive practices enumerated in O.C.G.A. § 33-6-4, and the grounds for license discipline set out in O.C.G.A. § 33-23-21.
 
 Ethics isn't an abstract philosophical requirement. It's practical career protection.
 
@@ -60,9 +62,9 @@ Complaint handling and regulatory cooperation. How to respond when clients compl
 
 ## Why This Matters for Your Career
 
-Ethics violations aren't just abstract concerns. They're the most common reason agents face license suspension or revocation in Georgia.
+Ethics violations aren't just abstract concerns. They can lead to fines, license suspension, or revocation in Georgia.
 
-Most agents who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical line that their ethics CE was literally designed to prevent.
+The conduct that puts a license at risk under O.C.G.A. § 33-23-21 — fraudulent or dishonest practices, misappropriating money belonging to clients or insurers, misrepresenting the terms of a policy, and demonstrating a lack of trustworthiness — is exactly what ethics CE is built to help you recognize and avoid.
 
 Taking ethics CE seriously is one of the cheapest forms of career insurance available.
 
@@ -98,7 +100,7 @@ Confidentiality lapses. Discussing client details casually with colleagues, fami
 
 4. Are online ethics courses accepted? Yes. OCI accepts approved online ethics courses, and most agents complete their ethics CE online.
 
-5. What happens if I complete 24 hours but skip the Ethics portion? Your CE won't be considered complete, and your renewal won't be accepted. The Ethics requirement is mandatory — missing it means your total hours don't count toward renewal regardless of the total number.
+5. What happens if I complete my full hour total but skip the Ethics portion? Your CE won't be considered complete, and your renewal won't be accepted. The Ethics requirement is mandatory — missing it means your hours don't satisfy the requirement regardless of the total number.
 
 ## Make Ethics CE Worth Your Time
 

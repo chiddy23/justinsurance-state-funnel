@@ -20,7 +20,7 @@ imageCredit: Photo by Darina Belonogova on Pexels
 
 If you’re getting ready to enter the Virginia insurance industry, you’ll want to familiarize yourself with the Virginia insurance licensing process. By breaking it into manageable steps, you’ll have a clear roadmap for meeting state requirements, preparing for the exam, and ultimately securing your new career. It’s natural to be uncertain about the details at first, but once you know what to expect, the rest of your journey can feel much more achievable.
 
-Some of the basics include meeting eligibility requirements, completing state-approved [pre-licensing](/virginia/prelicensing) courses, and passing a proctored exam. Beyond that, you’ll find different license types in Virginia, each geared toward specific products like life insurance, health insurance, or property and casualty. Where you start depends on your career goals, but the process itself is similar no matter which path you choose.
+The basics are meeting the eligibility requirements, passing a proctored Prometric exam, completing Fieldprint fingerprinting, and applying through NIPR. Notice what is *not* on that list: Virginia does not require pre-licensing education for standard producer lines, and it does not approve courses for them either — so [exam prep](/virginia/prelicensing) is a study decision, not a compliance step. Beyond that, you’ll find different license types in Virginia, each geared toward specific products like life insurance, health insurance, or property and casualty. Where you start depends on your career goals, but the process itself is similar no matter which path you choose.
 
 ## Check basic eligibility
 
@@ -28,7 +28,7 @@ Before you commit time and money to the process, confirm you’re officially eli
 
 1.  Be at least 18 years old.
 2.  Be a legal resident of Virginia or plan on applying as a non-resident under certain conditions.
-3.  Pass any mandatory background checks.
+3.  Pass the criminal background check, which includes fingerprinting through Fieldprint Virginia using service code FPVABOIProducer.
 
 That’s really it in terms of broad strokes. If you suspect something might affect your ability to obtain a license—such as a legal issue—you can review specific guidelines through the Virginia Bureau of Insurance or consult with an industry professional for guidance.
 
@@ -45,7 +45,7 @@ By considering where you want to focus your expertise—individual life, group h
 
 ## Consider pre-licensing education
 
-Virginia does not mandate that you finish [Virginia prelicensing education](/virginia/prelicensing) before sitting for your exam — that requirement was repealed statewide for standard lines. Many candidates still choose to take approved classes voluntarily, since they cover essential industry knowledge, ethical considerations, and state laws that show up on the exam.
+Virginia does not mandate that you finish [Virginia prelicensing education](/virginia/prelicensing) before sitting for your exam — that requirement was repealed statewide for standard lines (Acts 2001, c. 706, effective September 2002). Because the mandate is gone, Virginia no longer approves prelicensing courses for those lines, so treat any "state-approved" label you see on a Virginia exam-prep course as a red flag. Plenty of candidates still take a course voluntarily, since a good one covers essential industry knowledge, ethical considerations, and the state laws that show up on the exam.
 
 Many pre-licensing courses can be done in-person or online, so pick the format that best suits your learning style if you decide to take one. You’ll often find self-paced options that work around a busy schedule. Consider the course provider’s reputation, your budget, and any extra resources—like practice exams or exam reviews—that improve comprehension.
 
@@ -57,13 +57,13 @@ Most testing vendors offer a network of exam centers across Virginia and possibl
 
 ## Prepare for exam day
 
-Exam success is about more than memorizing facts—it’s about clear, confident understanding of key coverage concepts and Virginia state regulations. Reviewing your pre-licensing course materials is always helpful. In addition, practice timed quizzes or simulated exams to test your knowledge under real conditions. Stay mindful of the exam’s structure, including both general insurance topics and state-specific rules.
+Exam success is about more than memorizing facts—it’s about clear, confident understanding of key coverage concepts and Virginia state regulations. If you worked through a prep course, review its materials. In addition, practice timed quizzes or simulated exams to test your knowledge under real conditions. Stay mindful of the exam’s structure, including both general insurance topics and state-specific rules.
 
 Taking care of the basics can go a long way. Double-check your scheduled date, leave early to avoid delays, and bring the proper identification. A good night’s sleep and a quick review of your notes in the morning can also boost your exam day performance.
 
 ## Submit your license application
 
-When you pass the exam, you’re almost there. The next step is to formally apply for your insurance license through the Virginia Bureau of Insurance. In most cases, the application process can be completed online, and you’ll pay a licensing fee at this stage. You may be asked to provide proof of your course completion, exam results, and any additional documentation—so keep everything organized.
+When you pass the exam, you’re almost there. The next step is to formally apply through the National Insurance Producer Registry (NIPR), which routes your application to the Virginia Bureau of Insurance. The process is completed online, and you’ll pay a licensing fee at this stage. Schedule your Fieldprint fingerprinting appointment (service code FPVABOIProducer) before or alongside the application so your prints reach the Bureau without holding up the file. You’ll need your exam results and your identifying documentation—but not a course-completion certificate, since Virginia doesn’t require prelicensing education for standard lines.
 
 Once you hit submit, you might wait a few days or weeks for approval. If everything checks out, you’ll receive your official license, and you’ll be legally permitted to sell insurance lines you’ve been approved for. It never hurts to log into the state’s licensing portal periodically to check the status of your application, just to stay on top of any requests for more information.
 
@@ -75,4 +75,4 @@ Don’t forget that your license is just the beginning. Many people decide to la
 
 Finishing the Virginia insurance licensing process is a terrific milestone—so give yourself credit for all the effort you’ve invested. With your new license in hand, you can start forging relationships with clients, helping them find the right insurance solutions, and creating a strong reputation for knowledge and service.
 
-Ready to take the first step toward a fulfilling insurance career? Begin your journey by exploring your preferred lines of authority and finding an approved pre-licensing course that fits your schedule. You’ve got the determination, and Virginia has the opportunities. The time to make your mark in the insurance world is now. Good luck!
+Ready to take the first step toward a fulfilling insurance career? Begin your journey by exploring your preferred lines of authority and, if you want structured prep, finding a course that fits your schedule. You’ve got the determination, and Virginia has the opportunities. The time to make your mark in the insurance world is now. Good luck!

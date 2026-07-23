@@ -352,7 +352,7 @@ Department of Insurance authority and procedures
 
 ## 5 Frequently Asked Questions
 
-- How much of the Pennsylvania exam is state-specific law? Approximately 15-25% of the exam focuses on Pennsylvania-specific content.
+- How much of the Pennsylvania exam is state-specific law? Per the PSI content outline, the dedicated Insurance Regulation / Pennsylvania law domain is about 20% of the exam (21% on the Life, Accident & Health exam and 20% on Property & Casualty), and additional Pennsylvania-specific rules appear throughout the other sections.
 - What's distinctive about Pennsylvania's health insurance exchange? Pennsylvania operates Pennie as a state-based marketplace (established 2020), unlike most states which use the federal Healthcare.gov.
 - What's the Pennsylvania Tort Choice system? Pennsylvania allows drivers to choose between Limited Tort (lower premium, restricted lawsuit rights) and Full Tort (higher premium, full lawsuit rights) for auto insurance — distinctive to Pennsylvania and a few other states.
 - What's Pennsylvania Act 142 of 2024? Effective April 29, 2025, this Act eliminated the prelicense education requirement for Pennsylvania insurance producer licensure.
@@ -360,6 +360,6 @@ Department of Insurance authority and procedures
 
 ## Master Pennsylvania-Specific Exam Content
 
-Pennsylvania law is where many exam failures happen because generic materials miss state-specific depth. At JustInsurance, our Pennsylvania prelicense course (Provider Approval #147815) dedicates real attention to state-specific content — including Pennie, Tort Choice, and other Pennsylvania-specific topics.
+Pennsylvania law is where many exam failures happen because generic materials miss state-specific depth. At JustInsurance, our Pennsylvania life and health exam-prep courses dedicate real attention to state-specific content — including Pennie, recent regulatory changes, and the other Pennsylvania-specific topics that appear on the life and health exam.
 
 Enroll today and own the Pennsylvania portion of the exam.

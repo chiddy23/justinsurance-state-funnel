@@ -102,7 +102,7 @@ Quality ethics courses use case studies and real PID enforcement actions to make
 
 ## Why This Matters for Your Career
 
-Ethics violations are career-threatening. Most producers who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical or legal line.
+Ethics violations are career-threatening. A license can lapse over administrative issues like a missed renewal or unmet CE hours, but those are fixable. The disciplinary actions that revoke a license — and can bar you from the industry entirely — come from crossing an ethical or legal line.
 
 Pennsylvania has been notably active in producer discipline. Issues that lead to discipline include:
 

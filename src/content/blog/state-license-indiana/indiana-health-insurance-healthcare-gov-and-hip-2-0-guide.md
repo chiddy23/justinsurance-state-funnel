@@ -16,7 +16,7 @@ imageAlt: >-
   insurance: healthcare.gov and hip 2.0 guide.
 ---
 
-Indiana's health insurance landscape is defined by two key facts: Indiana uses Healthcare.gov (the federal ACA marketplace — not a state-based exchange) and HIP 2.0 (Healthy Indiana Plan) — Indiana's distinctively structured Medicaid expansion that uses POWER accounts and a HIP Plus/Basic distinction unlike any other state in this series. Indiana's low income tax (3.05% flat) and its large group employer market (Eli Lilly, Elevance Health, Indiana University Health) create specific group health advisory needs. And Indiana's no-individual-mandate position means there's no state tax penalty for being uninsured — though IDOI's strong consumer protection framework still creates specific insurance advisory obligations.
+Indiana's health insurance landscape is defined by two key facts: Indiana uses Healthcare.gov (the federal ACA marketplace — not a state-based exchange) and HIP 2.0 (Healthy Indiana Plan) — Indiana's distinctively structured Medicaid expansion that uses POWER accounts and a HIP Plus/Basic distinction unlike any other state in this series. Indiana's low income tax (2.95% flat) and its large group employer market (Eli Lilly, Elevance Health, Indiana University Health) create specific group health advisory needs. And Indiana's no-individual-mandate position means there's no state tax penalty for being uninsured — though IDOI's strong consumer protection framework still creates specific insurance advisory obligations.
 
 ## Healthcare.gov — Indiana's ACA Marketplace
 

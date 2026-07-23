@@ -1,6 +1,6 @@
 ---
 title: "How to Get Your Virginia Insurance License: The Complete Step-by-Step Guide"
-description: Virginia is one of the few states in the country that does not require prelicensing education before you sit for your insurance licensing exam — and the...
+description: Virginia does not require prelicensing education before you sit for your insurance licensing exam, and its regulator is the Bureau of Insurance within the...
 keyword: how to get your virginia insurance license the complete
 targetKeywords: how to get your virginia insurance license the complete
 cluster: state-license-virginia
@@ -12,9 +12,9 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: "How to Get Your Virginia Insurance License: The Complete Step-by-Step Guide"
 ---
 
-Virginia is one of the few states in the country that does not require [prelicensing](/virginia/prelicensing) education before you sit for your insurance licensing exam — and the state's regulator is not a Department of Insurance but the Bureau of Insurance within the State Corporation Commission (SCC), a structure unique among the states. These two facts set the tone for everything that follows: Virginia's licensing process is streamlined, candidate-controlled, and moves at the pace you set. Most candidates who are prepared complete the entire process — from deciding to get licensed to holding an active license — in two to four weeks. Here is exactly how it works.
+Virginia does not require [prelicensing](/virginia/prelicensing) education before you sit for your insurance licensing exam — the same as roughly thirty other states, where a course is optional exam prep rather than a legal prerequisite. What is more distinctive about Virginia is its regulator: not a Department of Insurance but the Bureau of Insurance within the State Corporation Commission (SCC), a structure shared by only a handful of states. Together those two facts set the tone for everything that follows: Virginia's licensing process is streamlined, candidate-controlled, and moves at the pace you set. Most candidates who are prepared complete the entire process — from deciding to get licensed to holding an active license — in two to four weeks. Here is exactly how it works.
 
-## The Five Steps to a Virginia Insurance License
+## The Four Steps to a Virginia Insurance License
 
 ### Step 1: Pass the Prometric Licensing Exam
 
@@ -32,7 +32,7 @@ No prelicensing course required — Virginia does not mandate prelicensing educa
 
 After failing: You must wait at least 24 hours before rescheduling. After failing the same exam three times, Virginia law requires a 30-calendar-day waiting period before you can retake it.
 
-Score validity: Your passing score is valid for 183 calendar days. You must submit your complete license application to the Bureau of Insurance within that window.
+Score validity: Your passing score is valid for 183 calendar days — but under Va. Code § 38.2-1817 that window closes when the license is *issued*, not when you apply. If the Bureau has not issued your license within 183 days of the exam, your passing grade is void and both the exam fee and the application fee are forfeited. Because a clean application takes roughly 15 business days to process (longer if you have convictions to review), submit well before day 183 rather than at the deadline.
 
 ### Step 2: Get Fingerprinted Through Fieldprint
 
@@ -44,29 +44,25 @@ Cost: $34.95 (includes Virginia State Police and FBI fees).
 
 Timing: Fingerprints must be no older than 90 days when you submit your license application. You must submit your application within 90 days of completing fingerprinting. You can schedule fingerprinting before or after passing the exam — many candidates do it simultaneously to avoid losing time.
 
-Fieldprint locations: There are approximately 46 Fieldprint locations across Virginia. Appointments typically take 10 minutes.
+Fieldprint locations: The Bureau of Insurance lists 93 Fieldprint locations across Virginia, so there is almost certainly one within a reasonable drive. Appointments typically take 10 minutes.
 
 Exemption: Fingerprinting is not required if you have submitted fingerprints in the last 12 months, are currently licensed, and are applying for the same license type.
 
-### Step 3: Obtain a Criminal History Record Report (CHRR)
+The Fieldprint appointment *is* your background check. There is no separate report to order and upload — Fieldprint transmits your prints to the Virginia State Police and the FBI, and the results go straight to the Bureau of Insurance. Older guidance still circulating online, including the 2020 Prometric licensing bulletin, tells applicants to obtain a mailed Criminal History Record Report (CHRR) from the Virginia State Police first; that describes the pre-Fieldprint process. The Bureau's current application page, last updated January 5, 2024, lists three things and only three things: pass the exam, apply through Sircon or NIPR, and complete Fieldprint fingerprinting. If you run into the CHRR instruction and are unsure which applies to you, confirm with Agent Licensing at AgentLicensing@scc.virginia.gov before paying for a report you may not need.
 
-Virginia resident applicants must provide a current Criminal History Record Report from the Virginia State Police, obtained no more than 90 days before the application date. The CHRR is submitted electronically as part of the online application.
+### Step 3: Apply Through NIPR or Sircon
 
-If you have resided in Virginia for less than six months, submit a CHRR from your previous home state instead.
-
-If your CHRR reveals a misdemeanor or felony conviction, you must also provide a detailed written statement explaining the circumstances and attach relevant court documents to your application. The SCC's Bureau of Insurance reviews all background information before issuing a license.
-
-### Step 4: Apply Through NIPR or Sircon
-
-After passing your exam and completing fingerprinting, submit your license application electronically through NIPR (nipr.com) or Sircon (sircon.com). Both platforms allow you to attach required documents including your CHRR.
+After passing your exam, submit your license application electronically through NIPR (nipr.com) or Sircon (sircon.com). The Bureau's published order is exam, then application, then fingerprinting — but the exam may be taken before prints are submitted, and in practice most candidates schedule fingerprinting alongside the exam so nothing is waiting on anything else.
 
 Application fee: $15 per line of authority (non-refundable).
 
+Background disclosures: if you have a misdemeanor or felony conviction to report, attach a detailed written statement explaining the circumstances along with the relevant court documents. The SCC's Bureau of Insurance reviews all background information before issuing a license, and applications with convictions to review take substantially longer — plan on 30 to 60 days rather than 15 business days.
+
 Processing time: Applications are processed in date order. Allow approximately 15 business days. NIPR does not pre-verify exam results before allowing submission — the Bureau of Insurance reviews everything after submission.
 
-Applications must be submitted within 90 days of completing fingerprinting and within 183 days of passing the exam. If either window expires, you must start over.
+Two deadlines run at once: your application must be *submitted* within 90 days of completing fingerprinting, and your license must be *issued* within 183 days of passing the exam (Va. Code § 38.2-1817). If your fingerprints go stale before you submit, or the Bureau has not issued the license by day 183, you forfeit your progress and start over — so leave the Bureau its processing time instead of applying at the last minute.
 
-### Step 5: Print Your License and Get Appointed
+### Step 4: Print Your License and Get Appointed
 
 Once the Bureau of Insurance approves your application, you can print your license through NIPR or Sircon. You do not receive a physical license in the mail.
 
@@ -96,6 +92,6 @@ What regulator issues Virginia insurance licenses, and how is Virginia different
 
 Virginia's insurance licenses are issued by the Bureau of Insurance within the State Corporation Commission (SCC), located at P.O. Box 1157, Richmond, VA 23218-1157. The SCC phone number for agent licensing is 804-371-9631 (or 800-552-7945 within Virginia). This structure — where insurance regulation is housed within a broader multi-industry regulatory body rather than a standalone department — is distinctive to Virginia and a few other states. For exam purposes and practical licensing purposes, the key fact is that the SCC's Bureau of Insurance is the licensing authority, Title 38.2 of the Code of Virginia is the governing statute, and applications are submitted through NIPR or Sircon rather than directly to the SCC.
 
-Virginia's insurance licensing process is transparent, efficient, and candidate-driven from the day you decide to get licensed. Understand the five steps, schedule your Prometric exam and Fieldprint appointment together, and you can hold an active Virginia producer license within a month of making the decision.
+Virginia's insurance licensing process is transparent, efficient, and candidate-driven from the day you decide to get licensed. Understand the four steps, schedule your Prometric exam and Fieldprint appointment together, and you can hold an active Virginia producer license within a month of making the decision.
 
-Visit JustInsurance to enroll today and start preparing for the Virginia Prometric exam with a state-approved course built to the current content outline.
+Visit JustInsurance to enroll today and start preparing for the Virginia Prometric exam with a course built to the current Prometric Virginia content outline. Virginia does not approve prelicensing or exam-prep courses for these lines, so judge any course on how closely it tracks that outline — not on a "state-approved" label.

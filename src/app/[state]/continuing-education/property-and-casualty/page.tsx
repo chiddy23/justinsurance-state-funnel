@@ -82,6 +82,109 @@ export async function generateMetadata({
 }
 
 // ---------------------------------------------------------------------------
+// CE STRUCTURE — how a state counts CE across MULTIPLE lines of authority.
+//
+// This page used to assert, for EVERY state, that "P&C and L&H CE are tracked
+// separately," that "completing L&H CE does NOT count toward your P&C
+// requirement," and that "dual-licensed agents must complete CE for each line
+// they hold." That is false in most states, and it is a consumer-harm claim: a
+// dual-licensed producer reading it could buy and complete roughly double the
+// CE their state actually requires.
+//
+// `states.ts` carries no field describing multi-line CE structure (CEInfo has
+// totalHours / ethicsHours / renewalPeriod only), so the map below is keyed by
+// state NAME — both buildPCFAQs and PCPackageDetail have the display name — and
+// lists ONLY states whose structure was confirmed against the primary source
+// cited on each entry. Any state NOT listed falls through to neutral copy that
+// asserts neither structure and points the producer at their DOI; that copy is
+// true in every state, so adding a state here is purely additive.
+// ---------------------------------------------------------------------------
+type CeStructure =
+  | {
+      /**
+       * One per-producer CE total covering every line held; approved CE in any
+       * line of authority counts toward it. Holding P&C + L&H does not double
+       * the hours owed.
+       */
+      kind: "combined";
+      /**
+       * True when the state publishes a single flat total that copy can name.
+       * False when the total varies by tenure or license class (Florida: 24
+       * hours in the first 6 years of licensure, 20 thereafter), in which case
+       * copy must describe the structure without asserting one number.
+       */
+      flatTotal: boolean;
+    }
+  | {
+      /**
+       * The biennial total scales with the number of license CATEGORIES held
+       * and carries a per-category minimum — neither "one combined total" nor
+       * "a full separate requirement per line" is accurate.
+       */
+      kind: "per-category-minimum";
+      singleCategoryHours: number;
+      multiCategoryHours: number;
+      perCategoryMinimum: number;
+    };
+
+const CE_STRUCTURE_BY_STATE: Partial<Record<string, CeStructure>> = {
+  // 215 ILCS 5/500-35; 50 Ill. Adm. Code 3119 — 24 hours total per producer per
+  // 2-year cycle, and approved CE in any line of authority counts toward it.
+  Illinois: { kind: "combined", flatTotal: true },
+  // Ohio Rev. Code §3905.481 + ODI CE Fact Sheet — a producer holding multiple
+  // lines does not complete more than 24 hours, and a P&C-only agent may take a
+  // life course for general credit.
+  Ohio: { kind: "combined", flatTotal: true },
+  // 044-20 Wyo. Code R. §20-3 (Basic Requirement): "Licensees shall complete
+  // twenty-four (24) contact hours of continuing education within each two (2)
+  // year licensing period" — owed per LICENSEE, not per line. Wyoming DOI CE
+  // page (doi.wyo.gov/licensing/ce) states the 24 hours apply to resident
+  // producers generally, with 3 in ethics.
+  Wyoming: { kind: "combined", flatTotal: true },
+  // Cal. Ins. Code §1749.3, as published by the CDI: "An individual licensed as
+  // a property broker-agent or casualty broker-agent and as a life-only agent
+  // or an accident and health agent shall satisfy the requirements of this
+  // section by demonstrating completion of the courses, programs of
+  // instruction, or seminars approved by the commissioner for any of the
+  // license types listed in this section." One 24-hour term requirement.
+  California: { kind: "combined", flatTotal: true },
+  // TDI (tdi.texas.gov/agent/agcehome.html): 24 hours including 3 ethics per
+  // 2-year period for every major license type, and "Courses are not divided by
+  // license type" — only "General" and "Ethics" topic groups exist.
+  Texas: { kind: "combined", flatTotal: true },
+  // Fla. Stat. §626.2815 (flsenate.gov): "A licensee who holds multiple
+  // insurance licenses must complete an update course that is specific to at
+  // least one of the licenses held," with the remaining required hours elective
+  // and satisfiable by any department-approved course. flatTotal is false
+  // because Florida's total is 24 hours in the first 6 years and 20 after.
+  Florida: { kind: "combined", flatTotal: false },
+  // Idaho DOI (doi.idaho.gov/industry/licensing-services/continuing-education/
+  // ce-producer/): 24 hours every 2 years, 3 in ethics, for a producer holding
+  // "one or more" major lines — plus "Any courses in the course catalog are
+  // acceptable; you are not limited to only the lines you carry on your
+  // license."
+  Idaho: { kind: "combined", flatTotal: true },
+  // NIPR Iowa resident renewal requirements: "Complete 36 total CE credits
+  // during each CE term" and "Complete at least 3 credits in Ethics." The only
+  // line-based variation NIPR lists is crop-only producers (18 credits), so the
+  // 36 is a per-producer total rather than a per-line one.
+  Iowa: { kind: "combined", flatTotal: true },
+  // Va. Code §38.2-1866 (law.lis.virginia.gov). Subsection (G): "any agent who
+  // holds licenses from more than one category of licenses identified in
+  // subsection A shall complete 24 hours of relevant continuing education
+  // credits with a minimum of eight credit hours in each such category." A
+  // single-category agent completes 16 hours. Subsection (H) requires 3 of the
+  // biennial credits in insurance ethics. So Virginia genuinely scales — but it
+  // scales 16 -> 24, it does not double to 32.
+  Virginia: {
+    kind: "per-category-minimum",
+    singleCategoryHours: 16,
+    multiCategoryHours: 24,
+    perCategoryMinimum: 8,
+  },
+};
+
+// ---------------------------------------------------------------------------
 // Shared FAQ generator — produces 7 P&C-specific Q&A using state-specific facts
 // EXPORTED so the [package]/page.tsx route can reuse it.
 //
@@ -105,6 +208,16 @@ export function buildPCFAQs(
       ? "every year"
       : `every ${stateReq.renewalCycleYears} years`;
 
+  // How this state counts CE across multiple lines of authority. See
+  // CE_STRUCTURE_BY_STATE above — `undefined` means unconfirmed, which routes
+  // every branch below to neutral copy that asserts neither structure.
+  const ceStructure = CE_STRUCTURE_BY_STATE[stateName];
+  const isCombinedCE = ceStructure?.kind === "combined";
+  const combinedFlatTotal =
+    ceStructure?.kind === "combined" && ceStructure.flatTotal;
+  const perCategoryCE =
+    ceStructure?.kind === "per-category-minimum" ? ceStructure : undefined;
+
   // Build the state-truth answer from stateReq fields.
   let stateReqAnswer =
     `${stateName} requires Property & Casualty insurance producers to complete ` +
@@ -124,8 +237,19 @@ export function buildPCFAQs(
   } else {
     stateReqAnswer += ` Our ${pkg.shortName} package satisfies this requirement in a single bundle.`;
   }
-  stateReqAnswer +=
-    ` (For comparison, ${stateName} Life & Health agents need ${ceHours} hours every ${ceRenewalPeriod} with ${ceEthicsHours} ethics hours — a different requirement set.)`;
+  if (combinedFlatTotal) {
+    stateReqAnswer +=
+      ` In ${stateName}, this counts toward one combined ${stateReq.totalHours}-hour CE total that also covers any Life & Health license you hold — you do not complete a separate ${ceHours} hours for L&H (${stateReq.statuteCitation}).`;
+  } else if (isCombinedCE) {
+    stateReqAnswer +=
+      ` ${stateName} counts approved CE toward a single per-producer total rather than a separate total for each line, so these hours also cover any Life & Health license you hold — holding both lines does not double what you owe (${stateReq.statuteCitation}).`;
+  } else if (perCategoryCE) {
+    stateReqAnswer +=
+      ` That ${perCategoryCE.singleCategoryHours}-hour figure is the requirement for an agent licensed in a single category. An agent who holds licenses in two or more categories — P&C plus Life & Health, for example — completes ${perCategoryCE.multiCategoryHours} hours per biennium instead, with a minimum of ${perCategoryCE.perCategoryMinimum} credit hours in each category held (${stateReq.statuteCitation}). Holding a second line raises your total; it does not double it.`;
+  } else {
+    stateReqAnswer +=
+      ` If you also hold a Life & Health license, check with the ${doiName} how your hours are counted before you enroll in a second full package — many states apply one CE total across every line a producer holds rather than a separate requirement per line. ${stateName}'s published Life & Health figure is ${ceHours} hours every ${ceRenewalPeriod} with ${ceEthicsHours} ethics hours.`;
+  }
   if (stateReq.requiresVerification) {
     stateReqAnswer += ` Always verify current requirements with the ${doiName} before scheduling your renewal.`;
   }
@@ -137,7 +261,15 @@ export function buildPCFAQs(
     },
     {
       question: `What's the difference between L&H CE and P&C CE in ${stateName}?`,
-      answer: `Life & Health (L&H) CE covers life insurance, annuities, health insurance, Medicare, and long-term care topics. Property & Casualty (P&C) CE covers personal auto, homeowners, commercial property, general liability, workers' compensation, and similar coverages. The two CE tracks are tracked separately by the ${doiName} — completing L&H CE does NOT count toward your P&C requirement, and vice versa. Dual-licensed agents must complete CE for each line they hold.`,
+      answer: `Life & Health (L&H) CE covers life insurance, annuities, health insurance, Medicare, and long-term care topics. Property & Casualty (P&C) CE covers personal auto, homeowners, commercial property, general liability, workers' compensation, and similar coverages. ${
+        combinedFlatTotal
+          ? `The subject matter differs, but ${stateName} does not run them as two separate CE accounts — a resident producer completes ${stateReq.totalHours} hours per renewal cycle regardless of how many lines they hold, and approved CE in any line of authority counts toward that one total (${stateReq.statuteCitation}). Completing L&H CE therefore DOES count toward the same total that covers your P&C requirement.`
+          : isCombinedCE
+            ? `The subject matter differs, but ${stateName} does not run them as two separate CE accounts — approved CE in any line of authority counts toward one per-producer total, no matter how many lines you hold (${stateReq.statuteCitation}). Completing L&H CE therefore DOES count toward the same total that covers your P&C requirement.`
+            : perCategoryCE
+              ? `In ${stateName} the two are not fully interchangeable, but holding both does not mean two separate ${perCategoryCE.singleCategoryHours}-hour requirements either: an agent licensed in a single category completes ${perCategoryCE.singleCategoryHours} hours per biennium, while an agent licensed in two or more categories completes ${perCategoryCE.multiCategoryHours} hours with a minimum of ${perCategoryCE.perCategoryMinimum} credit hours applying to each category held (${stateReq.statuteCitation}).`
+              : `States differ in how the two interact — some count all approved CE toward one per-producer total, others set line-specific minimums or a higher total for producers who hold more than one line. Before assuming you owe a full separate CE requirement for each license, confirm your exact obligation with the ${doiName}; you may owe fewer hours than you think.`
+      }`,
     },
     {
       question: `Does this package include the ${stateName} ethics requirement?`,
@@ -153,7 +285,13 @@ export function buildPCFAQs(
     },
     {
       question: `I hold both an L&H license and a P&C license. Do I need two separate CE packages?`,
-      answer: `It depends on how ${stateName} scales CE. ${stateName}'s published requirement is ${stateReq.totalHours} hours per renewal cycle. Some states apply one combined total across every line you hold, while others increase the total when you hold licenses in different scopes — they do not always simply double. Confirm your exact obligation with the ${doiName} before assuming you owe the ${ceHours} hours of L&H CE for your L&H license each renewal cycle (${stateReq.statuteCitation}). JustInsurance offers both — you can bundle them at checkout.`,
+      answer: combinedFlatTotal
+        ? `No. ${stateName} applies a single combined CE total: you complete ${stateReq.totalHours} hours per renewal cycle regardless of how many lines you hold — not ${stateReq.totalHours} hours for each license. A dual-licensed P&C + L&H producer owes ${stateReq.totalHours} hours total (including ${stateReq.ethicsHours} hours of ${stateReq.ethicsLabel}), and approved CE in any line of authority counts toward that one total (${stateReq.statuteCitation}). One ${stateReq.totalHours}-hour package that includes the ethics requirement satisfies your entire renewal — you can choose whichever P&C or L&H topics fill your hours at checkout.`
+        : isCombinedCE
+          ? `No. ${stateName} applies a single per-producer CE total rather than a separate requirement for each license, and approved CE in any line of authority counts toward it — so a dual-licensed P&C + L&H producer does not owe two full CE requirements (${stateReq.statuteCitation}). One package that covers your hours and includes the required ethics module satisfies your entire renewal. Your exact hour count can depend on how long you have been licensed, so confirm the number with the ${doiName} before you renew.`
+          : perCategoryCE
+            ? `Not two full packages, though ${stateName} does scale. An agent licensed in a single category completes ${perCategoryCE.singleCategoryHours} hours per biennium; an agent licensed in two or more categories completes ${perCategoryCE.multiCategoryHours} hours, with a minimum of ${perCategoryCE.perCategoryMinimum} credit hours applying to each category held (${stateReq.statuteCitation}). A dual-licensed P&C + L&H agent therefore owes ${perCategoryCE.multiCategoryHours} hours in total — not ${perCategoryCE.singleCategoryHours} hours for each license. Because this ${pkg.totalHours}-hour P&C package is built to the single-category requirement, a dual-licensed agent should pair it with L&H hours to meet the ${perCategoryCE.perCategoryMinimum}-hour minimum in each category; you can bundle both at checkout.`
+            : `It depends on how ${stateName} scales CE. ${stateName}'s published requirement is ${stateReq.totalHours} hours per renewal cycle. Some states apply one combined total across every line you hold, while others increase the total when you hold licenses in different scopes — they do not always simply double. Confirm your exact obligation with the ${doiName} before assuming you owe the ${ceHours} hours of L&H CE for your L&H license each renewal cycle (${stateReq.statuteCitation}). JustInsurance offers both — you can bundle them at checkout.`,
     },
   ];
 
@@ -187,6 +325,24 @@ export function PCPackageDetail({
   pkg: PCPackage;
 }) {
   const { ce } = stateData;
+  // Owner decision: CE cannot be PURCHASED in pending-approval states
+  // (providerApprovalNumber === "PENDING"). No current P&C state is pending — NY
+  // and WA carry no P&C packages, so this branch never renders today — but the
+  // gate is here defensively: if a pending state ever gains a P&C package, its
+  // purchase surfaces (hero enroll, refund microcopy, closing CTA) are replaced
+  // with a neutral notice. For every approved P&C state this is byte-identical.
+  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
+  // How this state counts CE across multiple lines held (see
+  // CE_STRUCTURE_BY_STATE). Unconfirmed states get neutral copy — the page must
+  // never assert that P&C and L&H are "tracked separately," because in most
+  // states they are not, and that claim can push a dual-licensed producer into
+  // buying twice the CE they owe.
+  const ceStructure = CE_STRUCTURE_BY_STATE[stateData.name];
+  const isCombinedCreditState = ceStructure?.kind === "combined";
+  const combinedFlatTotal =
+    ceStructure?.kind === "combined" && ceStructure.flatTotal;
+  const perCategoryCE =
+    ceStructure?.kind === "per-category-minimum" ? ceStructure : undefined;
   const providerLine = stateData.providerNumber
     ? `State-Approved ${stateData.doiName} CE Provider #${stateData.ceProviderNumber ?? stateData.providerNumber}`
     : `State-Approved ${stateData.doiName} CE Provider`;
@@ -202,19 +358,39 @@ export function PCPackageDetail({
         eyebrow={`${stateData.name} P&C CE`}
         title={`${stateData.name} Property & Casualty CE Package`}
         subtitle={`Complete your ${pkg.totalHours}-hour P&C CE requirement online: ${pkg.ethicsHours}-hr ${pkg.ethicsLabel} + ${pkg.pcHours}-hr P&C electives. Same-day reporting to the ${stateData.doiName} in most cases. ${pkg.price}.`}
-        ctaButtons={[
-          { text: `Enroll Now — ${pkg.price}`, href: pkg.cartLink },
-        ]}
+        ctaButtons={
+          providerApproved
+            ? [{ text: `Enroll Now — ${pkg.price}`, href: pkg.cartLink }]
+            : []
+        }
       />
 
       <CeApprovalNotice stateSlug={stateData.slug} />
 
-      {/* Item #6 — refund policy microcopy under the hero Enroll CTA */}
-      <div className="bg-navy-dark px-4 pb-6">
-        <p className="max-w-4xl mx-auto text-center text-blue-200 text-xs leading-relaxed">
-          <RefundDisclosure />
-        </p>
-      </div>
+      {/* Under-hero band. Approved states: refund microcopy at the point of sale.
+          Pending-approval states: no purchase is possible yet, so the buyable
+          hero CTA is dropped (above) and this is replaced with a neutral
+          "opening soon" notice. */}
+      {providerApproved ? (
+        <div className="bg-navy-dark px-4 pb-6">
+          <p className="max-w-4xl mx-auto text-center text-blue-200 text-xs leading-relaxed">
+            <RefundDisclosure />
+          </p>
+        </div>
+      ) : (
+        <div className="bg-navy-dark px-4 pb-8">
+          <div className="max-w-4xl mx-auto text-center">
+            <p className="text-gold font-semibold text-base md:text-lg">
+              Opening soon — our {stateData.name} CE provider approval is pending.
+            </p>
+            <p className="text-blue-200 text-sm leading-relaxed mt-2 max-w-2xl mx-auto">
+              We&apos;ll open {stateData.name} P&amp;C CE enrollment as soon as the{" "}
+              {stateData.doiName} issues our provider approval. The requirement
+              details below are accurate and kept up to date.
+            </p>
+          </div>
+        </div>
+      )}
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
@@ -232,10 +408,13 @@ export function PCPackageDetail({
         </div>
       </section>
 
+      {/* CE access term is 365 days across the whole $39 CE family — the
+          earlier "30 Days" here was the prelicensing default copied in by
+          mistake and contradicted the Life/Health/Life & Health CE pages. */}
       <CourseOverviewBox
         hours={pkg.totalHours}
         price={pkg.price}
-        accessDuration="30 Days"
+        accessDuration="365 Days"
         includes={[
           `${pkg.ethicsHours}-hr ${pkg.ethicsLabel}`,
           `${pkg.pcHours}-hr P&C electives`,
@@ -273,7 +452,7 @@ export function PCPackageDetail({
               </li>
               <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                 <span className="text-gray-500">Course Access</span>
-                <span className="font-bold text-navy">30 Days</span>
+                <span className="font-bold text-navy">365 Days</span>
               </li>
               <li className="flex justify-between items-center">
                 <span className="text-gray-500">Reporting</span>
@@ -410,7 +589,15 @@ export function PCPackageDetail({
             {stateData.name} CE Requirements at a Glance
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-2xl mx-auto">
-            P&C and L&H CE are tracked separately. Here&apos;s how this package fits the {stateData.doiName}&apos;s requirements.
+            {combinedFlatTotal ? (
+              <>{stateData.name} counts all CE toward one combined {ce.totalHours}-hour total. Here&apos;s how this {pkg.totalHours}-hour package fits the {stateData.doiName}&apos;s requirements.</>
+            ) : isCombinedCreditState ? (
+              <>{stateData.name} counts approved CE in any line of authority toward one per-producer total, not a separate total per line. Here&apos;s how this {pkg.totalHours}-hour package fits the {stateData.doiName}&apos;s requirements.</>
+            ) : perCategoryCE ? (
+              <>{stateData.name} sets a higher biennial total for agents licensed in more than one category, with a minimum number of hours in each. Here&apos;s how this {pkg.totalHours}-hour package fits the {stateData.doiName}&apos;s requirements.</>
+            ) : (
+              <>Here&apos;s how this {pkg.totalHours}-hour package fits the {stateData.doiName}&apos;s published requirements.</>
+            )}
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-white rounded-xl p-6 border border-gray-200">
@@ -440,7 +627,13 @@ export function PCPackageDetail({
             <div className="bg-white rounded-xl p-6 border border-gray-200">
               <h3 className="font-bold text-navy mb-4 flex items-center gap-2">
                 <span className="inline-block bg-navy/10 text-navy text-xs font-bold uppercase px-2 py-1 rounded">L&H</span>
-                Separate Track
+                {combinedFlatTotal
+                  ? `Same ${ce.totalHours}-Hour Total`
+                  : isCombinedCreditState
+                    ? "Same CE Total"
+                    : perCategoryCE
+                      ? `${perCategoryCE.perCategoryMinimum}-Hour Category Minimum`
+                      : `${stateData.name} L&H Requirement`}
               </h3>
               <ul className="space-y-3 text-sm">
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
@@ -464,6 +657,17 @@ export function PCPackageDetail({
               </ul>
             </div>
           </div>
+          <p className="text-center text-sm text-gray-600 mt-6 max-w-2xl mx-auto">
+            {combinedFlatTotal ? (
+              <>{stateData.name} tracks all CE as one combined total: you complete {ce.totalHours} hours (including {ce.ethicsHours} ethics) every {ce.renewalPeriod} no matter how many lines you hold — <strong>not</strong> a separate {ce.totalHours} hours for each license. Completing this {pkg.totalHours}-hour P&amp;C package satisfies your entire {stateData.name} renewal, and approved CE in any line of authority counts toward the same total ({pkg.stateRequirement.statuteCitation}).</>
+            ) : isCombinedCreditState ? (
+              <>{stateData.name} counts approved CE toward one per-producer total rather than a separate total for each line, so holding both a P&amp;C and a Life &amp; Health license does <strong>not</strong> double the hours you owe — the hours in this {pkg.totalHours}-hour package count toward that single total ({pkg.stateRequirement.statuteCitation}). Your exact total depends on how long you have been licensed, so confirm the number with the {stateData.doiName} before you renew.</>
+            ) : perCategoryCE ? (
+              <>{stateData.name} does not require a full second package for a second license, but it does scale: an agent licensed in a single category completes {perCategoryCE.singleCategoryHours} hours per biennium, while an agent licensed in two or more categories completes {perCategoryCE.multiCategoryHours} hours with a minimum of {perCategoryCE.perCategoryMinimum} credit hours in <strong>each</strong> category held ({pkg.stateRequirement.statuteCitation}). The {perCategoryCE.singleCategoryHours}-hour figure shown above is the single-category requirement — if you also hold a Life &amp; Health license, pair this package with L&amp;H hours to cover both category minimums.</>
+            ) : (
+              <>The Life &amp; Health figures above are {stateData.name}&apos;s published L&amp;H CE requirement. If you hold both a P&amp;C and an L&amp;H license, don&apos;t assume the two totals simply add together — states differ in how CE is counted for producers who hold more than one line, and many apply a single total across all lines. Confirm your combined obligation with the {stateData.doiName} before enrolling in two full packages.</>
+            )}
+          </p>
           <p className="text-center text-xs text-gray-500 mt-6">
             Source: <a href={ce.requirementsUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-navy">{stateData.doiName}</a>
           </p>
@@ -481,14 +685,31 @@ export function PCPackageDetail({
         only present here.
       */}
 
-      <CTABanner
-        title={`Renew Your ${stateData.name} P&C License Today`}
-        subtitle={`Complete your ${pkg.totalHours}-hour P&C CE requirement online for ${pkg.price}. We typically report to the ${stateData.doiName} same-day.`}
-        ctaText={`Enroll Now — ${pkg.price}`}
-        ctaHref={pkg.cartLink}
-        externalLink
-        disclosure={<RefundDisclosure />}
-      />
+      {/* Closing CTA. Approved states: purchasable "Enroll Now" banner. Pending
+          states: replaced with a neutral "opening soon" notice (no purchase). */}
+      {providerApproved ? (
+        <CTABanner
+          title={`Renew Your ${stateData.name} P&C License Today`}
+          subtitle={`Complete your ${pkg.totalHours}-hour P&C CE requirement online for ${pkg.price}. We typically report to the ${stateData.doiName} same-day.`}
+          ctaText={`Enroll Now — ${pkg.price}`}
+          ctaHref={pkg.cartLink}
+          externalLink
+          disclosure={<RefundDisclosure />}
+        />
+      ) : (
+        <section className="bg-navy py-16 px-4">
+          <div className="max-w-3xl mx-auto text-center">
+            <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
+              {stateData.name} P&amp;C CE — Opening Soon
+            </h2>
+            <p className="text-blue-100 text-lg leading-relaxed">
+              Our {stateData.name} CE provider approval is pending with the{" "}
+              {stateData.doiName}. Enrollment for this {pkg.totalHours}-hour P&amp;C
+              CE package will open as soon as approval is issued.
+            </p>
+          </div>
+        </section>
+      )}
     </>
   );
 }
@@ -507,6 +728,10 @@ export default async function PCStateHubPage({
   if (!stateData || packages.length === 0) notFound();
 
   const isMulti = isPCMultiPackageState(state);
+  // Multi-line CE structure for the multi-package landing copy below. Only
+  // states confirmed against a primary source are listed in
+  // CE_STRUCTURE_BY_STATE; everything else renders the neutral variant.
+  const hubCeStructure = CE_STRUCTURE_BY_STATE[stateData.name];
   const canonicalUrl = `https://justinsuranceco.com/${state}/continuing-education/property-and-casualty`;
 
   // ----- Schemas (always emitted) -----
@@ -663,7 +888,14 @@ export default async function PCStateHubPage({
                 {stateData.name} P&amp;C CE Context
               </h2>
               <p className="text-gray-600 text-sm leading-relaxed text-center max-w-2xl mx-auto mb-6">
-                {stateData.name} producers must complete CE every {stateData.ce.renewalPeriod}. P&amp;C and L&amp;H CE are tracked separately by the {stateData.doiName} — completing one does not satisfy the other.
+                {stateData.name} producers must complete CE every {stateData.ce.renewalPeriod}.{" "}
+                {hubCeStructure?.kind === "combined" ? (
+                  <>The {stateData.doiName} counts approved CE in any line of authority toward one per-producer total, so holding both a P&amp;C and a Life &amp; Health license does not double the hours you owe ({repPkg.stateRequirement.statuteCitation}).</>
+                ) : hubCeStructure?.kind === "per-category-minimum" ? (
+                  <>An agent licensed in a single category completes {hubCeStructure.singleCategoryHours} hours per biennium, while an agent licensed in two or more categories completes {hubCeStructure.multiCategoryHours} hours with a minimum of {hubCeStructure.perCategoryMinimum} credit hours in each category held ({repPkg.stateRequirement.statuteCitation}).</>
+                ) : (
+                  <>If you also hold a Life &amp; Health license, check with the {stateData.doiName} how your hours are counted before enrolling in two full packages — states differ in whether a multi-line producer owes one combined total or line-specific minimums.</>
+                )}
               </p>
               {/*
                 Fix 1.2 (2026-04-29): Florida-only clarifying paragraph.
@@ -708,6 +940,7 @@ export default async function PCStateHubPage({
         stateSlug={stateData.slug}
         stateName={stateData.name}
         doiName={stateData.doiName}
+        providerApproved={stateData.providerApprovalNumber !== "PENDING"}
       />
 
       <FAQAccordion

@@ -16,9 +16,9 @@ The Minnesota Accident and Health insurance licensing exam covers one of the bro
 
 ## Exam Specifications
 
-Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 85 Time allowed: 2 hours Passing score: 70% (scaled score of 70 or higher) Results: Immediate — displayed on screen at conclusion of exam Retakes: No limit; 24-hour wait between attempts; $45 fee per attempt Exam validity: 3 years from date of passing
+Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 75 — 50 accident and health general knowledge plus 25 Minnesota-specific state laws, rules, and regulations. PSI adds unscored pretest questions on top of the scored count (10 on this exam), so the exam presents 85 items Time allowed: 2 hours Passing score: 70% correct — a raw percentage of the scored questions answered correctly; PSI's Minnesota candidate bulletin states plainly that you need 70% correct to pass, and does not convert your result to a scaled score Results: Immediate — displayed on screen at the conclusion of the exam, with a diagnostic report by content area emailed to you if you fail Retakes: No limit; you cannot rebook on the same day you tested, but you can call PSI the next day and retest as soon as the day after, subject to seat availability; $45 fee per attempt Exam validity: 3 years — your license application must be submitted within 36 months of passing
 
-Combined Life and A&H exam: Candidates who want both Life and A&H authority simultaneously take the combined Life, Accident and Health exam — 145 questions over 3 hours — covering both lines in a single session. The content of each line within the combined exam is the same as the standalone exams. The combined exam is the efficient choice for candidates pursuing both lines simultaneously.
+Combined Life and A&H exam: Candidates who want both Life and A&H authority simultaneously take the combined Life, Accident and Health exam — 130 scored questions (50 life general knowledge, 50 accident and health general knowledge, and 30 Minnesota state law), presented as 145 items once the unscored pretest questions are added, over 3 hours. One detail worth planning around: the combined exam carries a larger Minnesota state law section than the standalone A&H exam — 30 scored questions rather than 25. Otherwise the content of each line within the combined exam is the same as the standalone exams, which makes it the efficient choice for candidates pursuing both lines at once.
 
 ## Section 1: Types of Health Insurance Policies
 
@@ -64,7 +64,7 @@ Preferred Provider Organization (PPO): Members can see any provider but pay less
 
 Point of Service (POS): A hybrid of HMO and PPO. Members designate a PCP who coordinates care. In-network care follows HMO rules (lower cost); out-of-network care is covered at PPO-style rates with higher cost-sharing.
 
-High Deductible Health Plan (HDHP): A plan with a higher deductible than traditional plans, paired with lower premiums. HDHPs are the qualifying plans for Health Savings Accounts (HSAs). For 2026, the minimum deductible for an HDHP is $1,650 (individual) or $3,300 (family). HSA contribution limits for 2026 are $4,300 (individual) and $8,550 (family).
+High Deductible Health Plan (HDHP): A plan with a higher deductible than traditional plans, paired with lower premiums. HDHPs are the qualifying plans for Health Savings Accounts (HSAs). For 2026, the minimum annual deductible for an HDHP is $1,700 (self-only) or $3,400 (family), and annual out-of-pocket expenses cannot exceed $8,500 (self-only) or $17,000 (family). HSA contribution limits for 2026 are $4,400 (self-only) and $8,750 (family), plus a $1,000 catch-up contribution for accountholders age 55 or older. The IRS adjusts all of these figures annually — confirm the current-year amounts before your exam.
 
 ## Section 2: Disability Income Insurance
 
@@ -122,7 +122,7 @@ Elimination period and benefit period: Same concepts as disability income — an
 
 Inflation protection: LTC policies may offer inflation protection riders — typically 5% compound inflation — that increase the daily benefit amount over time to keep pace with rising care costs.
 
-Minnesota LTC specialty CE: Minnesota requires producers who sell LTC insurance to complete an 8-hour initial LTC certification before selling LTC products. This certification must be specific to Minnesota Medicaid and Minnesota Partnership plans. After the initial certification, a 5-hour refresher is required at each subsequent renewal. This is a state-specific regulatory requirement that appears on the Minnesota state law section of the A&H exam.
+Minnesota LTC specialty CE: Minnesota requires producers who sell LTC insurance to complete a one-time initial training course of no less than 8 hours before selling LTC products. The training must be specific to Minnesota Medical Assistance — Minnesota's Medicaid program — and its relationship to Minnesota Partnership plans. After the initial course, ongoing LTC training of no less than 4 hours is required every 24 months (Minn. Stat. §60K.365). This is a state-specific regulatory requirement that appears on the Minnesota state law section of the A&H exam.
 
 Minnesota Partnership for Long-Term Care: Minnesota participates in the Long-Term Care Partnership Program — a collaboration between states and private LTC insurers that provides Medicaid asset protection for policyholders who exhaust their partnership-qualified LTC policy benefits. Under partnership rules, assets equal to the benefits paid by the partnership-qualified policy are protected from Medicaid spend-down requirements.
 
@@ -138,7 +138,7 @@ Covers inpatient hospital care, skilled nursing facility care following a qualif
 
 Premium: Most Medicare beneficiaries pay $0 for Part A if they or their spouse worked at least 40 quarters and paid Medicare taxes
 
-Deductible: $1,676 per benefit period (2025)
+Deductible: $1,736 per benefit period (2026)
 
 Benefit periods: A benefit period begins the day the beneficiary is admitted to a hospital or skilled nursing facility and ends when they have been out of the facility for 60 consecutive days
 
@@ -146,9 +146,9 @@ Medicare Part B — Medical Insurance:
 
 Covers physician services, outpatient care, preventive services, and durable medical equipment
 
-Premium: $185.00/month (standard 2025 premium, subject to income-related adjustments — IRMAA)
+Premium: $202.90/month (standard 2026 premium, subject to income-related adjustments — IRMAA)
 
-Annual deductible: $257 (2025)
+Annual deductible: $283 (2026)
 
 Coinsurance: 20% of Medicare-approved amount after deductible
 
@@ -210,7 +210,7 @@ Minnesota Continuation Law: Minnesota requires insurers and employers to offer c
 
 Minnesota Life and Health Guaranty Association (Minn. Stat. §61B): Protects A&H policyholders if an insurer becomes insolvent. Coverage limits apply — producers may not use guaranty association protection in sales presentations to minimize concerns about insurer financial stability.
 
-LTC producer certification (Minnesota-specific): As noted above, the 8-hour initial LTC certification and 5-hour biennial refresher are Minnesota-specific requirements for producers selling LTC insurance. These requirements appear regularly in the state law section of the A&H exam.
+LTC producer certification (Minnesota-specific): As noted above, the one-time 8-hour initial LTC training and the 4-hour ongoing training required every 24 months (Minn. Stat. §60K.365) are Minnesota-specific requirements for producers selling LTC insurance. These requirements appear regularly in the state law section of the A&H exam.
 
 ## Strategic Approach: Maximizing Your Score
 
@@ -236,7 +236,7 @@ The A&H exam covers the full breadth of accident and health insurance products �
 
 What is the most important Minnesota-specific topic on the A&H exam?
 
-MinnesotaCare — Minnesota's Basic Health Program — is the most distinctively Minnesota-specific topic on the A&H exam because it exists only in Minnesota and cannot be known from general insurance study. Understand that MinnesotaCare serves Minnesotans with incomes between 138% and 200% of FPL, that it functions as a bridge between Medicaid (below 138% FPL) and marketplace coverage (above 200% FPL), that it is administered by the state with federal funding, and that it provides near-universal coverage access across income levels in a way that no other state has replicated. The LTC producer certification requirement — the 8-hour initial and 5-hour biennial refresher specific to Minnesota Medicaid and Partnership plans — is the second most distinctively Minnesota-specific topic and appears regularly in exam questions about what producers must do before selling LTC products.
+MinnesotaCare — Minnesota's Basic Health Program — is the most distinctively Minnesota-specific topic on the A&H exam because it exists only in Minnesota and cannot be known from general insurance study. Understand that MinnesotaCare serves Minnesotans with incomes between 138% and 200% of FPL, that it functions as a bridge between Medicaid (below 138% FPL) and marketplace coverage (above 200% FPL), that it is administered by the state with federal funding, and that it provides near-universal coverage access across income levels in a way that no other state has replicated. The LTC producer certification requirement — the one-time 8-hour initial training and the 4-hour ongoing training every 24 months, specific to Minnesota Medical Assistance and Partnership plans — is the second most distinctively Minnesota-specific topic and appears regularly in exam questions about what producers must do before selling LTC products.
 
 The exam covers both individual and group health insurance. How deeply does it test group-specific rules like COBRA and HIPAA?
 

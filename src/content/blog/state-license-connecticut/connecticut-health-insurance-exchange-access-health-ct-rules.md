@@ -186,7 +186,7 @@ Network adequacy. Connecticut has specific requirements for provider networks.
 
 Continuation coverage rules. Connecticut-specific rules for individual health insurance.
 
-Recent rate changes. For 2026, average individual rates reflected 17.8% increase and average small group rates 13.1% increase.
+Recent rate changes. For 2026, the Connecticut Insurance Department approved an average individual-market rate increase of 16.8% and an average small-group increase of 11% — reductions from the 23.3% and 13.1% average increases insurers originally requested.
 
 ## Producer Compensation Through Access Health CT
 

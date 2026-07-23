@@ -56,9 +56,9 @@ Reciprocity for established producers. Producers moving to Oregon from other sta
 
 ## Estimated Pass Rates
 
-The Oregon DFR doesn't publish official first-time pass rates for insurance exams. Industry estimates suggest roughly 55-65% of first-time Oregon candidates pass their initial attempt — consistent with typical state insurance exam pass rates nationally.
+The Oregon DFR doesn't publish official first-time pass rates for insurance exams, so there's no verified statewide figure to cite. What holds true in every state is that pass rates track preparation quality far more than any inherent "difficulty" of the exam — candidates who prepare thoroughly pass at much higher rates than those who don't.
 
-Note: this 55-65% estimate reflects industry-wide first-attempt data for all Oregon candidates, not JustInsurance's own outcomes. Among students who complete our full Oregon course and hit our practice-exam benchmarks, JustInsurance's first-attempt pass rate is approximately 93% (see [pass rates](/pass-rates) for methodology).
+Among students who complete our full Oregon course and hit our practice-exam benchmarks, JustInsurance's first-attempt pass rate is approximately 93% (see [pass rates](/pass-rates) for methodology). That figure reflects our own students' outcomes, not a statewide average.
 
 The biggest factor in pass rates is preparation quality. Candidates who:
 

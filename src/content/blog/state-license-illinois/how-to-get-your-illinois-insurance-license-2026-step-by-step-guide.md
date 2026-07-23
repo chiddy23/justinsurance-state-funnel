@@ -36,7 +36,7 @@ NIPR’s [Illinois overview](https://nipr.com/licensing-center/state-information
 
 ## Brokerage bonds kick in after licensure—budget compliance, not just tuition
 
-DOI’s same resident page includes the broker bond rule: producers who place business without an insurer contract must keep a continuous bond of **$2,500** or **5%** of the prior year’s brokered premium—whichever is larger—with a **$50,000** aggregate cap, and must produce bond details within **three** working days of a regulator’s request. That is not a licensing exam topic, but it is a licensing survival topic once you start shopping non-admitted paper.
+DOI’s same resident page includes the broker bond rule: producers who place business without an insurer contract must keep a continuous bond of **$2,500** or **5%** of the prior year’s brokered premium—whichever is larger—with a **$50,000** aggregate cap, and, if a party injured under the bond asks, must provide the surety’s name and the bond number within **three** working days. That disclosure duty runs to an injured claimant, not to a regulator. That is not a licensing exam topic, but it is a licensing survival topic once you start shopping non-admitted paper.
 
 ## Compare Illinois with Ohio and Georgia when you explain hour math to recruits
 
@@ -80,5 +80,3 @@ Finish **20** hours per line with the **7.5**-hour live component, pass General 
 - [Pearson VUE — Illinois insurance testing](https://home.pearsonvue.com/il/insurance)
 - [NIPR — Illinois licensing overview (12-month score validity)](https://nipr.com/licensing-center/state-information/illinois)
 - [Illinois DOI — Producer licensing exam change FAQs](https://idoi.illinois.gov/producers/licensescertificationsfaqs/faqs-producer-licensing-exam-changes-pearsonvuetesting.html)
-
-**Word count:** ~1,120 words

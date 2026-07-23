@@ -102,7 +102,7 @@ export const FLORIDA_ES: SpanishStateCopy = {
   courseDescription:
     "Curso de prelicenciatura en línea aprobado por el estado para Florida (Vida y Salud). Prepárate para aprobar el examen estatal. 100% en línea, a tu propio ritmo, con exámenes de práctica y garantía de aprobación incluidos.",
   metaDescription:
-    "Obtén tu licencia de seguros de Florida en línea — preparación para el examen de Pearson VUE, prelicenciatura aprobada por el estado, 93% de tasa de aprobación, garantía. Desde $199.",
+    "Obtén tu licencia de seguros de Florida en línea — preparación para el examen de Pearson VUE, prelicenciatura aprobada por el estado, 93% de tasa de aprobación entre quienes completan el curso, garantía. Desde $199.",
   faqs: [
     {
       question: "¿Cómo obtengo mi licencia de seguros en Florida?",
@@ -127,7 +127,7 @@ export const FLORIDA_ES: SpanishStateCopy = {
     {
       question: "¿Cuánto ganan los agentes de seguros en Florida?",
       answer:
-        "Los agentes de seguros en Florida ganan en promedio $80,300 al año según datos de la Oficina de Estadísticas Laborales (BLS). Los agentes nuevos suelen ganar alrededor de $38,420 en su primer año mientras construyen una cartera de clientes, y los productores de mejor desempeño en Florida pueden ganar $132,250 o más anualmente. La demanda de nuevos productores de seguros se mantiene estable en Florida. El ingreso depende mucho de las líneas de autoridad que tengas y de si trabajas como agente cautivo o independiente — la licencia combinada 2-15 (Vida, Salud y Anualidades) abre el rango de productos más amplio y el mayor potencial de ingresos. Las cifras de ingresos son ilustrativas, se basan en datos públicos del mercado laboral y no constituyen una garantía de ingresos; los resultados individuales varían.",
+        "Los agentes de seguros en Florida ganan en promedio $80,300 al año según datos de la Oficina de Estadísticas Laborales (BLS). Los agentes nuevos suelen ganar alrededor de $38,420 en su primer año mientras construyen una cartera de clientes, y los productores de mejor desempeño en Florida pueden ganar $132,640 o más anualmente. La demanda de nuevos productores de seguros se mantiene estable en Florida. El ingreso depende mucho de las líneas de autoridad que tengas y de si trabajas como agente cautivo o independiente — la licencia combinada 2-15 (Vida, Salud y Anualidades) abre el rango de productos más amplio y el mayor potencial de ingresos. Las cifras de ingresos son ilustrativas, se basan en datos públicos del mercado laboral y no constituyen una garantía de ingresos; los resultados individuales varían.",
     },
     {
       question: "¿Qué es la licencia de seguros 2-15 de Florida?",
@@ -147,7 +147,7 @@ export const TEXAS_ES: SpanishStateCopy = {
   courseDescription:
     "Curso de preparación en línea para el examen de seguros de Texas (Vida y Salud). Texas no requiere prelicenciatura, pero la mayoría de los candidatos exitosos usan un curso estructurado. 100% en línea, a tu propio ritmo, con exámenes de práctica y garantía de aprobación incluidos.",
   metaDescription:
-    "Obtén tu licencia de seguros de Texas en línea — sin prelicenciatura obligatoria, examen de Pearson VUE, 93% de tasa de aprobación, garantía. Desde $199.",
+    "Obtén tu licencia de seguros de Texas en línea — sin prelicenciatura obligatoria, examen de Pearson VUE, 93% de tasa de aprobación entre quienes completan el curso, garantía. Desde $199.",
   faqs: [
     {
       question: "¿Cómo obtengo mi licencia de seguros en Texas?",
@@ -167,7 +167,7 @@ export const TEXAS_ES: SpanishStateCopy = {
     {
       question: "¿Cuál es la tasa de aprobación de los estudiantes de JustInsurance en el examen de Texas?",
       answer:
-        "Los estudiantes de JustInsurance a nivel nacional aprueban los exámenes de licencia de seguros con una tasa aproximada del 93% en su primer intento — medido entre los estudiantes que completan el curso completo, terminan las horas de estudio recomendadas y obtienen 80% o más tres veces seguidas en el examen de práctica antes de presentar el examen real. El examen de Texas lo administra Pearson VUE y requiere un puntaje mínimo del 70% para aprobar. Si no apruebas en tu primer intento, puedes volver a presentarlo agendando la siguiente fecha disponible — no hay un período de espera obligatorio ni un límite en el número de intentos. Consulta nuestra metodología completa de tasa de aprobación en /pass-rates.",
+        "Los estudiantes de JustInsurance a nivel nacional aprueban los exámenes de licencia de seguros con una tasa aproximada del 93% en su primer intento — medido entre los estudiantes que completan el curso completo, terminan las horas de estudio recomendadas y obtienen 80% o más tres veces seguidas en el examen de práctica antes de presentar el examen real. El examen de Texas lo administra Pearson VUE y requiere un puntaje escalado de al menos 70 para aprobar. Si no apruebas en tu primer intento, puedes volver a presentarlo agendando la siguiente fecha disponible — no hay un período de espera obligatorio ni un límite en el número de intentos. Consulta nuestra metodología completa de tasa de aprobación en /pass-rates.",
     },
     {
       question: "¿Cuánto ganan los agentes de seguros en Texas?",

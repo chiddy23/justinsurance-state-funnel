@@ -56,11 +56,15 @@ Producers who want to enroll clients in coverage through Get Covered New Jersey 
 
 To be certified, a producer must:
 
-Hold an active NJ Accident and Health insurance license
+Hold an active New Jersey producer license with Accident and Health authority
 
-Complete the Get Covered NJ annual certification training
+Complete the Get Covered New Jersey broker and agent training modules — retaken annually before each Open Enrollment Period
 
-Register with Get Covered NJ as a Certified Application Counselor or Navigator, or complete the insurer-specific certification for agents selling through specific carriers
+Sign the GetCoveredNJ Broker Acknowledgment
+
+Timing matters on the front end: new brokers who finish training at least one week before November 1 are certified in time for the start of Open Enrollment, while those who finish later are certified on a rolling basis.
+
+Two points producers regularly get wrong. First, certification is not the same as getting paid. Commissions on Exchange plans come from the carriers, not from the marketplace, so you also need an appointment with each carrier whose qualified health plans you intend to sell. Second, Certified Application Counselor and Navigator are not producer credentials and are not an alternative route to selling on the Exchange. Those are the assister roles — CACs work through designated organizations and Navigators through grantee organizations — and they provide free, unbiased enrollment help without selling plans or earning commissions. A licensed producer certifies as a broker/agent. There is no separate "insurer-specific certification" that substitutes for GetCoveredNJ broker certification.
 
 Producers who assist clients with Get Covered NJ applications without completing certification may be violating DOBI regulations. The certification requirement is DOBI's mechanism for ensuring that agents helping with marketplace enrollments understand the subsidy structure, plan selection process, special enrollment periods, and consumer protections specific to the exchange.
 
@@ -84,11 +88,11 @@ Producers should be familiar with the SEP triggers because they are the mechanis
 
 What is the difference between Get Covered New Jersey and HealthCare.gov?
 
-Get Covered New Jersey is New Jersey's state-operated health insurance exchange — a completely separate platform from the federal HealthCare.gov marketplace. NJ residents who need individual health coverage shop through GetCoveredNJ, not HealthCare.gov. The key practical differences are: Get Covered NJ offers New Jersey's own state premium subsidies (the NJ Health Plan Savings program) on top of federal premium tax credits, operates on NJ's own enrollment calendar (open enrollment through January 31 rather than December 15 as on the federal platform), and is administered by DOBI with NJ-specific consumer protections. NJ residents who accidentally use HealthCare.gov rather than GetCoveredNJ may not access the full state subsidy benefits available to them.
+Get Covered New Jersey is New Jersey's state-operated health insurance exchange — a completely separate platform from the federal HealthCare.gov marketplace. NJ residents who need individual health coverage shop through GetCoveredNJ, not HealthCare.gov. The key practical differences are: Get Covered NJ offers New Jersey's own state premium subsidies (the NJ Health Plan Savings program) on top of federal premium tax credits, operates on NJ's own enrollment calendar (for 2026 coverage, open enrollment ran through January 31, 2026, versus January 15, 2026 on HealthCare.gov — December 15 is only the federal cutoff for coverage effective January 1, not the end of the federal open enrollment period), and is administered by DOBI with NJ-specific consumer protections. NJ residents who accidentally use HealthCare.gov rather than GetCoveredNJ may not access the full state subsidy benefits available to them.
 
 Do NJ producers need special certification to sell Get Covered NJ marketplace plans?
 
-Yes. Producers who assist clients with enrollments through Get Covered New Jersey must complete an annual certification from Get Covered NJ before assisting with marketplace applications. Holding an active NJ Accident and Health producer license is a prerequisite but is not itself sufficient — the annual marketplace certification is a separate requirement. The certification covers the exchange's subsidy structure, enrollment processes, and consumer protection standards. Producers who assist clients with marketplace applications without completing certification risk violating DOBI's requirements for marketplace assistance. Certification must be renewed each plan year.
+Yes. Producers who assist clients with enrollments through Get Covered New Jersey must complete an annual certification from Get Covered NJ before assisting with marketplace applications. Holding an active NJ Accident and Health producer license is a prerequisite but is not itself sufficient — the annual marketplace certification is a separate requirement. Certification means completing the GetCoveredNJ broker and agent training modules and signing the GetCoveredNJ Broker Acknowledgment; the training covers the exchange's subsidy structure, enrollment processes, and consumer protection standards. It does not mean registering as a Certified Application Counselor or Navigator — those are separate, non-selling assister roles, not a producer path. Certification also does not by itself put you in a position to earn: commissions come from the carriers, so you need an appointment with each carrier whose Exchange plans you sell. Producers who assist clients with marketplace applications without completing certification risk violating DOBI's requirements for marketplace assistance. Certification must be renewed each plan year, before Open Enrollment.
 
 What is New Jersey's individual health insurance mandate, and what happens if someone doesn't have coverage?
 

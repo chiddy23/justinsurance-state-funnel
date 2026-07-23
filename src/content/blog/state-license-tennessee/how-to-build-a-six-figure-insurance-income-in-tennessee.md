@@ -64,7 +64,7 @@ Individual disability income: IDI commission rates — typically 40–60% of fir
 
 ### No State Income Tax
 
-Every Tennessee producer retains more of their commission income than producers in comparable income-tax states. At $100,000 in income, Tennessee's no-income-tax environment saves approximately $5,000–$8,000 compared to neighboring states with 5–8% state income tax rates. At $150,000, the annual advantage is $7,500–$12,000. This is not an abstract advantage — it is real after-tax income that compounds over a career.
+Every Tennessee producer retains more of their commission income than producers in comparable income-tax states. At $100,000 in income, Tennessee's no-income-tax environment saves roughly $3,500–$5,000 compared to a neighboring state — the eight states bordering Tennessee carry 2026 top individual income tax rates ranging from about 3.5% in Kentucky to 5.75% in Virginia, with Georgia, Alabama, Mississippi, North Carolina, Arkansas, and Missouri in between. At $150,000, the advantage grows to roughly $5,000–$8,000, before accounting for each state's deductions and bracket structure. This is not an abstract advantage — it is real after-tax income that compounds over a career.
 
 ### Nashville's Premium Volume
 

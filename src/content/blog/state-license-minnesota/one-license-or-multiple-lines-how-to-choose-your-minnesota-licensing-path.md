@@ -72,7 +72,7 @@ Who needs this line: Producers who work at financial services firms, banks, brok
 
 ### Farm Property and Farm Liability
 
-This limited line covers agricultural property and liability risks specific to farming operations. It is the only major line that does not require prelicensing education before the exam — a meaningful practical distinction for applicants with existing agricultural industry background who want to enter the farm insurance market quickly.
+This limited line covers agricultural property and liability risks specific to farming operations. Under Minn. Stat. §60K.36, it is one of only two Minnesota lines exempt from the prelicensing education requirement before the exam — the other being the variable life and variable annuities line, which is gated instead by FINRA securities registration. For applicants with an existing agricultural background, that exemption is a meaningful practical distinction for entering the farm insurance market quickly.
 
 ## The Most Common Licensing Paths and Who They Fit
 
@@ -102,7 +102,7 @@ Who this fits: Independent producers who want to serve all of a client's insuran
 
 The complete authorization: Holding all four major lines authorizes a Minnesota producer to sell virtually any insurance product available in the market, with the exception of variable products (which require the additional Variable line and FINRA registration) and surplus lines (which require a separate surplus lines license).
 
-The investment: Four lines of prelicensing (typically $250–$400 for all four online), two PSI exam sittings ($90 total), fingerprinting ($65, one-time), and a $200 application fee for four lines plus fees — total initial investment of approximately $625–$780. For a career in insurance, this is a modest one-time investment that eliminates all future line restrictions.
+The investment: Four lines of prelicensing (typically $250–$400 for all four online), two PSI exam sittings ($90 total), fingerprinting ($63.75, one-time), and a $200 application fee for four lines plus fees — total initial investment of approximately $625–$780. For a career in insurance, this is a modest one-time investment that eliminates all future line restrictions.
 
 The timing consideration: A producer who knows they want all four lines can complete them all simultaneously — taking all four prelicensing courses concurrently or in rapid sequence, sitting for both combined exams within a short period, and submitting a single application for all four lines. This approach requires more intensive upfront study but produces full authorization faster than sequential licensing.
 
@@ -168,4 +168,4 @@ The only reason not to get all four lines immediately is if the study commitment
 
 The choice of which lines to pursue defines the boundaries of your Minnesota insurance practice for as long as those lines represent your only authority. Choose expansively when the cost difference is modest and the career difference is significant — and choose specifically when your distribution channel genuinely confines you to a single product category. Most producers who think carefully through this decision at the outset conclude that getting more lines now is almost always better than getting fewer lines and adding later.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course for every line you need — built to the current PSI content outline and designed to get you licensed efficiently.
+Visit JustInsurance to enroll today and complete your Minnesota Life and Accident & Health pre-licensing with a state-approved course built to the current PSI content outline. For property and casualty lines, complete your pre-licensing through a state-approved P&C provider — and once you are licensed in any line, rely on JustInsurance for your Minnesota [continuing education](/minnesota/continuing-education) at every renewal.

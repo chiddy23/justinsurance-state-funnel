@@ -100,11 +100,11 @@ Sticking to your CE goals can be challenging when you’re juggling a hectic wor
 
 Another strategy is working in study groups or partnering with friends in the industry. Explaining material to each other or sharing practice quizzes can deepen your understanding of course topics. These small social commitments make it more fun to maintain a steady pace toward completion.
 
-## Discover how JustInsurance can help
+## Where JustInsurance fits right now
 
-If you want a reliable and cost-effective way to meet your continuing education needs, JustInsurance might be the right fit for you. They specialize in helping you meet your renewal hours and licensing goals more efficiently, tailoring classes to both beginners and seasoned agents. You can find flexible scheduling, streamlined lesson plans, and a support team that understands how to balance real-world workloads with state compliance.
+We would rather be straight with you than have you find out at renewal time: JustInsurance’s New York CE provider approval is still pending with the Department of Financial Services. Until DFS issues that approval, we cannot represent that a JustInsurance course will earn New York CE credit, so complete your New York renewal hours through a provider currently on the DFS approved list. Check the DFS continuing education page for the approved provider and course listings.
 
-Signing up for a CE provider that understands your specific constraints—be it time, cost, or both—eases much of the stress around license renewal. Plus, you’ll get the peace of mind knowing you’re on track to remain in good standing.
+To be equally straight about the rest of it: our New York enrollment is not open yet either. That same pending DFS approval covers our prelicensing courses, so we cannot enroll you in a New York prelicensing course today, and any New York prices you see on our site are planning references rather than a purchase you can complete. We will announce our New York catalog — prelicensing and CE — the moment DFS approval issues. In the meantime, run the checklist above against whichever approved provider you choose. Signing up for a CE provider that understands your specific constraints—be it time, cost, or both—eases much of the stress around license renewal, but the approval box has to be checked first. Convenience is worth paying for; unapproved hours are worth nothing.
 
 ## Wrap up with confidence
 
@@ -113,6 +113,6 @@ Completing your CE credits in New York might seem complicated when you first div
 Remember: • Confirm your exact CE requirements early.  
 • Map out a realistic budget for course fees and associated costs.  
 • Keep an eye on licensing deadlines and renewal cycles.  
-• Opt for a respected provider offering up-to-date, convenient classes.
+• Opt for a DFS-approved provider offering up-to-date, convenient classes.
 
-Think of these CE courses as an investment in your professional growth. Once you’re set with your final credits, pat yourself on the back—you’re ready to continue serving clients while meeting New York’s requirements. If you’re still looking for a solution that fits your schedule and budget, consider exploring the options at JustInsurance. You might be surprised how much simpler fulfilling your credits can be when you have the right support.
+Think of these CE courses as an investment in your professional growth. Once you’re set with your final credits, pat yourself on the back—you’re ready to continue serving clients while meeting New York’s requirements. If you’re still shopping for a solution that fits your schedule and budget, start from the DFS approved provider list and compare on price, format, and support from there. That one filter is the difference between hours that count and hours that don’t.

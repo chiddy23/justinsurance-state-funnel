@@ -24,7 +24,7 @@ Here's everything you need to know about Connecticut insurance prelicense educat
 
 Connecticut requires prelicense education to ensure new producers have foundational knowledge before sitting for the state exam. Unlike states that allow exam-only licensing, Connecticut wants candidates to demonstrate they've been exposed to required content.
 
-The requirement is established under Connecticut General Statutes §38a-702 and implementing regulations.
+The requirement is established under Connecticut General Statutes §38a-702e and implementing regulations.
 
 ## Hour Requirements by License Type
 
@@ -266,6 +266,6 @@ Receive license. Typically 7-10 business days for clean applications.
 
 ## Complete Connecticut Prelicense Right
 
-Quality prelicense education prepares you for the state exam and your insurance career. At JustInsurance, our Connecticut prelicense course covers all required hours with content designed around the actual Connecticut exam — including the Connecticut-specific laws and regulations that catch unprepared candidates off guard.
+Quality prelicense education prepares you for the state exam and your insurance career. At JustInsurance, our Connecticut Life & Health prelicense course covers all required hours with content designed around the actual Connecticut exam — including the Connecticut-specific laws and regulations that catch unprepared candidates off guard. (Property and Casualty candidates complete their 40 required hours through a CID-approved P&C provider.)
 
 Enroll today and start your Connecticut insurance career on a strong foundation.

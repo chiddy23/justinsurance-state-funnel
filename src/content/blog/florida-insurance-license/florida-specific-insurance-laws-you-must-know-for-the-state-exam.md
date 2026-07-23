@@ -52,17 +52,19 @@ Expect multiple exam questions on replacement — what triggers the rule, what f
 
 ## The Florida Free-Look Period
 
-Florida requires a free-look period on life insurance policies — typically 14 days for most policies and longer for replacement policies (often 21 days). During this window, the policyholder can cancel for a full refund of premiums paid.
+Florida requires a free-look period on life insurance policies — 14 days under Fla. Stat. §626.99(4)(a). Fixed and variable annuities get a longer window: 21 days under §626.99(4)(b). During that period, the owner can cancel and receive an unconditional refund.
+
+One point candidates routinely get wrong: replacement does **not** extend the free-look period. A replacement life policy still carries the same free-look the policy would otherwise have — Florida's replacement rules govern notices and comparative disclosures, not the length of the refund window.
 
 Expect questions on:
 
-- How long the free-look period lasts
+- How long the free-look period lasts (14 days life, 21 days annuity)
 
 - When it begins (upon policy delivery)
 
-- What the policyholder is entitled to (full premium refund)
+- What the policyholder is entitled to (an unconditional refund — premiums paid for life and fixed annuities; for variable or market-value annuities, the cash surrender value plus any fees deducted, or a refund of all premiums)
 
-- How free-look differs for replacement policies
+- The difference between the life period and the annuity period
 
 ## Florida Unfair Trade Practices
 
@@ -108,17 +110,25 @@ Exam questions also cover:
 
 - DFS authority to suspend or revoke licenses
 
-## Florida Suitability Requirements for Annuities
+## Florida Annuity Rules: Best Interest, Not Just Suitability
 
-Florida has specific rules governing annuity suitability, especially for senior consumers:
+This is the item most likely to be outdated in older study material, so read it carefully. Fla. Stat. § 627.4554 is still titled "Suitability in annuity transactions," but since the 2024 amendments the operative standard is higher than suitability. Under § 627.4554(5)(a), an agent making an annuity recommendation must act in the **best interest** of the consumer under the circumstances known at the time the recommendation is made, without placing the financial interest of the agent or insurer ahead of the consumer's interest.
 
-- Agents must have reasonable grounds to believe an annuity is suitable for the consumer based on their financial situation, objectives, and needs
+"Reasonable grounds to believe the product is suitable" is the old standard. If an answer choice is phrased that way, it is describing the law Florida replaced.
 
-- Specific disclosures are required before annuity sales
+The statute spells out exactly how an agent satisfies the duty — four separate obligations:
 
-- Enhanced protections apply to sales involving seniors
+- **Care** — exercise reasonable diligence, care, and skill to know the consumer's financial situation, insurance needs, and financial objectives, and have a reasonable basis to believe the recommended annuity effectively addresses them
 
-Expect questions testing whether you understand the agent's obligations here.
+- **Disclosure** — give a written disclosure covering the scope of the relationship, the products the agent is licensed and appointed to sell, and how the agent is compensated
+
+- **Conflict of interest** — identify and avoid, or reasonably manage and disclose, material conflicts of interest
+
+- **Documentation** — make a written record of the recommendation and the basis for it
+
+Two more points the exam likes. First, this is not a seniors-only rule: the best-interest standard applies to every annuity recommendation regardless of the consumer's age. Second, seniors do get one hard statutory add-on — under § 627.4554(9), an annuity contract issued to a consumer age 65 or older may not carry a surrender or deferred sales charge exceeding 10 percent of the amount withdrawn, and the charge must disappear entirely after the tenth policy year (or ten years from each premium payment, whichever is later).
+
+Also know the training rule: § 627.4554(6) requires agents who sell annuities to complete a **one-time** 4-hour annuity training course. It is not a recurring requirement, and the statute states it is not part of the continuing education requirement in s. 626.2815 unless the provider separately obtains CE approval for the course.
 
 ## Other Florida-Specific Topics
 
@@ -136,7 +146,7 @@ Additional areas worth studying:
 
 ## 5 Frequently Asked Questions
 
-1. How much of the Florida exam focuses on state-specific laws? Roughly 25% to 30% of the Florida 2-15 exam covers state-specific content. That's enough to fail the exam if you skip this section.
+1. How much of the Florida exam focuses on state-specific laws? Exactly 33% of the 2-15 exam, under the content outline effective January 1, 2026 — 13% Florida statutes, rules and regulations common to all lines, 10% including variable products, and 10% pertinent to health insurance. On a 150-scored-question exam that's about 50 questions. Skip this material and you cannot pass.
 
 2. Can I pass using only national study materials? It's risky. National materials cover general insurance concepts well but rarely go deep on Florida-specific rules. Use Florida-specific [prelicense](/florida/prelicensing) courses to cover this portion.
 
@@ -144,7 +154,7 @@ Additional areas worth studying:
 
 4. Which Florida law topic is most heavily tested? Replacement rules and unfair trade practices are consistently among the most tested areas, along with Florida licensing requirements.
 
-5. Does the Florida exam cover federal laws too? Yes. Federal laws like HIPAA, ERISA, and key Medicare rules are also tested. But the distinctly state-specific content is what trips up the most candidates.
+5. Does the Florida exam cover federal laws too? Yes, but not as a separate federal section. The content outline folds federal material into the general-knowledge topics: HIPAA privacy and point-of-sale disclosures, the USA PATRIOT Act and anti-money-laundering rules, Gramm-Leach-Bliley privacy, and the Fair Credit Reporting Act sit inside the application and underwriting material, while Medicare, Medicaid, and Social Security sit under Social Insurance. The distinctly state-specific content is still what trips up the most candidates.
 
 ## Master the Florida-Specific Material
 

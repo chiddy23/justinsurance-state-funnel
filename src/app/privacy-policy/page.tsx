@@ -365,9 +365,10 @@ export default function PrivacyPolicyPage() {
           not controlled by browser cookie settings &mdash; it is controlled by the Global
           Privacy Control signal (which we honor; see Section 9) or by the opt-out process in
           Section 9. Disabling analytics or marketing cookies will not prevent you from
-          accessing your courses. Embedded videos load a preview image from YouTube&rsquo;s
-          servers; the video player itself (youtube-nocookie.com) loads only after you click
-          play.
+          accessing your courses. Most embedded videos load only a preview image from
+          YouTube&rsquo;s servers until you click play, at which point the player loads from the
+          privacy-enhanced youtube-nocookie.com domain; some pages embed the standard YouTube
+          player directly, which may set YouTube cookies when the page loads.
         </P>
       </Section>
 

@@ -30,9 +30,12 @@ You might be wondering how complicated the process is. The good news is that Flo
 Before you sign up for classes or exams, make sure you meet basic state requirements. Florida wants to ensure that only qualified individuals represent insurance products to the public. Generally, you must:
 
 -   Be at least 18 years old
--   Be a resident of Florida or a lawful permanent resident
+-   Be a U.S. citizen, or a legal alien holding work authorization from U.S. Citizenship and Immigration Services
+-   Be a bona fide resident of Florida
 -   Submit fingerprints for a background check
 -   Follow any additional guidelines by the [Florida Department of Financial Services](/florida/requirements)
+
+Note that the citizenship/work-authorization item and the Florida residency item are both required — Fla. Stat. §626.785(1) asks for a U.S. citizen or work-authorized legal alien **and** a bona fide resident of this state. Lawful permanent residence on its own does not qualify you for a Florida *resident* license. If you live outside Florida, you don't take the resident path at all: you apply for the corresponding Florida nonresident license (for life, that's the 8-14 Non-Resident Life, Including Annuities & Variable Contracts agent license), which requires you to hold — and keep — a resident life agent license in your home state (Fla. Stat. §626.792). Under Florida's reciprocal agreements, that home-state license is generally what qualifies you, in place of a Florida prelicensing course and exam.
 
 These eligibility factors help protect consumers by screening candidates for suitability. If any of your personal or professional background details raise questions, you may need to supply extra documentation or explanations. It is wise to gather these materials early so you can avoid surprises during the licensing process.
 
@@ -68,6 +71,6 @@ Setting calendar reminders for CE deadlines is a simple yet effective way to avo
 
 Securing your Florida life insurance license is a major step forward in your career, paving the way for new opportunities and a chance to truly make a difference in the lives of your clients. By meeting Florida’s eligibility criteria, completing your pre-licensing course, and passing the state exam, you will soon be on the path to helping people secure their financial futures.
 
-If you want extra guidance, JustInsurance can provide personalized support as you complete each step. Whether you have questions about application details or exam strategies, you can count on them to steer you in the right direction. The sooner you start, the faster you will have that license in hand, ready to serve your community and grow professionally.
+If you want a structured path through those steps, JustInsurance offers a self-paced [Florida prelicensing course](/florida/prelicensing) with full-length [practice exams](/florida/practice-exam), along with exam scheduling guidance, background-check walkthroughs, and NIPR application walkthroughs. The sooner you start, the faster you will have that license in hand, ready to serve your community and grow professionally.
 
 When you feel prepared, take the leap. It all begins with one decision to move forward, and your exciting future in insurance can be closer than you think.

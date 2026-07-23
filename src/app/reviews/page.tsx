@@ -1,3 +1,4 @@
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
@@ -35,7 +36,11 @@ export async function generateMetadata(): Promise<Metadata> {
 // it. Republishing a third party's disparaging comparison about a named
 // competitor is republication, and carries the same Lanham exposure as saying
 // it ourselves; see COMPETITOR_NAMES in @/lib/testimonials.
-const REVIEWS = ALL_TESTIMONIALS.filter(isDisplayable);
+// ALL_TESTIMONIALS = [...YOUTUBE_COMMENTS, ...GOOGLE_REVIEWS]. The Google block
+// above already renders every Google review, so including them here printed each
+// one twice — more Google cards than the profile's own review count, with each
+// reviewer's words duplicated. This grid is the YouTube set only.
+const REVIEWS = ALL_TESTIMONIALS.filter((t) => isDisplayable(t) && t.source !== "google");
 const GOOGLE = GOOGLE_REVIEWS.filter(isDisplayable);
 const TRUSTPILOT_DISPLAY = TRUSTPILOT_REVIEWS.filter((r) => !mentionsCompetitor(r));
 
@@ -131,8 +136,9 @@ export default async function ReviewsPage() {
           </div>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
             20,000+ students trained nationwide. Real feedback from
-            students who finished prelicensing, passed their state exam, and built
-            an insurance career.
+            JustInsurance course students and from viewers of our free YouTube
+            exam-prep videos, published in their own words — including students
+            still studying and candidates who have not passed yet.
           </p>
         </div>
       </section>
@@ -180,6 +186,15 @@ export default async function ReviewsPage() {
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">93%</p>
             <p className="text-xs text-gray-700">First-attempt pass rate</p>
+            {/* 16 CFR 255.2(b): the substantiated claim is scoped to students who
+                complete the course and the recommended practice. The qualifier
+                travels with the number, as it does on every sibling page. */}
+            <p className="text-[11px] text-gray-600 leading-snug mt-1">
+              Among students who complete the course and recommended practice.{" "}
+              <Link href="/pass-rates" className="underline hover:text-gold-deep">
+                Methodology
+              </Link>
+            </p>
           </div>
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">49</p>
@@ -379,10 +394,11 @@ export default async function ReviewsPage() {
             See Everything Included in the $199 Course
           </h2>
           <p className="text-gray-600 mb-5 max-w-2xl mx-auto text-sm">
-            One all-inclusive price — 100+ videos, unlimited adaptive practice
-            exams, 5× weekly live instructor sessions, flashcards, and a pass
-            guarantee in eligible states (not available in OH, IL, or WV; terms
-            apply). No tiers, no upgrades at checkout.
+            One all-inclusive price — 100+ videos, unlimited practice-exam
+            retakes, 5× weekly live instructor sessions, flashcards, and a pass
+            guarantee in eligible states (not available in{" "}
+            {passGuaranteeExcludedLabel()}; terms apply). No tiers, no upgrades
+            at checkout.
           </p>
           <Link
             href="/prelicensing"
@@ -400,9 +416,13 @@ export default async function ReviewsPage() {
             About These Reviews
           </h2>
           <p className="text-gray-600 leading-relaxed text-sm">
-            Reviews shown above are real, unedited student feedback published by
-            students on YouTube, Google, and Trustpilot; each is reproduced from
-            its public source. Initials are used in place of full names to
+            Reviews shown above are real feedback reproduced unedited from its
+            public source; anything in [square brackets] is an editorial note
+            from us, not the reviewer&rsquo;s words. The Google and Trustpilot reviews are from enrolled
+            JustInsurance students. The cards labeled &ldquo;via YouTube
+            comment&rdquo; are public comments left on our free exam-prep videos
+            by viewers who may never have purchased a course, and some describe
+            exams they have not passed. Initials are used in place of full names to
             protect student privacy. Star ratings shown are the ratings on our
             Google and Trustpilot profiles as of the date indicated and reflect
             only the students who chose to leave a review on those platforms.

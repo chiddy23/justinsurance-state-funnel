@@ -48,17 +48,19 @@ When you schedule, you choose the testing center most convenient to you. Most ca
 
 ## Exam Structure
 
-The Georgia Life, Accident, and Sickness exam:
+The Georgia Life, Accident, and Sickness exam (Pearson VUE exam code 12-GA-05):
 
-- Contains 150 scored questions (plus a small number of unscored pilot questions)
+- Contains 125 scored questions plus 10 unscored pretest questions — 135 total
 
 - Gives you 2 hours and 30 minutes to complete
 
-- Requires a 70% passing score
+- Requires a 70% passing score, which works out to 88 of the 125 scored questions correct
 
 - Questions are all multiple choice with four answer options
 
-You won't know which questions are pilot questions. They're mixed throughout, so answer every question as if it counts.
+- Devotes 25 of the 125 scored questions to Georgia laws, rules, and regulations, split across three sections — 19 general, 3 life-only, and 3 accident-and-sickness-only — making state law the largest topic area on the exam
+
+You won't know which questions are pretest questions. They're mixed throughout, so answer every question as if it counts.
 
 ## Before the Exam: What to Bring
 
@@ -126,7 +128,7 @@ Navigation. The Pearson VUE testing interface lets you:
 
 - See your remaining time on screen
 
-Time management. With 150 questions and 150 minutes (plus extra time), you have about 60 seconds per question. Most candidates finish with time to spare. Don't rush, but don't get stuck on single questions.
+Time management. With 135 questions and 150 minutes, you have about 66 seconds per question. Most candidates finish with time to spare. Don't rush, but don't get stuck on single questions.
 
 Strategy for hard questions. Flag questions you're unsure about and come back to them. Answer what you know confidently first, then revisit the harder ones with remaining time.
 
@@ -158,7 +160,7 @@ Congratulations! Next steps:
 
 - Complete fingerprinting if not already done
 
-- Submit your license application through NIPR or Sircon
+- Submit your license application through Sircon.com/georgia, OCI's licensing system of record for resident applicants
 
 - Pay the application fee
 
@@ -196,9 +198,9 @@ Breathe. If anxiety hits during the exam, pause for three deep breaths. Reset, t
 
 ## 5 Frequently Asked Questions
 
-1. How many questions are on the Georgia Life & Health exam? 150 scored questions plus a small number of unscored pilot questions. You have 2 hours and 30 minutes to complete all of them.
+1. How many questions are on the Georgia Life & Health exam? 125 scored questions plus 10 unscored pretest questions — 135 in total. You have 2 hours and 30 minutes to complete all of them.
 
-2. What's the passing score? 70%. You need to answer at least 105 of the 150 scored questions correctly to pass.
+2. What's the passing score? 70% of the scored questions. You need to answer 88 of the 125 scored questions correctly to pass.
 
 3. Can I leave and come back during the exam? Short bathroom breaks are typically allowed, but the clock keeps running. Plan your time accordingly.
 

@@ -12,7 +12,7 @@ image: /blog/images/your-ultimate-guide-to-colorado-insurance-license-renewal.jp
 imageAlt: "Colorado Non-Resident Insurance Licensing: How Reciprocity Works"
 ---
 
-Colorado offers one of the most streamlined non-resident licensing processes in the country. If you are currently licensed as a resident producer in good standing in your home state, you can obtain a Colorado non-resident license without completing any [prelicensing](/colorado/prelicensing) education and without taking the Colorado state exam. The application is submitted electronically, the fee is $47 per line, and the Division processes most applications within 5 business days. For producers based in neighboring states — Utah, Wyoming, New Mexico, Arizona, Kansas, Nebraska — or anywhere in the country, adding a Colorado non-resident license is a low-friction way to expand your market.
+Colorado offers one of the most streamlined non-resident licensing processes in the country. If you are currently licensed as a resident producer in good standing in your home state, you can obtain a Colorado non-resident license without completing any [prelicensing](/colorado/prelicensing) education and without taking the Colorado state exam. The application is submitted electronically, the fee is $68 per line of authority, and the Division processes most applications within 5 business days. For producers based in neighboring states — Utah, Wyoming, New Mexico, Arizona, Kansas, Nebraska — or anywhere in the country, adding a Colorado non-resident license is a low-friction way to expand your market.
 
 ## How Colorado Non-Resident Reciprocity Works
 
@@ -42,7 +42,7 @@ Step 1: Submit your non-resident application through NIPR (nipr.com) or Sircon (
 
 Step 2: Pay the application fee:
 
-$47 per line of authority (same as resident application fee)
+$68 per line of authority — Colorado charges non-residents more than the $44 per line a resident applicant pays
 
 $5.60 NIPR transaction fee (if using NIPR)
 
@@ -56,9 +56,9 @@ No exam required. No prelicensing required. No fingerprinting required. Non-resi
 
 ## The Biennial Continuation Fee
 
-Colorado non-resident producers must pay a biennial continuation fee to maintain their Colorado non-resident license. This fee is due at the same interval as the resident renewal cycle — every two years, by the last day of the producer's birth month. The continuation fee is $27 per line of authority — the same as the resident renewal fee.
+Colorado non-resident producers must pay a biennial continuation fee to maintain their Colorado non-resident license. This fee is due at the same interval as the resident renewal cycle — every two years, by the last day of the producer's birth month. The continuation fee is $40 per line of authority — higher than the $27 per line a Colorado resident pays to renew.
 
-Non-resident producers who miss the continuation fee deadline have 1 calendar year from the expiration date to renew the license before it lapses permanently (requiring a new application). A $29 late penalty fee per line applies if renewed after the expiration date.
+Colorado offers no grace period and charges no separate late or reinstatement penalty. If you miss the continuation deadline, the non-resident license expires on that date — there is no late fee that lets you "catch up" on the old license. To get back in good standing, you file a new application and pay the initial non-resident application fee of $68 per line (plus the $5.60 NIPR transaction fee) — the same fee a first-time non-resident applicant pays. Reinstating within one year of expiration follows this new-application path under Division Regulation 1-2-10; because non-resident licensing is exam- and prelicensing-exempt, restoring a lapsed non-resident license never requires testing — but your home state license must be active and in good standing when you reapply.
 
 ## CE Requirements for Non-Resident Colorado Producers
 
@@ -108,7 +108,7 @@ A Colorado non-resident license authorizes you to sell, solicit, and negotiate i
 
 Do I need a Colorado non-resident license to serve Colorado clients if I am a resident of a neighboring state and my clients occasionally come to my office across the state line?
 
-This is a nuanced question that depends on where the "transaction" is deemed to occur under Colorado law. When you solicit or negotiate insurance with a Colorado resident client — regardless of which state you are physically in during the conversation — Colorado's licensing requirements may apply. The general principle is that the state where the applicant/insured resides or where the risk is located governs which license is required. Colorado producers' errors and omissions carriers and compliance attorneys generally recommend holding a non-resident license in any state where you have regular clients or knowingly solicit Colorado residents, even if those clients visit your out-of-state office. The $47 application fee and 5-business-day turnaround make the non-resident license a low-cost compliance measure.
+This is a nuanced question that depends on where the "transaction" is deemed to occur under Colorado law. When you solicit or negotiate insurance with a Colorado resident client — regardless of which state you are physically in during the conversation — Colorado's licensing requirements may apply. The general principle is that the state where the applicant/insured resides or where the risk is located governs which license is required. Colorado producers' errors and omissions carriers and compliance attorneys generally recommend holding a non-resident license in any state where you have regular clients or knowingly solicit Colorado residents, even if those clients visit your out-of-state office. The $68 per line application fee and 5-business-day turnaround make the non-resident license a low-cost compliance measure.
 
 If my home state license lapses and I am still holding a Colorado non-resident license, what happens to my Colorado license?
 

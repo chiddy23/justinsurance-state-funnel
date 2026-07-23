@@ -21,7 +21,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
 import StateProviderBadge from "@/components/StateProviderBadge";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isPrelicensingHeld } from "@/lib/prelicensing-status";
 import LastUpdated from "@/components/LastUpdated";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
@@ -141,6 +141,14 @@ export default async function StateHubPage({
   // keep the guarantee unchanged.
   const guaranteeOk = hasPassGuarantee(stateData.slug);
   const isProviderApproved = stateData.providerApprovalNumber !== "PENDING";
+  // AVAILABILITY GATE — a state that MANDATES prelicensing but whose JustInsurance
+  // provider approval is still PENDING (New York today) must NOT present a live
+  // purchase path. Mirrors the requirements / cost / prelicensing sibling gating.
+  // isPrelicensingHeld is NY-only right now (Washington is also PENDING but
+  // exam-only, so it is NOT held) and reverts automatically the moment
+  // providerApprovalNumber becomes a real number. Used to reframe the hero
+  // subtitle (also the page meta description) and the closing CTA below.
+  const prelicensingHeld = isPrelicensingHeld(stateData);
   // "Starting at" price for the inline overview P&C CE card — the state's lowest
   // P&C package price, never a hard-coded figure. Falls back to the L&H CE price.
   const pcStartPrice = PC_STATE_SLUGS.includes(stateData.slug)
@@ -233,8 +241,13 @@ export default async function StateHubPage({
   // stateSpecificIntro branch (its intro is non-empty and makes no format
   // claim), but the fallback is gated too so an unqualified "self-paced"
   // claim can never surface on Illinois even if the intro is ever emptied.
-  const heroSubtitle =
-    stateData.stateSpecificIntro && stateData.stateSpecificIntro.trim() !== ""
+  // A held state (isPrelicensingHeld — New York today) takes the TOP-priority
+  // neutral opening-soon branch over stateSpecificIntro/ilWebinar/etc. so the
+  // hero — and the page meta description, which is set to heroSubtitle — never
+  // presents an enrollment/purchase claim while approval is still pending.
+  const heroSubtitle = prelicensingHeld
+    ? `${stateData.name} prelicensing courses are completing state approval and will open for enrollment soon.`
+    : stateData.stateSpecificIntro && stateData.stateSpecificIntro.trim() !== ""
       ? stateData.stateSpecificIntro
       : ilWebinar
       ? `State-approved prelicensing and CE courses. 100% online. ${IL_WEBINAR_SHORT_LINE}`
@@ -903,9 +916,15 @@ export default async function StateHubPage({
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}
         subtitle={
-          // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
-          // "self-paced" claim for the approved hybrid format line.
-          ilWebinar
+          // A held state (isPrelicensingHeld: provider approval still PENDING —
+          // New York today) must NOT present an "enroll / instant access" purchase
+          // path. This branch takes precedence and gives held states the neutral
+          // opening-soon message. Reverts automatically once approval issues.
+          prelicensingHeld
+            ? `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
+            // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
+            // "self-paced" claim for the approved hybrid format line.
+            : ilWebinar
             ? `Enroll in a state-approved prelicensing course today. ${IL_WEBINAR_SHORT_LINE}`
             : !prelicensingApproved
             ? "Enroll in an online prelicensing course today. 100% online, self-paced, with instant access the moment you enroll."
@@ -913,7 +932,7 @@ export default async function StateHubPage({
             ? "Enroll in a state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee."
             : "Enroll in a state-approved prelicensing course today. 100% online, self-paced, with instant access the moment you enroll."
         }
-        ctaText="Browse Courses"
+        ctaText={prelicensingHeld ? "Learn More" : "Browse Courses"}
         ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>

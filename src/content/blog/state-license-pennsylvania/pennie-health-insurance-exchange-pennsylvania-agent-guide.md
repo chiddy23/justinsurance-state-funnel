@@ -312,7 +312,7 @@ Verify they're using official pennie.com
 
 Never solicit cold calls about "marketplace coverage"
 
-Direct clients to PID (1-866-PA-COMPLAINT) if they suspect fraud
+Direct clients to the Pennsylvania Insurance Department Consumer Services Bureau at 1-877-881-6388 (or file online at pa.gov/agencies/insurance) if they suspect fraud
 
 ## 5 Frequently Asked Questions
 
@@ -324,6 +324,6 @@ Direct clients to PID (1-866-PA-COMPLAINT) if they suspect fraud
 
 ## Build Your Pennsylvania Health Insurance Practice
 
-Pennsylvania's distinctive Pennie marketplace creates real opportunity for properly certified producers — particularly given the increased complexity following EPTC expiration. At JustInsurance (Provider Approval #147815), our Pennsylvania [prelicense](/pennsylvania/prelicensing) and CE courses provide foundational knowledge for health insurance practice.
+Pennsylvania's distinctive Pennie marketplace creates real opportunity for properly certified producers — particularly given the increased complexity following EPTC expiration. JustInsurance is an approved Pennsylvania continuing education provider (#147815). Our Pennsylvania CE courses carry that approval; our [exam-prep course](/pennsylvania/prelicensing) is built to the PSI exam content outline, since Pennsylvania no longer requires prelicensing education. Both provide foundational knowledge for health insurance practice.
 
 Enroll today and build your Pennsylvania health insurance career on solid ground.

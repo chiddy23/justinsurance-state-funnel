@@ -144,7 +144,7 @@ When choosing between approved providers, consider:
 
 Price. Reasonable but not unusually low. Very low prices can signal poor quality.
 
-Format. Online self-paced, webinar, live, printed. Choose what fits your learning style.
+Format. Online self-paced, webinar, live, printed. Choose what fits your learning style — keeping in mind that the mandatory 3-hour ethics course must be live classroom or webinar, not self-paced.
 
 Reporting reliability. How quickly and consistently they report to IDOI.
 
@@ -161,7 +161,7 @@ Track record. How long have they been operating? What do other agents say about 
 - Do I submit CE completions to IDOI myself? No. In Illinois, the approved course provider submits your completion electronically. You don't self-report.
 - How quickly should hours appear in IDOI's records after I complete a course? Usually within 7 to 30 days. Some providers report within days, others take a few weeks.
 - Can I take CE courses from other states to satisfy Illinois requirements? Only if those courses have specific IDOI approval for Illinois credit. Most out-of-state courses do not count unless specifically approved.
-- Are webinar and live-streamed courses accepted? Yes, if they're IDOI-approved. Illinois accepts online, self-paced, webinar, and live classroom formats — approval is what matters, not format.
+- Are webinar and live-streamed courses accepted? Yes, if they're IDOI-approved. For your 21 general CE hours, Illinois accepts online self-paced, webinar, and live classroom formats — for those hours, approval matters more than format. The one exception is the mandatory 3-hour ethics course: Illinois requires ethics CE to be taken as live classroom or live webinar instruction, so a self-paced online ethics course won't count toward the requirement (50 Ill. Adm. Code 3119.45). Confirm the format when you enroll in an ethics course.
 - What's the best time to check for approved providers? Check before enrolling in any course, not after. Verifying approval after completing a non-approved course doesn't help — the hours won't count.
 
 ## Skip the Guesswork

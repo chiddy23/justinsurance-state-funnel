@@ -30,21 +30,21 @@ The Code covers everything from license requirements and agent duties to policy 
 
 Licensing and Agent Conduct (Chapters 4001-4101). These chapters cover who can be licensed, what lines of authority are available, [continuing education](/texas/continuing-education), appointment requirements, and the standards of conduct expected from licensed agents. This is the foundation.
 
-Unfair Methods of Competition and Unfair Practices (Chapter 541). This is one of the most important sections for any new agent. It prohibits misrepresentation, false advertising, rebating, twisting, churning, and other deceptive practices. Violations here are the most common reason agents face disciplinary action.
+Unfair Methods of Competition and Unfair Practices (Chapter 541). This is one of the most important chapters for any new agent. It prohibits misrepresentation, false advertising, rebating, twisting, churning, and other deceptive practices. It also carries a second set of teeth most new agents don't know about: beyond whatever TDI does to your license, Subchapter D gives a person who sustained actual damages a private cause of action against you (§541.151), and if the trier of fact finds the act was committed knowingly, damages can be multiplied up to three times, plus court costs and reasonable and necessary attorney's fees (§541.152).
 
 Replacement of Life Insurance and Annuities (Chapter 1114). If you ever help a client replace an existing life insurance policy or annuity, this chapter governs what you must disclose, what forms you must provide, and how the replacement must be documented.
 
 Claims Handling and Unfair Claims Settlement Practices (Chapter 542). This covers how claims must be handled — timelines, good faith requirements, and prohibited practices. Even if you're not an adjuster, understanding these rules helps you advise clients correctly.
 
-Policyholder Rights and Consumer Protections (Chapter 501 and related provisions). Free-look periods, cancellation rights, and disclosure requirements all live here. These protect consumers and define what you must communicate during the sales process.
+Policyholder Rights and Consumer Protections. This one trips people up, so be precise about it. Chapter 501 is the Office of Public Insurance Counsel — the independent state agency that advocates for consumers in rate and form proceedings before TDI. It is a consumer-advocacy statute, not a list of disclosures you owe a client. The rights new agents are actually thinking of are spread across the product chapters and TDI's rules: §1201.058 requires an individual accident and health policy to carry notice that the insured may return it for a full refund within 10 days of delivery; §1114.053(e) gives a replacement policy or annuity owner 30 days to return it; and policy-form, illustration, and disclosure requirements live in the TDI rules at 28 TAC Chapter 3 (Life, Accident, and Health Insurance and Annuities) and Chapter 4 (Life and Annuity). Cite the chapter that actually governs the product in front of you.
 
 Privacy of Consumer Financial Information (Chapter 601). Sets the rules for how you handle nonpublic personal information about clients — what you can share, with whom, and under what circumstances.
 
 ## Why Knowing the Code Matters
 
-New agents sometimes treat the Insurance Code as academic — something tested on the exam and then forgotten. That's a mistake. Every disciplinary action TDI takes against an agent is rooted in a specific section of the Code. Knowing the rules isn't just about passing the exam. It's about keeping your license year after year.
+New agents sometimes treat the Insurance Code as academic — something tested on the exam and then forgotten. That's a mistake. TDI acts under statutory authority, so a disciplinary order against an agent names the specific provision the department says was violated. Knowing the rules isn't just about passing the exam. It's about keeping your license year after year.
 
-TDI also publishes bulletins and guidance that clarify how specific sections are applied. Bookmarking the TDI website and reviewing bulletins periodically is a habit that separates professional agents from reactive ones.
+TDI publishes its disciplinary orders and its fraud case dispositions, along with bulletins and guidance that clarify how specific sections are applied. Reading a few orders in your line of authority is the fastest way to see which provisions actually get enforced and what the conduct looked like. Bookmarking the TDI website and reviewing new bulletins periodically is a habit that separates professional agents from reactive ones.
 
 ## 5 Frequently Asked Questions
 

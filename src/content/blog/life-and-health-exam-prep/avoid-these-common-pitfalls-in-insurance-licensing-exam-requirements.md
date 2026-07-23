@@ -56,14 +56,14 @@ Below are a few practice questions similar to what you might encounter on your l
 -   D. Eliminating older individuals from coverage
 
 2.  Explanation: The correct answer is B. Underwriting is the process of evaluating an applicant’s health, lifestyle, and financial history to decide if they meet the criteria for coverage. Premium rates often match the level of risk determined by underwriting.
-3.  A policyholder decides to let her life insurance policy lapse because she no longer wants to pay premiums. Which nonforfeiture option ensures she still has some level of reduced death benefit coverage?
+3.  A policyholder stops paying premiums on her whole life policy. Which nonforfeiture option keeps her coverage in force at the same face amount for a limited number of years?
 
 -   A. Extended term insurance
--   B. Accelerator rider
--   C. Paid-up additions
+-   B. Reduced paid-up insurance
+-   C. Cash surrender
 -   D. Waiver of premium
 
-4.  Explanation: The correct answer is A. Extended term insurance uses the policy’s existing cash value to pay for term coverage at the same policy face amount for a limited period, ensuring the insured retains some form of coverage without ongoing premiums.
+4.  Explanation: The correct answer is A. Extended term insurance applies the policy’s existing cash value as a single premium to buy term coverage at the same face amount, for however long that cash value will carry it. Watch the contrast the exam loves to test: reduced paid-up insurance (B) runs for the policy’s original duration but at a *lower* face amount. Cash surrender (C) ends the coverage entirely, and waiver of premium (D) is a rider, not a nonforfeiture option.
 5.  Under a typical health insurance policy, which situation would most likely result in a denied claim?
 
 -   A. An in-network physician visit during the coverage period
@@ -78,13 +78,13 @@ Practicing with questions like these helps you spot any areas of confusion so yo
 ## Frequently asked questions
 
 1.  How many hours of pre-licensing education do I need?  
-    Each state sets its own requirement. Check your state’s insurance department website. Some states require as few as 20 hours, while others mandate 40 hours or more.
+    Each state sets its own requirement, and the spread is wider than most candidates expect. Most states — 32 of them — require no prelicensing course at all, so a course is optional exam prep rather than a prerequisite. Among the states that do mandate hours, the low end is Georgia at 8 hours per line of authority and California at 12 hours, 20 hours per line is the most common figure, and the high end is Florida (40 hours for Health, 60 for the combined Life & Health course) and Colorado at 50 hours per line. Always confirm the current number on your state’s insurance department website before you buy a course.
 2.  Can I retake the exam if I fail on the first try?  
     Yes. Most states permit multiple attempts, though you might need to wait a certain number of days or submit a new application and registration fee. Review your state’s guidelines so you know your options.
 3.  Are testing centers the only way to take the exam?  
     Certain states and exam providers offer remote proctoring, allowing you to take the test at home. You’ll typically need a secure internet connection, a webcam, and a quiet environment.
 4.  How soon can I expect my official exam results?  
-    Many states and testing providers offer immediate pass/fail notices. However, you might need to wait a few days for official confirmation if the exam includes essay questions or if your state department processes results manually.
+    Right away, in almost every case. State producer licensing exams are entirely multiple choice — there are no essay questions to grade — so your pass/fail result appears on screen when you finish, and PSI, Pearson VUE, and Prometric centers hand you or email a score report before you leave. Any additional wait is administrative: the testing vendor transmitting your result to the state, and the state posting it to your licensing record.
 5.  Do I have to renew my license after passing the exam?  
     Yes. Once you’re licensed, you’ll typically need to complete continuing education (CE) requirements and [renew your license](/continuing-education) every one to two years. The rules vary by state, so always keep track of deadlines for renewals and CE credits.
 

@@ -62,10 +62,11 @@ Agents are expected to know what can and cannot be shared about clients, when co
 
 ## Annuity Suitability Under SB 263
 
-California's annuity suitability requirements, enhanced by Senate Bill 263 and related legislation, impose significant obligations on agents selling annuities:
+For annuity recommendations made on or after January 1, 2025, Senate Bill 263 replaced California's older "suitability" standard with a stricter best-interest standard, imposing significant obligations on agents selling annuities:
 
-- Agents must have reasonable grounds to believe an annuity is suitable based on the consumer's financial situation, objectives, and needs
-- Specific suitability factors must be considered and documented
+- Agents must act in the consumer's best interest — they cannot place their own or the insurer's financial interest ahead of the consumer's when recommending an annuity
+- To meet that standard, the agent must satisfy four obligations: care, disclosure, conflict-of-interest, and documentation
+- Specific consumer-profile factors (age, income, financial situation, objectives, liquidity needs, risk tolerance, and more) must be gathered, considered, and documented
 - Enhanced protections apply to senior purchasers
 - Training requirements apply to agents selling annuities
 - Supervisory review is required within agencies and insurers

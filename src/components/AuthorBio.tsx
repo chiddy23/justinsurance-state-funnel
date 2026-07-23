@@ -38,8 +38,7 @@ export default function AuthorBio() {
             @InsuranceExam
           </a>{" "}
           YouTube channel (20,000+ subscribers). Today, JustInsurance has trained
-          20,000+ students nationwide with a 93% first-attempt pass rate among students who complete the course and recommended practice
-          rate.
+          20,000+ students nationwide with a 93% first-attempt pass rate among students who complete the course and recommended practice.
         </p>
         <Link
           href="/about/justin-vom-eigen"

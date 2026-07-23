@@ -32,7 +32,7 @@ The home state offers non-resident licenses to Tennessee producers without requi
 
 The home state license covers the same lines of authority being applied for in Tennessee
 
-Because the large majority of states — including all of Tennessee's neighboring states (Georgia, North Carolina, Kentucky, Virginia, Alabama, Arkansas, and Missouri) — have adopted the NAIC model law and extend equivalent reciprocal treatment to Tennessee producers, a licensed producer from almost any other state can generally obtain a Tennessee non-resident license without taking the Tennessee Pearson VUE exam.
+Because the large majority of states — including all eight of Tennessee's neighboring states (Kentucky, Virginia, North Carolina, Georgia, Alabama, Mississippi, Arkansas, and Missouri) — have adopted the NAIC model law and extend equivalent reciprocal treatment to Tennessee producers, a licensed producer from almost any other state can generally obtain a Tennessee non-resident license without taking the Tennessee Pearson VUE exam.
 
 What this means in practice: A licensed producer in another state applies for a Tennessee non-resident license through NIPR, pays the application fee, submits proof of good standing, and receives the Tennessee license without scheduling a Pearson VUE exam.
 
@@ -64,7 +64,7 @@ Step 4: Complete the background disclosure questions accurately. Disclose any cr
 
 Step 5: Upload or submit your home state certification documentation.
 
-Step 6: Pay the application fee — $50 per line plus $5.60 NIPR transaction fee.
+Step 6: Pay the application fee — $50 for the non-resident producer license (one NIPR application covers the lines of authority you hold) plus the $5.60 NIPR transaction fee. If your home state charges Tennessee producers a higher non-resident fee, Tennessee's retaliatory fee applies instead — see below.
 
 Step 7: Submit. NIPR routes your application to the TDCI for review.
 
@@ -82,7 +82,7 @@ Retaliatory fees apply per line and per transaction. Verify whether your home st
 
 ### Processing Time and License Receipt
 
-Standard processing time is 2–5 business days for complete applications without background complications. Your Tennessee non-resident license is issued electronically, appears in your NIPR account, and is verifiable through the TDCI's online license lookup at tn.gov/commerce/insurance.
+Processing is generally quick for clean, complete applications without background complications — non-resident reciprocal licenses submitted through NIPR are often issued within a few business days, though TDCI review can run longer if anything requires follow-up. Your Tennessee non-resident license is issued electronically, appears in your NIPR account, and is verifiable through the TDCI's online license lookup at tn.gov/commerce/insurance.
 
 Your National Producer Number (NPN) is the same across all states — you do not receive a new NPN for each state's license. Your Tennessee non-resident license appears as a separate jurisdiction entry in your existing NPN record.
 
@@ -104,13 +104,13 @@ Tennessee's CE requirements for non-resident producers follow the standard NAIC 
 
 What this means in practice: Complete your home state's CE requirements — whatever they are — and your Tennessee non-resident CE obligation is automatically satisfied. You do not need to take Tennessee-specific CE courses. You do not need to report CE completions separately to the TDCI. Home state CE compliance carries automatically.
 
-The practical financial implication: The ongoing compliance cost of maintaining Tennessee non-resident authority is essentially the biennial renewal fee (check NIPR or contact the TDCI for the current amount) — because the CE you already complete for your home state satisfies Tennessee's requirement simultaneously. There is no incremental CE cost for most non-resident producers.
+The practical financial implication: The ongoing compliance cost of maintaining Tennessee non-resident authority is essentially the biennial renewal fee — $60 for a producer license, or $30 for a limited lines producer license, under Tenn. Code Ann. §56-6-121 (subject to the retaliatory-fee provision above if your home state charges Tennessee producers more) — because the CE you already complete for your home state satisfies Tennessee's requirement simultaneously. There is no incremental CE cost for most non-resident producers.
 
 ### Specialty Training Exceptions
 
 The home state CE satisfaction rule has exceptions for specific product training:
 
-Long-Term Care (LTC): LTC initial certification (8-hour training) and ongoing LTC CE requirements apply to non-resident producers who sell LTC products in Tennessee regardless of home state CE satisfaction. Complete the LTC training before selling LTC products in Tennessee.
+Long-Term Care (LTC): To sell LTC products in Tennessee, a producer must complete the one-time 8-hour LTC training plus ongoing training of at least 4 hours every 24 months. This is a product-specific requirement separate from general CE — but it is not duplicated across states. Under Tenn. Code Ann. §56-42-109, satisfying a substantially similar LTC training requirement in any other state (including your home state) is deemed to satisfy Tennessee's requirement, so most non-resident producers who already meet their home state's LTC training do not have to retake it for Tennessee.
 
 Annuity best interest suitability: The one-time 4-hour annuity suitability training applies when you sell annuities in Tennessee — regardless of resident status.
 
@@ -122,7 +122,7 @@ NFIP flood certification: The one-time 3-hour flood certification applies when y
 
 Tennessee non-resident producer licenses renew every two years based on the producer's birth month — the same biennial birth month cycle as resident licenses. The renewal deadline is the last day of the birth month in the renewal year.
 
-Grace period: Tennessee provides a 60-day grace period after expiration with no additional fee. After the grace period, late renewal is available for up to one year past expiration with a late fee added to the standard renewal fee — the TDCI does not publicly post the exact amount, so contact the TDCI directly for the current total. After one year, the license cannot be renewed and a new non-resident application must be submitted.
+Late renewal: Tennessee does not provide a fee-free grace period. Under Tenn. Code Ann. §56-6-107(d), a license that has lapsed can be reinstated within 12 months of the renewal due date without re-examination — but a penalty of double the unpaid renewal fee is required for any renewal fee received after the due date. Because §56-6-121 sets the producer renewal fee at $60 ($30 for limited lines), a late renewal within that 12-month window costs the doubled amount — $120, or $60 for limited lines — plus the NIPR transaction fee. After 12 months from the due date, the license can no longer be renewed and a new non-resident application must be submitted.
 
 ### Renewal Process
 
@@ -152,7 +152,7 @@ Non-resident producers who change their address must update it with the TDCI wit
 
 ### Tennessee's Neighboring States
 
-Producers from Tennessee's six bordering states — Georgia, North Carolina, Kentucky, Virginia, Alabama, and Missouri — can obtain Tennessee non-resident authority without the Tennessee exam under NAIC model law reciprocity, provided their home state licenses are active and in good standing. The application process for all of these producers is: NIPR application, $50 per line application fee plus $5.60 NIPR fee, home state certification, 2–5 business day processing. No exam. No fingerprinting.
+Producers from all eight of Tennessee's bordering states — Kentucky, Virginia, North Carolina, Georgia, Alabama, Mississippi, Arkansas, and Missouri — can obtain Tennessee non-resident authority without the Tennessee exam under NAIC model law reciprocity, provided their home state licenses are active and in good standing. (Tennessee and Missouri are tied for bordering the most states of any state in the country.) The application process for all of these producers is: NIPR application, $50 producer license application fee (one application covers all your lines of authority) plus $5.60 NIPR fee, home state certification, and processing that is typically a few business days for clean applications. No exam. No fingerprinting.
 
 ### States Where the Exam May Be Required
 
@@ -160,7 +160,9 @@ Producers from states that do not comply with NAIC model law standards or that r
 
 ## What Tennessee Non-Resident Licensing Does Not Cover
 
-Tennessee does not license insurance adjusters. Tennessee is one of approximately 16 states that do not issue independent adjuster licenses. Adjusters who want to work claims in Tennessee do not need a Tennessee adjuster license — but Tennessee resident adjusters who want to work claims in other states need a Designated Home State (DHS) license from another state, since Tennessee cannot serve as a resident state for adjuster licensing purposes.
+Tennessee does not license independent (staff or company) claims adjusters. It is one of the states that does not issue an independent adjuster license, so an independent adjuster does not need — and cannot obtain — a Tennessee independent adjuster license to work insurer claims in the state. Because Tennessee cannot serve as the resident state for independent adjuster purposes, a Tennessee resident who needs an independent adjuster credential to work claims in other states must obtain a Designated Home State (DHS) license from a state that offers one (Texas and Florida are the common choices).
+
+Public adjusters are the exception. Tennessee does license public adjusters — those who represent policyholders in negotiating first-party claims against their own insurer — under the Tennessee Public Adjuster Licensing Act of 2006 (Tenn. Code Ann. §§ 56-6-901 et seq.), and the credential requires passing the Pearson VUE Tennessee Public Adjuster exam. So the accurate statement is narrower than "Tennessee does not license adjusters": Tennessee issues no independent adjuster license, but it does license public adjusters, and Tennessee is the resident licensing state for that credential.
 
 Surplus lines agent authority: A non-resident surplus lines agent must have an active Tennessee insurance producer license before applying for Tennessee surplus lines agent authority. Surplus lines is a separate license obtained after the standard producer license is in place.
 
@@ -170,16 +172,16 @@ Variable Products: Non-resident applicants must hold Life line of authority in T
 
 I am licensed in Georgia with Property and Casualty authority. Do I need to take the Tennessee exam to get a Tennessee non-resident P&C license?
 
-No. Georgia complies with NAIC model law and offers non-resident licenses to Tennessee producers without requiring the Georgia exam — Tennessee reciprocates. Apply through NIPR for Tennessee non-resident P&C authority, pay $100 in application fees ($50 per line) plus $5.60 NIPR fee, provide your Georgia license certification, and receive your Tennessee non-resident license within the standard 2–5 business day processing window. No exam. No fingerprinting. Your Georgia CE compliance automatically satisfies Tennessee's non-resident CE requirement going forward.
+No. Georgia complies with NAIC model law and offers non-resident licenses to Tennessee producers without requiring the Georgia exam — Tennessee reciprocates. Apply through NIPR for Tennessee non-resident P&C authority, pay the $50 producer license application fee — a single application covers both the Property and Casualty lines — plus the $5.60 NIPR fee, provide your Georgia license certification, and receive your Tennessee non-resident license within the standard processing window, which is typically a few business days for a clean application. No exam. No fingerprinting. Your Georgia CE compliance automatically satisfies Tennessee's non-resident CE requirement going forward.
 
 My Tennessee non-resident license expired six months ago because I missed the renewal deadline. My home state license is still active. What do I do?
 
-A Tennessee non-resident license expired within one year of its expiration date can be reinstated through a late renewal application submitted through NIPR under the Non-Resident Renewal (NRR) path. The total cost is the standard renewal fee plus the late fee plus the NIPR transaction fee — contact the TDCI for the current combined total, since the late fee is not publicly posted. Confirm your home state CE is current before submitting. Because your home state license is still active, you have the reciprocity basis needed for reinstatement. Submit the late renewal as soon as possible — the one-year late renewal window from your Tennessee expiration date is your deadline. After one year, late renewal is unavailable and you must submit a new non-resident application from scratch.
+A Tennessee non-resident license expired within one year of its due date can be reinstated through a late renewal application submitted through NIPR under the Non-Resident Renewal (NRR) path, without re-examination, under Tenn. Code Ann. §56-6-107(d). The cost is not a small posted "late fee" on top of the normal renewal — the statute requires a penalty of double the unpaid renewal fee for any renewal fee received after the due date, so you pay the doubled amount ($120 for a producer license, $60 for limited lines) plus the NIPR transaction fee. Confirm your home state CE is current before submitting. Because your home state license is still active, you have the reciprocity basis needed for reinstatement. Submit the late renewal as soon as possible — the one-year late renewal window from your Tennessee expiration date is your deadline. After one year, late renewal is unavailable and you must submit a new non-resident application from scratch.
 
 I hold a Tennessee non-resident license and I am moving to Tennessee permanently. What do I need to do and how quickly?
 
-You have 90 days from establishing Tennessee residency to convert your non-resident license to a Tennessee resident license without retaking the Pearson VUE exam. Within that 90-day window: surrender your prior state's resident license, apply for a Tennessee resident license through NIPR, complete IdentoGO fingerprinting ($37.15), submit the signed Fingerprint Policy and Acknowledgement Form to the TDCI, and pay the $50 per line application fee plus $5.60 NIPR fee. You also need to file a change of address with the TDCI within 30 days of your move. After 90 days from establishing Tennessee residency, the exam waiver expires and you must pass the Tennessee Pearson VUE exam to obtain a resident license. Treat the 90-day window as a hard deadline and begin the conversion process immediately upon relocating.
+You have 90 days from establishing Tennessee residency to convert your non-resident license to a Tennessee resident license without retaking the Pearson VUE exam. Within that 90-day window: surrender your prior state's resident license, apply for a Tennessee resident license through NIPR, complete IdentoGO fingerprinting ($37.15), submit the signed Fingerprint Policy and Acknowledgement Form to the TDCI, and pay the $50 producer license application fee (one application covers every line you convert) plus the $5.60 NIPR fee. You also need to file a change of address with the TDCI within 30 days of your move. After 90 days from establishing Tennessee residency, the exam waiver expires and you must pass the Tennessee Pearson VUE exam to obtain a resident license. Treat the 90-day window as a hard deadline and begin the conversion process immediately upon relocating.
 
 Tennessee's non-resident licensing framework is broadly accessible thanks to its NAIC model law-based reciprocity. This extends the practical exam waiver to producers from the vast majority of U.S. states — including all of Tennessee's neighboring states — making Tennessee non-resident authority straightforward to obtain for any producer whose home state license is active and in good standing. The ongoing compliance cost is minimal — home state CE satisfaction carries automatically, renewal is biennial through NIPR at the standard renewal fee, and no Tennessee-specific CE obligation exists for most non-resident producers. For producers who serve clients near Tennessee's borders, represent carriers with Tennessee market activity, or want to expand their geographic reach without establishing Tennessee residency, a Tennessee non-resident license is among the most cost-effective multi-state licensing additions in the Southeast.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course — whether you are pursuing a resident license from scratch or need to pass the Tennessee exam as part of a non-resident application from a non-reciprocal state.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline — whether you are pursuing a resident license from scratch or need to pass the Tennessee exam as part of a non-resident application from a non-reciprocal state.

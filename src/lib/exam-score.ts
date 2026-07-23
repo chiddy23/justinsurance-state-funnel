@@ -12,17 +12,18 @@
 //   Pearson VUE handbooks: AK, CO, DE, HI, ME, MO, MT, NC, RI, SC, SD, TN, TX, WV
 //     (SC handbook 05.2023 p.7-8: score "should not be interpreted as the
 //     percentage or number of correct answers")
-//   PSI: AZ (PSI scaled-scoring policy; AZ handbook PDF unparseable — see register)
 //   Illinois: Pearson VUE (site already labeled IL "(scaled)" before this helper)
 //   Nevada: NAC 683A.270 + Pearson VUE NV handbook
-// NOT in the set (verified raw): Arkansas ("must get 70% correct", AID/PSI
+// NOT in the set (verified raw): Arizona — PSI Arizona Insurance Candidate
+// Information Bulletin (rev. June 11, 2026), "Score Reporting" p.13: "You must
+// get 70% correct to pass the examination."; the bulletin contains no
+// scaled-score language at all. Arkansas ("must get 70% correct", AID/PSI
 // handbook), Michigan (DIFS cut-score table, raw criterion-referenced),
 // Mississippi (65% per-exam), Alabama (no scaling evidence; UA-administered).
 // UNKNOWN/HELD (vendor publishes no number or no method — kept as "%", owner
 // follow-up): ID, IA, KY, NH, VT.
 const SCALED_SCORE_STATES: ReadonlySet<string> = new Set([
   "alaska",
-  "arizona",
   "colorado",
   "delaware",
   "hawaii",

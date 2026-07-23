@@ -108,9 +108,11 @@ Claims experience and benefit utilization patterns
 
 CE credit: The 4-hour ongoing LTC refresher counts toward your 24-hour CE requirement in the renewal period completed. The initial 8-hour course may also count toward CE in the initial period.
 
-Repetition rule exemption: The 4-hour LTC ongoing course is exempt from the repetition rule — it can and should be taken each renewal cycle as required.
+Repetition rule exemption: Washington's repetition rule (WAC 284-17-250) normally lets you claim credit for a given course number only once per renewal period. The 4-hour LTC ongoing course is exempt — it can and should be taken each renewal cycle as required.
 
-Course number standardization: LTC course numbers are standardized across all providers — the same course number applies regardless of which provider you use. This means completing the 8-hour initial with one provider satisfies the requirement — you do not need to take it again from a different provider.
+Course numbers are assigned per provider: there is no universal LTC course number. The OIC assigns each approved course its own number, and the OIC's approved-provider lists show a different number for every provider's version of the same training — so check the number for the specific course you are enrolling in, not just the provider's name. This matters because of the repetition rule at WAC 284-17-250: a course with the same course number may be completed for credit only once per license renewal period.
+
+You still do not have to sit the 8-hour initial twice. It is a one-time requirement under RCW 48.83.130, and WAC 284-17-264(1) provides that long-term care training meeting that statute — completed in Washington or in any other state — satisfies Washington's LTC training requirement.
 
 ## New May 2026 Supplemental LTC Requirement
 
@@ -166,7 +168,7 @@ If you were previously certified but did NOT complete the update by June 30, 202
 
 Reciprocity: Producers who have satisfied annuity training requirements of another state with laws similar to Washington's law are deemed compliant with the Washington requirement. This automatic reciprocity benefits producers licensed in multiple states with NAIC-based annuity Best Interest standards.
 
-Course number standardization: Annuity Best Interest course numbers are standardized across all providers — same course number regardless of provider.
+Course numbers are assigned per provider: the OIC's annuity suitability training and providers list gives each approved provider its own course number for its Best Interest course — there is no shared number across providers, so confirm the number of the exact course you enroll in. What does not repeat is the requirement itself: WAC 284-17-265 calls for one four-hour, commissioner-approved Best Interest course before you sell annuities, not one per provider.
 
 Proof of completion: Must provide the insurance company you work with a copy of your completion certificate as evidence of compliance.
 
@@ -330,6 +332,8 @@ Washington flood market: Western Washington's consistent rainfall, Puget Sound l
 
 ## Build Your Washington Specialty Practice on Solid Training
 
-Washington's specialty training requirements open access to substantial market opportunities — senior LTC, technology-professional annuity, and Pacific Northwest flood markets all reward producers who invest in the prerequisite training. At JustInsurance, our Washington CE courses include LTC Partnership training, Annuity Best Interest certification, and NFIP Flood certification — all OIC-approved and designed for efficient compliance.
+Washington's specialty training requirements open access to substantial market opportunities — senior LTC, technology-professional annuity, and Pacific Northwest flood markets all reward producers who invest in the prerequisite training.
 
-Enroll today and develop your Washington specialty insurance expertise.
+Where to take the training: **JustInsurance is not yet an OIC-approved CE provider in Washington — our Washington approval is still pending**, so we do not offer these courses here and could not roster the credit if we did. Washington's LTC, Annuity Best Interest, and NFIP flood training must be completed through an OIC-approved provider; start from the OIC's [approved provider and CE requirements page](https://www.insurance.wa.gov/producers-adjusters/education/continuing-education-ce/continuing-education-requirements) and confirm the specific course number before enrolling. Course numbers are assigned per provider rather than shared across them, so the number — not the provider's name or the course title — is what tells you whether a class is the approved one and whether you have already claimed credit for it this renewal period (WAC 284-17-250). The requirements themselves are one-time: the 8-hour LTC initial and the 4-hour annuity Best Interest course each need to be completed once, and Washington recognizes equivalent training completed under another state's substantially similar rule.
+
+Get the prerequisite training on the books first, then build the practice — the market opportunity above is only available to producers who can document compliance when the carrier asks.

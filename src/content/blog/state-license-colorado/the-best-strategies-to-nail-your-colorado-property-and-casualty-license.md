@@ -23,7 +23,7 @@ You’ve taken the first step toward a new career path by setting your sights on
 
 ## Understand the exam structure
 
-Colorado requires that you complete [Colorado insurance prelicensing](/colorado/prelicensing) education for property and casualty insurance. You’ll typically cover core topics such as insurance regulation, general insurance concepts, property insurance basics, and liability fundamentals. The exam format often includes multiple-choice questions focusing on Colorado-specific regulations as well as broader national insurance principles.
+Colorado requires that you complete Colorado insurance prelicensing education for property and casualty insurance. You’ll typically cover core topics such as insurance regulation, general insurance concepts, property insurance basics, and liability fundamentals. The exam format often includes multiple-choice questions focusing on Colorado-specific regulations as well as broader national insurance principles.
 
 Exam content is separated into distinct sections, so it’s helpful to know what percentage of the test each topic usually takes up. This knowledge allows you to prioritize your study time on areas that carry the most weight. You’ll also face questions designed to test your ability to apply insurance concepts to hypothetical scenarios. Concepts like underwriting, risk management, and claims processes are central to the exam, so expect to see those woven through many questions.
 
@@ -67,18 +67,18 @@ Challenging yourself with a variety of these questions is one of the best ways t
 Below are common questions about the Colorado property and casualty license process. Use them as a quick reference guide as you move forward.
 
 1.  What are the eligibility requirements?  
-    You generally need to meet the minimum age requirement (usually 18) and complete an approved [pre-licensing](/colorado/prelicensing) course. You must also complete a background check via self-disclosure on your NIPR application — Colorado does not require fingerprinting.
+    You generally need to meet the minimum age requirement (usually 18) and complete an approved pre-licensing course. You must also complete a background check via self-disclosure on your NIPR application — Colorado does not require fingerprinting.
 2.  How long does the pre-licensing course take?  
-    Property and Casualty are each separate 50-hour lines of authority in Colorado, so completing both takes 100 hours of coursework total. Some people spread it over several weeks, while others use an accelerated format to finish more quickly.
+    In Colorado, Property and Casualty prelicensing is a single combined 50-hour course — not two separate 50-hour courses — so you’re looking at 50 hours total, not 100. (Under 3 CCR 702-1, Regulation 1-2-5, Colorado also approves standalone 50-hour Property-only and Casualty-only courses if you ever need just one line.) Some people spread those hours over several weeks, while others use an accelerated format to finish more quickly.
 3.  Can I retake the exam if I fail?  
     Yes, you can retake the exam. However, you’ll need to pay a re-examination fee, so it’s beneficial to be as prepared as possible before your first attempt. Use practice tests, review notes, and focus on your weakest areas before you go for a retake.
 4.  When will I receive my exam results?  
     You typically receive your results immediately after you finish. Should you pass, further steps involve submitting your application to the state. If you don’t pass, you’ll see which content areas need more attention so you can improve on your next try.
 5.  How can I start my insurance career once I pass?  
-    Once licensed, you can apply to agencies or independent brokerages. Many new agents go with an established agency for on-the-job training, networking, and mentorship opportunities. You might also consider working with JustInsurance if you prefer a dynamic environment that prioritizes personalized client solutions.
+    Once licensed, you can apply to agencies or independent brokerages. Many new agents go with an established agency for on-the-job training, networking, and mentorship opportunities. As you compare offers, weigh the quality of that training, how leads are supplied, and the commission split — and confirm which lines of authority the agency actually wants you writing.
 
 Consider these answers as starting points, not the final word on every scenario. For more in-depth details, consult official Colorado DORA resources, which regularly update regulations and requirements.
 
 At this stage, you’re well on your way to achieving your goal. You’ve covered the fundamentals, learned how to manage your time, and reviewed sample questions to deepen your knowledge. Now it’s time to finalize your plan and put it into action.
 
-If you’re eager to complete your pre-licensing journey, get in touch with JustInsurance, where you’ll find supportive study programs, experienced guidance, and a friendly approach that fits your schedule. It’s your career—take the next step and enroll today. Good luck on your path to becoming a Colorado property and casualty license holder, and here’s to a successful and fulfilling insurance career!
+If you’re eager to move forward, study to the current Pearson VUE Property and Casualty content outline, lean on plenty of practice questions, and confirm the latest fees with DORA and Pearson VUE before you schedule. And once you’re licensed, plan your renewal hours early: JustInsurance does not currently publish a Colorado Property & Casualty CE package, so source those hours from a DORA-approved P&C provider. If you decide to add Life and Health lines, our Colorado [prelicensing courses](/colorado/prelicensing) and Colorado [continuing education](/colorado/continuing-education) are ready when you are. It’s your career—take the next step, and here’s to a successful and fulfilling Colorado insurance career!

@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Six-Figure Insurance Income in Virginia: A Market-by-Market Roadmap"
-description: Virginia is the 19th-highest-paying state for insurance agents nationally — but that average obscures enormous variation.
+description: Virginia insurance agents average about $77,470 a year (BLS OEWS, May 2024) — but that average obscures enormous variation.
 keyword: how to build a sixfigure insurance income in virginia a
 targetKeywords: how to build a sixfigure insurance income in virginia a
 cluster: state-license-virginia
@@ -12,7 +12,7 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: "How to Build a Six-Figure Insurance Income in Virginia: A Market-by-Market Roadmap"
 ---
 
-Virginia is the 19th-highest-paying state for insurance agents nationally — but that average obscures enormous variation. A captive agent in Martinsville earning a $42,000 base salary and a commercial lines producer in McLean managing a $10 million book at 12% renewal commissions are both "Virginia insurance agents." The path to six-figure income in Virginia is specific, it requires understanding the state's distinct regional markets, and it rewards producers who select the right combination of line authority, geographic positioning, and specialty focus from the beginning rather than discovering these factors through trial and error years into their career. This post maps that path directly.
+Insurance sales agents in Virginia earn an annual mean wage of roughly $77,470, a little under the national mean of about $81,510 (BLS Occupational Employment and Wage Statistics, May 2024) — but that average obscures enormous variation. A captive agent in Martinsville earning a $42,000 base salary and a commercial lines producer in McLean managing a $10 million book at 12% renewal commissions are both "Virginia insurance agents." The path to six-figure income in Virginia is specific, it requires understanding the state's distinct regional markets, and it rewards producers who select the right combination of line authority, geographic positioning, and specialty focus from the beginning rather than discovering these factors through trial and error years into their career. This post maps that path directly.
 
 ⚠️ Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
@@ -26,7 +26,7 @@ Richmond's institutional insurance culture: Richmond's concentration of insuranc
 
 Hampton Roads' scale and military market: 852,000 workers, 80,000+ active-duty military personnel, and billions in annual defense spending create high-volume personal lines and commercial specialty opportunities that scale readily.
 
-Virginia's no-[prelicensing](/virginia/prelicensing) rule: Virginia's process advantage — the ability to get licensed and start selling faster than in most states — means the income clock starts earlier. For commission-based producers, every week of selling earlier in their career compounds meaningfully over a multi-year income horizon.
+One item that does *not* belong on that list: Virginia's no-[prelicensing](/virginia/prelicensing) rule. It is real — no seat-hour requirement stands between you and the Prometric exam, so you can test as soon as you are genuinely prepared — but it is not a Virginia edge. Roughly thirty other states also make prelicensing optional, so this removes a delay rather than granting a head start. The income clock starts when you can pass the exam, and how fast you get there is a function of your study plan, not your ZIP code.
 
 ## The Income Architecture: How Virginia Producer Income Compounds
 
@@ -94,7 +94,7 @@ Account size shift: The most powerful lever in Virginia (as everywhere) is movin
 
 Retention: Virginia's pure contributory negligence doctrine means auto accidents can be expensive, stressful events that clients remember — and blame on inadequate coverage if gaps exist. Producers who conduct thorough annual coverage reviews and proactively address gaps (UM/UIM limits post-stacking, updated auto minimums at renewal) have materially better retention than transactional producers. Retention at 92% vs. 85% generates a 9% larger book at the end of year 5 — with identical production levels.
 
-Non-resident expansion: Adding Maryland and DC non-resident licenses through NIPR (no exam required, $54 and $54 respectively) costs $108 and opens access to Northern Virginia clients whose homes, vehicles, or businesses cross state lines. This is the lowest-cost market expansion available to any Virginia producer.
+Non-resident expansion: Adding Maryland and DC non-resident licenses through NIPR (no exam required — $54 for Maryland, $100 biennial for the District of Columbia) costs about $154 in state fees plus NIPR transaction fees, and opens access to Northern Virginia clients whose homes, vehicles, or businesses cross state lines. This is the lowest-cost market expansion available to any Virginia producer.
 
 ## Frequently Asked Questions
 
@@ -120,4 +120,4 @@ Yes — dual licensing increases income potential in two ways. First, cross-sell
 
 Six-figure income in Virginia insurance is not a lucky outcome — it is the predictable result of selecting the right market, building consistently, retaining aggressively, and making the strategic shifts (toward commercial accounts, toward specialty lines, toward higher-density markets) that compound income faster than general market production alone.
 
-Visit JustInsurance to enroll today and take the first step toward a six-figure Virginia insurance career with a prelicensing course designed for first-attempt exam success and long-term market entry.
+Visit JustInsurance to enroll today and take the first step toward a six-figure Virginia insurance career with an optional prelicensing course designed for first-attempt exam success and long-term market entry.

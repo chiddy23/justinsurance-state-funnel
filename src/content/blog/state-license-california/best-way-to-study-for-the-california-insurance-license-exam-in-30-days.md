@@ -19,7 +19,13 @@ Here's the best way to study for the California insurance license exam in 30 day
 
 ## Before You Start: The Foundation
 
-You can't start a 30-day study plan until your [prelicense](/california/prelicensing) education is complete — or well underway. As of January 1, 2026, California AB 943 eliminated the old line-specific prelicensing hour requirements (the former 52-hour Life and 40-hour P&C courses). The only mandatory prelicensing course is now the 12-hour Code and Ethics course from a CDI-approved provider. If you haven't completed it yet, build that into your first week — most candidates finish it in a single weekend.
+Your [prelicense](/california/prelicensing) education is the foundation this plan sits on. As of January 1, 2026, California AB 943 repealed the old 20-hour line-specific prelicensing education requirement that used to apply to Life, Accident & Health, and Property & Casualty applicants alike. The only mandatory prelicensing course is now the 12-hour Code and Ethics course from a CDI-approved provider.
+
+Two things about scheduling it are worth knowing before you build your calendar.
+
+**The 12 hours are real hours.** Prelicensing courses are monitored seat time, and CDI has confirmed that AB 943 left the course completion and time-tracking rules untouched ([CDI 12-hour ethics FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions)). You cannot finish the course in less than 12 hours no matter how quickly you read. Plan on a full day, or two solid half-days across a weekend — not an evening.
+
+**The course is not a gate on your exam date.** CDI is explicit that completing the 12 hours is not required in order to schedule or sit your licensing exam; it has to be finished before your license can be issued. That means you can lock in a test date now and fit the Code and Ethics hours around it.
 
 This plan assumes the 12-hour Code and Ethics course is done in week 1, then a focused, voluntary exam-prep phase follows. The state exam content didn't get easier under AB 943 — only the seat-time requirement did. Voluntary exam prep is now where most of the actual learning happens.
 

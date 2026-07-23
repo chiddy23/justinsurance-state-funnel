@@ -40,25 +40,25 @@ STEP 1: Choose Your Line(s) of Authority
 
 Major lines in Maryland:
 
-Life (80-question exam; $60)
+Life (80-question exam; $62)
 
-Accident & Health or Sickness (80-question exam; $60)
+Accident & Health or Sickness (80-question exam; $62)
 
-Life, A&H combined (130 questions; $60)
+Life, A&H combined (130 questions; $62)
 
-Property (~80 questions; $60)
+Property (~80 questions; $62)
 
-Casualty (~80 questions; $60)
+Casualty (~80 questions; $62)
 
-P&C combined (120 questions; $60; 150 min)
+P&C combined (120 questions; $62; 150 min)
 
-Personal Lines (110 questions; $60; 135 min)
+Personal Lines (110 questions; $62; 135 min)
 
 Title
 
 Surplus Lines
 
-Combined exam advantage: Combined P&C (120 questions, 150 minutes) and combined Life & A&H (130 questions) both cost $60 — same as a single-line exam. Full-market candidates pursuing both lines save $60 and an exam sitting by using combined exams.
+Combined exam advantage: Combined P&C (120 questions, 150 minutes) and combined Life & A&H (130 questions) both cost $62 — same as a single-line exam. Full-market candidates pursuing both lines save $62 and an exam sitting by using combined exams.
 
 STEP 2: Schedule Prometric Exam
 
@@ -70,7 +70,7 @@ Select exam(s) in "Ready to Schedule" section
 
 Choose test center or remote (ProProctor)
 
-Pay $60 exam fee
+Pay $62 exam fee
 
 Note: Provide accurate DOB and SSN during profile creation — demographic errors require contacting Prometric to correct
 
@@ -114,11 +114,11 @@ Go to insurance.maryland.gov → name search → enter license number → print 
 
 Maryland's total licensing cost is among the lowest of all comparison states:
 
-NJ: $170 application + $66.05 fingerprint + $47 exam = $283+ per license
+NJ: $170 application + $66.05 fingerprint + $38 exam = $274+ per license
 
 Virginia: $15/line + $34.95 fingerprint + $35 exam = $85-120
 
-Maryland: $54 + $0 fingerprint + $60 exam = $114 total
+Maryland: $54 + $0 fingerprint + $62 exam = $116 total
 
 ## Non-Resident Process
 
@@ -136,6 +136,6 @@ Non-residents note: No fingerprinting requirement applies to non-residents eithe
 
 ## Apply for Your Maryland License With Confidence
 
-Maryland's no-PLE, no-fingerprinting application process is the simplest of all comparison states. JustInsurance's MIA-approved Maryland courses prepare you for the Prometric exam and guide you through every step.
+Maryland's no-PLE, no-fingerprinting application process is the simplest of all comparison states. JustInsurance's Maryland exam-prep courses help you prepare for the Prometric exam and guide you through every step.
 
 Enroll today and start your Maryland insurance career.

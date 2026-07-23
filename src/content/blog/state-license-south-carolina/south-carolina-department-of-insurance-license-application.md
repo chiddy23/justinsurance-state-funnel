@@ -44,13 +44,13 @@ Before submitting your application, you should have:
 
 Passed the South Carolina state exam
 
-Completed fingerprinting through an approved vendor
-
 Gathered documentation for any disclosure answers
 
 Prepared to pay the application fee
 
 Your application won't be processed without these foundational steps complete.
+
+One thing you do *not* do beforehand: fingerprinting. In South Carolina you apply first, then get fingerprinted. The SCDOI emails you IdentoGO scheduling instructions and a service code only after it receives your NIPR application (typically the next business day), so there is nothing to fingerprint before you submit. Do not schedule fingerprinting ahead of applying.
 
 ## Step 1: Choose Your Application Portal
 
@@ -229,7 +229,7 @@ You can now pursue carrier appointments and begin conducting insurance business 
 - How long does South Carolina take to approve a license application? Typically 1-3 weeks for clean applications, 3-6 weeks for applications with disclosures.
 - Can I submit my South Carolina application through paper forms? Most applications are submitted electronically through NIPR or Sircon. Paper options may be available in specific cases.
 - What if I have a past criminal issue? Disclose it honestly with supporting documentation. The SCDOI evaluates context, including time elapsed, rehabilitation, and relevance to insurance work.
-- Do I need to complete everything before submitting my application? Exam completion is required. Fingerprinting should be in process. Some applicants submit with fingerprinting in progress, but final approval requires fingerprint results.
+- Do I need to complete everything before submitting my application? Passing the exam comes first. Fingerprinting, however, comes *after* you apply — the SCDOI emails IdentoGO scheduling instructions only once it receives your NIPR application, so you cannot (and should not) get fingerprinted beforehand. Final approval still requires your completed fingerprint background-check results.
 - How do I check the status of my application? Log into NIPR or Sircon to check application status. The SCDOI's online producer lookup also shows license status once approved.
 
 ## Submit a Clean Application the First Time

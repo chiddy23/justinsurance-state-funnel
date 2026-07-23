@@ -12,7 +12,7 @@ image: /blog/images/why-getting-your-tennessee-life-insurance-license-is-worth-i
 imageAlt: "Tennessee's Insurance Exam State Law Section: The High-Priority Topics That Decide Your Score"
 ---
 
-Every Tennessee insurance licensing exam — Life, Accident and Health, Property, Casualty, Personal Lines — contains a state law section that tests knowledge specific to Tennessee's insurance regulatory framework. No other section of the exam is more consistently underestimated by candidates, and no other section produces more preventable failures. Candidates who study general insurance concepts thoroughly but treat the state law section as secondary preparation routinely fall below 70% because they lose clusters of state law questions that prepared candidates answer correctly.
+Every Tennessee insurance licensing exam — Life, Accident and Health, Property, Casualty, Personal Lines — contains a state law section that tests knowledge specific to Tennessee's insurance regulatory framework. No other section of the exam is more consistently underestimated by candidates, and no other section produces more preventable failures. Candidates who study general insurance concepts thoroughly but treat the state law section as secondary preparation routinely fall short of a passing score because they lose clusters of state law questions that prepared candidates answer correctly.
 
 The state law section is identical across every Tennessee licensing line. A candidate sitting for the Property exam faces the same Tennessee statutory provisions as a candidate sitting for the Life exam. This means the state law section is the most efficient investment in any Tennessee exam preparation — master it once and it applies to every line you ever sit for. This post covers every high-priority topic in the Tennessee state law section, what each tests at the level of specificity the exam requires, and the specific numbers and provisions that generate the most questions — and the most preventable failures — on Tennessee insurance licensing exams.
 
@@ -28,7 +28,7 @@ The practical implication: Candidates who treat state law preparation as memoriz
 
 ### What the TDCI Is and What the Commissioner Can Do
 
-The regulator: The Tennessee Department of Commerce and Insurance (TDCI) is the state agency responsible for licensing, regulating, and disciplining insurance producers and insurers in Tennessee. Unlike some states that have standalone Insurance Departments, Tennessee's TDCI also oversees securities, banking, and other regulated industries — but the insurance division operates with dedicated jurisdiction.
+The regulator: The Tennessee Department of Commerce and Insurance (TDCI) is the state agency responsible for licensing, regulating, and disciplining insurance producers and insurers in Tennessee. Unlike some states that have standalone Insurance Departments, Tennessee's TDCI is a broader agency that also houses securities regulation, the regulatory boards, fire prevention, and TennCare oversight — but the insurance division operates with dedicated jurisdiction. (Banking is not part of TDCI: state-chartered banks and other financial institutions are regulated by a separate agency, the Tennessee Department of Financial Institutions.)
 
 The Commissioner: The Commissioner of Commerce and Insurance is a gubernatorial appointee. The Commissioner holds the enforcement authority that producers and insurers are subject to throughout their careers.
 
@@ -42,7 +42,7 @@ Each separate act constituting a violation may be treated as a separate violatio
 
 The $1,000 figure is specifically tested. Exam questions ask the maximum civil penalty for a standard violation. The answer is $1,000 per violation. Know the exact amount — not "up to a few thousand" or "up to $5,000."
 
-License discipline authority — TCA §56-6-112: The Commissioner may place on probation, suspend, revoke, or deny renewal of a producer license for any of fourteen specific grounds, including:
+License discipline authority — TCA §56-6-112: The Commissioner may place on probation, suspend, revoke, or deny renewal of a producer license for any of fifteen specific grounds enumerated in §56-6-112(a), including:
 
 Providing incorrect, misleading, incomplete, or materially untrue information on a license application
 
@@ -102,11 +102,9 @@ Administered by: Pearson VUE — not PSI. Tennessee is one of a small number of 
 
 Fees:
 
-Remote (OnVUE): $49 per line
+Exam fee: $55 per line — the same whether you test at a Pearson VUE test center or online via OnVUE (per the current Pearson VUE Tennessee candidate handbook)
 
-In-person (Pearson VUE test center): $59 per line
-
-Pass score: 70% on scored questions
+Pass score: a scaled score of 70 — not a raw percentage of questions correct. A passing report reads simply "pass" with no number; only failing candidates receive a numeric scaled score
 
 Score reporting: Immediate — results displayed before leaving the testing environment
 
@@ -130,7 +128,7 @@ Timing: Fingerprinting must be completed at least 2 business days before submitt
 
 Portal: NIPR (National Insurance Producer Registry) at nipr.com for resident applications
 
-Application fee: $50 per line of authority. A candidate applying for Property and Casualty pays $100 ($50 × 2). A candidate applying for all four major lines pays $200 ($50 × 4).
+Application fee: $50 for the resident insurance producer license. A single NIPR application covers every line of authority you have qualified for, so a candidate applying for Property and Casualty and a candidate applying for all four major lines each pay the same $50 filing fee. Adding a line of authority after the license is issued requires a separate $50 amendment filing.
 
 NIPR transaction fee: $5.60 per application submission — flat fee regardless of number of lines included
 
@@ -138,7 +136,7 @@ The 48-hour mandatory waiting period: Tennessee requires applicants to wait at l
 
 The 48-hour rule is specifically testable. Exam questions ask how long a candidate must wait after passing the exam before applying. The answer is 48 hours — not 24 hours, not 5 days (Georgia's requirement), not immediately. Know the precise interval.
 
-Processing time: Standard applications are processed within 2–5 business days. Applications requiring background check review or manual TDCI assessment may take up to 15 business days.
+Processing time: Roughly 10 business days for a complete electronic application; paper applications run about 15 days from receipt in the TDCI Agent Licensing Section (per the Pearson VUE Tennessee handbook). Applications requiring background-check review or manual TDCI assessment can take longer — confirm current timing with the TDCI.
 
 ### License Validity and Renewal
 
@@ -146,17 +144,17 @@ License term: Biennial — every two years
 
 Renewal deadline: Last day of the producer's birth month in the renewal year. A producer born in July renews by July 31 of the renewal year.
 
-Renewal fee: not publicly posted — contact the TDCI for the current amount
+Renewal fee: $60 biennial ($30 for a limited insurance producer), per Tenn. Comp. R. & Regs. 0780-01-56-.09
 
 NIPR transaction fee at renewal: charged in addition to the renewal fee
 
 Total standard renewal cost: contact the TDCI or check your NIPR renewal screen for the current combined total
 
-Grace period: 60 days after the expiration date — no late fee during this window. The license can be renewed at the standard cost within 60 days of expiration with no penalty.
+No grace period: Tennessee provides no grace period after the renewal deadline. Under T.C.A. § 56-6-107(d), a penalty equal to double the unpaid renewal fee is required for any renewal fee received after the due date — there is no window in which a late renewal avoids the penalty.
 
-Late renewal fee: not publicly posted by the TDCI — assessed in addition to the standard renewal fee, not instead of it. Contact the TDCI for the current total late renewal cost.
+Late renewal penalty: to reinstate a lapsed license within 1 year of expiration, a penalty equal to double the renewal fee — $120 for major lines, $60 for a limited insurance producer — is required, with no re-examination (T.C.A. §§ 56-6-107, 56-6-121).
 
-Late renewal window: Up to 1 year from the expiration date (not from the end of the grace period). After 1 year, late renewal is unavailable and full relicensing — including retaking the Pearson VUE exam — is required.
+Late renewal window: Up to 1 year from the expiration date. After 1 year, late renewal is unavailable and full relicensing — including retaking the Pearson VUE exam — is required.
 
 The specific fee and timeline figures are all testable:
 
@@ -310,7 +308,7 @@ Below 50%: Recovery is reduced proportionally. A claimant who is 30% at fault re
 
 At exactly 50%: Recovery is completely barred — the claimant receives nothing.
 
-The 50% figure is specifically testable and specifically distinct. Some states use a 51% bar — Tennessee's is 50%. At 51% fault, a Tennessee claimant can recover 49% of their damages. At 50% fault, a Tennessee claimant recovers nothing. The one percentage point difference at exactly 50% is not intuitive and is exploited by exam questions.
+The 50% figure is specifically testable and specifically distinct. Some states use a 51% bar — Tennessee's is 50%. Under Tennessee's rule, a claimant who is 50% or more at fault recovers nothing: at 51% fault a Tennessee claimant recovers nothing, and at exactly 50% fault a Tennessee claimant recovers nothing. Only a claimant less than 50% at fault recovers, with damages reduced by their share of fault — a claimant 49% at fault recovers 51% of their damages. The one percentage-point difference at exactly 50% is not intuitive and is exploited by exam questions.
 
 Scenario examples:
 
@@ -346,7 +344,7 @@ Competitive market: Tennessee's workers' compensation operates in a competitive 
 
 Tennessee maintains broad reciprocity agreements with other states, and the exam tests whether candidates understand how that reciprocity works.
 
-What reciprocity means: A producer licensed and in good standing in another state — including Tennessee's neighboring states of Georgia, North Carolina, Kentucky, Alabama, Arkansas, Missouri, and Virginia — can generally obtain a Tennessee non-resident license without taking the Tennessee Pearson VUE exam, provided their home state license covers the same lines of authority and their home state extends equivalent reciprocal treatment to Tennessee producers.
+What reciprocity means: A producer licensed and in good standing in another state — including all eight of Tennessee's neighboring states (Kentucky, Virginia, North Carolina, Georgia, Alabama, Mississippi, Arkansas, and Missouri) — can generally obtain a Tennessee non-resident license without taking the Tennessee Pearson VUE exam, provided their home state license covers the same lines of authority and their home state extends equivalent reciprocal treatment to Tennessee producers.
 
 When the Tennessee exam is required for non-residents: The exam is required for applicants from a home state that does not extend equivalent reciprocal treatment to Tennessee producers, or whose license does not cover the requested lines of authority. Confirm your specific home state's status with the TDCI before applying.
 
@@ -372,7 +370,7 @@ How many questions on the Tennessee exam come from the state law section versus 
 
 The TDCI content outline does not publish an exact question-by-question breakdown of state law versus general content. However, based on the content outline's topic weights and the consistent exam performance patterns reported by Tennessee candidates, the state law section typically accounts for approximately 20–30% of scored questions on most Tennessee licensing exams. On a 68-question scored exam, that represents 14–20 questions. Missing most or all of those questions — which is what happens to candidates who do not study state law specifically — produces a score reduction of 20–30 percentage points below what their general content knowledge alone would generate. A candidate who would score 85% on the general content alone may score 60–65% overall if they lose most state law questions.
 
-I already hold a Property license and am studying for Casualty. Do I need to re-study the entire state law section?
+I already hold Property authority and am studying for Casualty. Do I need to re-study the entire state law section?
 
 No — the state law section is identical on both exams. Every provision in the master flashcard list applies to the Property exam and the Casualty exam equally. If you have already mastered the state law section for your Property exam — including the specific numbers for the bad faith penalty, auto minimums, workers' compensation thresholds, appointment timelines, and CE requirements — that preparation carries forward completely. Review your flashcards before the Casualty exam to refresh recall, but do not rebuild state law preparation from scratch. Allocate your Casualty study time to the general Casualty content — CGL occurrence vs. claims-made trigger, workers' compensation policy structure, umbrella vs. excess liability, professional liability provisions — where the new content actually resides.
 
@@ -382,4 +380,4 @@ Think about the direction of the action. Filing an appointment is the beginning 
 
 The Tennessee state law section is where passing scores are won or lost for the majority of candidates who fail their first attempt. It is also the section where the study investment produces the most reliable return — because the content is fixed, specific, and identical across every Tennessee licensing line. Every minute spent drilling the master flashcard list produces a direct return on exam day. Every state law question answered correctly from automatic recall is a point that a less-prepared candidate missed. The candidates who pass the Tennessee insurance exam on their first attempt are almost universally the candidates who treated the state law section with the same disciplined preparation they gave the general content — and who arrived at exam day knowing every number in the master list without hesitation.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course that covers every state law provision tested on the Pearson VUE exam — so that the state law section decides your score in your favor.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline that covers every state law provision tested on the Pearson VUE exam — so that the state law section decides your score in your favor.

@@ -51,7 +51,7 @@ With a passing score in hand, you're positioned to apply for your license throug
 
 ## Plan your budget
 
-Earning your Pennsylvania insurance license does require an investment, so it's wise to plan for course fees, exam registration costs, and application charges. If you choose to take a pre-licensing course, you might spend a couple hundred dollars on it. The state exam fee is $43. Application processing may also involve a separate fee.
+Earning your Pennsylvania insurance license does require an investment, so it's wise to plan for course fees, exam registration costs, and application charges. If you choose to take a pre-licensing course, you might spend a couple hundred dollars on it. Pennsylvania's PSI exam fee is $45 per attempt for a single-line exam (Life, Accident & Health, Property, or Casualty) and $55 for a combined Life/Accident & Health or Property & Casualty exam. Application processing may also involve a separate fee.
 
 If cost is a concern, you can often find discounted online courses or bundle options that reduce the total expense. Some employers will even reimburse you if you secure a position where licensure is essential. Planning ahead ensures there are few surprises along the way and can help you avoid rushing less-preferred choices simply because they're cheaper. Look for reputable providers offering the support and materials you need for a successful exam experience.
 

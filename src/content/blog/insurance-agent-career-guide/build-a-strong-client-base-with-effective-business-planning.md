@@ -49,7 +49,7 @@ Whenever you connect, focus on listening as much as speaking. Ask open-ended que
 
 Research your competition, especially in the local market, to understand how you can stand out. Maybe you offer in-depth consultations that others skip, or you specialize in crafting unique coverage packages that meet a niche need. Clients have a wide range of choices, so highlighting your unique selling points can tip the scales in your favor.
 
-Avoid focusing on price alone. Many clients are happy to pay a little more if they receive great service, clear explanations, and ongoing policy management. If you’re aligned with a firm like JustInsurance, leverage their strong reputation and range of products to show your clients you have comprehensive options. By pairing great offerings with excellent service, you’ll build a practice that people return to again and again.
+Avoid focusing on price alone. Many clients are happy to pay a little more if they receive great service, clear explanations, and ongoing policy management. If you are appointed with several carriers, lean on that breadth to show clients you can compare real options instead of pushing a single product. By pairing great offerings with excellent service, you’ll build a practice that people return to again and again.
 
 ## Track and refine your approach
 
@@ -77,6 +77,6 @@ Consider revisiting it at least once a quarter. Check your numbers, see where yo
 
 ### 5\. Can I get support if I feel stuck?
 
-Absolutely. Building an insurance practice is a team effort. Talk to your upline supervisor, seek out mentors, or collaborate with peers. You can also look to providers like JustInsurance for training materials, product knowledge, and marketing support.
+Absolutely. Building an insurance practice is a team effort. Talk to your upline supervisor, seek out mentors, or collaborate with peers for the sales and marketing side of the business. For the education side — keeping your product knowledge sharp and your license current — you can look to providers like JustInsurance for prelicensing and continuing-education courses.
 
 Ready to strengthen your insurance agent business planning? Remember that every small improvement brings you one step closer to a thriving practice. If you want more helpful strategies or ready-made resources, consider reaching out for assistance. You don’t have to navigate the journey alone. Take action today to refine your plan, connect with the right prospects, and grow your client base in a way that feels both profitable and fulfilling. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

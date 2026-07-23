@@ -74,11 +74,13 @@ PSI's website at psiexams.com/test-takers/
 
 Phone: 1-888-818-5822
 
-Pay the $43 exam fee per exam at registration
+Pay the $45 exam fee per exam at registration ($55 for a combined Life & Health or Property & Casualty exam)
 
-Schedule at a PSI testing center or through OnVUE remote online proctored testing
+Schedule at a PSI testing center, or take the exam through PSI's own remote online proctoring platform (PSI Bridge) where available
 
 Bring valid identification on test day
+
+One vendor note: every Pennsylvania producer exam runs through PSI, including the remote option. Pearson VUE's OnVUE platform is a different vendor used by other states and cannot be used to schedule a Pennsylvania insurance exam.
 
 Identification requirements:
 
@@ -234,9 +236,11 @@ Website: insurance.pa.gov
 
 ## License Renewal
 
-Pennsylvania producer licenses are valid for 2 years from issuance:
+Pennsylvania producer licenses run on a two-year (biennial) cycle, but the expiration date is tied to your birthday — not to the date your license was issued:
 
-Renewal cycle: Biennial
+Renewal cycle: Biennial, expiring on the last day of your birth month
+
+Do not calculate your deadline as "two years from issuance." Because Pennsylvania aligns the term to your birth month, your first license period is usually shorter or longer than a clean 24 months. Confirm the exact expiration date printed on your license.
 
 CE requirement: 24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines)
 
@@ -272,8 +276,8 @@ This streamlined path makes Pennsylvania accessible for already-licensed produce
 
 - Does Pennsylvania require pre-licensing education? No — as of April 29, 2025. Pennsylvania Act 142 of 2024 eliminated the prelicense education requirement. However, structured study is strongly recommended given the exam difficulty.
 - Does Pennsylvania require fingerprinting for insurance producers? Yes. All initial resident producer license applicants must complete fingerprinting through IdentoGO using service code 1KGBGJ. Non-resident reciprocity applicants and producers adding lines to existing licenses are exempt.
-- How much does the Pennsylvania insurance exam cost? $43 per exam, paid to PSI at registration.
-- How long is my Pennsylvania insurance license valid? 2 years from the date of issuance. Renewals can include up to 1 year after expiration without re-exam or re-fingerprinting.
+- How much does the Pennsylvania insurance exam cost? $45 per single-line exam (Life, Accident & Health, Property, or Casualty), or $55 for a combined Life & Health or Property & Casualty exam, paid to PSI at registration.
+- How long is my Pennsylvania insurance license valid? Pennsylvania licenses renew on a two-year cycle, expiring on the last day of your birth month rather than on the anniversary of your issue date — so check the expiration printed on your license instead of counting 24 months forward. Reinstatement is available for up to 1 year after expiration without re-exam or re-fingerprinting.
 - What's the application fee for a Pennsylvania resident producer license? $55 (plus small transaction charge). Non-resident license fee is $110.
 
 ## Start Your Pennsylvania Insurance Career Right

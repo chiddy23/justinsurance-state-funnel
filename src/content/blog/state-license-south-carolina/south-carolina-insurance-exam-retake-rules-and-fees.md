@@ -64,8 +64,6 @@ Each attempt requires waiting the mandatory period
 
 Multiple failed attempts can indicate deeper preparation issues
 
-The SCDOI may eventually review applicants with repeated failures
-
 Treating each attempt as potentially your last is smart psychology. Prepare seriously and don't rely on unlimited retakes as a backup plan.
 
 ## How to Come Back Stronger

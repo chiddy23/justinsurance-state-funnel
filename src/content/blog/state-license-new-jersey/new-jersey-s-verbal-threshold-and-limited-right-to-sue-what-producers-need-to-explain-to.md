@@ -92,9 +92,9 @@ Does the tort option election affect how a client's PIP claim works?
 
 No. PIP is a no-fault benefit — it pays regardless of who caused the accident and regardless of which tort option the policyholder elected. A client with Limited Right to Sue and a client with Unlimited Right to Sue both have the same PIP coverage under their policy, both file PIP claims with their own insurer first, and both receive the same first-party medical and income continuation benefits up to their PIP limits. The tort option only comes into play when the injured party attempts to pursue a claim against the at-fault driver for damages beyond PIP — specifically for noneconomic loss like pain and suffering.
 
-Can a policyholder switch from Limited Right to Sue to Unlimited Right to Sue at any time?
+Can a policyholder switch from Limited Right to Sue to Unlimited Right to Sue?
 
-The tort election made on the Coverage Selection Form is binding for the current policy term and cannot be changed mid-policy. At renewal, the policyholder has the opportunity to review and change their election on the new Coverage Selection Form. Producers should build a renewal conversation about the tort option into their standard renewal process — particularly for clients who have had accidents, have family members with medical conditions that could produce serious injuries, or whose household composition has changed (new drivers, elderly relatives) since the last election. The renewal is the one opportunity to revisit the election before the next policy term locks it in.
+Yes — the election is not permanently locked. Under N.J.S.A. 39:6A-8.1, the tort option a named insured chooses stays in force and carries over to subsequent renewal and replacement policies until the insurer receives a new, properly executed Coverage Selection Form electing the other option. A client who wants to change should submit a signed Coverage Selection Form to their insurer and confirm when the new option takes effect — switching to Unlimited Right to Sue changes the premium, so the effective date matters. Renewal is the most natural point to revisit the election, so producers should build a tort-option review into their renewal process — particularly for clients who have had accidents, have family members with medical conditions that could produce serious injuries, or whose household composition has changed (new drivers, elderly relatives) since the last election. Left alone, the prior election simply continues forward unchanged from one term to the next.
 
 What is the producer's legal obligation regarding the Coverage Selection Form?
 
@@ -102,4 +102,4 @@ Under N.J.A.C. 11:3-15, insurers are required to provide the Coverage Selection 
 
 The verbal threshold is New Jersey auto insurance law at its most consequential — a provision that can determine whether an injured client recovers hundreds of thousands of dollars or nothing for pain and suffering based entirely on whether a fracture was displaced or a soft tissue injury became permanent. Producers who understand it and explain it clearly provide irreplaceable value at the point of sale.
 
-Visit JustInsurance to enroll today and build your mastery of New Jersey auto insurance law through a [prelicensing](/new-jersey/prelicensing) course designed for the PSI exam and your client conversations.
+Visit JustInsurance to enroll today and strengthen your command of New Jersey auto insurance law with DOBI-approved [continuing education](/new-jersey/continuing-education) for licensed Property and Casualty producers.

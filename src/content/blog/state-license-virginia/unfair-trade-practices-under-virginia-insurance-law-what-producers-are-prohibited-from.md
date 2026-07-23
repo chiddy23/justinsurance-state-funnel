@@ -14,7 +14,9 @@ imageAlt: "Unfair Trade Practices Under Virginia Insurance Law: What Producers A
 
 Title 38.2, Chapter 5 of the Code of Virginia (§§ 38.2-500 through 38.2-518) defines and prohibits unfair methods of competition and unfair or deceptive acts and practices in the business of insurance. This chapter exists to implement the intent of Congress under the McCarran-Ferguson Act by ensuring that the Commonwealth's insurance market operates with integrity. For producers, Chapter 5 establishes the boundaries of permissible conduct in soliciting, selling, and servicing insurance. Violations can result in license suspension or revocation, civil penalties, and restitution orders — and in the most serious cases, criminal referral. This post covers every material prohibition that applies directly to Virginia insurance producers.
 
-## Misrepresentation: § 38.2-503
+## Misrepresentation: § 38.2-502
+
+Get this citation right — it is a tested item on the Virginia exam and it is easy to transpose. Misrepresentation and false advertising **of insurance policies** is § 38.2-502. (§ 38.2-503, one number over, is "False information and advertising generally," and § 38.2-512 covers misrepresentation in insurance documents or communications.)
 
 Virginia's misrepresentation prohibition is broad. No person shall:
 
@@ -28,11 +30,11 @@ Use any name or title of any policy that misrepresents its nature
 
 Make any misrepresentation for the purpose of inducing or attempting to induce any person to lapse, forfeit, change, or surrender any insurance policy
 
-What this means in practice: Telling a prospect that a policy "covers everything" when it has material exclusions, misquoting premium amounts, misrepresenting dividends on participating policies, or understating the surrender charges on a life policy to make switching sound more attractive are all violations of § 38.2-503.
+What this means in practice: Telling a prospect that a policy "covers everything" when it has material exclusions, misquoting premium amounts, misrepresenting dividends on participating policies, or understating the surrender charges on a life policy to make switching sound more attractive are all violations of § 38.2-502.
 
-## Twisting: § 38.2-503
+## Twisting: § 38.2-502
 
-Twisting — inducing a policyholder to lapse, surrender, or replace existing insurance by misrepresenting the existing policy's terms — is prohibited under the same misrepresentation section. The key element is misrepresentation about the existing coverage. Replacing existing insurance is not inherently a violation; misrepresenting it to induce the replacement is.
+Twisting — inducing a policyholder to lapse, surrender, or replace existing insurance by misrepresenting the existing policy's terms — is prohibited under the same misrepresentation section, § 38.2-502. The key element is misrepresentation about the existing coverage. Replacing existing insurance is not inherently a violation; misrepresenting it to induce the replacement is. (Twisting is also an independent ground for license action under § 38.2-1831.)
 
 Virginia's replacement regulations (applicable to life insurance) require specific disclosure when a new policy replaces existing coverage — a Notice Regarding Replacement must be provided, the replacing insurer must notify the existing insurer, and the client must be given a comparison document.
 
@@ -70,17 +72,21 @@ Compelling insureds to institute litigation to recover amounts due under policie
 
 Attempting to settle claims for less than the amount to which a reasonable person would believe they are entitled
 
-The "general business practice" requirement: Note that this section applies to conduct committed with such frequency as to indicate a general business practice. A single claim-handling error is not automatically a violation — the pattern of conduct matters. This standard applies primarily to insurers and adjusters; for individual producers, misrepresentation about claims falls under § 38.2-503.
+The "general business practice" requirement: Note that this section applies to conduct committed with such frequency as to indicate a general business practice. A single claim-handling error is not automatically a violation — the pattern of conduct matters. This standard applies primarily to insurers and adjusters; for individual producers, misrepresentation about claims falls under § 38.2-502.
 
 ## Additional Prohibitions
 
-Defamation (§ 38.2-505): Making, publishing, or circulating any false or maliciously critical statement about the financial condition of any insurer for the purpose of injuring anyone engaged in the insurance business.
+Defamation (§ 38.2-504): Making, publishing, disseminating, or circulating — or aiding or encouraging — any oral or written statement or literature that is false and maliciously critical of, or derogatory to, any person with respect to the business of insurance, and that is calculated to injure that person. Note the breadth: it is not limited to statements about an insurer's financial condition, and it reaches statements about competing producers, not just carriers.
 
-False advertising (§ 38.2-502): Making, issuing, or publishing any advertisement or announcement that contains a misrepresentation or is misleading.
+Boycott, coercion and intimidation (§ 38.2-505): Entering into any agreement to commit, or committing, any act of boycott, coercion, or intimidation resulting in or tending to result in unreasonable restraint of, or monopoly in, the business of insurance.
+
+False information and advertising generally (§ 38.2-503): Making, publishing, or circulating any advertisement, announcement, or statement containing an untrue, deceptive, or misleading assertion about the business of insurance or about any person conducting it.
+
+Misrepresentation in insurance documents (§ 38.2-512): Making false or fraudulent statements on or relative to an application or any insurance document or communication for the purpose of obtaining a fee, commission, money, or other benefit. The same section also prohibits affixing another person's signature to an insurance document without written authorization, or obtaining a signature by false pretense — the provision behind most forged-application cases.
 
 Unfair discrimination (§ 38.2-508): Discriminating between individuals of the same class and of essentially the same hazard in rates, terms, or conditions of policies. This prohibition addresses improper risk classification.
 
-Illegal inducements (§ 38.2-513): Making any contract of insurance or agreement as to such contract, other than as plainly expressed in the policy, or paying or offering to pay as inducement to insurance any rebate or bonus.
+Illegal inducements: Do not cite § 38.2-513 for this — that section has been repealed, and the section now occupying that number (§ 38.2-513.1) covers insurance sales by depository and other lending institutions, an unrelated subject. The operative inducement and rebate prohibition for producers is § 38.2-509, discussed above, with the related restriction on paying and sharing commissions at § 38.2-1812.
 
 Commission sharing with unlicensed persons: No producer may directly or indirectly share commissions with anyone not also licensed for the same class of insurance involved in the transaction.
 
@@ -88,7 +94,7 @@ Commission sharing with unlicensed persons: No producer may directly or indirect
 
 What is the legal distinction between twisting and churning under Virginia law?
 
-Twisting (§ 38.2-503) involves inducing a policyholder to replace existing coverage by misrepresenting the terms, benefits, or conditions of the existing policy. The misrepresentation element is what makes it a violation — replacing insurance is not itself prohibited. Churning refers to repeatedly replacing a policyholder's own coverage primarily for commission generation, without necessarily misrepresenting the existing policy. Virginia's statute does not use the term "churning" specifically, but repeated replacement transactions that appear designed primarily to generate new commissions rather than serve client needs raise misrepresentation and suitability concerns that the Bureau investigates under its broader market conduct authority. The distinction matters: twisting requires proving a specific misrepresentation; churning is more about pattern of conduct suggesting the replacements were not in the client's interest.
+Twisting (§ 38.2-502) involves inducing a policyholder to replace existing coverage by misrepresenting the terms, benefits, or conditions of the existing policy. The misrepresentation element is what makes it a violation — replacing insurance is not itself prohibited. Churning refers to repeatedly replacing a policyholder's own coverage primarily for commission generation, without necessarily misrepresenting the existing policy. Virginia's statute does not use the term "churning" specifically, but repeated replacement transactions that appear designed primarily to generate new commissions rather than serve client needs raise misrepresentation and suitability concerns that the Bureau investigates under its broader market conduct authority. The distinction matters: twisting requires proving a specific misrepresentation; churning is more about pattern of conduct suggesting the replacements were not in the client's interest.
 
 Can a Virginia producer offer a referral bonus to their existing clients for referring new clients?
 
@@ -108,4 +114,4 @@ The Bureau of Insurance has interpreted the rebating prohibition with practical 
 
 Virginia's unfair trade practices chapter is not complex in its core prohibitions — do not misrepresent, do not rebate, handle claims fairly, and do not defame competitors or misrepresent their financial condition. The complexity is in application: knowing exactly where the line falls between permissible promotion and prohibited inducement, and between legitimate replacement and unlawful twisting.
 
-Visit JustInsurance to enroll today and study Virginia's unfair trade practices framework with a state-approved course that covers Chapter 5 in the context of the Prometric licensing exam.
+Visit JustInsurance to enroll today and study Virginia's unfair trade practices framework with a course built to the current Prometric Virginia content outline that covers Chapter 5 in the context of the licensing exam.

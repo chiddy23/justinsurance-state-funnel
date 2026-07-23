@@ -63,7 +63,7 @@ Ethics CE supports that philosophy by making sure the ethical standards are fron
 
 ## Why This Matters for Your Career
 
-Ethics violations aren't just abstract concerns. They're the most common reason agents face license suspension or revocation in California. Most agents who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical line that their ethics CE was literally designed to prevent.
+Ethics violations aren't just abstract concerns. They're a frequent basis for CDI enforcement actions, including license suspension and revocation — and the conduct behind those actions is exactly what ethics CE is built to help you recognize and avoid before it becomes a problem.
 
 Taking ethics CE seriously is one of the cheapest forms of career insurance available.
 

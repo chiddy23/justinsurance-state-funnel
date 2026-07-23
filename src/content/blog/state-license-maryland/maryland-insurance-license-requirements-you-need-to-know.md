@@ -48,7 +48,7 @@ Also, don’t forget to pay attention to any changes in local regulations, since
 Below are answers to five frequently asked questions that often come up during the renewal process.
 
 Q1: How soon can I start my renewal process?  
-A1: You can typically begin your Maryland insurance license renewal once you’re within 60 days of your license expiration. However, it’s never too early to complete your CE and gather necessary materials, especially if your schedule is packed.
+A1: You can typically begin your Maryland insurance license renewal up to 90 days before your license expiration date. However, it’s never too early to complete your CE and gather necessary materials, especially if your schedule is packed.
 
 Q2: What should I do if I miss my renewal deadline?  
 A2: If you miss your renewal deadline, you may still be able to renew by paying a late fee, but your license could become inactive temporarily. In some cases, you might need to reapply and meet all the licensing requirements again, which is both time-consuming and costly.
@@ -60,7 +60,7 @@ Q4: How do I prove to the state that I completed my CE?
 A4: Most approved course providers automatically report your credits to the state. It’s smart, however, to keep your own records and completion certificates in case any discrepancies should arise.
 
 Q5: Do I have to take an exam for renewal?  
-A5: Generally, you don’t need to retake the initial licensing exam during renewal if you keep your license active and fulfill all CE requirements. If your license expires or if you shift into a new coverage line that you weren’t previously licensed for, there may be additional testing involved and you may need a fresh [Maryland prelicensing course](/maryland/prelicensing).
+A5: Generally, you don’t need to retake the initial licensing exam during renewal as long as you keep your license active and fulfill all CE requirements. If your license expires or you shift into a new coverage line you weren’t previously licensed for, you may need to sit for the Prometric exam covering that line. Maryland does not require a prelicensing course, though — [prelicensing education](/maryland/prelicensing) is optional exam prep here, never a state requirement.
 
 ## Achieve renewal with confidence
 

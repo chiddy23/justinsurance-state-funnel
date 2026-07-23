@@ -1,8 +1,8 @@
 ---
 title: Master the Illinois Insurance Licensing Process with Ease
 description: >-
-  Illinois insurance licensing process: what you need to know about prelicensing
-  hours, exam costs, background checks, and the state application process in
+  Illinois insurance licensing process, step by step: prelicensing hours, exam
+  costs, the background check, and the state application process.
 keyword: illinois insurance licensing process
 targetKeywords: illinois insurance licensing process
 cluster: state-license-illinois
@@ -14,8 +14,6 @@ image: /blog/images/master-the-illinois-insurance-licensing-process-with-ease.jp
 imageAlt: Family sitting on couch having a meeting with a real estate agent indoors.
 imageCredit: Photo by Alena Darmel on Pexels
 ---
-
-Master Description: Master the [Illinois insurance](/illinois) licensing process with friendly help so you can earn your license quickly.
 
 To begin your Illinois insurance licensing process, you need to confirm that you meet the state’s basic eligibility requirements. In most cases, you must be at least 18 years old and a resident of Illinois. You should also be prepared to pass a background check — Illinois does not require fingerprinting for most resident producer applicants, relying instead on the disclosure questions in your application.
 

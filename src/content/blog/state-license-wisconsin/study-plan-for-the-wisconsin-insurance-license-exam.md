@@ -42,7 +42,7 @@ Complete the OCI "Intermediary's Guide to Wisconsin Insurance Law" — the only 
 
 ## Phase 2: Wisconsin State Section Focus (Week 2) — The Differentiator
 
-Priority 1 — OCI and Chapter 628 (all exams; ~10-12 questions):
+Priority 1 — OCI, ch. 628, and licensing administration. On both the Life (Series 22-01) and Accident & Health or Sickness (Series 22-03) content outlines, Section 1.0 Insurance Regulation is 35% of the exam — 35 of 100 items. It is the largest block on either form, and nearly all of it is Wisconsin law.
 
 PLE facts:
 
@@ -66,15 +66,17 @@ $34.75; fieldprintwisconsin.com; code FPWIOCIInsurance; 180-day validity; two si
 
 Application facts:
 
-NIPR; $75/line; $5.60 transaction; 48-72 hr wait; 1-3 business day processing; 90-day documentation; 180-day apply window
+NIPR; $10 state license fee per application — per application, not per line — covering the exam lines (Life, Accident & Health, Property, Casualty, Personal Lines, Credit, Title); $5.60 transaction; 48-72 hr wait; 1-3 business day processing; 90-day documentation; 180-day apply window
+
+Fee trap worth memorizing: Wisconsin's $75-per-line-of-authority fee applies only to lines that require no exam — variable life and variable annuity, travel, crop, surety, legal expense, attorney title. It is not charged on the lines you sit an exam for, and it is not the same $75 as the PSI exam fee. Three different numbers get confused here: $10 (state license application), $75 (PSI exam, per exam), $34.75 (Fieldprint).
 
 Renewal facts:
 
 2 years; last day birth month; $35 resident; CE 24 hrs/3 Ethics; $1/credit hr reporting fee; no carryover; no duplicates; email notifications only (Feb 2021)
 
-Expired 12+ months: reapply $75/line; partial renewals not allowed
+Expired 12+ months: no reinstatement — relicense from scratch (prelicensing, exam, fingerprints, and the $10 application fee again); partial renewals not allowed
 
-Annuity Best Interest: 4-hr one-time (2021 Wis. Act; April 15, 2022); any state with similar laws; counts toward CE
+Annuity Best Interest: 4-hr one-time, under 2021 Wis. Act 260 — signed April 15, 2022, effective October 1, 2022, with an April 1, 2023 transition deadline for intermediaries already trained under the old suitability standard (they could instead take the 1-hr refresher); training completed in a state with substantially similar requirements is accepted; counts toward CE
 
 Priority 2 — L&H Wisconsin items:
 
@@ -86,7 +88,7 @@ No WI individual mandate
 
 LTC training: 8-hr initial (2 hrs WI Medicaid-specific); 4-hr refresher (1 hr WI Medicaid-specific)
 
-Annuity Best Interest: 4-hr one-time (April 15, 2022)
+Annuity Best Interest: 4-hr one-time (2021 Wis. Act 260 — effective October 1, 2022; April 1, 2023 transition deadline). April 15, 2022 is the date the bill was signed, not the date the requirement took effect — don't confuse the two on the exam.
 
 Priority 2 — P&C Wisconsin items:
 
@@ -94,7 +96,9 @@ Auto minimums: 25/50/10 — at-fault state
 
 Modified comparative negligence: 51% bar (Wis. Stat. § 895.045) — >50% fault = barred; ≤50% = reduced proportionally
 
-UM required: 25/50 BI; stacking allowed; UIM optional
+UM required: 25/50 BI (Wis. Stat. § 632.32(4)); UIM optional since 2011 Wis. Act 14 — insurer must offer, insured may reject
+
+Stacking NOT required: 2011 Wis. Act 14 removed mandatory stacking, and Wis. Stat. § 632.32(5)(f) lets a policy state that limits for other vehicles may not be added together. Anti-stacking language is enforceable and standard — whether limits stack is a policy-language question, not a statutory one.
 
 No PIP requirement
 
@@ -105,6 +109,24 @@ Chapter 102; WC Act adopted 1911; nearly all employers covered; DWD administers 
 Exemptions: domestic servants; some farm employees; volunteers ≤$10/week; religious sect; Native American tribal enterprises
 
 ## Wisconsin State Law Quick Reference — Numbers to Memorize
+
+Exam form: 100 questions, 2-hour limit, 70% to pass — Life is Series 22-01, Accident & Health or Sickness is Series 22-03, and both are integrated "General and State" exams with a single combined score
+
+Section 1.0 Insurance Regulation: 35% — 35 of 100 items on both outlines
+
+PSI exam fee: $75 per exam (the public adjuster exam is the lone exception at $50)
+
+Fingerprints: $34.75 through Fieldprint, service code FPWIOCIInsurance, results valid 180 days
+
+State license application fee: $10 per application for exam lines, filed through NIPR
+
+Prelicensing: 20 hours per line (8-hour common section plus 12-hour line section); certificate valid 1 year
+
+CE: 24 hours every 2 years, 3 of them ethics
+
+Annuity Best Interest: 4-hour one-time course before soliciting any annuity; intermediaries already trained under the old suitability standard before October 1, 2022 had until April 1, 2023 to take the 4-hour course or a 1-hour refresher
+
+LTC: 8-hour initial course with 2 hours of Wisconsin-specific Medicaid and long-term care content; 4-hour course each renewal period with 1 hour Wisconsin-specific
 
 ## Common Study Mistakes for WI Exams
 
@@ -150,10 +172,10 @@ Score displayed at end; select End Exam AND End Survey to receive results
 - What is the #1 Wisconsin-specific state law topic to master for L&H? BadgerCare Plus partial expansion — adults at or below 100% FPL (not 138%). Adults from 100-138% FPL go to Healthcare.gov marketplace with federal subsidies. This threshold difference from all other comparison states is the most specifically Wisconsin and most consistently testable A&H state section fact.
 - What is the #1 Wisconsin-specific state law topic to master for P&C? WCRB (Wisconsin Compensation Rating Bureau) — Wisconsin uses its own independent bureau (NOT NCCI); rates are approximately 32% above the national average. This is the most distinctively Wisconsin P&C state law topic — particularly important because most generic study materials use "NCCI" throughout their workers' comp content.
 - Does the retake wait affect study strategy? Somewhat — Wisconsin's roughly 2-calendar-day mandatory wait before rescheduling is short enough that candidates can still treat a first attempt as a diagnostic check-in without losing much momentum. Candidates can review the diagnostic report during that short window and identify weak areas before the next attempt. However, each retake costs $75 — so balancing preparation thoroughness against the $75 per attempt cost is the strategic consideration.
-- How many Wisconsin-specific questions should I expect on each exam? Approximately 20-25 of 100 questions are Wisconsin state section questions — approximately 20-25%. Scoring 70% on 25 state questions requires getting at least 18 correct. Candidates who score 0% on the state section need 100% on 75 national questions to pass — practically impossible. Target 85%+ on Wisconsin state section [practice questions](/wisconsin/practice-exam) specifically.
+- How many Wisconsin-specific questions should I expect on each exam? More than most candidates plan for. Wisconsin does not give you a separate state exam or a separate state score — Life (22-01) and Accident & Health or Sickness (22-03) are single integrated "General and State" forms, 100 questions in 2 hours, one combined result. On both outlines, Section 1.0 Insurance Regulation is 35% of the exam, or 35 of 100 items, and it is overwhelmingly Wisconsin material: ch. 628 licensing, the Commissioner's powers and penalties, the Wisconsin Insurance Security Fund, Wisconsin marketing and claims-practice rules, and the Wisconsin statutes specific to your line. Only a short federal subsection (FCRA, 18 USC 1033/1034, and HIPAA on the A&H form) sits inside that block. The arithmetic is unforgiving: miss every regulation item and your ceiling is 65 — you cannot reach 70 no matter how well you do on the other 65 questions. Treat Wisconsin law as roughly a third of the exam and drill it with Wisconsin [practice questions](/wisconsin/practice-exam) rather than generic national banks.
 
 ## Build Your Wisconsin Study Plan Right
 
-Wisconsin's state section has genuinely distinctive content — BadgerCare Plus, LTC WI Medicaid, WCRB, Annuity Best Interest — that rewards specific Wisconsin preparation. JustInsurance's OCI-approved Wisconsin courses cover the full PSI content outline with Wisconsin state law depth.
+Wisconsin's state section has genuinely distinctive content — BadgerCare Plus, LTC WI Medicaid, WCRB, Annuity Best Interest — that rewards specific Wisconsin preparation. JustInsurance's OCI-approved Wisconsin prelicensing courses cover the Life and Accident & Health lines — the full PSI content outline for those exams, with Wisconsin state law depth. (Property and Casualty prelicensing is offered by other OCI-approved providers, not JustInsurance.)
 
-Enroll today and prepare for the Wisconsin exam efficiently.
+Enroll today and prepare for your Wisconsin L&H exam efficiently.

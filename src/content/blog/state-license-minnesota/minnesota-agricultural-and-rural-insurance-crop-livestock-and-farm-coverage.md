@@ -132,7 +132,7 @@ Specialty vegetable and fruit operations: Smaller specialty vegetable, fruit, an
 
 Selling federally backed crop insurance requires specific licensing and appointment:
 
-State insurance license: Crop insurance agents in Minnesota must hold a Property line of authority from the Minnesota Department of Commerce — the same Property license required for homeowners and commercial property coverage. This is a standard insurance producer license obtained through the normal [prelicensing](/minnesota/prelicensing), exam, and application process.
+State insurance license: Crop insurance agents in Minnesota must hold a Property line of authority from the Minnesota Department of Commerce — the same Property license required for homeowners and commercial property coverage. This is a standard insurance producer license obtained through the normal prelicensing, exam, and application process.
 
 Federal licensing requirement: In addition to the state license, crop insurance agents must pass the federal crop insurance agent basic qualification test administered through the Approved Insurance Provider's onboarding process. This is a separate examination from the Minnesota state exam.
 
@@ -168,4 +168,4 @@ The federal subsidy economics answer this question definitively for most produce
 
 Minnesota's agricultural insurance market — $10.9 billion in federal crop insurance liability, $2.7 billion in private crop-hail, and the full complement of dairy, livestock, and farm property coverage across one of the most productive agricultural states in the country — represents a substantial, recurring, relationship-driven insurance career opportunity for producers who develop the specialized knowledge and the March 15 discipline that the agricultural insurance market rewards.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course — including the Property line authority that qualifies you to enter the agricultural insurance market.
+Entering Minnesota's agricultural insurance market starts with the Property line of authority. Complete a state-approved property pre-licensing course and study to the current PSI content outline. Once you are licensed, JustInsurance offers Minnesota property and casualty [continuing education](/minnesota/continuing-education) to keep your authority current at every renewal.

@@ -54,7 +54,11 @@ Common course formats you can choose from include:
 3.  On-demand online classes
 4.  Correspondence or self-study modules
 
-Sampling different methods keeps things fresh and allows you to focus on the format that best fits your schedule and learning style.
+One rule shapes how far down that list you can lean. TDI requires that at least half your CE hours be earned in a classroom or classroom-equivalent environment — and, stated from the other direction, no more than half your credits can be in the instruction method of self-study. A plan built entirely from correspondence or plain self-study modules will leave you non-compliant even if the courses are TDI-approved and the total hours add up.
+
+Classroom equivalent is a specific registration status, not a description of how a course feels. Under 28 TAC §19.1009(h), a classroom-equivalent course has to build in interactive question periods and authenticate the student periodically, which is why plenty of high-quality online courses qualify and plenty of others do not. The instruction method is listed with the course on Sircon, so check it there before you enroll rather than assuming from the course page.
+
+Sampling different methods keeps things fresh and allows you to focus on the format that best fits your schedule and learning style — just track the classroom-equivalent and self-study split as you go, the same way you track total hours.
 
 ## Maintain your compliance
 
@@ -73,7 +77,7 @@ The goal is to seamlessly integrate education into your professional routine so 
 Below are some common questions that pop up when agents begin meeting their CE obligations. If you have a particular concern not listed here, you can always reach out to your chosen course provider or check the TDI’s official website for more detailed guidance.
 
 1.  Do I have to complete all my credits in one format?  
-    No. You’re free to mix and match formats like classroom, online, and self-study. As long as the courses are TDI-approved and you fulfill your total hours, you’ll stay compliant.
+    No, but the mix is regulated. You can combine classroom, online, and self-study, and TDI requires that at least half your hours be earned in a classroom or classroom-equivalent environment. On the other side of the same rule, no more than half your credits may carry the instruction method of “self-study.” Hitting your total hours in TDI-approved courses is therefore not enough on its own — the format split has to work out too.
 2.  How far in advance should I start earning credits?  
     Ideally, begin earning credits after each renewal cycle starts. This staggered approach keeps the process manageable and helps you gain new knowledge gradually.
 3.  What if I forget to renew my license on time?  

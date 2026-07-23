@@ -22,7 +22,11 @@ Here's what South Carolina producers should know about building a coastal insura
 
 ## South Carolina's Coastal Insurance Landscape
 
-South Carolina's coast spans six coastal counties:
+Two different geographies matter here, and producers who blur them give clients bad answers.
+
+South Carolina's insurance code defines a "seacoast area" covering eight counties — Horry, Georgetown, Berkeley, Charleston, Dorchester, Colleton, Beaufort, and Jasper (S.C. Code § 38-75-310). That is the broad regulatory footprint, and it reaches inland to Berkeley and Dorchester.
+
+Six of those counties front the Atlantic or its tidal waters, and they carry the bulk of the beachfront and near-shore property business:
 
 Horry County (Myrtle Beach, North Myrtle Beach, Grand Strand)
 
@@ -34,9 +38,9 @@ Colleton County (Edisto Beach area)
 
 Beaufort County (Hilton Head Island, Bluffton, Beaufort, Sea Islands)
 
-Jasper County (Hardeeville, southern coastal area)
+Jasper County (Hardeeville and the state's southern tidal edge — inside the seacoast area, but outside the wind pool's eligible territory)
 
-These counties contain substantial residential, vacation, and commercial property requiring specialty coverage that inland markets don't need.
+These counties contain substantial residential, vacation, and commercial property requiring specialty coverage that inland markets don't need. Note that the wind pool's own eligibility territory — the statutory "coastal area" — is narrower still, and is described in the next section.
 
 ## Coastal Insurance Challenges
 
@@ -58,23 +62,23 @@ Tropical depression activity. Even non-hurricane tropical systems cause routine 
 
 These challenges mean coastal insurance is genuinely more complex than inland coverage.
 
-## The South Carolina Wind and Hail Underwriting Association (SCWHA)
+## The South Carolina Wind and Hail Underwriting Association (SCWHUA)
 
-A central feature of South Carolina coastal insurance is the South Carolina Wind and Hail Underwriting Association (SCWHA) — commonly called the "Beach Plan."
+A central feature of South Carolina coastal insurance is the South Carolina Wind and Hail Underwriting Association (SCWHUA) — commonly called the "Beach Plan."
 
-What SCWHA is. A residual market mechanism providing wind and hail coverage for coastal properties when the standard market is unwilling to provide such coverage.
+What SCWHUA is. A residual market mechanism providing wind and hail coverage for coastal properties when the standard market is unwilling to provide such coverage.
 
-Coverage area. Generally available for properties in designated coastal wind zones in the six coastal counties listed above.
+Coverage area. Eligibility is not county-wide and does not follow the eight-county seacoast area. S.C. Code § 38-75-310 defines a narrower "coastal area" made up of specifically described territories in five counties — Beaufort, Charleston, Colleton, Georgetown, and Horry — drawn by landmarks such as the intracoastal waterway, U.S. Highway 17, and named islands and creeks. Jasper County is inside the seacoast area but outside the statutory coastal area, so a Hardeeville risk is not a wind pool risk. Always confirm a specific address against the current eligible territory rather than assuming the county qualifies.
 
-What SCWHA covers. Wind and hail damage specifically — not other perils. Property owners typically need separate companion policies for fire, theft, and other coverage.
+What SCWHUA covers. Wind and hail damage specifically — not other perils. Property owners typically need separate companion policies for fire, theft, and other coverage.
 
-Companion policies. Property owners with SCWHA wind coverage typically maintain a separate ex-wind homeowners policy from a standard market carrier covering perils other than wind/hail.
+Companion policies. Property owners with SCWHUA wind coverage typically maintain a separate ex-wind homeowners policy from a standard market carrier covering perils other than wind/hail.
 
 Eligibility. Properties must be in eligible coastal areas and meet specific underwriting requirements.
 
-Premium structure. SCWHA premiums reflect the substantial wind exposure and are typically higher than standard market wind coverage where available.
+Premium structure. SCWHUA premiums reflect the substantial wind exposure and are typically higher than standard market wind coverage where available.
 
-For coastal property agents, understanding SCWHA — when it applies, how it interacts with other coverage, and how to coordinate companion policies — is foundational.
+For coastal property agents, understanding SCWHUA — when it applies, how it interacts with other coverage, and how to coordinate companion policies — is foundational.
 
 ## Hurricane Deductibles
 
@@ -116,7 +120,7 @@ Coastal South Carolina insurance involves specific carrier landscapes:
 
 Standard market carriers writing coastal coverage. Some standard market carriers continue to write coastal SC coverage with appropriate underwriting and pricing. Allstate, State Farm, Nationwide, USAA, and various others may write coastal property depending on specific location and risk factors.
 
-SCWHA participation. Most coastal property agents will use SCWHA for wind coverage in eligible areas, paired with companion ex-wind policies.
+SCWHUA participation. Most coastal property agents will use SCWHUA for wind coverage in eligible areas, paired with companion ex-wind policies.
 
 Surplus lines carriers. For complex coastal risks, surplus lines carriers provide specialty coverage. These carriers operate outside standard admitted market regulation.
 
@@ -128,7 +132,7 @@ Different carrier relationships fit different coastal market segments.
 
 ## Building a Coastal Specialty Practice
 
-Step 1: Develop genuine expertise. Coastal insurance involves substantially more product complexity than inland coverage. Master SCWHA, hurricane deductibles, flood insurance, and how coverage components interact.
+Step 1: Develop genuine expertise. Coastal insurance involves substantially more product complexity than inland coverage. Master SCWHUA, hurricane deductibles, flood insurance, and how coverage components interact.
 
 Step 2: Choose your geographic and market focus. Affluent Hilton Head? Working-class Myrtle Beach? Mount Pleasant family market? Different coastal markets need different approaches.
 
@@ -140,7 +144,7 @@ Step 5: Partner with complementary professionals. Real estate agents (especially
 
 Step 6: Develop service infrastructure. Coastal practice involves substantial service intensity — claim assistance during storm events, hurricane preparation guidance, ongoing coverage review as properties change.
 
-Step 7: Stay current on coastal regulation. Coastal insurance regulation evolves. SCDOI bulletins, SCWHA changes, and federal flood program updates all matter.
+Step 7: Stay current on coastal regulation. Coastal insurance regulation evolves. SCDOI bulletins, SCWHUA changes, and federal flood program updates all matter.
 
 ## High-Net-Worth Coastal Markets
 
@@ -194,9 +198,9 @@ Service intensity. Coastal practice requires substantial service infrastructure 
 
 Storm season volatility. Hurricane events create surge claim activity affecting practice rhythm.
 
-Established South Carolina coastal practices commonly produce $130,000-$280,000+ in annual income, with top HNW coastal practices earning substantially more. This reflects commission-based earning potential for an established, specialized book of business — distinct from broader statewide labor-statistics averages for insurance sales agents.
+Established South Carolina coastal practices can generate meaningfully higher per-client revenue than comparable inland books, driven by higher coastal premiums, strong long-term renewals, and cross-sell across homeowners, flood, umbrella, auto, and life. Actual income varies widely with book size, commission structure, carrier mix, and years in practice, and is not directly comparable to broad statewide labor-statistics averages for insurance sales agents.
 
-*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+*Earnings depend on individual effort, book of business, and market conditions; there is no guarantee of income and individual results vary.*
 
 ## Compliance Considerations
 
@@ -206,7 +210,7 @@ Hurricane deductible disclosures. Clear documentation of disclosure provided.
 
 Flood insurance disclosures. Required disclosures about flood coverage limitations.
 
-SCWHA process compliance. Following proper SCWHA application and renewal procedures.
+SCWHUA process compliance. Following proper SCWHUA application and renewal procedures.
 
 Replacement scrutiny. Coastal coverage replacement can be complex with multiple carrier coordination.
 
@@ -218,14 +222,14 @@ SCDOI regulatory compliance. All standard SCDOI requirements apply.
 
 ## 5 Frequently Asked Questions
 
-- What is the South Carolina Wind and Hail Underwriting Association? SCWHA (often called the "Beach Plan") is South Carolina's residual market mechanism providing wind and hail coverage for coastal properties when standard market coverage isn't available. Property owners typically pair SCWHA wind coverage with separate ex-wind homeowners policies.
+- What is the South Carolina Wind and Hail Underwriting Association? SCWHUA (often called the "Beach Plan" or the wind pool) is South Carolina's residual market mechanism providing wind and hail coverage when standard market coverage isn't available. It writes only inside the statutory "coastal area" defined at S.C. Code § 38-75-310 — described territories within Beaufort, Charleston, Colleton, Georgetown, and Horry counties, not entire counties and not the whole eight-county seacoast area. Property owners typically pair SCWHUA wind coverage with separate ex-wind homeowners policies.
 - What's a hurricane deductible? Hurricane deductibles are percentage-based deductibles (typically 1-5% of dwelling value) applying when named tropical storms or hurricanes affect the property's area. They produce lower premiums but greater out-of-pocket exposure during storms.
 - Do all South Carolina coastal properties need flood insurance? Most coastal properties need flood insurance, particularly those in designated flood zones. Lenders typically require flood insurance for high-risk flood zone properties. Even properties in low-risk zones may benefit from flood coverage.
 - Can I sell coastal insurance without being a coastal specialist? Possible for occasional coastal clients, but genuine coastal practice requires specialty expertise. Casual coverage often fails clients with complex coastal needs.
-- What's the income potential in coastal South Carolina insurance practice? Established coastal practices commonly produce $130,000-$280,000+ annually. Top high-net-worth coastal specialists in markets like Hilton Head can earn substantially more. These figures are illustrative and not a guarantee of earnings; individual results vary.
+- What's the income potential in coastal South Carolina insurance practice? It varies widely. Coastal practices can generate meaningfully higher per-client revenue than comparable inland books, driven by higher coastal premiums, strong long-term renewals, and cross-sell across homeowners, flood, umbrella, auto, and life. Actual income depends on book size, commission structure, carrier mix, and years in practice — JustInsurance does not track or represent typical earnings for South Carolina coastal producers, and there is no guarantee of income.
 
 ## Build Your South Carolina Coastal Insurance Practice
 
-South Carolina's coast offers exceptional specialty opportunity for properly trained agents. At JustInsurance — SCDOI Provider #500031569 — our South Carolina exam prep and CE courses prepare you for foundational practice excellence.
+South Carolina's coast offers exceptional specialty opportunity for properly trained agents. At JustInsurance — SCDOI Provider #500031569 — our South Carolina property and casualty continuing education courses help licensed agents build the coastal home and wind coverage expertise this niche demands.
 
 Enroll today and start building toward South Carolina coastal insurance specialty practice.

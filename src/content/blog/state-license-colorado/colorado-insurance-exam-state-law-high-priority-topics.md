@@ -1,6 +1,6 @@
 ---
 title: "Colorado Insurance Exam State Law: High-Priority Topics"
-description: Every Colorado insurance licensing exam — Life, Accident & Health, Property, Casualty, and Personal Lines — contains a state-specific section that accou...
+description: Every Colorado insurance licensing exam carries a Colorado-specific section worth roughly a third of your scored questions. Here is every high-priority state law topic, with citations.
 keyword: colorado insurance exam state law highpriority topics
 targetKeywords: colorado insurance exam state law highpriority topics
 cluster: state-license-colorado
@@ -12,13 +12,23 @@ image: /blog/images/your-ultimate-guide-to-colorado-insurance-license-renewal.jp
 imageAlt: "Colorado Insurance Exam State Law: High-Priority Topics"
 ---
 
-Every Colorado insurance licensing exam — Life, Accident & Health, Property, Casualty, and Personal Lines — contains a state-specific section that accounts for 37.5% of your total scored questions. On Life and A&H that is 30 of 80 scored questions. On Personal Lines it is 29 of 104. Regardless of which line you are pursuing, the state section is the single most consequential factor separating passing scores from failing ones among well-prepared candidates. Most candidates who fail were not weak on product knowledge. They were unprepared for the state section. This post is the master reference for every high-priority state law topic that appears across all Colorado licensing exams — with the specific definitions, statutory citations, and scenario applications the exam actually tests.
+Every Colorado insurance licensing exam — Life, Accident & Health, Property, Casualty, and Personal Lines — contains a Colorado-specific section, and on every line it is worth somewhere between a quarter and nearly two-fifths of your scored questions. Per the Pearson VUE Colorado content outlines:
+
+- Life: 50 general + 30 Colorado-specific = 80 scored questions. The state section is 37.5%.
+- Accident & Health: 50 general + 30 Colorado-specific = 80 scored questions. The state section is 37.5%.
+- Property: 50 general + 25 Colorado-specific = 75 scored questions. The state section is 33%.
+- Casualty: 50 general + 31 Colorado-specific = 81 scored questions. The state section is 38%.
+- Personal Lines: 75 general + 29 Colorado-specific = 104 scored questions. The state section is 28%.
+
+(Each exam also carries a handful of unscored pretest questions on top of these counts.)
+
+Regardless of which line you are pursuing, the state section is the single most consequential factor separating passing scores from failing ones among well-prepared candidates. Most candidates who fail were not weak on product knowledge. They were unprepared for the state section. This post is the master reference for every high-priority state law topic that appears across all Colorado licensing exams — with the specific definitions, statutory citations, and scenario applications the exam actually tests.
 
 ## Why the State Section Decides Your Score
 
-The arithmetic is straightforward and routinely underestimated. Your Colorado [prelicensing](/colorado/prelicensing) course spends 40 of 50 hours on general insurance content and 10 hours on Colorado-specific material. Yet the state section generates 37.5% of your scored questions. That ratio — 20% of your study time producing 37.5% of your exam score — is the structural imbalance that causes prepared candidates to fail.
+The arithmetic is straightforward and routinely underestimated. Colorado's 50-hour [prelicensing](/colorado/prelicensing) requirement leaves most candidates spending the large majority of their study time on general insurance content and only a small slice on Colorado-specific material. Yet on the Life and A&H exams the state section generates 37.5% of your scored questions, and on Casualty it is higher still. That imbalance — a fraction of your study time producing better than a third of your exam score — is what causes prepared candidates to fail.
 
-The state section divides into two parts on every exam. Section I covers Colorado statutes common to all lines — the same 19–20 questions regardless of whether you are taking Life, A&H, Property, Casualty, or Personal Lines. Section II covers line-specific Colorado statutes — 10–11 questions that differ by exam line. Section I alone represents approximately two-thirds of the entire state section. Master it once and it transfers to every line.
+The state section divides into two parts on every exam. Section I covers Colorado statutes common to all lines — 19 or 20 questions regardless of whether you are taking Life, A&H, Property, Casualty, or Personal Lines. Everything after Section I covers line-specific Colorado statutes, and that portion ranges from 6 questions on Property to 12 on Casualty. Section I alone is roughly two-thirds of the entire state section on every line. Master it once and it transfers to every line.
 
 The Pearson VUE content outline is the authoritative map. Every topic below traces directly to its published content outline reference.
 
@@ -170,11 +180,15 @@ Scenario: "An insurer systematically delays acknowledging claims for several wee
 
 H. Colorado Fraud Statute (10-1-128; 10-1-129)
 
-Willfully making a false statement in any insurance application, policy, or claim document. Criminal penalties:
+CRS 10-1-128 defines the fraudulent insurance act: knowingly and with intent to defraud presenting, causing to be presented, or preparing false material information in an insurance application or claim — or knowingly concealing material information. CRS 10-1-129 gives the Attorney General concurrent jurisdiction with district attorneys to prosecute it.
 
-Amounts over $1,000: Class 5 felony
+The criminal penalties live in the criminal code, at CRS 18-5-211, and they are classified by the *type* of fraudulent act — not by a dollar amount. There is no dollar threshold in the statute:
 
-Amounts $1,000 or less: Class 1 misdemeanor
+Fraudulent statement in an application or request for insurance (18-5-211(1)(a)): class 2 misdemeanor
+
+False claims, false certificates, and the other means of defrauding an insurer (18-5-211(1)(b) through (1)(e) and (3)): class 6 felony
+
+Knowingly diverting or misappropriating premium funds without authorization (18-5-211(2)): class 5 felony
 
 Both the person who submits the fraudulent document AND anyone who knowingly assists are liable
 
@@ -186,7 +200,7 @@ Section II differs by exam line. These are the topics that generate the most que
 
 ### Life Exam — Line-Specific Priorities
 
-1. Annuity Best Interest Standard (Reg. 4-1-8; 4-1-11; 4-1-12) — Highest priority
+1. Annuity Best Interest Standard (Reg. 4-1-11; 4-1-12) — Highest priority
 
 Before selling any annuity in Colorado, a producer must complete a one-time 4-hour Annuity Best Interest course. This requirement applies to resident and non-resident producers and took effect November 1, 2022.
 
@@ -208,7 +222,9 @@ Twisting — inducing replacement through misrepresentation — is prohibited an
 
 3. Suicide Clause (10-7-109)
 
-If the insured dies by suicide within 2 years of policy issuance (whether sane or insane), the insurer's liability is limited to returning the premiums paid. After 2 years, the full death benefit is payable regardless of manner of death.
+Colorado is a **one-year** suicide state, and this is a classic trap for candidates who learned the two-year rule used in most other jurisdictions. CRS 10-7-109 provides that suicide after the first policy year is "no defense against the payment" of the policy — whether the suicide was voluntary or involuntary, and whether the insured was sane or insane. A suicide exclusion drafted to run two years is unenforceable in Colorado; the Colorado Supreme Court so held in *Amica Life Insurance Co. v. Wertz* (Colo. 2020), applying the one-year limit in CRS 10-7-109. (The separate 2018 decision in *Renfandt v. New York Life Insurance Co.* addressed a different question — that a "sane or insane" suicide exclusion applies only where the insured actually intended to take their own life.) The exclusion therefore reaches only the first policy year, during which the insurer's liability is limited to a return of premiums paid.
+
+Note the carve-out in the statute: it does not apply to accident policies, or to the accidental-death provisions of a life policy.
 
 4. Group Life Conversion (10-7-201 through 207)
 
@@ -250,7 +266,7 @@ Colorado health insurance producers must disclose their compensation to consumer
 
 1. Cancellation and Nonrenewal Notice Requirements
 
-Colorado statute requires insurers to provide advance written notice before cancelling or nonrenewing a property policy. Mid-term cancellation by the insurer after the first 60 days of the policy period is restricted to specific reasons: nonpayment of premium, fraud or material misrepresentation, and substantial change in risk. Nonrenewal requires advance notice — typically at least 30 days before expiration. Cancellation for nonpayment typically requires less notice than cancellation for other reasons.
+Colorado statute requires insurers to provide advance written notice before cancelling or nonrenewing a property policy. Mid-term cancellation by the insurer after the first 60 days of the policy period is restricted to specific reasons: nonpayment of premium, fraud or material misrepresentation, and substantial change in risk. For homeowner's insurance, nonrenewal requires at least 60 days' advance written notice before expiration for any reason other than nonpayment of premium — a period Colorado extended from 30 to 60 days in HB23-1174 (2023), codified at CRS 10-4-110.7. Cancellation for nonpayment typically requires less notice than cancellation for other reasons.
 
 2. Colorado FAIR Plan Association
 
@@ -282,7 +298,7 @@ Before selling any claims-made liability policy in Colorado, a producer must com
 
 1. Colorado Auto Minimums and Modified Comparative Negligence
 
-Same auto minimums as Casualty: 25/50/15. UM/UIM default-included, optional to reject in writing. Colorado follows modified comparative negligence with a 50% bar — a plaintiff who is 50% or less at fault recovers (reduced proportionally); a plaintiff more than 50% at fault is barred entirely. This differs sharply from Virginia's pure contributory negligence (any fault bars all recovery).
+Same auto minimums as Casualty: 25/50/15. UM/UIM default-included, optional to reject in writing. Colorado follows modified comparative negligence with a 50% bar, codified at CRS § 13-21-111: contributory negligence does not bar recovery only where the plaintiff's negligence "was not as great as" the negligence of the party they are suing. Read that language literally, because the exam does — the plaintiff must be *under* 50% at fault. A plaintiff who is 49% at fault recovers 51% of their damages; a plaintiff who is exactly 50% at fault recovers nothing, and so does anyone above 50%. The tie goes to the defendant. Candidates who memorize "50% or less recovers" get this question wrong, because that describes the 51% bar rule used in other states, not Colorado's. This also differs sharply from Virginia's pure contributory negligence (any fault bars all recovery).
 
 2. Colorado FAIR Plan Association
 
@@ -326,7 +342,9 @@ The CRS citations in the Pearson VUE content outline are your verification tool,
 
 What happens if I ignore the state section and focus only on general product knowledge?
 
-You fail. The data from Colorado's state section structure makes this outcome mathematically predictable. A candidate who scores 90% on the 50-question general section (45 correct) but only 50% on the 30-question state section (15 correct) scores 60 correct of 80 total — a 75% overall score that barely passes. A candidate who scores 80% on general (40 correct) and only 40% on state (12 correct) scores 52 of 80 — a failing 65%. The state section is not a bonus round. It is the portion of the exam most tightly correlated with the candidate's Colorado-specific preparation quality, and it has historically been the primary failure driver for candidates with strong general insurance backgrounds who underinvested in the Colorado-specific curriculum.
+You fail — and you cannot talk yourself out of it with arithmetic, because Colorado does not score the exam as a raw percentage. Pearson VUE equates each exam form to correct for differences in difficulty, then converts your raw score to a scaled score on a 0–100 range with 70 as the cut. The Colorado candidate handbook is explicit about what that reported number is not: the scaled score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Numeric scores are only released to candidates who fail. So there is no fixed number of correct answers that guarantees a pass — the raw score behind the cut shifts slightly from form to form.
+
+What does not shift is where the questions live, and that is the part candidates can control. On the Life exam, 30 of the 80 scored questions are Colorado-specific. Walk in strong on general content and weak on state law and you are conceding a block of questions large enough that general-section accuracy cannot reliably absorb it: half the state section is 15 questions surrendered before your general performance is even counted. On Casualty the exposure is larger still — 31 of 81 scored questions are Colorado-specific. The state section is not a bonus round. It is the portion of the exam most tightly correlated with the candidate's Colorado-specific preparation quality, and it has historically been the primary failure driver for candidates with strong general insurance backgrounds who underinvested in the Colorado-specific curriculum.
 
 The Colorado state section rewards one specific type of preparation: deliberate, definitions-based study of precisely identified prohibited acts, producer obligations, and line-specific Colorado rules. No amount of general product knowledge substitutes for it. Candidates who treat the state section as the primary study target — and the general section as the secondary — consistently perform better than candidates who do the opposite.
 

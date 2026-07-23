@@ -84,7 +84,7 @@ Senior market depth. Michigan has a substantial senior population — particular
 
 Michigan has generally favorable financial characteristics for producers:
 
-State income tax. Michigan has a flat 4.05% state income tax rate — reduced from a prior higher rate and among the more favorable flat rates in the Midwest. This rate is meaningfully lower than Indiana (3.15% but higher effective), Illinois (4.95%), Ohio (graduated), Wisconsin (graduated to 7.65%), and Minnesota (graduated to 9.85%).
+State income tax. Michigan has a flat 4.25% state income tax rate — a single flat rate that is simpler than the graduated brackets used by several neighbors. It sits below Illinois's 4.95% flat rate and well below the top graduated rates in Wisconsin (7.65%) and Minnesota (9.85%). Indiana's flat state rate is actually lower (roughly 3% and still phasing down), but Indiana counties add their own local income taxes of about 0.5%–3% on top, and Ohio uses a graduated structure.
 
 Local income taxes. Several Michigan cities — including Detroit, Grand Rapids, Saginaw, Flint, and others — impose city income taxes. Detroit's rate is notable at approximately 2.4% for residents (1.2% for non-residents). City income taxes should be factored into metro Detroit income calculations.
 
@@ -108,7 +108,7 @@ Sales tax. 6% statewide, no local sales taxes.
 
 No estate tax. Michigan does not have a separate state estate tax.
 
-The flat 4.05% income tax combined with generally moderate cost of living outside the Detroit city core means Michigan nominal incomes translate favorably to take-home purchasing power — particularly compared to Illinois, Wisconsin, and Minnesota neighbors.
+The flat 4.25% income tax combined with generally moderate cost of living outside the Detroit city core means Michigan nominal incomes translate favorably to take-home purchasing power — particularly compared to Illinois, Wisconsin, and Minnesota neighbors.
 
 ## Year-One Reality
 
@@ -164,9 +164,9 @@ Military specialty. Fort Custer Training Center and other Michigan military faci
 
 ## 5 Frequently Asked Questions
 
-- Is Michigan a good state for insurance agent income? Yes, with appropriate context. Michigan's automotive industry wealth, substantial senior population, and genuine no-fault auto complexity create real income opportunity — particularly in Oakland County and the Grand Rapids corridor. The flat 4.05% income tax and moderate cost of living (outside city of Detroit and select affluent suburbs) translate income well to take-home purchasing power.
+- Is Michigan a good state for insurance agent income? Yes, with appropriate context. Michigan's automotive industry wealth, substantial senior population, and genuine no-fault auto complexity create real income opportunity — particularly in Oakland County and the Grand Rapids corridor. The flat 4.25% income tax and moderate cost of living (outside city of Detroit and select affluent suburbs) translate income well to take-home purchasing power.
 - How long does it take to earn a full-time income as a Michigan agent? Most serious agents reach full-time income levels within 12-18 months. Agents with strong automotive industry connections, Grand Rapids business community ties, or niche focus (senior, healthcare, no-fault specialty) can accelerate this timeline.
-- Do Michigan agents pay state income tax on commissions? Yes. Michigan has a flat 4.05% state income tax on all income including commissions. Agents in Detroit, Grand Rapids, and several other Michigan cities also pay local city income taxes — Detroit residents at approximately 2.4%.
+- Do Michigan agents pay state income tax on commissions? Yes. Michigan has a flat 4.25% state income tax on all income including commissions. Agents in Detroit, Grand Rapids, and several other Michigan cities also pay local city income taxes — Detroit residents at approximately 2.4%.
 - What's a realistic first-year income for a new Michigan agent? Most new agents earn between $36,510 and $43,480 in year one depending on agency structure, product mix, work ethic, and market focus.
 - Can I earn six figures as a Michigan insurance agent? Yes, though it represents an established practice rather than a typical outcome. Many experienced Michigan agents — particularly those serving Oakland County HNW markets, automotive executive clients, Grand Rapids business owner markets, or senior-focused practices — reach the state's top-producer benchmark of roughly $125,780 annually with a mature book of business.
 

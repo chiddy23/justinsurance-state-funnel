@@ -28,7 +28,7 @@ As an insurance producer, you will assist clients in finding policies that prote
 
 ## Gather your required documents
 
-Once you know this is the right path for you, gather the documentation you will need. In Arizona, this includes personal identification and a completed licensing application; if you choose to take an optional pre-licensing course, keep your completion certificate handy as well. Though the process feels formal, it is really just a set of guidelines to verify your background and ensure you meet legal requirements.
+Once you know this is the right path for you, gather the documentation you will need. In Arizona, this comes down to a valid government-issued ID (the name on it has to match your exam registration and application exactly), your fingerprint appointment, and a completed licensing application. If you take an optional pre-licensing course, hold on to the completion certificate for your own records — DIFI doesn’t require one, since Arizona mandates no pre-licensing education. Though the process feels formal, it is really just a set of guidelines to verify your background and ensure you meet legal requirements.
 
 Double-check that your ID is valid and up to date, and be sure you know what form of payment is accepted for the various fees you will encounter. This proactive approach saves you time down the road and allows you to step into your licensing journey feeling prepared.
 
@@ -72,11 +72,11 @@ Arizona does not mandate a set number of prelicensing hours — the exam has no 
 
 ### Can I take the exam remotely?
 
-Typically, Arizona requires you to be present at an authorized testing center to ensure the integrity of the exam process. Some test providers occasionally offer online proctoring, but it is best to verify the most current guidelines with your chosen exam provider to avoid confusion.
+Yes. PSI, which administers Arizona’s insurance exams, offers both delivery modes: when you schedule, you select a modality of either **Test Center** or **Online Proctored**. The remote option runs on PSI’s live online proctoring platform, so a proctor watches you through your webcam for the whole sitting — which also means stricter rules than a test center (no breaks, no scratch paper, and you can’t move out of the camera’s view). Run PSI’s system check on your computer, webcam, and microphone well before test day, and confirm the current options in the Arizona candidate information bulletin.
 
 ### Will my out-of-state license transfer?
 
-If you are relocating from a different state, you may still need to fulfill Arizona’s specific pre-licensing and exam requirements unless Arizona has reciprocity with your previous state. The best approach is to contact the Arizona Department of Insurance or check their official resources to confirm the current policies.
+Arizona doesn’t require pre-licensing education from anyone — resident or relocating — so there’s no coursework requirement waiting for you when you move here. As for the exam: if you hold a resident insurance license in another state and you’re relocating to Arizona, you can skip the Arizona exam for the same lines of authority, but only if you submit your Arizona application **within 90 days** after inactivating your former resident license, and include a clearance letter from that state’s insurance department showing the license was in good standing. Miss the 90-day window and you’ll have to sit the exam like any other new applicant. Fingerprinting and the application fee apply either way.
 
 ### How do I stay updated on changing regulations?
 

@@ -30,15 +30,17 @@ For North Carolina resident insurance producers, the standard requirement is:
 
 3 hours of Ethics (mandatory for all producers every compliance period)
 
-3 hours of Flood Insurance (mandatory for Property/Casualty/Personal Lines producers and adjusters who sell NFIP flood policies — first compliance period, then every 4 years)
+3 hours of Flood Insurance (mandatory for every licensee holding a Property, Personal Lines, or Adjuster license — whether or not you sell flood — first compliance period, then every other period thereafter, i.e. every 4 years)
 
 Remaining hours can be in any NCDOI-approved insurance topic
 
 Importantly, North Carolina producers may take approved courses in any line of authority for general CE credit — the 24 hours are non-license-type-specific. However, taking courses relevant to your line is recommended.
 
-## Your License Renewal Cycle
+## Your Compliance Cycle — And Why There Is No Renewal Application
 
-North Carolina producer licenses are perpetual — meaning they remain active as long as you meet CE requirements, without requiring a separate formal renewal application in the traditional sense.
+This is where North Carolina genuinely differs from most states, so read it carefully: resident and non-resident insurance producer licenses do not renew. NCDOI states that producer licenses "do not renew and are valid until surrendered, canceled or revoked." There is no biennial renewal application to file, no renewal fee to pay, and no renewal form to submit. Your only affirmative obligation is completing the continuing education for the license lines you hold, on time.
+
+So "renewal cycle" in North Carolina really means CE compliance cycle:
 
 Compliance date: Last day of your birth month every 2 years.
 
@@ -46,7 +48,9 @@ Year: Even-year birth = even-year compliance (e.g., April 30, 2026). Odd-year bi
 
 Example: If born in March 1985, your CE compliance deadline is March 31 of every odd-numbered year.
 
-CE must be completed before submitting your renewal application. Complete all CE hours, confirm they've been reported, then submit your renewal.
+What you actually have to do: complete all 24 hours, including the mandatory ethics and (where applicable) flood hours, and confirm your provider has reported them to Prometric before your compliance date. Miss that, and the license expires — not because you failed to file a renewal, but because the CE wasn't met.
+
+One caveat: this applies to producer licenses. Some other North Carolina credentials — adjuster, public adjuster, and surplus lines licenses among them — do carry fixed annual renewal dates. Check NCDOI's renewal page for the credential you actually hold.
 
 ## Prometric: North Carolina's CE Administrator
 
@@ -62,11 +66,9 @@ Compliance calculation for licensees
 
 CE records and transcripts
 
-Renewal application is submitted through Sircon after CE is complete.
+Because producer licenses don't renew, there is no second system to file anything in — Prometric is the whole picture for producer CE compliance. That is distinctive and worth understanding: in most states you complete CE and then submit a renewal; in North Carolina, completing and reporting CE *is* the compliance event.
 
-This split — Prometric for CE administration, Sircon for renewal submission — is distinctive and important to understand.
-
-Checking your CE transcript: Through Prometric's website or through Sircon's transcript inquiry function.
+Checking your CE transcript: Through Prometric's website, using the licensee lookup for North Carolina CE.
 
 ## The 3-Hour Ethics Requirement
 
@@ -86,15 +88,17 @@ Bottom line: Take your 3 ethics hours in every single 2-year period. Don't assum
 
 ## The 3-Hour Flood Insurance Requirement
 
-Who must comply:
+Who must comply — and this is the single most misunderstood rule in North Carolina CE:
 
-All Property licensees selling NFIP flood policies
+All Property licensees
 
-All Casualty licensees selling NFIP flood policies
+All Personal Lines licensees
 
-All Personal Lines licensees selling NFIP flood policies
+All adjusters (resident, and non-resident adjusters who carry North Carolina CE requirements)
 
-All adjusters (resident and certain non-resident)
+The requirement attaches to the license, not to your book of business. NCDOI's CE Licensee Handbook answers the question "I do not sell flood insurance, why would I need to take a flood course?" directly — the flood hours are mandatory for these license types regardless of whether you ever write an NFIP policy. If you hold a Property or Personal Lines license and skip the flood hours because flood isn't part of your practice, your CE is short and your license expires.
+
+Casualty-only licensees are not on NCDOI's list for the flood requirement. If your only property-side authority is Casualty, the 3 flood hours don't apply to you — but if you also hold Property or Personal Lines, they do.
 
 Requirement:
 
@@ -226,9 +230,9 @@ Example: A producer holding Life, A&H, Property, and Casualty doesn't need 6 hou
 
 Individual producers licensed in multiple lines face the same 24-hour requirement as producers with single lines.
 
-## Perpetual Lines: Medicare Supplement/LTC
+## Limited Lines: Medicare Supplement/LTC
 
-One important North Carolina distinction: Medicare Supplement/LTC limited lines licensees hold a perpetual license — they are not required to submit separate renewal applications. The license remains active as long as CE requirements are met.
+The Medicare Supplement/LTC limited lines license follows the same perpetual structure as the major producer lines — no separate renewal application, with the license remaining active as long as CE requirements are met. If you added this limited line to an existing producer license, you have not added a renewal filing; you have added CE obligations.
 
 ## Best Practices for CE Compliance
 
@@ -242,11 +246,11 @@ Know your flood cycle. Track whether you're in a "flood year" or not.
 
 Can't repeat courses. Don't re-enroll in a course you completed in the same period.
 
-Verify CE posting. Confirm hours appear in your Prometric/Sircon records before submitting renewal.
+Verify CE posting. Confirm your hours actually appear in your Prometric CE record — completing a course is not the same as your provider reporting it.
 
 Use the $2.05 fee. Factor reporting fees into your course budget.
 
-Don't wait for the final month. Submit renewal well before compliance deadline.
+Don't wait for the final month. Provider reporting takes time, and there is no renewal filing you can rush at the last minute to save yourself.
 
 ## NCDOI CE Contact Information
 
@@ -258,8 +262,8 @@ Website: ncdoi.gov
 
 ## 5 Frequently Asked Questions
 
-- How many CE hours do I need every 2 years in North Carolina? 24 hours total, with 3 hours of Ethics mandatory every period and 3 hours of Flood Insurance required for Property/Casualty/Personal Lines producers who sell NFIP flood policies (first period and every 4 years thereafter).
-- Who administers North Carolina CE? Prometric is the NCDOI's CE administrator, handling provider and course approvals, roster processing, and compliance calculations. License renewals are submitted through Sircon.
+- How many CE hours do I need every 2 years in North Carolina? 24 hours total, with 3 hours of Ethics mandatory every period and 3 hours of Flood Insurance required of every licensee holding a Property, Personal Lines, or Adjuster license — regardless of whether they sell NFIP flood policies — in the first compliance period and every other period thereafter (every 4 years).
+- Who administers North Carolina CE? Prometric is the NCDOI's CE administrator, handling provider and course approvals, roster processing, compliance calculations, and your CE transcript. North Carolina resident and non-resident producers do not file a renewal application at all — the license stays in force as long as CE is completed and reported on time.
 - Can I carry over excess CE hours in North Carolina? Yes. Excess hours carry over with no maximum. However, excess Ethics or Flood hours carry over as general credit only — they don't satisfy the ethics or flood requirement in the next period.
 - Do non-resident producers need to complete North Carolina CE? No. Non-resident producers are fully exempt from NC CE as long as they maintain good standing in their home state. NCDOI monitors home state license status through the National Producer Database.
 - What happens if I miss my CE deadline? Your license expires. You have a 4-month grace period to complete CE and pay a $75 reinstatement fee to Prometric. After 4 months, the license becomes inactive and you must pass the licensing exam again to reinstate.

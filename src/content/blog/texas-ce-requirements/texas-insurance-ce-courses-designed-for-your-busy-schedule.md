@@ -29,7 +29,7 @@ Today’s busy schedule calls for flexibility. Fortunately, you have several opt
 
 ### Online, live, or self-paced
 
-Many providers offer [Texas insurance](/texas) CE courses in multiple formats. Online classes are often designed to work around your commitments, letting you start and stop course modules whenever you need to. For those who enjoy an interactive experience, live webinars provide real-time engagement with instructors and fellow agents. Self-paced modules, on the other hand, can be paused or replayed if you need to review complex topics.
+Many providers offer [Texas insurance](/texas) CE courses in multiple formats. Online classes are often designed to work around your commitments, letting you start and stop course modules whenever you need to. For those who enjoy an interactive experience, live webinars provide real-time engagement with instructors and fellow agents. Self-paced modules, on the other hand, can be paused or replayed if you need to review complex topics. Keep in mind that Texas regulates the mix: at least half your hours — 12 of 24 — must be earned in a classroom or "classroom-equivalent" course, so no more than 12 can carry the instruction method of self-study. Plenty of online courses are registered with TDI as classroom-equivalent and count toward that half, but you have to verify the instruction method on the course listing rather than assume it from how the course is delivered.
 
 No single format fits everyone. It’s worth exploring various styles—especially if you’ve never tried a certain format before—to see which blends best with your daily routine.
 
@@ -78,7 +78,7 @@ Below are answers to some of the most frequently asked questions about completin
 
 ## Conclusion: Your next steps
 
-Continuing education is more than a formality. When you choose Texas insurance CE courses that match your interests and busy schedule, you set yourself up for professional growth and compliance with state mandates. By picking the right format—be it online, self-paced, or in-person—and balancing short, consistent study sessions, you can easily meet your requirements without sacrificing your work obligations.
+Continuing education is more than a formality. When you choose Texas insurance CE courses that match your interests and busy schedule, you set yourself up for professional growth and compliance with state mandates. By picking the right mix of formats—online, self-paced, or in-person, with at least half your hours classroom or classroom-equivalent—and balancing short, consistent study sessions, you can meet your requirements without sacrificing your work obligations.
 
 At JustInsurance, we focus on making the process straightforward and efficient for busy agents like you. Whether you want to learn about the latest regulatory changes, refine your communication skills, or deepen your knowledge of specific coverage areas, we’ve got options to fit each preference.
 

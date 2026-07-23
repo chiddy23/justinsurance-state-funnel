@@ -84,7 +84,7 @@ SR-22 producer role: Insurers file SR-22 directly with the Washington Department
 
 ## 2026 Auto Appraisal Clause Update (ESB 5721)
 
-Effective January 31, 2026: Washington enacted a standardized automobile insurance appraisal clause through ESB 5721.
+ESB 5721 was signed in May 2025 and took effect July 27, 2025, but producers feel it in 2026: the standardized appraisal clause must appear in every automobile policy that includes first-party physical damage coverage issued or renewed on or after January 1, 2026.
 
 What this means:
 
@@ -94,7 +94,7 @@ The two appraisers attempt to agree on the loss amount
 
 If appraisers can't agree, they select a neutral umpire from OIC's new registry
 
-OIC now maintains a registry of competent and disinterested umpires — ensuring qualified neutrals are available when appraisers disagree
+OIC maintains a registry of competent and disinterested umpires under its implementing rule (R 2025-04, effective January 31, 2026) — ensuring qualified neutrals are available when appraisers disagree
 
 Why this matters for P&C producers: Understanding the appraisal process helps producers explain client rights when auto claims are disputed. The standardized appraisal clause creates a clearer process for resolving these disputes.
 
@@ -192,18 +192,18 @@ Eastern Washington wildfire exposure: Eastern Washington communities face signif
 
 Home insurance market hardening: OIC has noted rising consumer complaints in P&C insurance, particularly around claims handling — driving the OIC's 2025 legislative priority for a Claims Review Team focused on RCW 48.30 and WAC 284-30 violations.
 
-Fire loss reporting (SSB 5419): New law effective December 19, 2025 requiring insurers to report fire loss data and known or suspected criminal fire activity to L&I, fire authorities, and OIC.
+Fire loss reporting (SSB 5419): Effective July 27, 2025, authorized insurers report fire loss data to the Office of the Insurance Commissioner rather than to the Washington State Patrol, and must immediately notify local law enforcement and OIC when they know or suspect the fire was criminal in origin. OIC may share the confidential data with the State Fire Marshal's Office, law enforcement, and other authorized entities. The implementing rule (WAC 284-20-010, R 2025-03) took effect December 19, 2025; for claims closing on or after January 1, 2026, reports are due within 90 days of claim closure.
 
 ## 5 Frequently Asked Questions
 
 - What are Washington's auto insurance minimums? 25/50/10: $25,000 bodily injury per person, $50,000 per accident, $10,000 property damage. Financial responsibility is required under Chapter 46.29 RCW.
 - Can I sell workers' compensation insurance to Washington employers? Generally no — Washington operates a state fund monopoly under Title 51 RCW. Most Washington employers must purchase workers' compensation through the state Department of Labor & Industries (L&I). Private workers' compensation carriers don't operate in the standard Washington employer market. Large employers may self-insure.
-- What is the new Washington auto appraisal clause (2026)? ESB 5721 (effective January 31, 2026) created standard automobile insurance appraisal clause language. When insurers and insureds disagree on a covered auto loss amount, appraisers are selected; if they can't agree, a neutral umpire from OIC's new registry resolves the dispute.
+- What is the new Washington auto appraisal clause (2026)? ESB 5721 (effective July 27, 2025) created standard automobile insurance appraisal clause language, required in every auto policy with first-party physical damage coverage issued or renewed on or after January 1, 2026. When insurers and insureds disagree on a covered auto loss amount, appraisers are selected; if they can't agree, a neutral umpire from OIC's registry — established by rule R 2025-04, effective January 31, 2026 — resolves the dispute.
 - What is claim suppression under Washington workers' comp law? Under RCW 51.28.010, employers may not induce employees to fail to report workplace injuries, treat workplace injuries as non-work injuries, or otherwise suppress legitimate workers' comp claims. Violation is a serious legal matter that workers and healthcare providers can report to L&I.
 - Is UM/UIM coverage mandatory in Washington? No — UM/UIM coverage can be rejected in writing in Washington. However, Washington's uninsured driver rates make UM/UIM practically important coverage. When offered, UM/UIM must be offered at limits equal to the client's liability limits.
 
 ## Serve Washington P&C Clients With Genuine Expertise
 
-Washington's auto and workers' compensation framework rewards producers who understand its distinctive features — especially the state fund monopoly that shapes commercial P&C practice. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses cover auto, workers' comp, and all Washington-specific P&C law in practical producer-focused depth.
+Washington's auto and workers' compensation framework rewards producers who understand its distinctive features — especially the state fund monopoly that shapes commercial P&C practice. Washington doesn't require prelicensing education for any line, so there's no P&C prelicensing course to complete first — the edge comes from staying current. A note on JustInsurance: our Washington CE provider approval is still pending with the OIC, so until it's issued we can't roster Washington CE credit. Complete your property & casualty continuing education through a provider on the OIC's current approved list, and verify each course number at insurance.wa.gov before you enroll.
 
-Enroll today and build your Washington P&C expertise.
+Master these distinctive Washington provisions and you'll serve your P&C clients with genuine expertise.

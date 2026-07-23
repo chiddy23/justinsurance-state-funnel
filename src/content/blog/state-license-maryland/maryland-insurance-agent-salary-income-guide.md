@@ -94,6 +94,6 @@ The high nominal income available in Maryland's #1-median-income market generall
 
 ## Start Building Your Maryland Insurance Income
 
-Maryland's #1 median income, federal professional ecosystem, and biotech corridor create income opportunities among the best on the East Coast. JustInsurance's MIA-approved Maryland courses prepare you for the exam and for building a career in Maryland's distinctive professional market.
+Maryland's #1 median income, federal professional ecosystem, and biotech corridor create income opportunities among the best on the East Coast. JustInsurance's Maryland exam-prep courses prepare you for the Prometric exam and for building a career in Maryland's distinctive professional market.
 
 Enroll today and start building your Maryland insurance income.

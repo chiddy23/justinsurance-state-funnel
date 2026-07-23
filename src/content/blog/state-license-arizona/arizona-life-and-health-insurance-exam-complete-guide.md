@@ -16,7 +16,7 @@ imageAlt: >-
   health insurance exam: complete guide.
 ---
 
-The Arizona Life and Health insurance exams are your gateway to selling life, health, disability, and annuity products in one of the fastest-growing states in the country. Arizona's exam structure has a feature that distinguishes it from most other states and catches many candidates off guard: both the General Knowledge section and the Arizona State Law section must independently score 70% or higher. The two scores are not averaged. A strong performance on general insurance content cannot save you from a failing Arizona state score — and vice versa.
+The Arizona Life and Health insurance exams are your gateway to selling life, health, disability, and annuity products in one of the fastest-growing states in the country. Arizona's exam is scored as a single examination: PSI's Arizona Insurance Candidate Information Bulletin states that you must get 70% correct to pass. What catches candidates off guard is not the scoring mechanic — it's the content mix. Every Arizona content outline carries a block of questions drawn from A.R.S. Title 20 and A.A.C. Title 20, Chapter 6, and those questions count toward the same 70% as everything else. Candidates who study only national material leave those points on the table and land just under the line.
 
 Here's the complete guide to the Arizona Life and Health insurance exams.
 
@@ -32,7 +32,7 @@ Website: test-takers.psiexams.com/anzins
 
 Phone: (877) 215-7924
 
-Pay the $50 exam fee at registration
+Pay the exam fee at registration: $50 for the Life exam (series 13-31) or the Accident and Health or Sickness exam (13-32), $59 for the combined Life, Accident and Health or Sickness exam (13-33)
 
 ## Testing Options — In-Person and Remote
 
@@ -42,7 +42,7 @@ PSI Testing Centers: Physical locations in Phoenix, Tucson, Flagstaff, and other
 
 PSI Bridge Remote Testing: Remote proctored exam from home or office. Check system compatibility at syscheck.bridge.psiexams.com before scheduling.
 
-Cancel or change: Contact PSI at least 48 hours in advance or forfeit the $50 fee.
+Cancel or change: Contact PSI at least 48 hours in advance or forfeit your exam fee.
 
 ## Arizona Exam Structure — Life & Health
 
@@ -52,19 +52,19 @@ Questions are randomly scrambled — not grouped by category. This is typical fo
 
 Experimental questions: Some questions are unscored experimental items being tested for future use. You won't know which ones they are — answer every question as if it counts.
 
-## The Two-Section Scoring Requirement
+## How Arizona Scores the Exam
 
-Arizona's most critical and distinctive exam feature: BOTH sections must independently score at least 70%. The scores are not averaged.
+One examination, one score, one threshold. PSI's Arizona Insurance Candidate Information Bulletin is explicit under "Score Reporting": "You must get 70% correct to pass the examination." There is no published rule requiring separate passing scores on a general portion and an Arizona-law portion, and PSI publishes no averaging or dual-threshold formula. If you have read otherwise on a competitor's site, check it against the bulletin before you plan around it.
 
-Section 1 — General Knowledge: Covers national insurance principles applicable in any state.
+What the content outline does do is split your study burden into two very different bodies of material:
 
-Section 2 — Arizona State Law: Covers A.R.S. Title 20 (Arizona Revised Statutes, Insurance) and Arizona Administrative Code Title 20 Chapter 6.
+General insurance content: National insurance principles applicable in any state — policy types, provisions, riders, taxation, underwriting.
 
-Why this matters: Scoring 92% General + 68% State = FAIL Scoring 70% General + 85% State = PASS Scoring 72% General + 71% State = PASS
+Arizona statutes and rules: PSI notes that the exam outline includes "a section relating to Arizona Revised Statutes ('ARS') and Arizona Administrative Code ('AAC')," and recommends consulting A.R.S. Title 20 and A.A.C. Title 20, Chapter 6 alongside general study material.
 
-Both sections must independently clear 70%. Neither strong section can compensate for a weak one. This is the single most important fact about Arizona's exam and the primary source of preventable failures.
+Why this still matters: those Arizona questions are worth the same as any other question on the exam. A candidate who is strong nationally but blank on DIFI authority, the guaranty fund limits, free-look periods, and Arizona's CE framework is giving away a meaningful block of the 70% they need. That is the practical reason Arizona-specific prep is not optional even though a prelicensing course is.
 
-After a failure: PSI provides section-level score reports. You'll see your exact score for each section — use this diagnostic information precisely to target your retake preparation.
+After a failure: PSI emails a score report that includes a diagnostic report "indicating your strengths and weaknesses by examination type." Use that breakdown to aim your retake preparation rather than restudying everything evenly.
 
 ## Life Insurance Exam Content — General Section
 
@@ -288,9 +288,9 @@ Arizona Policy Provisions:
 
 Free-look periods:
 
-10 days — standard for most policies
+10 days — standard for most policies, and the baseline for an annuity contract
 
-20 days — annuities sold to seniors age 65+
+30 days — annuity contracts where the holder is age 65+ on the application date (A.R.S. § 20-1233)
 
 30 days — Medicare supplement policies
 
@@ -364,7 +364,7 @@ Results appear immediately on screen after exam completion. Printed score report
 
 If you pass: PSI notifies DIFI electronically within 48 hours. Proceed to fingerprinting and NIPR application. You must apply within 1 year of passing.
 
-If you fail: Separate section scores reported. PSI's system takes 24-48 hours to update before you can reschedule. Schedule a retake after reviewing diagnostic results.
+If you fail: Your emailed score report includes a diagnostic report of your strengths and weaknesses by examination type. You cannot book a new appointment on the same day you tested — PSI needs time to process and report the result — but per PSI's Arizona bulletin, a candidate who tests unsuccessfully on a Wednesday can call the next day and retest as soon as Friday, subject to seat availability. Schedule a retake after reviewing your diagnostic results.
 
 The 4-attempt limit: Arizona law (A.R.S. § 20-284(H)) limits candidates to 4 attempts per line per year. Four failures means a 1-year wait from the last attempt before retesting.
 
@@ -372,14 +372,14 @@ Failing a combined exam: Arizona treats failure of a combined exam as failure on
 
 ## 5 Frequently Asked Questions
 
-- What's the most important thing to know about Arizona's exam scoring? Both the General Knowledge section and the Arizona State Law section must independently score 70% or higher. Scores are NOT averaged. A failing state section score fails the entire exam regardless of your general section performance.
+- What's the passing score on Arizona's exam? 70%. PSI's Arizona Insurance Candidate Information Bulletin states that you must get 70% correct to pass the examination — a single overall score, with no separately published threshold for the Arizona-law questions. Your score appears on screen immediately, and a failing score report includes a diagnostic breakdown of your strengths and weaknesses by examination type.
 - What are the Arizona Guaranty Association limits? $300,000 for life insurance death benefits, $250,000 for annuity values, and $500,000 for health insurance benefits. These are specific, frequently tested figures.
-- What are Arizona's free-look periods? 10 days for most policies, 20 days for annuities sold to seniors age 65 or older, and 30 days for Medicare supplement policies.
-- How many attempts do I get if I fail? Four attempts per line per year under A.R.S. § 20-284(H). After four failures, you must wait one full year from the date of the last attempt. Each attempt costs $50.
+- What are Arizona's free-look periods? 10 days for most policies, including a standard annuity contract; 30 days for an annuity when the contract holder is 65 or older on the date of application (A.R.S. § 20-1233); and 30 days for Medicare supplement policies.
+- How many attempts do I get if I fail? Four attempts per line per year under A.R.S. § 20-284(H). After four failures, you must wait one full year from the date of the last attempt. Each attempt costs the full exam fee again — $50 for the Life or the Accident and Health or Sickness exam, $59 for the combined Life, Accident and Health or Sickness exam.
 - Is the A&H exam harder than the Life exam? Arizona candidates and instructors consistently report the A&H exam as more difficult — the health and disability products tested tend to be more complex than life insurance products, and the federal regulatory overlay (HIPAA, ERISA, ACA, Medicare) adds significant content volume.
 
 ## Walk Into the Arizona Exam Prepared
 
-Both sections must pass independently — that means preparation must give both equal attention. At JustInsurance, our Arizona exam prep courses cover both the general insurance content and Arizona-specific A.R.S. Title 20 provisions with the depth both sections require.
+Every question counts toward the same 70%, which means the Arizona-law material deserves the same attention as the national content — not a skim the night before. At JustInsurance, our Arizona exam prep courses cover both the general insurance content and the Arizona-specific A.R.S. Title 20 and A.A.C. Title 20, Chapter 6 provisions that the content outline calls out.
 
-Enroll today and prepare for both sections of Arizona's exam.
+Enroll today and prepare for the whole Arizona exam.

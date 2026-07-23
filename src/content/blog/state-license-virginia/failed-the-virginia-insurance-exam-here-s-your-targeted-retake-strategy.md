@@ -18,49 +18,47 @@ Failing the Virginia insurance exam is not a career-ending event — it is a dia
 
 Within minutes of completing the exam, your score report is displayed on the Prometric screen. A copy is also emailed to you. This report is the most valuable study tool you have for your retake — and candidates who ignore it and go back to studying everything from scratch are the ones who fail again.
 
-The Virginia Prometric score report for a failed exam shows:
+The Virginia Prometric score report shows:
 
-Your numeric score (only shown if you fail — passing scores are reported as "pass" without a number)
+Your overall score and grade — the numerical percentage of questions you answered correctly, plus whether you passed or failed. Every candidate receives that number, pass or fail
 
-Your section-level performance — specifically, whether you passed or failed the national/general section and the Virginia state law section separately
+The percentage you answered correctly in each major section of the exam, as defined by the content outline
 
-Performance by content area within each section
+Before you read it, understand one thing about how Virginia grades: there is no section-by-section verdict. The Bureau's bulletin is explicit that "your total percentage score is computed by dividing the number of questions you answered correctly by the total number of questions in the examination." One standard, applied to the exam as a whole. The section percentages are printed, in the Bureau's own words, "to guide you, or your employer and/or trainer, about areas requiring additional preparation for retesting" — they are study guidance, not separate hurdles you passed or failed.
 
-Read it carefully. Identify exactly which section caused your failure — national, state law, or both. Then identify which content areas within the failed section had the weakest performance.
+That makes the breakdown a map rather than a verdict. Read it carefully, rank the sections by your percentage correct, and find where the floor is. Note also that the section percentages will not average out to your total score — the content outline allocates different numbers of questions to different sections, so a weak percentage in a heavily weighted section costs you far more than the same percentage in a minor one.
 
-The most common scenarios:
+The most common patterns:
 
-Passed national, failed state law: You know insurance products but under-prepared Virginia statutes. Retake focus: 90% Virginia state law.
+Strong national percentages, weak Virginia law percentages: You know insurance products but under-prepared Virginia statutes. Retake focus: overwhelmingly Virginia state law.
 
-Failed national, passed state law: You know Virginia law but need more work on insurance fundamentals. Retake focus: 90% national content weak areas.
+Weak national percentages, strong Virginia law: You know the statutes but need more work on insurance fundamentals. Retake focus: your lowest-scoring national content areas.
 
-Failed both: You need a full preparation reset with more time and a more systematic approach.
+Weak across the board: You need a full preparation reset with more time and a more systematic approach.
 
-Failed both, narrowly: You are close — targeted work on the lowest-scoring content areas in both sections may be sufficient.
+Uniformly close to the line: You are near passing — targeted work on the lowest-scoring content areas across both halves may be sufficient.
 
-## Step 2: Calculate Exactly What You Need to Pass
+## Step 2: Work Out How Close You Actually Were
 
-Take the guesswork out of "how close was I?" by doing the math:
+Every candidate wants to convert the score report into arithmetic — "I needed six more questions." Virginia's scoring does not support that calculation, and forcing it will point your retake at the wrong target.
 
-P&C exam (Series 11-03):
+Here is what is actually true. Virginia produces one number: correct answers divided by total questions on the examination, graded against a single passing standard of 70%. Neither the Bureau of Insurance nor Prometric publishes how many scored questions sit in each section — the registration table in the official bulletin lists only the exam title, the time limit (150 minutes for the Life, Annuities & Health and the Property & Casualty exams) and the $35 fee. So any per-section "you needed 25 of 35" math you find circulating online is invented. Your section percentages tell you where you were weak; they cannot tell you how many individual questions separated you from a pass.
 
-National section: 100 scored questions — you need 70 correct (70%) to pass
+Use the report the way it was built to be used:
 
-State law section: 35 scored questions — you need 25 correct (71.4%) to pass
+Start from your overall percentage. The distance between that number and 70% is your real gap — a 67% is a completely different retake from a 52%
 
-L/A/H exam (Series 11-01):
+Rank the major sections by percentage correct, lowest first
 
-National section: 100 scored questions — you need 70 correct (70%) to pass
+Weight your retake study toward the bottom of that list, giving priority to the sections that carry the most questions
 
-State law section: 40 scored questions — you need 28 correct (70%) to pass
-
-If your score report shows you answered 62 national questions correctly, you need 8 more. If it shows 21 state law correct, you need 4 more. These are specific targets — you do not need to get everything right, you need to move specific numbers.
+That last point is where candidates lose ground. Because the content outline assigns different question counts to different sections, a ten-point gain in a heavily weighted section moves your total far more than a ten-point gain in a minor one. Pull the current content outline from the Prometric website, check the percentage weight next to each section, and spend your time where weakness and weight overlap.
 
 ## Step 3: Identify the Root Cause, Not Just the Symptom
 
 Before scheduling your retake, honestly diagnose why you failed. The most common root causes:
 
-Under-preparation for the state law section. The most common cause of first-time failures in Virginia. Candidates who take national-only courses or study predominantly national content arrive under-prepared for 35–40 questions that test statutes they have never read. Solution: Read the relevant Title 38.2 chapters directly. Know the auto insurance minimum changes, UIM stacking rule, workers' comp threshold, and unfair trade practices statute cold.
+Under-preparation for the state law section. The most common cause of first-time failures in Virginia. Candidates who take national-only courses or study predominantly national content arrive under-prepared for a substantial block of questions testing statutes they have never read. Solution: Read the relevant Title 38.2 chapters directly. Know the auto insurance minimum changes, UIM stacking rule, workers' comp threshold, and unfair trade practices statute cold.
 
 Insufficient [practice exam](/virginia/practice-exam) repetition. Studying content is not the same as exam-taking. Candidates who read and re-read notes without practicing under timed conditions often know the material conceptually but cannot retrieve it efficiently under exam pressure. Solution: Shift to more practice exam time and less passive reading in your retake preparation.
 
@@ -68,11 +66,11 @@ Mismanaged time on the real exam. Some candidates spend too long on difficult qu
 
 Exam anxiety causing retrieval failure. The material is in your memory but anxiety prevents clean access on exam day. Solution: Practice under exam-like conditions (timed, distraction-free, no notes) consistently in the weeks before the retake. Familiarity with the exam environment reduces anxiety. If testing in-person caused anxiety, consider the remote ProProctor option.
 
-Gaps in specific high-weight content areas. Your score report will tell you which areas scored lowest. If Virginia auto insurance is your weakest state law area, and it comprises roughly 10 of 35 state law questions, improving on that one cluster moves your score by nearly 3 percentage points.
+Gaps in specific high-weight content areas. Your score report will tell you which areas scored lowest. If Virginia auto insurance is your weakest state law area, closing that one cluster lifts your overall score in proportion to the weight the content outline assigns it — check that weighting on the Prometric site so you know whether the topic is worth prioritizing over your other weak spots.
 
 ## Step 4: Build a Targeted Retake Study Plan
 
-For a state law failure: Spend the majority of your retake preparation time on Virginia statutes. Do not re-study national content unless the score report shows weakness there too. Use this sequence:
+If your weakness is concentrated in Virginia law: Spend the majority of your retake preparation time on Virginia statutes. Do not re-study national content unless the score report shows weakness there too. Use this sequence:
 
 Read the Title 38.2 chapters covering your weak areas directly (law.lis.virginia.gov)
 
@@ -82,9 +80,9 @@ Take a full state-law-only practice exam and score it before scheduling your ret
 
 Target 75%+ on state law practice before scheduling
 
-For a national content failure: Identify the specific sections with lowest scores (homeowners, auto, commercial lines, disability income, etc.) and spend the majority of retake time on those. National content knowledge is more straightforward to remediate than state law — it is a matter of coverage depth, not statutory reading.
+If your weakness is concentrated in national content: Identify the specific sections with lowest scores (homeowners, auto, commercial lines, disability income, etc.) and spend the majority of retake time on those. National content knowledge is more straightforward to remediate than state law — it is a matter of coverage depth, not statutory reading.
 
-For a full failure: Schedule a longer retake window. Two to three weeks of systematic daily study covering both sections is typically sufficient for a candidate who was genuinely close on the first attempt. If you scored below 60% on both sections, consider a full restart with a structured prep course before attempting again.
+If you were weak across both halves: Schedule a longer retake window. Two to three weeks of systematic daily study covering both sections is typically sufficient for a candidate who was genuinely close on the first attempt. If you scored below 60% on both sections, consider a full restart with a structured prep course before attempting again.
 
 ## The 30-Day Mandatory Wait: Use It Productively
 
@@ -104,11 +102,11 @@ The 30-day pause exists because the Bureau of Insurance recognizes that retaking
 
 How soon can I retake the Virginia insurance exam after failing?
 
-After failing a Virginia Prometric exam, you must wait at least 24 hours before registering for a retake. This is a scheduling restriction — you can contact Prometric or schedule online the next day. The 24-hour wait applies to the first and second failures. After failing the same exam three times, Virginia law imposes a 30-calendar-day mandatory waiting period before you can attempt that exam again. There is no lifetime limit on attempts. Each retake costs $35 and must be paid at the time of scheduling. Your exam score from any passing attempt remains valid for 183 days to use for your license application.
+After failing a Virginia Prometric exam, you must wait at least 24 hours before registering for a retake. This is a scheduling restriction — you can contact Prometric or schedule online the next day. The 24-hour wait applies to the first and second failures. After failing the same exam three times, Virginia law imposes a 30-calendar-day mandatory waiting period before you can attempt that exam again. There is no lifetime limit on attempts. Each retake costs $35 and must be paid at the time of scheduling. A passing exam score stays valid for 183 calendar days — but note the deadline is on getting your license *issued*, not just applied for: if you do not obtain the license from the Bureau within 183 days of passing, the grade is void and you must retest (Va. Code § 38.2-1817), so leave time for processing.
 
-If I passed one section and failed the other, do I have to retake both sections?
+My score report shows a strong national percentage and a weak Virginia law percentage. Can I retake just the state law portion?
 
-Yes. Virginia's exam structure does not allow section-by-section retakes. If you passed the national section and failed the state law section (or vice versa), you must retake the entire exam — both sections together — in your next attempt. However, your score report from the failed attempt shows exactly where you fell short, so you can focus your retake preparation almost entirely on the failed section while maintaining the knowledge base for the passed section. In practice, candidates who failed only one section typically devote 80–90% of their retake preparation to the failed section and do light review of the passed section in the week before retaking.
+No — and the premise is worth correcting, because it trips up a lot of candidates. Virginia never issues a pass or fail by section, so you did not "pass" one half and "fail" the other. There is a single grade on the examination as a whole, and your retake is the whole examination: national and Virginia law content together, in one sitting. What the score report genuinely gives you is the percentage correct within each major section, and that is the useful part. Candidates whose weakness is concentrated in Virginia statutes typically devote the large majority of their retake preparation to those statutes and do light maintenance review of the national content in the final week before testing. Just don't go in expecting a partial retake — Virginia does not offer one.
 
 Does my failed exam score count against me in any way with the Virginia Bureau of Insurance?
 
@@ -120,8 +118,8 @@ This depends on whether the testing format contributed to your failure. If you t
 
 How many Virginia insurance exam retakes does the average candidate need?
 
-Virginia does not publish official line-level pass-rate data, but industry estimates put first-time passing rates in the low-to-mid 70s for most exam lines (approximately 73–75% for Life, Health, and P&C). This means approximately 25–27% of candidates are estimated to fail their first attempt. Most of those candidates pass on their second or third attempt after targeted preparation. The candidates who require four or more attempts have typically not changed their preparation approach meaningfully between attempts — they retake without diagnosing what failed. Virginia's 30-day wait after three failures is the most consequential timing risk, because it forces a delay that affects the 183-day exam score validity window for candidates who are starting from zero attempts.
+Nobody publishes an official "average retakes per candidate" figure, so anyone quoting you a precise number for that is guessing. What Virginia *does* publish — and what actually tells you the odds — is the first-time pass rate, broken out by line, in the annual Insurance Demographic Report the Bureau posts on its [licensing-exam statistics page](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/virginia-statistical-data/). In the June 2022–May 2023 report, first-time pass rates ran about 68.8% for Life, Annuities & Health, 62.9% for Life & Annuities, 71.3% for Health, 63.2% for Property & Casualty, 67.0% for Personal Lines, and 75.4% for Title — roughly 66.6% across all exams. Read that the practical way: something like one in three first-time candidates does not pass, so a first failure puts you in large and ordinary company. The process structure is just as telling — there is no lifetime limit on attempts, retakes cost $35, and the candidates who need four or more attempts are almost always the ones who retook without diagnosing what went wrong the time before. A second attempt built on a real diagnosis is a genuinely different attempt; a second attempt built on "study harder" usually is not. Virginia's 30-day wait after three failures is the most consequential timing risk, because it forces a delay that eats into the 183-day window you have to get your license issued after passing.
 
 A first failure is information. Use the score report, diagnose the cause, target the specific gap, and retake when your practice exams demonstrate you are ready — not when the calendar says you should be.
 
-Visit JustInsurance to enroll today and address any content gaps with a state-approved Virginia course that covers both national and Virginia state law content.
+Visit JustInsurance to enroll today and address any content gaps with a Virginia course built to the current Prometric content outline that covers both the national and Virginia state-law content.

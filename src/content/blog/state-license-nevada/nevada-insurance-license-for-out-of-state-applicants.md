@@ -66,9 +66,11 @@ Specific requirements depend on your home state
 
 [Continuing education](/nevada/continuing-education):
 
-Non-resident producers typically follow their home state CE requirements
+Non-resident producers are exempt from Nevada's CE requirement. NAC 683A.325(2)(b) states that Nevada's CE provisions — NAC 683A.318 to 683A.370, inclusive — "do not apply to a person who holds ... a license as a nonresident producer of insurance or a nonresident insurance consultant."
 
-If your home state requires less CE than Nevada (or no CE), you may need to complete additional CE to meet Nevada requirements
+You satisfy CE by complying with your home state's rules. You never have to top up to Nevada's 30 hours, even if your home state requires fewer hours than Nevada or none at all. The Nevada Division of Insurance's own licensing FAQ lists the 30-hour/3-ethics obligation for Resident Producers and Resident Insurance Consultants only.
+
+Product-specific training is a separate question from CE hours — see the specialty training section below.
 
 ## Path 2: Nevada Resident Producer License (Moving to Nevada)
 
@@ -148,7 +150,7 @@ Annuity Best Interest Training. One-time 4-hour course (effective November 15, 2
 
 Flood Insurance Training. One-time 3-hour NFIP course for P&C and Personal Lines producers selling flood insurance.
 
-Important: Resident and non-resident producers may complete these specialty trainings in any state with laws substantially similar to Nevada's.
+Important: These product-specific training requirements are separate from the general CE hour requirement that non-residents are exempt from. Resident and non-resident producers may complete these specialty trainings in any state with laws substantially similar to Nevada's.
 
 ## Fees for Out-of-State Applicants
 
@@ -204,7 +206,7 @@ Confusion between paths. Some applicants try to maintain non-resident status whi
 
 Letter of clearance delays. Previous state insurance departments can be slow to issue Letters of Clearance. Request early in your process.
 
-CE compliance confusion. Determining whose CE rules apply during transition can be complex. When in doubt, comply with both states' requirements.
+CE compliance confusion. Buying Nevada CE you don't owe. While you hold only a Nevada non-resident license, your home state's CE rules are the only ones that apply — Nevada's do not. Nevada's 30 hours every 3 years, including 3 ethics, begins to apply once your Nevada resident license is active, so the question is really about timing the switch, not about doubling up.
 
 Specialty training oversight. Assuming previous state specialty training (LTC, Annuity Best Interest, NFIP) automatically transfers without verification.
 
@@ -225,11 +227,11 @@ California Motor Club specifically. California Motor Club agents can't apply for
 - Do I need to take the Nevada exam if I'm already licensed in another state? Generally no, if you hold the same lines of authority in your home state and apply within 90 days of establishing Nevada residency (for residents) or maintain home state licensing (for non-residents).
 - What's the difference between transferring my license and applying for a new Nevada license? There is no transfer process. You must apply for a new Nevada Resident Producer license. Your previous state license is surrendered or naturally inactivates.
 - How long is the application window for new Nevada residents? 90 days from establishing Nevada legal residency (or 90 days from previous license inactivation date if already surrendered). Missing this window means losing the exam exemption.
-- Do non-resident producers follow Nevada CE requirements? Generally, non-resident producers follow their home state CE requirements. If home state requires less than Nevada's 30 hours, additional CE may be needed.
+- Do non-resident producers follow Nevada CE requirements? No. Non-resident producers follow their home state's CE requirements only. Nevada's CE provisions expressly do not apply to nonresident producer licensees (NAC 683A.325(2)(b)), so there is no scenario in which you owe Nevada additional CE — not even if your home state requires fewer than 30 hours or has no CE requirement at all. Nevada's 30-hour/3-year standard attaches when you become a Nevada resident licensee. Product-specific training for annuities, long-term care, or flood is governed separately and may still apply.
 - Can I apply for Nevada licensing while I'm still living in my previous state? Yes — for non-resident licensing. To apply as a Nevada resident, you must establish Nevada residency first, then apply within 90 days.
 
 ## Add Nevada to Your Practice Smoothly
 
-Whether you're adding Nevada as a non-resident state or moving to Nevada and transitioning your residency, understanding the right path saves time and money. At JustInsurance, our Nevada exam prep course prepares you for any required exams and our Nevada CE courses help you maintain compliance after licensing.
+Whether you're adding Nevada as a non-resident state or moving to Nevada and transitioning your residency, understanding the right path saves time and money. At JustInsurance, our Nevada Life & Health exam prep course prepares you if a Life or Health exam is required, and our Nevada CE courses help you maintain compliance after licensing.
 
 Enroll today and add Nevada to your insurance practice with confidence.

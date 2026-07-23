@@ -31,10 +31,40 @@ const formatStateNames = (states: { name: string }[]): string => {
   return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
 };
 
-/** States whose approval is pending, including New York (not in SERVED_STATES). */
-const ALL_PENDING_STATES = Object.values(STATES).filter(
-  (s) => s.providerApprovalNumber === "PENDING"
+// ---------------------------------------------------------------------------
+// Renewal-cycle facts, DERIVED from states.ts. A hand-typed version of this
+// claimed a "1 year (South Dakota)" floor that exists in no state block and
+// contradicted this page's own table row ("South Dakota | 10 hrs | 2 years").
+// ---------------------------------------------------------------------------
+const CYCLE_GROUPS = Object.values(STATES).reduce<Record<string, string[]>>(
+  (acc, s) => {
+    const period = s.ce.renewalPeriod;
+    if (!acc[period]) acc[period] = [];
+    acc[period].push(s.name);
+    return acc;
+  },
+  {}
 );
+const TWO_YEAR_COUNT = (CYCLE_GROUPS["2 years"] ?? []).length;
+const THREE_YEAR_STATES = formatStateNames(
+  [...(CYCLE_GROUPS["3 years"] ?? [])].sort().map((name) => ({ name }))
+);
+const FOUR_YEAR_STATES = formatStateNames(
+  [...(CYCLE_GROUPS["4 years"] ?? [])].sort().map((name) => ({ name }))
+);
+
+/** Lowest CE total in the country — read it from states.ts, never retype it. */
+const SOUTH_DAKOTA = STATES["south-dakota"];
+
+// Prelicensing education is mandatory in only a minority of states; the rest
+// store a string ("None required (optional)" / "Not Required") in
+// prelicensing.life.hours. A state that never required a course cannot
+// require you to "retake" one after a lapse.
+const PRELICENSING_REQUIRED_COUNT = Object.values(STATES).filter(
+  (s) => typeof s.prelicensing.life.hours === "number"
+).length;
+const PRELICENSING_OPTIONAL_COUNT =
+  Object.values(STATES).length - PRELICENSING_REQUIRED_COUNT;
 
 export const metadata: Metadata = {
   title: { absolute: "Insurance License Renewal Guide 2026 | CE by State | JustInsurance" },
@@ -51,8 +81,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 const faqs = [
   {
     question: "How many CE hours do I need to renew my insurance license?",
-    answer:
-      "Most states require 24 hours of continuing education per renewal cycle, which is typically every 2 years. Some states require more — Arizona requires 48 hours over 4 years, Massachusetts requires 45 hours over 3 years, and Iowa requires 36 hours over 3 years. South Dakota is one of the lowest at 10 hours per year. Check the table on this page for your specific state's requirement.",
+    answer: `Most states require 24 hours of continuing education per renewal cycle, which is typically every 2 years. Some states require more — Arizona requires 48 hours over 4 years, Massachusetts requires 45 hours over 3 years, and Iowa requires 36 hours over 3 years. South Dakota is the lowest at ${SOUTH_DAKOTA.ce.totalHours} hours per ${SOUTH_DAKOTA.ce.renewalPeriod} renewal cycle — 20 hours if you also hold Property & Casualty, which is 10 hours in each discipline (ARSD 20:06:18:03). Check the table on this page for your specific state's requirement.`,
   },
   {
     question: "What happens if my insurance license lapses?",
@@ -66,9 +95,9 @@ const faqs = [
         ? ""
         : ` Our ${formatStateNames(
             CE_APPROVAL_PENDING
-          )} CE provider approval is still pending, so completions in ${
+          )} CE provider approval is still pending. CE for ${
             CE_APPROVAL_PENDING.length === 1 ? "that state" : "those states"
-          } are not yet reported to the DOI — you receive a certificate of completion for your records until approval issues.`
+          } can be purchased, but completions are not reported to the state DOI and do not yet satisfy that state's renewal requirement — you receive a certificate of completion for your records until approval issues.`
     }`,
   },
   {
@@ -85,15 +114,21 @@ const faqs = [
 
 const faqSchema = generateFAQSchema(faqs);
 
-// CE data: [stateName, slug, ceHours, renewalPeriod]
+// CE data: [stateName, slug, ceHours, renewalPeriod, ceApprovalPending]
 // DERIVED from states.ts at build time — never hand-maintain this table. A
 // hardcoded copy lived here and silently drifted from the source of truth it
 // claimed to come from (it still said Virginia 24 after states.ts was corrected
 // to 16 per Va. Code § 38.2-1866(C)). New York excluded per site policy.
-const statesCEData: [string, string, number, string][] = Object.values(STATES)
+const statesCEData: [string, string, number, string, boolean][] = Object.values(STATES)
   .filter((s) => s.slug !== "new-york")
   .sort((a, b) => a.name.localeCompare(b.name))
-  .map((s) => [s.name, s.slug, s.ce.totalHours, s.ce.renewalPeriod]);
+  .map((s) => [
+    s.name,
+    s.slug,
+    s.ce.totalHours,
+    s.ce.renewalPeriod,
+    s.providerApprovalNumber === "PENDING",
+  ]);
 
 const renewalSteps = [
   {
@@ -211,7 +246,7 @@ export default function LicenseRenewalGuidePage() {
               </div>
               <h3 className="font-bold text-navy text-base mb-2">Renewal Cycles</h3>
               <p className="text-gray-600 text-sm leading-relaxed">
-                License renewal cycles range from 1 year (South Dakota) to 4 years (Arizona). Most states use a 2-year cycle. Your renewal date is typically tied to your birth month or license issue date. Check your state&apos;s portal for your exact deadline.
+                License renewal cycles range from 2 years to 4 years ({FOUR_YEAR_STATES}). Most states — {TWO_YEAR_COUNT} of them — use a 2-year cycle; {THREE_YEAR_STATES} renew every 3 years. Your renewal date is typically tied to your birth month or license issue date. Check your state&apos;s portal for your exact deadline.
               </p>
             </div>
           </div>
@@ -275,7 +310,7 @@ export default function LicenseRenewalGuidePage() {
               </p>
               <p className="text-white font-semibold">CE Completion Reported to Your State</p>
               <p className="text-blue-300 text-sm mt-2">
-                Available in the states we serve. No manual submissions required.
+                Available in the states where our CE provider approval is active. No manual submissions required.
               </p>
             </div>
           </div>
@@ -289,7 +324,7 @@ export default function LicenseRenewalGuidePage() {
             CE Requirements by State
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
-            CE hours and renewal cycles nationwide served by JustInsurance. Click any state to see full CE details and enroll.
+            CE hours and renewal cycles nationwide. Click any state to see full CE details and enroll. Rows marked &ldquo;CE approval pending&rdquo; are states where our provider approval has not yet issued.
           </p>
           <div className="overflow-x-auto">
             <table className="w-full bg-white rounded-xl shadow-sm border border-gray-100 text-sm">
@@ -301,7 +336,7 @@ export default function LicenseRenewalGuidePage() {
                 </tr>
               </thead>
               <tbody>
-                {statesCEData.map(([name, slug, hours, period], i) => (
+                {statesCEData.map(([name, slug, hours, period, approvalPending], i) => (
                   <tr
                     key={slug}
                     className={i % 2 === 0 ? "bg-white" : "bg-gray-50"}
@@ -313,6 +348,11 @@ export default function LicenseRenewalGuidePage() {
                       >
                         {name}
                       </Link>
+                      {approvalPending && (
+                        <span className="block text-xs text-amber-700 font-medium mt-0.5">
+                          CE approval pending — not yet DOI-reportable
+                        </span>
+                      )}
                     </td>
                     <td className="px-4 py-3 text-center">
                       <span
@@ -337,12 +377,15 @@ export default function LicenseRenewalGuidePage() {
               contradicted by the New York practice-exam page we actually sell.
               The accurate, states.ts-backed statement is about CE approval. */}
           <p className="text-xs text-gray-500 text-center mt-4">
-            New York not shown.{" "}
-            {ALL_PENDING_STATES.length > 0 && (
+            New York is not shown — our New York CE provider approval is still pending.{" "}
+            {CE_APPROVAL_PENDING.length > 0 && (
               <>
-                Our CE provider approval is still pending in{" "}
-                {formatStateNames(ALL_PENDING_STATES)}, so JustInsurance CE is not yet available{" "}
-                {ALL_PENDING_STATES.length === 1 ? "there" : "in those states"}.{" "}
+                {formatStateNames(CE_APPROVAL_PENDING)} CE can be purchased, but our
+                provider approval{" "}
+                {CE_APPROVAL_PENDING.length === 1 ? "there is" : "in those states is"}{" "}
+                still pending, so completions are not reported to the state Department of
+                Insurance and do not yet satisfy that state&apos;s renewal requirement —
+                you receive a certificate of completion for your records only.{" "}
               </>
             )}
             State requirement data verified March 2026.
@@ -395,9 +438,13 @@ export default function LicenseRenewalGuidePage() {
             </p>
             <p>
               <strong className="text-navy">Medium windows (90 days - 1 year):</strong>{" "}
-              Texas gives a 90-day late renewal window. Nevada, Oregon, Wisconsin,
+              Texas gives a 90-day late renewal window. North Carolina gives 4
+              months from your CE compliance date to complete the hours and
+              reinstate ($75 paid to Prometric). Nevada, Oregon, Wisconsin,
               and West Virginia allow up to 12 months. Illinois allows 12 months
-              via NIPR with a $430 reinstatement total.
+              via NIPR with a $430 reinstatement total. Oklahoma allows
+              reactivation up to 1 year after expiration through a new initial
+              application and a double license fee — no retest.
             </p>
             <p>
               <strong className="text-navy">Long windows (2 years):</strong>{" "}
@@ -406,14 +453,19 @@ export default function LicenseRenewalGuidePage() {
             </p>
             <p>
               <strong className="text-navy">No grace period, immediate lapse:</strong>{" "}
-              California, Illinois (for CE completion), and New York lapse
-              immediately on expiration. Oklahoma, North Carolina, and a
-              handful of other states have strict non-grace structures.
+              California, Illinois (for CE completion), New York, Vermont,
+              Virginia, West Virginia, and Wisconsin all lapse immediately on
+              expiration — no grace period at all. Having no grace period is not
+              the same as having no way back: several of these states still allow
+              reinstatement later, as listed above.
             </p>
             <p>
               After the reinstatement window closes, most states require you to
-              retake the prelicensing course AND pass the state licensing exam
-              again — essentially starting over. The safest approach is to
+              re-apply as a new licensee and pass the state licensing exam again
+              — essentially starting over. Only the {PRELICENSING_REQUIRED_COUNT}{" "}
+              states that mandate prelicensing education would also require you to
+              retake a prelicensing course; in the other {PRELICENSING_OPTIONAL_COUNT}{" "}
+              states no course retake is mandated. The safest approach is to
               complete your CE at least 30 days before your expiration date to
               allow time for same-day reporting and state processing. For the
               exact rules in your state, see the {`"`}What Happens If You Miss Your CE

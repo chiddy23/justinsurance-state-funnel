@@ -12,7 +12,7 @@ image: /blog/images/top-nj-insurance-licensing-schools-to-kickstart-your-career.
 imageAlt: "Ethics CE in New Jersey: How to Satisfy the 3-Hour Requirement the Right Way"
 ---
 
-Ethics CE in New Jersey is simultaneously the smallest and the most non-negotiable component of the 24-hour renewal requirement. Three hours — embedded within your total, not added on top — must come from approved ethics or consumer protection courses. That sounds straightforward. But New Jersey has specific rules about what counts toward the ethics hours, what can substitute for one of them, and critically, that ethics hours cannot be carried over to future renewal periods even when other excess hours can. Getting the ethics component right is not just about checking a box — it is about making sure the one CE category that NIPR specifically verifies before approving your renewal application is fully satisfied on time.
+Ethics CE in New Jersey is simultaneously the smallest and the most non-negotiable component of the 24-hour renewal requirement. Three hours — embedded within your total, not added on top — must come from approved ethics or consumer protection courses. That sounds straightforward. But New Jersey has specific rules about what counts toward the ethics hours, what can substitute for one of them, and critically, that ethics hours cannot be carried over to future renewal periods even when other excess hours can. Getting the ethics component right is not just about checking a box — it is about making sure the one CE category you cannot backfill with banked hours is fully satisfied before your renewal deadline.
 
 ## The Baseline Requirement
 
@@ -50,9 +50,11 @@ The practical implication: there is no benefit to over-completing your ethics re
 
 ## Delivery Format for Ethics CE
 
-Ethics CE can be completed in either classroom/classroom-equivalent format or self-study format. There is no delivery format requirement specific to ethics hours — they can come from either the live or self-study bucket. However, if you choose to complete your ethics hours through a self-study course, the standard NJ self-study rules apply: forced progression through course content, closed-book final exam, 70% passing score, and a disinterested third-party proctor.
+Ethics CE can be completed in either contact (classroom or classroom-equivalent) format or self-study format. There is no delivery format requirement specific to ethics hours — they can come from either bucket.
 
-Many producers choose to complete their ethics hours through a live webinar because it simultaneously satisfies both the ethics content requirement and a portion of the 12-hour classroom minimum — a two-for-one efficiency that simplifies the overall CE plan.
+If you complete your ethics hours through self-study, N.J.A.C. 11:17-3.6(c) is the rule that governs approval: "Self-study courses shall be considered for approval if the program of instruction culminates in a monitored examination of the subject presented. A monitored examination is not required for an interactive, online program that the Department determines has sufficient internal testing to validate the student's full comprehension of the material presented." That is the entire standard. New Jersey does not impose a closed-book format, a stated passing percentage, or a disinterested third-party proctor on self-study CE. If your provider adds progression locks, timed modules, or its own pass threshold, those are that provider's design choices — useful, but not state mandates you need to shop for.
+
+Many producers still choose a live webinar for their ethics hours, and it is a reasonable choice: a scheduled session puts the block on the calendar and forces you to finish it. But treat that as a scheduling preference, not a compliance requirement.
 
 ## Why Ethics CE Matters Beyond Compliance
 
@@ -62,15 +64,17 @@ For producers who sell to vulnerable populations — seniors purchasing annuitie
 
 ## Building Ethics CE Into Your Renewal Plan
 
-The most efficient approach is to complete your 3 ethics hours early in your renewal period through a live webinar — knocking out both ethics content and classroom credit simultaneously. This eliminates any risk of scrambling to find ethics-specific courses near your renewal deadline, when course availability may be limited.
+The most efficient approach is to complete your 3 ethics hours early in your renewal period, in whatever format you will actually finish. This eliminates any risk of scrambling to find ethics-specific courses near your renewal deadline, when course availability may be limited.
 
 A simple compliant CE plan for ethics:
 
-Complete a 3-hour live ethics webinar early in the renewal period: satisfies the ethics requirement and counts toward the 12-hour classroom minimum
+Complete 3 hours of DOBI-approved ethics CE early in the renewal period — either one 3-hour ethics course, or 2 ethics hours plus the permitted 1-hour insurance fraud substitution
 
-Complete the remaining 21 general CE hours (9 more classroom, 12 self-study) over the balance of the two-year period
+Complete the remaining 21 general CE hours over the balance of the two-year period, in whichever approved format suits your schedule
 
-Result: 24 total hours, 3 ethics, 12 classroom — fully compliant
+Result: 24 total credit hours, 3 of them ethics — fully compliant
+
+Notice what is not on that list: a classroom quota. N.J.A.C. 11:17-3.6 sets the 24-credit total and the 3-credit ethics component, and it defines what a credit hour means for contact and self-study courses — but it does not require a minimum number of live or classroom-equivalent hours. An all-online CE plan built from DOBI-approved courses satisfies New Jersey in full.
 
 ## Frequently Asked Questions
 
@@ -84,16 +88,16 @@ Effective June 19, 2023, you may substitute one of your three required ethics cr
 
 Do my ethics hours need to come from a single 3-hour course, or can I spread them across multiple courses?
 
-You can spread your 3 ethics hours across multiple approved courses — for example, a 2-hour ethics course and a 1-hour fraud substitution course, or three separate 1-hour ethics courses. There is no requirement that the ethics hours come from a single course or session. The only requirement is that the total ethics and permissible substitution hours reach 3 before your renewal deadline, and that each course contributing to the total is DOBI-approved for ethics or fraud/ethics substitution credit. Keep records of each completed course and verify the credit types on your Sircon transcript before submitting your renewal application.
+You can spread your 3 ethics hours across multiple approved courses — for example, a 2-hour ethics course and a 1-hour fraud substitution course, or three separate 1-hour ethics courses. There is no requirement that the ethics hours come from a single course or session. The only requirement is that the total ethics and permissible substitution hours reach 3 before your renewal deadline, and that each course contributing to the total is DOBI-approved for ethics or fraud/ethics substitution credit. Keep records of each completed course and verify the credit types on your PSI CE transcript at ce.psiexams.com before submitting your renewal application.
 
 What happens if I submit my renewal application and my ethics hours are not fully satisfied?
 
-NIPR verifies CE compliance before allowing a renewal submission to proceed. If your Sircon transcript shows fewer than 3 ethics credit hours at the time of renewal, NIPR will flag the deficiency and prevent the renewal from completing. You will need to complete the missing ethics hours, allow time for your provider to report them to DOBI, and then return to NIPR to complete the renewal. If this happens close to your license expiration date, you risk entering the 30-day grace period — during which your license technically expires but you can still renew without penalty. Do not wait until the final week before your expiration date to check your ethics compliance. Verify your transcript at least 30 days before your deadline.
+Completing your CE — including the 3 ethics credits — is a condition of renewal, so the shortfall has to be corrected before the renewal goes through, not after. It helps to know which system does what. Your credits sit in DOBI's continuing education credit bank, which the Department contracts PSI Services LLC to administer; your transcript is at ce.psiexams.com. NIPR is where resident producers submit the renewal transaction itself — it is not New Jersey's CE tracking system, and you should not treat a submission screen as confirmation that your hours are on file. That split is what catches producers out: a course you finished last week may not appear on your PSI transcript yet if your provider has not uploaded the roster, and hours that are not banked cannot be counted toward your compliance. Pull your transcript, confirm that 3 credits are carrying an ethics designation, and give your provider time to report anything missing. Do not wait until the final week before your expiration date — verify at least 30 days out, which is what turns a reporting gap into an inconvenience rather than a lapse.
 
 Are there any exemptions from the ethics CE requirement in New Jersey?
 
-Producers who qualify for a complete CE exemption — primarily those who fulfill CE requirements for a DOBI-approved professional insurance designation — are exempt from the standard 24-hour CE requirement, including the ethics component. However, non-exempt producers cannot opt out of the ethics requirement even if they hold years of experience or professional credentials short of a full exemption. There is no experience-based waiver for ethics CE, and NIPR does not allow renewal without verification of the full 3-hour ethics credit. The ethics requirement applies to every non-exempt resident individual producer at every renewal.
+Producers who qualify for a complete CE exemption — primarily those who fulfill CE requirements for a DOBI-approved professional insurance designation — are exempt from the standard 24-hour CE requirement, including the ethics component. However, non-exempt producers cannot opt out of the ethics requirement even if they hold years of experience or professional credentials short of a full exemption. There is no experience-based waiver for ethics CE. The ethics requirement applies to every non-exempt resident individual producer at every renewal.
 
-Ethics CE in New Jersey is three hours per renewal period — but it is three hours that NIPR checks specifically, that cannot be carried over, and that must come from DOBI-approved sources. Building it into your renewal plan from the start, rather than treating it as an afterthought, is the only reliable way to ensure it never stands between you and a smooth renewal.
+Ethics CE in New Jersey is three hours per renewal period — but it is three hours that cannot be carried over, that must come from DOBI-approved sources, and that need to be banked on your PSI transcript before you renew. Building it into your renewal plan from the start, rather than treating it as an afterthought, is the only reliable way to ensure it never stands between you and a smooth renewal.
 
 Visit JustInsurance to enroll today and complete your NJ ethics CE requirement alongside your full 24-hour renewal through DOBI-approved courses.

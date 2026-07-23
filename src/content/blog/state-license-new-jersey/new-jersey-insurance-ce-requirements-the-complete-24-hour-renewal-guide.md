@@ -1,6 +1,6 @@
 ---
 title: "New Jersey Insurance CE Requirements: The Complete 24-Hour Renewal Guide"
-description: New Jersey is one of a relatively small number of states that mandates not just a total CE hour count but a specific delivery format minimum — and that ...
+description: New Jersey requires 24 continuing education credits every two-year license term, including three ethics credits — and, contrary to a widely repeated myth, no minimum number of classroom hours.
 keyword: new jersey insurance ce requirements the complete 24hour
 targetKeywords: new jersey insurance ce requirements the complete 24hour
 cluster: state-license-new-jersey
@@ -12,9 +12,25 @@ image: /blog/images/unlock-your-career-with-a-new-jersey-insurance-license-today
 imageAlt: "New Jersey Insurance CE Requirements: The Complete 24-Hour Renewal Guide"
 ---
 
-New Jersey is one of a relatively small number of states that mandates not just a total CE hour count but a specific delivery format minimum — and that distinction catches licensed producers off guard every renewal cycle. You cannot satisfy New Jersey's 24-hour [continuing education](/new-jersey/continuing-education) requirement entirely through self-paced online courses. At least 12 of your 24 required hours must be completed through classroom instruction or classroom-equivalent delivery, meaning live instruction with real-time interaction between instructor and students. That single rule shapes how every NJ producer should plan their CE before each biennial renewal deadline.
+New Jersey resident producers owe 24 credit hours of approved [continuing education](/new-jersey/continuing-education) every two-year license term, including three credit hours of professional ethics. That is the entire hour requirement — and it is worth saying plainly at the top, because the single most repeated claim about New Jersey CE is not in the rule at all: **there is no 12-hour classroom minimum.**
+
+N.J.A.C. 11:17-3.6(a) states the requirement as 24 credit hours of approved continuing education during the previous licensing term, including three credit hours related to professional ethics, one of which may be substituted with a credit hour related to insurance fraud. It says nothing about delivery format. It sets no minimum number of live, in-person, or "classroom equivalent" hours, and it places no cap on self-study. DOBI's own licensing page states it the same way: "24 continuing education credits with at least three credit hours in an approved ethics course."
+
+If you want to complete all 24 credits through approved online self-study, the regulation permits it. The "12 classroom hours" figure circulates widely on CE vendor sites, but it does not appear in the New Jersey Administrative Code or in DOBI's published requirement — and planning your renewal around a rule that does not exist costs you money and calendar time you did not need to spend.
 
 ## The Core Requirement at a Glance
+
+24 credit hours of approved CE per two-year license term
+
+3 of those 24 must be professional ethics credits (1 may be satisfied with an insurance fraud credit)
+
+No classroom minimum and no self-study cap — any approved delivery format may satisfy all 24
+
+Producers with property or personal lines authority who write flood insurance must include a 3-credit approved flood/NFIP course within the 24
+
+Up to 12 excess credits may carry over once; ethics credits may not carry over
+
+A single approved course may be credited only once per licensing term
 
 ## Who Must Complete CE
 
@@ -24,13 +40,17 @@ Public adjusters have a separate requirement: 15 CE hours per biennial renewal p
 
 Limited lines producers (for example, travel insurance or credit insurance) are not subject to the standard CE requirement.
 
-## The Classroom Requirement: What Counts
+## Delivery Formats: What Actually Counts
 
-New Jersey requires that at least 12 of your 24 CE hours be completed through classroom instruction or classroom-equivalent delivery. "Classroom equivalent" is defined as live instruction in which the instructor and students interact remotely via video conferencing or similar technology — in other words, a live webinar with instructor interaction qualifies. A recorded video course that you watch on your own schedule does not.
+Because there is no format quota, the format question in New Jersey is not "how many of each do I need?" but simply "is this course approved?" What the regulation does define, in N.J.A.C. 11:17-1.2, is two course types:
 
-This is the most operationally significant CE rule in New Jersey, and it is the one that causes the most last-minute compliance problems. Producers who accumulate most of their hours through self-paced online courses near their renewal deadline sometimes discover that they have completed the total hours but not the classroom minimum — and with a deadline approaching, live courses may have limited availability.
+Contact course (or class): "a classroom presentation, seminar, lecture or teleconference with monitored attendance and an instructor present." Attendance-based, with a live instructor — whether that is a physical room or a real-time teleconference.
 
-The practical implication: Plan your CE calendar to complete the 12 live hours first, early in your renewal period. Fill the remaining 12 hours with online self-study courses at your convenience.
+Self-study or self-directed course: "a continuing education course with study material in text, video, audio, or computerized format including interactive online courses, that is completed by successfully passing a test of the subject matter."
+
+Either type, once DOBI-approved, carries credit toward the same 24 hours. You may mix them in any proportion, or use one exclusively. There is also no defined regulatory category called "classroom equivalent" — that phrase is industry shorthand, not a DOBI credit type, and no New Jersey rule attaches an hour quota to it.
+
+The practical implication: choose formats around how you actually learn and how your schedule runs, not around a quota. What does need planning is the three ethics credits and any specialty training you owe — those are subject-matter requirements, and they are the ones producers genuinely come up short on at renewal.
 
 ## The Ethics Requirement
 
@@ -40,11 +60,11 @@ Ethics hours cannot be carried over to the next renewal period, even if you accu
 
 ## Course Format and Exam Rules
 
-Classroom and live webinar courses are completed based on attendance and participation. You must be present for the full duration and actively engaged — instructors and platforms track participation. No final exam is required for classroom or webinar CE.
+Contact courses — classroom sessions and live teleconference or webinar instruction — are completed on monitored attendance with an instructor present. You must be present for the full duration and actively engaged. No final exam is required for contact-course CE.
 
-Online self-study courses require you to complete all course material and pass a final certification exam. The exam is closed book — you may not refer to course materials during the exam. You must pass with a score of at least 70%. The exam can be retaken an unlimited number of times until passed. An impartial third-party proctor must be present during the final exam — someone who is not a friend, relative, co-worker, or anyone with a financial interest in the outcome.
+Self-study courses require you to complete all course material and pass a final examination, with a passing score of at least 70%. On the monitoring question, the rule has an exception that matters. N.J.A.C. 11:17-3.6(c) provides that self-study courses are considered for approval if the instruction "culminates in a monitored examination of the subject presented" — but it goes on to say that "a monitored examination is not required for an interactive, online program that the Department determines has sufficient internal testing to validate the student's full comprehension of the material presented." So a monitored final is the default for self-study, not a universal rule: a properly approved interactive online course can satisfy DOBI without one. If a course does require a monitored exam, ask the provider how that step is fulfilled before you register.
 
-Forced progression: New Jersey requires that online CE courses be completed sequentially — you must pass each page or section before advancing to the next. You cannot skip ahead in the course.
+Forced progression: expect it, but understand where it comes from. New Jersey's rules do not prescribe page-by-page navigation controls. What N.J.A.C. 11:17-3.1 requires is that a provider seeking approval submit "a detailed description of the methods that the provider will use to document that the student has satisfactorily completed the course content." Many approved online platforms satisfy that by locking sequential progression so you cannot skip ahead — so you will very likely encounter it, but it is a provider design choice made to meet DOBI's documentation standard, not a separate state mandate you are being graded against.
 
 ## The Carryover Rule
 
@@ -58,7 +78,7 @@ CE hours must be completed and reported to DOBI before you submit your renewal a
 
 Your CE provider reports your completed hours to the state. Most providers report completions within one business day, though state processing can take additional time. Complete all CE at least 30 days before your license expiration date to allow time for reporting and processing.
 
-Renewal is available through NIPR (nipr.com) or Sircon. NIPR charges a $5.60 processing fee. The DOBI renewal fee is $150 per line of authority — if you hold both Life and Health and Property and Casualty, you pay $150 per line when renewing.
+Renewal is available through NIPR (nipr.com) or Sircon. The DOBI renewal fee for a major-lines producer license is $150 for the two-year term, and it is charged once per license — not per line of authority. A producer holding Life, Accident and Health, Property, and Casualty pays the same $150 as a producer holding a single line. NIPR charges its own separate transaction fee on top of the state fee; a renewal submitted on paper rather than online is charged an additional $20 processing fee, which is what produces the $170 figure on DOBI's paper fee schedule. Adding a new line of authority is a separate one-time $40 charge, not a recurring renewal multiplier.
 
 DOBI sends renewal notices at least 30 days before expiration. Your renewal window opens 90 days before your expiration date.
 
@@ -70,11 +90,11 @@ New Jersey allows a 30-day grace period after the expiration date with no penalt
 
 Do I need to complete 24 CE hours for every line of authority I hold in New Jersey?
 
-No. New Jersey's CE requirement is a flat 24 hours per producer per renewal period, regardless of how many lines of authority you hold. A producer licensed in Life, Accident and Health, Property, and Casualty owes the same 24 total hours as a producer with a single line. You may take courses approved for any line of authority to satisfy your hours — New Jersey does not require that your CE courses match your specific license type, with the exception of public adjusters, who must complete courses specifically approved for their line. The 3-hour ethics requirement and the 12-hour classroom minimum apply to all producers equally, regardless of the number of lines held.
+No. New Jersey's CE requirement is a flat 24 hours per producer per renewal period, regardless of how many lines of authority you hold. A producer licensed in Life, Accident and Health, Property, and Casualty owes the same 24 total hours as a producer with a single line. You may take courses approved for any line of authority to satisfy your hours — New Jersey does not require that your CE courses match your specific license type, with the exception of public adjusters, who must complete courses specifically approved for their line. The 3-hour ethics requirement applies to all producers equally, regardless of the number of lines held, and there is no classroom-hour quota layered on top of it. The same per-license logic applies to the money: DOBI's $150 biennial renewal fee covers the license, not each line of authority listed on it.
 
-What qualifies as "classroom equivalent" CE in New Jersey?
+Can I complete all 24 New Jersey CE hours online?
 
-Classroom equivalent courses are live, instructor-led sessions delivered via video conferencing or similar technology, where the instructor and students can interact in real time. A live webinar where the instructor presents material, answers questions, and students can participate qualifies. A pre-recorded video course that you watch on demand, even if it was originally recorded live, does not qualify as classroom equivalent — it counts as self-study. When registering for CE courses, look for courses explicitly designated as "webinar," "live online," or "classroom equivalent" by DOBI-approved providers. If the course description does not specify live delivery with instructor interaction, treat it as self-study and count it toward your 12-hour self-study maximum.
+Yes. This is one of the most persistent myths about NJ CE, and it is worth answering directly: N.J.A.C. 11:17-3.6(a) requires 24 credit hours of approved CE per licensing term including three ethics credits, and it sets no minimum number of live or in-person hours and no cap on self-study. DOBI's licensing page states the same requirement with no format condition attached. Approved self-study and interactive online courses can satisfy the full 24 hours. You may still prefer live instruction, and many producers do — but it is a preference, not a compliance obligation. What does matter is that each course is individually approved for New Jersey and carries the credit type you need, particularly the three ethics credits and any specialty training such as long-term care, annuity best interest, or flood. If a vendor tells you New Jersey requires 12 classroom hours, ask them to cite the rule; there is not one.
 
 Can I retake a CE course I completed in a previous renewal period?
 
@@ -86,8 +106,8 @@ New Jersey provides a 30-day grace period after the license expiration date duri
 
 How do I confirm that my CE hours have been reported to DOBI before I renew?
 
-Check your CE transcript through Sircon (sircon.com) or directly through the NIPR portal before submitting your renewal application. Your transcript shows all reported CE credits, the course names, completion dates, and credit types (including which hours count as classroom and which as self-study, and which satisfy the ethics requirement). NIPR verifies CE compliance automatically before allowing a renewal submission — if your reported hours are insufficient, the system will flag it and you will not be able to complete the renewal. Do not wait until the last day before your deadline to check your transcript. Give yourself at least 30 days of buffer to catch any reporting discrepancies and allow time for corrections before your expiration date.
+Check your CE transcript through Sircon (sircon.com) or directly through the NIPR portal before submitting your renewal application. Your transcript shows all reported CE credits, the course names, completion dates, and credit types — including which hours satisfy the ethics requirement and any specialty training you owe. NIPR verifies CE compliance automatically before allowing a renewal submission — if your reported hours are insufficient, the system will flag it and you will not be able to complete the renewal. Do not wait until the last day before your deadline to check your transcript. Give yourself at least 30 days of buffer to catch any reporting discrepancies and allow time for corrections before your expiration date.
 
-New Jersey's 24-hour CE requirement is straightforward once you understand the classroom minimum, the ethics rule, the carryover provision, and the renewal timeline — but each of those details has practical consequences if you mismanage them. The producers who face last-minute compliance scrambles are almost always the ones who waited too long to start or who did not account for the 12-hour live instruction requirement.
+New Jersey's 24-hour CE requirement is straightforward once you understand the ethics rule, the carryover provision, the specialty training you owe, and the renewal timeline — but each of those details has practical consequences if you mismanage them. The producers who face last-minute compliance scrambles are almost always the ones who waited too long to start, or who discovered late that a course they completed was not approved for the credit type they needed. Format is the one thing you do not have to worry about.
 
 Visit JustInsurance to enroll today and complete your 24 hours of NJ-approved CE before your next renewal deadline.

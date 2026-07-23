@@ -26,7 +26,7 @@ Alabama is unique among U.S. states — its insurance licensing exams are admini
 
 Registration: training.ua.edu/insurance-testing Phone: (205) 348-3000 Email: insurance@ua.edu
 
-Register at least 7 days (5 business days) before your desired exam date. Exam fees are paid at registration by credit or debit card.
+To be admitted for examination you must register seven (7) days in advance of the day you want to test. Exam fees are paid at registration by credit or debit card — $50 for an individual producer exam, $75 for a combined producer exam such as Life & Health. Those fees are nonrefundable and nontransferable, and once your exam is scheduled you cannot change the type, date, time, or location.
 
 ## Alabama Exam Structure by License Type
 
@@ -100,7 +100,7 @@ Alabama offers remote online testing options for certain exams. Remote testing a
 
 Requirements for remote testing:
 
-Webcam
+A desktop or laptop with a built-in camera and microphone — Chromebooks are not accepted
 
 Reliable internet connection
 
@@ -108,9 +108,7 @@ Quiet, private testing environment
 
 Valid government-issued photo ID
 
-Approval through the Alabama support process
-
-For online testing, wait 24-48 business hours after registering to receive an email invitation from alabamasupport@adjusterpro.com with instructions for starting the online testing process.
+To use it, select "Insurance Testing – Online Proctor" when you pick your testing site and date. The University sends your scheduling email from noreply@proctoru.com on the next business day after you register — check your junk and spam folders, because that message is what lets you book your actual testing time.
 
 ## After You Pass
 
@@ -132,13 +130,31 @@ Print your license from aldoi.gov
 
 ## If You Don't Pass
 
-Don't panic. Many now-successful Alabama agents failed their first attempt.
+Don't panic. Many now-successful Alabama agents failed their first attempt. But before you re-register, find out which waiting period applies to you — Alabama's are mandatory, not advisory.
+
+### Alabama's mandatory retake waiting periods
+
+The University of Alabama publishes a fixed schedule that escalates with each failure:
+
+- Fail your 1st attempt — no waiting period
+- Fail your 2nd attempt — wait 90 days
+- Fail your 3rd attempt — no waiting period
+- Fail your 4th attempt — wait 180 days
+- Every failure after the 4th — a fresh 180-day wait before each attempt
+
+Waiting periods expire 24 months after the date of your last failed exam. And because the combined Life & Health exam covers both lines, a waiting period triggered by failing it also applies to the Life-only and Health-only exams.
+
+This matters financially. Exam fees are nonrefundable and nontransferable, and once an exam is scheduled you cannot change the type, date, time, or location. If you register for a date that falls inside your waiting period, you forfeit the fee — you'll have to go back online, re-register for a date after the period ends, and pay again.
+
+### Your retake plan
+
+Confirm your waiting period first — check the University of Alabama testing page before you do anything else
 
 Review your score report to identify weak content areas
 
-Wait at least 1-2 weeks before retaking — use the time for focused review
+Use the full waiting period for focused review rather than a quick turnaround
 
-Re-register with the University of Alabama and schedule your retake
+Re-register with the University of Alabama and schedule your retake for a date that clears your waiting period
 
 Pay the retake fee
 
@@ -158,9 +174,10 @@ Results are reliable and promptly reported
 
 The passing certificate carries significant weight
 
-## 5 Frequently Asked Questions
+## Frequently Asked Questions
 
 - How many questions are on the Alabama Life and Health exam? The combined Life and Health exam has 150 questions. Life-only has 125, Health-only has 100.
+- How soon can I retake the Alabama exam if I fail? It depends on how many times you have failed. There is no waiting period after your first failure, but you must wait 90 days after a second failure, and 180 days after a fourth — and a fresh 180-day wait applies before every attempt after that. Waiting periods expire 24 months after your last failed exam. Registering for a date inside your waiting period forfeits the fee, because University of Alabama exam fees are nonrefundable and cannot be rescheduled.
 - What's the passing score? 70%. You need to answer at least 70% of questions correctly to pass.
 - Where do I take the Alabama insurance exam? Alabama's exams are administered by The University of Alabama through their testing network. Register at training.ua.edu/insurance-testing.
 - Can I take the exam online? Yes, remote online testing is available for many Alabama exams. Requirements include a webcam, reliable internet, and proper environment.

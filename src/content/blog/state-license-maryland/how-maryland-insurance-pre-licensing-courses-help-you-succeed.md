@@ -21,7 +21,7 @@ By learning core insurance principles and state requirements in a supportive env
 
 ## Understand [Maryland licensing](/maryland/requirements) basics
 
-Unlike many states, Maryland does not mandate that prospective insurance producers complete pre-licensing hours for any line of authority — that requirement was eliminated effective October 1, 2024. Even so, many candidates choose an optional pre-licensing course covering common lines of authority like Life & Health and Property & Casualty, since it builds the foundational knowledge that helps you serve clients ethically and responsibly.
+Unlike many states, Maryland does not mandate that prospective insurance producers complete pre-licensing hours for any line of authority — that requirement was eliminated effective October 1, 2024. Even so, many candidates choose an optional pre-licensing course for their line of authority — Life & Health or Property & Casualty — since it builds the foundational knowledge that helps you serve clients ethically and responsibly.
 
 In most cases, you can enroll in in-person or online classes. Both formats tend to feature study guides, [practice questions](/maryland/practice-exam), and exam simulations even though neither is required by the state. The Maryland Insurance Administration sets the exam and licensing rules, so it's a good idea to double-check the latest guidelines on official state resources before getting started so you always follow the current standards.
 

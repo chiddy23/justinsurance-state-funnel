@@ -52,19 +52,19 @@ Each Florida license requires:
 
 - Passing the state exam for that license
 
-- Paying the application and licensing fees
+- Paying the application and licensing fees for that credential
 
-- Meeting any ongoing [continuing education](/florida/continuing-education) requirements for each license held
+- Keeping active appointments so the license stays in force
 
-Some license combinations share CE requirements efficiently — for example, ethics CE and Florida law CE often count across multiple lines. But core product education is specific to each license.
+Your [continuing education](/florida/continuing-education), on the other hand, does not multiply. Florida CE is a per-licensee obligation, not a per-license one: Fla. Admin. Code R. 69B-228.220 keeps "the total 2 year requirement… in that same yearly sequence for all license types combined," so adding a second license does not add hours to your cycle. You complete one consolidated requirement — 24 hours for your first six years licensed, 20 hours after that — on a single birth-month schedule, and Florida DFS asks for just one 4-hour Law & Ethics Update "specific to at least one license type held."
 
 ## Is More Always Better?
 
-Not necessarily. Holding multiple licenses comes with real responsibilities:
+Not necessarily. Holding multiple licenses comes with real responsibilities — though not the ones agents usually assume. Your CE hours do not stack, and Florida licenses are perpetual, so there is no per-license renewal bill. What does add up:
 
-More CE hours to complete every cycle. Each license has its own CE obligations.
+More upfront cost and study time. Each license means its own prelicense course, its own state exam, and its own application and licensing fees.
 
-More renewal fees. Each license has its own renewal requirements.
+More appointments to maintain. Every license you actually write business on needs an active appointment, renewed every 24 months, and a license that goes 48 months without one expires.
 
 More complexity. Being genuinely competent across multiple product lines takes years of study and practice.
 
@@ -80,7 +80,7 @@ Do I have capacity? Adding a license means adding study time, exam prep, and new
 
 Does it align with my target clients? If your client base would naturally benefit from additional products, adding the license makes sense. If it's unrelated to your current practice, it may be a distraction.
 
-Can I commit to the CE and renewals? Every license is an ongoing commitment, not a one-time achievement.
+Can I commit to the ongoing obligations? Your CE stays on one shared cycle, but every license you use needs active appointments and real product competence. Each credential is an ongoing commitment, not a one-time achievement.
 
 ## A Smart Licensing Path
 
@@ -98,13 +98,13 @@ This approach builds real expertise at each stage rather than spreading yourself
 
 1. Can I take multiple Florida license exams at the same time? You can schedule separate exams for different licenses. Each requires its own prelicense education and separate exam appointment.
 
-2. Do I pay separate licensing fees for each credential? Yes. Each license has its own application and licensing fees. Renewal fees are also separate.
+2. Do I pay separate licensing fees for each credential? Each license carries its own one-time application and licensing fee. There are no per-license renewal fees, though — Florida agent licenses are perpetual, with no renewal required. The recurring cost is the appointment fee, remitted every 24 months by the insurer or agency that appoints you.
 
 3. If I hold multiple licenses, can one exam failure affect the others? No. Failing one license exam doesn't affect your other active licenses. You simply retake the exam for the one you didn't pass.
 
 4. Does Florida offer any combined license that covers all product lines? No. Florida's licensing is designed around specific product categories, not a single combined license. To cover life, health, annuities, and P&C, you need multiple licenses.
 
-5. Will my CE requirements overlap if I hold multiple licenses? Some courses — particularly ethics and Florida law courses — can count across multiple lines. Product-specific CE must be completed for each license separately.
+5. Will my CE requirements overlap if I hold multiple licenses? They more than overlap — they merge. Florida CE is measured per licensee, not per license, so all your license types share one consolidated requirement on one birth-month compliance cycle: 24 hours for your first six years licensed, 20 hours after that. Only one 4-hour Law & Ethics Update is required, and it need only be specific to at least one license type you hold. The remaining hours are DFS-approved electives with no per-license partition, so there is no separate product-specific CE stack to complete for each credential.
 
 ## Build Your Florida Licensing Strategy the Right Way
 

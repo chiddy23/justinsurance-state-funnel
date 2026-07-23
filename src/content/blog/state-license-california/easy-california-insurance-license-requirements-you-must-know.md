@@ -84,7 +84,7 @@ For example, a standard rule is to complete 24 hours of CE—at least some of wh
 
 ## Leverage support from JustInsurance
 
-Navigating through California insurance license requirements doesn’t have to feel confusing or overwhelming. A partner like JustInsurance can help you track your progress, prepare for the exam, and coordinate next steps after you pass. They often offer a blend of study tools, exam prep strategies, and expert guidance that can simplify your journey from novice to licensed agent.
+Navigating through California insurance license requirements doesn’t have to feel confusing or overwhelming. JustInsurance offers the 12-hour California Code and Ethics prelicensing course along with self-paced Life and Health exam prep and full-length practice exams, so the education and exam-prep pieces are handled in one place. The application, fingerprinting, and licensing steps are still yours to complete with the California Department of Insurance, and CDI is the authority on where your file stands.
 
 Your final goal is to start selling insurance in a way that meets your clients’ needs while satisfying the state’s regulations. By taking your time to study thoroughly, understanding each step, and relying on supportive resources, you’ll soon have your license in hand.
 
@@ -94,4 +94,4 @@ Completing your pre-licensing hours and passing the licensing exam might feel li
 
 Take a moment to set up your study schedule and gather your resources. Double-check that you meet all California insurance license requirements, and don’t hesitate to reach out to a helpful partner if you need extra clarity. Every moment you invest in learning and preparing lays the groundwork for a successful career.
 
-If you’re excited to move forward, consider connecting with JustInsurance for more guidance. They can help you align your goals with the right educational approaches, licensing exam tips, and compliance support. It’s never been easier to begin your insurance journey—just start with the first step and build from there. Good luck!
+If you’re excited to move forward, JustInsurance’s [California prelicensing course](/california/prelicensing) and practice exams are a straightforward place to start, and its [continuing education](/california/continuing-education) courses cover the hours you will owe at each renewal. Tracking that renewal deadline is your own responsibility — the California Department of Insurance is where to confirm your license status and expiration date. It’s never been easier to begin your insurance journey—just start with the first step and build from there. Good luck!

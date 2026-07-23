@@ -16,7 +16,7 @@ imageAlt: >-
   health insurance: healthcare.gov and badgercare pl.
 ---
 
-Wisconsin's health insurance landscape is defined by two key structural facts: Wisconsin uses Healthcare.gov (the federal ACA marketplace — no state-based exchange) and BadgerCare Plus (Wisconsin's Medicaid program) uses a distinctive 100% FPL threshold for adult eligibility — more restrictive than most Medicaid expansion states that cover adults to 138% FPL. This means Wisconsin adults at 100-138% FPL are directed to Healthcare.gov with federal premium subsidies rather than BadgerCare Plus — a uniquely Wisconsin advisory context. Wisconsin's no-individual-mandate position, large group employer markets (Northwestern Mutual, Epic Systems, American Family Insurance, UW Health), and the Annuity Best Interest training requirement (April 2022) all shape Wisconsin's health and life insurance advisory environment.
+Wisconsin's health insurance landscape is defined by two key structural facts: Wisconsin uses Healthcare.gov (the federal ACA marketplace — no state-based exchange) and BadgerCare Plus (Wisconsin's Medicaid program) uses a distinctive 100% FPL threshold for adult eligibility — more restrictive than most Medicaid expansion states that cover adults to 138% FPL. This means Wisconsin adults at 100-138% FPL are directed to Healthcare.gov with federal premium subsidies rather than BadgerCare Plus — a uniquely Wisconsin advisory context. Wisconsin's no-individual-mandate position, large group employer markets (Northwestern Mutual, Epic Systems, American Family Insurance, UW Health), and the Annuity Best Interest training requirement (2021 Wisconsin Act 260; effective October 1, 2022) all shape Wisconsin's health and life insurance advisory environment.
 
 ## Healthcare.gov — Wisconsin's ACA Marketplace
 
@@ -46,9 +46,11 @@ Adults at or below 100% FPL → BadgerCare Plus (through Section 1115 waiver)
 
 Adults at 100-138% FPL → Healthcare.gov marketplace with federal premium subsidies
 
-Children under 19: covered by BadgerCare Plus regardless of income (per OCI confirmation)
+Children under 19: eligible up to 300% FPL — tested at 306% FPL once the 5% income disregard and 1% conversion factor are applied. Children in households above roughly 201% FPL owe a modest monthly premium, and children over 306% FPL can still qualify by meeting a six-month deductible calculated on income above 150% FPL. Children's coverage is far broader than the adult threshold, but it is income-tested, not unlimited.
 
-Families and pregnant women: broader eligibility
+Families and pregnant women: broader eligibility than the 100% FPL adult rule
+
+Who administers what: BadgerCare Plus eligibility is set and administered by the Wisconsin Department of Health Services, not OCI. OCI regulates insurers, producers, and the Navigator license — it does not determine Medicaid eligibility. Route eligibility questions to DHS (dhs.wisconsin.gov) or the county/tribal income maintenance agency.
 
 Why 100% FPL and not 138% FPL? Wisconsin chose not to accept full standard Medicaid expansion (which covers to 138% FPL). Instead, Wisconsin uses a Section 1115 waiver structure that covers adults to 100% FPL and directs the 100-138% FPL population to the federal marketplace. This is Wisconsin's conservative approach that accepts some federal funding while maintaining tighter eligibility. Wisconsin was among the early states to extend Medicaid to childless adults (pre-ACA), which influenced this approach.
 
@@ -60,19 +62,19 @@ Client at 85% FPL: BadgerCare Plus — advise on managed care enrollment options
 
 Client at 115% FPL: Healthcare.gov marketplace — advise on APTC, plan selection, Essential Health Benefits
 
-Client at 120% FPL with income increase to 105%: Transition from BadgerCare Plus to marketplace — important advisory moment
+Client at 95% FPL whose income rises to 105% FPL: Transition from BadgerCare Plus to the Healthcare.gov marketplace with APTC — crossing the 100% FPL line is the advisory moment, and a small raise can move an entire household's coverage pathway
 
-## BadgerCare Plus LTC Intersection
+## Medicaid Long-Term Care and the LTC Partnership
 
-BadgerCare Plus provides long-term care coverage through Wisconsin's Medicaid program for eligible individuals. The Wisconsin LTC Partnership program allows Partnership-qualified LTC policies to protect assets from BadgerCare Plus spend-down.
+BadgerCare Plus is Wisconsin's acute-care Medicaid program; it does not pay for long-term care. Wisconsin Medicaid covers long-term care through separate programs — Family Care, Family Care Partnership, IRIS, and institutional (nursing home) Medicaid — each with its own functional and financial eligibility, including asset limits and a spend-down that the income-based BadgerCare Plus program does not impose. The Wisconsin Long-Term Care Insurance Partnership program lets a Partnership-qualified LTC policy protect assets dollar-for-dollar: for every dollar the policy pays in benefits, an equal amount of the client's assets is disregarded for Medicaid long-term care eligibility and shielded from Medicaid estate recovery.
 
-Advisory context for LTC producers: Wisconsin clients who may need LTC care need to understand:
+Advisory context for LTC producers: Wisconsin clients who may need long-term care should understand:
 
-BadgerCare Plus covers LTC for eligible adults (at or below 100% FPL after asset spend-down)
+Medicaid long-term care (Family Care, Family Care Partnership, IRIS, institutional Medicaid) is asset-tested and generally requires spending down assets to qualify — this is separate from BadgerCare Plus and its 100% FPL income rule
 
-LTC Partnership protects assets from spend-down
+A Partnership-qualified LTC policy protects an equal amount of assets from that spend-down and from Medicaid estate recovery
 
-The 100% FPL threshold means LTC planning for Wisconsin clients at the 100-138% FPL range is particularly important — they don't qualify for BadgerCare Plus until assets are spent down, and they're not in standard full-expansion Medicaid
+Middle-income clients who would otherwise have to exhaust their savings before Medicaid pays for care are the clearest candidates for private LTC or Partnership coverage
 
 ## Wisconsin Group Health Market
 

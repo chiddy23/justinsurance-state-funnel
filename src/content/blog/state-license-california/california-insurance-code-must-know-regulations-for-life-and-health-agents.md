@@ -29,7 +29,7 @@ The Code is extensive. As a working agent, you don't need to memorize every sect
 
 Licensing and Agent Conduct. These sections cover who can be licensed, the qualifications required, standards of agent conduct, [continuing education](/california/continuing-education), and the authority of CDI to discipline licensees. This is the foundation of your legal authority as an agent.
 
-Unfair Trade Practices. California prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and others. Violations here are the single most common reason agents face disciplinary action. (See the dedicated article on unfair practices in this cluster for a full breakdown.)
+Unfair Trade Practices. California prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and others. Violations in this area are a serious matter — they can trigger CDI disciplinary action ranging from fines to license suspension or revocation. (See the dedicated article on unfair practices in this cluster for a full breakdown.)
 
 Replacement of Life Insurance and Annuities. Specific rules govern the replacement of existing life insurance policies and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are all covered.
 

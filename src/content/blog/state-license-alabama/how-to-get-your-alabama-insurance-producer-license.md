@@ -154,6 +154,6 @@ Variable Life and Variable Annuity — requires existing Life license plus secur
 
 ## Start Your Alabama Insurance Career Right
 
-Alabama's streamlined licensing process makes it one of the faster paths to becoming a licensed producer. At JustInsurance, our Alabama-focused prep course covers everything the ALDOI exam tests — so you're prepared even without a mandatory prelicense requirement.
+Alabama's streamlined licensing process makes it one of the faster paths to becoming a licensed producer. At JustInsurance, our Alabama-focused prep course covers everything the Alabama life and health exam tests — so you're prepared even without a mandatory prelicense requirement.
 
 Enroll today and take your first step toward an Alabama insurance producer license.

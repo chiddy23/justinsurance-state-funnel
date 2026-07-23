@@ -32,7 +32,7 @@ Minnesota's response to a lapsed producer license occurs in two distinct phases 
 
 If a Minnesota producer's license lapses, the producer has 12 months from the date of lapse to reinstate the license. During this 12-month window, reinstatement is available through a streamlined process — no new [prelicensing](/minnesota/prelicensing) education, no new state exam, no new fingerprinting. The producer reinstates the license by paying a reinstatement penalty and submitting a renewal application.
 
-The reinstatement penalty: Minnesota's penalty for reinstating a lapsed license within the 12-month window is double the unpaid renewal fee. The standard renewal fee is $50 plus a $30 technology surcharge, totaling $80 per renewal cycle. The reinstatement penalty doubles this to $160, plus the applicable technology and transaction fees. The total reinstatement cost is approximately $160–$175 depending on the transaction fees at the time of submission.
+The reinstatement penalty: Minnesota's penalty for reinstating a lapsed license within the 12-month window is double the unpaid renewal fee. The standard renewal fee is $50 per line of authority plus a roughly $10 technology surcharge — about $60 per renewal cycle for a single line. Doubling the $50 renewal fee brings the reinstatement to roughly $100 in state fees for one line, plus the technology surcharge and the NIPR or Sircon transaction fee — a total in the neighborhood of $115–$125. The exact figure depends on your number of lines of authority and the transaction fee at the time of submission, so confirm it with the Department of Commerce before you pay.
 
 How to reinstate within 12 months: Submit a renewal application through NIPR or Sircon and pay the doubled fee. The same platform used for regular renewal handles reinstatement — there is no separate reinstatement application form. The application indicates the license lapsed and calculates the appropriate penalty fee. The Department processes reinstatement applications with the same approximately 10-business-day timeline as regular renewals.
 
@@ -88,7 +88,11 @@ A non-resident Minnesota producer license lapses if the producer's home state li
 
 Understanding the financial stakes of the reinstatement decision helps producers act quickly when time is short.
 
-The cost differential between reinstating within 12 months and full relicensing after 12 months is approximately $175–$200. The cost differential between timely renewal and reinstatement is modest — roughly $80 in additional penalty. These comparisons make the financial case for acting quickly: every month that passes after a lapse without reinstatement increases both the cost and the risk of crossing the 12-month threshold where full relicensing becomes necessary.
+Reinstating within the 12-month window is inexpensive: roughly $115 in total for a single line — the $100 late renewal fee (the $50 renewal fee doubled), the $10 technology surcharge, and the NIPR or Sircon transaction fee. Measured against a timely renewal, that is only about $50 in additional cost, since the penalty is the doubling of the renewal fee itself.
+
+Full relicensing after the window closes is a different order of magnitude, because it restarts the entire initial-licensing cost stack: a 20-hour prelicensing course for each line of authority, the $50-per-line application fee plus the technology surcharge, the $45 PSI exam fee per attempt, and the $63.75 fingerprinting fee PSI collects at the test center on exam day — several hundred dollars for a single line, and proportionally more for a multi-line license. That figure also ignores the larger cost, which is not a fee at all: weeks of study to re-prepare for an exam you already passed once, and the risk of failing it.
+
+The comparison makes the financial case for acting quickly. Every month that passes after a lapse without reinstatement increases the risk of crossing the 12-month threshold, where a roughly $115 transaction becomes a full relicensing project. Fee schedules change — confirm the current amounts with the Department of Commerce, or at NIPR or Sircon checkout, before you rely on any of these numbers.
 
 ## Step-by-Step Reinstatement Within the 12-Month Window
 
@@ -106,7 +110,7 @@ Step 5 — Confirm reinstatement and resume business: Once the Department approv
 
 My Minnesota license lapsed eight months ago and I've been out of the insurance business since then. I want to return. Is reinstatement still possible?
 
-Yes. Eight months is within the 12-month reinstatement window. You can reinstate your Minnesota license by submitting the reinstatement application through NIPR or Sircon, paying the doubled renewal fee (approximately $160 in base penalty plus fees), and ensuring your CE for the missed renewal period is complete. You have approximately four months remaining before the 12-month window closes. Act promptly — if you miss the 12-month deadline, full relicensing including new prelicensing education, a new PSI exam, and new fingerprinting is required, at a significantly higher total cost. Contact the Department of Commerce at (651) 539-1599 to confirm the exact lapse date and the deadline for reinstatement before submitting.
+Yes. Eight months is within the 12-month reinstatement window. You can reinstate your Minnesota license by submitting the reinstatement application through NIPR or Sircon, paying the doubled renewal fee (roughly $100 in doubled state fees for a single line, plus the technology surcharge and transaction fee), and ensuring your CE for the missed renewal period is complete. You have approximately four months remaining before the 12-month window closes. Act promptly — if you miss the 12-month deadline, full relicensing including new prelicensing education, a new PSI exam, and new fingerprinting is required, at a significantly higher total cost. Contact the Department of Commerce at (651) 539-1599 to confirm the exact lapse date and the deadline for reinstatement before submitting.
 
 I reinstated my Minnesota license within 12 months. Do my old carrier appointments automatically resume?
 

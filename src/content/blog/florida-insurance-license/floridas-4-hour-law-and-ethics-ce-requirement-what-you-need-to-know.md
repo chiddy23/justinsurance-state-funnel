@@ -22,7 +22,7 @@ Here's exactly what the 4-hour Law and Ethics requirement is and why it matters.
 
 ## What Is the 4-Hour Law and Ethics Update?
 
-The 4-hour Law and Ethics Update is a Florida DFS-mandated [continuing education](/florida/continuing-education) course that all licensed resident insurance agents must complete every 2-year renewal cycle. It's a specific course — not just any ethics course — and it's tailored to the licensee's specific line of authority.
+The 4-hour Law and Ethics Update is a Florida DFS-mandated [continuing education](/florida/continuing-education) course that nearly every licensed resident insurance agent must complete every 2-year renewal cycle (Fla. Stat. §626.2815(3) exempts title insurance agents). It's a specific course — not just any ethics course — and it's tailored to the licensee's specific line of authority.
 
 There are separate 4-hour updates for:
 
@@ -72,13 +72,15 @@ License maintenance. Current CE requirements, renewal procedures, and license st
 
 ## Where the 4-Hour Fits Into Your Overall CE
 
-For most license types (2-15, 2-14, 2-40, 2-20), the 4-hour Law and Ethics Update is part of your total 24-hour CE requirement — not in addition to it. So your breakdown looks like:
+For most license types (2-15, 2-14, 2-40, 2-20), the 4-hour Law and Ethics Update is part of your total CE requirement — not in addition to it. What changes with tenure is the number of *elective* hours you add on top of it. Fla. Stat. §626.2815(3) sets three tiers:
 
-- 4 hours — Law and Ethics Update (mandatory)
+- Licensed fewer than 6 years: 4-hour update + 20 elective hours = **24 hours total**
 
-- 20 hours — Approved elective CE topics
+- Licensed 6 or more years: 4-hour update + 16 elective hours = **20 hours total**
 
-- 24 hours total
+- Licensed 25 or more years, and you hold a CLU or CPCU or a bachelor's degree or higher in risk management or insurance (with 18+ semester hours of insurance coursework): 4-hour update + 6 elective hours = **10 hours total**
+
+The "24 hours" figure you see quoted everywhere is really just the first tier. DFS's own CE chart carries the caveat that it "does not reflect reductions, if applicable" — so if you've been licensed six years or more, check your MyProfile CE record before you buy a full 24-hour package you don't owe.
 
 For 4-40 Customer Representatives, the 4-hour Law and Ethics Update is a required component of the overall CE requirement for that license.
 
@@ -104,7 +106,7 @@ Taking an outdated version of the course — or a version for the wrong license 
 
 1. Can I take the same 4-hour course every cycle? Technically yes if it's approved for the current cycle — but the content changes over time to reflect new laws and rules. Most agents take a refreshed version each cycle.
 
-2. Does the 4-hour update count toward my total 24 hours? Yes, for most license types (2-15, 2-14, 2-40, 2-20). The 4 hours are part of the 24-hour requirement, not in addition to it.
+2. Does the 4-hour update count toward my total hours? Yes, for most license types (2-15, 2-14, 2-40, 2-20) the 4 hours are part of the total, not in addition to it. Just remember the total isn't always 24: it's 24 hours for your first 6 years of licensure, 20 hours at 6 or more years, and 10 hours at 25 or more years if you hold a CLU, CPCU, or a qualifying insurance degree.
 
 3. Can I combine 4-hour courses across multiple licenses? No. Each license has its own version of the 4-hour update. If you hold multiple licenses, you must complete the version specific to each line of authority.
 
@@ -114,6 +116,6 @@ Taking an outdated version of the course — or a version for the wrong license 
 
 ## Knock Out the 4-Hour Update the Right Way
 
-At JustInsurance, our DFS-approved 4-hour Law and Ethics Update courses are available for every Florida license type — fully current with the latest cycle and built for clarity, not filler.
+At JustInsurance, our DFS-approved 4-hour Law and Ethics Update courses are current with the latest cycle and built for clarity, not filler. Because the update is license-specific, check the [Florida CE catalog](/florida/continuing-education) for the version that matches your own line of authority before you enroll.
 
 Enroll today and check the most important CE box on your list.

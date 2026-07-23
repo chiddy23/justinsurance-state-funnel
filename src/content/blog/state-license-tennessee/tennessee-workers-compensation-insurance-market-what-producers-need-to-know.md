@@ -16,9 +16,9 @@ Workers' compensation is the largest P&C commercial insurance line by premium vo
 
 ## The Tennessee Workers' Compensation Market Structure
 
-Tennessee operates a competitive private insurance market for workers' compensation — no state fund, no monopolistic carrier. Coverage comes exclusively through private insurers or the NCCI-managed assigned risk plan. Hundreds of carriers actively write workers' compensation policies in Tennessee, from national multi-line carriers to specialty workers' compensation writers who focus on specific industries. CSG South
+Tennessee operates a competitive private insurance market for workers' compensation — no state fund, no monopolistic carrier. Coverage comes exclusively through private insurers or the NCCI-managed assigned risk plan. Hundreds of carriers actively write workers' compensation policies in Tennessee, from national multi-line carriers to specialty workers' compensation writers who focus on specific industries.
 
-The 13th consecutive rate decrease: Tennessee Department of Commerce and Insurance Commissioner Carter Lawrence signed orders approving a 2% overall loss cost decrease for the voluntary market and a 1.1% decrease in the assigned risk rate level, effective March 1, 2026, for new and renewal policies. Since 2014 reform legislation took effect, Tennessee rates have fallen more than 70% and now run approximately 19% below the national average. CSG SouthUSDA
+The 13th consecutive rate decrease: Tennessee Department of Commerce and Insurance Commissioner Carter Lawrence signed orders approving a 2% overall loss cost decrease for the voluntary market and a 1.1% decrease in the assigned risk rate level, effective March 1, 2026, for new and renewal policies. Since 2014 reform legislation took effect, Tennessee rates have fallen more than 70% and now run approximately 19% below the national average.
 
 Why rates keep declining: The 2013 reform legislation that took effect July 1, 2014 restructured the entire system. It created an administrative Court of Workers' Compensation Claims, required physicians to prove employment caused more than 50% of injuries, and introduced body-as-a-whole impairment ratings that typically produce lower disability scores than the prior system. These structural changes reduced fraudulent and marginal claims, accelerated dispute resolution, and produced smaller average benefit payments — all of which flow directly into lower loss costs and lower premiums.
 
@@ -42,7 +42,7 @@ Classification accuracy matters financially: A business with $500,000 in payroll
 
 ### The Tennessee Bonus Rule
 
-Tennessee has a specific workers' compensation premium rule that differs from the standard NCCI approach: bonuses are NOT included in premium calculations in Tennessee, provided they are not paid in lieu of wages and are not specified as part of the wage contract. This is codified in TCA §50-6-402(a) and confirmed by NCCI's clarification at the request of the INSURORS of Tennessee. Self Employed
+Tennessee has a specific workers' compensation premium rule that differs from the standard NCCI approach: bonuses are NOT included in premium calculations in Tennessee, provided they are not paid in lieu of wages and are not specified as part of the wage contract. This is codified in TCA §50-6-402(a) and confirmed by NCCI's clarification at the request of the INSURORS of Tennessee.
 
 This distinction matters for employers who pay meaningful year-end bonuses. A construction company with $800,000 in base payroll and $200,000 in performance bonuses calculates premium on $800,000 — not $1 million. Producers who verify that the audit is being conducted correctly — specifically that bonuses are excluded from the payroll base — protect employers from premium overpayment that auditors may inadvertently include.
 
@@ -124,4 +124,4 @@ Under TCA §50-6-402(a), and confirmed by NCCI clarification, bonuses are exclud
 
 Tennessee's workers' compensation market — 13 consecutive years of rate decreases, the most profitable major P&C line nationally, a competitive private market with broad carrier participation, and a rating system that rewards employers who invest in safety with EMR improvements that compound over time — rewards producers who understand the technical mechanics well enough to provide genuine advisory value. Classification accuracy, EMR trajectory analysis, the bonus exclusion, the Drug-Free Workplace credit, Part Three multistate coverage, and return-to-work program guidance are not exotic specializations — they are the routine advisory conversations that distinguish producers who build durable commercial lines practices from those who process renewals until the client finds a producer who knows more than they do.
 
-Visit JustInsurance to enroll today and complete your Tennessee Property and Casualty [prelicensing](/tennessee/prelicensing) with a state-approved course — the foundational credential for every workers' compensation conversation with Tennessee's commercial clients.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline — the foundational credential for every workers' compensation conversation with Tennessee's commercial clients.

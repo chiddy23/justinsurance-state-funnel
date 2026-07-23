@@ -1,6 +1,6 @@
 ---
 title: Why Candidates Fail the Virginia Insurance Exam — and What Top Scorers Do Differently
-description: Industry estimates put Virginia's insurance exam first-time pass rates in the low-to-mid 70s across the major lines — Virginia does not publish official line-level figures...
+description: Virginia publishes first-time pass rates by exam — 67.3% on Life, Annuities & Health and 69.5% on Property & Casualty. Here is what separates the candidates who pass from the ones who don't...
 keyword: why candidates fail the virginia insurance exam and what
 targetKeywords: why candidates fail the virginia insurance exam and what
 cluster: state-license-virginia
@@ -12,21 +12,21 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: Why Candidates Fail the Virginia Insurance Exam — and What Top Scorers Do Differently
 ---
 
-Virginia does not publish official line-level pass-rate data, but industry estimates put first-time pass rates in the low-to-mid 70s across the major lines — roughly 73–75% of first-time candidates pass, and approximately 25–27% do not. (This is separate from [JustInsurance's own reported pass rate](/pass-rates) among students who complete our course, which runs meaningfully higher.) The gap between candidates who pass and fail on their first attempt is not explained by intelligence, financial sophistication, or aptitude for the insurance industry. It is explained almost entirely by preparation quality and preparation method. Candidates who fail follow predictable patterns that are easy to identify in hindsight. Candidates who pass follow a different set of patterns that are equally predictable. This post identifies both — specifically in the context of the Virginia exam's unique structure — so you can put yourself in the right group before exam day.
+Virginia is one of the few states that publishes real pass-rate data, and the numbers are more sobering than most candidates expect. The Bureau of Insurance posts an annual demographic report prepared by Prometric covering first-time test takers. For the reporting period June 1, 2024 through May 31, 2025, 9,561 first-time candidates sat for a Virginia insurance exam and 68.65% passed. By line: 67.34% on Life, Annuities & Health; 69.52% on Property & Casualty; 63.67% on Life & Annuities; 74.53% on Health; 78.33% on Personal Lines. Across all lines, roughly three in ten first-time candidates walk out without a passing score. (That is a statewide first-time-candidate figure. [JustInsurance's own reported pass rate](/pass-rates) is measured among students who complete our course — a narrower group, so it is not a like-for-like comparison to the statewide number.) The gap between candidates who pass and fail on their first attempt is not explained by intelligence, financial sophistication, or aptitude for the insurance industry. It is explained almost entirely by preparation quality and preparation method. Candidates who fail follow predictable patterns that are easy to identify in hindsight. Candidates who pass follow a different set of patterns that are equally predictable. This post identifies both — specifically in the context of the Virginia exam's unique structure — so you can put yourself in the right group before exam day.
 
 ## Why Candidates Fail: The Six Most Common Patterns
 
 ### Pattern 1: Treating the State Law Section as Secondary
 
-The most common failure mode, by a wide margin. Virginia's exam has two independently scored sections — national general content and Virginia state law. Many candidates spend 80–90% of their preparation time on national insurance products and treat state law as a quick review at the end.
+The most common failure mode, by a wide margin. Every Virginia exam has two parts — a general-knowledge portion and a Virginia-specific portion — and Prometric scores them together as a single examination. Many candidates spend 80–90% of their preparation time on national insurance products and treat state law as a quick review at the end.
 
-The problem is structural: you must score 70% or above on each section independently. Scoring 85% nationally and 64% on state law is a failed exam. The P&C state law section has 35 scored questions — you need 25 correct. The L/A/H state law section has 40 scored questions — you need 28 correct. A candidate who has genuinely not read Title 38.2 statutes cannot reliably answer questions about Virginia's UIM stacking law (effective July 1, 2023), the 50/100/25 auto minimums (effective January 1, 2025), the mandatory insurance requirement (effective July 1, 2024), the workers' compensation employer threshold, and the unfair trade practices statute. These are the questions that separate passing and failing scores.
+The problem is arithmetic. Because one combined score decides pass or fail, every Virginia-law item you miss comes out of exactly the same budget as a national item. There is no separate state-law score to fall back on — and no national score high enough to make the Virginia questions optional. The cut score is set at 70% correct, and Virginia publishes the raw number that translates to: 98 correct on the Life, Annuities & Health exam, 95 on Property & Casualty, 63 on Life & Annuities, 63 on Health, 70 on Personal Lines. A candidate who has genuinely not read Title 38.2 statutes cannot reliably answer questions about Virginia's UIM stacking law (effective July 1, 2023), the 50/100/25 auto minimums (effective January 1, 2025), the mandatory insurance requirement (effective July 1, 2024), the workers' compensation employer threshold, and the unfair trade practices statute. Concede that entire block and you are trying to clear the cut score on the national questions alone.
 
-What top scorers do instead: They allocate preparation time proportionally to both sections from the start. Many top scorers read the Virginia statutes directly — law.lis.virginia.gov is freely accessible — rather than relying exclusively on summary materials.
+What top scorers do instead: They allocate preparation time proportionally to both portions from the start. Many top scorers read the Virginia statutes directly — law.lis.virginia.gov is freely accessible — rather than relying exclusively on summary materials.
 
 ### Pattern 2: Passive Study Without Active Retrieval
 
-Reading notes, re-reading textbook chapters, and watching video content are all passive activities. Passive study creates familiarity — you recognize the content when you see it — but does not reliably build the retrieval strength needed under exam conditions. Insurance exams test specific factual recall: what is the minimum free-look period for LTC in Virginia? What is the employer threshold for workers' compensation? How many scored questions are on the Virginia state law section of the P&C exam? These questions have specific right answers, and recognizing a correct answer when you see it is not the same as producing it from memory under time pressure.
+Reading notes, re-reading textbook chapters, and watching video content are all passive activities. Passive study creates familiarity — you recognize the content when you see it — but does not reliably build the retrieval strength needed under exam conditions. Insurance exams test specific factual recall: what is the minimum free-look period for LTC in Virginia? What is the employer threshold for workers' compensation? What are Virginia's current minimum auto liability limits, and when did they change? These questions have specific right answers, and recognizing a correct answer when you see it is not the same as producing it from memory under time pressure.
 
 What top scorers do instead: They practice retrieval — primarily through timed practice exams and flashcard systems. They write out definitions and rules from memory rather than looking them up. They answer [practice questions](/virginia/practice-exam) without looking at notes before checking answers, rather than reading the question and the answer together. The discomfort of not knowing an answer during practice is exactly the feedback that produces learning.
 
@@ -36,7 +36,7 @@ Virginia has no mandatory [prelicensing](/virginia/prelicensing) course, which m
 
 The result: a failed exam at $35, a 24-hour minimum delay, and the same study period they would have needed anyway — plus the psychological drag of a failure.
 
-The readiness benchmark: Consistently scoring 75% or above on both sections of full-length timed practice exams, across at least three separate attempts. Not one good day. Consistent performance across multiple tries under realistic conditions.
+The readiness benchmark: Consistently scoring 75% or above on full-length timed practice exams, across at least three separate attempts — a deliberate buffer over Virginia's 70% cut score. Not one good day. Consistent performance across multiple tries under realistic conditions.
 
 What top scorers do instead: They schedule the exam based on practice score benchmarks, not calendar deadlines. They treat the practice exams as the final qualifier — when the practice scores are consistently above the threshold, they book the real exam.
 
@@ -54,13 +54,15 @@ Candidates who study older materials, use pre-2023 exam prep courses, or rely on
 
 What top scorers do instead: They verify that their study materials are current. They cross-check key statutory provisions against the actual Code of Virginia, particularly for anything involving dates or dollar amounts.
 
-### Pattern 5: Not Understanding the Two-Section Scoring Rule Going In
+### Pattern 5: Walking In With the Wrong Model of How Scoring Works
 
-Some candidates walk into the exam not fully aware that the national section and Virginia state law section are scored independently, with separate 70% thresholds. These candidates manage their exam time and energy as if it is one large 140-question (or 135-question) pool — they may spend extra time on national questions they are unsure of and rush through state law, or vice versa.
+Plenty of candidates arrive with a mistaken idea of how Virginia grades the exam, and the two most common versions are opposites — but both lead to bad decisions on exam day.
 
-Because the questions from both sections are randomly mixed throughout the exam, there is no natural checkpoint between them. A candidate who doesn't know the scoring structure has no way to monitor their section-level performance during the exam.
+The first is assuming the national portion and the Virginia portion carry separate passing scores. They do not. Prometric scores the general-knowledge portion and the state-specific portion together as a single examination, and that combined score alone determines pass or fail. The second is the reverse mistake: concluding that because it is one pooled score, a large national cushion makes the Virginia questions expendable. It does not — the state items are a fixed share of the same pool, and Pattern 1 is what happens to candidates who bet otherwise.
 
-What top scorers do instead: They know the scoring structure before they walk in. They understand that every question counts regardless of whether they can tell which section it belongs to — and that there is no safe territory for letting their focus slip.
+Because questions from both portions are mixed throughout the exam, there is no natural checkpoint and no way to track a running total. The score report you receive afterward does break out a percentage for each major content-outline section, but Prometric supplies those figures to guide your review, not to grade you — and they deliberately will not average out to your overall score, because outline sections carry different numbers of questions.
+
+What top scorers do instead: They know the structure before they walk in — one combined score, 70% correct to pass — so they treat every question as worth exactly the same, and they never spend their remaining minutes on the assumption that any portion of the exam is already banked.
 
 ### Pattern 6: Exam Anxiety Overriding Solid Preparation
 
@@ -76,15 +78,15 @@ What top scorers do instead: They practice under realistic conditions repeatedly
 
 3. Know Virginia's recent law changes cold. The 2023, 2024, and 2025 auto insurance changes are consistently among the most tested clusters in the state law section. Top scorers know these dates and provisions precisely, not approximately.
 
-4. Prepare for both sections simultaneously from the start. They do not spend the first three weeks on national content and then squeeze state law into the final few days.
+4. Prepare for both portions simultaneously from the start. They do not spend the first three weeks on national content and then squeeze state law into the final few days.
 
-5. Schedule the exam based on benchmarks, not deadlines. They do not schedule until they are consistently above 75% on both practice sections across multiple attempts.
+5. Schedule the exam based on benchmarks, not deadlines. They do not schedule until they are consistently above 75% overall on full-length practice exams across multiple attempts.
 
 ## Frequently Asked Questions
 
 Is the Virginia insurance exam particularly hard compared to other states?
 
-Virginia's exam is considered moderate in difficulty relative to the national insurance licensing market. States like New York (requiring 40–90 hours of prelicensing and a comprehensive exam) and California (known for a longer and more complex exam) are generally considered harder. Virginia's first-time pass rates in the low-to-mid 70s are comparable to or slightly above national averages. The distinguishing factor in Virginia is the no-prelicensing rule — because candidates are self-selecting their preparation level, the distribution of preparation quality among exam-takers is wider than in states where a prelicensing course filters out the least prepared. Candidates who complete a structured preparation are fully capable of passing on their first attempt.
+Rather than rank states by difficulty, look at what Virginia actually publishes: 68.65% of first-time candidates passed across all lines in the June 2024–May 2025 reporting period, with individual exams ranging from 63.67% (Life & Annuities) to 78.33% (Personal Lines). That is a real failure rate, but it is not an unusually punishing exam — it is an exam that rewards preparation. The distinguishing factor in Virginia is the no-prelicensing rule. Because candidates set their own preparation level rather than clearing a mandatory course first, the spread of preparation quality among Virginia exam-takers is wider than in states where a required prelicensing course filters out the least prepared before anyone reaches the test center. Candidates who complete a structured preparation are fully capable of passing on their first attempt.
 
 How do I know if my study materials are current with Virginia's recent law changes?
 
@@ -96,12 +98,12 @@ The most common retake mistake is studying the same way you studied the first ti
 
 Do practice exam scores reliably predict real exam performance in Virginia?
 
-Practice exam scores are the best available predictor of real exam performance, but only when the practice exams are structured correctly: timed, taken under realistic conditions (no notes, no interruptions), and using question banks that reflect Virginia's current content outline including recent state law changes. Generic national-content practice questions do not accurately predict performance on Virginia's state law section. Virginia-specific practice questions drawn from the current content outline are substantially more predictive. Candidates who consistently score 75%+ on properly structured Virginia practice exams pass the real exam at very high rates.
+Practice exam scores are the best available predictor of real exam performance, but only when the practice exams are structured correctly: timed, taken under realistic conditions (no notes, no interruptions), and using question banks that reflect Virginia's current content outline including recent state law changes. Generic national-content practice questions do not accurately predict performance on Virginia's state law section. Virginia-specific practice questions drawn from the current content outline are a better guide. Treat a consistent 75%+ on realistic full-length practice exams as your signal to schedule — it is a working buffer over the 70% cut score, not a guarantee of any particular outcome on exam day.
 
 Is there any advantage to taking the exam early in the morning versus later in the day?
 
-Prometric test centers offer appointments at various times throughout the business day. There is no evidence that morning exams are inherently easier or that afternoon exams produce worse outcomes. The relevant factor is when you personally perform best — some people are sharper in the morning; others need time to get fully alert. Schedule your exam at the time of day when your cognitive performance is typically highest, all else being equal. Avoid scheduling at times when you know you will be fatigued (immediately after a night shift, late in the evening after a full day of work) — the exam is 135–150 minutes of active cognitive effort and fatigue meaningfully affects retrieval performance.
+Prometric test centers offer appointments at various times throughout the business day. There is no evidence that morning exams are inherently easier or that afternoon exams produce worse outcomes. The relevant factor is when you personally perform best — some people are sharper in the morning; others need time to get fully alert. Schedule your exam at the time of day when your cognitive performance is typically highest, all else being equal. Avoid scheduling at times when you know you will be fatigued (immediately after a night shift, late in the evening after a full day of work) — Virginia's exams are scheduled at 120 to 150 minutes depending on which series you sit, and fatigue meaningfully affects retrieval performance across that span.
 
-The gap between passing and failing the Virginia insurance exam is almost never about aptitude. It is about knowing the two-section scoring structure, targeting Virginia state law specifically, practicing under realistic conditions, and scheduling when your benchmarks — not your calendar — say you are ready.
+The gap between passing and failing the Virginia insurance exam is almost never about aptitude. It is about knowing how the exam is actually scored, targeting Virginia state law specifically, practicing under realistic conditions, and scheduling when your benchmarks — not your calendar — say you are ready.
 
-Visit JustInsurance to enroll today and prepare with a Virginia-approved course built to the current Prometric content outline for first-attempt success.
+Virginia repealed mandatory prelicensing education for the major lines effective September 1, 2002, so the state neither requires nor approves prelicensing or exam-prep courses. What a course can do is track the material Prometric actually tests. Visit JustInsurance to enroll today and prepare with a course built to the current Prometric Virginia content outline.

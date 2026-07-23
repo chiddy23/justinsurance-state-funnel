@@ -22,7 +22,7 @@ Below, you will find practical techniques broken down into manageable steps. You
 
 ## Get familiar with the exam
 
-Before you dive deep into books and practice tests, start by understanding the structure of the property and casualty [licensing exam](/prelicensing). Different states and testing agencies often assess the same core topics but can vary slightly in question format or length. Typically, you will face multiple-choice questions that assess both technical knowledge and real-world application.
+Before you dive deep into books and practice tests, start by understanding the structure of the property and casualty licensing exam in your state. Different states and testing agencies often assess the same core topics but can vary slightly in question format or length. Typically, you will face multiple-choice questions that assess both technical knowledge and real-world application.
 
 Spend a bit of time reading the exam outline provided by your state department of insurance. This outline will give you an overview of the key areas such as policy types, underwriting procedures, legal requirements, and claim handling. Having this bird's-eye view helps you see which sections might demand extra focus in your preparation.
 
@@ -78,6 +78,8 @@ Lastly, avoid spreading your energy too thinly across every topic without really
 
 ## Chart your path forward
 
-When you are ready to commit to a more structured preparation routine, JustInsurance offers comprehensive resources tailored for property and casualty pre-licensing. From interactive modules to real-life case studies, these tools can reinforce your understanding and help you practice under realistic conditions.
+When you are ready to commit to a more structured preparation routine, choose a property and casualty prelicensing provider approved in your state — your department of insurance publishes the list, and the exam vendor's candidate handbook tells you exactly which content outline that course needs to cover. Whichever provider you pick, look for one that pairs instruction with timed, exam-style question banks, because that is the format your score depends on.
+
+A note on where we fit: JustInsurance does not sell property and casualty prelicensing or P&C exam prep. Our prelicensing courses cover the [Life, Health, and Life & Health](/prelicensing) lines of authority. What we do offer on the P&C side is [continuing education for producers who are already licensed](/property-and-casualty-ce) — so bookmark that one for after you pass, when renewal hours become your problem instead of exam questions.
 
 Approach your exam day with an organized plan, a clear head, and a resolve to pace yourself throughout each question. The preparation you invest now will pay off when you see that passing score. Good luck, and remember to trust your instincts. After all, you have done the work and you are ready to succeed.

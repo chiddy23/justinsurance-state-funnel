@@ -43,7 +43,7 @@ Northwestern Mutual ethics context: Northwestern Mutual employs 8,000+ in Wiscon
 
 Best-interest advisory for life insurance and annuity products
 
-Wisconsin's Annuity Best Interest standard (effective April 15, 2022) creates specific documentation and disclosure ethics obligations
+Wisconsin's Annuity Best Interest standard (effective October 1, 2022) creates specific documentation and disclosure ethics obligations
 
 Rebating prohibitions are specifically relevant in the Northwestern Mutual community where producer compensation and policyholder dividends create potential confusion
 

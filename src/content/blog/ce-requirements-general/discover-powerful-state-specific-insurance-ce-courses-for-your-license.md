@@ -48,13 +48,15 @@ California
 
 24 hours every 2 years
 
-3 hours in Ethics, 3 in Annuities (if applicable)
+3 hours in Ethics; 4 hours of annuity training each renewal if you sell annuities
 
 Florida
 
 24 hours every 2 years
 
 4-hour Law & Ethics Update
+
+California's annuity rule deserves a closer look, because agents routinely misread it. Under Cal. Ins. Code §1749.8, a life agent must complete an eight-hour, CDI-approved annuity training course *before* soliciting an individual consumer for an annuity sale — that is a gate you clear once, up front, not something you satisfy at renewal time. After that, you must complete four hours of annuity training before each license renewal, and the Department is explicit that the initial eight-hour course does not count toward the recurring four hours. For resident agents, those annuity hours are part of the 24-hour CE total rather than an addition to it.
 
 In addition to these common topics, your state might demand specific credits in areas like flood insurance or long-term care. By selecting courses that address these niche topics, you’ll show clients that you are not only compliant but also actively building your expertise in the areas they value most.
 

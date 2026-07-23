@@ -94,7 +94,7 @@ A.R.S. § 20-1691.12 training requirements
 
 LTC policy required provisions in Arizona
 
-Free-look period for LTC policies (10 days standard)
+Free-look period for LTC policies — 30 days from delivery under A.R.S. § 20-1691.07, with a prominent notice of that right required on the first page of the policy
 
 Replacement of existing LTC coverage
 
@@ -186,7 +186,7 @@ Matching product features to consumer profiles
 
 Identifying when annuities are and are not appropriate
 
-Senior client considerations (Arizona's 20-day free-look for clients 65+)
+Senior client considerations — under A.R.S. § 20-1233 the annuity free-look period is 10 days, extended to 30 days when the contract holder is 65 or older on the application date
 
 Replacement of existing annuities — when it's appropriate and when it's not
 
@@ -290,9 +290,11 @@ Counts toward CE: The 3-hour NFIP Flood certification counts toward Arizona's 48
 
 ## Integrating Specialty Training Into Your CE Plan
 
-All three specialty training requirements count toward the 48-hour total. Here's how they integrate efficiently:
+One number governs everything below: Arizona requires 48 CE hours, including 6 hours of ethics, for the entire four-year license term — not 48 hours every two years. All three specialty trainings are absorbed inside that single 48-hour total. Here's how they integrate efficiently.
 
-Year 1-2, L&H producer pursuing LTC and annuity sales:
+L&H producer pursuing LTC and annuity sales — one 4-year term:
+
+Years 1-2:
 
 8-hour LTC initial training ✓ (toward 48 hrs)
 
@@ -300,19 +302,21 @@ Year 1-2, L&H producer pursuing LTC and annuity sales:
 
 6-hour Ethics ✓ (toward 48 hrs)
 
-30 additional hours General CE
+10 additional hours General CE
 
-Total: 48 hours ✓
+Running subtotal: 28 hours
 
-Year 3-4, same producer (ongoing LTC required):
+Years 3-4:
 
-4-hour LTC ongoing (at 24-month mark after initial) ✓
+4-hour LTC ongoing (at the 24-month mark after the initial course) ✓ (toward 48 hrs)
 
-44 additional hours of General and Ethics CE
+16 additional hours General CE
 
-Total: 48 hours ✓
+Running subtotal: 20 hours
 
-P&C producer selling flood:
+Term total: 48 hours ✓ — the front-loaded specialty hours simply mean fewer General hours left to complete in years 3 and 4.
+
+P&C producer selling flood — one 4-year term:
 
 3-hour NFIP Flood certification ✓ (toward 48 hrs)
 
@@ -320,11 +324,13 @@ P&C producer selling flood:
 
 39 additional hours General CE
 
-Total: 48 hours ✓
+Term total: 48 hours ✓
 
-Producer licensed in all lines (L&H and P&C):
+Producer licensed in all lines (L&H and P&C) — one 4-year term:
 
 8-hour LTC initial ✓
+
+4-hour LTC ongoing at the 24-month mark ✓
 
 4-hour Annuity Best Interest ✓
 
@@ -332,9 +338,9 @@ Producer licensed in all lines (L&H and P&C):
 
 6-hour Ethics ✓
 
-27 additional hours General CE
+23 additional hours General CE
 
-Total: 48 hours ✓
+Term total: 48 hours ✓
 
 Specialty training integrates naturally — completing them doesn't add to your 48-hour burden, it simply directs a portion of those hours toward product-specific expertise.
 
@@ -358,6 +364,6 @@ Flood specialty: Arizona's perception as a desert state obscures genuine flood i
 
 ## Build Your Arizona Specialty Practice on Solid Training
 
-Arizona's specialty training requirements open access to the state's most substantial and growing insurance markets. At JustInsurance, our Arizona CE courses include LTC Partnership training, Annuity Best Interest certification, and NFIP Flood certification — all DIFI-approved and integrated into our CE platform.
+Arizona's specialty training requirements open access to the state's most substantial and growing insurance markets. Plan them inside your 48-hour, four-year total rather than on top of it, and source each one from a DIFI-approved provider that lists the specific specialty certification you need — LTC Partnership, Annuity Best Interest, or NFIP Flood.
 
-Enroll today and develop your Arizona specialty insurance expertise.
+For the rest of your renewal, our [Arizona CE packages](/arizona/continuing-education) cover Life, Health, Life & Health, and Property & Casualty, including the 6 required ethics hours, with same-day DIFI reporting in most cases. We do not currently sell the LTC Partnership, Annuity Best Interest, or NFIP Flood certification courses — take those from a provider that offers them, then fill the balance of your 48 hours with us.

@@ -24,6 +24,8 @@ Wisconsin's licensing timeline from starting PLE to holding an active producer l
 
 Wisconsin's 20-hour PLE (8 hours common + 12 hours line-specific) is self-paced through OCI-approved providers. Most candidates complete a single-line 20-hour course in 1-2 weeks at 2-3 hours per day. The Certificate of Completion is valid for 1 year from the PLE Certification Exam date.
 
+Build the proctor into your timeline. Under Wis. Admin. Code § Ins 26.09, any self-study or online prelicensing course has to end with a **proctored** PLE Certification Exam scored at 70% or better. The proctor must be a disinterested third party — an impartial person or a licensed agent with no family or financial relationship to you — who verifies your identity and signs an affidavit stating you received no outside assistance. Your provider supplies the exam and the affidavit form; **you arrange the proctor**. That is a scheduling step, not a paperwork formality, so line up your proctor while you're still working through the coursework rather than after.
+
 Strategy: Complete PLE and schedule the PSI exam promptly. The 1-year PLE certificate is generous — but the 180-day score validity runs from when you PASS the PSI exam (not from PLE completion), so there's no urgency from PLE completion to PSI scheduling. Focus on PSI preparation quality.
 
 ## Stage 2: Fieldprint Fingerprinting — Schedule Early
@@ -66,6 +68,8 @@ Not waiting 48-72 hours. Submitting NIPR application before PSI results load in 
 
 ## Build Your WI License Timeline Efficiently
 
-JustInsurance's OCI-approved Wisconsin [prelicensing](/wisconsin/prelicensing) courses are fully online, self-paced, and built around the PSI exam content outline.
+JustInsurance's OCI-approved Wisconsin [prelicensing](/wisconsin/prelicensing) courses are online, self-paced, and built around the PSI exam content outline.
 
-Enroll today and move through the Wisconsin licensing process efficiently.
+One Wisconsin-specific condition to plan for: because the coursework is self-study, state rule (Wis. Admin. Code § Ins 26.09) requires the final PLE Certification Exam to be administered by a disinterested third-party proctor who confirms your identity and completes an affidavit, and you need 70% to pass. We supply the exam and the affidavit form — arranging the proctor is up to you.
+
+Enroll today, book your proctor early, and move through the Wisconsin licensing process efficiently.

@@ -38,7 +38,7 @@ Step 1 — PIP pays first, regardless of fault. The injured party files a claim 
 
 Step 2 — PIP pays up to its limits. PIP continues paying until the $20,000 medical sub-limit or the $20,000 non-medical sub-limit is exhausted, or until the injured party recovers.
 
-Step 3 — If injuries meet the tort threshold, the liability system opens. When an injured party's medical expenses exceed $4,000 (excluding diagnostic tests), or when the injury results in permanent injury, permanent disfigurement, or death, the injured party may step outside the no-fault system. At this point, they can pursue a claim against the at-fault driver's bodily injury liability coverage for non-economic damages — pain and suffering — in addition to any economic damages not covered by PIP.
+Step 3 — If injuries meet the tort threshold, the liability system opens. When an injured party's medical expenses exceed $4,000 (excluding diagnostic tests), or when the injury results in permanent injury, permanent disfigurement, death, or a disability lasting 60 or more days, the injured party may step outside the no-fault system. At this point, they can pursue a claim against the at-fault driver's bodily injury liability coverage for non-economic damages — pain and suffering — in addition to any economic damages not covered by PIP.
 
 Step 4 — If the at-fault driver is uninsured or underinsured, UM/UIM pays. When the at-fault driver has no insurance, UM coverage pays the injured party's damages above PIP. When the at-fault driver has insufficient liability limits to cover the injured party's damages, UIM covers the gap.
 
@@ -64,7 +64,7 @@ PIP and no-fault coordination: PIP is the defining coverage of Minnesota's no-fa
 
 The $500 weekly lost wage cap: The maximum weekly lost wage benefit under Minnesota's mandatory PIP is $500. A client earning $2,000 per week who is disabled for 10 weeks loses $20,000 in gross income. PIP pays 85% of wages — theoretically $1,700 per week — but the $500 cap limits actual payment to $5,000 total for those 10 weeks, leaving $15,000 in lost wages uncompensated through PIP. For high-income clients, the gap between actual lost wages and PIP's maximum is a genuine and substantial financial exposure.
 
-The six-month filing deadline: PIP claims must be filed within six months of the accident date. This statutory deadline is absolute — claims filed after six months are barred regardless of the legitimacy of the underlying injury.
+The six-month notice window: A Minnesota no-fault policy may require the insured to notify the insurer of the accident and a possible claim within six months of the accident date (Minn. Stat. § 65B.55). This is a notice requirement, not an absolute bar. Under the statute, late notice does not make a claimant ineligible for benefits unless the insurer proves it was actually prejudiced by the delay — and then only to the extent of that prejudice. Producers should still counsel clients to report promptly, because a claimant who waits invites a prejudice dispute; but a legitimate late claim is not automatically barred simply for missing the six-month window.
 
 Higher PIP limits are available: Minnesota policyholders may purchase PIP coverage above the $40,000 mandatory minimum. Higher PIP limits are particularly valuable for clients with high incomes (the $500 weekly cap provides minimal wage replacement for high earners), clients with high-deductible health plans (PIP can cover the health plan deductible), and clients without separate disability income coverage.
 
@@ -78,7 +78,7 @@ Required. Pays the gap between what the at-fault driver's liability coverage pai
 
 ## The No-Fault Tort Threshold in Detail
 
-The tort threshold determines when an injured Minnesota driver can step outside the no-fault system and pursue the at-fault driver for non-economic damages. The threshold has four independent triggers — meeting any one is sufficient:
+The tort threshold determines when an injured Minnesota driver can step outside the no-fault system and pursue the at-fault driver for non-economic damages. The threshold has five independent triggers — meeting any one is sufficient:
 
 Threshold 1 — Medical expenses exceeding $4,000: The injured party's medical treatment costs must exceed $4,000 in the aggregate. Diagnostic tests are excluded from this calculation. This is one of the most frequently misunderstood and most frequently tested provisions in Minnesota auto law. Diagnostic tests — X-rays, MRIs, CT scans, blood tests ordered to rule out conditions — do not count toward the $4,000 threshold regardless of their cost. Only the cost of actual treatment counts. An injured party with $2,500 in treatment costs and $2,000 in MRI charges has $2,500 applicable to the threshold — the threshold is not met.
 
@@ -88,7 +88,9 @@ Threshold 3 — Permanent disfigurement: Scarring, loss of a limb, or other perm
 
 Threshold 4 — Death: A fatal accident meets the tort threshold. The decedent's estate and eligible surviving family members may pursue wrongful death claims against the at-fault driver under Minnesota's wrongful death statute.
 
-Below the threshold: When none of the four triggers are met, the injured party's recovery is limited to PIP benefits for their economic losses. They cannot sue the at-fault driver for pain and suffering. This limitation is the fundamental trade-off of the no-fault system — faster payment of economic losses in exchange for restricted access to pain and suffering litigation for minor injuries.
+Threshold 5 — Disability for 60 days or more: An injury that disables the injured party — leaving them unable to work or to carry out their normal daily activities — for 60 days or more meets the threshold on its own. This trigger is the one producers and clients most often overlook, because it does not require a permanent finding and does not depend on the $4,000 medical figure. A serious soft-tissue injury that keeps someone off work and out of their routine for two months can open the door to a tort claim even when treatment costs stayed modest and the injury ultimately healed.
+
+Below the threshold: When none of the five triggers are met, the injured party's recovery is limited to PIP benefits for their economic losses. They cannot sue the at-fault driver for pain and suffering. This limitation is the fundamental trade-off of the no-fault system — faster payment of economic losses in exchange for restricted access to pain and suffering litigation for minor injuries.
 
 ## What 30/60/10 and the No-Fault System Mean for Coverage Adequacy
 
@@ -136,4 +138,4 @@ Frame it around the gap that minimum limits create in a worst-case scenario. "Yo
 
 Minnesota's 30/60/10 minimums define the legal floor for auto insurance in the state — but they are not a meaningful standard of financial protection for Minnesota drivers in any serious accident scenario. The no-fault PIP system ensures that first-dollar payment happens promptly and regardless of fault — but mandatory PIP limits of $40,000 are routinely exhausted by serious injuries long before the full scope of medical and income loss is covered. The coverage adequacy conversation that Minnesota auto insurance producers owe their clients is not about whether they meet the legal minimum — it is about whether the minimum protects them from the financial consequences of a serious accident. That conversation starts with understanding exactly what 30/60/10 covers, what it does not cover, and what PIP's role in the claim sequence actually means for clients who rely on it when it matters most.
 
-Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) with a state-approved course that covers every auto insurance provision tested on the PSI exam.
+Writing auto coverage in Minnesota requires property and casualty authority. Complete a state-approved property and casualty pre-licensing course and study to the current PSI content outline, which covers every auto insurance provision above. Once you are licensed, JustInsurance offers Minnesota property and casualty [continuing education](/minnesota/continuing-education) to keep your authority current at every two-year renewal.

@@ -16,7 +16,7 @@ imageAlt: >-
   insurance laws: complete producer guide.
 ---
 
-Wisconsin's auto insurance system is at-fault with modified comparative negligence — a 51% bar identical in structure to Indiana's. The 25/50/10 statutory minimums (Wis. Stat. § 344.15) share the $10,000 property damage floor with Missouri. Required UM (stackable) protects against Wisconsin's significant uninsured driver population. For Wisconsin P&C producers, the most actionable advisory conversations center on explaining why the $10,000 PD minimum is dangerously low in a state where the average new vehicle costs $48,000+, why UM stacking creates meaningful additional protection, and why the 51% bar creates a clear threshold for Wisconsin accident victims.
+Wisconsin's auto insurance system is at-fault with modified comparative negligence — a 51% bar identical in structure to Indiana's. The 25/50/10 statutory minimums (Wis. Stat. § 344.15) leave the property damage floor at just $10,000 — a number Wisconsin has left alone while other states have moved theirs up; Missouri's property damage minimum, for one, now sits at $25,000 under RSMo 303.190. Uninsured motorist coverage is still mandatory at 25/50, which matters in a state with a significant uninsured driver population — but stacking is not, and hasn't been since 2011. For Wisconsin P&C producers, the most actionable advisory conversations center on explaining why the $10,000 PD minimum is dangerously low in a state where the average new vehicle costs $48,000+, why the answer to "do my UM limits stack?" lives in the policy form rather than the statute, and why the 51% bar creates a clear threshold for Wisconsin accident victims.
 
 ## Wisconsin is an At-Fault State
 
@@ -36,7 +36,7 @@ $10,000 property damage per accident
 
 = 25/50/10
 
-The $10,000 PD gap in Wisconsin: Wisconsin's $10,000 PD minimum is the same as Missouri's statutory floor — and both are among the lowest in the country. The gap between the minimum and typical vehicle values:
+The $10,000 PD gap in Wisconsin: $10,000 is among the lowest property damage floors still on the books anywhere, and Wisconsin has not raised it. Other states have — Missouri, for example, requires $25,000 in property damage coverage (RSMo 303.190), two and a half times Wisconsin's floor. The gap between Wisconsin's minimum and typical vehicle values:
 
 Average new vehicle: $48,000+
 
@@ -68,23 +68,29 @@ Wisconsin driver recovers $80,000 × 65% = $52,000
 
 If Wisconsin driver were found 51% at fault: recovers $0.
 
-## Required UM Coverage and Stacking
+## Required UM Coverage — and Why Stacking Is a Policy Question
 
 UM required in Wisconsin:
 
-$25,000 per person / $50,000 per accident bodily injury
+$25,000 per person / $50,000 per accident bodily injury (Wis. Stat. § 632.32(4))
 
 Mandatory on all standard Wisconsin auto policies
 
-Wisconsin UM stacking: Wisconsin allows UM stacking on policies with multiple vehicles:
+Stacking is not required in Wisconsin: This is the single most-often-misstated point in Wisconsin auto coverage, and producers still repeat the pre-2011 rule. 2011 Wisconsin Act 14 eliminated the mandatory stacking of UM and UIM limits, and Wis. Stat. § 632.32(5)(f) expressly permits a policy to provide that "the limits for any coverage under the policy may not be added to the limits for similar coverage applying to other motor vehicles." Anti-stacking language is enforceable and is standard in Wisconsin auto forms.
 
-3 vehicles, each with $25,000/$50,000 UM → stacked total could be $75,000/$150,000
+What that means in practice:
 
-Stacking multiplies the available UM coverage by the number of insured vehicles
+A client with 3 vehicles at $25,000/$50,000 UM does not automatically have $75,000/$150,000 available — most Wisconsin policies bar exactly that
 
-Why UM matters in Wisconsin: Wisconsin has an estimated 571,454 uninsured drivers — a meaningful percentage of the driving population. UM coverage protects against drivers who cause accidents without insurance to cover the damages.
+Whether limits stack depends entirely on the individual policy's language, so read the anti-stacking clause before you answer the question
 
-UIM: Optional — but strongly recommended given the uninsured driver context.
+Some carriers still offer stacked UM as a priced option; if a client wants stacking, it has to be bought and confirmed on the form, not assumed from the statute
+
+Never quote a stacked figure to a client from vehicle count alone — that is an unsupportable coverage representation, and it is the kind of statement that turns into an E&O claim after a loss
+
+Why UM matters in Wisconsin: Wisconsin has a meaningful uninsured driver population, and UM coverage protects against drivers who cause accidents without insurance to cover the damages. Because stacking can no longer be assumed, the practical way to increase a Wisconsin client's UM protection is to raise the per-policy UM limit itself.
+
+UIM: Optional since Act 14 — the insurer must offer it and the insured may reject it. Strongly recommended given the uninsured and underinsured driver context, and subject to the same anti-stacking analysis.
 
 ## Wisconsin Insurance Follows the Car
 
@@ -104,12 +110,12 @@ The Wisconsin Auto Insurance Plan (WAIP) serves as the assigned risk pool for hi
 
 - What are Wisconsin's current auto insurance minimums? 25/50/10: $25,000 bodily injury per person, $50,000 per accident, $10,000 property damage — per Wis. Stat. § 344.15. The $10,000 PD minimum is the statutory floor; many Wisconsin insurers offer $25,000 PD as their standard minimum product.
 - How does Wisconsin's 51% bar compare to Missouri's pure comparative negligence? Wisconsin's 51% bar means a plaintiff more than 50% at fault receives zero recovery from the other driver. Missouri's pure comparative negligence means even a 99% at-fault plaintiff recovers 1% of damages. The difference is dramatic for cases where fault is heavily concentrated on one driver. In Wisconsin, if you're 55% at fault in a $200,000 accident, you get nothing from the other driver. In Missouri, you'd still get $90,000 (45% of $200,000).
-- How does Wisconsin UM stacking work and why does it matter? With UM stacking, a Wisconsin policyholder with two vehicles (each carrying $25,000/$50,000 UM) can stack the coverages — potentially accessing $50,000/$100,000 in combined UM protection if injured by an uninsured driver. Non-stacking policies would limit recovery to $25,000/$50,000 regardless of vehicle count. Producers who advise Wisconsin auto clients on stacking options provide meaningful additional protection in a state with ~571,454 uninsured drivers.
+- Does UM coverage stack in Wisconsin? Not by operation of law. 2011 Wisconsin Act 14 ended mandatory stacking, and Wis. Stat. § 632.32(5)(f) allows a policy to state that limits for other vehicles may not be added together — anti-stacking language is enforceable and is standard on Wisconsin auto forms. So a policyholder with two vehicles at $25,000/$50,000 UM will usually be limited to $25,000/$50,000 for a single occurrence, not $50,000/$100,000. The only way to know is to read the specific policy. The honest producer answer is "let me check your form," and the reliable way to increase a Wisconsin client's UM protection is to raise the UM limit rather than count vehicles.
 - What is Wisconsin's "insurance follows the car" rule? Wisconsin's permissive use doctrine means liability coverage follows the vehicle — if you lend your car to someone and they cause an accident, your liability insurance (not theirs) is the primary coverage. This is important for advisory: Wisconsin clients who lend vehicles regularly should understand that their auto policy's liability limits apply to all permissive drivers, not just themselves. High-liability-limit policies are particularly important for vehicle owners who frequently lend cars.
 - How do the Wisconsin $10,000 PD minimum and the 51% bar interact in practice? A Wisconsin driver who is 55% at fault in an accident that causes $35,000 in property damage to the other driver faces: (1) a bar on recovering from the other driver (due to 51% bar) and (2) the other driver's $10,000 PD minimum covers only $10,000 of the $35,000 damage. This scenario illustrates why: (a) Wisconsin drivers need higher PD limits than the minimum, and (b) the 51% bar creates significant consequences for drivers who may be majority at fault. Collision coverage (optional) provides first-party protection for own vehicle damage regardless of fault.
 
 ## Serve Wisconsin Auto Clients With Current Knowledge
 
-Wisconsin's 51% comparative fault bar, stackable UM, $10,000 PD minimum, and "insurance follows the car" rule create advisory opportunities that reward producers who understand Wisconsin law. JustInsurance's OCI-approved Wisconsin courses cover Wisconsin auto law in depth.
+Wisconsin's 51% comparative fault bar, mandatory-but-non-stacking UM, $10,000 PD minimum, and "insurance follows the car" rule create advisory opportunities that reward producers who understand Wisconsin law. Auto is a Property & Casualty line: JustInsurance's OCI-approved Wisconsin prelicensing courses cover the Life and Accident & Health lines only — we do not offer Property or Casualty prelicensing, so if auto is your line you'll complete that requirement through another OCI-approved provider. Once you're licensed, JustInsurance's OCI-approved Wisconsin continuing education helps you keep your producer credentials current.
 
-Enroll today and build the Wisconsin auto insurance expertise your clients need.
+Keep your Wisconsin auto insurance knowledge sharp and serve your clients with confidence.

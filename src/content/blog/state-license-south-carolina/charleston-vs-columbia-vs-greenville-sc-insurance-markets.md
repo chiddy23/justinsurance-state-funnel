@@ -43,7 +43,7 @@ Growing technology and professional services sector
 
 Insurance market characteristics:
 
-Substantial coastal property market. Properties along Charleston Harbor, Sullivan's Island, Isle of Palms, James Island, and Folly Beach require specialty coverage including SCWHA (Beach Plan) options for wind exposure.
+Substantial coastal property market. Properties along Charleston Harbor, Sullivan's Island, Isle of Palms, James Island, and Folly Beach require specialty coverage including South Carolina Wind and Hail Underwriting Association (SCWHUA, the "wind pool" or "Beach Plan") options for wind exposure.
 
 High-net-worth pockets. Mount Pleasant, downtown Charleston, Daniel Island, and select coastal areas support sophisticated high-net-worth practices.
 
@@ -55,15 +55,15 @@ Boeing employee market. Substantial Boeing workforce with corporate compensation
 
 Sophisticated buyers. Charleston buyers are increasingly sophisticated, expecting genuine expertise and quality service.
 
-Charleston metro income potential:
+What drives Charleston earnings:
 
-New agents: $48,000-$80,000 in first 1-2 years
+Higher premium per account. Coastal property, wind pool, and flood placements carry larger premiums than inland equivalents, so each household is worth more in commission.
 
-Established agents: $115,000-$220,000+
+Stacked household coverage. Mount Pleasant, Daniel Island, and downtown clients frequently need homeowners, wind, flood, umbrella, and auto together rather than a single policy.
 
-Top coastal property and HNW specialists: $250,000-$500,000+
+Steady commercial flow. Tourism, hospitality, and port-adjacent businesses add commercial lines on top of the personal book.
 
-*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+Cost-of-living offset. Charleston housing and operating costs are the highest of the three metros, so a given income goes less far here than it would in Columbia or Greenville.
 
 ## Columbia Metro: Government and Stability
 
@@ -101,19 +101,19 @@ Less coastal exposure. Columbia is inland, so coastal property specialty is less
 
 Lower cost of living than Charleston. Practical income value is high relative to nominal numbers.
 
-Columbia metro income potential:
+What drives Columbia earnings:
 
-New agents: $42,000-$72,000 in first 1-2 years
+Consistency over spikes. State government, Fort Jackson, and the major health systems produce steady renewal volume that holds up through economic cycles.
 
-Established agents: $90,000-$170,000+
+Benefits and senior market work. A large public-sector and healthcare workforce supports employee benefits, Medicare, and life placements alongside standard P&C.
 
-Top government, healthcare, or insurance industry specialists: $200,000-$350,000+
+Lower acquisition cost. Less competitive intensity than Charleston generally means less spend and less discounting to win a household.
 
-*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+Cost-of-living advantage. Columbia's lower living costs mean a given income goes further here than the same figure would in Charleston.
 
 ## Greenville Metro: Manufacturing and Growth
 
-Population and scope. Greenville-Anderson-Mauldin metro has approximately 940,000 residents (largest of the three). Includes Greenville, Spartanburg, Anderson, Mauldin, and surrounding upstate communities.
+Population and scope. The Greenville-Anderson-Greer metro area (Greenville, Anderson, Pickens, and Laurens counties) surpassed 1 million residents for the first time, reaching about 1,014,000 as of the July 2025 Census estimate — the largest of the three metros. Spartanburg is its own separate metro area; together with Greenville and Anderson it anchors the broader Greenville-Spartanburg-Anderson combined statistical area of roughly 1.6 million people across the Upstate.
 
 Major industries:
 
@@ -145,19 +145,25 @@ Lower coastal exposure. Like Columbia, Greenville is inland — coastal specialt
 
 Strong growth trajectory. Population growth creates ongoing new resident insurance demand.
 
-Greenville metro income potential:
+What drives Greenville earnings:
 
-New agents: $44,000-$74,000 in first 1-2 years
+Population growth as lead flow. The fastest-growing of the three metros keeps producing new residents who need coverage rewritten or moved into the state.
 
-Established agents: $95,000-$185,000+
+Employer concentration. BMW, Michelin, and the automotive supplier ecosystem create dense, referral-friendly client clusters where one satisfied household introduces the next.
 
-Top manufacturing or corporate executive specialists: $215,000-$400,000+
+Executive and international households. Corporate headquarters and relocated employees bring more complex coverage needs than a typical personal-lines account.
 
-*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+Mid-range cost of living. Operating and living costs sit between Columbia and Charleston.
 
-## Comparing the Three Markets
+## What South Carolina Agents Actually Earn
 
-The income figures above describe commission-based earning potential tied to book-of-business size and metro-level specialization, which is why they run higher than broad, statewide labor-statistics averages for insurance sales agents — both describe real but different things.
+You'll notice the sections above describe what drives income in each metro without quoting dollar ranges. That's deliberate. No verifiable source publishes metro-by-metro earnings for South Carolina insurance producers, and we won't invent them.
+
+The substantiated data is statewide. Per the U.S. Bureau of Labor Statistics Occupational Employment and Wage Statistics program (SOC 41-3021, Insurance Sales Agents, May 2024 release), South Carolina employed roughly 7,610 insurance sales agents, with an annual median wage of $56,430 and a 90th-percentile wage of $124,770.
+
+Read those figures for what they are. They pool captive and independent agents, personal and commercial lines, and every experience level in the state into a single distribution. They are not broken out by metro, BLS publishes nothing above the 90th percentile, and none of it is a forecast of what any individual will earn. Insurance income is largely commission-based and tracks book size, carrier contracts, lines of authority, and years in practice far more closely than it tracks which city you work in.
+
+*Earnings depend on individual effort, book of business, carrier contracts, and market conditions. There is no guarantee of income and individual results vary. JustInsurance does not track or represent typical earnings for South Carolina producers.*
 
 ## Choosing Your Market
 
@@ -233,7 +239,7 @@ These smaller markets often have strong opportunity with less competitive pressu
 
 ## 5 Frequently Asked Questions
 
-- Which South Carolina metro is the largest insurance market? Greenville-Anderson-Mauldin metro is slightly larger by population (~940K), but Charleston metro is generally considered to have the highest insurance market activity due to coastal property concentration and economic diversity.
+- Which South Carolina metro is the largest insurance market? The Greenville-Anderson-Greer metro is the largest by population — over 1 million residents as of the July 2025 Census estimate, compared with roughly 850,000 each for Charleston and Columbia — but Charleston metro is generally considered to have the highest insurance market activity due to coastal property concentration and economic diversity.
 - Where is the strongest high-net-worth market in South Carolina? Hilton Head Island and select Charleston-area communities (Mount Pleasant, Daniel Island, downtown Charleston) have the strongest HNW concentrations. Greenville's growing affluent suburbs are an emerging HNW market.
 - Which SC metro is best for new agents? Depends on your background and connections. Columbia offers stability with less competitive intensity. Greenville offers growth with manufacturing professional opportunity. Charleston offers diversity with higher competition.
 - Can I succeed in coastal insurance without living on the coast? Possible but harder. Coastal markets reward agents who genuinely understand local communities. Living in or near your service area accelerates relationship building.

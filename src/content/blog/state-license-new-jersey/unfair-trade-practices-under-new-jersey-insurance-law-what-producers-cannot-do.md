@@ -93,11 +93,13 @@ The Commissioner has broad enforcement authority under the UTPA. After investiga
 
 Issue a cease-and-desist order
 
-Impose a civil fine of up to $15,000 per knowing violation and up to $5,000 per non-knowing violation
+Order a civil penalty under N.J.S.A. 17:29B-7 of up to $1,000 for each act or violation — rising to up to $5,000 per act where the person knew or reasonably should have known the conduct violated the Act
 
 Order restitution to affected consumers
 
 Refer criminal matters to the OIFP
+
+Producers should also keep the separate penalty track in mind. Conduct that violates the Producer Licensing Act rather than (or in addition to) the UTPA is penalized under N.J.S.A. 17:22A-45(c), which allows up to $5,000 for a first offense and up to $10,000 for each subsequent offense, plus restitution and the Department's costs of investigation and prosecution. Because a single course of conduct can implicate both statutes, and because penalties are assessed per act, the exposure in a multi-transaction case compounds quickly.
 
 ## Frequently Asked Questions
 
@@ -115,7 +117,7 @@ The unfair claims settlement practices provisions of N.J.S.A. 17:29B-4(9) requir
 
 What is the NJ Insurance Fair Conduct Act, and why does it matter for producers?
 
-The New Jersey Insurance Fair Conduct Act (IFCA), enacted in 2022, created a private right of action for first-party UM/UIM claimants against their own insurer for unreasonable delay or unreasonable denial of a UM/UIM claim. Before the IFCA, New Jersey courts had not recognized a private right of action under the UTPA — the Commissioner could enforce the UTPA, but individual insureds could not bring private UTPA suits. The IFCA changed that for UM/UIM claims, allowing successful claimants to recover the UM/UIM policy limits, attorneys' fees, and up to three times the UM/UIM limits in cases involving knowing violations. For producers, the IFCA matters because it makes the handling of UM/UIM claims even more consequential — clients who experience unreasonable delay or denial from their own carrier now have a statutory remedy beyond the standard claim dispute process.
+The New Jersey Insurance Fair Conduct Act (IFCA), enacted in 2022, created a private right of action for first-party UM/UIM claimants against their own insurer for unreasonable delay or unreasonable denial of a UM/UIM claim. Before the IFCA, New Jersey courts had not recognized a private right of action under the UTPA — the Commissioner could enforce the UTPA, but individual insureds could not bring private UTPA suits. The IFCA changed that for UM/UIM claims. Under N.J.S.A. 17:29BB-3(d), a claimant who establishes a violation is entitled to actual damages caused by the violation — including actual trial verdicts, which may not exceed three times the applicable coverage amount — plus pre- and post-judgment interest, reasonable attorney's fees, and reasonable litigation expenses. There is no knowing-violation element and no separate enhanced-damages trigger; the 3x figure is a ceiling on the recoverable verdict, not a multiplier layered on top of the policy limits. The claimant also does not have to prove the insurer's conduct was frequent enough to be a general business practice. For producers, the IFCA matters because it makes the handling of UM/UIM claims even more consequential — clients who experience unreasonable delay or denial from their own carrier now have a statutory remedy beyond the standard claim dispute process.
 
 Who enforces the Unfair Trade Practices Act in New Jersey — DOBI or the courts?
 

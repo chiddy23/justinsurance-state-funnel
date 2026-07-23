@@ -59,35 +59,35 @@ One question at a time. PSI displays one question on screen at a time.
 
 ## Question Counts and Time by Exam Type
 
-Pennsylvania exam specifications fall into two main categories:
+Pennsylvania exam specifications fall into two categories, and the dividing line is single-line vs. combined — not life/health vs. property/casualty:
 
-Single-Line Exams (100 questions, 2 hours):
+Single-Line Exams (100 questions, 120 minutes, $45 per attempt):
 
 Producer's Life Insurance (16-01)
 
 Producer's Accident and Health Insurance (16-02)
 
-Combined Life and Health Insurance
+Producer's Property Insurance (16-04)
 
-Producer's Property Insurance
+Producer's Casualty Insurance (16-05)
 
-Producer's Casualty Insurance
+Personal Lines Property and Casualty Insurance (16-16)
 
-Personal Lines Insurance
+Combined Exams (150 questions, 170 minutes / 2 hours 50 minutes, $55 per attempt):
 
-Combined Property and Casualty Exam (150 questions, 2 hours 50 minutes):
+Producer's Life, Accident and Health Insurance (16-03)
 
-Producer's Property and Casualty Insurance
+Producer's Property and Casualty Insurance (16-06)
 
-The single-line vs. combined-P&C distinction is important — combined P&C is the only Pennsylvania exam with 150 questions and the extended time limit.
+The single-line vs. combined distinction is the one that drives your scheduling. Both combined exams run 150 questions in 170 minutes — the combined Life, Accident and Health exam is the same size as the combined Property and Casualty exam. Only the single-line exams are 100 questions in 120 minutes. Candidates frequently plan for a two-hour Life and Health sitting and are surprised by a nearly three-hour one.
 
 ## Time per Question
 
 Understanding pacing helps:
 
-100-question exams over 120 minutes: Approximately 72 seconds per question on average
+100-question single-line exams over 120 minutes: Approximately 72 seconds per question on average
 
-150-question P&C combined over 170 minutes: Approximately 68 seconds per question on average
+150-question combined exams (16-03 Life, Accident and Health; 16-06 Property and Casualty) over 170 minutes: Approximately 68 seconds per question on average
 
 Most prepared candidates complete with time to spare. Time becomes an issue mainly for unprepared candidates who get stuck on multiple questions.
 
@@ -153,51 +153,49 @@ A key choice for many Pennsylvania candidates: take individual single-line exams
 
 For Life and Health:
 
-Combined Life and Health Exam (100 questions, 2 hours):
+Combined Life, Accident and Health Exam, Series 16-03 (150 questions, 2 hours 50 minutes, $55):
 
 Single exam covering both content areas
 
 Most efficient path for combined Life and Health licensure
 
-Separate Life and Health Exams:
+Separate Life and Health Exams (16-01 and 16-02):
 
-Two separate single-line exams (16-01 and 16-02)
+Two separate single-line exams
 
-Each 100 questions, 2 hours
+Each 100 questions, 2 hours, $45
 
-Allows focused preparation per area but doubles exam fees
+200 questions and 4 hours of seat time across two appointments, at $90 total
 
 For Property and Casualty:
 
-Combined Property and Casualty Exam (150 questions, 2 hours 50 minutes):
+Combined Property and Casualty Exam, Series 16-06 (150 questions, 2 hours 50 minutes, $55):
 
 Single exam covering both content areas
 
 More content but single test event
 
-Separate Property and Casualty Exams:
+Separate Property and Casualty Exams (16-04 and 16-05):
 
 Two separate single-line exams
 
-Each 100 questions, 2 hours
+Each 100 questions, 2 hours, $45
 
 Smaller question count per exam but two test events
 
-Recommendation for most candidates: Take the combined exam if you're pursuing both lines. The cost and time savings are typically substantial.
+Recommendation for most candidates: Take the combined exam if you're pursuing both lines. On either side, the combined route is 150 questions and $55 against 200 questions and $90 — fewer questions, less total seat time, and one appointment to schedule.
 
 Recommendation for cautious candidates: Take single-line exams if you have stronger preparation for one area than the other, or if you want to space out your testing.
 
 ## Content Distribution
 
-The combined Life and Health exam typically allocates questions across content areas:
+PSI publishes the actual weighting on each content outline — use those numbers rather than estimates.
 
-Life Insurance Topics: ~40-45% Health Insurance Topics: ~40-45% General Insurance Concepts: ~10-15% Pennsylvania State-Specific: ~15-25% (distributed across topics)
+Combined Life, Accident and Health (16-03): Insurance Regulation 21%, General Insurance Concepts 7%, Life/Accident/Health Insurance Basics 14%, Types of Life Insurance Policies 8%, Life Policy Provisions, Options and Riders 13%, Annuities 9%, Individual A&H Policy Provisions 7%, Health Insurance for Senior Citizens and Special Needs Individuals 7%, Disability Income 4%, Medical Plans 4%, Group Health 3%, Federal Tax Considerations 2%, Dental 1%.
 
-The combined Property and Casualty exam:
+Combined Property and Casualty (16-06): Insurance Regulation 20%, Property and Casualty Insurance Basics 14%, Personal Automobile Policy 10%, General Insurance Concepts 8%, Other Types of Property and Casualty Insurance 8%, Homeowners Policy Concepts 7%, Commercial Property Policies 7%, Commercial General Liability 7%, Commercial Automobile Policy 5%, Workers' Compensation 5%, Dwelling Policy Concepts 4%, Businessowners Policy — Property 3%, Commercial Crime 2%.
 
-Property Insurance Topics: ~30-35% Casualty Insurance Topics: ~30-35% General Insurance Concepts: ~10-15% Pennsylvania State-Specific: ~15-25% (distributed across topics)
-
-These distributions guide where to focus study time.
+Two things stand out. Insurance Regulation — the Pennsylvania statutory and licensing material — is the single heaviest area on both exams at roughly one question in five. And PSI revises these outlines on effective dates, so pull the current outline for your series from the Candidate Information Bulletin before you build a study plan around any percentage.
 
 ## Calculator Availability
 
@@ -285,14 +283,14 @@ Passing score. 70% standard across most state insurance exams.
 
 Format. Computer-based multiple choice consistent with most state exams.
 
-State-specific weighting. ~15-25% Pennsylvania content typical.
+State-specific weighting. PSI's Insurance Regulation section — the Pennsylvania statutory and licensing material — carries 20-21% of the combined exams.
 
 No retake limit. Pennsylvania allows unlimited retakes (though each costs another fee).
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on Pennsylvania single-line exams? 100 questions on single-line exams (Life only, Health only, Property only, Casualty only, etc.). Combined Property and Casualty exam has 150 questions; combined Life and Health has 100 questions.
-- How long is the combined Property and Casualty exam? 2 hours 50 minutes (170 minutes) for 150 questions.
+- How many questions are on Pennsylvania single-line exams? 100 questions in 120 minutes on each single-line exam — Life (16-01), Accident and Health (16-02), Property (16-04), Casualty (16-05), and Personal Lines (16-16). Both combined exams are larger: the combined Property and Casualty exam (16-06) and the combined Life, Accident and Health exam (16-03) each have 150 questions.
+- How long are the combined exams? 2 hours 50 minutes (170 minutes) for 150 questions — the same for the combined Property and Casualty exam (16-06) and the combined Life, Accident and Health exam (16-03).
 - Can I use a calculator on the Pennsylvania exam? Yes. An on-screen calculator with basic functionality is provided.
 - What's the passing score on Pennsylvania insurance exams? 70% across all Pennsylvania insurance license exams.
 - Is online testing available for Pennsylvania insurance exams? Yes. PSI offers online proctored testing for many Pennsylvania insurance exams. Verify current options through PSI for your specific exam.

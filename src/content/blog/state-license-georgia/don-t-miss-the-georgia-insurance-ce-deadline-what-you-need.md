@@ -27,7 +27,7 @@ Maintaining your license is just as crucial as earning it. Once you're officiall
 
 ### Complete your [pre-licensing requirements](/georgia/prelicensing)
 
-Georgia requires you to finish a certain number of pre-licensing hours tailored to the type of insurance you plan to sell. Health, Life, Property, and Casualty lines each have different course hours, so confirm the exact total you need from the Georgia Department of Insurance. You’ll learn about policy structures, state regulations, ethical practices, and other key coverage details. Many learners choose online courses for flexibility, especially if you’re working or attending school, but in-person classes are also an option if you prefer a classroom setting.
+Georgia requires you to finish approved pre-licensing hours for the type of insurance you plan to sell. Since June 24, 2025, every major line of authority — Life, Accident & Sickness, Property, Casualty, and Personal Lines — carries the same minimum 8-hour approved course (Ga. Comp. R. & Regs. 120-2-3-.08), so a combined Life and Accident & Sickness license runs 16 hours, and so does combined Property and Casualty. Limited and specialty lines have their own totals, so confirm the exact requirement for your license type with the Georgia Office of Insurance and Safety Fire Commissioner (OCI). You’ll learn about policy structures, state regulations, ethical practices, and other key coverage details. Many learners choose online courses for flexibility, especially if you’re working or attending school, but in-person classes are also an option if you prefer a classroom setting.
 
 ### Schedule and pass your exam
 

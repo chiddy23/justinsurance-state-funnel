@@ -204,11 +204,11 @@ Approved CE courses must be:
 
 Approved by the Massachusetts Division of Insurance
 
-Reviewed by Prometric (which provides course review services for the Massachusetts CE Program)
+Reviewed through the Massachusetts CE Program, now administered by Pearson VUE (which replaced Prometric on July 22, 2026)
 
 Designated for specific credit hours and types
 
-Massachusetts uses Prometric for CE course review and management. Course information and approval details are available through Prometric's website.
+Massachusetts's CE program is administered by Pearson VUE, which replaced Prometric on July 22, 2026. Provider approvals, course applications, and completion rosters run through the NAIC's State Based Systems (SBS), and you can look up approved courses and providers through the public SBS lookup at sbs.naic.org/solar-external-lookup.
 
 ## Where to Check Your CE Status
 
@@ -216,7 +216,7 @@ Check your CE compliance status through:
 
 Massachusetts DOI's Insurance Licensing Search and Renewal Tool
 
-Prometric's website
+The public SBS course/provider lookup at sbs.naic.org/solar-external-lookup
 
 NIPR's transcript services
 
@@ -260,7 +260,7 @@ Lead paint surcharge $75 if including P&C/Personal Lines
 
 If you don't complete your CE hours by your renewal deadline:
 
-Massachusetts has a 30-day grace period following license expiration for renewal. If license is not renewed within that 30-day period, the license is canceled.
+Your license lapses on its expiration date if you haven't renewed. Massachusetts does not cancel it 30 days later — you have a late-renewal window (detailed below) to reinstate, though a penalty applies once you're past the due date.
 
 No CE extensions. Massachusetts doesn't grant extensions for completing CE — you must be CE compliant before submitting renewal.
 

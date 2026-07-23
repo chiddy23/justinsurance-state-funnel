@@ -34,7 +34,7 @@ Property Damage Liability: $25,000 per accident
 
 Personal Injury Protection (PIP): $10,000 per person (unless rejected in writing)
 
-Kentucky also allows a single combined limit policy of $60,000, which can cover any combination of the above coverages. However, if you choose the combined limit option, PIP is required. Kentucky's property damage minimum of $25,000 is notably higher than Missouri's $10,000 statutory floor and Wisconsin's $10,000 minimum — a meaningful distinction when advising clients on coverage adequacy.
+Kentucky also allows a single combined limit policy of $60,000, which can cover any combination of the above coverages. However, if you choose the combined limit option, PIP is required. Kentucky's property damage minimum of $25,000 matches Missouri's $25,000 floor and is well above Wisconsin's $10,000 minimum — a meaningful distinction when advising clients on coverage adequacy, since a $10,000 property damage limit is easily exhausted by a single late-model total loss.
 
 ## Uninsured and Underinsured Motorist (UM/UIM) Coverage
 
@@ -55,4 +55,4 @@ Kentucky enforces its mandatory insurance requirement through the Kentucky Autom
 - What happens if I opt out of Kentucky's no-fault system? If you file a written rejection of no-fault coverage, you give up the right to receive PIP benefits from your own insurer after an accident. In exchange, you gain the right to sue the at-fault driver for any amount of damages without satisfying a tort threshold. You are also exposed to being sued directly if you cause an accident.
 - Can a driver who is mostly at fault still recover damages in Kentucky? Yes. Kentucky uses pure comparative negligence with no fault bar. A driver who is 90% at fault can still recover 10% of their damages from the other party. This is more plaintiff-friendly than states like Indiana and Wisconsin, which bar recovery entirely at 51% or more fault.
 - What is UM/UIM coverage and is it required in Kentucky? UM coverage protects you when the at-fault driver has no insurance. UIM coverage applies when the at-fault driver's limits are insufficient to cover your damages. In Kentucky, both types must be offered by insurers but can be rejected by the policyholder in writing. If a written rejection is not documented, UM/UIM coverage is presumed to be included.
-Understanding Kentucky auto insurance law is essential for every P&C producer. Build your knowledge with JustInsurance's KDOI-approved [prelicensing](/kentucky/prelicensing) and CE courses at justinsuranceco.com.
+Understanding Kentucky auto insurance law is essential for every P&C producer. Keep your license current with JustInsurance's KDOI-approved [property & casualty continuing education](/kentucky/continuing-education) at justinsuranceco.com.

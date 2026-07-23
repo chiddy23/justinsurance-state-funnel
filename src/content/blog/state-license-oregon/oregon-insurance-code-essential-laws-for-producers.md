@@ -70,7 +70,7 @@ The DFR also publishes bulletins, regulations, and guidance through dfr.oregon.g
 
 ## Major Compliance Areas
 
-Unfair Methods of Competition and Unfair Practices. Oregon prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more. Violations here are the most common source of producer disciplinary action.
+Unfair Methods of Competition and Unfair Practices. Oregon prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more. Conduct in this category is expressly grounds for probation, suspension, revocation, or refusal to renew under ORS 744.074, so it warrants close attention.
 
 Replacement of Life Insurance and Annuities. Specific rules govern the replacement of existing life insurance and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are covered.
 
@@ -128,7 +128,7 @@ Mailing: P.O. Box 14480, Salem, OR 97309-0405
 
 Phone: (503) 947-7981
 
-Email: web.insagent@oregon.gov
+Email: web.insagent@dcbs.oregon.gov
 
 Website: dfr.oregon.gov
 

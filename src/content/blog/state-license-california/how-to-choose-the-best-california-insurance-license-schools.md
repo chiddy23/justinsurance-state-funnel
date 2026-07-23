@@ -80,7 +80,7 @@ In addition to the state-mandated steps, remember that consistent study habits g
 
 With many schools competing for your attention, narrow them down by evaluating teaching quality, track record, and student success rates. A strong [pass rate](/pass-rates) on the state exam often indicates a program does more than just skim the surface of insurance topics. Beyond that number, also consider whether the school updates its curriculum when regulations change, since out-of-date information can set you back.
 
-It’s sometimes worth paying a slight premium for a school that offers robust exam prep, advanced study tools, and attentive customer support. That extra layer of guidance can translate into fewer retakes and less anxiety. If you’re seeking a reliable resource to guide you through licensing options, JustInsurance also provides insights that keep you on track from enrollment to exam day.
+It’s sometimes worth paying a slight premium for a school that offers robust exam prep, advanced study tools, and attentive customer support. That extra layer of guidance can translate into fewer retakes and less anxiety. If you want a concrete option to compare against, JustInsurance offers self-paced California [prelicensing courses](/california/prelicensing) that include video lessons, an interactive e-book, practice exams, and flashcard review sets.
 
 Finally, trust your instincts. You need a school that respects your learning pace, budget, and career goals. When you feel supported, the process of becoming a licensed insurance agent becomes far more rewarding.
 

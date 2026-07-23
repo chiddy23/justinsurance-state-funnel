@@ -73,11 +73,13 @@ Certain additional courses if selling life or health
 
 New York
 
-15 (1 ethics)
+15 (1 insurance law + 1 ethics & professionalism + 1 diversity, inclusion & elimination of bias)
 
 Every 2 years
 
-Ethics requirement applies to all license types
+Property/casualty lines add a 1-credit flood course
+
+New York is the row worth reading twice. Its 15 credits carry three separate topic mandates — one credit each in insurance law, ethics and professionalism, and diversity, inclusion and elimination of bias (11 NYCRR 20-2.2(b)) — and a general course does not satisfy any of them. Each credit has to be earned in a course carrying that specific topic designation. Producers licensed for one or more property/casualty lines must add a flood insurance credit on top, and anyone who writes flood through the National Flood Insurance Program has to complete three credits of enhanced flood instruction. Buying 14 general credits plus one ethics credit will not get a New York license renewed.
 
 Even within these examples, the renewal window might begin on your birthday or at the license issuance date. Requirements often overlap with federal mandates, especially for topics like flood insurance. Pay close attention if you carry multiple lines of authority in more than one state, since you’ll need to meet the strictest CE obligations where applicable.
 

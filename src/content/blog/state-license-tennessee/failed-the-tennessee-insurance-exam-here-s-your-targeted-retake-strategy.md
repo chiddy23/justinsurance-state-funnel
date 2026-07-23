@@ -12,7 +12,7 @@ image: /blog/images/why-getting-your-tennessee-life-insurance-license-is-worth-i
 imageAlt: Failed the Tennessee Insurance Exam? Here's Your Targeted Retake Strategy
 ---
 
-Failing the Tennessee insurance licensing exam is more common than most candidates expect. First-time [pass rates](/pass-rates) run approximately 55–65% — meaning roughly one in three candidates does not pass on the first attempt. If you are in that group, you are not in a small minority of unusually underprepared candidates. You are in a group that includes motivated, intelligent people who did not prepare in the right way for the specific demands of this exam.
+Failing the Tennessee insurance licensing exam is more common than most candidates expect. Neither the TDCI nor Pearson VUE publishes a Tennessee first-time [pass rate](/pass-rates), so ignore anyone who quotes you a precise state failure percentage — but plenty of well-intentioned candidates do fall short on the first attempt. If you are in that group, you are not in a small minority of unusually underprepared candidates. You are in a group that includes motivated, intelligent people who did not prepare in the right way for the specific demands of this exam.
 
 The candidates who pass their Tennessee retake efficiently share one characteristic: they used their score report strategically. They did not simply study more of everything they already studied. They identified the specific content areas where they failed and rebuilt those areas from the foundation up. This post gives you the complete retake framework — how to read your score report, how to diagnose the category of failure that produced your result, how to build a targeted retake study plan, and the logistics for scheduling your next attempt.
 
@@ -108,7 +108,7 @@ Estimated retake preparation time: 10–15 hours of practice exam conditioning w
 
 Regardless of failure category, every retake candidate should verify state law recall before scheduling the next attempt. The state law section generates consistent failures in retake candidates who address general content gaps but return to the exam with the same inadequate state law preparation that contributed to their original failure.
 
-The verification method: Without any reference materials, write down every specific number and timeline from the Tennessee state law master list — the TDCI civil penalty maximum, the bad faith penalty percentage, the auto insurance minimum limits, the workers' compensation thresholds, the fingerprinting fee, the 48-hour NIPR wait, the appointment filing and termination deadlines, the CE hours and ethics requirement, the LTC training hours, the renewal fee, the grace period, the late renewal fee, the late renewal window, and the non-resident reciprocity framework. Give yourself 10 minutes. Score against the master list from the state law high-priority topics guide.
+The verification method: Without any reference materials, write down every specific number and timeline from the Tennessee state law master list — the TDCI civil penalty maximum, the bad faith penalty percentage, the auto insurance minimum limits, the workers' compensation thresholds, the fingerprinting fee, the 48-hour NIPR wait, the appointment filing and termination deadlines, the CE hours and ethics requirement, the LTC training hours, the $60 renewal fee, the $120 late renewal fee (double the renewal fee, applied to any fee received after expiration — Tennessee has no penalty-free grace period), the one-year late-renewal window, and the non-resident reciprocity framework. Give yourself 10 minutes. Score against the master list from the state law high-priority topics guide.
 
 Scoring interpretation:
 
@@ -162,7 +162,7 @@ Schedule retake when: Practice exams consistently reach 80%+ AND behavioral erro
 
 ### Scheduling
 
-Log in to your Pearson VUE account at pearsonvue.com. Schedule a new exam for the same line you failed. Select your testing format — either remote ($49) or in-person ($59) — and pay the retake fee at scheduling. Cancel or reschedule at least 48 hours before the appointment to avoid forfeiting the fee.
+Log in to your Pearson VUE account at pearsonvue.com. Schedule a new exam for the same line you failed. Select your testing format — remote via OnVUE or in-person at a Pearson VUE test center — and pay the retake fee at scheduling. The fee is the same either way: $55 per line, regardless of delivery method. One limit matters specifically to retake candidates: Pearson VUE allows a maximum of two OnVUE (online-proctored) attempts per exam line — if you have already tested online twice on the same line, your next attempt on that line must be taken at a Pearson VUE test center. Cancel or reschedule at least 48 hours before the appointment to avoid forfeiting the fee.
 
 No new NIPR application is required for a retake. The application is submitted after passing — not before each attempt.
 
@@ -184,9 +184,9 @@ Wait the mandatory 48 hours after passing before submitting the NIPR application
 
 Confirm IdentoGO fingerprinting is complete at least 2 business days before the application
 
-Submit the NIPR application — $50 per line plus $5.60 NIPR transaction fee
+Submit the NIPR application — the $50 TDCI filing fee (per application, not per line) plus the $5.60 NIPR transaction fee
 
-Receive your Tennessee producer license within 2–5 business days of application processing
+Receive your Tennessee producer license once TDCI finishes processing — expect roughly 10 business days for a complete electronic NIPR application, and about 2–4 weeks total from passing the exam to an active license once fingerprinting and the background check have cleared
 
 ## Frequently Asked Questions
 
@@ -196,7 +196,7 @@ Not necessarily. A score of 67 does not mean preparation was close to adequate e
 
 I failed Casualty but passed Property on the same day. Do I need to redo Property?
 
-No. Tennessee licenses are issued by individual line of authority and each exam is scored independently. Your Property passing result stands permanently — it is not affected by your Casualty failure. Study for the Casualty retake using the Casualty score report's section breakdown. Pass the Casualty retake. Submit a separate NIPR application for Casualty authority — $50 plus $5.60 NIPR fee. Your Property license remains active throughout this process.
+No. Tennessee grants authority line by line onto a single producer license, and each exam is scored independently. Your Property passing result stands permanently — it is not affected by your Casualty failure. Study for the Casualty retake using the Casualty score report's section breakdown. Pass the Casualty retake, then file a separate NIPR application to add the Casualty line of authority — $50 plus the $5.60 NIPR fee. Your Property authority remains active throughout this process.
 
 What is the most useful thing to do in the final 72 hours before the retake?
 
@@ -204,4 +204,4 @@ Three activities produce the most return in the final 72 hours. First, take one 
 
 Failing the Tennessee insurance exam on the first attempt does not predict failure on the second — but only if the second attempt is approached differently than the first. The retake opportunity is not a second chance to hope for a different result from the same preparation. It is the opportunity to understand what your score report revealed, address those specific gaps with targeted study, and return to the Pearson VUE exam with the knowledge depth that produces a score above 70.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course designed for Pearson VUE — the preparation that turns a first-time failure into a retake success.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline — the preparation that turns a first-time failure into a retake success.

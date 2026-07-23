@@ -16,7 +16,7 @@ imageAlt: >-
   compensation and fraud: producer guide.
 ---
 
-Indiana's workers' compensation system and insurance fraud framework create specific producer obligations in one of the Midwest's most industrially diverse states. Indiana workers' comp is a private competitive market administered by the Workers' Compensation Board of Indiana with rates set by the Indiana Compensation Rating Bureau (ICRB) — not NCCI — creating Indiana-specific classification knowledge requirements. The 1+ employee threshold captures virtually every Indiana employer. Indiana has the 4th lowest workers' comp rates nationally — creating a favorable commercial insurance market. And the manufacturing concentration (Eli Lilly, Cummins, Subaru of Indiana, and thousands of smaller manufacturers) creates active commercial workers' comp advisory throughout the state.
+Indiana's workers' compensation system and insurance fraud framework create specific producer obligations in one of the Midwest's most industrially diverse states. Indiana workers' comp is a private competitive market administered by the Workers' Compensation Board of Indiana with rates set by the Indiana Compensation Rating Bureau (ICRB) — not NCCI — creating Indiana-specific classification knowledge requirements. The 1+ employee threshold captures virtually every Indiana employer. Indiana has among the lowest workers' comp rates in the nation — the Oregon DCBS 2024 premium rate ranking placed Indiana 7th-lowest of the 51 jurisdictions studied, at an index rate of $0.71 per $100 of payroll, roughly 65% of the study median — creating a favorable commercial insurance market. And the manufacturing concentration (Eli Lilly, Cummins, Subaru of Indiana, and thousands of smaller manufacturers) creates active commercial workers' comp advisory throughout the state.
 
 ## Indiana Workers' Compensation Framework
 
@@ -40,7 +40,7 @@ Private carriers compete for accounts — producers earn commission
 
 Travelers is the state fund carrier for the residual market (employers who cannot obtain voluntary coverage)
 
-ICRB rates are among the 4th lowest nationally
+ICRB rates are among the lowest nationally
 
 ## Indiana Compensation Rating Bureau (ICRB) — Indiana's Independent Rating Bureau
 
@@ -98,7 +98,7 @@ Payroll fraud — Indiana's most common workers' comp fraud type: Employers who 
 
 ## 5 Frequently Asked Questions
 
-- Why is Indiana the 4th lowest workers' comp rate state nationally? Indiana's favorable rate environment reflects multiple factors: active competition among private carriers, ICRB rate administration that produces competitive market outcomes, Indiana's employer-friendly business climate (including right-to-work laws and low regulatory burden), and historical claims performance. The 4th lowest rates nationally makes Indiana workers' comp a favorable market for employers relocating or expanding in Indiana — a commercial advisory talking point.
+- Why does Indiana have among the lowest workers' comp rates in the nation? Indiana's favorable rate environment reflects multiple factors: active competition among private carriers, ICRB rate administration that produces competitive market outcomes, Indiana's employer-friendly business climate (including right-to-work laws and low regulatory burden), and historical claims performance. Those consistently low rates — the Oregon DCBS 2024 ranking placed Indiana 7th-lowest of the 51 jurisdictions studied, at an index rate of $0.71 per $100 of payroll, roughly 65% of the study median — make Indiana workers' comp a favorable market for employers relocating or expanding in Indiana, a commercial advisory talking point.
 - What is the exclusive remedy doctrine and how does it affect Indiana general contractors? IC 22-3-2-6 makes workers' comp the exclusive remedy for covered work-related injuries — employees cannot sue their employer in tort for covered injuries. For general contractors: if a subcontractor's employee is injured on a job site and the subcontractor doesn't have workers' comp coverage, the general contractor may become the "statutory employer" and face workers' comp liability for the uninsured subcontractor's employee. Always verify subcontractor coverage certification in Indiana construction.
 - How does ICRB classification affect premium accuracy for Indiana accounts? ICRB class codes may differ from NCCI codes in some Indiana industries. If an Indiana employer's operations don't fit neatly into ICRB classifications, or if a producer uses NCCI codes (from experience in other states) that don't precisely match ICRB categories, the account may be misclassified. Audit adjustments correct misclassification — sometimes resulting in significant premium increases. Indiana workers' comp specialty requires ICRB code familiarity.
 - Does Indiana have a state fund for workers' compensation like Ohio's BWC? No — Indiana does not have a monopoly state fund. Travelers is Indiana's residual market (state fund) carrier for employers who cannot obtain voluntary market coverage — but it's not a monopoly. All Indiana private carriers compete freely in the voluntary market; Travelers only covers employers placed in the assigned risk (residual) pool. This is fundamentally different from Ohio's BWC monopoly where all Ohio employers must purchase from the state.
@@ -106,6 +106,6 @@ Payroll fraud — Indiana's most common workers' comp fraud type: Employers who 
 
 ## Build Your Indiana Commercial Lines Practice
 
-Indiana's 4th-lowest workers' comp rates, ICRB classification system, and manufacturing/pharmaceutical/agricultural sectors create active commercial insurance advisory opportunities. For Indiana P&C/commercial-lines prelicensing and CE, search Sircon or the IDOI's approved-provider list.
+Indiana's exceptionally low workers' comp rates, ICRB classification system, and manufacturing/pharmaceutical/agricultural sectors create active commercial insurance advisory opportunities. For Indiana P&C/commercial-lines prelicensing and CE, search Sircon or the IDOI's approved-provider list.
 
 Enroll today and develop your Indiana commercial lines expertise.

@@ -16,11 +16,11 @@ imageAlt: >-
   and health insurance exam: complete guide.
 ---
 
-Maryland's Life and Health insurance exams are Prometric-administered tests available as separate 80-question exams ($60 each, ~105 minutes each) or as the combined Life, Accident & Health exam (130 questions, $60, ~150 minutes). Both formats use Maryland's one-part exam structure since October 2021 — national and state content are interleaved throughout rather than in separate sections. The state portion covers MIA Commissioner authority, Maryland Insurance Article provisions, Maryland Health Connection (MD's state ACA exchange), Maryland's expanded Medicaid, the contributory negligence standard (any fault = complete bar — same as Virginia), and Maryland's distinctive Chesapeake Bay and federal professional market context. Maryland eliminated PLE in October 2024 — making this the first mandatory step for all candidates. Here's the complete guide.
+Maryland's Life and Health insurance exams are Prometric-administered tests available as separate 80-question exams ($62 each, ~105 minutes each) or as the combined Life, Accident & Health exam (130 questions, $62, ~150 minutes). Both formats use Maryland's one-part exam structure since October 2021 — national and state content are interleaved throughout rather than in separate sections. The state portion covers MIA Commissioner authority, Maryland Insurance Article provisions, Maryland Health Connection (MD's state ACA exchange), Maryland's expanded Medicaid, the contributory negligence standard (any fault = complete bar — same as Virginia), and Maryland's distinctive Chesapeake Bay and federal professional market context. Maryland eliminated prelicensing education effective October 1, 2024, so the Prometric exam is now the first mandatory step for every candidate. Here's the complete guide.
 
 ## Exam Format and Specs
 
-Combined exam strategy: At $60 for either a single or combined exam, the combined L&H (130 questions) is the most efficient path for candidates pursuing both lines — saves $60 and one exam sitting.
+Combined exam strategy: At $62 for either a single or combined exam, the combined L&H (130 questions) is the most efficient path for candidates pursuing both lines — saves $62 and one exam sitting.
 
 Retakes: Unlimited; 4-day wait; can resit failed part only within 6 months.
 
@@ -80,7 +80,7 @@ State Regulation (6 items):
 
 Maryland Insurance Article provisions
 
-Producer licensing: no PLE (eliminated Oct 1, 2024); Prometric exam; $60; 70%; 6-month validity; 4-day retake wait; $54 NIPR application; no fingerprinting; 7-10 business day processing; renewal 2 years/last day birth month/$69 ($54 + $15 fraud prevention); CE 24 hrs/3 Ethics/no carryover
+Producer licensing: no PLE (eliminated Oct 1, 2024); Prometric exam; $62; 70%; 6-month validity; 4-day retake wait; $54 NIPR application; no fingerprinting; 7-10 business day processing; renewal 2 years/last day birth month/$69 ($54 + $15 fraud prevention); CE 24 hrs/3 Ethics/no carryover
 
 Appointment requirements: Maryland does NOT require insurer appointment reporting to MIA (except terminations for cause); insurers maintain Producer Register
 
@@ -152,18 +152,18 @@ Maryland types of health providers (2 items): State-licensed HMO, PPO, and other
 
 ## Combined L&H Exam Content (130 Questions)
 
-Covers both Life and A&H content interleaved. State section covers all common regulatory content plus both Life-specific and A&H-specific Maryland provisions. At the same $60 fee as a single exam, the combined is the efficient choice for most full-market candidates.
+Covers both Life and A&H content interleaved. State section covers all common regulatory content plus both Life-specific and A&H-specific Maryland provisions. At the same $62 fee as a single exam, the combined is the efficient choice for most full-market candidates.
 
 ## 5 Frequently Asked Questions
 
 - Does Maryland use Healthcare.gov or a state exchange? Maryland Health Connection — Maryland's state-based ACA marketplace at marylandhealthconnection.gov. This is a key A&H state section distinction — MD is NOT a Healthcare.gov state. Virginia, Tennessee, and Ohio use Healthcare.gov; Maryland, New Jersey (Get Covered NJ), Minnesota (MNsure), and Colorado (Connect for Health Colorado) all operate state exchanges.
 - What is the Maryland LTC tax credit? Maryland offers a state income tax credit for LTC insurance premiums — a specifically Maryland item in the A&H state exam content outline. This makes MD LTC advisory both a product sale AND a tax planning conversation, since clients may qualify for a state tax credit on their LTC premiums. Verify current credit amounts at the Maryland Comptroller's website.
 - Does Maryland have a state health insurance mandate? No — Maryland does not have its own individual health insurance mandate or tax penalty for being uninsured. This distinguishes Maryland from New Jersey (which reinstated a state mandate in January 2019). Maryland relies on Maryland Health Connection's enrollment outreach and subsidies to maintain marketplace participation.
-- What are the 3 items in the Life-specific state section? From the PSI/Prometric content outline: (1) State Requirements covering Life insurance policy provisions and regulations specific to Maryland; (2) replacement regulations under Maryland Insurance Article; (3) annuity training and temporary Life license provisions. These are specifically MD-law items not covered by national content.
+- What are the 3 items in the Life-specific state section? From the Prometric Maryland content outline (Prometric is Maryland's only insurance exam vendor — PSI does not administer Maryland insurance exams): (1) State Requirements covering Life insurance policy provisions and regulations specific to Maryland; (2) replacement regulations under Maryland Insurance Article; (3) annuity training and temporary Life license provisions. These are specifically MD-law items not covered by national content.
 - How many Maryland-specific questions are on the Life exam? Approximately 20 state-specific items are interleaved throughout the 80-question Life exam. This ~25% state content weight is comparable to other Prometric states (Virginia's 11-01 has 28.6% state content; Maryland's individual exams have ~25%). These Maryland-specific questions are where underprepared candidates most commonly underperform.
 
 ## Prepare for the Maryland Life & Health Exam
 
-Maryland's state section — MIA structure, Maryland Health Connection, LTC tax credits, and October 2024 PLE elimination context — rewards candidates who prepare specifically. JustInsurance's MIA-approved Maryland courses cover the full Prometric content outline.
+Maryland's state section — MIA structure, Maryland Health Connection, LTC tax credits, and October 2024 PLE elimination context — rewards candidates who prepare specifically. JustInsurance's Maryland courses are built to the current Prometric Maryland content outline; because Maryland no longer requires prelicensing education, the MIA does not approve exam-prep courses for any provider, so we build straight to the outline the exam is drawn from. JustInsurance is also an MIA-approved Maryland continuing-education provider once you're licensed.
 
 Enroll today and prepare for the Maryland exam with confidence.

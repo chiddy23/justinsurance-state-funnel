@@ -26,17 +26,21 @@ Texas requires licensed insurance agents to complete 24 hours of continuing educ
 
 Of those 24 hours, there's a specific breakdown you have to follow:
 
-3 hours must be in ethics — this is a mandatory subset, not optional
+3 hours must be in certified ethics or consumer protection courses — this is a mandatory subset, not optional
 
-The remaining 21 hours can be in approved insurance-related topics
+At least 12 hours — half your requirement — must be in certified classroom or classroom-equivalent courses, per 28 TAC §19.1003. This is the rule most agents don't know about, and it's the one that most often leaves a renewal short.
 
-If you hold multiple lines of authority (for example, both Life & Health and Property & Casualty), the 24-hour requirement still applies as a combined total — you don't multiply it by the number of licenses you hold.
+The remaining hours can be in any TDI-certified General course
+
+If you hold multiple lines of authority (for example, both Life & Health and Property & Casualty), the 24-hour requirement still applies as a combined total — you don't multiply it by the number of licenses you hold. The rule says so outright: a licensee holding more than one license is never required to complete more than the hours required under their greatest single license requirement.
 
 ## When Does the CE Clock Start?
 
-Your CE requirement is tied to your 2-year license renewal cycle. The clock begins the day your license is issued and runs for 24 months. You must complete all 24 hours before your renewal date — not after.
+Your CE requirement is tied to your license renewal cycle, and in Texas that cycle is anchored to your birthday, not to your issue date. Under Tex. Ins. Code §4003.001 and 28 TAC §19.808, an individual license expires at the end of your birth month — in even-numbered years if your license was issued or renewed in an even year, in odd-numbered years if it was issued or renewed in an odd year. You must complete all your hours before that expiration date, not after.
 
-TDI sends renewal notices in advance, but you're ultimately responsible for tracking your own deadline. Don't rely on reminders alone.
+The practical consequence for new licensees: your first term is usually **not** a full 24 months. Depending on where your birth month falls relative to your issue date, it can be considerably shorter — which is why Texas prorates the first requirement rather than demanding the full 24 hours (see the FAQ below). Counting 24 months forward from the day your license was issued is the single most common way agents miscalculate their deadline.
+
+TDI sends renewal notices in advance, but you're ultimately responsible for tracking your own deadline. Look up your actual expiration date in Sircon or your NIPR MyProfile account and work backward from that. Don't rely on reminders alone.
 
 ## What Counts as Approved CE?
 
@@ -56,20 +60,20 @@ Before enrolling in any CE course, confirm it's on TDI's approved provider list.
 
 ## What Happens If You Don't Complete Your CE on Time?
 
-If you miss the deadline, TDI will not renew your license. You'll face late fees, and your license may lapse — meaning you can't legally conduct insurance business until it's reinstated. Reinstatement usually requires completing the missed CE plus paying additional fees.
+If you reach your expiration date short on hours, TDI gives you 90 days to complete the deficient hours and pay a fine of **$50 for every deficient hour** — 6 hours short is a $300 fine on top of the courses themselves. Note that the classroom shortfall counts here too: 24 self-study hours with no classroom or classroom-equivalent credit leaves you 12 hours deficient.
 
-In some cases, extended non-compliance can require you to reapply from scratch.
+If you don't clear the deficiency within those 90 days, the license is inactivated. At that point you have to stop transacting insurance business and apply for a new license — new application, new fees, and in most cases new fingerprints.
 
 ## 5 Frequently Asked Questions
 
-- Do new agents have to complete CE in their first renewal cycle? Yes. Even if you were only licensed for part of the 2-year cycle, the full 24-hour requirement still applies at renewal time.
+- Do new agents have to complete CE in their first renewal cycle? Usually yes, but not the full 24 hours. 28 TAC §19.1003 prorates a short first term at one hour for each whole month between your issue date and the end of your first license period — so a 14-month first term means 14 hours, not 24. And if your prorated reporting period comes out to less than six months, you owe no CE at all for that period. Confirm your prorated total with TDI or your provider before you buy hours.
 - Can I carry over extra CE hours to my next renewal period? No. Excess hours don't carry forward. Hours completed in one cycle only apply to that cycle.
-- Are online CE courses accepted in Texas? Yes. TDI accepts approved online courses, and most agents complete their CE entirely online at their own pace.
+- Are online CE courses accepted in Texas? Yes, but you can't do all 24 hours self-paced. At least half your hours must be certified classroom or classroom-equivalent. A classroom-equivalent course can be fully online — but under 28 TAC §19.1011 it isn't self-paced in the usual sense: the provider must build in periodic interactive inquiries of at least five questions each, and you need at least 70% on every inquiry section. Ordinary self-study courses, which end in a single final exam, can only cover up to half your requirement.
 - Does the 3-hour ethics requirement change every renewal? The 3-hour ethics requirement applies to every 2-year cycle. You must complete it each renewal period, not just once in your career.
 - What if I hold a license in another state too? Texas CE only satisfies Texas requirements. If you're licensed in another state, you'll need to meet that state's CE requirements separately — though some courses may qualify in multiple states.
 
 ## Stay Compliant Without the Stress
 
-Keeping up with CE shouldn't feel like a burden. At JustInsurance, our TDI-approved Texas CE courses are built to fit around your schedule, cover the ethics requirement, and let you knock out your hours without wasting time.
+Keeping up with CE shouldn't feel like a burden. Build your plan around three numbers — 24 total hours, 3 in ethics, and at least 12 in classroom or classroom-equivalent format — and confirm your real expiration date rather than guessing 24 months from issuance.
 
-Enroll in our Texas CE courses today and renew your license with confidence.
+Browse our [Texas CE courses](/texas/continuing-education), check the format of each course against your classroom minimum, and renew your license with confidence.

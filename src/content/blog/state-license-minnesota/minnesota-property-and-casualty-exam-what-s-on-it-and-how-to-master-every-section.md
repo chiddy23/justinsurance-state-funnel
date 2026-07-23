@@ -16,9 +16,9 @@ The Minnesota Property and Casualty licensing exam covers the full range of pers
 
 ## Exam Specifications
 
-Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 130 (combined Property and Casualty); 85 per standalone line Time allowed: 3 hours (combined); 2 hours per standalone Passing score: 70% (scaled score of 70 or higher) Results: Immediate — displayed on screen at conclusion Retakes: No limit; 24-hour wait; $45 fee per attempt Exam validity: 3 years from date of passing
+Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 130 (combined Property and Casualty) — 50 property general + 50 casualty general + 30 Minnesota state law; 75 per standalone line — 50 general + 25 Minnesota state law. PSI adds unscored pretest questions on top of the scored count (15 on the combined exam, 10 on a standalone line), so the combined exam presents 145 items and a standalone line presents 85 Time allowed: 3 hours (combined); 2 hours per standalone Passing score: 70% correct — a raw percentage of questions answered correctly; PSI does not report a scaled score for Minnesota Results: Immediate — displayed on screen at conclusion Retakes: No limit; 24-hour wait; $45 fee per attempt Exam validity: 3 years from date of passing
 
-Note on exam selection: First-time applicants in Wisconsin must select both the general and state-specific labeled exams — Minnesota uses a different structure where the general and state sections are integrated into a single exam. If you are taking only the Property exam or only the Casualty exam as a standalone, each is 85 questions over 2 hours. Most candidates take the combined P&C exam in a single sitting.
+Note on exam selection: Minnesota's PSI exam integrates the general and state-specific sections into a single exam — there is no separate "general" and "state-specific" exam to select. If you are taking only the Property exam or only the Casualty exam as a standalone, each is 75 scored questions over 2 hours. Most candidates take the combined 130-question P&C exam in a single sitting.
 
 ## Section 1: Insurance Terms and Foundational Concepts
 
@@ -174,7 +174,7 @@ How no-fault works in Minnesota: After an accident, the injured party files a PI
 
 Tort threshold: To sue for non-economic damages (pain and suffering) in Minnesota, the injured party must meet one of the following thresholds: medical expenses exceed $4,000 (excluding diagnostic tests), permanent injury, permanent disfigurement, or death.
 
-Six-month PIP claim deadline: A PIP claim must be filed within six months of the accident. Claims filed after six months are barred.
+PIP notice-of-claim provision: Under Minn. Stat. §65B.55, subd. 1, a no-fault policy may prescribe a period — not less than six months after the accident — within which the insured must notify the insurer of the accident and the possibility of a claim. Late notice does not by itself bar benefits: the insurer must show it was actually prejudiced by the delay, and benefits are reduced only to the extent of that prejudice.
 
 SR-22: A certificate of financial responsibility filed by an insurer with the Minnesota DVS certifying that a specific driver carries at least the minimum required liability coverage. Required for certain violations — DUI, driving without insurance, certain traffic offenses. SR-22 is not an insurance policy — it is a certificate attesting to the existence of coverage.
 
@@ -224,7 +224,7 @@ Minnesota surplus lines: Non-admitted carriers can write coverage in Minnesota f
 
 Prioritize the HO-3 and PAP above all other product content. These two policy forms generate the most exam questions on the P&C exam. Know the HO-3's six coverage sections and their standard limits relative to Coverage A. Know the PAP's four parts and which covers what. Know the distinction between open perils (HO-3 dwelling) and named perils (HO-3 personal property). Know Minnesota's required auto minimums cold — 30/60/10, $40,000 PIP, $25,000/$50,000 UM/UIM.
 
-Own the no-fault auto content. Minnesota's no-fault system generates state law questions that candidates who only study general insurance principles cannot answer correctly. The $40,000 PIP split ($20,000 medical, $20,000 non-medical), the $4,000 tort threshold, the six-month PIP claim deadline, the required UM/UIM at $25,000/$50,000 — these are Minnesota-specific facts that appear as exam questions precisely because this is the Minnesota exam.
+Own the no-fault auto content. Minnesota's no-fault system generates state law questions that candidates who only study general insurance principles cannot answer correctly. The $40,000 PIP split ($20,000 medical, $20,000 non-medical), the $4,000 tort threshold, the six-month PIP claim-notice provision (and the rule that late notice bars benefits only to the extent the insurer proves prejudice), the required UM/UIM at $25,000/$50,000 — these are Minnesota-specific facts that appear as exam questions precisely because this is the Minnesota exam.
 
 Know the CGL coverage parts by letter. Coverage A (bodily injury/property damage), Coverage B (personal and advertising injury), Coverage C (medical payments) — these designations appear regularly in exam questions. Know what each covers and what the key exclusions are for each.
 
@@ -248,4 +248,4 @@ The combined P&C exam allocates questions across both personal and commercial li
 
 The Minnesota P&C exam is a comprehensive test of property and casualty insurance knowledge — from the six sections of a homeowners policy to the three coverage parts of a CGL form, from the HO form types to Minnesota's no-fault PIP requirements. Every question comes from the published content outline, every topic in that outline is learnable, and the 70% passing standard is achievable for any candidate who prepares the complete content rather than selecting favorite topics and hoping the exam cooperates.
 
-Visit JustInsurance to enroll today and complete your Minnesota P&C [prelicensing](/minnesota/prelicensing) with a state-approved course built to the current PSI content outline, including practice exams covering every section in this guide.
+Every topic in this guide comes from the published PSI content outline. Complete a state-approved property and casualty pre-licensing course, drill it section by section with full-length practice exams, and the 70% passing standard becomes routine. Once you pass and are licensed, JustInsurance offers Minnesota property and casualty [continuing education](/minnesota/continuing-education) to keep your authority current at every two-year renewal.

@@ -83,8 +83,8 @@ Not necessarily. Auto insurance is consistently needed, often by a broad custome
 
 ## Explore new possibilities
 
-If you want more guidance on boosting your auto insurance agent salary, it may be worth connecting with industry support partners like JustInsurance. These organizations often provide extra resources, training modules, and networking events to help you expand your knowledge and refine your approach.
+If you want more guidance on boosting your auto insurance agent salary, keep learning from the right sources. An online education provider like JustInsurance can keep your credentials sharp with prelicensing courses, continuing education, and licensing support, while your carriers, agencies, and independent trainers are where you'll find the sales training and networking events that expand your professional circle.
 
 Don’t stop at the basics you learned when you first became licensed. Keep educating yourself, fine-tuning your strategies, and experimenting with new technologies to serve your clients better. When you blend expertise with genuine care for the drivers you insure, you set yourself apart from the competition.
 
-Now is a great time to up your game, stay inspired, and aim even higher. You have the power to shape your income by delivering outstanding service day in and day out. If you’re ready to explore more customized advice, reach out to JustInsurance or a similar industry resource. The most rewarding opportunities often come from taking a bold first step. Good luck, and here’s to your future success.
+Now is a great time to up your game, stay inspired, and aim even higher. You have the power to shape your income by delivering outstanding service day in and day out. If you’re ready to keep sharpening your credentials, explore the courses at JustInsurance or a similar education resource. The most rewarding opportunities often come from taking a bold first step. Good luck, and here’s to your future success.

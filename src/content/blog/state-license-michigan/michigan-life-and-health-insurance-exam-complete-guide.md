@@ -16,7 +16,7 @@ imageAlt: >-
   health insurance exam: complete guide.
 ---
 
-The Michigan Life and Health insurance exams are your gateway to selling life, health, disability, and long-term care products throughout one of the Midwest's largest states. Michigan's exam structure is more demanding than most states in one important way: variable passing scores that go significantly above the standard 70% used elsewhere. The Accident & Health exam requires 76% — the highest single-line threshold in Michigan and higher than most states' flat 70%. Understanding exactly what's on each exam, how to hit these elevated passing scores, and what makes Michigan's exams distinctive prepares you to pass on the first attempt.
+The Michigan Life and Health insurance exams are your gateway to selling life, health, disability, and long-term care products throughout one of the Midwest's largest states. Michigan's exam structure is more demanding than most states in one important way: variable passing scores that go significantly above the standard 70% used elsewhere. The Accident & Health exam requires 76% — the highest of Michigan's four major producer-line thresholds (Life, A&H, Property, and Casualty) and well above most states' flat 70%. Understanding exactly what's on each exam, how to hit these elevated passing scores, and what makes Michigan's exams distinctive prepares you to pass on the first attempt.
 
 Here's the complete guide to the Michigan Life and Health insurance exams.
 
@@ -50,7 +50,7 @@ Michigan's most distinctive exam feature: variable passing scores by exam type, 
 
 Life & Health exam passing scores:
 
-The Accident & Health exam at 76% is the most demanding single-line threshold in Michigan — requiring you to answer 76 out of 100 questions correctly. By comparison, most states require only 70% (70 correct out of 100). Those 6 extra correct answers make a real difference in preparation intensity.
+The Accident & Health exam at 76% is the most demanding of Michigan's four major producer-line thresholds — higher than Life (72%), Casualty (74%), and Property (75%) — requiring you to answer 76 out of 100 questions correctly. (Michigan does set even higher cut scores on some specialty exams, such as the Surplus Lines Producer at 77% and the Life and Accident & Health counselor exams at 80–82%.) By comparison, most states require only 70% (70 correct out of 100). Those 6 extra correct answers make a real difference in preparation intensity.
 
 These are criterion-referenced scores established by Michigan Subject Matter Experts (SMEs) based on what a minimally competent licensee should know. They reflect the complexity and consumer protection stakes in each line.
 
@@ -140,7 +140,7 @@ Business tax considerations
 
 ## Accident & Health Exam Content
 
-The Michigan Accident & Health Producer exam (100 questions, 2 hours, 76% passing — the highest single-line threshold) covers:
+The Michigan Accident & Health Producer exam (100 questions, 2 hours, 76% passing — the highest of the four major producer lines) covers:
 
 Accident & Health Insurance Basics:
 
@@ -218,7 +218,7 @@ Michigan continuation of group coverage rules
 
 Michigan HMO Act requirements
 
-## Why the A&H Score Is the Hardest in Michigan
+## Why the A&H Score Is the Hardest of Michigan's Major Producer Lines
 
 The 76% threshold on the Accident & Health exam reflects:
 
@@ -238,7 +238,7 @@ For candidates pursuing both Life and A&H simultaneously, Michigan offers a comb
 
 2.5 hours
 
-75% passing score (75 of 100 scoring questions correct, scaled)
+75% passing score (113 of 150 questions correct; Michigan reports a raw criterion-referenced percentage, not a scaled score)
 
 Covers all content from both single-line exams
 
@@ -289,13 +289,13 @@ If within 180-day NIPR application window: must submit new NIPR application (~$1
 ## 5 Frequently Asked Questions
 
 - What's the passing score for the Michigan Life exam? 72% — you must answer at least 72 of 100 questions correctly.
-- What's the passing score for the Michigan Accident & Health exam? 76% — the highest single-line passing score in Michigan. You must answer at least 76 of 100 questions correctly.
+- What's the passing score for the Michigan Accident & Health exam? 76% — the highest of Michigan's four major producer-line passing scores (Life, A&H, Property, Casualty). You must answer at least 76 of 100 questions correctly.
 - Is there a combined Life and Health exam in Michigan? Yes. The Michigan Life, Accident and Health Producer exam covers both lines in 150 questions with 2.5 hours and requires 75% to pass.
 - Can I take the Michigan exam online? No. Effective June 10, 2025, PSI discontinued remote proctoring for Michigan insurance exams. All exams must be taken in person at a PSI testing center.
 - How many times can I retake the Michigan exam? Unlimited attempts. You must wait 24 hours between attempts and pay $41 for each. If you fail within your 180-day NIPR application window, you must also submit a new NIPR application before rescheduling.
 
 ## Walk Into the Michigan Exam Prepared
 
-Knowing what to expect — including Michigan's elevated passing scores — removes exam day anxiety. At JustInsurance, our Michigan prelicense course covers all content areas with particular depth on Michigan-specific laws, Michigan's no-fault auto system, and the DIFS regulations that appear on every exam.
+Knowing what to expect — including Michigan's elevated passing scores — removes exam day anxiety. At JustInsurance, our Michigan prelicense course covers all content areas with particular depth on Michigan-specific laws and the DIFS regulations that appear on every exam.
 
 Enroll today and prepare for the Michigan exam the right way.

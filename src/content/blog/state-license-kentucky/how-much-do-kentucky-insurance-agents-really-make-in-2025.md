@@ -52,7 +52,7 @@ Northern Kentucky — the Covington and Florence corridor adjacent to Cincinnati
 
 Kentucky's income tax structure is one of the more favorable in the region for high-earning insurance producers. The state operates a flat income tax rate of 4% for the 2025 tax year, which dropped to 3.5% effective January 1, 2026, under House Bill 1 passed in the 2025 legislative session. This continuing downward trajectory is part of a trigger-based reduction mechanism established in 2022.
 
-For a producer earning $100,000, the difference between Kentucky's 3.5% rate and Wisconsin's top marginal rate of 7.65% represents over $4,000 in additional take-home pay annually. Missouri's graduated system tops out at 4.7%, and Indiana operates a flat rate of 3.05%. Among the comparison states, Kentucky's tax trajectory is among the most producer-friendly.
+For a producer earning $100,000, the difference between Kentucky's 3.5% rate and Wisconsin's top marginal rate of 7.65% represents over $4,000 in additional take-home pay annually. Missouri's graduated system tops out at 4.7%, and Indiana operates a flat rate of 3.0% for 2025. Among the comparison states, Kentucky's tax trajectory is among the most producer-friendly.
 
 ## Employment Models: Captive vs. Independent
 
@@ -61,10 +61,6 @@ The choice between captive and independent is one of the most consequential deci
 Captive agents represent a single carrier — companies like State Farm, Allstate, Nationwide, and Humana have captive agent networks throughout Kentucky. These positions offer structured training, brand recognition, marketing support, and sometimes a draw against commission during the startup phase. For new licensees who want structured support while building skills and a client base, captive positions are a legitimate and often underrated starting point.
 
 Independent agents work with multiple carriers and typically earn higher commissions per policy but bear more of the business development burden. Many experienced captive agents transition to the independent model after three to five years, bringing their client relationships with them. In Kentucky's commercial and specialty markets, independent agents are generally better positioned to serve complex client needs across multiple carriers.
-
-## Income Comparison: Kentucky vs. Neighboring States
-
-⚠️ Average salary figures are general statewide estimates for all occupations. Insurance agent income varies significantly by line, model, and market. Verify current figures with the Bureau of Labor Statistics or Kentucky Career Center.
 
 ## Frequently Asked Questions
 

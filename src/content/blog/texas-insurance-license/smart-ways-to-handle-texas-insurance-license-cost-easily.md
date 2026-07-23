@@ -33,7 +33,15 @@ When comparing course providers, look for reputable organizations that explain t
 
 ## Take your licensing exam
 
-Whether or not you take a pre-licensing course, you'll be ready to tackle the official licensing exam once you feel prepared. The current Texas exam fee is $39 per attempt through Pearson VUE. Factor in the possibility that you might need to retake the exam if you don’t pass on your first try. Make sure to schedule your exam at a testing facility or through an online proctor service as soon as you feel ready.
+Whether or not you take a pre-licensing course, you'll be ready to tackle the official licensing exam once you feel prepared. Texas exam fees are charged per attempt through Pearson VUE and depend on which exam you sit for:
+
+-   General Lines – Life, Accident & Health: **$49** (150 minutes) — this is the single exam that qualifies you for both life and health
+-   General Lines – Property & Casualty: **$49** (150 minutes)
+-   Life Agent (life only): **$39** (120 minutes)
+-   Personal Lines Property & Casualty: **$39** (120 minutes)
+-   Limited Lines: **$29** (60 minutes)
+
+So if you're pursuing the Life & Health path this post has been costing out, budget $49 per attempt, not the lower life-only figure. Fees are current in the Pearson VUE Texas Insurance Licensing Candidate Handbook; confirm them when you book, since Pearson VUE updates the handbook periodically. Factor in the possibility that you might need to retake the exam if you don’t pass on your first try. Book your seat as soon as you feel ready — Texas administers these exams in person at Pearson VUE test centers, so plan around a testing-center appointment rather than a remote one.
 
 When you arrive on test day, you’ll typically need two forms of ID and any appointment confirmations. The exam itself consists of multiple-choice questions covering various topics like state regulations, insurance fundamentals, and scenario-based applications. Passing the exam on your first attempt can help you avoid paying additional fees and speed up your time to licensure.
 
@@ -41,7 +49,7 @@ When you arrive on test day, you’ll typically need two forms of ID and any app
 
 After passing the exam, you’ll submit your license application to the [Texas Department of Insurance](/texas/requirements) (TDI). The application fee for a standard Texas producer license is $50. Some licenses may have separate fees, so read all requirements carefully before applying. You'll also need to go through fingerprinting through IdentoGO, which runs about $39.70.
 
-It’s helpful to gather all your paperwork beforehand—pre-licensing certificates, exam pass notifications, and your fingerprinting documents—so you don’t have to scramble at the last minute. Submitting these items together and in the specified format often accelerates the review process. Paying attention to detail here helps you steer clear of any potential application delays.
+It’s helpful to gather all your paperwork beforehand—your exam pass notification and your fingerprinting confirmation—so you don’t have to scramble at the last minute. (Texas doesn't ask for a prelicensing course certificate, since the coursework itself is optional, but keep anything a course provider gives you for your own records.) Submitting these items together and in the specified format often accelerates the review process. Paying attention to detail here helps you steer clear of any potential application delays.
 
 ## Explore cost-saving strategies
 

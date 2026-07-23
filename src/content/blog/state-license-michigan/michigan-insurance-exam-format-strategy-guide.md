@@ -42,17 +42,17 @@ $41 per exam. Paid when scheduling through PSI.
 
 ## Complete Michigan Exam Specifications
 
-The complete authoritative PSI cut score data for Michigan major producer exams:
+Every number below comes from the DIFS "Insurance Examination Cut Scores" table (effective 5/1/2020) — the department's own published cut scores for each Michigan exam. Confirm the current table with DIFS before you schedule, since cut scores can be revised after a job analysis.
 
 Key observations:
 
-The A&H exam at 76% is Michigan's highest single-line threshold
+Among Michigan's four major producer lines, the A&H exam at 76% is the highest threshold — above Life, Property, and Casualty (Michigan does set higher cut scores on some specialty exams, such as the Surplus Lines Producer at 77% and the counselor exams at 80–82%)
 
-The combined P&C exam (74%) is actually lower than either single Property (75%) or single Casualty (74%) — making combined P&C strategically attractive
+The combined P&C exam (74%) matches the single Casualty threshold (74%) and sits below single Property (75%) — making combined P&C strategically attractive versus a standalone Property exam
 
-Life is Michigan's lowest single-line threshold at 72%
+Life is the most forgiving of the four major producer lines at 72%
 
-No Michigan major-line exam uses the standard 70%
+No Michigan major producer line uses the standard 70%
 
 ## Understanding Michigan's Variable Passing Scores
 
@@ -122,7 +122,7 @@ Life at 72%, A&H at 76%
 
 Life exam considerably more forgiving (72% vs 76%)
 
-A&H exam most demanding in Michigan
+A&H is the most demanding of Michigan's four major producer exams (a handful of specialty exams — Surplus Lines at 77%, the counselor exams at 80–82% — sit higher still)
 
 Can focus intensively on A&H knowing Life is more manageable
 
@@ -260,6 +260,6 @@ No single section dominates as heavily as Insurance Regulation in the Life exam 
 
 ## Prepare Strategically for Michigan's Format
 
-Format knowledge transforms exam preparation from anxiety-driven to systematic. At JustInsurance, our Michigan prelicense course is built around the PSI content outlines with full Michigan-specific regulatory coverage including DIFS rules, MCL 500, and Michigan's no-fault auto provisions.
+Format knowledge transforms exam preparation from anxiety-driven to systematic. At JustInsurance, our Michigan prelicense course is built around the PSI content outlines with full Michigan-specific regulatory coverage including DIFS rules and MCL 500.
 
 Enroll today and approach Michigan's elevated passing scores with confidence.

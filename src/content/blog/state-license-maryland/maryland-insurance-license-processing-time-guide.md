@@ -94,6 +94,6 @@ Late renewal: up to 1 year ($169 total); after 1 year: new application
 
 ## Build Your MD License Timeline Efficiently
 
-JustInsurance's MIA-approved Maryland courses are fully online, self-paced, and designed to get you to the Prometric exam ready on your schedule.
+JustInsurance's Maryland exam-prep courses are fully online, self-paced, and designed to get you Prometric-exam ready on your schedule.
 
 Enroll today and move through the Maryland licensing process efficiently.

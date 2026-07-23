@@ -33,7 +33,7 @@ Connecticut insurance law is found primarily in:
 
 Connecticut General Statutes (CGS) Title 38a — broader insurance code
 
-CGS §38a-702 — [prelicense](/connecticut/prelicensing) education requirements
+CGS §38a-702e — [prelicense](/connecticut/prelicensing) education and examination requirements (§38a-702 itself is the chapter's definitions section)
 
 CGS §38a-782a — [continuing education](/connecticut/continuing-education) requirements
 
@@ -297,7 +297,7 @@ Connecticut Insurance Department authority
 
 ## 5 Frequently Asked Questions
 
-- How much of the Connecticut exam is state-specific law? Approximately 15-25% of the exam focuses on Connecticut-specific content.
+- How much of the Connecticut exam is state-specific law? A substantial share — 25 of the 75 scored questions on a single-line exam (about a third), and 30 scored questions on the combined Life & Health, Property & Casualty, and Personal Lines exams. On the current Pearson VUE content outlines, Connecticut law runs from roughly a quarter to over a third of your scored questions, depending on the exam.
 - What's distinctive about Connecticut's health insurance exchange? Connecticut operates Access Health CT as a state-based marketplace, unlike most states which use the federal Healthcare.gov.
 - What's the Connecticut Long-Term Care Partnership Program? A state program connecting LTC insurance to Medicaid asset protection. Producers selling LTC must complete specific Partnership Program training (4-hour classroom training in addition to standard 8-hour LTC training).
 - Can national study materials cover Connecticut law? Partially. National materials cover general insurance concepts well but rarely go deep on Connecticut-specific rules. Use Connecticut-specific prelicense courses for state content.

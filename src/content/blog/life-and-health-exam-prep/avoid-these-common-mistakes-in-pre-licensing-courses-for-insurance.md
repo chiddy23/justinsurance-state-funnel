@@ -94,7 +94,7 @@ Below are some common concerns about the pre-licensing process and the insurance
 2.  Do I need a specific background to succeed in pre-licensing courses?  
     No. Many people come from completely different industries or education levels and thrive in insurance with the right preparation. Your commitment to studying is more important than your prior background.
 3.  How can I choose the right pre-licensing course for me?  
-    Look for courses that are comprehensive, user-friendly, and well-reviewed. If possible, speak with others who have taken similar courses or contact trusted providers like JustInsurance for guidance.
+    Look for courses that are comprehensive, user-friendly, and well-reviewed. If possible, speak with others who have taken similar courses, or compare the course details from established providers like JustInsurance.
 4.  Do practice exams accurately reflect the real test?  
     While the exact questions will vary, practice exams mirror the structure, difficulty, and timing of the real exam. They’re invaluable for assessing your level of preparedness.
 5.  How long do I need to study before the actual exam?  
@@ -104,4 +104,4 @@ You might still have more specific questions regarding your individual circumsta
 
 Take advantage of resources that give you a well-rounded understanding of insurance principles, and lean on any new colleagues or mentors you meet within the industry. By following a steady, organized routine, you can walk into your exam feeling confident and eager to pass.
 
-Before you dive back into your notes, remember that the right support network can make all the difference. If you’re looking to sign up for a pre-licensing course that caters to your schedule, or you simply want some extra guidance, consider connecting with JustInsurance. You can get personalized tips, course recommendations, and a supportive community that will help you stay on track. Good luck with your studies, and may your efforts lead you swiftly to that well-deserved insurance license!
+Before you dive back into your notes, remember that steady, well-organized preparation makes all the difference. If you’d like a self-paced pre-licensing course you can fit around your schedule, JustInsurance offers state-approved [pre-licensing courses](/prelicensing) you can start whenever you’re ready. Good luck with your studies, and may your efforts lead you swiftly to that well-deserved insurance license!

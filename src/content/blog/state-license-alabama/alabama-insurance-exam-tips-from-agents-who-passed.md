@@ -32,7 +32,7 @@ What doesn't: Trying to cover everything in the final week while balancing your 
 
 ## Tip 2: Don't Skip Alabama-Specific Content
 
-Candidates who use only generic national study materials consistently struggle on Alabama-specific questions — which make up 15-20% of the exam.
+Candidates who use only generic national study materials consistently struggle on Alabama-specific questions. Per the ALDOI's published content outline, the dedicated "Alabama Insurance Law" section alone is 20 of the 150 questions — about 13% — on the combined Life and Health exam (and 16 of 100, or 16%, on the Health-only exam). Additional state-specific detail is folded into other chapters too, so the real footprint is larger still — and it's easily enough to decide a pass or a fail.
 
 What passers do: They use Alabama-specific study materials or spend dedicated time on Alabama insurance laws, ALDOI structure, Alabama replacement rules, Alabama unfair trade practices, and state-specific provisions.
 

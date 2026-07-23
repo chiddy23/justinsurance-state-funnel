@@ -33,13 +33,13 @@ Many states also insist on specific courses tied to recent regulatory changes. F
 
 ## Avoid crucial compliance missteps
 
-When you’re juggling policy work, client services, and everyday life, it’s easy to underestimate how long completing your CE hours will take. Unfortunately, missing deadlines often leads to steep fines or even a suspended license. To steer clear of these pitfalls, log your progress regularly. Keep a digital or paper record of your completed courses, including the date, provider, and credit hours earned.
+When you’re juggling policy work, client services, and everyday life, it’s easy to underestimate how long completing your CE hours will take. Unfortunately, missing your renewal deadline can keep the state from renewing your license on time — so it lapses or expires — and, depending on where you’re licensed, may add late fees or extra reinstatement steps before you’re back in good standing. To steer clear of these pitfalls, log your progress regularly. Keep a digital or paper record of your completed courses, including the date, provider, and credit hours earned.
 
 Another common oversight is failing to confirm that your provider reports completed credit hours on time. States with strict deadlines may require providers to submit your results within a specified timeframe. If your credits fail to show up in the state database due to a late report, you might face renewal complications even though you finished your coursework correctly. Be proactive, and check the official system or ask providers about their reporting procedures.
 
-## Use helpful renewal tools
+## Build a simple renewal checklist
 
-Because each state mandates different CE course hours, the challenge often lies in organizing and scheduling your studies. A reliable CE management platform can streamline your renewal journey. If you prefer online classes, choose a state-approved portal that allows you to fit your study sessions around client appointments and personal commitments.
+Because each state mandates different CE course hours, the challenge often lies in organizing and scheduling your studies. A plain checklist — hours required, mandated topics, deadline date, credits finished so far — does more for you than any dashboard, because the state holds *you* responsible for hitting the deadline, not your course provider. If you prefer online classes, choose a state-approved portal that allows you to fit your study sessions around client appointments and personal commitments.
 
 Below is a simple snapshot of how [CE requirements](/continuing-education) can differ among four large states. This table should help you see why it’s critical to review your state’s specific mandates:
 
@@ -47,9 +47,9 @@ State
 
 Required CE Hours
 
-Ethics Requirement
+Mandated Topic Credits
 
-Renewal Cycle
+Cycle
 
 California
 
@@ -69,26 +69,28 @@ Every 2 years
 
 Florida
 
-24
+24 for your first 6 years licensed, then 20
 
-4 hours of law & ethics
+4-hour Law & Ethics Update, specific to your license type
 
-Every 2 years
+Every 2 years (the Florida license itself is perpetual; CE is due the last day of your birth month)
 
 New York
 
 15
 
-1 hour of ethics
+Within the 15: 1 credit each in insurance law, ethics & professionalism, and diversity, inclusion & elimination of bias, and 1 flood credit if you hold any property/casualty line
 
 Every 2 years
 
-Beyond confirming hours, you may need to brush up on focused topics such as anti-money laundering, annuity suitability, or flood insurance if highlighted in your state. Quality providers such as JustInsurance can not only supply an assortment of state-approved courses, but also help you track completion in real time. You’ll be able to spot any missing credits, schedule your sessions, and keep your license renewal from morphing into an administrative headache.
+New York is the row worth a second look, because it is the one agents most often get wrong. Its 15-credit total is the smallest in the table, but the New York Department of Financial Services will not let you fill it with 15 general credits. Under 11 NYCRR 20-2.2(b), one of the 15 has to be insurance law, one has to be ethics and professionalism, and one has to be diversity, inclusion and elimination of bias — and if you hold any property/casualty line, one has to be flood insurance, rising to at least three credits of enhanced flood instruction if you sell flood through the NFIP. A generic course will not satisfy any of those; each has to carry the specific topic designation.
+
+Beyond confirming hours, you may need to brush up on focused topics such as anti-money laundering, annuity suitability, or flood insurance if highlighted in your state. Quality providers such as JustInsurance supply an assortment of state-approved courses that cover these focused topics, so you can knock out your required hours in one place and keep your license renewal from morphing into an administrative headache.
 
 ## FAQ: Five common questions
 
 1.  What happens if I miss the CE deadline?  
-    In most states, failing to finish your CE credits on time can lead to monetary penalties or suspension of your license. You might need to pay late fees and complete additional steps to get your license reinstated. It’s best to stay ahead of the timeline to avoid any service interruptions.
+    In most states, failing to finish your CE credits on time means the state won’t renew your license, so it lapses or expires. You might need to pay late fees and complete additional steps to get it reinstated. It’s best to stay ahead of the timeline to avoid any lapse in your ability to do business.
 2.  Can I complete CE hours from multiple providers?  
     Absolutely. Most states let you earn some credits through one provider and the rest through another, as long as both are state-approved. Splitting your courses can be helpful if you want a broader range of topics or prefer different teaching formats.
 3.  Do all states require ethics courses?  
@@ -104,6 +106,6 @@ Staying compliant with state insurance CE mandates doesn’t have to feel overwh
 
 Finally, keep a vigilant record of what you’ve finished so you’re never second-guessing your hours. When you’re well-organized, you reduce the odds of penalties, maintain your professional credibility, and keep yourself ready to serve clients effectively.
 
-Carving out a bit of time each week to tackle your CE hours might sound daunting, but it pays off once all the boxes are checked and your renewal runs smoothly. If you’re striving for an even simpler approach, consider working with a provider like JustInsurance. Their tools make it easier to see your progress and stay aligned with your state’s requirements.
+Carving out a bit of time each week to tackle your CE hours might sound daunting, but it pays off once all the boxes are checked and your renewal runs smoothly. If you’re striving for an even simpler approach, consider working with a provider like JustInsurance: state-approved courses you finish online at your own pace, a completion certificate emailed to you the moment you pass, and — in the states where our provider approval is active — electronic reporting of that completion to your Department of Insurance, typically the same business day. What we don’t do is watch your renewal date for you, so keep the deadline on a calendar you actually look at.
 
 Whether you’re just tapping into new markets or you’re an experienced agent juggling a busy client roster, taking control of your continuing education keeps you one step ahead. By following these tips and scheduling your courses well before the deadline, you can get your license renewed without a hitch. You’ll stay informed on industry trends and ensure continuous, high-level service that benefits both you and your clients.

@@ -12,7 +12,7 @@ image: /blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg
 imageAlt: How to Track Your Minnesota CE Credits and Renew Through NIPR and Sircon
 ---
 
-Completing your Minnesota CE courses is only part of the renewal obligation — verifying that those completions are accurately recorded in the Department of Commerce's system, confirming all four CE components are satisfied, and submitting the renewal application through the correct platform before your birth month deadline are the steps that convert completed CE into an active renewed license. Many producers who complete their CE on time still encounter renewal problems because they assume completion equals credit and submission equals approval. This post covers the complete CE tracking and renewal submission process end to end: how the CE credit system works, how to verify your transcript, how to identify and resolve discrepancies, and exactly how to submit your renewal through NIPR and Sircon.
+Completing your Minnesota CE courses is only part of the renewal obligation — verifying that those completions are accurately recorded in the Department of Commerce's system, confirming all three CE components are satisfied, and submitting the renewal application through the correct platform before your birth month deadline are the steps that convert completed CE into an active renewed license. Many producers who complete their CE on time still encounter renewal problems because they assume completion equals credit and submission equals approval. This post covers the complete CE tracking and renewal submission process end to end: how the CE credit system works, how to verify your transcript, how to identify and resolve discrepancies, and exactly how to submit your renewal through NIPR and Sircon.
 
 ## How Minnesota's CE Credit System Works
 
@@ -56,7 +56,7 @@ Component 2 — Ethics hours: Do at least 3 of the 24 hours carry an ethics desi
 
 Component 3 — Non-company-sponsored hours: Do at least 12 hours come from courses not sponsored by or affiliated with any insurance company? The transcript records completions but may not separately flag the sponsor status of each course. Maintain your own record of which courses were company-sponsored and which were from independent providers. There is no format requirement here — self-paced online courses from an independent provider satisfy this component just as well as any other format.
 
-The specialty verification: If you sell LTC insurance, verify that your current LTC training cycle is satisfied. If you sell annuities and completed the one-time training in a prior period, verify that the training completion is on file. If you sell flood insurance through the NFIP and have a one-time flood training obligation, verify that completion is recorded.
+The specialty verification (not a fourth component — a separate, case-by-case check that applies only if you write these products): If you sell LTC insurance, verify that your current LTC training cycle is satisfied. If you sell annuities and completed the one-time training in a prior period, verify that the training completion is on file. If you sell flood insurance through the NFIP and have a one-time flood training obligation, verify that completion is recorded.
 
 ## When to Check Your Transcript
 
@@ -112,7 +112,7 @@ Answer each question completely and accurately. Changes that occurred since your
 
 Step 5 — Confirm CE completion: The renewal application includes a certification that you have completed the required CE for the renewal period. By submitting the renewal, you are certifying that 24 hours of CE including all required components have been completed and are recorded in the Department's system. Verify your transcript before making this certification — do not certify CE completion that has not been recorded.
 
-Step 6 — Review and pay: Confirm the total renewal fee — $80 for a standard individual producer license ($50 base + $30 technology surcharge) plus any applicable NIPR transaction fee. Complete payment by credit or debit card.
+Step 6 — Review and pay: Confirm the total renewal fee — roughly $60 in state fees for a standard individual producer license ($50 renewal fee plus a $10 technology surcharge), plus any applicable NIPR transaction fee, which is charged separately and is not included in the state figure. Fees change; confirm the exact total NIPR displays at checkout before you pay. Complete payment by credit or debit card.
 
 Step 7 — Save confirmation: NIPR generates a confirmation number and sends a confirmation email after successful submission. Save both. The confirmation number is your proof of submission and can be referenced if any processing questions arise.
 
@@ -152,7 +152,7 @@ Early renewal does not change the next renewal date: Submitting 90 days early do
 
 The calendar anchor: Set a calendar reminder for the first day of your 90-day early renewal window — three months before your birth month renewal deadline. This reminder signals that the window is open and that your CE should be complete enough to submit.
 
-The transcript audit: On the day your 90-day window opens, conduct a complete transcript audit using the four-component checklist. If everything is complete and correctly recorded, submit the renewal immediately and move the renewal obligation out of your active concern list for another two years.
+The transcript audit: On the day your 90-day window opens, conduct a complete transcript audit using the three-component checklist above — plus the specialty check if you sell LTC, annuities, or flood. If everything is complete and correctly recorded, submit the renewal immediately and move the renewal obligation out of your active concern list for another two years.
 
 The completion buffer: Complete your final CE course at least 10 days before your renewal deadline — not 1 or 2 days before. This buffer accommodates the provider's 5-business-day reporting window, any Department processing time for transcript updates, and your own time to confirm the completion before submitting the renewal.
 

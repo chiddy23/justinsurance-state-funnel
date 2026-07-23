@@ -73,8 +73,10 @@ If you’re ready to take a step forward, seek out reputable providers offering 
 
 You’ll also want to ensure the program you choose aligns with your long-term career goals. For example, if you’re focusing on building a portfolio of life insurance clients, look for specialized modules tailored to that market. Or if you want to specialize in commercial lines, find a course that emphasizes B2B relationship management.
 
-## Consider JustInsurance for specialized support
+## Where JustInsurance fits — and where it doesn’t
 
-As you start exploring training providers, consider looking into opportunities with JustInsurance. They offer modules designed specifically for newly licensed agents who want to see rapid growth. You’ll find a supportive network, personalized feedback, and resources to refine every aspect of your sales process. That way, you’ll have the confidence and structure to serve clients effectively, setting the stage for long-term success.
+One clarification, since you’re reading this on our site: JustInsurance is an insurance *education* provider, not a sales-training company. We offer [prelicensing coursework](/prelicensing) for candidates who aren’t licensed yet and state-approved [continuing education](/continuing-education) for producers who are. We don’t run a sales curriculum, and we don’t provide sales coaching, pitch reviews, or personalized production feedback.
+
+For that side of the business, look to your carrier’s field-training program, your agency’s sales manager, or an independent trainer who works with producers in your line. The two things complement each other rather than substitute for each other: education gets you licensed and keeps you compliant, sales training teaches you to sell. Just don’t expect one vendor to do both well, and be skeptical of any that claims to.
 
 In the end, every agent’s journey is unique. The right insurance sales training program can make a big difference in not just acquiring new customers, but also in building a sustainable, fulfilling career. By developing a strong foundation and adopting proven techniques, you’ll be prepared to tackle the day-to-day demands of your insurance practice with optimism and skill. Remember, each call is an opportunity to help someone, and each training session is a step toward mastering your craft. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

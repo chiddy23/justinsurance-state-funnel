@@ -116,6 +116,6 @@ Advise on PIP waiver carefully. The $2,500 minimum PIP can be waived — but som
 
 ## Serve Maryland Auto Clients With Current Knowledge
 
-Maryland's contributory negligence, non-waivable UM, EUIM, and credit prohibition create advisory obligations that reward producers who understand Maryland law. JustInsurance's MIA-approved Maryland courses cover current Maryland auto law in depth.
+Maryland's contributory negligence, non-waivable UM, EUIM, and credit prohibition create advisory obligations that reward producers who understand Maryland law. JustInsurance's MIA-approved Maryland CE courses cover current Maryland auto law in depth.
 
 Enroll today and build the Maryland auto insurance expertise your clients need.

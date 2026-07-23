@@ -21,7 +21,7 @@ If you're a future Louisiana insurance agent who wants a structured, realistic s
 
 ## Why Two Weeks Works for Louisiana
 
-In states like Kentucky, Indiana, and Wisconsin, candidates are locked into a minimum of one to four weeks of forced-progression prelicensing coursework before they can even schedule their exam. Louisiana has no such constraint. A motivated candidate who dedicates two to three hours per day for two weeks — studying with focused materials aligned to the PSI exam content — arrives at the testing center with the same depth of preparation as a candidate who completed a 20-hour PLE course in another state.
+In states like Kentucky, Indiana, and Wisconsin, candidates must complete a mandatory prelicensing course — 20 hours per line of authority — and hold a valid completion certificate before they are allowed to sit for the state exam. Louisiana has no such constraint. A motivated candidate who dedicates two to three hours per day for two weeks — studying with focused materials aligned to the PSI exam content — arrives at the testing center with the same depth of preparation as a candidate who completed a 20-hour PLE course in another state.
 
 The key is using materials that cover both general insurance content and Louisiana-specific law. Generic insurance study guides that do not include Louisiana-specific chapters on Title 22, the 2025-2026 tort reform, Annuity Best Interest, and the state's workers' comp framework leave you prepared for only half the exam. JustInsurance's Louisiana-approved exam prep courses cover both content areas in the proportions they appear on the actual PSI exam.
 
@@ -41,7 +41,7 @@ By the end of Day 7, you should have a working familiarity with the general insu
 
 Dedicate the first half of Week 2 to Louisiana-specific content. This is the exam section where unprepared candidates most commonly fail, and it is the content area where your study investment pays the highest return.
 
-For all lines, prioritize: Title 22 producer licensing requirements; unfair trade practices under Louisiana law; the LDI disciplinary framework; and Healthy Louisiana (Medicaid, expanded June 1, 2016, 138% FPL) versus Healthcare.gov marketplace structure.
+For all lines, prioritize: Title 22 producer licensing requirements; unfair trade practices under Louisiana law; the LDI disciplinary framework; and Healthy Louisiana (Medicaid, expanded July 1, 2016, 138% FPL) versus Healthcare.gov marketplace structure.
 
 For P&C candidates, add: Louisiana auto minimums (15/30/25); the modified 51% comparative fault system effective January 1, 2026 (Act 15); the No Pay No Play statute; the two-year PI SOL (effective July 1, 2024, Act 423); workers' comp (NCCI, LWCC, LWC OWCA, 1+ employee, TTD 66 2/3%); and NFIP flood training as an ongoing renewal requirement.
 

@@ -116,11 +116,11 @@ Annuities and federal tax considerations
 
 Dedicated Washington state law study:
 
-RCW 48.02 Commissioner (elected, 4-year, $25K bond, $1,000 fine, 15-30 day payment)
+RCW 48.02 Commissioner (elected, 4-year term, $25K bond)
 
-RCW 48.17 producer licensing (18 years, 180-day temp license, 30-day address change, 5-year disclosure retention)
+RCW 48.17 producer licensing (18 years, 180-day temp license, 30-day address change, 5-year disclosure retention, 15-business-day inquiry response under RCW 48.17.475, $1,000-per-offense fine paid 15–30 days from the order under RCW 48.17.560)
 
-RCW 48.30 unfair practices (rebating threshold: $25; insured fine: $200)
+RCW 48.30 unfair practices (merchandise limit: $100 per person in the aggregate in any twelve-month period under RCW 48.30.140(4) and .150; insured who accepts a rebate fined up to $200 under RCW 48.30.170)
 
 RCW 48.32A Life and Disability Guaranty Association
 
@@ -178,7 +178,7 @@ Washington Healthplanfinder: State-based marketplace (not Healthcare.gov)
 
 Apple Health: Washington's Medicaid program
 
-RCW 48.62 Health Insurance Coverage Access Act
+RCW 48.41 Health Insurance Coverage Access Act (the Washington State Health Insurance Pool — note the chapter number: RCW 48.62 is local government insurance transactions and has nothing to do with individual health coverage)
 
 RCW 48.43: Health reform, essential health benefits, guaranteed issue, rate review
 
@@ -220,9 +220,9 @@ Commissioner term: 4 years
 
 Commissioner bond: $25,000
 
-Commissioner fine authority: up to $1,000 per offense
+Commissioner fine authority: not more than $1,000 per offense (RCW 48.17.560 — the licensing chapter, not RCW 48.02)
 
-Fine payment deadline: 15-30 days after order
+Fine payment deadline: not less than 15 nor more than 30 days from the date of the order
 
 Age for licensure: 18
 
@@ -238,13 +238,13 @@ CE hours: 24 total, 3 ethics
 
 Compensation disclosure retention: 5 years
 
-Reply to Commissioner inquiries: 21 days
+Reply to Commissioner inquiries: 15 business days from receipt (RCW 48.17.475) — business days, and measured by when the Commissioner receives your reply
 
 Unfair practices:
 
-Rebate threshold: more than $25
+Merchandise/gift limit: $100 per person in the aggregate in any twelve-month period (RCW 48.30.140(4); RCW 48.30.150) — value above that aggregate is a prohibited rebate
 
-Insured rebate acceptance fine: up to $200
+Insured rebate acceptance fine: up to $200 (RCW 48.30.170)
 
 Pre-claim action notice: 20 days
 
@@ -270,7 +270,7 @@ Test yourself: Without looking, can you state all of these from memory? If hesit
 
 Washington's 180-day exam validity creates important scheduling considerations:
 
-Apply before exam or promptly after? Some candidates prefer submitting their NIPR/OIC application before taking the exam (so everything is ready to go upon passing). The August 2025 rule requires application before fingerprinting, but not necessarily before the exam itself.
+Apply before exam or promptly after? Some candidates prefer submitting their NIPR/OIC application before taking the exam (so everything is ready to go upon passing). Your license application has to be on file before you can book fingerprinting — IdentoGO needs your OIC or NIPR transaction number to schedule, and OIC states the sequence follows FBI requirements. That is a long-standing rule, not a recent one, and it does not require the application to be in before the exam itself.
 
 Efficient sequence:
 
@@ -282,13 +282,15 @@ Submit NIPR/OIC application immediately (same day or next day)
 
 Get transaction number
 
-Schedule IDEMIA IdentoGO fingerprint appointment immediately
+Schedule IdentoGO fingerprint appointment immediately
 
-Complete fingerprinting within 1-2 weeks
+Complete fingerprinting in the first week or two
 
-OIC processing: 2-4 weeks
+Washington State Patrol background check — typically the longest single step
 
-Total from exam to license: 3-6 weeks — well within 180-day window
+OIC review once your background results and score report are on file: roughly 3-5 business days for a clean application, with the license issued a few days after
+
+Total from exam to license: about 2-4 weeks for a clean application — well within the 180-day window
 
 Don't pass and delay. The 180-day window sounds ample until personal circumstances, fingerprinting scheduling delays, or OIC processing backlogs consume it. Begin the application process within the first week after passing.
 
@@ -310,7 +312,7 @@ Using only generic national materials. The state law section is the most common 
 
 Taking Disability without extra preparation time. Washington candidates consistently report Disability as harder than Life. Giving Disability the same preparation time as Life typically produces worse outcomes.
 
-Proceeding to exam before consistently scoring 80%+. Washington's 70% threshold is achievable with genuine preparation, but underpreparation on state law creates real failure risk. The diagnostic from a failure is valuable — but the time and $35 cost of retaking is better invested in proper preparation before the first attempt.
+Proceeding to exam before consistently scoring 80%+. Washington's 70% threshold is achievable with genuine preparation, but underpreparation on state law creates real failure risk. The diagnostic from a failure is valuable — but the time and $38 cost of retaking is better invested in proper preparation before the first attempt.
 
 Ignoring the 180-day window. Passing and then delaying application/fingerprinting risks expiry. Build the full licensing sequence into your post-exam plan from day one.
 

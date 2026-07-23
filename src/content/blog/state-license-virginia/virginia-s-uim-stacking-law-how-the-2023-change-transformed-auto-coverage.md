@@ -98,4 +98,4 @@ Yes. The insurance industry opposed the UIM stacking legislation during the Gene
 
 Virginia's UIM stacking change is one of the most pro-consumer auto insurance reforms in the Commonwealth's recent history. Producers who understand it, explain it accurately, and advise clients against uninformed waivers of the benefit are providing genuine value that generic policy placement does not.
 
-Visit JustInsurance to enroll today and master Virginia's auto insurance law changes with a state-approved course built to the current Prometric content outline.
+Keep this UIM stacking breakdown close when you advise Virginia auto clients. Auto insurance law is tested on the Virginia property and casualty exam, and JustInsurance's exam prep covers the life, health, and combined life & health lines — we do not offer a property and casualty prep course. If you already hold your Virginia P&C license, [Virginia continuing education](/virginia/continuing-education) keeps it current.

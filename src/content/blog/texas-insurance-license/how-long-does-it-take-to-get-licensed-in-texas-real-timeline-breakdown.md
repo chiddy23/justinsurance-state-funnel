@@ -20,9 +20,9 @@ One of the first questions people ask is: how long is this actually going to tak
 
 ## The 5 Steps and How Long Each Takes
 
-Step 1: Consider [Prelicense](/texas/prelicensing) Education (Optional) — 1 to 3 weeks
+Step 1: Consider an [Exam-Prep Course](/texas/prelicensing) (Optional) — 1 to 3 weeks
 
-Texas does not require prelicense education, but many candidates opt for a 40-hour approved course to prepare. If you study consistently — a few hours a day — most people finish in 1 to 2 weeks. If you're fitting it around a full-time job, budget closer to 3 weeks.
+Texas does not require prelicense education for an agent license, and TDI does not approve or certify agent prelicensing courses — its prelicensing approval rules (28 TAC Chapter 19, Subchapter K) cover continuing education and *adjuster* prelicensing only. Many candidates still work through a 40-hour exam-prep course voluntarily, because the state exam is content-heavy. If you study consistently — a few hours a day — most people finish in 1 to 2 weeks. If you're fitting it around a full-time job, budget closer to 3 weeks.
 
 If you do take a course, don't try to rush it by cramming 40 hours into a weekend. The exam will test whether you actually understood the material.
 
@@ -38,13 +38,13 @@ Step 4: Submit Your Application — Same day you pass
 
 You can submit your TDI application through Sircon or NIPR on the same day you pass your exam. The $50 fee is paid online. Takes about 15 minutes.
 
-Step 5: TDI Reviews and Issues Your License — 5 to 10 business days
+Step 5: TDI Reviews and Issues Your License — 1 to 2 business days
 
-Once your application, exam results, and fingerprint clearance are all in, TDI typically processes and issues the license within 5 to 10 business days.
+Once your application, exam results, and fingerprint clearance are all in, electronic applications filed through Sircon or NIPR are typically processed within 1 to 2 business days. TDI posts the received-date it is currently working on its application processing dates page, and resident individual e-applications routinely sit about one business day behind. Applications flagged for additional background review take longer.
 
 ## Total Realistic Timeline
 
-Most people land somewhere between 4 and 6 weeks from start to licensed.
+The licensing paperwork itself is fast — it's the study runway and appointment scheduling that set your pace. Most people go from decision to licensed in about 2 to 4 weeks moving efficiently, or 5 to 6 weeks if the course is squeezed around a full-time job.
 
 ## What Causes Delays?
 
@@ -60,7 +60,7 @@ The best way to stay on schedule is to move through each step without unnecessar
 
 ## 5 Frequently Asked Questions
 
-- Can I schedule my exam before I finish my prelicense course? Yes — and it's actually a smart move. Booking your exam slot while still studying creates a deadline that keeps you focused. (Remember, prelicensing itself is optional in Texas.)
+- Can I schedule my exam before I finish my prep course? Yes — and it's actually a smart move. Booking your exam slot while still studying creates a deadline that keeps you focused. (Remember, prelicense education is not required in Texas, so nothing has to be completed before you sit.)
 - Does fingerprinting have to happen before or after the exam? Either order works. Many applicants schedule fingerprinting and the exam around the same time to avoid waiting.
 - What if I fail the exam? How much does that add to my timeline? Texas has no mandatory waiting period between attempts, but each retake requires a new registration. Plan for at least 1 to 2 additional weeks to review before retesting.
 - Is there an expiration on my exam results? Yes. In Texas, your exam results are valid for 1 year. You need to apply for your license within that window.
@@ -68,6 +68,6 @@ The best way to stay on schedule is to move through each step without unnecessar
 
 ## Don't Let the Timeline Drag
 
-The biggest time-waster in the licensing process is a slow, unfocused prep period. At JustInsurance, our Texas prelicense course is designed to help you move efficiently — with clear modules, practice exams, and everything you need to pass the first time.
+The biggest time-waster in the licensing process is a slow, unfocused prep period. At JustInsurance, our Texas exam prep course is designed to help you move efficiently — with clear modules, practice exams, and everything you need to walk into the Pearson VUE center prepared.
 
-Start today and be licensed in as little as 4 weeks.
+Start today and keep your timeline measured in weeks, not months.

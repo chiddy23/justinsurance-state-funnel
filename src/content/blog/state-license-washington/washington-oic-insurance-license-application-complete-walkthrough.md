@@ -17,7 +17,7 @@ imageAlt: >-
   oic insurance license application: complete walkt.
 ---
 
-The Washington Office of the Insurance Commissioner manages producer licensing with a combination of OIC direct services and NIPR integration, a distinctive application-before-fingerprinting sequence, and an increasingly modernized electronic licensing system. Washington's 2025 and 2026 updates — including the August 2025 application-first fingerprint sequence and the January 2026 electronic transition for core licensing transactions — mean that the process looks somewhat different from what older guides describe. Here's a current, accurate walkthrough of how Washington's OIC application process works.
+The Washington Office of the Insurance Commissioner manages producer licensing with a combination of OIC direct services and NIPR integration, a distinctive application-before-fingerprinting sequence, and an increasingly modernized electronic licensing system. Washington's 2025 and 2026 updates — including the January 2026 electronic transition for core licensing transactions — mean that the process looks somewhat different from what older guides describe, and the application-before-fingerprinting sequence trips up candidates who follow generic national advice. Here's a current, accurate walkthrough of how Washington's OIC application process works.
 
 ## Who the OIC Is
 
@@ -57,11 +57,11 @@ Property and Casualty (P&C): Standard path for home, auto, and commercial lines 
 
 Combined Life & Disability + Property & Casualty: Broadest market access. Requires two exams but one application covers all lines.
 
-Line-specific exam fees:
+Line-specific exam fees (PSI Washington Candidate Information Bulletin, revised 3/6/2026):
 
-Single line: $35 per exam
+Single line — Life Producer, Disability Producer, Property Producer, Casualty Producer, Personal Lines Producer: $38 per exam (100 questions)
 
-Combined exam (Life & Disability; or P&C combined): $52 per exam
+Combined exam — Life and Disability Producer Combo, or Property and Casualty Producer Combo: $55 per exam (150 questions)
 
 Application fee: Approximately $55 covers all lines in a single application — applying for multiple lines simultaneously doesn't multiply the application fee in the same way some states charge per-line.
 
@@ -111,11 +111,11 @@ Washington's rural geography context: Washington has significant rural areas —
 
 Compatibility check: Verify your computer meets PSI remote testing requirements before scheduling. PSI's compatibility checker can identify issues before you commit to a remote appointment.
 
-## The Critical 2025 Application Sequence
+## The Critical Application Sequence
 
-Washington's August 15, 2025 change to the fingerprint process requires specific sequencing that many candidates and older guides describe incorrectly:
+Washington's fingerprint process requires specific sequencing that many candidates and older guides describe incorrectly. Both OIC and PSI are explicit: you must submit your license application *before* you can schedule fingerprinting, which OIC and PSI attribute to an FBI requirement.
 
-Correct 2025 sequence:
+Correct sequence:
 
 Pass your exam (or plan to pass first, then follow steps 2-6)
 
@@ -125,7 +125,7 @@ Receive transaction number — in confirmation email or NIPR order history
 
 Schedule fingerprint appointment using your transaction number — through IDEMIA IdentoGO (identogo.com or 888-771-5097)
 
-Complete fingerprinting — at IDEMIA IdentoGO center or PSI testing center ($49.25 fee)
+Complete fingerprinting — at one of Washington's 30+ IDEMIA IdentoGO locations ($49.00, which OIC describes as the background check fee plus IdentoGO's service charge)
 
 OIC processes — Washington State Patrol forwards background check to OIC
 
@@ -133,7 +133,7 @@ Why application-first? OIC needs a submitted application on file before it can r
 
 Timing flexibility: You can apply after passing the exam or coordinate the application and fingerprint timing around your exam. The key constraint is that fingerprinting cannot be scheduled until after the application is submitted.
 
-Exam day fingerprinting: If taking exam in person, you can schedule fingerprinting at the same PSI testing center on the same day. Schedule the fingerprint appointment at least 48 hours before your exam — you'll bring the IDEMIA Registration ID to the testing center.
+One thing PSI does not do: fingerprint you. Fingerprinting is handled only by IDEMIA IdentoGO, at a separate appointment from your exam — PSI's bulletin directs candidates to "schedule an appointment with Idemia (IdentoGO)" and to select the Washington Office of the Insurance Commissioner as the receiving state agency. Candidates do not need to be fingerprinted before taking the exam.
 
 ## NIPR Application Steps
 
@@ -240,13 +240,13 @@ Washington non-resident licensing is among the fastest and most streamlined in t
 ## 5 Frequently Asked Questions
 
 - What is Washington's OIC and what does it regulate? The Washington Office of the Insurance Commissioner regulates insurance producers, insurers, and related entities under RCW Title 48 and WAC Title 284. Unlike Arizona's DIFI or Michigan's DIFS, Washington's OIC focuses exclusively on insurance — banking and mortgage are handled by separate state agencies.
-- Why do I need to apply before getting fingerprinted in Washington? Since August 15, 2025, Washington requires the license application to be submitted first so OIC can create a record to match with your fingerprint results. Your transaction number from the application is required to schedule your IDEMIA IdentoGO fingerprint appointment.
+- Why do I need to apply before getting fingerprinted in Washington? Washington requires the license application to be submitted first — OIC and PSI both cite an FBI requirement — so OIC has a record on file to match with your fingerprint results. As OIC puts it, you won't be able to schedule your appointment until they've received your license application. Your transaction number from the application is what lets you book the IDEMIA IdentoGO appointment.
 - Can I take the Washington insurance exam online from home? Yes. Washington has offered remote testing since 2020 and is a leader in remote insurance exam proctoring. All major line exams are available through PSI Bridge remote testing. A compatible computer, webcam, and stable internet connection are required.
 - How long does Washington license processing take? Clean applications typically process within a few weeks after OIC receives all required components — application, passing score report, and fingerprint background check results. Non-resident applications without fingerprint requirements are typically faster.
 - What makes Washington non-resident licensing so straightforward? Non-resident producers in good standing in their home state don't need to take the Washington exam and don't need fingerprinting. A simple NIPR application with fee is all that's required. Washington's reciprocal licensing approach makes non-resident licensing very accessible.
 
 ## Submit a Clean Washington Application
 
-Understanding OIC's updated 2025 sequence — application first, then fingerprinting — prevents the most common application delay. At JustInsurance, our Washington exam prep course prepares you for the state exam and helps you navigate the full licensing process.
+Understanding OIC's sequence — application first, then fingerprinting — prevents the most common application delay. At JustInsurance, our Washington exam prep course prepares you for the state exam and helps you navigate the full licensing process.
 
 Enroll today and move through Washington licensing efficiently.

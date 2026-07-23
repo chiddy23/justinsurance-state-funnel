@@ -50,7 +50,7 @@ For example, if contract law questions appear frequently, allocate extra study t
 
 ## Tap into expert resources
 
-You don’t have to tackle everything alone. Reputable providers like JustInsurance offer supportive materials such as practice exams, video tutorials, and community forums with fellow learners. Engaging with these resources helps you clarify tough topics and see how peers approach problem-solving.
+You don’t have to tackle everything alone. The JustInsurance [Indiana prelicensing courses](/indiana/prelicensing) for Life, Health, and combined Life & Health include video lessons, an interactive e-book, practice exams, and flashcard review sets, and enrolled students can reach the support team with questions about the material. Working the practice exams is what surfaces your weak spots — it beats rereading a chapter you already understand.
 
 Also consider connecting with licensed professionals who have recently passed the exam. Their tips on test anxiety, time management, or common pitfalls can be invaluable. Remember, the best approach is a mix of self-study and expert guidance.
 

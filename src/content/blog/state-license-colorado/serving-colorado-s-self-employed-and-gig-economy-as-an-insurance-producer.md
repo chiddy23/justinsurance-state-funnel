@@ -58,7 +58,7 @@ The practical impact is substantial. A self-employed Coloradan in a 22% federal 
 
 High Deductible Health Plans (HDHPs) paired with Health Savings Accounts are particularly attractive for self-employed Coloradans who are generally healthy, want to minimize premiums, and want to build tax-advantaged savings for future healthcare expenses. The triple tax advantage of HSAs — tax-deductible contributions, tax-deferred growth, and tax-free qualified withdrawals — is available to self-employed buyers who enroll in an HDHP-qualified plan.
 
-For 2026, HSA contribution limits are $4,300 for individuals and $8,550 for families. These contributions are deductible from federal income tax in addition to the self-employed health insurance deduction on the underlying premium — creating a combined tax advantage that can significantly reduce the net cost of healthcare for self-employed Coloradans.
+For 2026, HSA contribution limits are $4,400 for self-only coverage and $8,750 for family coverage (IRS Revenue Procedure 2025-19). These contributions are deductible from federal income tax in addition to the self-employed health insurance deduction on the underlying premium — creating a combined tax advantage that can significantly reduce the net cost of healthcare for self-employed Coloradans.
 
 ### The FAMLI Option for Self-Employed
 
@@ -136,4 +136,4 @@ The interaction is consequential and often misunderstood. Marketplace subsidies 
 
 Colorado's self-employed and gig economy population is large, diverse, underserved, and growing. The gig economy isn't going anywhere — and neither are the risks that come with it. Producers who build genuine expertise in the specific coverage needs of this market — the income estimation that optimizes subsidy eligibility, the professional liability conversation that most producers skip, the rideshare gap that platforms understate, and the disability income protection that no employer will provide — serve a client population that responds to real expertise with both loyalty and referrals.
 
-Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course that prepares you to serve every segment of Colorado's diverse insurance market.
+The health, life, and income-protection needs at the center of this market start with a Life and Health license, and JustInsurance offers Colorado [prelicensing](/colorado/prelicensing) built to the current Pearson VUE content outline. The professional-liability and auto exposures these clients also carry sit on the P&C side and take a Property and Casualty license. Once you're licensed, JustInsurance's Colorado [continuing education](/colorado/continuing-education) keeps you current as this book grows.

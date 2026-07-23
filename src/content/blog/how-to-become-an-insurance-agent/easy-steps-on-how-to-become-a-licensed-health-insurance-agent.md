@@ -37,9 +37,11 @@ Confirm these details through your state’s department of insurance or its offi
 
 ## Complete [pre-licensing courses](/prelicensing)
 
-Most states require you to enroll in specific pre-licensing courses before taking the licensing exam. These courses lay the groundwork on topics such as insurance laws, ethical practices, and policy structures. They also provide a clear overview of Health Maintenance Organization (HMO) plans, Preferred Provider Organizations (PPOs), and state-specific regulations.
+Eighteen states require you to complete a pre-licensing course before you can sit for the health licensing exam. The other 32 are exam-only: you can schedule and pass the exam without any coursework at all, and the course becomes optional exam prep rather than a legal prerequisite. Check your own state before you assume either way — this is the single most common thing new agents get wrong about the process.
 
-You can choose from in-person classes or online programs, and you will typically find they cover key topics in manageable modules. Some providers even let you set your own schedule, allowing you to balance other life commitments. A few states also specify the number of study hours you must complete, so check the guidelines carefully.
+In the states that do mandate it, the requirement is always expressed as a specific number of hours, and the hours differ a lot: Georgia asks for 8 hours on the health line, California 12, Arkansas and Ohio 20, Florida 40, and Colorado 50. Whatever the number, the course covers the same ground — insurance laws, ethical practices, and policy structures — plus a clear overview of Health Maintenance Organization (HMO) plans, Preferred Provider Organizations (PPOs), and state-specific regulations.
+
+You can choose from in-person classes or online programs, and you will typically find they cover key topics in manageable modules. Some providers even let you set your own schedule, allowing you to balance other life commitments. If your state does not require a course, that flexibility matters even more, because you are choosing how much preparation you actually need to pass.
 
 ## Study effectively for the exam
 
@@ -65,7 +67,7 @@ Estimated Cost
 
 Typical Timeline
 
-Pre-licensing course
+Pre-licensing course (required in 18 states, optional elsewhere)
 
 $150–$400
 
@@ -73,7 +75,7 @@ $150–$400
 
 Licensing exam fee
 
-$50–$100
+$32–$98
 
 1 test date (4–6 hrs)
 
@@ -85,7 +87,7 @@ Usually same as exam schedule
 
 License application fee
 
-$50–$200
+$0–$225
 
 1–2 weeks for processing
 

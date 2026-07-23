@@ -38,7 +38,7 @@ Responds to consumer complaints and inquiries
 
 Investigates producer misconduct and refers criminal matters to the Office of the Insurance Fraud Prosecutor
 
-DOBI's headquarters is at 20 West State Street, P.O. Box 325, Trenton, NJ 08625. The main licensing line is (609) 292-4337.
+DOBI's headquarters is at 20 West State Street, P.O. Box 325, Trenton, NJ 08625. Producer Licensing can be reached at (609) 292-7272 or inslic@dobi.nj.gov; Insurance Education is reachable at (609) 292-7272 or (609) 940-7480.
 
 ## The Commissioner's Authority
 
@@ -46,7 +46,7 @@ The Commissioner of Banking and Insurance is DOBI's chief regulator and holds sw
 
 Investigative authority: The Commissioner may investigate any producer or insurer doing business in New Jersey to determine whether a hearing is warranted. The Commissioner has subpoena power and can compel the production of records and testimony.
 
-Hearing authority: If sufficient evidence of a violation is found, the Commissioner issues a notice of hearing. Interested parties must receive notice at least 20 days before the hearing. Hearings are conducted pursuant to the Administrative Procedure Act (N.J.S.A. 52:14B-1 et seq.).
+Hearing authority: If sufficient evidence of a violation is found, the Commissioner charges the producer — typically by issuing an Order to Show Cause. Note which way the clock runs here, because producers routinely get this backwards: DOBI does not owe you a 20-day advance notice of a hearing date. You have 20 days from service of the Order to Show Cause to submit a written request for a hearing, and DOBI's orders state that if no request is received in that window the right to a hearing is deemed waived and the Commissioner may proceed to decide the matter on the papers. Read any order you are served immediately and calendar that deadline. Hearings, when requested, are conducted pursuant to the Administrative Procedure Act (N.J.S.A. 52:14B-1 et seq.). Separately, if the Commissioner enters an emergency ex parte order, N.J.S.A. 17:22A-45(d) requires a preliminary hearing on that order within 20 days after it is entered.
 
 Disciplinary authority: Following a hearing, the Commissioner may place a producer on probation, suspend or revoke the license, refuse to issue or renew a license, or impose a civil penalty. The specific penalty amounts under the Producer Licensing Act (N.J.S.A. 17:22A-45(c)) are up to $5,000 for a first offense and up to $10,000 for each subsequent offense.
 

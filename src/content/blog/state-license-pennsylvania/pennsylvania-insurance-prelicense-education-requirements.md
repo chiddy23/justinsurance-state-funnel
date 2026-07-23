@@ -108,7 +108,7 @@ General insurance principles (~30-40% of exam)
 
 Specific product knowledge (life, health, P&C, etc.)
 
-Pennsylvania-specific laws (~15-25% of exam)
+Pennsylvania-specific laws (not published as a single percentage — most sit in the "Insurance Regulation" domain, the exam's largest section at roughly 20-21%, with more Pennsylvania rules threaded through the product and senior-market topics)
 
 Federal regulations (HIPAA, ERISA, ACA, etc.)
 
@@ -152,9 +152,9 @@ Often more efficient. Structured content typically more efficient than independe
 
 This combined approach (no longer legally required, but recommended) remains the most successful path for most candidates.
 
-## What Pennsylvania Approved PLE Providers Offer
+## What Prelicense Course Providers Offer
 
-Pennsylvania-approved prelicense providers (now optional) offer:
+Prelicense course providers (now optional) offer:
 
 Online self-paced courses. Most popular format. Self-paced with online materials, quizzes, and final exam.
 
@@ -176,7 +176,7 @@ PSI Pennsylvania Candidate Information Bulletin. Official exam content outlines 
 
 Pennsylvania Statutes Title 40 (Insurance Code). Statutory framework for insurance practice.
 
-Major Prelicense Providers. Multiple national providers and online platforms offer state-approved courses.
+Major Prelicense Providers. Multiple national providers and online platforms offer prelicensing courses built to the PSI Pennsylvania content outline. Pennsylvania does not approve or endorse prelicensing courses, so choose one aligned to the current exam blueprint.
 
 Practice Question Banks. Various sources for practice questions including textbook publishers and online platforms.
 
@@ -244,7 +244,7 @@ Don't treat the lack of PLE as license to skip preparation — it's just removed
 
 Once you're prepared:
 
-Schedule your exam. Exam fee $43 paid to PSI at registration.
+Schedule your exam. Exam fee is $45 for a single-line exam (16-01 Life, 16-02 Accident and Health) or $55 for the combined Life, Accident and Health exam (16-03), paid to PSI at registration and non-refundable.
 
 Pass the state exam(s). With 70%+ score on each.
 
@@ -264,6 +264,6 @@ Receive license. Typically 2-5 business days for clean applications.
 
 ## Prepare for Pennsylvania the Right Way
 
-Even without required PLE, quality preparation makes the difference between first-attempt pass and repeat exam scheduling. At JustInsurance, our Pennsylvania prelicense courses (Provider Approval #147815) provide systematic preparation including Pennsylvania-specific laws and substantial practice exam access.
+Even without required PLE, quality preparation makes the difference between a first-attempt pass and repeat exam scheduling. One caution as you shop: since Act 142 took effect, Pennsylvania no longer approves prelicensing courses at all, so treat any "state-approved prelicense course" claim as a red flag. Judge a course on how closely it tracks the current PSI Pennsylvania content outline instead. Ours is built to that outline, with Pennsylvania-specific law coverage and substantial practice exam access — and JustInsurance is an approved Pennsylvania continuing education provider (#147815) for the CE you'll owe once you're licensed.
 
 Enroll today and start your Pennsylvania insurance career on a strong foundation.

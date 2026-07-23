@@ -1,5 +1,7 @@
 "use client";
 
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
+
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 
@@ -142,17 +144,29 @@ export default function PartnerResourcesPage() {
                   forfeits the guarantee); the flat 20/40 figures apply ONLY in
                   states with no prelicensing requirement.
                 - Added the 30-day first-attempt window, which is also a
-                  guarantee condition partners must coach to. */}
+                  guarantee condition partners must coach to.
+                - Audit 2026-07-20: the grid also carried "90 min / State laws
+                  section" and "30 min / Exam prep videos", which appear NOWHERE
+                  in Terms Section 4. Presenting them as eligibility conditions
+                  told partners the guarantee could be voided by terms the
+                  company has no contractual basis to enforce. They are now
+                  separated out and labelled as coaching recommendations.
+                - Audit 2026-07-20: the grid also OMITTED Terms Section 4
+                  conditions 4 and 5 (fail on the first attempt; submit the
+                  refund request with the official score report within 30 days
+                  of the failed exam) while telling partners this was the whole
+                  list. Both are now shown. */}
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Study Benchmarks</h2>
           <p className="text-gray-500 mb-2">
-            These are the Pass Guarantee eligibility conditions from our{" "}
+            The six tiles below are the Pass Guarantee eligibility conditions from our{" "}
             <a href="/terms" className="text-navy font-semibold underline hover:text-gold">
               Terms of Service
-            </a>
-            . Coach to them exactly &mdash; if a candidate misses one, the guarantee does not apply.
+            </a>{" "}
+            (Section 4), which controls in full. Coach to them exactly &mdash; if a candidate
+            misses one, the guarantee does not apply.
           </p>
           <p className="text-gray-500 mb-8 text-sm">
-            The Pass Guarantee is not offered in Ohio, Illinois, or West Virginia, or in states
+            The Pass Guarantee is not offered in {passGuaranteeExcludedLabel()}, or in states
             where our provider approval is still pending.
           </p>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
@@ -161,6 +175,22 @@ export default function PartnerResourcesPage() {
               { val: "20 / 40 hrs", label: "Single line / dual line (Life & Health) \u2014 only in states with no prelicensing requirement" },
               { val: "80%+", label: "Practice exams, three times in a row, before sitting for the state exam" },
               { val: "30 days", label: "First state exam attempt, counted from first enrollment" },
+              { val: "1st attempt", label: "The candidate must actually fail that first attempt \u2014 a passing score ends the claim" },
+              { val: "30 days", label: "Deadline to submit the refund request with the official score report, counted from the failed exam" },
+            ].map((s) => (
+              <div key={s.label} className="bg-white rounded-xl p-5 border border-gray-200 text-center">
+                <p className="text-2xl font-bold text-navy">{s.val}</p>
+                <p className="text-gray-500 text-xs mt-1">{s.label}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-gray-500 mt-8 mb-4 text-sm">
+            <strong className="text-navy">Our coaching recommendations</strong> &mdash; these are study
+            habits we suggest, <em>not</em> Pass Guarantee conditions. A candidate who skips them does
+            not lose the guarantee.
+          </p>
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+            {[
               { val: "90 min", label: "State laws section" },
               { val: "30 min", label: "Exam prep videos" },
             ].map((s) => (
@@ -171,18 +201,26 @@ export default function PartnerResourcesPage() {
             ))}
           </div>
           <p className="text-gray-600 text-sm mt-6 bg-white rounded-lg p-4 border border-gray-200">
-            <strong className="text-navy">The #1 thing that matters during the study period: daily engagement.</strong> Not everyone has the same schedule \u2014 some candidates can put in 4 hours a day, others can only do 1. That&apos;s fine. What matters is that they&apos;re logging in and studying every single day.
+            <strong className="text-navy">The #1 thing that matters during the study period: daily engagement.</strong> Not everyone has the same schedule &mdash; some candidates can put in 4 hours a day, others can only do 1. That&apos;s fine. What matters is that they&apos;re logging in and studying every single day.
           </p>
         </div>
       </section>
 
       {/* ── POST-PASS WORKFLOW ──
-          Shows partners what happens after their candidate passes — the
-          licensing-help differentiator that other prelicensing providers don't offer. */}
+          Shows partners what happens after their candidate passes: our own
+          licensing-help process.
+          Audit 2026-07-20: the intro used to read "the post-pass workflow most
+          prelicensing providers don't offer." That is a comparative claim about
+          the market as a class (Lanham Act 15 U.S.C. §1125(a)(1)(B); FTC
+          Comparative Advertising Policy, 16 C.F.R. §14.15) and we hold NO survey
+          or other substantiation for it — the sitewide comparison sweep removed
+          every other such line and missed this one. Describe our own service
+          only; do not reintroduce a "more/most/unlike other providers" framing
+          without dated, competent substantiation on file. */}
       <section className="bg-white py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">What Happens After Your Candidate Passes</h2>
-          <p className="text-gray-500 mb-8">The post-pass workflow most prelicensing providers don&apos;t offer. Your candidates don&apos;t get stuck in NIPR &mdash; we walk them through.</p>
+          <p className="text-gray-500 mb-8">Our post-pass workflow. Your candidates don&apos;t get stuck in NIPR &mdash; we walk them through.</p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="bg-gold/10 border border-gold/30 rounded-xl p-5">
               <div className="text-3xl mb-3">1</div>
@@ -218,9 +256,43 @@ export default function PartnerResourcesPage() {
               </p>
             </div>
           </div>
+          {/* Audit 2026-07-20, two corrections:
+              1) "2-4 weeks from enrollment" was a bare national speed claim that
+                 our own data contradicts.
+              2) "almost zero post-exam abandonment" was a quantified outcome
+                 claim with no metric, denominator, window or methodology
+                 anywhere in the repo or on the site (FTC Act §5 prior
+                 substantiation). Replaced with a qualitative description of the
+                 service. Do not restore a number without published methodology.
+
+              Audit 2026-07-22: the replacement range, "roughly 2-6 weeks," was
+              ALSO false, and the note that produced it mis-stated the data.
+              Recounted directly from src/lib/states.ts totalLicensingTime, all
+              50 records:
+                37  "2-4 weeks"
+                 1  alabama        "3-4 weeks"
+                 1  alaska         "2-5 weeks (for focused applicants)"
+                 1  arizona        "Approximately 5-7 weeks from start to finish"
+                 1  arkansas       "Approximately 3-4 weeks from start to finish"
+                 1  california     "3-6 weeks start to finish"
+                 1  delaware       "3-6 weeks"
+                 1  hawaii         "8-12 weeks"
+                 1  iowa           "4-8 weeks"
+                 1  maine          "4-7 weeks"
+                 1  michigan       "5-8 weeks"
+                 1  new-mexico     "3-6 weeks"
+                 1  north-carolina "4-8 weeks (NCDOI official standard: 60 days)"
+                 1  north-dakota   "4-7 weeks"
+              Seven states carry an upper bound ABOVE six weeks, so "2-6 weeks"
+              understated the slowest states by as much as six weeks. The true
+              envelope is 2 weeks at the fast end to 12 weeks in Hawaii; "most
+              states" = the 37 records at 2-4 weeks. Not derived from states.ts
+              at runtime because totalLicensingTime is free prose and this is a
+              client component -- if that field changes, recount and update the
+              figures here. */}
           <div className="mt-6 bg-navy text-white rounded-xl p-5 text-center">
             <p className="leading-relaxed">
-              <strong className="text-gold">Net result for your agency:</strong> active license status in 2&ndash;4 weeks from enrollment, almost zero post-exam abandonment, and candidates who feel supported all the way through.
+              <strong className="text-gold">Net result for your agency:</strong> fewer candidates stalling after the exam, candidates who feel supported all the way through, and active license status in about 2&ndash;4 weeks from enrollment in most states &mdash; a number of states run considerably longer, up to 8&ndash;12 weeks in Hawaii, so check your state&apos;s page for its own timeline.
             </p>
           </div>
         </div>
@@ -236,7 +308,14 @@ export default function PartnerResourcesPage() {
               { title: "Enrolling people and then going silent.", desc: "The most common mistake, by far. You enroll someone, don\u2019t call them for 3 days, and by then they\u2019ve already lost momentum. The Day 1 call exists for a reason." },
               { title: "Assuming people will study on their own.", desc: "They won\u2019t. Most candidates need someone checking in on them regularly. If you\u2019re not looking at the dashboard and following up, nobody is." },
               { title: "Not rescheduling exams when the numbers aren\u2019t there.", desc: "If a candidate is 3 days from their exam and hasn\u2019t hit the benchmarks, letting them sit for it is setting them up to fail. Push the exam back." },
-              { title: "Blaming the course material.", desc: "Our completer pass rate is 93% for a reason. When someone doesn\u2019t pass, it\u2019s usually because the recommended study time and practice-exam reps weren\u2019t there \u2014 not because the material was lacking." },
+              // Audit 2026-07-22: "our completer pass rate is 93%" described the
+              // cohort as course completers. Per /pass-rates, the 93% is
+              // measured among students who completed the full course AND met
+              // the recommended study metrics -- the recommended hours plus 80%+
+              // on the practice exam three times in a row before testing.
+              // Dropping the second half overstates who the figure applies to,
+              // the same defect corrected on /partners and /press.
+              { title: "Blaming the course material.", desc: "Our 93% first-attempt pass rate is measured among students who completed the full course, finished the recommended hours, and scored 80%+ on the practice exam three times in a row before testing. When someone doesn\u2019t pass, it\u2019s usually because the recommended study time and practice-exam reps weren\u2019t there \u2014 not because the material was lacking." },
               { title: "Letting candidates drift for weeks.", desc: "A 14-day sprint turns into a 30-day crawl, and then they never take the exam. Keep the timeline tight. Momentum is your best tool." },
             ].map((m, i) => (
               <div key={i} className="bg-gray-bg rounded-xl p-5 border border-gray-200">
@@ -266,7 +345,36 @@ export default function PartnerResourcesPage() {
               // Telling partners there is no hard deadline sets their candidates up
               // to lose both their access and their guarantee.
               { q: "What if a candidate needs more time on the course?", a: "Prelicensing course access runs 30 days from the date of enrollment \u2014 that is a hard deadline (Terms, Section 3). If a candidate needs more time, have them contact support before their access expires; extensions are reviewed case by case. Keep in mind the Pass Guarantee separately requires their first state exam attempt within 30 days of first enrollment, so stalling can cost them the guarantee even if access is extended." },
-              { q: "What states do you cover?", a: "We offer pre-licensing and continuing education courses nationwide. Contact us if you have questions about a specific state\u2019s requirements." },
+              // Corrected (audit 2026-07-20): "pre-licensing and continuing
+              // education courses nationwide" is false for prelicensing. This
+              // same page says the guarantee is withheld in approval-pending
+              // states, states.ts carries providerApprovalNumber "PENDING" for
+              // new-york and washington, and the New York prelicensing page
+              // itself says the course "is completing state approval and isn't
+              // open for enrollment yet." isPrelicensingHeld() in
+              // src/lib/prelicensing-status.ts is the gate. Advertising a
+              // prelicensing course in a state where it is not yet approved is a
+              // direct DOI advertising exposure for a licensed agent.
+              //
+              // Corrected again (audit 2026-07-22): the 07-20 pass left "We
+              // offer continuing education NATIONWIDE" standing, which is the
+              // same defect on the CE side. Recounted from src/lib/states.ts:
+              // 50 state records, providerApprovalNumber === "PENDING" in
+              // exactly two of them -- new-york (line 5835) and washington
+              // (line 8507) -- so 48 real approvals. stateClaims() in
+              // src/lib/prelicensing-status.ts sets canClaimCeApproval =
+              // (providerApprovalNumber !== "PENDING"), and
+              // /license-renewal-guide already badges those two rows "CE
+              // approval pending - not yet DOI-reportable". CE is therefore
+              // approved in 48 states, not nationwide. The vague "a few states
+              // -- including New York" is also replaced: New York is the ONLY
+              // state where prelicensing is held (isPrelicensingHeld() requires
+              // PENDING approval AND a numeric prelicensing hour requirement;
+              // Washington's prelicensing hours are "None required (optional)"
+              // on all three lines, so it is not held). Matches the wording
+              // already used on /partners. If either approval issues, update
+              // the count and the state names here.
+              { q: "What states do you cover?", a: "Our state CE provider approval is active in 48 of the 50 states \u2014 the New York and Washington approvals are still pending, so CE completions in those two states are not yet reportable to the state. Prelicensing is available in every state where our courses are state-approved; New York is still completing state approval and is not open for prelicensing enrollment yet. Contact us about a specific state\u2019s requirements or availability." },
               { q: "How does the 850-790-4811 support line work?", a: "Our team sends check-in texts to enrolled candidates and responds to incoming questions. It\u2019s not a replacement for your follow-up \u2014 it\u2019s a supplement." },
               { q: "Who do I contact if I have a question that\u2019s not here?", a: "Text or call 850-790-4811, or email support@justinsuranceco.com." },
             ].map((faq, i) => (

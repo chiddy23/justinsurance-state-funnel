@@ -30,7 +30,7 @@ While no longer a state requirement, [Pennsylvania insurance prelicensing](/penn
 
 1.  Consider a self-paced online course if you have a busy schedule and need flexible hours.
 2.  In-person classroom sessions might be best if you learn faster through live interaction.
-3.  Make sure your chosen course is approved by the Pennsylvania Insurance Department.
+3.  Since Pennsylvania does not approve prelicensing courses, choose one built around the current PSI Pennsylvania content outline.
 
 Beyond the requirement itself, these classes can give you plenty of practical tips and real-world examples that will help you long after you are licensed. You will learn concepts like policy provisions, term life policies, whole life policies, riders, and state regulations specific to Pennsylvania.
 
@@ -62,8 +62,8 @@ Keep a digital copy of your license on your computer or phone for quick referenc
 
 Securing your Pennsylvania life insurance license is not just about passing a test. It is about stepping into a role that allows you to guide others in safeguarding their families’ financial futures. After you have your license in hand, you might decide to join an established insurance agency or branch out on your own. Either way, you are now positioned to learn the ins and outs of client relationships, policy structuring, and effective marketing.
 
-You will also need to stay current through [Pennsylvania continuing education](/pennsylvania/continuing-education) requirements, which the state enforces to ensure that insurance professionals remain up to date on new regulations and industry trends. This ongoing learning is a great way to keep expanding your expertise. If you ever need further guidance, JustInsurance can connect you with the resources needed to refine your approach and sharpen your knowledge.
+You will also need to stay current through [Pennsylvania continuing education](/pennsylvania/continuing-education) requirements, which the state enforces to ensure that insurance professionals remain up to date on new regulations and industry trends. This ongoing learning is a great way to keep expanding your expertise. Your renewal date is yours to track — the Pennsylvania Insurance Department is the authoritative source for your license status and expiration date, so check it there rather than waiting to be reminded. When those hours come due, JustInsurance offers state-approved Pennsylvania continuing education courses you can complete online at your own pace.
 
 ## Your call to action
 
-Now that you have a clear roadmap, it is time to take the first step — whether that means signing up for an optional pre-licensing course or scheduling your exam. Share this article with a friend who is also considering an insurance career, and keep each other motivated. If you ever feel stuck, JustInsurance can offer personalized guidance to concentrate on the areas where you need extra support. Together, you can create the kind of future that not only benefits you but offers real security and peace of mind for the families you will serve.
+Now that you have a clear roadmap, it is time to take the first step — whether that means signing up for an optional pre-licensing course or scheduling your exam. Share this article with a friend who is also considering an insurance career, and keep each other motivated. If you want a structured way to prepare, the self-paced JustInsurance [Pennsylvania life prelicensing](/pennsylvania/prelicensing) course includes video lessons, reading modules, chapter quizzes, and full-length practice exams, so you can find your weak spots before exam day instead of during it. Together, you can create the kind of future that not only benefits you but offers real security and peace of mind for the families you will serve.

@@ -42,7 +42,7 @@ Georgia law protects consumers during the initial insurance sales conversation t
 
 Truth in sales presentations. Misrepresentation is prohibited. Agents must accurately describe products, benefits, costs, and limitations. Exaggerating benefits or minimizing exclusions violates Georgia's unfair trade practices rules.
 
-Suitability requirements. For certain products — especially annuities and long-term care — agents must have reasonable grounds to believe the product is suitable for the specific consumer based on their situation, needs, and objectives.
+Best interest and suitability standards. For annuities, Georgia applies a best interest standard (Rule 120-2-94, effective August 1, 2023): the producer must act in the consumer's best interest — exercising reasonable diligence, care, and skill and placing the consumer's interests ahead of the producer's own — not merely confirm that a product is suitable. For other products such as long-term care, agents must still have reasonable grounds to believe the recommendation is suitable for the specific consumer based on their situation, needs, and objectives.
 
 Disclosure requirements. Specific disclosures must be made during certain transactions, including replacements, senior sales, and specific product types.
 

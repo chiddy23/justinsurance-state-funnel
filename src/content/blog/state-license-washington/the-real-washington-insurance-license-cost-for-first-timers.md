@@ -1,9 +1,9 @@
 ---
 title: The Real Washington Insurance License Cost for First-Timers
 description: >-
-  Washington insurance license cost: education hours, state exam details,
-  background check, application fees, and timeline from licensed insurance
-  agents.
+  Washington insurance license cost: the required exam, application, and
+  fingerprint fees total roughly $133-$160. Optional prep courses are what push
+  the all-in estimate to $350-$500.
 keyword: washington insurance license cost
 targetKeywords: washington insurance license cost
 cluster: state-license-washington
@@ -34,9 +34,9 @@ Many online platforms offer convenient self-paced courses. These can cost anywhe
 
 ## Account for exam expenses
 
-Once you have finished your pre-licensing course and feel ready to test, you will schedule your official exam. This exam typically focuses on the specific line(s) of authority you plan to sell. Washington State has authorized testing centers, and you can usually register online or by phone.
+Once you feel ready to test — with or without a prep course — you will schedule your official exam through PSI Services. Which exam you sit depends on the line(s) of authority you plan to sell, and Washington lets you combine related lines: the Life and Disability Producer exam covers both in one sitting.
 
-The exam fee often ranges around $35 to $52 per attempt, although exact pricing can be subject to change. If you do not pass on your first try, you will need to pay this fee again to retake the exam, so make sure you have studied thoroughly. Solid exam prep, whether through an optional prelicensing course or independent study, really pays off in helping you pass on the first go.
+That choice drives the fee. A single-line exam (Life alone, or Disability alone) is $38 per attempt, while the combined Life and Disability Producer exam is $55 — cheaper than $76 for the two single-line exams if you want both. Exact pricing is subject to change, so confirm it in the PSI candidate bulletin before you register. If you do not pass on your first try, you will need to pay this fee again to retake the exam, so make sure you have studied thoroughly. Solid exam prep, whether through an optional prelicensing course or independent study, really pays off in helping you pass on the first go.
 
 ## Cover application and fingerprint fees
 
@@ -58,7 +58,7 @@ $100 – $300+
 
 Exam fee (per attempt)
 
-$35 – $52
+$38 – $55
 
 License application
 
@@ -72,11 +72,17 @@ Additional materials
 
 Varies (optional)
 
-Total (approximate range, mandatory costs only)
+Subtotal — required costs only (exam + application + fingerprinting)
+
+$133 – $160
+
+Total — all-in estimate, assuming you buy an optional prep course
 
 $350 – $500
 
-These figures are only estimates, but they give you a strong baseline to help plan how much to set aside. If you need more than one line of authority or decide to pay for premium course packages, you will probably pay on the higher end. On the other hand, if you shop around for deals, you could knock that total closer to the lower range.
+Read those last two rows carefully, because the gap between them is the whole point. Washington only makes you pay for three things: the exam, the license application, and fingerprinting. That is roughly $133 to $160 — the exam at $38 for a single line or $55 for the combined Life and Disability exam, another $55 for the license application, and $40 to $50 for prints. Everything above that number is optional. The $350 to $500 figure you will see quoted as the "cost of a Washington insurance license" is an all-in estimate that already assumes you bought a prep course, which the state stopped requiring in 2023.
+
+That does not make a course a waste of money — most first-timers find structured prep worth it — but you should budget for it as a study investment you chose, not as a fee the state imposed. If you need more than one line of authority or decide on a premium course package, you will land at the higher end; if you study independently, your real out-of-pocket cost stays near $133.
 
 ## Budgeting strategies to help you
 

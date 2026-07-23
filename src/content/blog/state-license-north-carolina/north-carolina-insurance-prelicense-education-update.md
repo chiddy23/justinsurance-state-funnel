@@ -96,7 +96,7 @@ These exemptions are now moot since PLE is no longer required for any candidates
 
 Even though PLE is no longer required, most successful North Carolina candidates still complete prelicense study:
 
-[Pass rate](/pass-rates) matters. Quality prelicense courses substantially improve first-attempt pass rates. North Carolina's 70% passing requirement (at least 39 of 55 questions correct) and substantial content coverage make preparation important.
+[Pass rate](/pass-rates) matters. Quality prelicense courses substantially improve first-attempt pass rates. North Carolina reports a scaled score from 0 to 100 with a passing score of 70 — and the Pearson VUE candidate handbook is explicit that the scaled score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Because Pearson VUE equates each exam form to correct for differences in difficulty, there is no fixed number of questions you are allowed to miss. You cannot study to a target miss count; you have to actually know the material.
 
 Multiple separate exams. North Carolina has separate exams for each line — no combined L&H or P&C options. Multiple exams require multiple preparation efforts. Each exam costs $45 — failing wastes money.
 
@@ -196,7 +196,7 @@ Pearson VUE Candidate Handbook. Available free from Pearson VUE — official exa
 
 North Carolina General Statutes Chapter 58 (Insurance). Statutory framework for insurance practice.
 
-Major Prelicense Providers. Multiple national providers and online platforms offer state-approved courses.
+Major Prelicense Providers. Multiple national providers and online platforms offer prep courses built to the current Pearson VUE North Carolina content outline (North Carolina does not approve or endorse prelicensing courses).
 
 Practice Question Banks. Various sources for practice questions including textbook publishers and online platforms.
 
@@ -268,17 +268,17 @@ Apply through NIPR first. $82 base + $50 per line.
 
 Receive authorization to test. Email from Pearson VUE with reserved NPN.
 
-Schedule and pass exam(s). $45 per exam, 70%+ score required.
+Schedule and pass exam(s). $45 per exam attempt, scaled score of 70 required.
 
 Complete fingerprinting. Through local law enforcement (Livescan), within 30 days of application.
 
-Receive license. Typically 48-72 hours after all requirements met.
+Receive license. Plan on weeks, not days. NCDOI's own instruction to applicants is to "allow 60 days for submitted license applications," after which "you will receive an email advising you that your license has issued and providing instructions for a one time free print of your license." Most files clear well inside that window, but 60 days is the number the Department publishes — build your start date around it rather than around a same-week turnaround.
 
 ## 5 Frequently Asked Questions
 
 - Does North Carolina still require prelicense education? No. North Carolina House Bill 737 (Session Law 2025-45), effective October 1, 2025, eliminated the prelicense education requirement for all North Carolina insurance producer license lines.
 - Should I still take a prelicense course even though it's not required? Yes — most candidates do, and pass rates are substantially higher with structured preparation. While not legally required, prelicense courses provide systematic content delivery, practice questions, and North Carolina-specific focus.
-- How does North Carolina compare to other states without PLE? North Carolina now joins Pennsylvania, South Carolina, Massachusetts, Alabama, Nevada, and several other states without mandatory PLE. The combined effect of no PLE requirement and short exam format (55 questions, 1 hour 15 minutes per exam) makes North Carolina relatively accessible — though the per-line application pricing structure increases costs for multi-line licenses.
+- How does North Carolina compare to other states without PLE? North Carolina now joins Pennsylvania, South Carolina, Massachusetts, Alabama, Nevada, and several other states without mandatory PLE. The combined effect of no PLE requirement and a short exam format for the major lines (Life, Accident & Health, Property, and Casualty are each 55 scored questions plus 5 unscored pretest questions in 1 hour 15 minutes) makes North Carolina relatively accessible — though Personal Lines and Medicare Supplement/LTC run longer, and the per-line application pricing structure increases costs for multi-line licenses.
 - Can I take all my North Carolina exams in one day? Theoretically yes if testing capacity allows, but most candidates space exams across days or weeks. Each exam takes 1 hour 15 minutes plus check-in time. Taking multiple exams in one day creates significant fatigue.
 - What's a realistic preparation timeline for North Carolina exams? Working part-time, plan 3-4 weeks of preparation per single-line exam (Life, A&H, Property, Casualty, Personal Lines). Multi-line pursuit typically extends timeline as candidates prepare for and pass exams sequentially.
 

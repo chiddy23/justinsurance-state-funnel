@@ -30,13 +30,13 @@ Before you dive into the licensing process, confirm you're eligible. At minimum,
 
 If you do have a criminal record, be prepared to provide documentation. Often, the [Virginia State Corporation Commission](/virginia/requirements) (SCC) will ask for an explanation of your circumstances. Honesty is key, because incomplete or inaccurate disclosures can lead to delays or a rejected application. Check official guidelines for any special conditions or waiting periods.
 
-## Complete [pre-licensing requirements](/virginia/prelicensing)
+## Consider optional pre-licensing study
 
-Virginia does not mandate a set number of pre-licensing hours for property and casualty — the state does not require prelicensing education for standard producer lines at all. Even so, once you confirm your eligibility, many candidates choose to enroll in a state-approved [pre-licensing](/virginia/prelicensing) course voluntarily; JustInsurance's optional P&C course runs about 20 hours. This coursework helps you master important topics, from understanding fundamental policy changes to explaining factors that affect policy premiums.
+Virginia does not mandate a set number of pre-licensing hours for property and casualty — the state does not require prelicensing education for standard producer lines at all, and it does not approve or offer prelicensing courses for these lines. Even so, many candidates choose to study voluntarily before the exam, working through the Prometric property and casualty content outline section by section. A solid self-study plan helps you master important topics, from policy structure and coverage forms to the factors that affect premiums. (JustInsurance's own exam prep covers the life, health, and combined life & health lines; it does not include a property and casualty course.)
 
 Pre-licensing classes cover Virginia insurance regulations, the basics of underwriting, and the intricacies of property and casualty contracts. While you could fulfill these requirements online or in a traditional classroom setting, it's smart to consider your learning style. If you learn best at your own pace, online programs might be ideal due to their flexibility. If you prefer face-to-face interactions, you might appreciate a live classroom environment where you can ask questions and benefit from group discussions.
 
-Many people find it helpful to use a resource like JustInsurance, which provides structured learning tools and clear explanations of state-specific rules. With an organized curriculum and lots of [practice questions](/virginia/practice-exam), your confidence can grow steadily as you progress.
+Many candidates find that structured study tools and clear explanations of Virginia's state-specific rules build confidence steadily. Work through plenty of practice questions on the property and casualty content, and circle back to the sections where you feel least sure until they click.
 
 ## Schedule and pass the exam
 
@@ -74,12 +74,12 @@ Always stay on top of ongoing education requirements in Virginia. Licensed insur
 
 ## Position yourself for success
 
-If you ever find the licensing process confusing, you're not alone. Many aspiring insurance professionals feel overwhelmed by state regulations and exam details. For that reason, consider a structured study approach, and don't be shy about using reputable programs like JustInsurance. They're designed to simplify each step and foster your understanding of property and casualty essentials.
+If you ever find the licensing process confusing, you're not alone. Many aspiring insurance professionals feel overwhelmed by state regulations and exam details. For that reason, consider a structured study approach built around the Prometric property and casualty content outline, and lean on reputable study resources to work through the property and casualty essentials one section at a time.
 
 A supportive environment can also make a difference. While preparing for the licensing exam, connect with others in Virginia who share your goals. You might form study groups, join discussion boards, or reach out to industry mentors who can share valuable tips. Their experiences and advice might save you from common pitfalls.
 
 ## Your call to action
 
-Ready to make the leap? Start by checking your eligibility and enrolling in pre-licensing. From there, move on to your exam prep and all the required licensing steps. Each day of study and practice brings you closer to launching a meaningful new chapter in your professional life. Whether you dream of working for a local insurance agency or building an independent practice, you have the tools to succeed.
+Ready to make the leap? Start by checking your eligibility and mapping your study plan to the Prometric property and casualty content outline. From there, move on to exam prep and all the required licensing steps. Each day of study and practice brings you closer to launching a meaningful new chapter in your professional life. Whether you dream of working for a local insurance agency or building an independent practice, you have the tools to succeed.
 
-When you're ready to put this plan into action, consider leaning on JustInsurance for comprehensive resources that can keep you motivated along the way. Before you know it, you'll be explaining policy details to Virginians, offering peace of mind, and growing your client base. A new career as a trusted advisor and resource is well within your reach. Embrace the excitement and take your first step toward achieving your Virginia property and casualty insurance license.
+When you're ready to put this plan into action, get licensed first — and once you hold your Virginia property and casualty license, JustInsurance's [Virginia continuing education](/virginia/continuing-education) helps you stay current as you grow your book. Before you know it, you'll be explaining policy details to Virginians, offering peace of mind, and growing your client base. A new career as a trusted advisor and resource is well within your reach. Embrace the excitement and take your first step toward achieving your Virginia property and casualty insurance license.

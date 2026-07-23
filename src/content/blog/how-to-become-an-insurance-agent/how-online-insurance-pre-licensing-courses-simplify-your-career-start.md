@@ -23,15 +23,21 @@ Online [insurance pre-licensing courses](/prelicensing) give you a flexible and 
 
 ## Understand the licensing process
 
-Before you can officially work as an insurance agent, you typically need to meet your state’s licensing requirements. Each state sets specific rules, but most follow a similar framework. You will start by completing a pre-licensing course, register for the state exam, and then apply for your insurance license. Although it may sound like a lot, the process often unfolds more smoothly than you expect when you know what to anticipate.
+Before you can officially work as an insurance agent, you need to meet your state’s licensing requirements. Each state sets its own rules, and the first thing worth knowing is that pre-licensing education is *not* universal. Eighteen states require a set number of course hours before you may sit for the exam; in the other 32, the course is optional exam prep and you can register for the exam directly. So the sequence looks like one of these:
+
+-   In a state that requires it: complete the pre-licensing course, register for the state exam, pass, then apply for your license.
+-   In a state that doesn't: register for the exam whenever you feel ready — with or without a course — pass, then apply.
+-   In a few states, including Arkansas, the order flips at the front: you file your application and obtain an Authorization to Test from the insurance department *before* you can schedule with the exam vendor.
+
+Check your own state's rule before you buy anything. Beyond that ordering wrinkle, the process usually unfolds more smoothly than you expect when you know what to anticipate.
 
 ### Basic prerequisites
 
-To begin, you generally need to be at least 18 years old and hold a high school diploma or equivalent. Certain states also require you to submit a background check or fingerprints as part of your licensing application. These checks ensure you meet the professional and ethical standards needed to serve the public. Once you fulfill these prerequisites, you are officially on your way.
+To begin, you generally need to be at least 18 years old. There is no education prerequisite: no state department of insurance requires a high school diploma or GED for a resident producer license, though an individual carrier or agency may set its own hiring standards. Most states do require a background check, and many require fingerprints, as part of the licensing application. These checks ensure you meet the professional and ethical standards needed to serve the public. Once you fulfill these prerequisites, you are officially on your way.
 
 ### State exam requirements
 
-After completing your pre-licensing course, you will register for a state-administered licensing exam. This test evaluates your understanding of insurance concepts, rules, and procedures. The exam format often includes multiple-choice questions covering general insurance knowledge, as well as state-specific regulations. Once you pass, you can submit your application for final approval. Receiving your license is truly the milestone that marks your entry into the industry.
+Once you have satisfied any course requirement your state imposes — and once you feel prepared, if it imposes none — you will register for a state-administered licensing exam. This test evaluates your understanding of insurance concepts, rules, and procedures. The exam format often includes multiple-choice questions covering general insurance knowledge, as well as state-specific regulations. Once you pass, you can submit your application for final approval. Receiving your license is truly the milestone that marks your entry into the industry.
 
 ## Explore the benefits of online courses
 
@@ -67,7 +73,7 @@ Estimated timeframe
 
 Potential cost
 
-Complete pre-licensing course
+Complete pre-licensing course (required in 18 states, optional elsewhere)
 
 1–4 weeks (self-paced online)
 
@@ -77,7 +83,7 @@ Schedule and take state exam
 
 1–2 weeks to find a time slot
 
-$50–$150 exam fee
+$32–$98 exam fee (varies by state)
 
 Submit license application + fees
 
@@ -93,7 +99,7 @@ JustInsurance is one option you might explore if you want a clear, beginner-frie
 
 ## Get ready to enroll
 
-As you weigh your next steps, remember that online insurance pre-licensing courses are not just an exam requirement but also a valuable learning experience. They build your knowledge of insurance principles and client service, preparing you to advise customers responsibly from day one. Whether you are aiming to work in life insurance, health insurance, or property and casualty, a quality online education ensures you really understand the products you will sell.
+As you weigh your next steps, remember that online insurance pre-licensing courses are a state requirement in 18 states and optional exam prep everywhere else — and in either case a valuable learning experience. They build your knowledge of insurance principles and client service, preparing you to advise customers responsibly from day one. Whether you are aiming to work in life insurance, health insurance, or property and casualty, a quality online education ensures you really understand the products you will sell.
 
 When you feel ready, choose a program that aligns with your schedule and fits your budget. Look over the curriculum to confirm it meets your state’s guidelines and includes the right coverage topics. Since online courses vary in length, cost, and teaching style, take a moment to read reviews or reach out to the provider with any questions. It is best to have a complete picture before committing to a course.
 

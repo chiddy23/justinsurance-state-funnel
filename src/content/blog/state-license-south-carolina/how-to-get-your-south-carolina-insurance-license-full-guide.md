@@ -63,7 +63,7 @@ Pay the $59 exam fee at registration
 
 Schedule at a Pearson VUE testing center or take it through OnVUE remote testing
 
-Bring two valid forms of identification on test day
+Bring one valid, unexpired, government-issued photo ID that also shows your signature — with the name exactly matching your exam registration. (A second ID is needed only if your primary ID does not display a signature.)
 
 ## South Carolina Exam Structure
 
@@ -71,7 +71,7 @@ South Carolina offers exams for various lines of authority:
 
 Question counts and time limits vary by exam. Verify current specifications through Pearson VUE before your exam.
 
-Passing score: 70% on every South Carolina insurance license exam.
+Passing score: a scaled score of 70 on every South Carolina insurance license exam. Pearson VUE reports a scaled score on a 0–100 scale — this is not the raw percentage of questions you answer correctly.
 
 Exam reports expire 12 months after the date of issuance. You must apply for licensure within this window after passing your exam.
 

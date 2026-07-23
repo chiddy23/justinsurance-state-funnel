@@ -16,13 +16,13 @@ imageAlt: >-
   modern office.
 ---
 
-Thousands of people fail the Florida insurance exam every year, and most fail for the same handful of reasons. The exam isn't impossible — but it is designed to weed out candidates who weren't genuinely prepared. Understanding the most common failure points lets you avoid the traps that sink unprepared test-takers.
+Thousands of people fail the Florida insurance exam every year — DFS's own 2025 school report card records 19,142 failed 2-15 attempts against 17,215 passes — and most fail for the same handful of reasons. The exam isn't impossible — but it is designed to weed out candidates who weren't genuinely prepared. Understanding the most common failure points lets you avoid the traps that sink unprepared test-takers.
 
 Here are the top reasons people fail the Florida insurance exam and how to avoid each one.
 
 ## Reason 1: Underestimating the Florida-Specific Section
 
-This is the single biggest cause of failure. Candidates study general insurance concepts extensively but treat the Florida-specific material as an afterthought. On exam day, roughly 25% to 30% of the questions cover Florida law — and scoring poorly in that section often drops the overall score below 70%.
+This is the single biggest cause of failure. Candidates study general insurance concepts extensively but treat the Florida-specific material as an afterthought. On exam day, Florida-specific statutes, rules, and regulations make up 33% of the 2-15 exam — roughly 50 of the 150 scored questions — and scoring poorly in that section often drops the overall score below 70%.
 
 How to avoid it: Study Florida-specific content separately. Don't assume your national study materials cover it sufficiently. Use Florida-specific [prelicense](/florida/prelicensing) courses, and spend dedicated time on replacement rules, unfair trade practices, the free-look period, and the Florida Insurance Code.
 
@@ -84,7 +84,7 @@ How to avoid it: If you fail, use your score report to identify weak areas. Don'
 
 1. How long should I study before the Florida exam? Most successful candidates put in 60 to 100 hours of total study time spread over 3 to 5 weeks. This includes prelicense course time plus practice questions.
 
-2. What's the first-attempt [pass rate](/pass-rates) for the Florida 2-15 exam? Florida DFS doesn't publish official first-time pass rates, but anecdotal data from exam prep providers suggests roughly 50% to 60% pass on the first attempt. Preparation quality is the biggest factor.
+2. What's the [pass rate](/pass-rates) for the Florida 2-15 exam? Florida DFS publishes it. Every year the Bureau of Licensing releases a [Pre-Licensing Schools' Annual Report Card](https://myfloridacfo.com/division/agents/education/education-repository) listing pass counts, fail counts, and pass rates for every DFS-approved school. On the 2025 report card for the 2-15, the 33 approved providers combined for 17,215 passes out of 36,357 attempts — a 47.3% pass rate. JustInsurance LLC (DFS provider 373671) appears on that report at 94 passes out of 222 attempts, or 42.3%. Read the number carefully: DFS counts total attempts, including retakes, so it is not a first-attempt rate. The 93% figure on our [pass-rates](/pass-rates) page measures a much narrower group — students who finished the full course and also hit our recommended practice benchmark of 80% or better three times in a row before testing — so the two numbers are not measuring the same thing and shouldn't be compared side by side. Preparation quality is what moves you from one group into the other.
 
 3. Should I retake the exam immediately if I fail? No. Wait at least 1 to 2 weeks and use that time for targeted review of your weak areas. Immediate retakes with the same preparation usually produce the same result.
 

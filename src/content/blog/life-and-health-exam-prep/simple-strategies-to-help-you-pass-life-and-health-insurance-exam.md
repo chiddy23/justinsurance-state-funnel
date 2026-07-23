@@ -26,45 +26,15 @@ It might feel intimidating to dive into topics like policy provisions, underwrit
 
 To boost your chance of success, it helps to get acquainted with the format and content of the test you are about to take. Each state’s exam may vary slightly, but most follow a similar structure. You can generally expect multiple-choice questions that assess your knowledge of life insurance basics, health insurance policies, tax regulations, and ethical practices.
 
-Below is a simple overview that might resemble a typical exam breakdown:
+The major topic areas you're likely to see on a life and health exam include:
 
-Topic
+-   **Life insurance basics** — key definitions, types of policies, and risk management
+-   **Life policy provisions** — riders, policy loan options, contracts, and contestability periods
+-   **Health insurance basics** — medical expense plans, disability income insurance, and group vs. individual coverage
+-   **Health policy provisions** — policy clauses, renewability, premiums, and exclusions
+-   **Ethics and state regulations** — state-specific requirements, producer responsibilities, and licensing rules
 
-Estimated coverage
-
-What you need to focus on
-
-Life insurance basics
-
-20–25%
-
-Key definitions, types of policies, risk management
-
-Life policy provisions
-
-15–20%
-
-Riders, policy loan options, contracts, contestability periods
-
-Health insurance basics
-
-20–25%
-
-Medical expense plans, disability income insurance, group vs. individual
-
-Health policy provisions
-
-15–20%
-
-Policy clauses, renewability, premiums, exclusions
-
-Ethics and state regulations
-
-5–10%
-
-State-specific requirements, producer responsibilities, licensing rules
-
-Knowing where to focus your study time helps you create a more efficient plan. For instance, if you see that “Life insurance basics” covers 20–25%, you’ll want to devote sufficient practice to terms like “face amount,” “death benefit,” and “beneficiary designations,” because questions on these topics can significantly impact your score.
+Exact topic weightings are set by each state and published in that state's official exam content outline, so the smartest move is to pull the outline for the state where you'll test and let those numbers guide your plan rather than guessing at percentages. One thing that surprises a lot of first-timers is how much of the exam is state law. On the Texas General Lines — Life, Accident, Health and HMO exam, for example, there are 100 scoreable general-knowledge questions plus 30 scoreable Texas-specific questions on state statutes and rules — so roughly a quarter of that exam is state-specific content, not a minor afterthought. Check your own state's published blueprint (available from your state insurance department or the testing vendor, such as Pearson VUE) before you decide where to focus your study time.
 
 ## Create a study schedule
 

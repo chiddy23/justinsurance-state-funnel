@@ -25,6 +25,8 @@ Here's why Illinois ethics CE is required and what it covers.
 
 Illinois requires 3 hours of Ethics CE in every 2-year renewal cycle. These 3 hours are part of your total 24-hour CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
 
+One format rule sets ethics apart from the rest of your CE. Under 50 Ill. Adm. Code 3119.45, the 3 ethics hours must be completed as live instruction — either a classroom course or a live, attendance-verified webinar. A self-paced, on-demand ethics course does not satisfy the Illinois ethics requirement, even when it is IDOI-approved. Only your remaining 21 general hours may be completed by self-paced online study.
+
 The requirement applies to producers across license types — Life, Accident, and Health; Property and Casualty; Personal Lines; and others. Adjusters have their own ethics obligations.
 
 Skip the Ethics component, and your CE is considered incomplete even if your total hours hit 24. No renewal, no active license.
@@ -75,9 +77,9 @@ Claims cooperation. When agents are called to help with claims, how to genuinely
 
 ## Why This Matters for Your Career
 
-Ethics violations aren't just abstract concerns. They're the most common reason agents face license suspension or revocation in Illinois.
+Ethics violations aren't just abstract concerns. They can lead to fines, license suspension, or revocation in Illinois.
 
-Most agents who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical line that their ethics CE was literally designed to prevent.
+The behaviors that draw the most serious discipline — misrepresentation, unsuitable sales, mishandling client funds, and undisclosed conflicts of interest — are exactly what ethics CE is built to help you recognize and avoid.
 
 Taking ethics CE seriously is one of the cheapest forms of career insurance available.
 
@@ -106,9 +108,9 @@ Confidentiality lapses. Discussing client details casually with colleagues, fami
 ## 5 Frequently Asked Questions
 
 - Can I substitute general CE hours for the Ethics requirement? No. The 3-hour Ethics requirement must be specifically ethics-focused content approved by IDOI.
-- Can I take more than 3 hours of ethics? Yes. If you complete 6 hours of ethics in a cycle, 3 satisfy the Ethics requirement and the other 3 count toward your general CE hours.
+- Can I take more than 3 hours of ethics? Yes. If you complete 6 hours of ethics in a cycle, 3 satisfy the Ethics requirement and the other 3 count toward your general CE hours in that same cycle. They do not bank forward, though — Illinois lets you carry over a limited number of general CE hours into the next period, but no ethics credit hours may be carried over (50 Ill. Adm. Code 3119.45). Every cycle needs its own fresh 3-hour classroom or live-webinar ethics course.
 - Does the Ethics requirement apply every renewal cycle or just once? Every cycle. The 3-hour Ethics requirement applies to every 2-year renewal period throughout your career.
-- Are online ethics courses accepted? Yes. IDOI accepts approved online ethics courses, and most agents complete their ethics CE online.
+- Are online ethics courses accepted? Only live ones. Illinois requires the 3-hour ethics course to be completed as live instruction — a classroom session or a live, attendance-verified webinar (50 Ill. Adm. Code 3119.45). A self-paced, on-demand online ethics course does not count, even if it is IDOI-approved. Your other 21 general CE hours can be self-paced online, but the ethics 3 hours cannot.
 - What happens if I complete 24 hours but skip the Ethics portion? Your CE won't be considered complete, and your renewal won't be accepted. The Ethics requirement is mandatory — missing it means your total hours don't count toward renewal regardless of the total number.
 
 ## Make Ethics CE Worth Your Time

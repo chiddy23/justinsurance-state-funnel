@@ -32,7 +32,7 @@ If you already meet these foundational requirements, you are off to a great star
 
 Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state's prelicense education requirement, so completing a [pre-licensing](/pennsylvania/prelicensing) course for the specific line or lines of insurance you intend to sell is now optional rather than mandatory. Even so, a course that covers core insurance principles, state regulations, and ethical considerations can help you feel more confident going into the exam.
 
-Pre-licensing courses are offered through various approved providers, both in-person and online. You should choose a format that works best with your schedule and learning style. Most of these courses offer practice quizzes, real-world examples, and other resources that can make the material more engaging and easier to absorb.
+Pre-licensing courses are offered through various providers, both in-person and online. Pennsylvania does not approve or endorse prelicensing courses, so look for one built around the current PSI Pennsylvania content outline. You should choose a format that works best with your schedule and learning style. Most of these courses offer practice quizzes, real-world examples, and other resources that can make the material more engaging and easier to absorb.
 
 Below is a quick look at some common lines of authority and typical (optional) course hours:
 
@@ -46,33 +46,45 @@ Life Insurance
 
 20
 
-$43
+$45
 
 Health Insurance
 
 20
 
-$43
+$45
 
 Property
 
 Varies by provider
 
-$43
+$45
 
 Casualty
 
 Varies by provider
 
-$43
+$45
 
-Keep in mind these figures can change over time, so always confirm with the Pennsylvania Insurance Department or an approved course provider. Finishing a pre-licensing program isn't a state requirement, but it can prepare you for the state exam so you can walk in feeling more prepared.
+Life, Accident & Health (combined, PSI series 16-03)
+
+40
+
+$55
+
+Property & Casualty (combined, PSI series 16-06)
+
+Varies by provider
+
+$55
+
+Keep in mind these figures can change over time, so always confirm current details with the PSI Pennsylvania candidate information bulletin, the Pennsylvania Insurance Department, or your course provider. Finishing a pre-licensing program isn't a state requirement, but it can prepare you for the state exam so you can walk in feeling more prepared.
 
 ## Register for the state exam
 
 Once you're ready — whether or not you took a pre-licensing course — your next step is to register for the official Pennsylvania licensing exam. You will typically schedule your test through an authorized exam provider, either by phone or online. To pick a day and time that works for you, make sure to plan ahead, because some testing centers have limited slots—especially during busy seasons.
 
-Each exam contains both general insurance topics and Pennsylvania-specific regulations. You will answer multiple-choice questions on policy types, policy provisions, and ethical considerations. The cost is $43 per exam, but check the latest guidelines to confirm your exact amount. On exam day, try to arrive early so you have a moment to relax and gather your thoughts before diving into the test.
+Each exam contains both general insurance topics and Pennsylvania-specific regulations. You will answer multiple-choice questions on policy types, policy provisions, and ethical considerations. PSI charges $45 for a single-line exam and $55 for a combined Life, Accident & Health (16-03) or Property & Casualty (16-06) exam, and those fees are neither refundable nor transferable — check the current PSI Pennsylvania candidate information bulletin to confirm your exact amount before you pay. On exam day, try to arrive early so you have a moment to relax and gather your thoughts before diving into the test.
 
 If you find yourself feeling anxious, remember that a pre-licensing course (if you took one) should cover most of what you will encounter on the exam. Take plenty of practice tests, review your notes for areas you find challenging, and approach any tough questions by eliminating obviously incorrect answers first. Often, the more prepared you are, the calmer you will feel when the test begins.
 

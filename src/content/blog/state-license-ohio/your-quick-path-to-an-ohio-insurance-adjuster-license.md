@@ -22,9 +22,9 @@ You can think of this entire process as a clear path with a handful of milestone
 
 ## Understand your adjuster role
 
-Before you commit to this career, it helps to understand exactly what an insurance adjuster does. In short, you’ll examine claims to make sure the insurance company makes fair payouts that align with the policy’s coverage. This often involves verifying facts, inspecting damaged property, and negotiating with policyholders or other involved parties.
+Before you commit to this career, it helps to understand exactly what the license you're pursuing actually authorizes. In Ohio, the only adjuster credential the state issues is the public adjuster license — and a public adjuster works for the policyholder, not the insurance company. Your job is to help insureds document, prepare, and negotiate their own claims so they recover a fair settlement under their policy. This often involves verifying facts, inspecting damaged property, and negotiating with the insurer's own adjusters on your client's behalf.
 
-Because your role includes both fieldwork and desk duties, you’ll need solid investigative skills, attention to detail, and the ability to communicate clearly. When you hold an Ohio insurance adjuster license, companies trust you to represent their interests and keep claims honest and accurate.
+Because your role includes both fieldwork and desk duties, you’ll need solid investigative skills, attention to detail, and the ability to communicate clearly. When you hold an Ohio public adjuster license, policyholders trust you to represent their interests and press their claim honestly and accurately with the insurance company.
 
 ## Confirm Ohio licensing eligibility
 
@@ -68,7 +68,7 @@ Exam fee
 
 Day of exam
 
-$50–$70
+$49
 
 License application
 

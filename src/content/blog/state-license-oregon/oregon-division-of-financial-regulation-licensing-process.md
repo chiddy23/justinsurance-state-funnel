@@ -46,7 +46,7 @@ Mailing: P.O. Box 14480, Salem, OR 97309-0405
 
 Phone: (503) 947-7981
 
-Email: web.insagent@oregon.gov
+Email: web.insagent@dcbs.oregon.gov
 
 Website: dfr.oregon.gov
 

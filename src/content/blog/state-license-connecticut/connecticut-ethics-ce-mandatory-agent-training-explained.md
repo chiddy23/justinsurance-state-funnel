@@ -28,7 +28,7 @@ Skip the LRE component, and your CE is considered incomplete even if your total 
 
 ## Why "LRE" Rather Than Just "Ethics"
 
-Most states require ethics CE alone. Connecticut's flexible LRE approach (Laws/Regulations/Ethics) reflects the state's understanding that:
+Connecticut does not frame this requirement as a pure ethics mandate. Its flexible LRE approach (Laws/Regulations/Ethics) reflects the state's understanding that:
 
 Connecticut insurance law changes regularly and producers benefit from staying current
 
@@ -52,7 +52,7 @@ Standards of ethical professional conduct
 
 Common compliance issues and how to avoid them
 
-It's also a safeguard against the problem areas that come up repeatedly in CID enforcement actions — misrepresentation, unsuitable sales, replacement violations, and undisclosed conflicts of interest.
+It's also a safeguard against the problem areas Connecticut law itself singles out as grounds for disciplinary action — misrepresentation, unfair trade practices, dishonest or coercive practices, and misuse of client funds.
 
 ## What Counts as Connecticut Law/Regs Content
 
@@ -144,11 +144,23 @@ This can be efficient if you find quality Connecticut-specific content
 
 ## Why This Matters for Your Career
 
-Compliance violations are the most common reason producers face license suspension or revocation in Connecticut. Many compliance issues are unintentional — producers who don't stay current on Connecticut law changes can violate rules they don't know exist.
+Look at what Connecticut law actually authorizes the Insurance Commissioner to act on. Under Conn. Gen. Stat. § 38a-702k, the Commissioner may place a producer on probation, suspend, revoke, or refuse to issue or renew a license — or levy a civil fine — for a defined list of causes. That list is dominated by conduct and compliance failures, including:
 
-Ethics violations are similarly career-threatening. Most producers who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical or legal line.
+Violating any insurance law, or any regulation, subpoena, or order of the Commissioner or of another state's commissioner
 
-Taking the LRE requirement seriously is among the cheapest forms of career protection available.
+Intentionally misrepresenting the terms of an actual or proposed insurance contract or application
+
+Improperly withholding, misappropriating, or converting money or property received in the course of doing insurance business
+
+Having admitted or been found to have committed an insurance unfair trade practice or fraud
+
+Using fraudulent, coercive, or dishonest practices, or demonstrating incompetence, untrustworthiness, or financial irresponsibility
+
+Forging another person's name on an application or any document related to an insurance transaction
+
+Read that list and the point of the LRE requirement comes into focus. Some of those causes — forgery, felony conviction — nobody stumbles into. But the broadest one, "violating any insurance laws, or violating any regulation, subpoena or order of the commissioner," is exactly the kind of exposure a producer can create without meaning to, by working from a rule that changed two years ago. The statute does not carve out an exception for good intentions.
+
+That is what your 3 hours of LRE are for, and it makes them among the cheapest forms of career protection available.
 
 ## How to Get the Most From LRE CE
 
@@ -204,18 +216,18 @@ Connecticut LRE CE courses follow the same format requirements as other CE:
 
 Approved providers required. Course must be on the CID-approved list.
 
-Final exam required. 70%+ score required to pass.
+Final exam required. Conn. Agencies Regs. § 38a-782a-1 requires a passing grade of 70 percent or better on the course examination.
 
-Proctor required for self-study. Disinterested third party with no conflict of interest must monitor the final exam.
+Proctor required for self-study. Under § 38a-782a-7 the exam must be administered by an impartial and disinterested person who is not in your direct line of supervision and has no financial interest in your result.
 
 Closed-book exams. Cannot reference course material during the final exam.
 
-Roster fee. $3.75 per course processed for reporting.
+Roster fee. Connecticut's CE administrator charges a per-course reporting fee, set by the administrator subject to Insurance Department approval rather than fixed in the regulation. Confirm the current amount with your provider at checkout.
 
 ## 5 Frequently Asked Questions
 
 - Can I substitute general CE hours for the LRE requirement? No. The 3-hour LRE requirement must be specifically Connecticut law/regulation OR ethics content approved by the CID.
-- What's the difference between Connecticut's LRE and other states' Ethics requirements? Connecticut allows the requirement to be met with either Connecticut law/regulation content OR ethics content. Most states require specifically ethics content.
+- What's the difference between Connecticut's LRE requirement and a straight ethics requirement? Connecticut allows the requirement to be met with either Connecticut law/regulation content OR ethics content, in any combination. A straight ethics mandate would only accept the ethics half. If you hold licenses in more than one state, check each state's rule separately rather than assuming a course that satisfies Connecticut satisfies them all.
 - Can I take 3 hours of Connecticut law and skip ethics entirely? Yes. The LRE requirement can be met with all law/regulation, all ethics, or any combination totaling at least 3 hours.
 - Do excess LRE hours count toward my total CE? Yes. Hours of LRE beyond the required 3 count as general CE credits within your 24-hour total.
 - Can I take the same LRE course twice? Not within the same renewal period. You may take the same course in different renewal periods.

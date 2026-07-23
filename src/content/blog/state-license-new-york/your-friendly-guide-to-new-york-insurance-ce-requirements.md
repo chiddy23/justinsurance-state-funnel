@@ -37,12 +37,13 @@ Try to plan enough time for review so the exam topics feel familiar. Some exam p
 
 ## Meet New York insurance CE requirements
 
-After you obtain your license, you will need to keep it active by fulfilling the state’s continuing education mandates. In New York, CE credits generally must be completed within specific two-year cycles corresponding to your [license renewal](/license-renewal-guide) date. The exact number of credits required depends on the licenses you hold, whether you are a new licensee, and any specialty lines you maintain.
+After you obtain your license, you will need to keep it active by fulfilling the state’s continuing education mandates. In New York, that means 15 CE credits per two-year cycle tied to your [license renewal](/license-renewal-guide) date. CE first applies once your license has been in effect for more than two years, so brand-new licensees typically renew once before the requirement kicks in.
 
 Here are a few things to keep in mind as you plan your CE activities:
 
--   You must choose state-approved courses that match your license type.
--   Topics often range from ethics and policy updates to emerging trends in risk management.
+-   Courses must be completed through a provider organization approved by the Department of Financial Services — an unapproved course earns you nothing at renewal.
+-   Within the 15 credits, DFS requires at least one credit each in three distinct subjects: insurance law, ethics and professionalism, and diversity, inclusion and elimination of bias. A general course will not satisfy them; each must carry the specific topic designation.
+-   If you hold one or more property/casualty lines, you also need at least one credit in flood insurance inside that same 15.
 -   Your CE completion records should be stored in a safe place as proof of your compliance.
 
 Completing the coursework early in your renewal cycle can relieve a lot of last-minute pressure. If you leave everything until the final weeks, you might scramble for class availability and dash through the material. Pace yourself, explore classes that interest you, and treat CE hours as a chance to refine your expertise.
@@ -51,11 +52,13 @@ Completing the coursework early in your renewal cycle can relieve a lot of last-
 
 One of the most common mistakes license holders make is forgetting when their renewal deadline is approaching. Not only can this slip-up risk your legal ability to practice, but it can also create expensive reinstatement fees if your license lapses. To avoid surprises, jot down your next renewal date in multiple places — your calendar, phone reminders, or a notepad on your desk.
 
-Additionally, confirm your specific renewal requirements well in advance. If you hold more than one insurance license, each may require unique courses or credit totals. Lack of organization can lead to missed prerequisites, so be proactive in scheduling your CE classes. By maintaining up-to-date records of your courses and completion dates, you can renew your license without rushing or facing any prohibitive penalties.
+Additionally, confirm your specific renewal requirements well in advance. New York’s 15 credits cover the licenses you hold rather than stacking a separate 15 on each one, but the mandated topic credits still have to be there — and adding a property/casualty line adds the flood credit to your plan. Lack of organization can lead to missed prerequisites, so be proactive in scheduling your CE classes. By maintaining up-to-date records of your courses and completion dates, you can renew your license without rushing or facing any prohibitive penalties.
 
 ## Find the right support
 
-Navigating the licensing process by yourself can be intimidating. From choosing classes to scheduling exams, it often helps to have a reliable resource that can help you clarify New York insurance CE requirements and answer your questions. That is where a service like JustInsurance fits in. You will have a place to compare course options, check on updates, and ensure you are fulfilling all necessary criteria for your license renewal.
+Navigating the licensing process by yourself can be intimidating. From choosing classes to scheduling exams, it helps to have a reliable resource that explains how New York insurance CE requirements actually work and answers your questions along the way. JustInsurance is one place to get that context.
+
+One disclosure belongs right here, because it is the detail that decides whether your hours count: JustInsurance's New York CE provider approval is still pending with the Department of Financial Services. Until that approval issues, we cannot award or report New York CE credit, and nothing we offer will satisfy your New York renewal hours. Complete your credits through an organization that currently appears in the DFS continuing education provider search, and confirm the individual course carries the topic designation you need before you pay for it.
 
 You might also benefit from joining a professional group or online forum where insurance agents regularly share advice. Hearing about others’ experiences can direct you to the most efficient ways to earn CE credits and offer a sense of community in what can otherwise feel like a solo endeavor. Embracing a network of seasoned professionals and newer licensees alike is a terrific way to elevate your skills and stay motivated.
 
@@ -75,4 +78,4 @@ If you discover you are missing a few credits or running behind schedule, do not
 
 By following these steps, you will remain compliant with New York insurance CE requirements and serve your clients more effectively. From laying a strong foundation with your pre-licensing coursework to regularly refreshing your knowledge with continuing education, each part of the journey shapes your reputation as a trustworthy insurance professional.
 
-If you are ready to streamline the process and stay on top of regulatory changes, consider turning to JustInsurance for guidance and resources. Before you know it, you will be renewing your license with confidence year after year — no stress, no last-minute scrambles, and no confusion about what you need to do next. Get started now, and set yourself up for a long and successful insurance career.
+If you are ready to streamline the process, start with the DFS continuing education provider search and shortlist approved organizations that cover your lines of authority — that single step is what determines whether your hours are accepted at renewal. Use JustInsurance for the plain-English walkthrough of what New York expects, and check back with us on New York CE once our DFS approval issues. Before you know it, you will be renewing your license with confidence cycle after cycle — no stress, no last-minute scrambles, and no confusion about what you need to do next. Get started now, and set yourself up for a long and successful insurance career.

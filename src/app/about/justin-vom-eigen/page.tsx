@@ -3,7 +3,86 @@ import Image from "next/image";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import { STATES } from "@/lib/states";
+import { stateClaims } from "@/lib/prelicensing-status";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+
+// ---------------------------------------------------------------------------
+// COVERAGE, CE APPROVAL, and PRELICENSING APPROVAL are three different facts.
+// This bio previously collapsed them into "state-approved prelicensing courses
+// and continuing education in 49 states," which overstated both credentials:
+//
+//  * 49 is the COVERAGE count (every state except New York), not an approval.
+//  * `providerApprovalNumber` is a CONTINUING EDUCATION credential and the
+//    value "PENDING" is not an approval — Washington is still pending among
+//    the states we serve, so CE approval does not reach all 49.
+//  * A "state-approved PRELICENSING" claim is only available in states that
+//    actually mandate prelicensing education, because exam-only states run no
+//    prelicensing-provider approval program at all. stateClaims() is the single
+//    source of truth (src/lib/prelicensing-status.ts).
+//
+// Everything below is derived from states.ts so it self-corrects when an
+// approval issues.
+// ---------------------------------------------------------------------------
+const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
+const SERVED_STATE_COUNT = SERVED_STATES.length;
+
+const CE_APPROVAL_PENDING = SERVED_STATES.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
+
+const PRELICENSING_APPROVED_COUNT = SERVED_STATES.filter(
+  (s) => stateClaims(s).canClaimPrelicensingApproval
+).length;
+
+/** States whose course final exam needs a disinterested third-party proctor.
+ *  Phrase-matched against states.ts notices; Ohio is correctly excluded because
+ *  OAC 3901-5-07(F) accepts an honor affidavit and needs no third-party proctor. */
+const PROCTORED_FINAL_COUNT = SERVED_STATES.filter((s) =>
+  (s.specialNotices ?? []).some(
+    (n) =>
+      n.body.includes("disinterested third-party proctor") &&
+      !n.body.includes("no third-party proctor")
+  )
+).length;
+
+/** States with a mandated live classroom/webinar block (Illinois today). */
+const LIVE_COMPONENT_STATES = SERVED_STATES.filter(
+  (s) => typeof s.classroomWebinarHours === "number"
+);
+
+/** "A", "A and B", "A, B, and C" — for naming states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+/** Reads after "serves students in N states, with ... continuing education in ___". */
+const CE_APPROVAL_PHRASE =
+  CE_APPROVAL_PENDING.length === 0
+    ? `all ${SERVED_STATE_COUNT} of them`
+    : `${CE_APPROVED_COUNT} of them (our ${formatStateNames(
+        CE_APPROVAL_PENDING
+      )} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending)`;
+
+// "Study at your own pace nationwide" was false: Illinois mandates
+// attendance-verified live webinar hours (50 Ill. Adm. Code Part 3119) and
+// several states require a proctored final exam. This matches the qualified
+// wording used by the parallel CTA on /about.
+const SELF_PACED_CTA_CAVEAT = `Self-paced study in most of the ${SERVED_STATE_COUNT} states we serve${
+  LIVE_COMPONENT_STATES.length
+    ? ` — ${formatStateNames(LIVE_COMPONENT_STATES)} include${
+        LIVE_COMPONENT_STATES.length === 1 ? "s" : ""
+      } state-required live webinar hours`
+    : " —"
+}${
+  PROCTORED_FINAL_COUNT
+    ? ` and ${PROCTORED_FINAL_COUNT} states require a proctored final exam you arrange`
+    : ""
+}; New York is not currently served.`;
 
 export const metadata: Metadata = {
   title: { absolute: "Justin vom Eigen — Founder, JustInsurance LLC" },
@@ -189,8 +268,7 @@ export default function JustinVomEigenBioPage() {
           <P>
             Justin began his insurance career in July 2017 as a licensed life
             and health producer, selling term, whole life, universal life, and
-            final-expense policies and consistently ranking as a top-producing
-            agent. From January 2020 through December 2022 he served as an
+            final-expense policies. From January 2020 through December 2022 he served as an
             agency leader in final expense life insurance, recruiting,
             training, and managing a team of more than 100 producing agents,
             running daily sales training and coaching, and overseeing
@@ -217,32 +295,36 @@ export default function JustinVomEigenBioPage() {
             </a>{" "}
             YouTube channel: explain insurance the way a working agent would
             explain it, cut the filler, and get candidates across the finish
-            line. Curriculum is designed against the official Prometric and
-            Pearson VUE state exam content outlines so coursework maps
-            directly to what candidates will see on test day. Today
-            JustInsurance offers, in the states that require and approve it, state-approved{" "}
+            line. Curriculum is designed against the official state exam
+            content outline published by each state&apos;s exam administrator
+            — Pearson VUE, PSI, Prometric, or the state&apos;s own testing
+            program, depending on the state — so coursework maps directly to
+            what candidates will see on test day. Today JustInsurance serves
+            students in {SERVED_STATE_COUNT} states, with state-approved{" "}
             <Link
               href="/prelicensing"
               className="text-navy font-semibold underline hover:text-gold"
             >
               prelicensing courses
             </Link>{" "}
-            and{" "}
+            in the {PRELICENSING_APPROVED_COUNT} of them that mandate prelicensing
+            education and state-approved{" "}
             <Link
               href="/continuing-education"
               className="text-navy font-semibold underline hover:text-gold"
             >
               continuing education
             </Link>{" "}
-            in 49 states, has produced over 120 instructional videos and
-            practice-exam banks, and supports more than 1,000 agency
-            partnerships, with 20,000+ students trained nationwide.
+            in {CE_APPROVAL_PHRASE}. The company has produced over 120
+            instructional videos and practice-exam banks and supports more than 1,000
+            agency partnerships, with more than 20,000 students trained across the
+            states it serves.
           </P>
 
           <P>
-            JustInsurance has helped more than{" "}
-            <strong className="text-navy">20,000 students</strong> get
-            licensed nationwide and reports a{" "}
+            JustInsurance has trained{" "}
+            <strong className="text-navy">more than 20,000 students</strong>{" "}
+            nationwide and reports a{" "}
             <strong className="text-navy">93% first-attempt pass rate</strong>{" "}
             among students who complete the recommended study hours and pass
             three full-length practice exams at 80% or higher before sitting
@@ -319,13 +401,16 @@ export default function JustinVomEigenBioPage() {
             </li>
             <li>
               <strong className="text-navy">Founder &amp; CEO</strong>,
-              JustInsurance LLC (since January 2023)
+              JustInsurance LLC (since November 2018; fully online platform
+              launched January 2023)
             </li>
             <li>
               <strong className="text-navy">Course Instructor</strong> —
-              state-approved Accident &amp; Health and Life prelicensing
-              courses; curriculum designed against Prometric and Pearson VUE
-              exam content outlines
+              Accident &amp; Health and Life prelicensing courses, state-approved
+              in the states that require and approve prelicensing education;
+              curriculum designed against each state&apos;s official exam
+              content outline (Pearson VUE, PSI, Prometric, or the
+              state&apos;s own testing program)
             </li>
             <li>
               <strong className="text-navy">Education</strong> — Northeastern
@@ -407,7 +492,7 @@ export default function JustinVomEigenBioPage() {
 
       <CTABanner
         title="Ready to Get Licensed?"
-        subtitle="Prelicensing from $199, state-approved where the state requires it. Pass guarantee included in eligible states. Study at your own pace nationwide."
+        subtitle={`Prelicensing from $199, state-approved where the state requires it. Pass guarantee included in eligible states. ${SELF_PACED_CTA_CAVEAT}`}
         ctaText="Find My State"
         ctaHref="/#states"
       />

@@ -56,23 +56,11 @@ Multi-line CE rule: Producers licensed in multiple lines have the same 24-hour r
 
 ## Your License Renewal Cycle
 
-Oregon insurance licenses renew on a biennial (2-year) cycle tied to:
+Oregon individual producer licenses renew on a biennial (2-year) cycle. Under OAR 836-071-0146, your license expires in the month of your birthday anniversary — on the last day of your birth month.
 
-Your birth month (licenses expire the last day of your birth month)
+Your birth month sets the month; it does not set the year. The specific year your license renews is fixed by its two-year cycle counting from when it was issued — not by whether you were born in an even or odd year. Oregon ties the expiration to your birth month, not to birth-year parity.
 
-Your birth year (odd or even):
-
-Producers born in even years renew in even years
-
-Producers born in odd years renew in odd years
-
-For example:
-
-Someone born June 3, 1989 (odd year) renews by the end of June in odd years (2025, 2027, etc.)
-
-Someone born July 8, 1990 (even year) renews by the end of July in even years (2026, 2028, etc.)
-
-This makes your renewal schedule predictable and tied to information you already know.
+To confirm the exact date, check your license record in the DFR producer portal, on Sircon, or on NIPR. Once you know it, your renewal schedule is predictable: the same birth month, two years apart.
 
 ## The 3-Hour Ethics Requirement
 
@@ -170,7 +158,7 @@ Limited lines licensees without exam requirements may be exempt from the standar
 
 Retired producers age 58+ with 10+ years of life-only licensing may qualify for exemption under specific conditions.
 
-Adjusters and consultants are not required to complete continuing education in Oregon (this is unusual — most states require adjuster CE).
+Insurance consultants are exempt from the continuing education requirement in Oregon. Adjusters are NOT exempt — under SB 251, both resident and non-resident adjusters must complete 24 hours of CE per two-year renewal cycle (including 3 hours of ethics, plus 3 hours of Oregon statutes and rules for residents), applicable to renewals on or after January 1, 2022.
 
 Active military duty and other extenuating circumstances may qualify for license expiration extensions under OAR 836-071-0148.
 

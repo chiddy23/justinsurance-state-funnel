@@ -113,7 +113,7 @@ South Carolina offers CE exemptions in specific circumstances:
 
 Non-residents (under home-state reciprocity described above)
 
-Individuals age 65 or older may apply for an exemption online at the SCDOI website
+A resident producer who is at least 65 years of age AND has at least 25 years of licensure may apply for an exemption online at the SCDOI website — both conditions are required (age 65 alone does not qualify)
 
 Other exemptions may apply in limited situations (military deployment, medical hardship). Contact the SCDOI to confirm eligibility.
 

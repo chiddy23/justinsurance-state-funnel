@@ -17,13 +17,13 @@ imageAlt: >-
   insurance exam format: strategic approach.
 ---
 
-Washington's exam format has a mix of candidate-friendly features and genuine challenges that reward deliberate preparation strategy. The relatively affordable $35-52 fee, single 70% passing threshold, established remote testing, and no annual retake limit make the format more forgiving than Arizona's. But Washington candidates who underestimate the state law section's complexity — particularly the Health Care Service Contractor framework, Washington Healthplanfinder nuances, and the detailed producer compliance provisions — discover the exam's real difficulty. Understanding Washington's format and building preparation around it is what separates candidates who pass in one attempt from those who don't.
+Washington's exam format has a mix of candidate-friendly features and genuine challenges that reward deliberate preparation strategy. The relatively affordable $38-55 fee, single 70% passing threshold, established remote testing, and no cap on the number of attempts make the format more forgiving than Arizona's. But Washington candidates who underestimate the state law section's complexity — particularly the Health Care Service Contractor framework, Washington Healthplanfinder nuances, and the detailed producer compliance provisions — discover the exam's real difficulty. Understanding Washington's format and building preparation around it is what separates candidates who pass in one attempt from those who don't.
 
 Here's a detailed look at Washington's insurance exam format and strategic approach.
 
 ## Format Overview
 
-Administered by: PSI Services LLC Format: Computer-based, multiple choice Delivery: In-person at PSI centers or remote via PSI Bridge Passing score: 70% (single combined score) Immediate results: On-screen upon completion Score report: Emailed with topic-area breakdown (diagnostic for failing candidates) Retake: No specified annual limit (unlike Arizona's strict 4-attempt limit) Fee: $35 single line; $52 combined exam
+Administered by: PSI Services LLC Format: Computer-based, multiple choice Delivery: In-person at PSI centers or remote via PSI Bridge Passing score: 70% (single combined score) Immediate results: On-screen upon completion Score report: Emailed with topic-area breakdown (diagnostic for failing candidates) Retake: No limit on attempts (unlike Arizona's strict 4-attempt limit), but you cannot rebook on the same day you test — plan on roughly two calendar days before you can sit again Fee: $38 single line; $55 combined exam
 
 What makes Washington's format distinctive:
 
@@ -55,19 +55,19 @@ Then focus on Disability and Casualty with dedicated preparation
 
 ## Single vs. Combined Exam Decision
 
-Life and Disability combined exam (150 questions, 3 hr 15 min, $52):
+Life and Disability combined exam (150 questions, 3 hr 15 min, $55):
 
-One exam event vs. two ($35+$35=$70 for separate)
+One exam event vs. two ($38+$38=$76 for separate)
 
-Saves $18 compared to taking separately
+Saves $21 compared to taking separately
 
 Longer session — 3 hours 15 minutes is a substantial time commitment
 
 Content volume is larger — broader preparation required
 
-Separate Life ($35) then Disability ($35):
+Separate Life ($38) then Disability ($38):
 
-Two exam events ($70 total — $18 more than combined)
+Two exam events ($76 total — $21 more than combined)
 
 Shorter, focused sessions
 
@@ -75,7 +75,7 @@ Can sequence based on readiness
 
 Life first (more accessible), then Disability after focused health study
 
-Recommendation for most candidates: Take separately — specifically Life first, then Disability. The Disability exam's complexity warrants dedicated focused preparation that combining with Life dilutes. The $18 savings from combining doesn't justify mixing content areas when Disability requires substantially more study depth.
+Recommendation for most candidates: Take separately — specifically Life first, then Disability. The Disability exam's complexity warrants dedicated focused preparation that combining with Life dilutes. The $21 savings from combining doesn't justify mixing content areas when Disability requires substantially more study depth.
 
 Exception: Candidates with strong insurance backgrounds (especially health industry professionals) who know both content areas thoroughly may efficiently use the combined exam.
 
@@ -103,7 +103,7 @@ Specific numbers and timeframes must be memorized (not calculated or inferred)
 
 Washington's Commissioner is elected — not appointed like most states — and this distinctive fact appears in exam questions
 
-Health Care Service Contractors are a Washington-unique entity requiring specific study
+Health Care Service Contractors are a Washington-distinctive entity requiring specific study — rarely covered in national materials
 
 Key Washington-specific numbers to have automatic:
 
@@ -143,7 +143,7 @@ Make regulations (implementing rules codified in WAC 284)
 
 ## Health Care Service Contractors — The Most Exam-Distinctive Washington Topic
 
-Health Care Service Contractors (HCSCs) under RCW 48.44 are the most distinctively Washington topic on the Disability exam. No other state has a regulatory framework quite like this.
+Health Care Service Contractors (HCSCs) under RCW 48.44 are the most distinctively Washington topic on the Disability exam. A handful of other states regulate the same category — Oregon licenses health care service contractors under ORS Chapter 750 — but the entity type is rare enough that national study materials skip it, and Washington's exam tests it directly.
 
 What HCSCs are:
 
@@ -179,7 +179,7 @@ Exam question framing: Questions about HCSCs typically describe an organization 
 
 ## Washington Healthplanfinder — State Marketplace vs. Federal
 
-For the Disability exam, Washington Healthplanfinder (washingtonhealthplanfinder.org) is Washington's state-based ACA marketplace — an important distinction from states using Healthcare.gov.
+For the Disability exam, Washington Healthplanfinder (wahealthplanfinder.org) is Washington's state-based ACA marketplace, operated by the Washington Health Benefit Exchange — a separate agency from the OIC. That's an important distinction from states using Healthcare.gov.
 
 Why this matters on the exam:
 
@@ -201,7 +201,7 @@ Health Care Service Contractors (HCSCs) — Washington-distinctive private carri
 
 HMOs — regulated under RCW 48.46
 
-Health Insurance Coverage Access Act (RCW 48.62) — extends coverage access
+Health Insurance Coverage Access Act (Chapter 48.41 RCW) — created the Washington State Health Insurance Pool to extend coverage access
 
 ## Time Management by Exam Type
 
@@ -253,18 +253,18 @@ Particularly examine Washington state-specific sections — these are the most c
 
 Retake scheduling:
 
-No annual limit specified — you can retake after appropriate preparation
+No limit on the number of attempts — but there is a short wait. PSI will not let you book a new appointment on the same day you tested, so the practical floor is about two calendar days: fail on a Wednesday, call Thursday, and the earliest retest is Friday, subject to seat availability
 
-Each retake costs the same exam fee ($35 or $52)
+Each retake costs the same exam fee ($38 or $55)
 
 Combination exam failure: retake the combination exam but only need to pass the section you failed
 
 ## 5 Frequently Asked Questions
 
 - Why is the Disability exam harder than the Life exam in Washington? Health and disability products are inherently more complex than life insurance — plan structures vary more, federal regulations (ACA, HIPAA, ERISA, Medicare) add substantial content volume, and Washington-specific health laws (HCSCs, Washington Healthplanfinder, Apple Health, network adequacy) require dedicated state-specific study that Life candidates don't face in the same depth.
-- Should I take Life and Disability separately or as a combined exam? For most candidates without strong insurance backgrounds, take them separately — Life first, then Disability. The $18 cost savings from the combined exam doesn't justify blending a more accessible exam with a significantly harder one when Disability warrants focused dedicated preparation.
+- Should I take Life and Disability separately or as a combined exam? For most candidates without strong insurance backgrounds, take them separately — Life first, then Disability. The $21 cost savings from the combined exam doesn't justify blending a more accessible exam with a significantly harder one when Disability warrants focused dedicated preparation.
 - What's the Washington Commissioner's distinctive characteristic? The Washington Insurance Commissioner is elected, not appointed — serving a 4-year term. This is tested directly. The Commissioner must also execute a $25,000 bond before taking office. Most other states have appointed commissioners.
-- Is there a retake waiting period in Washington? No specific annual retake limit or mandatory waiting period is specified in Washington, unlike Arizona's strict 4-attempt annual limit. Candidates can retake after appropriate preparation.
+- Is there a retake waiting period in Washington? There is no cap on how many times you can test — unlike Arizona's strict 4-attempt annual limit — but there is a short wait. PSI cannot schedule a new appointment on the same day you tested, so the realistic turnaround is about two calendar days (fail Wednesday, rebook Thursday, retest Friday at the earliest, depending on seat availability). You pay the full exam fee — $38 single line or $55 combined — each attempt.
 - How does Washington's scoring differ from Arizona's? Washington uses a single combined 70% threshold. Arizona requires 70% on each of two sections independently (general and state-specific) — meaning a strong general score can't compensate for a failing state score. Washington's single-score approach is more forgiving of uneven performance across content areas.
 
 ## Prepare for Washington's Full Exam — Including State Law Depth

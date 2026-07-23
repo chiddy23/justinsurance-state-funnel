@@ -20,7 +20,7 @@ Navigating the process of earning your [Pennsylvania insurance producer](/pennsy
 
 ## Understand Pennsylvania licensing requirements
 
-Before you dive into any coursework or exams, take a moment to familiarize yourself with the state’s licensing guidelines. Pennsylvania requires you to be at least 18 years old and maintain a clean criminal record. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so once you meet those basic requirements you can go straight to the exam — but most candidates still register for [pre-licensing](/pennsylvania/prelicensing) courses in the specific lines of authority they intend to sell, such as Life, Accident, or Property and Casualty, to prepare for the exam content.
+Before you dive into any coursework or exams, take a moment to familiarize yourself with the state’s licensing guidelines. Pennsylvania requires you to be at least 18 years old and maintain a clean criminal record. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so once you meet those basic requirements you can go straight to the exam — but most candidates still prepare with a study course for the specific line of authority they intend to sell, such as Life, Accident and Health, or Property and Casualty, to prepare for the exam content.
 
 It’s easy to overlook the fact that each line of authority has its own set of course hours. If you’re adding multiple lines, your total hours could balloon quickly. Avoid the mistake of underestimating the time required by planning your study schedule early. Give yourself enough buffer in case life’s unexpected demands draw you away from the books.
 
@@ -30,7 +30,7 @@ Even though it’s no longer legally required, finishing a prep course is often 
 
 A better approach is to compare programs carefully. Look for:
 
--   Accreditation status or approval by the Pennsylvania Department of Insurance
+-   Content aligned to the current PSI Pennsylvania exam outline (Pennsylvania does not approve prelicensing courses, so alignment to the exam blueprint is what matters)
 -   Flexible learning formats, such as live webinars or on-demand sessions
 -   Access to practice tests that reflect actual exam conditions
 
@@ -74,6 +74,6 @@ If you transition between agencies or personal situations change (like moving to
 
 Getting your Pennsylvania insurance producer license doesn’t have to be a drawn-out ordeal. If you make time for each step—pre-licensing courses, exam prep, a thorough application, and prompt post-exam follow-ups—your journey is likely to be smoother. Above all, remember that this license is your gateway to serving clients, building professional credibility, and establishing trust in the insurance marketplace.
 
-If you need extra support or personalized guidance, JustInsurance has resources and expert advisors who can help you progress toward your licensing goals. You’ll also find tips on exam preparation and [continuing education](/pennsylvania/continuing-education) options that fit into your busy schedule. By leaning on a trusted partner, you can clear roadblocks before they become problems, saving yourself time and unnecessary stress.
+If you want structured preparation instead of piecing materials together yourself, JustInsurance offers self-paced online [life and health prelicensing](/pennsylvania/prelicensing) courses built around the exam content outline, with video lessons, reading modules, chapter quizzes, and full-length practice exams. Once you’re licensed, you’ll also find [continuing education](/pennsylvania/continuing-education) courses you can complete on your own schedule. Working through a structured course is how you surface the gaps in your knowledge before exam day rather than in the testing center.
 
 Whether you’re brand-new to the field or you’re adding lines of authority to your existing license, your effort today will pay off as you develop a rewarding career. Start your journey now by setting up a realistic study schedule, verifying your application details, and connecting with a service that has your best interests at heart. Then, when you finally hold your Pennsylvania insurance producer license in your hands, you’ll know you’re fully prepared—and ready to make the most of the opportunities ahead.

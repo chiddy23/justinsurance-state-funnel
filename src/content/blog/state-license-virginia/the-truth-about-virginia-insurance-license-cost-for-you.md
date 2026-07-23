@@ -29,7 +29,7 @@ It helps to think of these costs as an investment in your future career. By obta
 -   Pre-licensing course: Could range from $100 to $300 depending on the provider.
 -   State exam fee: $35 per attempt, but verify with official resources for updated pricing.
 -   Fingerprinting or background check: Usually around $35 to $50.
--   Application fee to the Virginia Bureau of Insurance: Ranges from $15 to $20 for most license types.
+-   Application fee to the Virginia Bureau of Insurance: A flat, non-refundable $15 per qualification (line of authority).
 
 You may also need to factor in additional study materials, travel expenses if you choose an in-person class, or a study guide if you want structured preparation. Some people opt for paid practice exams, though these are optional. Regardless, be sure to set aside funds so you can focus on studying rather than stressing over fees.
 
@@ -53,7 +53,7 @@ On exam day, you will want to bring two forms of valid ID and your certificate o
 
 Once you have passed the exam, congratulations are in order. However, there is still one more step—applying for your license with the Virginia Bureau of Insurance. This involves submitting an application that verifies your personal information, your exam results, and a background check or fingerprinting as required by state laws. The process is designed to ensure that all insurance professionals meet ethical standards and demonstrate good character.
 
-The application fee itself is typically around $15 to $20 for most individuals. You can expect to pay this amount online when you officially submit your application. Some forms might be filled out and submitted electronically, while others may require a physical copy. Regardless of format, triple-check your information so you do not experience delays caused by missing or incorrect details.
+The application fee itself is a flat, non-refundable $15 per qualification (line of authority). You can expect to pay this amount online when you officially submit your application. Some forms might be filled out and submitted electronically, while others may require a physical copy. Regardless of format, triple-check your information so you do not experience delays caused by missing or incorrect details.
 
 To handle fingerprinting, you can often schedule an appointment at an approved facility or at specific exam sites if available. You will usually need to bring a valid photo ID and pay a separate charge for processing. Once your background check clears and your application is approved, you will officially be granted a Virginia insurance license, allowing you to begin selling or consulting on insurance products within your chosen lines of authority.
 

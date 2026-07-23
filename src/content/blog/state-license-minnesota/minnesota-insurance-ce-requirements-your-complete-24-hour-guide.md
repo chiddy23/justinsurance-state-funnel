@@ -118,13 +118,13 @@ The CE transcript: Each Minnesota producer has an electronic CE transcript maint
 
 Accessing your transcript: Log in to the Department of Commerce's producer licensing portal at mn.gov/commerce to view your current CE transcript. Confirm that all courses you believe you have completed appear in your transcript — if a course is missing, contact the CE provider first (to confirm they submitted the completion) and then contact the Department if the provider confirms submission but the course does not appear.
 
-CE carryover: Minnesota does not allow CE credits to carry over from one renewal period to the next. Hours completed in the current biennial period that exceed 24 do not apply to the next renewal period. Complete CE efficiently within each renewal period — there is no benefit to completing more than 24 hours in a single period beyond ensuring compliance with all four components.
+CE carryover: Minnesota does not allow CE credits to carry over from one renewal period to the next. Hours completed in the current biennial period that exceed 24 do not apply to the next renewal period. Complete CE efficiently within each renewal period — there is no benefit to completing more than 24 hours in a single period beyond ensuring compliance with all three components.
 
 ## What Happens If CE Is Incomplete at Renewal
 
 License lapse: A license for which the renewal deadline passes without completed CE and a submitted renewal application lapses automatically. There is no grace period — the license is inactive from the day after the renewal deadline.
 
-The 12-month reinstatement window: A lapsed license can be reinstated within 12 months by completing any outstanding CE and paying the reinstatement penalty — double the unpaid renewal fee (approximately $160 in base penalty plus applicable fees). No new [prelicensing](/minnesota/prelicensing), no new exam, no new fingerprinting is required within the 12-month reinstatement window.
+The 12-month reinstatement window: A lapsed license can be reinstated within 12 months by completing any outstanding CE and paying the reinstatement penalty — double the unpaid renewal fee under Minn. Stat. §60K.38, which is about $100 for a single line (2 × the $50-per-line renewal fee) — on top of the overdue renewal fee itself and the $10 technology surcharge. No new [prelicensing](/minnesota/prelicensing), no new exam, no new fingerprinting is required within the 12-month reinstatement window.
 
 After 12 months: Full relicensing is required — new prelicensing education, new PSI exam, new fingerprinting, and full application fee. The 12-month deadline is absolute.
 

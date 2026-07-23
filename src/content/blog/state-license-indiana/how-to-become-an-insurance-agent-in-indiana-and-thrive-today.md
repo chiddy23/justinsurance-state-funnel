@@ -69,7 +69,7 @@ Getting your license is a fantastic start, but to thrive long-term, you will nee
 
 Besides meeting CE requirements, you can also explore specialized trainings, marketing webinars, or even mentorship programs. Many successful agents expand beyond basic lines of coverage and cultivate expertise in niche markets like long-term care, business interruption policies, or health savings account plans. By moving into specialized areas, you can stand out from the competition and deliver more value to clients.
 
-If you are looking for guidance or additional resources, consider connecting with JustInsurance. They offer educational tools that may assist you in refining your approach, strengthening your expertise, and staying current with an ever-evolving industry.
+If you want a straightforward way to handle the CE side of that, JustInsurance offers self-paced Indiana [continuing education](/indiana/continuing-education) courses you can complete online between client appointments.
 
 ## Frequently asked questions
 
@@ -86,6 +86,6 @@ If you are looking for guidance or additional resources, consider connecting wit
 
 ## Final thoughts and call to action
 
-You are now equipped with the essentials on how to become an insurance agent in Indiana. The journey involves committed study, passing an exam, and making strategic career choices, but the rewards include professional fulfillment and a stable income path. If you are ready to take the next step, start by exploring pre-licensing programs that fit your schedule. Consider tapping into resources like JustInsurance for ongoing education and personalized support.
+You are now equipped with the essentials on how to become an insurance agent in Indiana. The journey involves committed study, passing an exam, and making strategic career choices, but the rewards include professional fulfillment and a stable income path. If you are ready to take the next step, start by exploring pre-licensing programs that fit your schedule. JustInsurance covers the Life, Health, and combined Life & Health lines in Indiana, and continues to serve you with continuing education once you are licensed.
 
 With the right preparation and mindset, you can build a thriving career that benefits both you and the clients you serve. Now is the perfect time to put your plan into action. Your future in the dynamic world of insurance is waiting. Take the first step today and set a strong foundation for a successful career ahead.

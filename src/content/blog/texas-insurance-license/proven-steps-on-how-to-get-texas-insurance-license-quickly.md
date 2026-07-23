@@ -25,7 +25,7 @@ Many people overlook the importance of confirming their eligibility early, only 
 
 ## Consider pre-licensing education (optional)
 
-Texas does not require you to enroll in a [pre-licensing course](/texas/prelicensing) before you can sit for the [Texas insurance licensing exam](/texas/requirements) — it's optional, though many candidates take one to prepare. If you do take a course, the number of hours can vary based on the lines of authority you want to pursue, such as Life, Accident and Health, or Property and Casualty. These courses typically cover insurance laws, policy outlines, and industry ethics.
+Texas does not require you to enroll in a [pre-licensing course](/texas/prelicensing) before you can sit for the [Texas insurance licensing exam](/texas/requirements) — it's optional, though many candidates take one to prepare. If you do take a course, the number of hours can vary based on the line you want to pursue, such as Life, Accident, and Health. These courses typically cover insurance laws, policy outlines, and industry ethics.
 
 Most pre-licensing programs allow you to move at your own pace, so you can finish in a matter of weeks if you dedicate yourself to studying consistently. Some people prefer online courses for convenience, while others choose in-person classes for the chance to ask questions face-to-face. Whatever format you pick, staying engaged and completing all required hours sets you up for success on exam day.
 
@@ -37,13 +37,13 @@ Most pre-licensing programs allow you to move at your own pace, so you can finis
 
 ## Schedule and pass the exam
 
-Whether or not you took a pre-licensing course, the next step is registering for the state exam. Typically, you can schedule your exam online through Pearson VUE. The current Texas exam fee is $39. You should set aside enough time to review your course materials again, especially the sections you found most difficult.
+Whether or not you took a pre-licensing course, the next step is registering for the state exam. Typically, you can schedule your exam online through Pearson VUE. What you pay depends on which line you sit for: the General Lines — Life, Accident & Health exam and the General Lines — Property & Casualty exam are $49 each (150 minutes), while the single-line Life Agent and Personal Lines Property & Casualty exams are $39 (120 minutes) and limited lines and surplus lines exams are $29. Check the current Texas candidate handbook before you register, since Pearson VUE updates the fee table periodically. You should set aside enough time to review your course materials again, especially the sections you found most difficult.
 
-Passing scores are set at 70% for Texas insurance exams. The exam tests your understanding of Texas insurance regulations, policy types, and ethical standards. If you happen to fail the first time, you can typically reschedule at a later date. However, preparation and confidence make a huge difference in how quickly you secure your license.
+The passing score is 70 — but read that number carefully, because it is not a percentage. Pearson VUE converts your raw score to a scaled score on a 0–100 range, and the Texas handbook says plainly that the score you receive "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." So a 70 is a cut score on that scale, not a promise that answering 70% of the questions gets you across the line. The exam tests your understanding of Texas insurance regulations, policy types, and ethical standards. If you happen to fail the first time, you can typically reschedule at a later date — Texas sets no mandatory waiting period between attempts. However, preparation and confidence make a huge difference in how quickly you secure your license.
 
 ## File your official application
 
-After passing the exam, you will submit an application to the Texas Department of Insurance. This involves paying the applicable licensing fee and providing all required documents, including your pre-licensing certificate of completion if you took a course. Most of this process happens online, which speeds things up significantly.
+After passing the exam, you will submit an application to the Texas Department of Insurance. The document list is shorter than most people expect: a completed electronic application, the $50 license fee, and your IdentoGO fingerprint receipt. That's it — there is no pre-licensing certificate to attach, because Texas never required the coursework in the first place. File through Sircon or NIPR, and file within 12 months of passing, or you'll have to sit the exam over again. Most of this process happens online, which speeds things up significantly.
 
 It is common to receive your license within two weeks of applying, although your timeline can vary based on workloads at the state licensing office. To shorten potential delays, make sure your application is error-free and that any additional requirements, like fingerprints or background checks, are fulfilled as soon as possible. Staying organized is an excellent way to eliminate unnecessary waiting.
 
@@ -52,7 +52,7 @@ It is common to receive your license within two weeks of applying, although your
 When mapping out your journey, it helps to have a rough idea of how much each step might cost and how long it could take:
 
 1.  Pre-licensing courses (optional): Around $100–$300, which you can complete in one to four weeks, depending on your pace.
-2.  Exam registration: $39 per attempt, with a few days to a few weeks between sign-up and test date availability.
+2.  Exam registration: $29–$49 per attempt depending on the line — $49 for either general lines exam (Life, Accident & Health or Property & Casualty), $39 for Life-only or Personal Lines P&C — with a few days to a few weeks between sign-up and test date availability.
 3.  License application: $50 in fees, and processing times often range from one to two weeks.
 
 With consistent effort, it is possible to earn your Texas insurance license within a month or two. If you juggle a full-time job or other commitments, be sure to add extra study time and potential rescheduling into your plan.

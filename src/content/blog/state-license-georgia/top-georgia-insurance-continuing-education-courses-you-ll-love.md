@@ -25,7 +25,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 [Continuing education](/georgia/continuing-education) goes beyond simply fulfilling a mandate. By completing the proper coursework, you sharpen your knowledge and gain insights into industry trends that directly affect your day-to-day work.
 
-You’ll also stay in good standing with the Georgia Department of Insurance, preventing any risk of license suspension or penalties. As a professional, making sure your CE courses are up to date conveys confidence to your customers and business partners.
+You’ll also stay in good standing with the Office of the Commissioner of Insurance and Safety Fire — Georgia’s insurance regulator, which despite the habit of calling it one is not a “Department of Insurance.” Finishing your hours on time keeps you clear of the late fees and lapse headaches that come with a missed renewal. As a professional, making sure your CE courses are up to date conveys confidence to your customers and business partners.
 
 ## Meeting the basic licensing requirements
 
@@ -35,11 +35,11 @@ If you’re brand new to insurance, you’ll start by getting your initial licen
 2.  Registering for and passing the official state exam.
 3.  Submitting your license application along with any relevant fees.
 
-Once you have your license, you’re set to complete your Georgia insurance continuing education credits periodically to keep your credentials valid. The state usually requires 24 hours of CE every two years if you hold a single-line license, with a certain portion dedicated to ethics. However, licenses for Life, Accident and Sickness, Property, and Casualty each come with their own specific obligations, so it pays to verify what your individual license requires.
+Once you have your license, you keep it valid by completing Georgia insurance continuing education every renewal cycle. Georgia sets one biennial total for agents — 24 hours, including 3 hours of ethics — and that total does not climb when you add lines of authority. It can come down, though: designation holders (CLU, ChFC, CFP, CPCU, CIC, AAI, CEBS, CRM, CISR, FLMI and similar) complete 12 hours, agents with 20 years of licensure complete 20 hours, and credit-only, limited subagent, and navigator licensees complete 10. Check which bucket you fall into before you buy courses.
 
 ## Knowing your CE obligations
 
-To help you see how continuing education can differ by line of authority, check out the summary below. Always confirm the latest requirements through official state resources, since these details may change:
+The standard total is the same across the major lines — it is a per-licensee number, not a per-line one. Here is how it lays out. Always confirm the latest requirements through official state resources, since these details may change:
 
 License Line
 
@@ -111,7 +111,7 @@ If you’re looking for a friendly, hands-on experience, consider using JustInsu
 • Interactive case studies to see how rules apply in real scenarios.  
 • Personalized support whenever you need extra help or have last-minute questions.
 
-JustInsurance aligns perfectly with Georgia insurance continuing education requirements, ensuring that you don’t waste time on outdated lessons or skip important topics. Plus, their approach prioritizes your unique study style, so you can learn without feeling overwhelmed.
+JustInsurance organizes its Georgia CE around the state’s current 24-hour biennial requirement, including the 3 required ethics hours, so you can see which part of the requirement each course applies to before you enroll. Plus, their approach prioritizes your unique study style, so you can learn without feeling overwhelmed.
 
 ## Final thoughts
 

@@ -54,7 +54,15 @@ The NCDOI works with Pearson VUE which manages the North Carolina Licensing Offi
 
 ## Decision 1: Per-Line Application Strategy
 
-North Carolina's per-line pricing structure ($82 base + $50 per line) makes application strategy important:
+North Carolina charges by the line of authority, so how you bundle your application changes what you pay. Pearson VUE's Resident Licensing Fees chart breaks an initial producer application into three pieces:
+
+$50 registration fee — charged for every line of authority on the application
+
+$44 application processing fee — charged once per application, regardless of how many lines are on it
+
+$38 fingerprint fee — charged only on your first initial producer license
+
+NIPR adds a $5 transaction fee to each resident electronic submission. A first-time applicant filing for a single major line therefore owes $132 to the state, plus $5 to NIPR.
 
 Single-line application:
 
@@ -64,7 +72,7 @@ Easier to focus exam preparation
 
 Building one expertise area first
 
-Add additional lines later (with separate $44 amendment fee + $50 per LOA)
+Add lines later on a fresh application ($44 processing fee + $50 for each line added)
 
 Multi-line application:
 
@@ -72,21 +80,21 @@ Higher upfront cost
 
 Broader market opportunity from day one
 
-Save on subsequent amendment fees
+One $44 processing fee instead of one per application
 
 Apply for all desired lines on a single application
 
-Common combinations:
+Common combinations, counting state fees plus the $45 Pearson VUE fee for each exam you have to sit:
 
-Life and Accident & Health: Most common starting point for life/health-focused producers. Total ~$272.
+Life and Accident & Health: Most common starting point for life/health-focused producers. $182 in state fees plus two $45 exams — about $272.
 
-Property and Casualty: Common starting point for P&C-focused producers. Total ~$272.
+Property and Casualty: Common starting point for P&C-focused producers. $182 in state fees plus two $45 exams — about $272.
 
-All four major lines (L, A&H, P, C): Comprehensive licensing. Total ~$462.
+All four major lines (L, A&H, P, C): Comprehensive licensing. $282 in state fees plus four $45 exams — about $462.
 
-Personal Lines only: Faster path for agents focused exclusively on personal P&C. Single-line cost ~$177.
+Personal Lines only: Faster path for agents focused exclusively on personal P&C. $132 in state fees plus one $45 exam — about $177.
 
-Choose based on your career goals and target markets.
+Those figures assume a clean first attempt on every exam; each retake is another $45. Choose based on your career goals and target markets.
 
 ## Decision 2: Apply BEFORE Taking the Exam (NC's Distinctive Sequence)
 
@@ -100,7 +108,7 @@ Receive email from Pearson VUE with reserved NPN and authorization to test
 
 Schedule and take exam(s) through Pearson VUE
 
-Submit fingerprints within 30 days
+Print the fingerprint packet from your NIPR email and have Live Scan prints taken
 
 Receive license after all requirements met
 
@@ -126,7 +134,7 @@ Don't apply until you're ready to actively pursue licensing
 
 Schedule exams promptly after authorization to test
 
-Schedule fingerprinting within 30 days
+Get fingerprinted early — the SBI mails the criminal record check to Pearson VUE's North Carolina Licensing Office, so it is usually the slowest item in the file
 
 ## Before You Apply
 
@@ -202,9 +210,13 @@ Other relevant supporting documents
 
 Step 11: Pay the application fees:
 
-Base fee: $82 (includes $38 fingerprint fee)
+$44 application processing fee (once per application)
 
-Per line: $50 each
+$38 fingerprint fee (first initial producer license only)
+
+$50 registration fee for each line of authority
+
+$5 NIPR transaction fee
 
 Step 12: Submit application.
 
@@ -226,7 +238,7 @@ Your disclosure answers. Cross-referenced against available records.
 
 Pending exam completion. Application stays in pending status until exams completed.
 
-Pending fingerprint submission. Fingerprints required within 30 days.
+Pending fingerprint submission. The file stays open until your Live Scan prints and the resulting SBI/FBI criminal history reach the North Carolina Licensing Office.
 
 Final review. When all elements are received, application proceeds to licensing decision.
 
@@ -266,11 +278,11 @@ Application submission and authorization to test: same day
 
 Exam completion: 1-2 weeks
 
-Fingerprint completion: 1-2 weeks (within 30 days of application)
+Fingerprint completion: 1-2 weeks
 
 Background check processing: 1-3 weeks
 
-License issuance: 48-72 hours after all requirements met
+License issuance: electronic, completed after NCDOI's final review once every requirement is met. NCDOI's official processing standard is up to 60 days, though clean applications often finish sooner.
 
 Applications with disclosures or background issues: Processing typically adds 4-6 weeks for additional review.
 
@@ -288,13 +300,13 @@ Incomplete disclosure answers. Answering "no" when "yes" is the honest answer cr
 
 Missing documentation. "Yes" disclosure answers typically require supporting documents through Attachments Warehouse.
 
-Late fingerprinting. Must submit within 30 days of application.
+Late fingerprinting. There is no separate 30-day fingerprint deadline, but your prints and the SBI/FBI report both have to land inside the 6-month application window — and that report reaches Pearson VUE by mail, so late prints are the most common reason a file runs out of time.
 
 Missing local law enforcement. Some local agencies don't perform Livescan fingerprints for non-criminal reasons. Verify before scheduling.
 
 Fingerprint cards. NOT accepted — must be Livescan electronic.
 
-Wrong line selection. Adding a line later requires separate amendment fee ($44 + $50 per LOA).
+Wrong line selection. Adding a line later means a fresh application — another $44 processing fee plus $50 for the line. File that second producer application before your first fingerprinted license is active on the NAIC Producer Database and the $38 fingerprint fee gets charged again on top.
 
 ## If Your Application Is Denied
 
@@ -312,11 +324,11 @@ Denial isn't always permanent. Some applicants successfully appeal or reapply af
 
 Approved applications result in an active North Carolina producer license. You'll receive:
 
-Email notification (typically within 48-72 hours after final requirement met)
+Email notification once NCDOI issues your license following its final review
 
 Your license number (typically same as your NPN)
 
-Your license effective date and renewal date
+Your license effective date and your CE compliance date (producer licenses are perpetual — this is the date your continuing education must be met, not a renewal filing)
 
 You can verify license status and print your license through the NCDOI system.
 
@@ -328,20 +340,22 @@ Address changes. Update through NIPR or NCDOI directly.
 
 Name changes. Submit appropriate documentation.
 
-Adding lines of authority. Amendment fee $44 + $50 per new LOA.
+Adding lines of authority. A new application: $44 processing fee + $50 per new line.
 
 Other changes. Various procedures depending on change type.
 
-Amendment fee structure:
+Adding a line of authority after licensure:
 
-Base amendment fee: $44
+$44 application processing fee, one per application
 
-Plus $50 per line of authority being added or changed
+Plus a $50 registration fee for each line being added
+
+No second fingerprint fee, provided your existing fingerprinted license is already active on the NAIC Producer Database
 
 ## 5 Frequently Asked Questions
 
 - Why do I have to apply through NIPR before taking the exam? North Carolina uses an application-first approach where the NIPR application generates your authorization to test. You'll receive an email from Pearson VUE with your reserved NPN and authorization to test once your application is submitted. This sequence is distinctive to North Carolina compared to most states.
-- How much is the North Carolina license application fee? $82 base fee (includes $38 fingerprint processing for first-time applicants) plus $50 per line of authority. Adding all four major lines totals approximately $282 in application fees.
+- How much is the North Carolina license application fee? A first-time producer application is a $44 processing fee, a $38 fingerprint fee, and a $50 registration fee for each line of authority — $132 for a single line, $282 for all four major lines — plus a $5 NIPR transaction fee. The $45-per-attempt Pearson VUE exam fee is charged separately when you book each exam.
 - How long does my NIPR application stay valid? 6 months from submission. You must complete all requirements (exam, fingerprinting, any documentation) within this window or your application expires and you must reapply.
 - Does NCDOI mail physical licenses? No. NCDOI processes licenses electronically. You'll print your license from the system after issuance.
 - Who is Pearson VUE in the North Carolina licensing process? Pearson VUE manages the North Carolina Licensing Office on NCDOI's behalf — administering exams, processing fingerprints, reviewing applications, and issuing licenses. Pearson VUE is often your first point of contact for status questions.

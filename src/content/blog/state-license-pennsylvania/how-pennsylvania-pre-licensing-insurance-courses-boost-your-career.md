@@ -33,7 +33,7 @@ Before diving in, it’s essential to know the basic licensing requirements in P
 Below is an overview of what you can expect:
 
 1.  Determine your specific line of authority, such as Life, Accident and Health, or Property and Casualty.
-2.  Consider enrolling in a pre-licensing course for your chosen line—it’s optional in Pennsylvania, but a course approved by the [Pennsylvania Insurance Department](/pennsylvania/requirements) can help you prepare for the exam content.
+2.  Consider enrolling in a pre-licensing course for your chosen line—it’s optional in Pennsylvania (the state does not approve or endorse prelicensing courses), but a course built around the current [PSI Pennsylvania content outline](/pennsylvania/requirements) can help you prepare for the exam content.
 3.  If you take a course, complete its contact hours—for instance, a Life Insurance course might run around 20 hours focused on that topic alone.
 4.  Pass a background check, which typically includes fingerprinting or other identity verification.
 5.  Schedule your state licensing exam through an approved test provider.

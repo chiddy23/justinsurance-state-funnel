@@ -24,7 +24,7 @@ Virginia has the third-highest concentration of federal civilian workers in the 
 
 Fairfax County consistently ranks as the Virginia locality with the most Fortune 500 companies — 11 as of 2025
 
-Defense spending in Virginia averages approximately $15+ billion annually in contracts and grants (Hampton Roads region alone)
+Virginia consistently ranks among the top three states in the country for annual Department of Defense contract obligations, and Northern Virginia holds the largest share of the contractor base behind those dollars
 
 The average compensation of a federal civilian worker is nearly twice that of a comparable private sector worker. This means Northern Virginia's workforce — combining federal employees and contractors who serve them — earns at a level that creates exceptional personal and commercial insurance needs.
 
@@ -40,7 +40,7 @@ Supplemental life insurance beyond FEGLI's group coverage
 
 Disability income insurance to protect federal salaries that FEGLI does not cover
 
-Long-term care insurance — federal employees can purchase through the Federal Long-Term Care Insurance Program (FLTCIP), but private LTC policies may offer more flexibility
+Long-term care insurance — and this is the single most important federal-benefits fact for producers in this market right now: the Federal Long-Term Care Insurance Program (FLTCIP) is closed. OPM suspended new FLTCIP applications effective December 19, 2022 and extended the suspension effective December 19, 2024 for another 24 months, through at least December 2026. During the suspension, employees who are not already enrolled cannot apply, and existing enrollees cannot apply to increase coverage. Private standalone LTC and hybrid life/LTC products are the live option for federal employees today — confirm the current status on ltcfeds.gov before any client conversation, since OPM can lift or further extend the suspension
 
 Personal umbrella policies appropriate to government employees with significant retirement assets and savings
 
@@ -54,7 +54,7 @@ Northern Virginia's commercial insurance market is defined by two dominant lines
 
 Cyber Liability is the most distinctive and fastest-growing commercial insurance need in Northern Virginia. Virginia ranks as the No. 1 Cybersecurity Leader nationally (Business Facilities Magazine) and has the second-largest cybersecurity workforce in the country with approximately 88,000 cybersecurity workers. The intersection of defense contractors, federal agencies, and cybersecurity firms creates extraordinary cyber insurance demand.
 
-The Cybersecurity Maturity Model Certification (CMMC) framework — required for defense contractors handling Controlled Unclassified Information (CII) — drives mandatory cyber insurance purchases. Contractors without full CMMC compliance risk losing federal bid eligibility. Every defense contractor in Northern Virginia is a potential cyber liability client, and the premium volumes for mid-size contractors ($50M–$500M in revenue) are substantial.
+The Cybersecurity Maturity Model Certification (CMMC) framework — codified at 32 CFR Part 170 and required for defense contractors handling Federal Contract Information (FCI) and Controlled Unclassified Information (CUI) — is a major driver of cyber liability demand, though it is worth being precise about how. CMMC mandates cybersecurity practices and assessments; it does not require anyone to buy insurance. What drives the purchase is the surrounding commercial reality: prime contractors routinely impose cyber liability requirements on their subs by contract, and contractors without full CMMC compliance risk losing federal bid eligibility and face real remediation and breach-response costs. Every defense contractor in Northern Virginia is a potential cyber liability client, and the premium volumes for mid-size contractors ($50M–$500M in revenue) are substantial.
 
 Professional Liability (E&O) for government contractors covers claims of errors or negligence in the delivery of professional services to federal clients. This line requires understanding the specific exposure of government IT services, intelligence support, defense consulting, and engineering services firms — each with distinct liability profiles.
 

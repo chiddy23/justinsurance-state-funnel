@@ -25,13 +25,13 @@ California enhanced its suitability framework specifically because unsuitable an
 
 ## What SB 263 Established
 
-Senate Bill 263 (Dodd), signed February 29, 2024 and applying to annuity recommendations made on or after January 1, 2025, amended California Insurance Code sections 10509.914 and 10509.915 to adopt the best-interest standard. It requires that recommendations to purchase, replace, or exchange an annuity must be based on reasonable grounds that the product is suitable for the specific consumer.
+Senate Bill 263 (Dodd), signed February 29, 2024 and applying to annuity recommendations made on or after January 1, 2025, added a new Article 9.5 (California Insurance Code sections 10509.9200 through 10509.9210) that establishes a best-interest standard. It also confined the prior suitability standard — the earlier Article 9, including sections 10509.914 and 10509.915 — to recommendations made before that date. Under the best-interest standard, an agent must act in the consumer's best interest when recommending the purchase, replacement, or exchange of an annuity, and may not place the agent's or the insurer's financial interest ahead of the consumer's.
 
-This isn't a surface-level obligation. Reasonable grounds require actually considering the consumer's situation and genuinely evaluating whether the product fits — not simply having the consumer sign a suitability form without meaningful analysis.
+This isn't a surface-level obligation. An agent is treated as having acted in the consumer's best interest only by meeting four obligations — care, disclosure, conflict-of-interest, and documentation. The care obligation, in particular, requires actually knowing the consumer's financial situation, needs, and objectives and having a reasonable basis to believe the recommendation effectively addresses them — not simply having the consumer sign a form without meaningful analysis.
 
 ## The Suitability Factors Agents Must Consider
 
-California's suitability framework requires agents to consider specific factors before recommending an annuity:
+Under the care obligation, agents must gather and weigh specific consumer-profile factors before recommending an annuity:
 
 - Age — how age affects product fit, especially for long-surrender products
 - Annual income — whether the consumer has income to support the purchase

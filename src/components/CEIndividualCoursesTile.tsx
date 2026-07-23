@@ -39,6 +39,32 @@ export default function CEIndividualCoursesTile({
     ceCatalog?.category ??
     "https://yourinsurancelicense.myabsorb.com/";
 
+  // Pending-approval states (NY, WA): CE is not purchasable yet, so this tile
+  // must NOT link to the Absorb individual-courses catalog. Render a neutral,
+  // non-purchase informational card instead. Approved states (and any caller
+  // that omits providerApproved) render the linked tile exactly as before.
+  if (!providerApproved) {
+    return (
+      <section className={sectionClassName}>
+        <div className="max-w-5xl mx-auto">
+          <div className="block bg-white border-l-4 border-navy rounded-r-xl p-5 shadow-sm">
+            <p className="text-gold-deep font-semibold uppercase tracking-wide text-xs mb-1">
+              Need just one topic?
+            </p>
+            <p className="text-navy font-bold text-base md:text-lg">
+              Individual {stateName} CE courses are opening soon
+            </p>
+            <p className="text-gray-600 text-sm mt-1">
+              Opening soon — our {stateName} CE provider approval is pending with
+              the {doiName}. À-la-carte {stateName} CE courses will be available to
+              purchase as soon as approval is issued.
+            </p>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
   return (
     <section className={sectionClassName}>
       <div className="max-w-5xl mx-auto">

@@ -90,7 +90,7 @@ Below are some frequent concerns newer insurance agents have about career growth
 
 ## Your next steps
 
-Growing your insurance career means consistently nurturing relationships, diversifying your skill set, and learning from mentors who genuinely want the best for you. Whether you’re aiming to increase your client base or sharpen your sales approach, remember that small, steady steps pave the way to long-term success. If you’re looking for even more comprehensive guidance, JustInsurance offers resources designed for new agents who are eager to scale their practices.
+Growing your insurance career means consistently nurturing relationships, diversifying your skill set, and learning from mentors who genuinely want the best for you. Whether you’re aiming to increase your client base or sharpen your sales approach, remember that small, steady steps pave the way to long-term success. If you’re looking for even more comprehensive guidance, JustInsurance offers prelicensing and continuing education courses to help new agents build the strong knowledge base a growing career depends on.
 
 Begin with one improvement idea, such as strengthening your follow-up routine or enrolling in a specialized course. Then add another, and another. Your proactive effort compounds over time, revealing a flourishing career built on trust, knowledge, and an unshakable commitment to your clients.
 

@@ -16,41 +16,41 @@ imageAlt: >-
   massachusetts life & health insurance exam: complete breakdo.
 ---
 
-The Massachusetts Life and Health insurance exam is your gateway to a Massachusetts insurance career. Massachusetts may not require [prelicense](/massachusetts/prelicensing) education, but the state exam itself is widely considered one of the more challenging in the country — with substantial content covering Massachusetts-specific topics like the Health Connector and MassHealth that catch unprepared candidates off guard.
+The Massachusetts Life and Health insurance exam is your gateway to a Massachusetts insurance career. Massachusetts may not require [prelicense](/massachusetts/prelicensing) education, but the state's line exams are widely considered among the more challenging in the country — with substantial content covering Massachusetts-specific topics like the Health Connector and MassHealth that catch unprepared candidates off guard.
 
 Here's the complete guide to the Massachusetts Life and Health insurance exam.
 
 ## Who Administers the Exam
 
-Massachusetts is transitioning its insurance licensing exam vendor from Prometric to Pearson VUE. Prometric administered the exam on behalf of the Massachusetts Division of Insurance through July 16, 2026; there is a testing blackout July 17–21, 2026; and Pearson VUE becomes the official vendor starting July 22, 2026. You register and schedule through Pearson VUE's website at pearsonvue.com/us/en/ma/insurance.html.
+Massachusetts switched its insurance licensing exam vendor from Prometric to Pearson VUE. Prometric administered the exam on behalf of the Massachusetts Division of Insurance through July 16, 2026; a testing blackout ran July 17–21, 2026; and Pearson VUE became the official vendor on July 22, 2026. You register and schedule through Pearson VUE's website at pearsonvue.com/us/en/ma/insurance.html.
 
 ## Where You'll Take the Exam
 
-Pearson VUE requires in-person testing at an authorized test center — the remote/online-proctored option that Prometric offered (ProProctor) is being eliminated with the vendor switch.
+Pearson VUE requires in-person testing at an authorized test center — the remote/online-proctored option that Prometric offered (ProProctor) ended with the vendor switch.
 
 Pearson VUE Testing Centers. Physical testing locations throughout Massachusetts including Boston, Worcester, Springfield, and other regional centers.
 
 ## Massachusetts Exam Structure
 
-Massachusetts offers exams for various lines of authority, each with a specific exam code:
+Massachusetts offers a separate exam for each line of authority, listed by name on the Pearson VUE Massachusetts DOI exam menu:
 
-Question counts and time limits range from approximately 100-150 questions and 2-2.5 hours.
+Each producer line exam is built from two content outlines: a 50-question general knowledge section and a 30-question Massachusetts-specific section, for 80 scored questions total, plus 5 unscored pretest items attached to each section. (Personal Lines is the outlier, at 75 general knowledge plus 30 state-specific.) Pearson VUE displays the time limit for your specific exam when you register.
 
-Passing score: 70% on every Massachusetts insurance license exam.
+Passing score: a scaled score of 70. Massachusetts equates scores across exam forms, so the number you see is not the count or percentage of questions you answered correctly.
 
-Exam fee: $39 (paid at registration — notably lower than most states; confirm the current fee in the Pearson VUE candidate handbook before scheduling).
+Exam fee: $37 per producer line exam under the Pearson VUE fee schedule — notably lower than most states. It is due when you reserve your seat and is non-refundable and non-transferable.
 
 Note: No exam is required for Variable Life and Variable Annuity, or Travel licenses.
 
-## Choosing the Right Exam
+## Getting Licensed for Both Life and Health
 
-If you're pursuing a combined Life and Health license, you have options:
+Massachusetts does not offer a single merged "Life and Health" exam. Each line of authority has its own exam, so to carry both lines you sit two separate exams:
 
-Take the combined Life and Health exam. Single exam covering both content areas. Approximately 150 questions, 2.5 hours.
+Producer — Life Insurance Exam. 50 scored general knowledge questions plus 30 scored Massachusetts-specific questions.
 
-Take Life and Health exams separately (16-51 and 16-52). Two separate exams. Allows you to focus on one content area at a time but doubles exam fees and scheduling.
+Producer — Accident and Health, or Sickness Insurance Exam. Same structure: 50 scored general knowledge questions plus 30 scored Massachusetts-specific questions.
 
-For most candidates, the combined exam is the practical choice.
+Each exam is $37 on its own, and the Pearson VUE fee schedule does not publish a discounted rate for booking two exams together — so budget $74 to sit both lines. Scheduling them back to back still saves you a second trip to the test center and a second scheduling window.
 
 ## The Two-Section Format
 
@@ -60,7 +60,7 @@ General Knowledge. Insurance principles applicable in any state. Concepts like r
 
 State Law. Massachusetts-specific insurance laws, rules, regulations, and practices unique to Massachusetts.
 
-You receive a single combined score for the entire exam.
+You receive a single overall score for the exam, combining both sections.
 
 ## Major Content Areas — General Knowledge
 
@@ -102,7 +102,7 @@ MassHealth. Massachusetts's Medicaid program — coordination with private insur
 
 Massachusetts Annuity Best Interest Standard. Suitability and Best Interest requirements for annuity sales.
 
-Massachusetts Long-Term Care Requirements. Specific LTC training including 8-hour initial plus 4-hour refresher every renewal period.
+Massachusetts Long-Term Care Requirements. Specific LTC training including an 8-hour initial course plus a 4-hour ongoing refresher every 24 months (tied to the initial training date, independent of the 3-year license-renewal cycle).
 
 Massachusetts [Continuing Education](/massachusetts/continuing-education). 60 hours initially, 45 hours every 3 years thereafter (with 3 ethics hours).
 
@@ -118,7 +118,7 @@ Life insurance policies and provisions
 
 Accident and Health policies and provisions
 
-Massachusetts-specific laws (typically 15-25% of exam)
+Massachusetts-specific laws (30 of the 80 scored questions — roughly 37% of the exam)
 
 Annuities
 
@@ -142,7 +142,7 @@ Results appear immediately after you submit. You'll receive a printed score repo
 
 ## A Note on Remote Testing
 
-Prometric previously offered ProProctor remote testing (online proctored testing from home) for the Massachusetts exam. That option is being eliminated as part of the July 22, 2026 switch to Pearson VUE — going forward, candidates must test in person at an authorized Pearson VUE test center. Plan to schedule an in-person exam rather than counting on a remote option.
+Prometric previously offered ProProctor remote testing (online proctored testing from home) for the Massachusetts exam. That option ended with the July 22, 2026 switch to Pearson VUE — going forward, candidates must test in person at an authorized Pearson VUE test center. Plan to schedule an in-person exam rather than counting on a remote option.
 
 ## Taking the Exam: Navigation
 
@@ -158,7 +158,7 @@ See remaining time on screen
 
 ## Time Management
 
-For the combined Life and Health exam (approximately 150 questions, 2.5 hours), you have approximately 1 minute per question on average. Most prepared candidates finish with time to spare.
+Each producer line exam runs 90 items — 80 scored plus 10 pretest — in a single timed session. Pearson VUE shows the exact time limit when you register, so check it and divide by 90 to know your per-question pace before you walk in. Most prepared candidates finish with time to spare.
 
 Strategy:
 
@@ -176,7 +176,7 @@ Never leave questions blank — guess rather than skip
 
 If you pass: Your result reports electronically to the Massachusetts Division of Insurance. You can submit your license application through NIPR.
 
-If you fail: You receive a score report showing performance areas. Use this for diagnostic purposes. You can retake the exam — pay another $39 fee and reschedule.
+If you fail: You receive a score report with a numeric score and diagnostic detail by content area. Use it to target your re-study. You can retake the exam — pay another $37 fee and reschedule.
 
 ## Why the Massachusetts Exam Is Considered Difficult
 
@@ -188,17 +188,17 @@ Substantial state-specific content. Massachusetts Health Connector, MassHealth, 
 
 Sophisticated question construction. Application and analysis questions test true understanding rather than memorization.
 
-Comprehensive content coverage. 100-150 questions cover substantial breadth.
+Comprehensive content coverage. Eighty scored questions per line exam span a full general knowledge outline and a separate Massachusetts law outline.
 
 These factors combine to challenge unprepared candidates.
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on the Massachusetts Life and Health combined exam? Approximately 150 questions for the combined Life and Health exam. Single-line exams (Life only or Health only) have approximately 105 questions.
-- What's the passing score? 70% on Massachusetts insurance license exams.
-- How much does the Massachusetts insurance exam cost? $39 paid at registration — notably lower than most states (confirm the current fee with your testing vendor before scheduling).
-- Can I take the Massachusetts insurance exam from home? No, not going forward. Prometric previously offered ProProctor remote testing, but that option is being eliminated as Massachusetts switches to Pearson VUE (effective July 22, 2026), which requires in-person testing at an authorized test center.
-- Can I retake the Massachusetts exam if I fail? Yes. There's no specific cap on retakes. Each attempt requires another $39 exam fee.
+- How many questions are on the Massachusetts Life and Health exams? Massachusetts uses a separate exam for each line. Under the Pearson VUE content outlines effective July 22, 2026, the Life exam and the Accident and Health, or Sickness exam each carry 80 scored questions — 50 general knowledge plus 30 Massachusetts-specific — with 5 unscored pretest items in each section. There is no single merged Life and Health exam; to hold both lines you take both exams.
+- What's the passing score? A scaled score of 70, set by the Massachusetts Division of Insurance. Because scores are equated across exam forms, the reported score is not the percentage of questions you answered correctly.
+- How much does the Massachusetts insurance exam cost? $37 per producer line exam, paid when you reserve your seat — notably lower than most states.
+- Can I take the Massachusetts insurance exam from home? No, not going forward. Prometric previously offered ProProctor remote testing, but that option ended when Massachusetts switched to Pearson VUE (effective July 22, 2026), which requires in-person testing at an authorized test center.
+- Can I retake the Massachusetts exam if I fail? Yes. There's no specific cap on retakes. Each attempt requires another $37 exam fee.
 
 ## Walk Into the Massachusetts Exam Prepared
 

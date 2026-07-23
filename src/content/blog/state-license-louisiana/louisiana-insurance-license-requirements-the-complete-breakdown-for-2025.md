@@ -41,7 +41,7 @@ Louisiana requires electronic fingerprinting for all first-time resident produce
 
 ## Application and License Issuance
 
-Apply through NIPR at nipr.com after passing your exam and completing fingerprinting. The application fee is $75, covering all lines of authority in one application (check NIPR for any additional transaction fee at the time you apply). A 60-day temporary Life license is available by email request to ProducerLicensing@ldi.la.gov. No temporary license is available for Property & Casualty.
+Apply through NIPR at nipr.com after passing your exam and completing fingerprinting. The application fee is $75, covering all lines of authority in one application (check NIPR for any additional transaction fee at the time you apply). Louisiana does not offer a temporary license as a shortcut for new applicants. Under La. R.S. 22:1553, the LDI issues a temporary producer license (up to 180 days, no exam) only to keep an existing book of business serviced when a licensed producer dies, becomes disabled, or is called into active military duty — it is not tied to a single line of authority. You cannot sell any line — Life, Health, Property, or Casualty — until your resident license is issued.
 
 ## Continuing Education Requirements
 

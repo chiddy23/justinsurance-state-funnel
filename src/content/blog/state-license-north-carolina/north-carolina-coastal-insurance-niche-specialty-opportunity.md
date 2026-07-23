@@ -244,7 +244,7 @@ Referral network leverage. Real estate, mortgage, and vacation rental referral n
 
 Seasonal considerations. Some coastal NC communities have seasonal population fluctuations affecting when clients engage. Planning outreach around coastal market seasonality improves efficiency.
 
-Established coastal NC specialty practices commonly produce $90,000-$180,000+ annually for individual producers, with top coastal specialists — particularly those serving the Outer Banks high-value market or Cape Fear affluent retiree communities — earning substantially more.
+Per U.S. Bureau of Labor Statistics wage data, North Carolina insurance sales agents earn a median of roughly $76,080 a year, with experienced producers reaching about $78,860 and the state's top earners (90th percentile) around $126,970. Coastal specialty practice tends to sit toward the upper end of that range — multiple policies per client mean higher per-client revenue, and strong renewal retention compounds it over time — though actual earnings depend on your carrier mix, market, and years in the business.
 
 *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
@@ -268,6 +268,6 @@ The coastal specialty rewards patience and investment in genuine expertise. Prod
 
 ## Build Your North Carolina Coastal Insurance Specialty
 
-North Carolina's coastal market rewards producers willing to develop genuine expertise in one of the most complex property insurance environments in the Southeast. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses provide foundational knowledge supporting coastal property specialty practice including CPIP, NFIP flood certification, and NC Rate Bureau form expertise.
+North Carolina's coastal market rewards producers willing to develop genuine expertise in one of the most complex property insurance environments in the Southeast. Producers who already hold a North Carolina property and casualty license can keep their coastal-market knowledge sharp through JustInsurance's North Carolina [property and casualty continuing education](/north-carolina/continuing-education).
 
-Enroll today and start building your North Carolina coastal insurance specialty.
+Commit to the coastal specialty and build a North Carolina practice with a real defensive moat.

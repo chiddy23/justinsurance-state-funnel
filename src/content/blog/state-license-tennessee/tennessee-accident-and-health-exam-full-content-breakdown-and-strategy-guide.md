@@ -12,17 +12,23 @@ image: /blog/images/top-tips-to-crush-tennessee-insurance-license-exam-questions
 imageAlt: "Tennessee Accident and Health Exam: Full Content Breakdown and Strategy Guide"
 ---
 
-The Tennessee Accident and Health licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passed at 70% to earn Accident and Health line of authority from the Tennessee Department of Commerce and Insurance. No mandatory [prelicensing](/tennessee/prelicensing) course is required. The A&H exam covers the broadest product landscape of any Tennessee licensing line — health insurance plan types, Medicare in all its parts, Medicaid through TennCare, disability income insurance, long-term care insurance, the Affordable Care Act framework, and Tennessee's state-specific health insurance regulatory provisions. Candidates who underestimate the breadth of this exam because they are familiar with health insurance as a consumer consistently fail the state law section and the Medicare-specific content that appears in higher volume than most candidates anticipate. This post provides the complete content breakdown for the Tennessee A&H exam: every topic area, what each tests at exam-level specificity, how the content is weighted, and the strategic approach that produces first-time passing scores.
+The Tennessee Accident and Health licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passed with a scaled score of 70 to earn the Accident and Health line of authority from the Tennessee Department of Commerce and Insurance. That 70 is a converted score on a 0–100 reporting scale, not the percentage of questions you answered correctly. No mandatory [prelicensing](/tennessee/prelicensing) course is required. The A&H exam covers the broadest product landscape of any Tennessee licensing line — health insurance plan types, Medicare in all its parts, Medicaid through TennCare, disability income insurance, long-term care insurance, the Affordable Care Act framework, and Tennessee's state-specific health insurance regulatory provisions. Candidates who underestimate the breadth of this exam because they are familiar with health insurance as a consumer consistently fail the state law section and the Medicare-specific content, which is more detailed than most candidates anticipate. This post provides the complete content breakdown for the Tennessee A&H exam: every topic area, what each tests at exam-level specificity, how the content is weighted, and the strategic approach that produces first-time passing scores.
 
 ## The Two-Section Structure
 
-Every Tennessee insurance licensing exam tests two knowledge domains within a single 77-question, 105-minute session.
+The Tennessee Accident and Health exam tests two knowledge domains within a single 77-question, 105-minute (1 hour 45 minute) session — the same length and structure as the Life, Property, and Casualty exams. (Tennessee's other lines run differently: Personal Lines is allotted 2 hours, and the Title and Public Adjuster exams 1 hour each.)
 
 Section 1 — General Accident and Health Concepts: Tests foundational knowledge of health insurance products, disability income insurance, long-term care insurance, Medicare, Medicaid, ACA framework, and policy provisions that apply across all jurisdictions.
 
 Section 2 — Tennessee State Laws and Regulations: Tests specific knowledge of Tennessee's insurance regulatory framework — TCA Title 56, TDCI authority, Tennessee-specific health insurance provisions, TennCare structure, and the producer conduct rules that apply specifically in Tennessee.
 
-Both sections contribute to the single pool of 68 scored questions. The state law section is where the largest concentration of preventable failures occurs — candidates who know health insurance thoroughly from professional experience but have not studied Tennessee's specific statutory provisions lose enough state law questions to fall below 70% on the total exam.
+Both sections contribute to the single pool of 68 scored questions. The state law section is where the largest concentration of preventable failures occurs — candidates who know health insurance thoroughly from professional experience but have not studied Tennessee's specific statutory provisions lose enough state law questions to fall below the cut score on the total exam.
+
+### How Tennessee Actually Scores the Exam
+
+Pearson VUE does not report a raw percentage on Tennessee insurance exams. Your raw score — the number of questions you answered correctly — is statistically converted onto a common 0–100 reporting scale, and TDCI has set 70 on that scale as the passing standard. The candidate handbook says it plainly: the reported score "is neither the number of questions answered correctly (the raw score) nor the percentage of questions answered correctly."
+
+The practical consequence: there is no fixed number of correct answers that guarantees a pass. Scaling exists so that a slightly harder exam form is not penalized against an easier one, which means the number of scored questions you need varies by the form you sit. Do not study to "68 × 70% = 48 questions" — that arithmetic does not describe how the exam is graded. Study to master the content, and treat 70 as a scaled benchmark rather than a percentage target.
 
 ## General Section: Health Insurance Plan Types
 
@@ -118,9 +124,9 @@ HDHPs pair high deductibles with lower premiums and eligibility to contribute to
 
 2026 HSA-qualifying HDHP minimum deductibles:
 
-Individual: $1,650
+Individual (self-only): $1,700
 
-Family: $3,300
+Family: $3,400
 
 2026 HSA contribution limits:
 
@@ -212,7 +218,7 @@ Subrogation is the insurer's right to recover from a responsible third party the
 
 ## General Section: Medicare
 
-Medicare is consistently one of the highest question-density topics on the Tennessee A&H exam. Candidates who have not studied Medicare's four parts in detail — particularly the specific services covered by each part, the premium structures, and the Medigap standardized plan framework — lose multiple exam questions to Medicare content.
+Medicare carries a modest but reliable share of the Tennessee A&H exam, and it is detail-dense enough that candidates routinely give back the points it does carry. On the Pearson VUE Tennessee HEALTH general-knowledge outline, the dedicated Social Insurance section — Medicare Parts A through D, Medicaid, and Social Security combined — accounts for 6 of the 50 scoreable general-knowledge questions. That is not the largest section (Types of Policies is allotted 16 questions and Policy Provisions, Clauses, and Riders 15), but Medicare's operational specifics are exactly the kind of detail candidates skim. Those who have not studied Medicare's four parts closely — particularly the specific services covered by each part, the premium structures, and the Medigap standardized plan framework — lose the Social Insurance questions that prepared candidates answer correctly.
 
 ### Medicare Part A — Hospital Insurance
 
@@ -222,11 +228,11 @@ Premium: Most Medicare beneficiaries pay no Part A premium — they have earned 
 
 Benefit periods and cost-sharing: Part A uses benefit periods — not calendar years — to structure cost-sharing. A new benefit period begins each time the beneficiary has been out of the hospital or SNF for 60 consecutive days.
 
-Days 1–60 of each benefit period: Inpatient deductible (2026: $1,676) — paid once per benefit period
+Days 1–60 of each benefit period: Inpatient deductible (2026: $1,736) — paid once per benefit period
 
-Days 61–90: Daily coinsurance ($419/day in 2026)
+Days 61–90: Daily coinsurance ($434/day in 2026)
 
-Days 91–150 (lifetime reserve days): Higher daily coinsurance ($838/day in 2026); each beneficiary has 60 lifetime reserve days total
+Days 91–150 (lifetime reserve days): Higher daily coinsurance ($868/day in 2026); each beneficiary has 60 lifetime reserve days total
 
 Beyond 150 days in a benefit period: No Medicare coverage
 
@@ -234,7 +240,7 @@ Skilled nursing facility coverage:
 
 Days 1–20: Fully covered by Medicare
 
-Days 21–100: Daily coinsurance ($209.50/day in 2026)
+Days 21–100: Daily coinsurance ($217/day in 2026)
 
 Beyond 100 days: No Medicare SNF coverage
 
@@ -244,9 +250,9 @@ SNF qualification requirement: Medicare covers SNF care only following a qualify
 
 Coverage: Physician services, outpatient hospital care, preventive services, durable medical equipment (DME), mental health services, and outpatient physical, occupational, and speech therapy.
 
-Premium: Part B requires a monthly premium ($185/month in 2026 for most beneficiaries). Higher-income beneficiaries pay Income-Related Monthly Adjustment Amounts (IRMAA) — premium surcharges based on modified adjusted gross income.
+Premium: Part B requires a monthly premium ($202.90/month in 2026 for most beneficiaries). Higher-income beneficiaries pay Income-Related Monthly Adjustment Amounts (IRMAA) — premium surcharges based on modified adjusted gross income.
 
-Cost-sharing: Annual deductible ($257 in 2026), then 80% Medicare / 20% beneficiary coinsurance for most covered services. There is no out-of-pocket maximum under original Medicare — the 20% coinsurance applies without limit, which creates the coverage gap that Medigap insurance addresses.
+Cost-sharing: Annual deductible ($283 in 2026), then 80% Medicare / 20% beneficiary coinsurance for most covered services. There is no out-of-pocket maximum under original Medicare — the 20% coinsurance applies without limit, which creates the coverage gap that Medigap insurance addresses.
 
 Preventive services: Part B covers a wide range of preventive services at no cost-sharing — annual wellness visits, screenings for cancer, cardiovascular disease, and diabetes, immunizations.
 
@@ -466,7 +472,7 @@ Annuity suitability: 4-hour one-time training before selling annuities
 
 Renewal:
 
-Fee: not publicly posted (contact the TDCI); 60-day grace period; late fee not publicly posted (contact the TDCI); up to 1 year late renewal; full relicensing after 1 year
+Fee: $60 biennial renewal fee ($30 for a limited insurance producer), per Tenn. Comp. R. & Regs. 0780-01-56-.09; no post-expiration grace period — a renewal is on time only if filed on or before the birth-month expiration date; a lapsed license can be reinstated within 1 year of expiration by paying a penalty equal to double the renewal fee ($120) with no re-examination (T.C.A. §§ 56-6-107, 56-6-121); full relicensing after 1 year
 
 Appointments:
 
@@ -514,7 +520,7 @@ Disability income: own-occupation vs. any-occupation definition, elimination per
 
 LTC: benefit triggers (two of six ADLs; cognitive impairment), elimination period, inflation protection (simple vs. compound)
 
-Tennessee state law: bad faith (25%), TennCare direction prohibition (§56-6-112), TDCI enforcement, CE requirements (24/3, LTC 8+4), appointment rules, renewal fees and grace periods
+Tennessee state law: bad faith (25%), TennCare direction prohibition (§56-6-112), TDCI enforcement, CE requirements (24/3, LTC 8+4), appointment rules, renewal fees and lapse/reinstatement rules (no post-expiration grace period)
 
 Medium priority — solid understanding:
 
@@ -542,7 +548,7 @@ Specific 2026 Medicare cost-sharing amounts (know the structure, not necessarily
 
 ### The Medicare Deep Dive
 
-Medicare is the topic area where the most preventable A&H exam failures occur. Most candidates have some familiarity with Medicare as a concept — but the exam tests specific operational details:
+Medicare is a topic area where preventable A&H exam points are commonly lost. Most candidates have some familiarity with Medicare as a concept — but the exam tests specific operational details:
 
 Which services are covered under which Part
 
@@ -570,7 +576,7 @@ For every disability scenario question: identify the person's prior occupation, 
 
 Medicare appears on the A&H exam, but I am primarily interested in selling individual health insurance to working-age adults. Do I really need to study Medicare in depth?
 
-Yes — and the reason is not just professional development. Medicare content constitutes a meaningful portion of the Tennessee A&H exam's general section, and candidates who do not study it thoroughly lose multiple questions that prepared candidates answer correctly. The exam does not distinguish between the Medicare content you plan to use in your career and the content you consider irrelevant. Every question on Medicare Parts A, B, C, and D, Medigap plans, enrollment windows, cost-sharing structures, and the open enrollment guaranteed issue period is a scored question that contributes to your pass or fail result. Candidates who skip Medicare because they are not planning to sell it to seniors frequently discover they needed those points to reach 70%.
+Yes — and the reason is not just professional development. Medicare content is a scored component of the Tennessee A&H exam's general section — the Social Insurance section alone is 6 of the 50 scoreable general-knowledge questions — and candidates who do not study it thoroughly lose questions that prepared candidates answer correctly. The exam does not distinguish between the Medicare content you plan to use in your career and the content you consider irrelevant. Every question on Medicare Parts A, B, C, and D, Medigap plans, enrollment windows, cost-sharing structures, and the open enrollment guaranteed issue period is a scored question that contributes to your pass or fail result. Candidates who skip Medicare because they are not planning to sell it to seniors frequently discover they needed those points to reach the passing scaled score of 70.
 
 The grace period for health insurance is 31 days for annual premium policies but 30 days for life insurance. Will the exam actually test this one-day difference?
 
@@ -580,6 +586,6 @@ I know from my own experience that EPO and HMO are similar in being network-only
 
 The exam distinguishes EPO from HMO by the referral and PCP requirement — not by the network restriction. Both EPOs and HMOs require network-only use. The difference is that HMOs require a primary care physician gatekeeper and a referral to see a specialist, while EPOs do not require a PCP or referral. A question that describes a plan with network-only coverage and no PCP requirement is describing an EPO. A question that describes a plan with network-only coverage and a PCP gatekeeper requirement is describing an HMO. This distinction matters because exam questions frequently present plan characteristics and ask you to identify the plan type — and the distinguishing feature between EPO and HMO is the referral mechanism, not the network restriction. Know both characteristics of each plan type, not just the one that feels most memorable from personal experience.
 
-The Tennessee Accident and Health exam tests a broader landscape of products and regulations than any other Tennessee licensing exam — health plan types, Medicare's complex multi-part structure, Medigap's standardized framework, disability income's definition nuances, long-term care's trigger mechanics, and Tennessee's state law provisions including the TennCare direction prohibition that is uniquely Tennessee. Candidates who prepare for all of these domains systematically — allocating proportionally more time to Medicare and disability than their prior knowledge suggests is necessary — reach the 70% threshold that activates their A&H line of authority and opens access to one of the broadest product markets in Tennessee insurance.
+The Tennessee Accident and Health exam tests a broader landscape of products and regulations than any other Tennessee licensing exam — health plan types, Medicare's complex multi-part structure, Medigap's standardized framework, disability income's definition nuances, long-term care's trigger mechanics, and Tennessee's state law provisions including the TennCare direction prohibition that is uniquely Tennessee. Candidates who prepare for all of these domains systematically — allocating proportionally more time to Medicare and disability than their prior knowledge suggests is necessary — reach the scaled score of 70 that activates their A&H line of authority and opens access to one of the broadest product markets in Tennessee insurance.
 
-Visit JustInsurance to enroll today and complete your Tennessee A&H exam prep with a state-approved course designed for Pearson VUE — and reach exam day prepared for every domain the exam tests.
+Visit JustInsurance to enroll today and complete your Tennessee A&H exam prep with a course built to the current Pearson VUE Tennessee content outline — and reach exam day prepared for every domain the exam tests.

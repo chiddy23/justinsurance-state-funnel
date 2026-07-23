@@ -116,7 +116,7 @@ After your appointment, IdentoGO will provide a fingerprint receipt. Keep this r
 
 Step 6: Send Receipt to SCDOI (If Required)
 
-In some cases, you may need to send the fingerprint receipt to the SCDOI along with your National Producer Registry (NPN) number. Submission methods:
+In some cases, you may need to send the fingerprint receipt to the SCDOI along with your National Producer Number (NPN) — the unique identifier assigned to you through the National Insurance Producer Registry (NIPR). Submission methods:
 
 Mail: Attn: Individual Licensing, South Carolina Department of Insurance, Post Office Box 100105, Columbia, South Carolina 29202-3105
 

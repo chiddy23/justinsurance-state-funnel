@@ -18,7 +18,9 @@ Every Virginia resident insurance license applicant must complete a fingerprint-
 
 Under Title 38.2 of the Code of Virginia, the Bureau of Insurance conducts a criminal history background check on every new resident license applicant. The check runs through two channels: the Virginia State Police (for Virginia criminal history) and the Federal Bureau of Investigation (for national criminal history). Fieldprint collects your digital prints and transmits them electronically to both agencies. The results go directly to the Bureau of Insurance for review as part of your license application.
 
-This is a one-time requirement per application type — with a specific exception: you do not need new fingerprints if you have submitted fingerprints in the last 12 months, are currently licensed, and are applying for the same license type. If you are applying for a different license type (for example, you hold a Life & Annuities license and are adding Property & Casualty), you are required to submit new fingerprints. No exceptions apply.
+This is a one-time requirement, not a per-qualification requirement. Once your fingerprints are on file with the Bureau, you generally do not need to be fingerprinted again to add another qualification to a producer license. The Bureau's own fingerprinting FAQ addresses this directly: asked whether a current Virginia licensee submitting a new application for a new license needs prints, the Bureau answers "No, you are not required to submit fingerprints unless it has been more than a year since you submitted fingerprints to the Bureau for licensure."
+
+The wrinkle is the Bureau's separate rule that applying for a different license type requires new prints, with no exceptions. "License type" there means the Fieldprint service code your application falls under, not your line of authority — the Bureau's application page organizes its codes by license type and tells you to use the one that corresponds to the license you are applying for. Health, Life and Annuities, Personal Lines, Property and Casualty, Title, and Variable Contracts are all qualifications on the same producer license, so adding Property & Casualty to an existing Life & Annuities (or Life & Health) producer license stays inside FPVABOIProducer and does not, by itself, require new fingerprints. Moving from a producer license to a consultant, surplus lines broker, public adjuster, or viatical settlement broker license does require them, because each of those uses its own code. If you are near the 12-month line or unsure which code your application falls under, confirm with AgentLicensing@scc.virginia.gov before you schedule.
 
 ## Fieldprint Code: FPVABOIProducer
 
@@ -28,7 +30,19 @@ FPVABOIProducer
 
 This code is critical. It routes your fingerprint results to the Virginia Bureau of Insurance rather than to any other agency or purpose. Using the wrong Fieldprint code means your results go to the wrong recipient, the Bureau cannot access them, and your application will not be processed. If you have already completed fingerprinting with the wrong code, contact the Bureau of Insurance at AgentLicensing@scc.virginia.gov immediately.
 
-Some sources reference the code FPVABOICHRR — this is an alternative code that may appear in certain contexts. The Bureau's official guidance consistently directs applicants to FPVABOIProducer. Confirm the correct code on the official SCC website (scc.virginia.gov) before scheduling.
+Other codes circulate on third-party licensing sites. The Bureau publishes exactly five, one per license type:
+
+FPVABOIProducer — producer licenses, which the Bureau defines to include limited lines, motor vehicle rental contract, and temporary licenses
+
+FPVABOIConsultant — consultant licenses
+
+FPVABOISurplus — surplus lines broker licenses
+
+FPVABOIPubAdj — public adjuster licenses
+
+FPVABOIViatical — viatical settlement licenses
+
+If a code you were given is not on that list, do not use it. Confirm on the SCC's "Apply for an Individual Virginia Insurance License" page (scc.virginia.gov) before scheduling.
 
 ## How to Schedule a Fieldprint Appointment
 
@@ -38,7 +52,7 @@ Step 2: Create a Fieldprint account using your legal name exactly as it appears 
 
 Step 3: Enter Fieldprint Code FPVABOIProducer to pull up the correct service.
 
-Step 4: Select a date, time, and location from Fieldprint's network of approximately 46 locations across Virginia. Fieldprint also has locations elsewhere in the United States if you are currently residing outside Virginia.
+Step 4: Select a date, time, and location from Fieldprint's network. The Bureau of Insurance's application page directs resident applicants to one of Fieldprint's 93 locations across Virginia, and Fieldprint also has locations elsewhere in the United States if you are currently residing outside Virginia.
 
 Step 5: Pay the $34.95 fee at the time of scheduling. This fee covers both the Virginia State Police and FBI background check processing.
 
@@ -68,7 +82,7 @@ Both the fingerprint window and the 183-day exam score validity window remain op
 
 ## What If Your Background Check Returns a Conviction?
 
-If the Virginia State Police or FBI check returns a criminal history record, the Bureau of Insurance reviews it as part of your application. You are separately required to submit a Criminal History Record Report (CHRR) from the Virginia State Police — the Fieldprint check does not substitute for this requirement. The CHRR is attached to your NIPR or Sircon application electronically.
+If the Virginia State Police or FBI check returns a criminal history record, the Bureau of Insurance reviews it as part of your application. The Fieldprint fingerprinting is itself the criminal history background check — your prints are transmitted to the Virginia State Police and the FBI and the results go directly to the Bureau, so there is no separate Virginia State Police record report you have to order or attach to your NIPR or Sircon application. (The Bureau's current published application process is simply pass the exam, apply on NIPR or Sircon, and complete Fieldprint fingerprinting.)
 
 If your record shows any conviction, you must also provide a detailed written explanation and relevant court documentation. The Bureau reviews each case individually. The most important rule: disclose everything. Failure to disclose a conviction is treated as misrepresentation and is independent grounds for license denial.
 

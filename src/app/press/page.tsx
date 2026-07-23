@@ -1,20 +1,49 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
+import { isPrelicensingHeld } from "@/lib/prelicensing-status";
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
 // ---------------------------------------------------------------------------
 // "State-approved in 49 states" counted Washington as approved. Both New York
 // AND Washington carry providerApprovalNumber === "PENDING" in states.ts, so the
-// honest number is 48: we serve 49 states (all except New York) and hold an
-// active state provider approval in 48 of them. Derived here so the number
-// self-corrects the moment an approval issues.
+// honest number is 48.
+//
+// Audit 2026-07-22: the earlier fix got the count right but broke the
+// DISCLOSURE. It filtered New York out of the population BEFORE looking for
+// pending approvals, so the pending list contained only Washington and the page
+// read "...in 49 states. Our state provider approval is active in 48 of them.
+// Our Washington provider approval is still pending." A reader takes that to
+// mean Washington is the single outstanding approval. It is not: recounted
+// directly from states.ts, there are 50 state records and
+// providerApprovalNumber === "PENDING" in exactly two of them, new-york (line
+// 5835) and washington (line 8507). Silently dropping New York from the
+// denominator also contradicted this same page, which lists New York among the
+// pass-guarantee exclusions via passGuaranteeExcludedLabel() with no
+// explanation of why.
+//
+// Now derived over ALL states, so both pending approvals are always named and
+// the whole block self-corrects the moment an approval issues. Prelicensing is
+// held only where isPrelicensingHeld() is true (PENDING approval AND a numeric
+// prelicensing hour requirement) — New York today; Washington requires no
+// prelicensing on any line, so it is not held.
 // ---------------------------------------------------------------------------
-const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
-const SERVED_STATE_COUNT = SERVED_STATES.length;
-const APPROVAL_PENDING_STATES = SERVED_STATES.filter(
+const ALL_STATES = Object.values(STATES);
+const TOTAL_STATE_COUNT = ALL_STATES.length;
+const APPROVAL_PENDING_STATES = ALL_STATES.filter(
   (s) => s.providerApprovalNumber === "PENDING"
 );
-const APPROVED_STATE_COUNT = SERVED_STATE_COUNT - APPROVAL_PENDING_STATES.length;
+const APPROVED_STATE_COUNT = TOTAL_STATE_COUNT - APPROVAL_PENDING_STATES.length;
+// Split the pending states by what the pending approval actually costs the
+// reader, so neither consequence is asserted about the wrong state. A held state
+// has no prelicensing enrollment at all; a pending-but-not-held state sells the
+// course but cannot report the completion to the DOI yet — the same distinction
+// /license-renewal-guide draws with its "CE approval pending — not yet
+// DOI-reportable" row badge.
+const PRELICENSING_HELD_STATES = APPROVAL_PENDING_STATES.filter(isPrelicensingHeld);
+const CE_REPORTING_PENDING_STATES = APPROVAL_PENDING_STATES.filter(
+  (s) => !isPrelicensingHeld(s)
+);
 
 /** "A", "A and B", "A, B, and C" — for naming pending states in prose. */
 const formatStateNames = (states: { name: string }[]): string => {
@@ -24,18 +53,41 @@ const formatStateNames = (states: { name: string }[]): string => {
   return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
 };
 
-// No leading space: JSX already inserts one between the preceding text line and
-// this expression. Empty string renders nothing once every approval has issued.
+// No leading space in the string itself — the JSX site supplies an explicit
+// {" "} separator, because Babel strips the trailing whitespace of a text line
+// that ends in a newline and would otherwise run this note straight onto the
+// preceding sentence. Empty string renders nothing once every approval issues.
 const PENDING_APPROVAL_NOTE =
   APPROVAL_PENDING_STATES.length === 0
     ? ""
-    : `Our ${formatStateNames(APPROVAL_PENDING_STATES)} provider approval is still pending.`;
+    : [
+        `Approval is still pending in ${formatStateNames(
+          APPROVAL_PENDING_STATES
+        )}.`,
+        PRELICENSING_HELD_STATES.length > 0 &&
+          `Prelicensing in ${formatStateNames(
+            PRELICENSING_HELD_STATES
+          )} is not open for enrollment yet.`,
+        CE_REPORTING_PENDING_STATES.length > 0 &&
+          `CE completions in ${formatStateNames(
+            CE_REPORTING_PENDING_STATES
+          )} are not yet reportable to the state.`,
+      ]
+        .filter(Boolean)
+        .join(" ");
+
+// The 93% figure's real cohort, matching the methodology disclosed on /pass-rates.
+// Reused everywhere the rate appears so the qualifier can't be silently truncated
+// again: the short form ("students who complete the course") dropped the material
+// 80%+-practice-exam condition and overstated who the 93% applies to.
+const PASS_RATE_COHORT =
+  "students who completed the full course, finished the recommended hours, and scored 80%+ on the practice exam three consecutive times before testing";
 
 export const metadata: Metadata = {
   title: {
     absolute: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
   },
-  description: `JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% pass rate among students who complete the course, 20,000+ students trained, state-approved in ${APPROVED_STATE_COUNT} states.`,
+  description: `JustInsurance press releases and media appearances. Justin vom Eigen featured on NASDAQ TradeTalks; press release syndicated to Yahoo Finance. 93% pass rate among students who complete the full course and recommended practice; 20,000+ students trained; state-approved in ${APPROVED_STATE_COUNT} states.`,
   robots: "index, follow",
   alternates: {
     canonical: "https://justinsuranceco.com/press",
@@ -43,7 +95,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
     description:
-      "JustInsurance press coverage and media mentions. Featured on NASDAQ and Yahoo Finance for our 93% pass-rate breakthrough (among students who complete the course).",
+      "JustInsurance press releases and media appearances. Justin vom Eigen featured on NASDAQ TradeTalks. 93% pass rate among students who complete the full course and recommended practice.",
     url: "https://justinsuranceco.com/press/",
     siteName: "JustInsurance",
     type: "website",
@@ -58,7 +110,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Press & Media | JustInsurance",
     description:
-      "Featured on NASDAQ and Yahoo Finance for our 93% pass-rate breakthrough (among students who complete the course) in insurance licensing education.",
+      "Justin vom Eigen featured on NASDAQ TradeTalks. 93% pass rate among students who complete the full course and recommended practice in insurance licensing education.",
     images: ["/og-image.png"],
   },
 };
@@ -81,7 +133,7 @@ const pressSchema = {
     url: "https://www.globenewswire.com",
   },
   description:
-    "JustInsurance announces a 93% pass rate (among students who complete the course) for insurance licensing exams, with 20,000+ students trained.",
+    "JustInsurance announces a 93% pass rate (among students who complete the full course and recommended practice) for insurance licensing exams, with 20,000+ students trained.",
   about: {
     "@type": "Organization",
     name: "JustInsurance LLC",
@@ -104,7 +156,7 @@ const MEDIA_OUTLETS = [
   {
     name: "Yahoo Finance",
     logo: null,
-    description: "Press release coverage",
+    description: "Press release syndication",
     url: "https://finance.yahoo.com/news/justinsurance-unveils-93-pass-rate-160000549.html",
   },
   {
@@ -120,7 +172,7 @@ const MEDIA_OUTLETS = [
 // unqualified growth figure is the kind of claim we cannot defend, so it is out
 // rather than merely footnoted.
 const PRESS_STATS = [
-  { value: "93%", label: "Student Pass Rate" },
+  { value: "93%", label: "Student Pass Rate*" },
   { value: String(APPROVED_STATE_COUNT), label: "State Approvals" },
   { value: "20,000+", label: "Students Trained" },
 ];
@@ -143,9 +195,9 @@ export default function PressPage() {
             JustInsurance in the News
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Our 93% pass-rate breakthrough (among students who complete the course) has been
-            recognized by leading financial and business media as a solution to the U.S.
-            insurance agent shortage.{" "}
+            Our 93% first-attempt pass rate (among {PASS_RATE_COHORT}) was
+            announced in a company press release distributed via GlobeNewswire on
+            December 10, 2025 and syndicated to Yahoo Finance.{" "}
             <Link href="/pass-rates" className="underline hover:text-gold">
               See methodology
             </Link>
@@ -158,7 +210,7 @@ export default function PressPage() {
       <section className="bg-gray-50 border-b border-gray-200 py-10">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-xs font-semibold text-gray-500 uppercase tracking-widest mb-8">
-            As Seen On
+            Press Releases &amp; Appearances
           </p>
           <div className="flex flex-wrap justify-center items-center gap-8 md:gap-16">
             {MEDIA_OUTLETS.map((outlet) => (
@@ -194,7 +246,8 @@ export default function PressPage() {
             ))}
           </div>
           <p className="text-center text-xs text-gray-500 mt-6">
-            *93% pass rate among students who complete the course.{" "}
+            *93% pass rate among {PASS_RATE_COHORT}. Individual results vary by
+            preparation, state, and line of authority.{" "}
             <Link href="/pass-rates" className="underline hover:text-navy">
               See how we calculate this
             </Link>
@@ -265,7 +318,7 @@ export default function PressPage() {
                 JustInsurance LLC announced a landmark milestone in insurance
                 education: a{" "}
                 <strong>93% first-attempt pass rate</strong> for insurance
-                licensing exams (among students who complete the course).
+                licensing exams (among {PASS_RATE_COHORT}).
               </p>
 
               {/* Product description rewritten to match what we actually sell.
@@ -299,8 +352,8 @@ export default function PressPage() {
               </blockquote>
 
               <p>
-                JustInsurance has trained over{" "}
-                <strong>20,000 students</strong> in life, health, and life
+                JustInsurance has trained{" "}
+                <strong>20,000+ students</strong> in life, health, and life
                 &amp; health insurance prelicensing and continuing education
                 (CE). Based on the company&apos;s internal completion tracking,
                 the platform&apos;s students also show{" "}
@@ -324,9 +377,10 @@ export default function PressPage() {
               <p>
                 With prelicensing courses at <strong>$199</strong> and CE
                 packages <strong>from $39</strong> (CE package pricing varies by
-                state), JustInsurance offers affordable, all-inclusive
-                pass-guarantee pricing, with same-day DOI reporting in most
-                cases after course completion.
+                state), JustInsurance offers affordable pass-guarantee pricing in
+                eligible states (the guarantee is not offered in{" "}
+                {passGuaranteeExcludedLabel()}), with same-day DOI reporting in
+                most cases after course completion.
               </p>
             </div>
 
@@ -411,14 +465,14 @@ export default function PressPage() {
                 JustInsurance LLC (d/b/a Your Insurance License) is an online
                 insurance education provider offering prelicensing and
                 continuing education (CE) courses for life and health insurance
-                agents in {SERVED_STATE_COUNT} states. Our state provider
-                approval is active in {APPROVED_STATE_COUNT} of them.
-                {PENDING_APPROVAL_NOTE}
+                agents. Our state provider approval is active in{" "}
+                {APPROVED_STATE_COUNT} of the {TOTAL_STATE_COUNT} states.
+                {" "}{PENDING_APPROVAL_NOTE}
               </p>
               <p className="text-gray-600 text-sm leading-relaxed mb-4">
                 Founded by Justin vom Eigen in Pembroke Pines, Florida,
-                JustInsurance has trained over 20,000 students and maintains a
-                93% first-attempt exam pass rate (among students who complete the course).
+                JustInsurance has trained 20,000+ students and maintains a
+                93% first-attempt exam pass rate (among {PASS_RATE_COHORT}).
               </p>
               <ul className="text-sm text-gray-600 space-y-2">
                 <li className="flex items-center gap-2">
@@ -431,7 +485,7 @@ export default function PressPage() {
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  93% first-attempt pass rate (course completers)
+                  93% first-attempt pass rate (among {PASS_RATE_COHORT})
                 </li>
                 <li className="flex items-center gap-2">
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">

@@ -122,9 +122,13 @@ Points remain on record for a specified surcharge period
 
 July 1, 2025 SDIP changes:
 
-Surcharge period for insurance points and speeding convictions (10 mph or less over limit): Increased from 3 years to 5 years
+Surcharge period for serious convictions: For convictions occurring on or after July 1, 2025 that carry 4 or more SDIP insurance points — other than speeding in excess of the posted speed limit, meaning over 75 mph where the limit is below 70 and over 80 mph where the limit is 70 or higher — the surcharge now applies for 5 policy years instead of 3.
 
-Inexperienced operator surcharge: Increased from 3 years to 8 years for newly insured motorists
+Lookback period for minor speeding and PJCs: Speeding 10 mph or less over the limit and Prayers for Judgment Continued are still waived for insurance purposes, but the clean-record lookback a driver must satisfy to earn that waiver increased from 3 years to 5 years for violations and PJCs occurring after July 1, 2025.
+
+Inexperienced operator surcharge: Increased from 3 years to 8 years for drivers first licensed on or after July 1, 2025. The surcharges in years four through eight are progressively lower than in years one through three.
+
+Note the distinction: the 5-year surcharge extension applies only to 4-point-or-greater convictions and expressly excludes excessive-speeding convictions. Minor speeding convictions were not moved to a 5-year surcharge — what changed for them is the lookback window for the waiver.
 
 Why SDIP matters for producers:
 
@@ -134,7 +138,7 @@ Understanding SDIP helps explain premium changes to clients
 
 High-risk drivers may need specialty market options
 
-New drivers face 8-year inexperienced operator surcharges — important for families with teen drivers
+Drivers newly licensed on or after July 1, 2025 face an 8-year inexperienced operator surcharge — important for families with teen drivers
 
 ## Electronic Insurance Monitoring
 
@@ -214,7 +218,7 @@ One-party consent for recording: North Carolina is a one-party consent state for
 
 Proof of financial responsibility: Required at registration renewal, registration, and vehicle inspections.
 
-Texting laws: Illegal to use a mobile phone while operating a vehicle in North Carolina.
+Distracted driving: Under N.C.G.S. 20-137.4A it is illegal to manually enter or read a text message or email while driving — an infraction carrying a $100 fine plus court costs, with no license points and no insurance surcharge assessed. North Carolina is not a hands-free state: the statute expressly provides that nothing in it prohibits the use of hands-free technology, and drivers 18 and older may still lawfully hold a phone for a call. Drivers under 18 (N.C.G.S. 20-137.3) and school bus drivers are barred from all mobile phone use behind the wheel. Producers should be careful not to overstate the rule when discussing distracted-driving exposure with clients.
 
 ## Rate Bureau Forms and NC-Specific Provisions
 
@@ -237,11 +241,11 @@ Producers working with auto clients should be familiar with the NC Rate Bureau f
 - What are North Carolina's new auto insurance minimums? Effective July 1, 2025, North Carolina requires 50/100/50 — $50,000 bodily injury per person, $100,000 per accident, and $50,000 property damage liability. UM/UIM coverage is mandatory at the same minimums.
 - What is pure contributory negligence in North Carolina? Pure contributory negligence means that if you're even 1% at fault for an accident, you cannot recover any damages from the other party. North Carolina is one of only a few states still using this strict standard.
 - Can I waive UM/UIM coverage in North Carolina? No. Uninsured/underinsured motorist coverage is mandatory in North Carolina and cannot be waived. It must be carried at the same minimums as liability coverage (50/100/50).
-- What is the Safe Driver Incentive Plan? The SDIP is North Carolina's points-based system that assigns insurance points for at-fault accidents and moving violations, directly increasing premiums. As of July 1, 2025, surcharge periods increased to 5 years for violations and 8 years for newly insured/inexperienced operators.
+- What is the Safe Driver Incentive Plan? The SDIP is North Carolina's points-based system that assigns insurance points for at-fault accidents and moving violations, directly increasing premiums. As of July 1, 2025, the surcharge period runs 5 years (up from 3) for convictions assigned 4 or more insurance points, other than speeding in excess of the posted speed limit; the waiver lookback for speeding 10 mph or less and for PJCs also increased from 3 years to 5; and the inexperienced operator surcharge runs 8 years for drivers first licensed on or after that date.
 - Does North Carolina require PIP (Personal Injury Protection)? No. North Carolina is an at-fault state, not a no-fault state, and does not require PIP. Medical Payments (MedPay) coverage is available as an optional add-on covering your own medical expenses regardless of fault.
 
 ## Serve NC Auto Insurance Clients With Confidence
 
-North Carolina auto insurance is more legally complex than most clients realize — from pure contributory negligence to mandatory UM/UIM to the new 50/100/50 minimums. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses provide comprehensive coverage of auto insurance principles and NC-specific auto law.
+North Carolina auto insurance is more legally complex than most clients realize — from pure contributory negligence to mandatory UM/UIM to the new 50/100/50 minimums. Producers who already hold a North Carolina property and casualty license can keep this NC-specific auto knowledge current through JustInsurance's North Carolina [property and casualty continuing education](/north-carolina/continuing-education).
 
-Enroll today and develop the auto insurance expertise North Carolina clients need.
+Master these provisions and serve North Carolina auto clients with the confidence they need.

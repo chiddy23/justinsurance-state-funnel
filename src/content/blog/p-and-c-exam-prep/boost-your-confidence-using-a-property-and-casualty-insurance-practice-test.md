@@ -83,7 +83,7 @@ Begin your study schedule well in advance of your desired exam date. Break down 
 
 If you’re pressed for time, focus on the areas that historically cause the most trouble for exam-takers, including tricky policy language and state-specific rules. By deliberately reinforcing your biggest weaknesses, you’ll have a better shot at a balanced performance on exam day. Over-focusing on just one area of insurance can leave you blindsided later, so variety is key.
 
-As you build your plan, consider resources from JustInsurance. They offer a range of study materials designed for busy learners, including practice tests and succinct course modules. Their platform provides you with immediate feedback on each practice exam, along with targeted visuals to help you remember important regulations and coverage details.
+One note on where to source your materials, since it affects what you should expect from us: JustInsurance does not currently offer Property and Casualty prelicensing or a Property and Casualty practice exam. Our prelicensing courses and practice exams cover Life, Health, and Life & Health only. For P&C exam prep, work from your state insurance department's published content outline — every state publishes one, and it tells you exactly how many questions come from each topic — and pair it with a question bank from a provider that specifically covers P&C in your state.
 
 Finally, remember to incorporate breaks and rest days. Regular practice is essential, but giving your brain time to recharge can solidify what you’ve learned. Consistency and moderation usually beat marathon cramming sessions.
 
@@ -98,7 +98,7 @@ Below are some frequently asked questions that come up when people begin prepari
 -   Can I retake the exam if I don’t pass on the first try?  
     Yes, most states allow multiple attempts, but you may need to wait a specified period or pay a retake fee. Make sure to confirm this with your state’s licensing authority.
 -   How important is pre-licensing education?  
-    [Pre-licensing courses](/prelicensing) often cover everything you need to know, and many states make them mandatory. Even if they aren’t required in your jurisdiction, a solid course can drastically improve your exam readiness.
+    Pre-licensing courses often cover everything you need to know, and many states make them mandatory for Property and Casualty. Even if they aren’t required in your jurisdiction, a solid course can drastically improve your exam readiness. Check your state insurance department’s approved-provider list for P&C courses — JustInsurance prelicensing covers Life, Health, and Life & Health, not P&C.
 -   When can I start using practice tests?  
     You can start practice tests after learning the basics of each topic, or you can integrate them into every stage of your study process. Most people benefit from a blend of early and continuous practice to track progress over time.
 
@@ -106,6 +106,6 @@ By addressing these common worries, you can build a more confident mindset and d
 
 Remember, a property and casualty insurance practice test is a powerful tool, but it’s not your only path to exam success. Consistent study, well-organized review materials, and a calm mindset all play major roles, too.
 
-Ready to take the next step? Explore comprehensive practice test packages and study guides through JustInsurance. Their resources are designed to fit a busy schedule and include on-demand help if you need extra support. Putting in the effort now offers long-term rewards: not only will you pass the exam, but you’ll also enter your new career with a stronger insurance foundation.
+Ready to take the next step? Pull your state’s official P&C content outline, build your schedule around its topic weightings, and keep taking timed practice sets until your scores are consistently comfortable rather than borderline. Putting in the effort now offers long-term rewards: not only will you pass the exam, but you’ll also enter your new career with a stronger insurance foundation. And once you are licensed, JustInsurance offers state-approved [Property & Casualty continuing education](/property-and-casualty-ce) in a growing list of states for your renewals.
 
 Put these tips into action today, and watch your confidence grow as test day approaches!

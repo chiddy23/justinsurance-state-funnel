@@ -6,6 +6,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
 import PressLogosBar from "@/components/PressLogosBar";
 import TrustBar from "@/components/TrustBar";
+import { STATES, APPLICATION_BEFORE_EXAM_STATES } from "@/lib/states";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 
 // Title/meta/answer rewrite 2026-06-08 — featured-snippet capture.
@@ -18,7 +19,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArti
 export const metadata: Metadata = {
   title: { absolute: "Insurance License in 2–6 Weeks: Step-by-Step Timeline" },
   description:
-    "Most people get licensed in 2–6 weeks. Full-time study in FL, TX, or GA can cut that to under 2 weeks. Courses from $199. Step-by-step timeline inside.",
+    "Most people get licensed in 2–6 weeks. Full-time study in a fast-issuing state like TX or FL can cut that to under 2 weeks. Courses from $199. Step-by-step timeline inside.",
   alternates: { canonical: "https://justinsuranceco.com/how-long-to-get-insurance-license" },
 };
 
@@ -27,21 +28,73 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "How Long to Get an Insurance License", url: "https://justinsuranceco.com/how-long-to-get-insurance-license" },
 ]);
 
+// ---------------------------------------------------------------------------
+// Facts derived from states.ts instead of hand-typed. Every figure below used
+// to be written out by hand here and had drifted from the data:
+//   • the application-fee range read "$30 to $200" — 8 states charge less than
+//     $30 (Montana $0, Michigan and Ohio $10, Arkansas and Virginia $15,
+//     Maine/South Carolina/South Dakota $25) and three charge more than $200
+//     (Massachusetts $225, Illinois $215, New Hampshire $210);
+//   • the exam copy told every visitor their state uses Pearson VUE or PSI —
+//     six do not (MD/UT/VT/VA use Prometric, Alabama uses the University of
+//     Alabama, Kentucky administers the exam itself), and no state lets a
+//     candidate pick a vendor;
+//   • the prelicensing card advertised approval "nationwide" while New York and
+//     Washington provider approval is still PENDING in the same data.
+// Deriving keeps this page in lockstep with the 50 state pages.
+// ---------------------------------------------------------------------------
+const ALL_STATES = Object.values(STATES);
+
+function listAnd(items: string[]): string {
+  if (items.length <= 1) return items.join("");
+  if (items.length === 2) return `${items[0]} and ${items[1]}`;
+  return `${items.slice(0, -1).join(", ")} and ${items[items.length - 1]}`;
+}
+
+const feeByState = ALL_STATES
+  .map((s) => ({ name: s.name, fee: Number(s.applicationFee) }))
+  .filter((e) => Number.isFinite(e.fee));
+const lowestFee = feeByState.reduce((a, b) => (b.fee < a.fee ? b : a));
+const highestFee = feeByState.reduce((a, b) => (b.fee > a.fee ? b : a));
+// e.g. "$0 in Montana to $225 in Massachusetts"
+const APPLICATION_FEE_RANGE = `$${lowestFee.fee} in ${lowestFee.name} to $${highestFee.fee} in ${highestFee.name}`;
+
+const PEARSON_COUNT = ALL_STATES.filter((s) => /pearson/i.test(s.examInfo.examProvider)).length;
+const PSI_COUNT = ALL_STATES.filter((s) => /\bPSI\b/i.test(s.examInfo.examProvider)).length;
+const PROMETRIC_STATES = ALL_STATES.filter((s) => /prometric/i.test(s.examInfo.examProvider)).map((s) => s.name);
+// Alabama and Kentucky are named in prose because each is the only state with
+// its provider (University of Alabama College of Continuing Studies, verified
+// at training.ua.edu/insurance-testing; Kentucky DOI eServices, verified at
+// insurance.ky.gov). Counts and the Prometric list are derived above.
+const EXAM_VENDOR_NOTE = `Pearson VUE (${PEARSON_COUNT} states) and PSI (${PSI_COUNT}) run most state insurance exams, but not all of them: ${listAnd(PROMETRIC_STATES)} test through Prometric, Alabama through the University of Alabama College of Continuing Studies, and Kentucky through the Department of Insurance itself.`;
+
+// Provider approval still outstanding — these states may not be advertised as approved.
+const PENDING_APPROVAL_STATES = ALL_STATES
+  .filter((s) => s.providerApprovalNumber === "PENDING")
+  .map((s) => s.name);
+
+// Of the four states that require the license application to be on file before
+// the exam can be scheduled, these are the ones with no prelicensing mandate —
+// i.e. the ones that fall inside the "other 32 states" in the FAQ below.
+const APPLY_BEFORE_EXAM_NO_COURSE_STATES = APPLICATION_BEFORE_EXAM_STATES
+  .filter((slug) => typeof STATES[slug].prelicensing.life.hours !== "number")
+  .map((slug) => STATES[slug].name);
+
 const faqs = [
   {
     question: "How long does it take to get an insurance license?",
     answer:
-      "For most people, getting an insurance license takes 2 to 6 weeks from enrollment to an active license number. Full-time students in real-time-issuance states like Florida, Texas, and Georgia can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. The four phases are prelicensing coursework, exam scheduling and sitting, fingerprinting and background check, and license application and state issuance.",
+      "For most people, getting an insurance license takes 2 to 6 weeks from enrollment to an active license number. Full-time students in fast-issuing states like Texas (about 1-2 business days to issue) or Florida (2-5) can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. The four phases are prelicensing coursework, exam scheduling and sitting, fingerprinting and background check, and license application and state issuance.",
   },
   {
     question: "How fast can you get an insurance license?",
     answer:
-      "The typical range is 2 to 6 weeks. The fastest realistic case is under 2 weeks, achievable with full-time study in a real-time-issuance state like Florida, Texas, or Georgia. To hit that pace: book fingerprints in week 1 so the background check runs in parallel with coursework, schedule the state exam the day you finish the course, and apply through NIPR within 24 hours of passing. Real-time-issuance states post the active license number within 1 to 2 business days of a clean application — but most candidates, especially those studying part-time, should expect the fuller 2-to-6-week range.",
+      "The typical range is 2 to 6 weeks. The fastest realistic case is under 2 weeks, achievable with full-time study in a state that turns applications around quickly, such as Texas (about 1-2 business days) or Florida (2-5). To hit that pace: book fingerprints in week 1 so the background check runs in parallel with coursework, schedule the state exam the day you finish the course, and apply through NIPR within 24 hours of passing. The quickest states post an active license number within a couple of business days of a clean application, but others take far longer — Georgia runs about 14 business days and Arizona up to 30 — so check your own state. Most candidates, especially those studying part-time, should expect the fuller 2-to-6-week range.",
   },
   {
     question: "How long does an insurance prelicensing course take?",
     answer:
-      "20 to 52 hours of study, completable in 3 days to 3 weeks depending on state and pace. Only 18 states require prelicensing at all; where required, hours vary by state and line of authority. California requires 12 hours of Ethics and Code only (post-AB 943). Texas, Pennsylvania, Arizona, and a handful of other states have no prelicensing requirement at all. A motivated full-time student can clear a 40-hour combined Life & Health course in 5 to 7 days.",
+      "Where a course is required, 8 to 100 hours of study depending on the state and lines you carry, completable in a few days to about 3 weeks. Only 18 of the 50 states require prelicensing at all; where required, hours vary widely — from 8 hours per line in Georgia and a single 12-hour course in California up to 50 per line in Colorado. California requires 12 hours of Ethics and Code only (post-AB 943). Texas, Pennsylvania, Arizona, and a handful of other states have no prelicensing requirement at all. A motivated full-time student can clear a 40-hour combined Life & Health course in 5 to 7 days.",
   },
   {
     question: "How long is an insurance license good for?",
@@ -56,17 +109,25 @@ const faqs = [
   {
     question: "What is the fastest way to get an insurance license?",
     answer:
-      "Get fingerprinted before you finish your course, schedule your state exam the same day you complete the final chapter, and apply for your license through NIPR within 24 hours of passing. In real-time-issuance states like Florida, Texas, and Georgia you can hold an active license within 2 to 3 weeks of enrollment if you study aggressively.",
+      "Get fingerprinted before you finish your course, schedule your state exam the same day you complete the final chapter, and apply for your license through NIPR within 24 hours of passing. In fast-issuing states like Texas or Florida you can hold an active license within 2 to 3 weeks of enrollment if you study aggressively. Georgia is slower than its reputation — about 14 business days for issuance alone.",
   },
   {
     question: "Do I need to finish the prelicensing course before I take the exam?",
     answer:
-      "Only in the states that mandate it — 17 of the 49 we serve. In those states you must complete a state-approved prelicensing course and receive a certificate of completion before you are eligible to schedule the state licensing exam, and the certificate is transmitted electronically to the state or exam vendor in most of them. In the other 32 states you can schedule the exam directly.",
+      // "You can schedule the exam directly" was false for two of those 32:
+      // North Carolina and Kansas require the license application to be on file
+      // with the DOI first (APPLICATION_BEFORE_EXAM_STATES in states.ts).
+      `Only in the states that mandate it — 18 of the 50 states. In those states you must complete a state-approved prelicensing course and receive a certificate of completion before you are eligible to schedule the state licensing exam, and the certificate is transmitted electronically to the state or exam vendor in most of them. In the other 32 states no course certificate is required to sit the exam — but ${listAnd(APPLY_BEFORE_EXAM_NO_COURSE_STATES)} still require you to submit your license application to the state before you can schedule it.`,
   },
   {
     question: "How long are exam results good for?",
     answer:
-      "Most states require you to apply for your license within 12 months of passing the exam. Miss that window and you have to retake the test. A few states have shorter windows — for example, Florida requires license application within 12 months and the prelicensing certificate itself expires 12 months after course completion.",
+      // The prior copy said Florida's PRELICENSING CERTIFICATE expires 12 months
+      // after course completion. Licensing sources put the Florida Course
+      // Completion Certificate at FOUR years; the 12-month clock attaches to the
+      // EXAM PASS, not the certificate. Owner-reviewed 2026-07-20. Certificate
+      // validity is stated per state from states.ts rather than asserted here.
+      "Most states require you to apply for your license within 12 months of passing the exam — miss that window and you retake the test. Certificate validity is a separate clock and varies a lot: Indiana's prelicensing certificate is good for about 6 months and Ohio's for 180 days, while Florida's course completion certificate runs far longer. Check your state's page for both windows before you plan your timeline.",
   },
   {
     question: "How long does the background check take?",
@@ -95,7 +156,7 @@ const phases = [
     title: "Exam Scheduling and Sitting",
     duration: "1 – 14 days",
     body:
-      "Pearson VUE and PSI both post next-day availability in most metro areas. Rural candidates or combined Life/Health test-takers may wait 5 to 10 days for an open seat. Online proctored exams through Pearson VUE OnVUE and PSI Bridge often have slots within 24 hours. Results are delivered on-screen at the end of the exam.",
+      `${EXAM_VENDOR_NOTE} In the Pearson VUE and PSI states, next-day availability is common in metro areas, and the online proctored options (OnVUE and PSI Bridge) often have slots within 24 hours. Rural candidates or combined Life/Health test-takers may wait 5 to 10 days for an open seat. Results are delivered on-screen at the end of the exam.`,
   },
   {
     num: "03",
@@ -109,37 +170,60 @@ const phases = [
     title: "License Application and State Issuance",
     duration: "Same day – 4 weeks",
     body:
-      "You submit your license application through the National Insurance Producer Registry (NIPR) at nipr.com or directly through your state's DOI portal. Application fees run $30 to $200 depending on the state. Real-time-issuance states post an active license number within minutes of a clean application. Batch-processing states review applications in weekly or biweekly cycles.",
+      `You submit your license application through the National Insurance Producer Registry (NIPR) at nipr.com or directly through your state's DOI portal. State application fees vary widely — from ${APPLICATION_FEE_RANGE} — and are separate from the exam fee and any NIPR transaction fee. Processing time varies widely too — from about 1–2 business days in Texas to as long as 30 days in Arizona — so check your state's page for its current figures rather than assuming same-day issuance.`,
   },
 ];
 
-const stateTimes = [
-  { state: "Florida", hours: "60 hr combined 2-15", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "MyProfile portal + fingerprints through IdentoGO" },
-  { state: "Texas", hours: "Not required (optional)", issuance: "Real-time via Sircon/NIPR", total: "2–4 weeks", notes: "IdentoGO fingerprints; no prelicensing mandate" },
-  { state: "Georgia", hours: "8 hr per line (16 combined, post-Jun 2025)", issuance: "Real-time via NIPR", total: "1–2 weeks", notes: "Shortest prelicensing in the Southeast" },
-  { state: "California", hours: "12 hr Ethics & Code (post-AB 943)", issuance: "Batch review", total: "4–8 weeks", notes: "Live Scan fingerprints, CDI manual review common" },
-  { state: "New York", hours: "20 hr per line (40 combined)", issuance: "Batch review", total: "6–10 weeks", notes: "DFS processes applications in weekly cycles" },
-  { state: "Illinois", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "IDOI issues within 48 hours of clean app" },
-  { state: "Ohio", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "ODI uses Sircon for producer licensing" },
-  { state: "Pennsylvania", hours: "Not required (optional)", issuance: "Batch review", total: "4–6 weeks", notes: "PID reviews applications weekly" },
-  { state: "North Carolina", hours: "Not required (optional)", issuance: "Batch review", total: "4–7 weeks", notes: "NCDOI manual review standard" },
-  { state: "Arizona", hours: "Not required (optional)", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "DIFI posts licenses within 1 business day" },
-  { state: "Michigan", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "DIFS issues quickly after clean background" },
-  { state: "Washington", hours: "Not required (optional)", issuance: "Batch review", total: "4–6 weeks", notes: "OIC uses PSI for testing" },
+// The issuance and total columns were hand-written and had drifted badly from the
+// data: Arizona was advertised as "real-time ... within 1 business day" against an
+// applicationProcessingTime of 30 days, New York was labelled a 6-10 week batch
+// state against 1-5 business days, and Georgia/Michigan were called real-time
+// against 14 and 14-21 business days. Derive both from states.ts so the table can
+// never contradict the state pages again. The `notes` column keeps only
+// non-speed facts (portals, fingerprint vendors); every speed claim it used to
+// carry was unsupported.
+const TABLE_STATES: Array<{ slug: string; hours: string; notes: string }> = [
+  { slug: "florida", hours: "60 hr combined 2-15", notes: "MyProfile portal; fingerprints through IdentoGO" },
+  { slug: "texas", hours: "Not required (optional)", notes: "IdentoGO fingerprints; no prelicensing mandate" },
+  // "Shortest prelicensing hours in the Southeast" was false: NC, SC, TN, AL,
+  // VA and LA require no prelicensing at all (prelicensing.life.hours =
+  // "None required (optional)" / "Not Required" in states.ts). Georgia's 8
+  // hours is the shortest MANDATORY requirement, not the shortest overall.
+  { slug: "georgia", hours: "8 hr per line (16 combined, post-Jun 2025)", notes: "Shortest mandatory prelicensing hours in the Southeast; NC, SC, TN, AL, VA and LA require none" },
+  { slug: "california", hours: "12 hr Ethics & Code (post-AB 943)", notes: "Live Scan fingerprints; CDI manual review" },
+  { slug: "new-york", hours: "20 hr per line (40 combined)", notes: "DFS producer licensing; provider approval pending" },
+  { slug: "illinois", hours: "20 hr per line (40 combined)", notes: "Part of the hours must be live, attendance-verified webinar" },
+  { slug: "ohio", hours: "20 hr per line (40 combined)", notes: "ODI uses Sircon for producer licensing" },
+  { slug: "pennsylvania", hours: "Not required (optional)", notes: "PID producer licensing" },
+  { slug: "north-carolina", hours: "Not required (optional)", notes: "Prelicensing mandate repealed (S.L. 2025-45)" },
+  { slug: "arizona", hours: "Not required (optional)", notes: "DIFI; PSI testing since Sept 2025" },
+  { slug: "michigan", hours: "20 hr per line (40 combined)", notes: "DIFS; per-exam passing scores (72/76/75)" },
+  { slug: "washington", hours: "Not required (optional)", notes: "OIC uses PSI for testing; provider approval pending" },
 ];
+
+const stateTimes = TABLE_STATES.map(({ slug, hours, notes }) => {
+  const s = STATES[slug];
+  return {
+    state: s.name,
+    hours,
+    issuance: s.applicationProcessingTime,
+    total: s.totalLicensingTime,
+    notes,
+  };
+});
 
 const weekPlan = [
   { week: "Week 1", title: "Enroll and start coursework", detail: "Register for a state-approved prelicensing course. Schedule a fingerprint appointment with IdentoGO or your state's vendor for the following week. Complete the first 40% of your course." },
   { week: "Week 2", title: "Finish coursework and get fingerprinted", detail: "Complete the remaining course modules. Attend your fingerprint appointment (about 15 minutes). Begin taking full-length practice exams under timed conditions." },
-  { week: "Week 3", title: "Practice exams and schedule the state exam", detail: "Score 80% or higher on three consecutive practice exams. Schedule your state exam through Pearson VUE (pearsonvue.com) or PSI (psiexams.com) for the earliest available slot — typically 2 to 5 days out." },
+  { week: "Week 3", title: "Practice exams and schedule the state exam", detail: "Score 80% or higher on three consecutive practice exams. Schedule your state exam through your state's testing vendor — Pearson VUE (pearsonvue.com), PSI (psiexams.com), Prometric, or a state-run testing program — for the earliest available slot, typically 2 to 5 days out." },
   { week: "Week 4", title: "Sit for the state exam", detail: "Arrive 15–30 minutes early. Exam runs 2 to 2.5 hours for single-line, up to 3 hours for combined Life & Health. Results are delivered on-screen. Submit your license application through NIPR the same day you pass." },
-  { week: "Weeks 5–6", title: "State review and license issuance", detail: "Real-time-issuance states post your active license number within 1 to 2 business days of submitting a clean application. Batch-processing states like California, New York, and Pennsylvania add 2 to 4 weeks of review time before posting." },
+  { week: "Weeks 5–6", title: "State review and license issuance", detail: "Turnaround is state-specific and does not follow an obvious pattern: Texas runs about 1-2 business days and New York 1-5, while Georgia takes roughly 14 business days, California and Pennsylvania 2-3 weeks, and Arizona up to 30 days. Check your state page for its current figure." },
   { week: "Weeks 6–8", title: "Carrier appointments", detail: "Once your license number is active, your appointing carriers submit their appointment paperwork through NIPR. Most appointments clear within 3 to 5 business days. You are authorized to quote and bind only after the appointment is on file." },
 ];
 
 const speedTips = [
   { title: "Book fingerprints in week 1, not after the exam", body: "Fingerprint results are valid for months in most states. Getting printed early means the background check runs in parallel with your coursework instead of stacking on top of it. This alone can shave 7 to 10 days off your total timeline." },
-  { title: "Schedule the state exam the day you finish the course", body: "Pearson VUE and PSI both show next-day availability in most metros. If you wait a week to schedule, you lose a week. Log in to your exam vendor's site the same day you get your course completion certificate." },
+  { title: "Schedule the state exam the day you finish the course", body: "Whichever vendor your state uses — Pearson VUE, PSI, Prometric, or a state-run testing program — open seats are commonly available within a day or two in metro areas. If you wait a week to schedule, you lose a week. Log in to your exam vendor's site the same day you get your course completion certificate." },
   { title: "Apply through NIPR, not paper", body: "The National Insurance Producer Registry (nipr.com) transmits your application to the state DOI electronically within minutes. Paper applications in states that still accept them add 1 to 3 weeks." },
   { title: "Disclose everything on the application", body: "State DOIs run FBI, state criminal, and judgment searches. A single undisclosed misdemeanor from 15 years ago can trigger a 4 to 8 week manual review and, in some states, an outright denial. Disclose, attach documentation, and keep moving." },
   { title: "Take the combined Life & Health exam if eligible", body: "One exam appointment, one fingerprint session, one application fee. Candidates who plan to sell both lines save 2 to 4 weeks by bundling instead of sitting two separate exams." },
@@ -184,7 +268,7 @@ const howToSchema = {
       "@type": "HowToStep",
       position: 2,
       name: "Schedule and pass the state exam",
-      text: "Book your exam through Pearson VUE or PSI as soon as you finish coursework. Next-day availability is common in metro areas. Results are delivered on-screen at the end of the exam.",
+      text: "Book your exam through your state's testing vendor as soon as you finish coursework — Pearson VUE or PSI in most states, Prometric in Maryland, Utah, Vermont and Virginia, the University of Alabama in Alabama, and the Department of Insurance itself in Kentucky. Next-day availability is common in metro areas. Results are delivered on-screen at the end of the exam.",
       timeRequired: "P14D",
     },
     {
@@ -198,7 +282,7 @@ const howToSchema = {
       "@type": "HowToStep",
       position: 4,
       name: "Submit license application via NIPR",
-      text: "Apply through the National Insurance Producer Registry (nipr.com) within 24 hours of passing the exam. Fees run $30 to $200. Real-time-issuance states post an active license number within minutes; batch-review states (CA, NY, PA, NC, WA) review in weekly cycles.",
+      text: `Apply through the National Insurance Producer Registry (nipr.com) within 24 hours of passing the exam. State application fees range from ${APPLICATION_FEE_RANGE}. Turnaround varies by state — roughly 1-2 business days in Texas up to 30 days in Arizona — so confirm your state's current processing time rather than assuming same-week issuance.`,
       timeRequired: "P4W",
       url: "https://nipr.com",
     },
@@ -237,7 +321,7 @@ export default function HowLongToGetInsuranceLicensePage() {
           </h1>
           <p className="text-sm text-blue-200/80 mb-4">Updated June 2026 · Reviewed by Justin vom Eigen, Licensed Insurance Agent</p>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto mb-8">
-            2 to 6 weeks for most candidates. Full-time students in real-time-issuance states like Florida, Texas, and Georgia can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. Here is the phase-by-phase breakdown, state comparison, and a realistic calendar.
+            2 to 6 weeks for most candidates. Full-time students in fast-issuing states like Texas (about 1-2 business days to issue) or Florida (2-5) can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. Here is the phase-by-phase breakdown, state comparison, and a realistic calendar.
           </p>
           <div className="inline-flex flex-wrap gap-3 justify-center">
             <Link href="/prelicensing" className="bg-gold text-navy font-bold px-6 py-3 rounded-lg hover:brightness-95 transition">
@@ -266,7 +350,7 @@ export default function HowLongToGetInsuranceLicensePage() {
           <div className="bg-gold/10 border-l-4 border-gold rounded-r-xl p-6">
             <p className="text-sm uppercase tracking-wider text-gold font-bold mb-2">The short answer</p>
             <p className="text-navy text-lg leading-relaxed">
-              For most people, getting an insurance license takes <strong>2 to 6 weeks</strong> from enrollment to an active license number. Full-time students in real-time-issuance states like Florida, Texas, and Georgia can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. The range exists because four independent stages — coursework, exam, background check, and state processing — each carry their own timeline, and states handle the final step very differently.
+              For most people, getting an insurance license takes <strong>2 to 6 weeks</strong> from enrollment to an active license number. Full-time students in fast-issuing states like Texas (about 1-2 business days to issue) or Florida (2-5) can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. The range exists because four independent stages — coursework, exam, background check, and state processing — each carry their own timeline, and states handle the final step very differently.
             </p>
           </div>
         </div>
@@ -352,13 +436,24 @@ export default function HowLongToGetInsuranceLicensePage() {
             Why Timelines Vary So Much Between States
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-            Three structural factors explain why one applicant in Florida is licensed in 14 days and another in New York is still waiting at day 50.
+            Three structural factors explain why one applicant is licensed in about two weeks while another waits far longer — Texas issues in roughly 1-2 business days and Arizona can take 30.
           </p>
           <div className="grid md:grid-cols-3 gap-6">
             <div className="bg-white rounded-xl p-6 border border-gray-100 shadow-sm">
-              <h3 className="font-bold text-navy mb-3">Real-Time vs Batch Issuance</h3>
+              <h3 className="font-bold text-navy mb-3">Issuance Speed Varies by State</h3>
               <p className="text-gray-600 text-sm leading-relaxed">
-                Florida, Texas, Georgia, Arizona, and Ohio push license numbers through NIPR within minutes of a clean application. California, New York, and Pennsylvania queue applications for weekly or biweekly DOI review cycles, which adds 1 to 3 weeks on the back end even when your paperwork is perfect.
+                {/* Owner-confirmed 2026-07-20 that the previous "within minutes"
+                    claim was wrong. It was also contradicted by our own data in
+                    both directions: Arizona was listed as fastest but records the
+                    longest time (30 days), and New York was listed as slow but is
+                    among the quickest (1-5 business days). Figures below come from
+                    states.ts applicationProcessingTime. */}
+                Processing time varies widely by state, and it does not track the
+                size of the state. Texas turns clean applications around in about
+                1&ndash;2 business days and New York in roughly 1&ndash;5, while
+                Georgia runs about 14 business days and Arizona can take up to 30
+                days. Check your state&apos;s page for its current processing time
+                before planning around a start date.
               </p>
             </div>
             <div className="bg-white rounded-xl p-6 border border-gray-100 shadow-sm">
@@ -426,7 +521,7 @@ export default function HowLongToGetInsuranceLicensePage() {
           <div className="mt-8 bg-navy/5 border border-navy/10 rounded-xl p-5 text-sm text-gray-700 leading-relaxed">
             <strong className="text-navy">Note on exam scheduling.</strong> Both{" "}
             <a href="https://home.pearsonvue.com/insurance" target="_blank" rel="noopener" className="underline">Pearson VUE</a> and{" "}
-            <a href="https://www.psiexams.com/" target="_blank" rel="noopener" className="underline">PSI Exams</a> publish real-time seat availability on their candidate portals. Check both vendors for your state — a few states use one, most use the other, and a handful let you pick.
+            <a href="https://www.psiexams.com/" target="_blank" rel="noopener" className="underline">PSI Exams</a> publish real-time seat availability on their candidate portals. {EXAM_VENDOR_NOTE} Check your own state page for the vendor it uses.
           </div>
         </div>
       </section>
@@ -440,11 +535,13 @@ export default function HowLongToGetInsuranceLicensePage() {
           <div className="grid md:grid-cols-2 gap-5">
             <Link href="/prelicensing" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Prelicensing Courses</h3>
-              <p className="text-gray-600 text-sm">$199 state-approved courses for Life, Health, and combined lines nationwide.</p>
+              {/* "nationwide" contradicted the NY/WA rows in the table above and
+                  the data behind them (providerApprovalNumber === "PENDING"). */}
+              <p className="text-gray-600 text-sm">$199 state-approved courses for Life, Health, and combined lines. {listAnd(PENDING_APPROVAL_STATES)} provider approval pending.</p>
             </Link>
             <Link href="/insurance-exam-guide" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Insurance Exam Guide</h3>
-              <p className="text-gray-600 text-sm">Exam format, passing scores, and study strategy for Pearson VUE and PSI.</p>
+              <p className="text-gray-600 text-sm">Exam format, passing scores, and study strategy for your state licensing exam.</p>
             </Link>
             <Link href="/practice-exam" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Practice Exams</h3>
@@ -471,11 +568,17 @@ export default function HowLongToGetInsuranceLicensePage() {
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-4">Bottom line</h2>
           <div className="space-y-4 text-gray-700 leading-relaxed">
+            {/* Was "Plan on 4 to 8 weeks", which contradicted the hero, the
+                short-answer callout and the first FAQ (2 to 6 weeks typical, 4
+                to 8 part-time). The component budget below sums to 4-9 weeks
+                only if the phases are run end to end; they overlap when
+                fingerprints are booked in week 1, which is what makes the 2-6
+                week typical case reachable. */}
             <p>
-              Plan on 4 to 8 weeks from enrollment to license issuance. Budget 1 to 3 weeks for your state-approved prelicensing course, 1 to 2 weeks to schedule and sit for the state exam through Pearson VUE or PSI, and 2 to 4 weeks for fingerprinting, background check, and state DOI review.
+              Plan on 2 to 6 weeks from enrollment to license issuance, or 4 to 8 weeks if you are studying part-time. Budget 1 to 3 weeks for your state-approved prelicensing course, 1 to 2 weeks to schedule and sit for the state exam through your state&apos;s testing vendor, and 2 to 4 weeks for fingerprinting, background check, and state DOI review — phases that overlap if you book fingerprints in week 1 instead of after the exam.
             </p>
             <p>
-              If you live in a real-time-issuance state — Florida, Texas, Georgia, Arizona, Ohio, Illinois, Michigan — and you push on every phase, a 14-to-21-day timeline is realistic. If you live in California, New York, Pennsylvania, or any state that batch-processes license applications, add 2 to 4 weeks on the back end and plan accordingly.
+              If you live in a state that issues quickly — Texas (about 1-2 business days), New York (1-5), Florida (2-5), Illinois (a few days) — and you push on every phase, a 14-to-21-day timeline is realistic. Slower states add real time on the back end: Ohio runs 7-10 business days, Georgia about 14, Michigan 14-21, California and Pennsylvania 2-3 weeks, and Arizona up to 30 days. Speed does not track the size of the state, so check your own state page rather than assuming.
             </p>
             <p>
               The single biggest delay most candidates create for themselves is waiting until after the exam to start fingerprinting. Book the print appointment in week 1, apply through{" "}
@@ -494,7 +597,7 @@ export default function HowLongToGetInsuranceLicensePage() {
       {/* CTA */}
       <CTABanner
         title="Ready to start the clock?"
-        subtitle="Pick your state and enroll in a prelicensing course today. Most students go from enrollment to an active license in 4 to 8 weeks."
+        subtitle="Pick your state and enroll in a prelicensing course today. Most students go from enrollment to an active license in 2 to 6 weeks — 4 to 8 if you are studying part-time."
         ctaText="Find Your State"
         ctaHref="/"
       />

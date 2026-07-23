@@ -7,7 +7,7 @@ import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
-import { credentialKindFromHours, meansNotRequired } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isPrelicensingHeld, meansNotRequired } from "@/lib/prelicensing-status";
 import {
   generateArticleSchemaWithReviewer,
   generateBreadcrumbSchema,
@@ -88,6 +88,22 @@ export default async function CostPage({
   // for the adjacent Provider Approval # badge.
   const isProviderApproved = stateData.providerApprovalNumber !== "PENDING";
 
+  // AVAILABILITY GATE — true only for a state that MANDATES prelicensing (a
+  // numeric hour requirement on any line) AND whose JustInsurance provider
+  // approval is still "PENDING" (New York today). This is the SAME signal that
+  // holds /[state]/prelicensing and renders the /new-york overview's
+  // "enrollment is not open yet" alert. It is deliberately NOT bare
+  // `=== "PENDING"`: Washington is also PENDING but requires no prelicensing,
+  // sells exam-prep, and shows no availability notice on its overview — so it
+  // must not show one on its cost page either. Reverts automatically the moment
+  // providerApprovalNumber is set to a real number. Gates the pending-approval
+  // disclosure below AND every purchase/price CTA on this page (the hero "Start
+  // Now for $199" button, the "Everything Included at $199" card, the closing
+  // "Start Your License for $199" CTA, and the all-in $199 cost FAQ) so a held
+  // state never presents a buyable $199 course. The factual state-fee breakdown
+  // table is left intact (reframed by the disclosure as planning reference).
+  const prelicensingHeld = isPrelicensingHeld(stateData);
+
   // 50 Ill. Adm. Code Part 3119 — Illinois-only: the approved short format
   // line is added to the cost-breakdown intro so this prelicensing surface
   // states the live-webinar + self-paced hybrid format. No rendered-output
@@ -129,9 +145,25 @@ export default async function CostPage({
   const applicationFeeDisplay = feeDisplay(stateData.applicationFee);
   const backgroundDisplay = feeDisplay(stateData.backgroundCheckCost);
 
+  // States that charge nothing store regulatory wording ("No fee required",
+  // "No separate fee") rather than a number, which read as "the No fee
+  // required background-check cost" in the FAQ prose below. Detect that case
+  // and reword instead of splicing the phrase in (audit 2026-07-20).
+  const backgroundIsFree =
+    backgroundDisplay !== "Included" &&
+    !/[0-9]/.test(String(stateData.backgroundCheckCost));
+
   const examLow = feeLow(stateData.examInfo.examFee) ?? 0;
   const appLow = feeLow(stateData.applicationFee) ?? 0;
-  const bgLow = feeLow(stateData.backgroundCheckCost) ?? 0;
+  // Only count the background-check fee toward the total when the cost table
+  // below actually prices that line. In states with no fingerprint/background
+  // requirement the row renders "Not required", so adding the fee anyway made
+  // the Estimated Total larger than the sum of the visible rows — e.g. Colorado
+  // showed $199 + exam + application with the background row "Not required",
+  // then a total that silently included a background charge (audit 2026-07-20).
+  const bgLow = meansNotRequired(stateData.fingerprintingNotes)
+    ? 0
+    : (feeLow(stateData.backgroundCheckCost) ?? 0);
 
   // Always include the $199 JustInsurance course: this page prices the "all-in
   // cost to get licensed THROUGH JustInsurance," and excluding it for optional-
@@ -165,9 +197,29 @@ export default async function CostPage({
 
   const paymentPlanAnswer = `JustInsurance ${stateData.name} prelicensing is a flat, one-time $199 per course — we do not currently offer payment plans or third-party financing. You pay the course price in full when you enroll. State exam fees, application fees, and fingerprinting are paid separately and directly to the testing vendor, the ${stateData.doiAbbr}, and the fingerprint provider.`;
 
-  const refundAnswer = `JustInsurance offers a 30-day refund policy (processing fee applies; unavailable after 50% course completion) on ${stateData.name} prelicensing courses — see our terms for full details. State-collected fees (exam fee, ${applicationFeeDisplay} application fee, ${backgroundDisplay === "Included" ? "background check" : backgroundDisplay} background check) are non-refundable once paid to the ${stateData.doiAbbr} or the testing vendor. Always confirm requirements before paying state fees.`;
+  const refundAnswer = `JustInsurance offers a 30-day refund policy (processing fee applies; unavailable after 50% course completion) on ${stateData.name} prelicensing courses — see our terms for full details. State-collected fees (exam fee, ${applicationFeeDisplay} application fee${backgroundIsFree ? `` : `, ${backgroundDisplay === "Included" ? "background check" : backgroundDisplay} background check`}) are non-refundable once paid to the ${stateData.doiAbbr} or the testing vendor. Always confirm requirements before paying state fees.`;
 
-  const totalCostAnswer = `Plan for about ${jiLowDisplay} all-in to get your ${stateData.name} insurance license through JustInsurance — compared with the ${stateData.totalCostRange} typical range in ${stateData.name}, which reflects higher-priced course options. That covers ${noPrelicensingRequired ? "the optional prelicensing course," : "prelicensing course,"} the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee, and the ${backgroundDisplay} background-check cost. ${meansNotRequired(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(".")[0].trim()}.`} JustInsurance's all-in price for the prelicensing portion is ${JI_PRICE_LABEL}.`;
+  // fid: this answer used to read "Plan for about {jiLowDisplay} all-in …
+  // compared with the {totalCostRange} typical range in {state}, which reflects
+  // higher-priced course options." Two problems:
+  //   1) In California and Florida, totalCostRange IS the JustInsurance figure
+  //      ("about $545 (course + state fees)" / "about $343 (course + state
+  //      fees)" — exactly 199 + exam + application + background), so the
+  //      sentence compared a number to itself.
+  //   2) "which reflects higher-priced course options" is a comparative price
+  //      claim about other providers that no source in this repo substantiates —
+  //      totalCostRange is our own estimate of state fees plus our own course,
+  //      not an independently sourced market survey.
+  // No independently sourced market figure exists, so the comparison clause is
+  // removed rather than re-based on an invented number. The remaining sentence
+  // states only our own arithmetic, which the cost table on this page shows.
+  // For a held state (isPrelicensingHeld — New York today) the prelicensing
+  // course is not yet open for enrollment, so this answer must NOT present a
+  // buyable $199 all-in JustInsurance total. State-collected fees stay factual;
+  // the JustInsurance portion is described as opening soon, not as a purchase.
+  const totalCostAnswer = prelicensingHeld
+    ? `In ${stateData.name}, plan for the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee and the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee${backgroundIsFree ? `` : `, plus the ${backgroundDisplay} background-check cost`}. ${meansNotRequired(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(/\.\s/)[0].trim().replace(/\.$/, "")}.`} JustInsurance ${stateData.name} prelicensing is completing ${stateData.doiAbbr} approval and is not yet open for enrollment — we'll post course pricing once it opens.`
+    : `Plan for about ${jiLowDisplay} all-in to get your ${stateData.name} insurance license through JustInsurance. That covers ${noPrelicensingRequired ? "the optional prelicensing course," : "the prelicensing course,"} the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, ${backgroundIsFree ? `and ` : ``}the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee${backgroundIsFree ? `` : `, and the ${backgroundDisplay} background-check cost`}. ${meansNotRequired(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(/\.\s/)[0].trim().replace(/\.$/, "")}.`} JustInsurance's all-in price for the prelicensing portion is ${JI_PRICE_LABEL}.`;
 
   const faqs = [
     {
@@ -249,7 +301,7 @@ export default async function CostPage({
         : prelicensingDisplay,
       ji: noPrelicensingRequired ? `${JI_PRICE_LABEL} (optional)` : JI_PRICE_LABEL,
       note: noPrelicensingRequired
-        ? `${stateData.name} eliminated mandatory prelicensing — most candidates still study to pass on the first attempt.`
+        ? `${stateData.name} does not require prelicensing education — most candidates still study to pass on the first attempt.`
         : guaranteeOk
         ? `JustInsurance includes practice exams + pass guarantee in the $199 base price.`
         : `JustInsurance includes unlimited practice exams in the $199 base price.`,
@@ -284,22 +336,92 @@ export default async function CostPage({
 
       <BreadcrumbNav crumbs={crumbs} />
 
+      {/* ── 0. Availability disclosure (held states only) ───────────────────────
+          Mirrors the /new-york overview's "enrollment is not open yet" alert so
+          the COST page is consistent with the hub. Rendered ABOVE the hero so
+          the pending-approval status is stated before any price or "Start Now"
+          CTA appears. Gated on prelicensingHeld (isPrelicensingHeld: PENDING
+          provider approval AND a numeric prelicensing hour requirement), NOT on
+          a hardcoded slug — so it shows for New York today and reverts the
+          moment DFS approval issues. The $199 / estimated-total / "Start Now"
+          purchase claims below are intentionally left in place; this notice only
+          reframes them as planning-reference-only. */}
+      {prelicensingHeld && (
+        <section className="bg-gray-bg px-4 pt-8">
+          <div className="max-w-4xl mx-auto">
+            <article className="bg-red-50 border-red-500 border-l-4 rounded-r-xl p-5 shadow-sm">
+              <div className="flex gap-3">
+                <span className="text-2xl flex-shrink-0" aria-hidden="true">
+                  ⚠️
+                </span>
+                <div className="flex-1">
+                  <p className="text-xs uppercase tracking-wide text-navy font-bold mb-1">
+                    Important
+                  </p>
+                  <p className="font-bold text-navy mb-2 leading-snug">
+                    JustInsurance {stateData.name} enrollment is not open yet —{" "}
+                    {stateData.doiAbbr} approval pending
+                  </p>
+                  <p className="text-gray-700 text-sm leading-relaxed">
+                    Our {stateData.name} provider approval with the{" "}
+                    {stateData.doiName} is still pending, so JustInsurance
+                    prelicensing courses are not open for enrollment in{" "}
+                    {stateData.name}. The course prices and all-in cost estimates
+                    on this page — including the {JI_PRICE_LABEL} prelicensing
+                    price and the estimated total — are shown for planning
+                    reference only; they are not a purchase you can complete
+                    today. The {stateData.name} licensing information here — fees,
+                    exam structure, and deadlines — stays current and maintained
+                    either way.
+                  </p>
+                  <p className="mt-3">
+                    <Link
+                      href="/contact"
+                      className="text-gold-deep font-semibold hover:underline text-sm"
+                    >
+                      Get notified when {stateData.name} opens →
+                    </Link>
+                  </p>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+      )}
+
       {/* ── 1. Hero ─────────────────────────────────────────────────────────── */}
       <StateHero
         eyebrow={`${stateData.name} License Cost`}
         title={`How Much Does It Cost to Get a ${stateData.name} Insurance License?`}
         subtitle={`The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — with JustInsurance's $199 all-in prelicensing.`}
-        ctaButtons={[
-          {
-            text: "Start Now for $199",
-            href: `/${stateData.slug}/prelicensing`,
-          },
-          {
-            text: "See Requirements",
-            href: `/${stateData.slug}/requirements`,
-            variant: "secondary",
-          },
-        ]}
+        ctaButtons={
+          // Held state (New York today): the "Start Now for $199" primary button
+          // reads as a completed purchase, so swap it for a neutral "Learn More"
+          // link to the prelicensing overview. "See Requirements" is unchanged.
+          prelicensingHeld
+            ? [
+                {
+                  text: "Learn More",
+                  href: `/${stateData.slug}/prelicensing`,
+                },
+                {
+                  text: "See Requirements",
+                  href: `/${stateData.slug}/requirements`,
+                  variant: "secondary",
+                },
+              ]
+            : [
+                {
+                  text: "Start Now for $199",
+                  href: `/${stateData.slug}/prelicensing`,
+                },
+                {
+                  text: "See Requirements",
+                  href: `/${stateData.slug}/requirements`,
+                  variant: "secondary",
+                },
+              ]
+        }
       />
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
@@ -408,6 +530,31 @@ export default async function CostPage({
       </section>
 
       {/* ── 3. What's Included ──────────────────────────────────────────────── */}
+      {/* Held state (New York today): the "$199 all-inclusive" pricing card reads
+          as a completed purchase. Replace it with a neutral opening-soon panel
+          and a non-purchase "Learn More" link; the factual state-fee table above
+          is untouched. All other states render the original card unchanged. */}
+      {prelicensingHeld ? (
+        <section className="bg-gray-bg py-16 px-4">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+              {stateData.name} Prelicensing — Opening for Enrollment Soon
+            </h2>
+            <p className="text-gray-500 mb-8 max-w-2xl mx-auto">
+              Our {stateData.name} prelicensing course is completing{" "}
+              {stateData.doiAbbr} approval and is not yet open for enrollment. The
+              state fee breakdown above stays current so you can plan your{" "}
+              {stateData.name} licensing budget ahead of time.
+            </p>
+            <Link
+              href={`/${stateData.slug}/prelicensing`}
+              className="inline-block text-navy font-semibold underline underline-offset-4 hover:text-gold-deep transition-colors"
+            >
+              Learn more about {stateData.name} prelicensing →
+            </Link>
+          </div>
+        </section>
+      ) : (
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
@@ -459,6 +606,7 @@ export default async function CostPage({
           </div>
         </div>
       </section>
+      )}
 
       {/* ── 4. State Cost Context (income/ROI) ──────────────────────────────── */}
       <section className="bg-white py-16 px-4">
@@ -628,13 +776,22 @@ export default async function CostPage({
 
       {/* ── 8. CTA Banner ────────────────────────────────────────────────────── */}
       <CTABanner
-        title={`Start Your ${stateData.name} Insurance License for $199`}
+        title={
+          // Held state (New York today): no buyable "$199" title or "Start Now"
+          // CTA — swap for the neutral opening-soon message and a "Learn More"
+          // link. Reverts automatically once provider approval issues.
+          prelicensingHeld
+            ? `${stateData.name} Prelicensing — Opening for Enrollment Soon`
+            : `Start Your ${stateData.name} Insurance License for $199`
+        }
         subtitle={
-          guaranteeOk
+          prelicensingHeld
+            ? `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
+            : guaranteeOk
             ? `All-inclusive $199 prelicensing — practice exams and a pass guarantee built in.`
             : `All-inclusive $199 prelicensing — practice exams and instant course access built in.`
         }
-        ctaText="Start Now for $199"
+        ctaText={prelicensingHeld ? "Learn More" : "Start Now for $199"}
         ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>

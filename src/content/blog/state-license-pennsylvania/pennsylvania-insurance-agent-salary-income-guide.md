@@ -220,6 +220,6 @@ For producers, transitioning to or from these roles can offer career flexibility
 
 ## Start Your Pennsylvania Insurance Income Right
 
-Pennsylvania offers strong earning potential combined with favorable tax treatment and moderate cost of living. At JustInsurance (Provider Approval #147815), our Pennsylvania [prelicense](/pennsylvania/prelicensing) and CE courses prepare you for the licensing exam and for the real work of building income in this market.
+Pennsylvania offers strong earning potential combined with favorable tax treatment and moderate cost of living. JustInsurance is an approved Pennsylvania continuing education provider (#147815). Our Pennsylvania CE courses carry that approval; our [exam-prep course](/pennsylvania/prelicensing) is built to the PSI exam content outline, since Pennsylvania no longer requires prelicensing education. Together they prepare you for the licensing exam and for the real work of building income in this market.
 
 Enroll today and start building your Pennsylvania insurance income.

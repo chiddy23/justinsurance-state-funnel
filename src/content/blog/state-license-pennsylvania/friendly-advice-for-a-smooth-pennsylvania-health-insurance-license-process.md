@@ -36,7 +36,7 @@ Take the time to choose a solid provider with a clear curriculum that targets es
 
 ## Pass the state exam
 
-Once you’ve finished your exam prep, you’re ready to put your knowledge to the test. The Pennsylvania health insurance license exam covers everything from terminology to compliance. It’s a computerized exam, and you’ll typically schedule it at a licensed test center. The fee and scheduling process vary, so confirm details with the state-approved exam provider.
+Once you’ve finished your exam prep, you’re ready to put your knowledge to the test. The Pennsylvania health insurance license exam covers everything from terminology to compliance. It’s a computerized exam, and you’ll typically schedule it at a licensed test center. The fee and scheduling process vary, so confirm details with PSI, Pennsylvania's official exam provider.
 
 Below are a few suggestions to help you study and perform well:
 

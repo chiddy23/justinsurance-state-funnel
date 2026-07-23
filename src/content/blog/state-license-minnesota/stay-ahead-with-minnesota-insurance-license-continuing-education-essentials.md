@@ -40,7 +40,7 @@ Completing your continuing education isn’t just about checking boxes. It’s a
 1.  Schedule in advance. Mark your license renewal date on your calendar, then work backward to decide when to start your CE courses.
 2.  Mix up your learning formats. Alternate between online, classroom, and self-study offerings if available. Experimenting with different course types can make studying more engaging and less stressful.
 3.  Organize your documentation. Keep proof of completion for each course in an easy-to-find folder, whether physical or virtual. You’ll need this information when you report your credits.
-4.  Use provider support. Many providers, like JustInsurance, offer reminders and progress tracking so you know exactly how many credits you have left to earn.
+4.  Verify your credits against the state's record. Your own folder is a backup, not the official tally. Check your CE standing directly with the Minnesota Department of Commerce so you catch any missing or misreported hours while there is still time to fix them.
 
 Staying ahead of schedule also gives you time to handle any unexpected obstacles. If you wait until the last minute, you risk technical glitches, course availability issues, or just not having enough hours in the day. Spreading out your CE over a few months makes the entire process far less stressful.
 
@@ -64,7 +64,7 @@ Absolutely. Online learning is a popular option, especially if you are balancing
 
 ### 5\. How can I simplify my CE tracking?
 
-You can streamline your CE tracking by working with a provider that offers built-in reminders and organizers, such as JustInsurance. They track your hours, notify you when you’re close to the date, and ensure you meet all necessary requirements before your license expires.
+Keep it in two places. Maintain your own log of every completed course — date, provider, hours, and whether they counted toward ethics — and check that log against your official CE record with the Minnesota Department of Commerce. Be clear about where the responsibility sits: no provider monitors your overall compliance or reminds you that your renewal is coming, so the deadline is yours to watch. JustInsurance reports the completions for courses you take with us, but the running total across every provider you use is yours to track.
 
 ## Wrap up
 

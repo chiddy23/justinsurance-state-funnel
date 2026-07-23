@@ -1,6 +1,6 @@
 ---
 title: "The Tennessee Insurance Exam: Pearson VUE Format, Lines, and What to Expect on Test Day"
-description: The Tennessee insurance licensing exam is administered exclusively by Pearson VUE — not PSI, which handles licensing exams in most other states.
+description: The Tennessee insurance licensing exam is administered by Pearson VUE — the most common insurance exam vendor nationally. Here is the format for every line, how scoring works, and what to expect on test day.
 keyword: the tennessee insurance exam pearson vue format lines and
 targetKeywords: the tennessee insurance exam pearson vue format lines and
 cluster: state-license-tennessee
@@ -12,15 +12,21 @@ image: /blog/images/unlock-your-career-with-a-tennessee-insurance-license-today.
 imageAlt: "The Tennessee Insurance Exam: Pearson VUE Format, Lines, and What to Expect on Test Day"
 ---
 
-The Tennessee insurance licensing exam is administered exclusively by Pearson VUE — not PSI, which handles licensing exams in most other states. That distinction matters practically: the platform, the question format, the interface, and the test-day procedures are all Pearson VUE's, and candidates who prepare with PSI-calibrated materials or who arrive expecting a PSI experience will encounter differences that add unnecessary friction to an already demanding exam. This post covers everything you need to know about the Tennessee exam before you schedule: the format for every line, what the two exam sections test, how the scoring system works, what both remote and in-person test day procedures require, and the specific strategies that maximize performance on Pearson VUE's platform.
+The Tennessee insurance licensing exam is administered by Pearson VUE. Pearson VUE is the most common insurance exam vendor in the country — it runs the licensing exam in roughly half the states, while PSI handles most of the rest and a handful of states use Prometric or an in-house state program. If your prior testing experience was with PSI, that distinction matters practically: the platform, the question format, the interface, and the test-day procedures are all Pearson VUE's, and candidates who prepare with PSI-calibrated materials or who arrive expecting a PSI experience will encounter differences that add unnecessary friction to an already demanding exam. This post covers everything you need to know about the Tennessee exam before you schedule: the format for every line, what the two exam sections test, how the scoring system works, what both remote and in-person test day procedures require, and the specific strategies that maximize performance on Pearson VUE's platform.
 
 ## The Tennessee Exam Structure: What Every Line Looks Like
 
-Tennessee administers separate licensing exams for each line of authority. There are no combined exams — Life and Accident and Health are separate, and Property and Casualty are separate. Every major line exam follows the same structural format:
+Tennessee administers a distinct licensing exam for each line of authority. At a Pearson VUE test center the single-line exams must each be taken alone in one session; through OnVUE you can book them in combination — Life and Accident & Health together for $80, Property and Casualty together for $80, or either pairing plus Title for $125. A combination is a single reservation covering two or three line exams that are still scored independently, not one merged test. The four core line exams share one structural format, and Personal Lines is deliberately larger:
 
-The pretest question reality: Nine questions in every Tennessee exam are unscored. They look identical to scored questions — same format, same length, same subject matter. They are seeded throughout the exam to evaluate new questions for future versions. You cannot identify them during the exam. You must treat all 77 questions as though they count. The practical implication is straightforward: you cannot strategically skip or guess on questions you think might be pretest. Answer every question with full effort.
+Life, Accident and Health, Property, and Casualty: 50 scored general-knowledge questions plus 5 pretest, and 18 scored Tennessee-specific questions plus 4 pretest — 68 scored and 9 pretest, 77 questions in all, with 1 hour and 45 minutes allotted.
 
-The scoring math: To pass at 70% on 68 scored questions, you need 48 correct. You can miss 20 scored questions and still pass. That sounds like meaningful margin — but between state law questions you have not studied and the random distribution of 9 pretest questions that might absorb some of your uncertain answers, the margin is narrower in practice than the arithmetic suggests.
+Personal Lines: 75 scored general-knowledge questions plus 5 pretest, and 25 scored Tennessee-specific questions plus 6 pretest — 100 scored and 11 pretest, 111 questions in all, with 2 hours allotted.
+
+Title and Public Adjuster are single-section exams of 50 scored questions with 1 hour allotted.
+
+The pretest question reality: Every Tennessee exam seeds in unscored pretest questions — nine of them on the four core line exams, eleven on Personal Lines. They look identical to scored questions: same format, same length, same subject matter. They are distributed throughout the exam to evaluate new items for future versions, and you cannot identify them while testing. Treat all 77 questions (or all 111, on Personal Lines) as though they count. The practical implication is straightforward: you cannot strategically skip or guess on questions you think might be pretest. Answer every question with full effort.
+
+The scoring math — and why there is no fixed margin: Tennessee does not report the percentage of questions you answered correctly. It reports a scaled score, and the Department of Commerce and Insurance has set 70 as the passing score for reporting purposes on a 0-to-100 scale. Because Pearson VUE statistically equates the different forms of each exam before scaling, the raw number of correct answers that produces a 70 varies from one form to the next. That means no one can honestly promise you a "you may miss X questions" cushion — the cushion depends on the form you draw. Plan to be comfortably above the line on content rather than counting misses.
 
 ## The Two Sections of Every Tennessee Exam
 
@@ -122,11 +128,11 @@ License types and lines of authority
 
 No mandatory [prelicensing](/tennessee/prelicensing) requirement (effective March 21, 2023)
 
-Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results
+Exam: Pearson VUE; $55 per attempt for the major lines ($50 Public Adjuster); scaled score of 70 to pass; results at the end of the appointment
 
 Fingerprinting: IdentoGO; $37.15; TBI and FBI background check
 
-Application: NIPR; $50 per line; 48-hour wait after passing exam
+Application: NIPR; $50 per application (a flat filing fee, not charged per line of authority); 48-hour wait after passing exam
 
 License validity: biennial; last day of birth month
 
@@ -134,7 +140,7 @@ Appointment requirement: carrier must file within 15 days
 
 Grounds for discipline: TCA §56-6-112
 
-CE requirements: 24 hours biennial; 3 hours ethics; 60-day grace period; late fee not publicly posted (contact the TDCI) after grace period; up to 1 year late renewal
+CE and renewal: 24 hours biennial; 3 hours ethics; renewal due by the last day of the birth month with no grace period; TCA §56-6-107(d) penalty of double the unpaid renewal fee on anything received after the due date ($60 renewal, $120 late, on a major-line license); late renewal without re-examination up to 1 year past expiration
 
 Unfair Trade Practices and Unfair Claims Settlement Act:
 
@@ -264,7 +270,9 @@ Do not cover your mouth or talk to yourself during the exam — the microphone i
 
 The proctor can terminate the exam for any rule violation
 
-OnVUE fee: $49 per line.
+OnVUE fee: $55 per line — the same as testing at a Pearson VUE test center. There is no discount for testing remotely. Pearson VUE does discount multi-line OnVUE bundles taken in one order (Life and Accident & Health together, or Property and Casualty together, for $80; three-exam bundles that include Title for $125).
+
+OnVUE attempt limit: You are limited to 2 OnVUE attempts per exam line. Any further attempts on that line must be taken at a test center. Plan for that before you rely on remote testing as your only option.
 
 ### Option 2: In-Person at a Pearson VUE Test Center
 
@@ -280,7 +288,7 @@ Confirm your test center address — Pearson VUE test centers are located within
 
 Arrive 30 minutes before your scheduled appointment
 
-Bring government-issued photo ID with your signature — the name must exactly match your exam registration
+Bring two forms of ID — a government-issued photo ID with your signature plus a secondary signature ID (see Identification Requirements below) — with the name matching your exam registration exactly
 
 Leave all personal belongings (phone, keys, wallet, bag) available for secure storage — lockers are provided
 
@@ -308,27 +316,39 @@ After the exam:
 
 Your score report is printed by test center staff and provided to you before you leave
 
-You will know your result — pass or fail, with your scaled score — before leaving the facility
+You will know whether you passed before leaving the facility. Note how Tennessee reports it: a passing report simply reads "pass" with no numeric score. Only failing candidates receive a number — the scaled score — along with a diagnostic breakdown by content area
 
-In-person fee: $59 per line.
+In-person fee: $55 per line for Life, Accident & Health, Property, Casualty, Personal Lines and Title; $50 for Public Adjuster.
 
 ## Identification Requirements
 
-Both remote and in-person testing require one form of government-issued photo identification with your signature. Accepted forms include:
+Both remote and in-person testing require TWO forms of current, unexpired identification — Pearson VUE will turn you away if you bring only one.
+
+Primary ID — must be government-issued, bear a recent photo, and carry your signature. Any one of:
 
 Driver's license
 
-State-issued identification card
+State- or province-issued identification card
 
-Passport
+Passport or passport card
 
 Military identification
 
-Your name on the ID must match your name on your exam registration exactly. Discrepancies — even minor ones like a middle initial present on the ID but absent from the registration — can prevent you from testing. Verify the name match before exam day. If a discrepancy exists, contact Pearson VUE to correct your registration before your appointment.
+Permanent resident (green) card
+
+Secondary ID — must at minimum show your name and your signature. Any one of:
+
+U.S. Social Security card
+
+A debit, credit, or bank card bearing your signature
+
+A second form of primary ID from the list above
+
+Your name on both IDs must match your name on your exam registration exactly. Discrepancies — even minor ones like a middle initial present on the ID but absent from the registration — can prevent you from testing. Verify the name match before exam day. If a discrepancy exists, contact Pearson VUE to correct your registration before your appointment.
 
 ## Taking Multiple Exams in One Testing Session
 
-Tennessee allows candidates to schedule and take multiple line exams in a single testing session. A candidate pursuing both Property and Casualty can take both exams back to back on the same day — paying separate exam fees for each line but completing both in one scheduling event.
+Tennessee lets candidates clear more than one line on the same day, but how you book it depends on where you test. At a test center the handbook requires each single-line exam to be taken alone in one session, so a candidate pursuing both Property and Casualty books two back-to-back appointments and pays $55 for each — $110, with the convenience being one trip rather than two. Through OnVUE the two lines can go on a single combination reservation for $80, which saves $30 and one check-in.
 
 The practical approach for multiple exams in one session:
 
@@ -342,19 +362,25 @@ Which order to take multiple exams: If taking Property and Casualty on the same 
 
 Tennessee uses Pearson VUE's scaled scoring system — your raw score (number of questions answered correctly) is converted to a standardized scale that accounts for slight variations in difficulty between different exam versions. This means:
 
-The pass score is reported as a scaled score, not a raw percentage. On most Tennessee insurance exams, a scaled score of 70 or above represents passing. The exact raw score required to achieve a 70 scaled score varies slightly by exam version — some versions require answering 48 of 68 correctly, others may require 47 or 49 depending on the difficulty calibration of that particular version.
+The pass score is reported as a scaled score, not a raw percentage. The Department of Commerce and Insurance has selected 70 as the passing score for reporting purposes, and raw scores are converted onto a scale running from 0 to 100. The handbook is blunt about what that number is not: the scaled score "is neither the number of questions answered correctly (the raw score) nor the percentage of questions answered correctly." Because a slightly harder form is equated against an easier one, the raw count of correct answers that produces a 70 differs from version to version, and Pearson VUE does not publish those cut scores.
 
-The practical implication: You should aim to answer substantially more than 70% of questions correctly to ensure your raw performance translates to a passing scaled score across any version you might receive. Targeting 80%+ on practice exams gives you meaningful margin against both the scaling variation and the test-day conditions that can reduce performance slightly below practice levels.
+The practical implication: There is no published raw threshold you can aim at, so aim above the ambiguity. Targeting 80%+ on practice exams gives you meaningful margin against both the equating variation and the test-day conditions that can reduce performance slightly below practice levels.
 
-What your score report shows: Your score report includes your pass or fail result, your scaled score, and a section-by-section performance breakdown showing how you performed on different content areas. If you fail, this breakdown identifies your weakest sections — information that directly guides your retake preparation.
+What your score report shows: If you pass, your report reads "pass" and carries no numeric score at all. If you fail, you receive a numeric scaled score plus a diagnostic breakdown by major content area — information that directly guides your retake preparation and identifies your weakest sections.
 
 ## The Retake Policy and Its Implications
 
-Tennessee allows unlimited exam retakes — there is no cap on the number of attempts — but a mandatory waiting period applies: 10 days after your first failure, and 30 days after each subsequent failure. You cannot schedule the next available appointment right after a failed attempt; you must wait out the applicable period first.
+Tennessee does not cap the total number of attempts on the major lines, but three limits apply and one of them catches remote testers off guard.
 
-What the unlimited retake policy does not mean: It does not mean retaking as soon as the waiting period ends without changing your preparation approach is a viable strategy. Candidates who fail, do nothing differently, and retake the moment they're eligible fail again at approximately the same rate. The score report from your first attempt identifies where your knowledge failed — the retake preparation should systematically address those specific gaps.
+Waiting periods: 10 days after your first failure, and 30 days after each subsequent failure. You cannot schedule the next available appointment right after a failed attempt; you must wait out the applicable period first. Separately, every candidate must wait 24 hours before making a reservation to retake an exam.
 
-The financial reality of unlimited retakes: Each retake costs the full exam fee — $59 per attempt, per line. A candidate who takes a line three times before passing has spent $165 on that line alone in exam fees. The total cost of multiple failed attempts across two lines (Property and Casualty, for example) compounds quickly. The unlimited retake policy is insurance against bad luck on a single attempt — not a subsidy for underprepared repeated attempts.
+Remote attempts are capped: you are limited to 2 OnVUE attempts per exam line. A third attempt on that line has to happen at a test center — so if you fail twice remotely, remote testing is no longer an option for that line.
+
+Public Adjuster is capped outright: that exam carries a 30-day wait between attempts, and a candidate who has not passed after three attempts must wait one year and file a new application with the State, accompanied by new filing fees.
+
+What an uncapped retake policy does not mean: It does not mean retaking as soon as the waiting period ends without changing your preparation approach is a viable strategy. Candidates who fail, do nothing differently, and retake the moment they're eligible fail again at approximately the same rate. The score report from your first attempt identifies where your knowledge failed — the retake preparation should systematically address those specific gaps.
+
+The financial reality of retakes: Each retake costs the full exam fee — $55 per attempt, per line. A candidate who takes a line three times before passing has spent $165 on that line alone in exam fees. The total cost of multiple failed attempts across two lines (Property and Casualty, for example) compounds quickly. An uncapped retake policy is insurance against bad luck on a single attempt — not a subsidy for underprepared repeated attempts.
 
 The score report as a retake guide: After a failed attempt, do not simply study more of what you already studied. Read your section performance breakdown carefully. If you failed because of the state law section, that is a different preparation problem than failing because of property coverage concepts. Identify the specific content areas where your performance was weakest and build your retake preparation around those gaps.
 
@@ -370,8 +396,10 @@ If a Pearson VUE proctor terminates an OnVUE exam for a policy violation — una
 
 I received my score report and passed Property but failed Casualty on the same day. Do I need to retake both?
 
-No. Tennessee issues licenses by individual line, and each exam is scored independently. Your passing Property result stands — you do not need to retake Property. Your failed Casualty result means you need to retake only the Casualty exam before you can apply for Casualty authority. You can apply for your Property license through NIPR immediately after the 48-hour waiting period following your passing Property exam, and add Casualty to your license separately after passing the Casualty retake. There is no requirement to hold both lines simultaneously or to pass both before applying for either. Use the section performance breakdown from your Casualty score report to identify your weak areas and focus your retake preparation there.
+No. Tennessee grants each line of authority independently onto a single producer license, and each exam is scored independently. Your passing Property result stands — you do not need to retake Property. Your failed Casualty result means you need to retake only the Casualty exam before you can add Casualty authority. You can apply for your license with the Property line through NIPR immediately after the 48-hour waiting period following your passing Property exam, and add the Casualty line to that same license separately after passing the Casualty retake. There is no requirement to hold both lines simultaneously or to pass both before applying for either. Use the section performance breakdown from your Casualty score report to identify your weak areas and focus your retake preparation there.
 
 The Tennessee Pearson VUE insurance exam rewards candidates who understand its specific format, respect its genuine difficulty, and prepare with the right materials for the right platform. Every element of the exam day experience — from the OnVUE technical setup to the immediate score reporting at the test center — is designed to be navigable for a candidate who has prepared deliberately. The candidates who walk out with passing scores are overwhelmingly those who showed up knowing what to expect, having practiced under realistic conditions, and having studied Tennessee's specific statutory framework alongside the general insurance concepts that the exam equally tests.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course built for Pearson VUE — so that test day is confirmation of what you already know.
+One last thing worth knowing about course marketing, ours included: Tennessee has not required prelicensing education since March 2023, and neither the Department of Commerce and Insurance nor Pearson VUE approves, recommends, or endorses any exam-prep manual or course. If a provider calls its Tennessee exam-prep course "state-approved," that is not a credential the state issues. What matters is whether the course is built to the current Pearson VUE Tennessee content outlines, which are the blueprints the exam is actually constructed from.
+
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the Pearson VUE Tennessee content outlines — so that test day is confirmation of what you already know.

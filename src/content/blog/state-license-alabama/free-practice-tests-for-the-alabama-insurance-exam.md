@@ -33,7 +33,7 @@ You familiarize yourself with how the exam phrases questions
 
 You identify weak areas while there's still time to fix them
 
-You build stamina for a 3-hour, 150-question exam
+You build stamina for a long sitting — the combined Life & Health and combined Property & Casualty exams run 150 questions in 180 minutes
 
 You develop test-taking strategy
 
@@ -45,7 +45,7 @@ This is why nearly every successful Alabama candidate says practice questions we
 
 High-quality practice tests:
 
-Match Alabama's format. 150 questions, multiple choice with 4 options, scenario-based and recall questions mixed
+Match Alabama's format. Mirror the exam you're actually sitting for: 150 questions in 180 minutes for combined Life & Health or combined Property & Casualty, 125 in 150 minutes for Life-only or Casualty-only, and 100 in 120 minutes for Health-only, Property-only, or Personal Lines — with scenario-based and recall questions mixed
 
 Cover Alabama-specific content. Include questions about Alabama insurance laws, ALDOI, and state-specific provisions
 
@@ -91,7 +91,7 @@ Mobile apps. Some free or freemium apps offer insurance exam practice questions.
 
 Not all free practice tests are useful. Before investing time, evaluate:
 
-Is it Alabama-specific? Generic national practice tests don't adequately cover Alabama-specific content that accounts for 15-20% of the exam.
+Is it Alabama-specific? Every Alabama producer exam carries a dedicated "Part IV — Alabama Insurance Law" section. Per the ALDOI's published content outline, that section is 20 of the 150 questions on the combined Life & Health exam, 18 of 125 on Life-only, and 16 of 100 on Health-only. Generic national practice tests don't cover that material — and on a 70% passing standard, a whole section you never studied is enough to decide a borderline result.
 
 Are the questions current? Outdated practice questions may test rules that have changed.
 

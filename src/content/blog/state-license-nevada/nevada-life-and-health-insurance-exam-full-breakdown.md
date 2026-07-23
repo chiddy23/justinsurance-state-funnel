@@ -22,7 +22,9 @@ Here's the complete breakdown of the Nevada Life and Health insurance exam.
 
 ## Who Administers the Exam
 
-Nevada insurance licensing exams are administered by Pearson VUE on behalf of the Nevada Division of Insurance (DOI). You register and schedule through Pearson VUE's website (pearsonvue.com/nv/insurance), and Nevada offers both physical test centers and online proctored testing options.
+Nevada insurance licensing exams are administered by Pearson VUE on behalf of the Nevada Division of Insurance (DOI). You register and schedule through Pearson VUE's website (pearsonvue.com/nv/insurance).
+
+Nevada uses physical test centers for every exam, and offers OnVUE online proctored delivery for a subset of them. Important for this article: the Nevada candidate handbook's list of exams available online through OnVUE covers the single-line exams (Life, Health, Property, Casualty, Personal Lines, the adjuster exams, Bail, and Exchange Enrollment Facilitator) — it does not list the two combo exams, Life/Health (InsNV_LAH05) or Property/Casualty (InsNV_PC06). If you are taking the combined Life and Health exam, plan on a test center unless Pearson VUE confirms online availability for that exam code when you book.
 
 ## Where You'll Take the Exam
 
@@ -38,25 +40,25 @@ Carson City
 
 Other regional centers throughout Nevada
 
-Most candidates find appointments within 1-2 weeks of booking. You can also take the exam online with proper equipment and environment.
+Most candidates find appointments within 1-2 weeks of booking. Single-line Nevada exams can also be taken online through OnVUE with the proper equipment and environment; the combined Life and Health exam is not on the handbook's online-testing list.
 
 ## Nevada Exam Structure
 
 Nevada offers exams for various lines of authority:
 
-The combined Life and Health Producer exam is most common for new agents pursuing life and health careers.
+The combined Life and Health Producer exam — Pearson VUE exam code InsNV_LAH05 — is most common for new agents pursuing life and health careers.
 
-Passing score: 70% on every Nevada insurance license exam.
+Passing score: a scaled score of 70. This is the detail candidates most often get wrong. Nevada does not grade you on the raw percentage of questions you answered correctly. Nevada Administrative Code 683A.270 sets a scaled cut score of 70, and Pearson VUE converts your raw score onto a 0-100 scale before reporting it. In the candidate handbook's own words, the reported score "is neither the number of questions they answered correctly nor the percentage of questions they answered correctly." Practically, that means no fixed count of correct answers guarantees a pass — the conversion accounts for how difficult your particular exam form was. (Nevada's bail agent exams are the lone exception; those are scored as a true 67% under NAC 697.125.)
 
-Exam fee: $37, paid to Pearson VUE at registration. Confirm the current fee on the Pearson VUE Nevada candidate handbook before scheduling, as fees can change.
+Exam fee: $47 for the combined Life and Health exam, paid to Pearson VUE at registration. Nevada charges $37 for single-line exams (Life, Health, Property, Casualty, Personal Lines) and $47 for the two combo exams, Life/Health and Property/Casualty. Budget the combo rate if you're taking one test for both lines. Confirm the current fee in the Pearson VUE Nevada candidate handbook before scheduling, as fees can change.
 
 ## Choosing the Right Exam
 
 If you're pursuing a combined Life and Health license, you have options:
 
-Take the combined Life and Health exam. Single exam covering both content areas. Most efficient path.
+Take the combined Life and Health exam. One exam covering both content areas, $47. Most efficient path.
 
-Take Life and Health exams separately. Two separate exams. Allows you to focus on one content area at a time but doubles exam fees and scheduling.
+Take Life and Health exams separately. Two separate exams at $37 each — $74 total. Allows you to focus on one content area at a time, but costs more and doubles the scheduling.
 
 For most candidates, the combined exam is the practical choice.
 
@@ -116,17 +118,17 @@ Nevada DOI Authority. Powers and procedures of the Division.
 
 ## What's Weighted Heaviest
 
-The most heavily weighted sections on the Nevada exam typically include:
+The combined exam is assembled from three published Pearson VUE content outlines, and the scored question counts are not a guess — they are printed in the handbook:
 
-Life insurance policies and provisions
+Life — General Knowledge: 50 scored questions
 
-Accident and Health policies and provisions
+Accident & Health — General Knowledge: 50 scored questions
 
-Nevada-specific laws (typically 15-25% of exam)
+Life/Health — Nevada Specific: 44 scored questions
 
-Annuities
+That is 144 scored questions, which makes the Nevada-specific outline roughly 30% of your exam. Candidates routinely under-budget this section because they assume the state portion is a small tail on the end of a national exam. On Nevada's combined exam it is nearly a third of your score.
 
-Medicare and specialized coverage
+Within the two general outlines, the heaviest single blocks are life policy provisions, riders, and options and accident and health policy provisions, clauses, and riders, with annuities and Medicare/specialized coverage close behind.
 
 Strong performance in these areas is often the difference between passing and failing.
 
@@ -148,7 +150,7 @@ After the exam, you can log into your Pearson VUE account to obtain a diagnostic
 
 ## What to Expect with Online Proctored Testing
 
-Nevada's online testing option requires specific setup:
+If you're taking a single-line Nevada exam that OnVUE offers online, the setup requirements are specific:
 
 Pre-exam system check. Test your equipment well before exam day.
 
@@ -180,7 +182,7 @@ See remaining time on screen
 
 ## Time Management
 
-For the combined Life and Health exam (150+ questions, 2h 40m - 3h 35m), you have approximately 1-1.5 minutes per question. Most prepared candidates finish with time to spare.
+The combined Life and Health exam is 144 scored questions plus 15 unscored pretest questions — 159 in total — with 3 hours 35 minutes allotted. That works out to roughly 1 minute 20 seconds per question. Most prepared candidates finish with time to spare.
 
 Strategy:
 
@@ -202,10 +204,10 @@ If you fail: You receive a diagnostic report showing weak content areas. Use thi
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on the Nevada Life and Health combined exam? 150+ questions. You have between 2 hours 40 minutes and 3 hours 35 minutes to complete them depending on the specific exam.
-- What's the passing score? 70% on Nevada insurance license exams. The 80% figure occasionally cited isn't accurate — Nevada uses 70%.
-- Can I take the Nevada insurance exam online from home? Yes. Nevada offers online proctored testing through Pearson VUE as an alternative to physical test centers. Online exam takers are limited to 2 attempts before they must switch to a physical test center; there's no limit on retakes in person.
-- How much do Nevada insurance exams cost? $37, paid to Pearson VUE at registration. Confirm the current fee before scheduling, as fees can change.
+- How many questions are on the Nevada Life and Health combined exam? 159 questions in 3 hours 35 minutes — 144 of them scored (50 Life general knowledge, 50 Accident & Health general knowledge, and 44 Nevada-specific) plus 15 unscored pretest questions mixed in.
+- What's the passing score? A scaled score of 70, set by Nevada Administrative Code 683A.270 — not 70% of the questions. Pearson VUE converts your raw score onto a 0-100 scale, and the handbook states that the score you receive "is neither the number of questions they answered correctly nor the percentage of questions they answered correctly." So there's no fixed number of correct answers that guarantees a pass. Nevada's bail agent exams are the exception and are scored as a true 67%.
+- Can I take the Nevada insurance exam online from home? Some of them. Nevada's single-line exams — Life, Health, Property, Casualty, Personal Lines, the adjuster exams, Bail, and Exchange Enrollment Facilitator — appear on the handbook's OnVUE online testing list. The Life/Health and Property/Casualty combo exams do not, so plan on a test center for the combined exam unless Pearson VUE tells you otherwise when you book. Online exam takers are limited to 2 attempts per exam before they must switch to a physical test center; there's no limit on retakes in person.
+- How much do Nevada insurance exams cost? $47 for a combo exam (Life/Health or Property/Casualty) and $37 for a single-line exam, paid to Pearson VUE at registration. Confirm the current fee before scheduling, as fees can change.
 - Is prelicense education required before taking the Nevada exam? No. Nevada doesn't require prelicense education. However, taking a quality exam prep course is highly recommended given the exam's challenging content.
 
 ## Walk Into the Nevada Exam Prepared

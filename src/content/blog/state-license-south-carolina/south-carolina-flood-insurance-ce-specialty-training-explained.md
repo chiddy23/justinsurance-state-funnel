@@ -84,7 +84,7 @@ A good South Carolina flood CE course also covers state-specific elements:
 
 Coastal communities. Understanding Charleston, Myrtle Beach/Grand Strand, Hilton Head/Bluffton, Beaufort, and other coastal markets.
 
-Windstorm vs. flood. How the South Carolina Wind and Hail Association (SCWHA) provides windstorm coverage in coastal areas, and how wind coverage interacts with flood coverage.
+Windstorm vs. flood. How the South Carolina Wind and Hail Underwriting Association (SCWHUA) provides windstorm coverage in coastal areas, and how wind coverage interacts with flood coverage.
 
 Hurricane response. South Carolina-specific considerations during hurricane seasons and post-storm claims handling.
 

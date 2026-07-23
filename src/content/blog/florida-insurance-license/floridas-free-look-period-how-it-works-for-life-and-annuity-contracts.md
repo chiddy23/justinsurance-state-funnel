@@ -22,21 +22,21 @@ Here's how Florida's free-look rules work for life insurance and annuities.
 
 ## What Is a Free-Look Period?
 
-A free-look period is a window of time after a new policy is delivered during which the policyholder can review the policy in detail, decide it's not right for them, and cancel for a full refund of all premiums paid. No questions, no penalties, no prorating.
+A free-look period is a window of time after a new policy is delivered during which the policyholder can review the policy in detail, decide it's not right for them, and cancel for an unconditional refund. No questions asked, no penalties, no prorating for the days the policy was in force. On most products that refund is every dollar of premium paid; on variable and market-value annuities Florida computes it slightly differently, which we cover below.
 
 It exists because insurance policies are complex contracts. A client may understand the general concept at the point of sale but discover terms, exclusions, or features in the actual policy document that change their decision. The free-look gives them a genuine opportunity to review and reconsider.
 
 ## Florida Free-Look Periods by Product Type
 
-Life insurance policies. Florida generally requires a minimum 14-day free-look period on life insurance policies. Some policies — especially those sold through direct marketing — may have longer periods.
+Life insurance policies. Florida works off a minimum 14-day unconditional refund period on life insurance. Fla. Stat. §626.99(4)(a) ties it to buyer's-guide delivery: the insurer must hand the prospective purchaser a buyer's guide and policy summary before accepting the initial premium *unless* the policy provides an unconditional refund for at least 14 days. Some policies — especially those sold through direct marketing — carry longer periods.
 
-Replacement policies. When a policy replaces existing life insurance or annuity coverage, the free-look period is typically extended to 21 days, giving the client more time to compare and reconsider.
+Annuities. Every fixed and variable annuity contract carries a 21-day unconditional refund period under Fla. Stat. §626.99(4)(b). That is a flat statutory floor, not a range. Twenty-one days on a first-time purchase, twenty-one days on a replacement, twenty-one days regardless of who is buying. The only carve-out in the statute runs the other direction: the requirement does not apply if the prospective owner is an accredited investor as defined in SEC Regulation D.
 
-Annuities. Florida requires free-look periods on annuity contracts as well — usually 14 days for standard purchases and 21 days for replacement annuities. Longer periods may apply to senior purchasers under Florida's annuity suitability rules.
+Replacement transactions. Florida does not lengthen the free-look period because a sale replaces existing coverage. Life stays at 14 days and annuities stay at 21 days whether or not a replacement is involved. What replacement actually triggers is a separate set of duties — notice to the existing insurer, the replacement notice you hand the applicant (Form OIR-B2-312, the "Notice to Applicant Regarding Replacement of Life Insurance"), and the comparative-information obligations in Fla. Admin. Code R. 69O-151.007. Don't confuse that notice with the comparison document itself, which is a separate form — OIR-B2-313, the "Comparative Information Form for Proposed Insurance." If you tell a replacement client they have extra days to return the new policy, you are describing a right Florida did not give them.
 
-Senior annuity purchases. For purchasers age 65 and older, Florida provides enhanced protection. Free-look periods for annuities sold to seniors are often longer — sometimes up to 21 days or more — reflecting the added consumer protection concerns for this population.
+Senior purchasers. Florida law contains no age-based free-look enhancement. A 66-year-old annuity buyer gets the same 21 days as everyone else, so presenting those 21 days as a senior protection quietly implies that younger buyers get less — which is not true. The real senior-specific protection is in Fla. Stat. §627.4554(9): an annuity issued to a consumer age 65 or older may not carry a surrender or deferred sales charge exceeding 10 percent of the amount withdrawn. Lead with that one. It is the provision that genuinely changes the deal for an older client.
 
-Exact lengths can depend on product type, replacement status, and carrier practice. Always confirm the specific free-look provisions in the actual policy document.
+Carriers may voluntarily offer longer windows than the statute requires, so always confirm the specific free-look provision in the actual policy document.
 
 ## When Does the Free-Look Period Start?
 
@@ -56,7 +56,9 @@ Some carriers require the policyholder to sign a delivery receipt, which formall
 
 ## What the Policyholder Gets When They Cancel
 
-If the client cancels within the free-look window, they're entitled to a full refund of all premiums paid. This isn't prorated. It isn't reduced by any time the policy may have been in force. The client is made whole financially, as if the policy had never been issued.
+On a life policy or a fixed annuity, a client who cancels within the free-look window is entitled to a full refund of all premiums paid — including, for a fixed annuity, any contract fees or charges. This isn't prorated. It isn't reduced by any time the policy may have been in force. The client is made whole financially, as if the policy had never been issued.
+
+Variable and market-value annuities are the one real exception, and it is the exception agents most often get wrong. Fla. Stat. §626.99(4)(b) allows the 21-day refund on those contracts to equal the cash surrender value provided in the contract plus any fees or charges deducted from the premiums — *or* a refund of all premiums paid. If the separate account has fallen since issue, the client can therefore receive less than they put in. Never promise a variable annuity buyer a guaranteed 100%-of-premium return during the free-look period. Walk them through how their specific contract computes the refund instead.
 
 Carriers are required to process refunds promptly after receiving cancellation notice during the free-look period.
 
@@ -82,7 +84,7 @@ Clear communication about the free-look period builds trust, reduces complaints,
 
 1. Does the Florida free-look period apply to group insurance? Generally, free-look provisions apply to individual life and annuity contracts. Group policies issued to employers or similar groups don't typically include individual free-look periods in the same way.
 
-2. Can a client cancel after the free-look period ends? Yes, but standard cancellation terms apply. The full refund guarantee only applies during the free-look window. After that, refunds are prorated or subject to surrender charges depending on the product.
+2. Can a client cancel after the free-look period ends? Yes, but standard cancellation terms apply. The unconditional refund right only exists during the free-look window. After that, refunds are prorated or subject to surrender charges depending on the product — subject, for annuity owners age 65 and older, to the 10% surrender-charge cap in Fla. Stat. §627.4554(9).
 
 3. Does the client need a reason to cancel during free-look? No. The free-look period allows cancellation for any reason or no stated reason. That's the entire purpose of the provision.
 

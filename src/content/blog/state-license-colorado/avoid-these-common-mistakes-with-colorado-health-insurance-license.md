@@ -62,7 +62,7 @@ Curious about what other people are asking? The process can feel overwhelming wh
 1.  How many hours of pre-licensing education do I need?  
     The state of Colorado typically requires a set number of hours covering specific topics. For health lines, verify the exact number with the Colorado Division of Insurance or your chosen course provider.
 2.  Can I combine my health license with another line?  
-    Yes. Many people opt to get a life and health combo license. The advantage is that you expand the products you can offer your future clients, but you’ll also need to study for a broader exam.
+    You can hold more than one line of authority, but Colorado does not have a “life and health combo” license or a single broader exam. Colorado issues each line separately and Pearson VUE offers separate Life (01) and Accident and Health (02) exams. To carry both, you complete two 50-hour prelicensing courses — 100 hours total — and pass two exams. The upside is a wider product shelf for your clients; the trade-off is twice the coursework. One convenience worth knowing: Pearson VUE lets you sit up to two exams in a single session for one $41 fee, so you can knock out Life and Accident & Health on the same day.
 3.  Is the exam mostly memorization or application of concepts?  
     You will find both. Some questions test your knowledge of definitions and regulations, while others focus on applying those rules to realistic scenarios.
 4.  What if I fail the exam on my first try?  

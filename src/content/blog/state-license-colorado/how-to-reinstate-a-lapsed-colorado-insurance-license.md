@@ -32,7 +32,7 @@ What is required:
 
 Submit a new initial license application through NIPR (nipr.com) or Sircon (sircon.com/colorado)
 
-Pay the initial application fee of $47 per line of authority (plus the $5.60 NIPR transaction fee if applying through NIPR)
+Pay the initial application fee of $44 per line of authority (plus the $5.60 NIPR transaction fee if applying through NIPR)
 
 Complete any outstanding CE hours from the lapsed period before the reinstatement can be processed
 
@@ -60,9 +60,9 @@ Complete a new state-approved 50-hour prelicensing course for each line of autho
 
 Pass the Certificate Exam (70% passing score, proctored by a disinterested third party)
 
-Schedule and pass the Pearson VUE state licensing exam ($48 per line, 70% passing score)
+Schedule and pass the Pearson VUE state licensing exam ($41 exam fee; a scaled passing score of 70, which Pearson VUE converts from your raw answers rather than reporting a straight percentage of questions correct)
 
-Submit a new license application through NIPR or Sircon ($47 per line + $5.60 NIPR fee)
+Submit a new license application through NIPR or Sircon ($44 per line + $5.60 NIPR fee)
 
 Serve the full 3–5 business day processing period before receiving your license
 
@@ -106,7 +106,7 @@ Submit the Resident License Application selecting the reinstatement/new applicat
 
 Select all lines of authority you wish to reinstate in a single transaction
 
-Pay the $47 fee per line (plus $5.60 NIPR transaction fee if using NIPR)
+Pay the $44 fee per line (plus $5.60 NIPR transaction fee if using NIPR)
 
 Monitor your application status through NIPR or Sircon
 
@@ -120,9 +120,9 @@ Complete all course requirements and pass the Certificate Exam (70%, proctored)
 
 Schedule the Pearson VUE state exam at pearsonvue.com/co/insurance or by calling (800) 274-2616
 
-Pass the Pearson VUE exam (70% passing score; $48 fee per line)
+Pass the Pearson VUE exam (scaled passing score of 70, not a raw percentage of questions correct; $41 exam fee)
 
-Submit a new license application through NIPR or Sircon ($47 per line + fees)
+Submit a new license application through NIPR or Sircon ($44 per line + fees)
 
 Print your license upon approval through Sircon
 
@@ -158,7 +158,7 @@ No. Colorado law provides no exceptions to the one-year rule beyond the exemptio
 
 I hold Property and Casualty licenses but only want to reinstate Property. Can I reinstate just one line?
 
-Yes. Colorado allows you to reinstate some or all lines of authority in your reinstatement application. However, because Colorado only allows one electronic reinstatement transaction, you must decide at the time of application which lines you want to reinstate. If you reinstate Property electronically and later want to reinstate Casualty, you cannot submit a second electronic transaction — you must contact the Colorado Division of Insurance directly to process the additional line. The practical advice is to reinstate all lines you may ever want in a single transaction, even if you are not actively writing in every line at present. The cost per line is $47, and the administrative burden of going through the Division directly for a second transaction is not worth the savings.
+Yes. Colorado allows you to reinstate some or all lines of authority in your reinstatement application. However, because Colorado only allows one electronic reinstatement transaction, you must decide at the time of application which lines you want to reinstate. If you reinstate Property electronically and later want to reinstate Casualty, you cannot submit a second electronic transaction — you must contact the Colorado Division of Insurance directly to process the additional line. The practical advice is to reinstate all lines you may ever want in a single transaction, even if you are not actively writing in every line at present. The cost per line is $44, and the administrative burden of going through the Division directly for a second transaction is not worth the savings.
 
 Does a lapse in my Colorado license affect my non-resident licenses in other states?
 

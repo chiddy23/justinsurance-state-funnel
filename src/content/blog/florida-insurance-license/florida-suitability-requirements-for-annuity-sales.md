@@ -16,21 +16,29 @@ imageAlt: >-
   modern office.
 ---
 
-Annuity suitability is one of the most scrutinized areas in Florida insurance regulation — and for good reason. Annuities are complex products with long surrender periods, real fees, and serious financial implications. Florida law requires that agents recommending annuities have a reasonable basis for believing the product is suitable for the specific client.
+Annuity suitability is one of the most scrutinized areas in Florida insurance regulation — and for good reason. Annuities are complex products with long surrender periods, real fees, and serious financial implications. Florida's governing statute, Fla. Stat. § 627.4554, is still titled "Suitability in annuity transactions" — but since the 2024 amendments its operative standard is higher than suitability. An agent recommending an annuity in Florida must act in the consumer's **best interest**.
 
-Here's what Florida suitability requirements actually demand of agents.
+Here's what Florida's annuity rules actually demand of agents.
 
 ## Why Annuity Suitability Matters
 
 Annuities aren't inappropriate products — but they're the wrong fit for many people, particularly when they lock up assets a client may need sooner than expected, carry fees the client doesn't fully understand, or don't align with the client's actual retirement timeline.
 
-Florida has adopted suitability rules to prevent situations where agents sell annuities to clients who don't benefit from them — especially seniors, who have historically been targeted for unsuitable annuity sales.
+Florida adopted the NAIC best-interest model to prevent situations where agents sell annuities to clients who don't benefit from them — including, but not limited to, seniors, who have historically been targeted for unsuitable annuity sales. The stated purpose of § 627.4554(1) is "to require agents to act in the best interest of the consumer when making a recommendation of an annuity."
 
-The rules require agents to act as informed advisors, not just salespeople.
+The rule requires agents to act as informed advisors, not just salespeople.
 
-## What Suitability Actually Means
+## What the Standard Actually Requires: Best Interest, Not Just Suitability
 
-Under Florida's suitability framework, an annuity recommendation must be based on reasonable grounds that the product is suitable for the consumer given:
+This is the single most important thing to get right. Florida's old standard asked whether an agent had reasonable grounds to believe a product was suitable. The current statute asks more. Fla. Stat. § 627.4554(5)(a) provides:
+
+> An agent, when making a recommendation of an annuity, shall act in the best interest of the consumer under the circumstances known at the time the recommendation is made, without placing the financial interest of the agent or insurer ahead of the consumer's interest.
+
+The statute then defines exactly how an agent satisfies that duty: by meeting four separate obligations — **care, disclosure, conflict of interest, and documentation**. Note also that the section applies to any sale or recommendation of an annuity. It is not a seniors-only rule.
+
+### The care obligation
+
+The agent must exercise reasonable diligence, care, and skill to know the consumer's financial situation, insurance needs, and financial objectives, and must have a reasonable basis to believe the recommended annuity effectively addresses them. That means collecting and genuinely weighing the consumer profile information:
 
 - The consumer's age
 
@@ -58,15 +66,35 @@ Under Florida's suitability framework, an annuity recommendation must be based o
 
 This isn't a checkbox exercise. The agent must genuinely consider these factors and recommend a product that fits.
 
+### The disclosure obligation
+
+Before recommending an annuity, the agent must give the consumer a prominent written disclosure on a form substantially similar to the Office of Insurance Regulation's Appendix A — covering the scope of the relationship, the types of products the agent is licensed and appointed to sell, and how the agent is compensated, including cash and non-cash compensation.
+
+### The conflict-of-interest obligation
+
+This obligation is easy to overlook and it has no equivalent under the old suitability rule. In the statute's words: "An agent shall identify and avoid or reasonably manage and disclose material conflicts of interest, including material conflicts of interest related to an ownership interest."
+
+### The documentation obligation
+
+The agent must make a written record of the recommendation and the basis for it — and, where they apply, obtain the consumer-signed Appendix B and Appendix C forms described in the next section.
+
 ## The Agent's Information Collection Duty
 
-Florida requires agents to make reasonable efforts to obtain information about the consumer's situation before making an annuity recommendation. This typically involves a suitability form or questionnaire covering the factors listed above.
+Florida requires agents to make reasonable efforts to obtain the consumer profile information before making an annuity recommendation. This typically involves a suitability form or questionnaire covering the factors listed above.
 
-If the client refuses to provide the information, the agent must document the refusal. A sale can still occur in some cases, but the burden shifts significantly — the agent must demonstrate that reasonable alternatives were considered.
+If the client refuses to provide the information, you cannot simply note the refusal in your file and recommend a product anyway. The statute prescribes specific forms and a specific path:
+
+- **Appendix B (refusal to provide information).** Under § 627.4554(5)(a)4.b, the agent must obtain a consumer-signed statement on a form substantially similar to the Office's Appendix B, documenting the consumer's refusal to provide the consumer profile information and the consumer's understanding of the ramifications of not providing it — or of providing insufficient information.
+
+- **The transaction goes forward unrecommended.** Under § 627.4554(5)(b)1.c, the best-interest obligations do not apply where "a consumer refuses to provide relevant consumer profile information and the annuity transaction is not recommended." The relief exists only because you are not making a recommendation. There is no version of this where you make a recommendation without the information and cure it with extra documentation.
+
+- **Appendix C (purchase not based on a recommendation).** If the consumer decides to buy an annuity that is not based on your recommendation, § 627.4554(5)(a)4.c requires a consumer-signed statement on a form substantially similar to Appendix C acknowledging that the transaction was not recommended.
+
+Get the forms from the Office of Insurance Regulation's website and use the current versions. A file that documents a refusal but is missing the signed Appendix B is a file with a compliance gap in it.
 
 ## Supervision and Documentation
 
-Florida requires insurers and agents to maintain systems of supervision designed to ensure annuity sales meet suitability standards. This generally includes:
+Florida requires insurers to establish and maintain a supervision system reasonably designed to ensure compliance with § 627.4554, and agents are expected to work inside it. This generally includes:
 
 - Documentation of the consumer's information used in the recommendation
 
@@ -80,23 +108,21 @@ Agents should treat suitability documentation as seriously as the sale itself. I
 
 ## Enhanced Protections for Seniors
 
-Florida has particularly strong protections around annuity sales to seniors (generally defined as consumers age 65 and older):
+The best-interest standard applies to every client. On top of it, Florida adds one hard statutory protection for consumers age 65 and older, plus several practical ones:
 
-- Extended free-look periods on many annuity purchases
+- **A statutory surrender-charge cap.** Fla. Stat. § 627.4554(9) provides that an annuity contract issued to a senior consumer age 65 or older "may not contain a surrender or deferred sales charge for a withdrawal of money from an annuity exceeding 10 percent of the amount withdrawn," and the charge must be eliminated entirely after the tenth policy year. This is the provision that genuinely changes the deal for an older client — lead with it.
 
-- Enhanced disclosure requirements
+- Additional supervisory review, often imposed by the insurer's own § 627.4554(7) supervision system
 
-- Specific restrictions on surrender charges
+- Heightened regulatory scrutiny of recommendations that fail the best-interest analysis
 
-- Additional supervisory review often required
-
-- Heightened scrutiny of unsuitable recommendations
+One thing this list does not include: an age-based free-look extension. Florida's free-look period for annuities is the same regardless of the buyer's age, so do not present it as a senior protection.
 
 Agents selling annuities to seniors need to be especially careful. Regulators have publicly prioritized this area, and enforcement actions involving senior sales are common.
 
 ## Training Requirements
 
-Florida requires agents selling annuities to complete specific annuity training before selling products subject to the suitability rule. This training covers:
+Florida requires agents selling annuities to complete a **one-time, 4-hour training course** before selling products subject to § 627.4554. This training covers:
 
 - Annuity types and features
 
@@ -108,7 +134,11 @@ Florida requires agents selling annuities to complete specific annuity training 
 
 - Indexed annuity features (for agents selling indexed products)
 
-The training must be completed before the agent's first sale of the covered products and may need to be refreshed periodically.
+Two details agents routinely get wrong:
+
+- **It is one-time, not recurring.** Fla. Stat. § 627.4554(6)(b)1.a states that "an agent who engages in the sale of annuity products shall complete a one-time, 4-hour training course." There is no periodic annuity-training refresher in Florida. (Agents who already held a life line of authority on January 1, 2024 had a one-time transition requirement — a new 4-hour course or an additional 1-hour course on sales practices, replacement, and disclosure, due by July 1, 2024. That window has closed.)
+
+- **It does not count as CE by default.** The same subsection provides that the requirement "is not part of an agent's continuing education requirement in s. 626.2815." It only counts toward your 24-hour (or 20-hour) CE obligation if the provider separately obtained CE approval for that course.
 
 ## Product-Specific Suitability: Indexed Annuities
 
@@ -156,11 +186,11 @@ Follow your training. If your insurer or IMO has suitability processes, follow t
 
 ## 5 Frequently Asked Questions
 
-1. Do suitability rules apply to all annuities? Florida's suitability framework applies broadly to annuity sales, including fixed, fixed indexed, and variable annuities. Some specific requirements vary by product type.
+1. Do these rules apply to all annuities? Fla. Stat. § 627.4554 applies to any sale or recommendation of an annuity, including fixed, fixed indexed, and variable annuities. Some specific requirements vary by product type, and the statute lists narrow exemptions — direct-response solicitations where no recommendation is made, ERISA plans, certain tax-qualified and government or church plans, and prepaid funeral contracts.
 
-2. Can I sell an annuity if the client refuses to provide suitability information? Possibly, but with significant limits. You must document the refusal and demonstrate a reasonable alternative basis for the recommendation. Most agents avoid these sales because the compliance risk is elevated.
+2. Can I sell an annuity if the client refuses to provide consumer profile information? Only on a non-recommended basis. You must obtain the consumer's signature on an Appendix B refusal form, and § 627.4554(5)(b)1.c relieves you of the best-interest obligations only where the transaction "is not recommended." If the client then buys anyway, you also need a signed Appendix C. You cannot make a recommendation without the information and document your way out of it. Most agents avoid these sales because the compliance risk is elevated.
 
-3. Are suitability requirements only about seniors? No. Suitability applies to all annuity sales. Seniors receive enhanced protections, but the baseline suitability analysis is required for every client.
+3. Is this only about seniors? No. The best-interest standard applies to every annuity recommendation, regardless of the consumer's age. Seniors receive additional protections on top of it — but the core analysis is required for every client.
 
 4. How long should I keep suitability documentation? Retention requirements vary, but a good practice is indefinite retention in your own records. Document everything and never dispose of it early.
 
@@ -168,6 +198,6 @@ Follow your training. If your insurer or IMO has suitability processes, follow t
 
 ## Sell Annuities the Right Way
 
-Annuity suitability isn't an obstacle — it's the framework that protects your clients and your career. At JustInsurance, our Florida CE and [prelicense](/florida/prelicensing) courses cover annuity suitability in practical, exam-aligned depth.
+Florida's best-interest standard isn't an obstacle — it's the framework that protects your clients and your career. At JustInsurance, our Florida CE and [prelicense](/florida/prelicensing) courses cover § 627.4554 and annuity suitability in practical, exam-aligned depth.
 
 Enroll today and master annuity sales the Florida way — compliantly, ethically, and professionally.

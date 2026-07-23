@@ -44,7 +44,7 @@ PIP pays first — liability pays second (if applicable). If the other driver is
 
 PIP covers specific persons: PIP coverage follows the named insured — it covers the named insured, the named insured's spouse, resident relatives of the named insured, and any passenger in the covered vehicle at the time of the accident. If a friend borrows the insured's vehicle and has their own policy, the friend's own PIP coverage applies to their injuries — not the vehicle owner's PIP.
 
-The six-month filing deadline: A PIP claim must be filed within six months of the accident. Claims filed after six months are barred regardless of the validity of the underlying claim. This deadline is a specifically testable Minnesota provision — the exam tests whether candidates know the six-month limitation rather than assuming a longer or shorter window.
+The six-month notice provision: Under Minn. Stat. §65B.55, subd. 1, an auto policy may require the insured — or anyone acting on their behalf — to notify the insurer of the accident and the possibility of a claim within a period of not less than six months after the accident. This is a notice requirement, not an automatic filing bar: failure to give timely notice does not defeat a claim unless the insurer shows it was actually prejudiced by the delay, and then only to the extent of that prejudice. The six-month notice window is also separate from the statute of limitations for commencing an action to recover PIP benefits. Because this provision is testable on the Minnesota exam, candidates should know the six-month notice period and its actual-prejudice standard rather than assuming it operates as an absolute cutoff.
 
 ### PIP and the $500 Weekly Lost Wage Cap
 
@@ -66,7 +66,7 @@ No-fault does not eliminate liability exposure: Producers should explain to clie
 
 Minnesota's tort threshold defines when an injured party may step outside the no-fault system and pursue a lawsuit against the at-fault driver for non-economic damages — pain and suffering, emotional distress, and similar intangible losses.
 
-The four threshold triggers: An injured party may sue for non-economic damages when any one of the following conditions is met:
+The five threshold triggers: An injured party may sue for non-economic damages when any one of the following conditions is met:
 
 1. Medical expenses exceed $4,000: The injured party's medical expenses must exceed $4,000 to meet the medical expense threshold. Diagnostic tests are excluded from this calculation — X-rays, MRIs, CT scans, and similar diagnostic imaging do not count toward the $4,000 threshold. This exclusion is a specifically tested Minnesota provision. A claimant with $3,500 in actual treatment costs plus $1,000 in MRI charges has $3,500 applicable to the threshold (not $4,500) — the MRI is excluded. The $4,000 threshold remains unmet.
 
@@ -75,6 +75,8 @@ The four threshold triggers: An injured party may sue for non-economic damages w
 3. Permanent disfigurement: Scarring, loss of limb, or other permanent changes to physical appearance that constitute permanent disfigurement satisfy the threshold independently of medical cost.
 
 4. Death: A fatal accident meets the tort threshold, allowing the decedent's estate and surviving family members to pursue wrongful death claims against the at-fault driver.
+
+5. Disability for 60 days or more: An injury that disables the injured party — leaving them unable to work or to perform their normal daily activities — for 60 or more days satisfies the threshold on its own. This trigger stands apart from the others because it turns on the duration of the disability rather than on a dollar figure or a permanent finding. A soft-tissue injury that keeps someone out of work and off their usual routine for two months can meet the threshold even when total treatment costs stayed below $4,000 and no permanent injury resulted. It is the trigger candidates most often forget on the exam and the one producers most often overlook when explaining the threshold to clients.
 
 What the tort threshold means practically: The vast majority of minor auto accidents in Minnesota — fender benders, low-speed collisions, soft-tissue injuries — generate medical expenses below $4,000, produce no permanent injury or disfigurement, and do not result in death. For these accidents, the no-fault system applies fully — PIP pays the injured party's economic losses, and the injured party has no right to sue for pain and suffering. This is the fundamental trade-off of the no-fault system: faster, more certain payment of economic losses in exchange for restricted access to tort litigation.
 
@@ -116,7 +118,7 @@ Health insurance coordination with PIP: Minnesota PIP coordinates with health in
 
 If I am at fault for an accident in Minnesota, can the other driver sue me?
 
-The other driver can sue you for non-economic damages if their injuries meet Minnesota's tort threshold — medical expenses exceeding $4,000 (excluding diagnostic tests), permanent injury, permanent disfigurement, or death. For injuries below the threshold, the other driver's recovery is limited to their PIP coverage and they generally cannot sue you for pain and suffering. For property damage — damage to their vehicle — the no-fault system does not apply. The other driver can pursue your property damage liability coverage for vehicle damage immediately without meeting any threshold. This is why adequate property damage liability limits matter even in a no-fault state — the $10,000 minimum is easily exhausted by a single vehicle in most accidents.
+The other driver can sue you for non-economic damages if their injuries meet Minnesota's tort threshold — medical expenses exceeding $4,000 (excluding diagnostic tests), permanent injury, permanent disfigurement, death, or a disability lasting 60 or more days. For injuries below the threshold, the other driver's recovery is limited to their PIP coverage and they generally cannot sue you for pain and suffering. For property damage — damage to their vehicle — the no-fault system does not apply. The other driver can pursue your property damage liability coverage for vehicle damage immediately without meeting any threshold. This is why adequate property damage liability limits matter even in a no-fault state — the $10,000 minimum is easily exhausted by a single vehicle in most accidents.
 
 My client asks why Minnesota requires both UM and UIM when their neighbor in South Dakota only has UM on their policy. How do I explain the difference?
 
@@ -124,8 +126,8 @@ Minnesota's legislature determined that the combination of the no-fault system's
 
 A client sustained $3,800 in medical expenses and $1,200 in MRI charges. Has the tort threshold been met?
 
-No. The $4,000 tort threshold excludes diagnostic tests — MRIs, X-rays, and CT scans do not count toward the threshold. Applicable medical expenses for threshold purposes are $3,800. The threshold requires more than $4,000 in covered medical expenses — $3,800 does not meet it. The client's recovery is limited to PIP for their economic losses; they cannot sue the at-fault driver for pain and suffering based on these expenses alone. Unless the client also has a permanent injury or disfigurement, or the accident was fatal, the tort threshold has not been met and Minnesota's no-fault restrictions continue to apply.
+No. The $4,000 tort threshold excludes diagnostic tests — MRIs, X-rays, and CT scans do not count toward the threshold. Applicable medical expenses for threshold purposes are $3,800. The threshold requires more than $4,000 in covered medical expenses — $3,800 does not meet it. The client's recovery is limited to PIP for their economic losses; they cannot sue the at-fault driver for pain and suffering based on these expenses alone. Unless the client also has a permanent injury or disfigurement, was disabled for 60 or more days, or the accident was fatal, the tort threshold has not been met and Minnesota's no-fault restrictions continue to apply.
 
 Minnesota's no-fault system is not simply a different way of paying the same claims — it is a fundamentally different legal and insurance framework that affects which coverages are mandatory, how claims are sequenced, when litigation is permitted, and what producers must explain to clients to ensure their auto insurance actually protects them. Producers who understand the no-fault framework in depth serve Minnesota auto insurance clients with the kind of coverage adequacy guidance that prevents the surprises clients experience when claims reveal coverage gaps that an informed producer conversation could have closed.
 
-Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) with a state-approved course that covers every no-fault auto insurance provision tested on the PSI exam.
+Minnesota's no-fault system is core content on the property and casualty exam. To write auto coverage in the state, complete a state-approved property and casualty pre-licensing course and study to the current PSI content outline. Once you are licensed, JustInsurance offers Minnesota property and casualty [continuing education](/minnesota/continuing-education) to keep your authority current at every renewal.

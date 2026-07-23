@@ -81,7 +81,7 @@ Military professional insurance profile:
 
 Consistent, predictable income (military pay scale)
 
-SGLI (Servicemembers Group Life Insurance) provides basic group life — but maximum $400,000 may be insufficient for families with mortgages and long-term income replacement needs
+SGLI (Servicemembers' Group Life Insurance) provides basic group life — the maximum has been $500,000 since March 1, 2023 (raised from $400,000 under Pub. L. 117-209), and that ceiling may still be insufficient for families with mortgages and long-term income replacement needs. Verify a client's actual elected amount before recommending supplemental coverage: SGLI is issued in $50,000 increments and a servicemember may have elected less than the maximum.
 
 TRICARE provides active duty health coverage — but post-separation/retirement transitions require commercial insurance planning
 

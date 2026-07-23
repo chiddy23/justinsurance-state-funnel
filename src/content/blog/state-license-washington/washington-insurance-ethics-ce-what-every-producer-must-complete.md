@@ -46,7 +46,7 @@ Twisting: inducing policy replacement through misrepresentation
 
 Churning: repeatedly replacing a client's own policies for commission benefit
 
-Rebating: offering anything of value outside policy terms (Washington's $25 threshold)
+Rebating: offering anything of value outside policy terms (Washington's $100 aggregate limit on promotional items)
 
 False advertising and deceptive marketing
 
@@ -146,7 +146,7 @@ Unauthorized signatures on insurance documents
 
 Premium misappropriation (collecting premiums without remitting to carriers)
 
-Rebating (Washington's low $25 threshold makes this easy to violate inadvertently)
+Rebating (the $100-per-person, per-12-month aggregate limit on promotional items is easy to blow past inadvertently, because it adds up across the year)
 
 Churning client policies for commission
 
@@ -154,19 +154,21 @@ Failure to cooperate with OIC investigations
 
 Each of these is directly addressed by quality ethics CE. The 3-hour investment every 2 years is among the most cost-effective career protection available.
 
-## The $25 Rebate Threshold — Ethics Content With Practical Importance
+## The $100 Promotional-Item Limit — Ethics Content With Practical Importance
 
-Washington's rebate threshold of $25 is notably low — goods or consideration worth more than $25 constitute a prohibited rebate under RCW 48.30.140. Ethics CE addresses this specific practical risk:
+Washington caps client giveaways rather than banning them outright, and the cap is cumulative — which is exactly what makes it easy to violate without meaning to. Under RCW 48.30.140(4), prizes, goods, wares, gift cards, gift certificates, or merchandise may be given to insureds or prospective insureds only up to $100 in value per person in the aggregate in any twelve-month period, and only as part of an advertising or promotional program offered to all insureds or prospective insureds under similar qualifying circumstances. RCW 48.30.150(1)(c) uses the identical $100 aggregate figure on the illegal-inducement side. Ethics CE addresses this specific practical risk:
 
-Coffee mugs, gift cards, restaurant certificates, holiday gifts, or other client appreciation items that exceed $25 create rebating exposure
+The limit is cumulative, not per-gift. Coffee mugs, gift cards, restaurant certificates, holiday gifts, and other client appreciation items are added together per person across a rolling twelve months — several modest gifts can cross $100 even when no single item comes close
+
+The program has to be uniform. An item handed to a favored client rather than offered to all insureds or prospective insureds under similar qualifying circumstances falls outside the safe harbor regardless of value
 
 "Waiving" a fee or providing a discount not specified in the policy is rebating
 
 Offering to share commission is rebating
 
-An insured who accepts a rebate is also liable — up to a $200 fine under RCW 48.30.150
+An insured who accepts a prohibited rebate is also liable — a fine of not more than $200 under RCW 48.30.170(2). RCW 48.30.150 states the prohibition on the insured's side; the penalty amount lives in RCW 48.30.170
 
-Ethics CE reinforces awareness of this low threshold in practical, Washington-specific terms.
+Ethics CE reinforces awareness of the aggregate, program-wide nature of this limit in practical, Washington-specific terms.
 
 ## Choosing Quality Washington Ethics CE
 
@@ -174,7 +176,7 @@ Verify OIC approval as Ethics. The course must be specifically categorized as Et
 
 Look for Washington-specific scenarios. Generic national ethics content is less valuable than courses using Washington-specific scenarios involving RCW 48.30, OIC enforcement, HCSC interactions, and Washington's elected Commissioner context.
 
-Current content. Washington's January 2024 Annuity Best Interest changes and the May 2026 Supplemental LTC addition should be addressed in current ethics courses. Outdated courses that predate these changes provide less practical value.
+Current content. Washington's Annuity Best Interest standard took effect January 1, 2024, and OIC's supplemental long-term care rules (R 2025-06, implementing ESSB 5291) took effect March 7, 2026 — both should be reflected in a current ethics course. Outdated courses that predate these changes provide less practical value.
 
 Cannot be repeated within the cycle. Washington prohibits repeating the same course within a renewal cycle. Rotate to different ethics courses each renewal period to maintain fresh perspectives and avoid credit issues.
 
@@ -193,13 +195,15 @@ What to avoid: Leaving ethics hours until the final 30 days of your renewal cycl
 ## 5 Frequently Asked Questions
 
 - Can I satisfy Washington's ethics requirement with any approved CE course? No. The 3-hour ethics requirement must be specifically OIC-approved as Ethics content. General insurance courses — even those that discuss ethical concepts — don't satisfy this requirement unless specifically designated as Ethics by OIC.
-- Does Washington's $25 rebate threshold appear in ethics CE content? Yes — and it should. Washington's $25 threshold under RCW 48.30.140 is one of the lower rebate thresholds nationally, creating practical compliance risk. Quality Washington ethics courses address this specific provision with practical examples of what does and doesn't cross the rebate line.
+- Does Washington's $100 promotional-item limit appear in ethics CE content? Yes — and it should. RCW 48.30.140(4) permits promotional prizes, goods, gift cards, or merchandise only up to $100 per person in the aggregate in any twelve-month period, and RCW 48.30.150(1)(c) applies the same figure. Because the limit is cumulative rather than per-gift, it creates real compliance risk for producers who run client-appreciation programs. Quality Washington ethics courses address this specific provision with practical examples of what does and doesn't cross the rebate line.
 - Do I need a separate ethics course or can ethics be integrated into other CE? Ethics can be integrated — some providers offer courses that award both ethics credit and general credit within the same course. What matters is that at least 3 of your 24 hours are specifically designated as ethics credit by OIC.
 - Can I take the same ethics course in consecutive renewal cycles? Yes — since OIC removed the 3-year restriction, the same ethics course can be taken in consecutive 2-year cycles. You cannot, however, repeat it within the same renewal cycle.
 - What if I only hold a limited lines license (travel or surety) — do I still need ethics CE? No. Producers holding only limited credit insurance, travel insurance, or surety licenses are exempt from Washington's general CE requirement — including the ethics component. This exemption applies to the limited lines only; if you hold any major line license, full CE including 3 ethics hours is required.
 
 ## Meet Washington's Ethics Requirement the Right Way
 
-Ethics CE protects your license and your clients in Washington's active enforcement environment. At JustInsurance, our Washington ethics CE courses are OIC-approved, use Washington-specific scenarios, and address current OIC enforcement priorities.
+Ethics CE protects your license and your clients in Washington's active enforcement environment. Before you pay for anything, confirm the course is listed by the OIC as approved Ethics content — general CE approval is not enough, and only a course carrying the Ethics designation will post the 3 hours you actually need.
 
-Enroll in our Washington ethics CE today and protect your license and your career.
+A note on where JustInsurance stands: our Washington continuing education provider approval is still pending with the OIC. Until that approval is issued, we cannot report Washington CE credit, so take your 3 ethics hours — and the balance of your 24 — from a provider currently on the OIC's approved list. You can verify a provider's approval, browse approved courses, and check your own CE transcript through the OIC at insurance.wa.gov.
+
+We would rather point you to an approved provider today than sell you hours that never post to your record.

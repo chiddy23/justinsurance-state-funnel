@@ -60,7 +60,7 @@ Answer choice patterns: PSI exam answer choices are typically constructed so tha
 
 ## The Passing Standard
 
-The minimum passing score for the Minnesota insurance licensing exam is 70% across all lines and exam types. PSI calculates scores on a scaled basis — the raw score is converted to a scaled score ranging from 0 to 100. A scaled score of 70 or higher is a pass.
+The minimum passing score for the Minnesota insurance licensing exam is 70% across all lines and exam types. This is a raw percent-correct standard — you must answer 70% of the scored questions correctly. Minnesota does not convert your result to a scaled score; PSI's own candidate bulletin states plainly that you need 70% correct to pass.
 
 Score reports are immediate. At the conclusion of your exam, your pass or fail result appears on the computer screen before you leave the testing area. You do not wait days or weeks for results — you know when you walk out whether you passed.
 

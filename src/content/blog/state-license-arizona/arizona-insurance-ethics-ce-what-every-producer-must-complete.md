@@ -100,7 +100,7 @@ Recognizing cognitive decline and elder financial abuse
 
 Heightened disclosure obligations for senior clients
 
-Annuity suitability for clients 65+ (including the 20-day free-look requirement)
+Annuity suitability for clients 65+ (including the 30-day free look under A.R.S. § 20-1233 when the contract holder is 65 or older on the application date, versus 10 days otherwise)
 
 LTC suitability standards and documentation
 
@@ -142,7 +142,7 @@ Phoenix metro area receives substantial retirees from California, Illinois, Minn
 
 Tucson, Scottsdale, Chandler, Mesa, Peoria all have significant 65+ populations.
 
-Sun City, Sun City West, Sun City Grand (Peoria) — Del Webb's Arizona retirement communities — concentrate tens of thousands of seniors in accessible geographic clusters.
+Sun City and Sun City West (unincorporated Maricopa County, bordering Peoria and Surprise respectively) and Sun City Grand (inside the city of Surprise) — Del Webb's Arizona retirement communities — concentrate tens of thousands of seniors in accessible geographic clusters.
 
 Green Valley — one of Arizona's largest retirement communities, south of Tucson.
 

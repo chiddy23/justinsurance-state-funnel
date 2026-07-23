@@ -17,9 +17,6 @@ imageAlt: Close-up of a business professional signing a paper document at a wood
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Master Description: Avoid pitfalls in your [Illinois insurance license requirements](/illinois/requirements) and breeze through approval stress-free.
-
-  
 Illinois is known for its straightforward approach to licensing, yet many future agents still stumble over the details of [Illinois insurance license](/illinois) requirements. Whether you’re just starting your journey or revisiting the steps to ensure everything is in order, understanding common pitfalls can save you time, money, and frustration. By taking each step seriously and avoiding shortcuts, you’ll set yourself up for a successful licensing experience from start to finish.
 
 ## Know the basic requirements
@@ -36,7 +33,7 @@ Before signing up for classes, ensure the course provider is state-approved. You
 
 ## Register properly for the state exam
 
-Registering for the Illinois insurance licensing exam sounds easy enough, but errors during this step can cost you extra fees and time. You’ll need to select the correct exam for your chosen license type. For example, if you aim to sell both life and health insurance, you’ll have to take each exam or a combined version, depending on the testing service.
+Registering for the Illinois insurance licensing exam sounds easy enough, but errors during this step can cost you extra fees and time. You’ll need to select the correct exam for your chosen license type. Note that Illinois does not offer a combined life-and-health exam. If you aim to sell both life and health insurance, those are two separate lines of authority, so you’ll take a separate exam for each one. And in Illinois every line’s exam is split into two portions — a General portion and an Illinois State portion — that you schedule and sit for separately, passing both within 90 days of each other.
 
 After finishing your pre-licensing coursework, schedule your exam through the official testing provider. Confirm the date, time, and testing location. One mishap people often make is overlooking the required forms of identification. Review the testing instructions to see what IDs are acceptable, and bring at least two valid forms on the day of your exam. If you fail to bring the correct ID, you’ll lose your test slot and your exam fee, and you’ll have to wait for another opportunity.
 
@@ -50,7 +47,7 @@ Another area where many people stumble is time management. The Illinois insuranc
 
 Passing the exam doesn’t automatically give you a license. You’ll need to apply for your official license with the Illinois Department of Insurance. If you miss this step, you won’t be able to legally sell insurance. Along with your application, you’ll provide your exam results and any additional documentation the state requires.
 
-Keep track of the fees involved in this final stage. Application fees can vary based on the license type and how many lines of authority you’re seeking. While you might be tempted to wait a few days (or even weeks) after passing your exam, it’s often best to submit your paperwork soon after your success is confirmed. Delaying the application can lead to confusion or lost documents, forcing you to spend extra time piecing everything together later.
+Keep track of the fees involved in this final stage. Application fees can vary based on the license type and how many lines of authority you’re seeking. There’s also a timing rule that catches people out: Illinois asks you to wait five days after passing your exams before applying online at NIPR.com, so your results and prelicensing completion are on file with the Department first. Trying to apply the same afternoon you pass is a wasted trip. Once those five days are up, though, don’t drift — the longer you sit on the application, the easier it is to misplace documents and end up piecing everything back together weeks later.
 
 ## Maintain your license and compliance
 

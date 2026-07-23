@@ -74,7 +74,7 @@ Step 6 — Submit and save confirmation: After payment, NIPR generates a confirm
 
 The Sircon process follows the same logical flow as NIPR with a slightly different interface. Go to sircon.com, create an account using your legal name and SSN, navigate to the producer licensing application section, select Minnesota, choose your lines of authority, answer the disclosure questions, review the fee total, and complete payment. Sircon also generates a confirmation number at submission.
 
-Sircon and temporary licenses: If you are applying for a temporary producer license simultaneously with your regular application — because a sponsoring insurer is supporting your application — Sircon is specifically referenced in the Department's guidance for temporary license applications. Temporary license applicants should have their sponsoring insurer's information ready at the time of submission.
+Sircon and temporary licenses: Minnesota's temporary producer license is available only in the narrow circumstances described later in this post (see "The Temporary License Option") — it is not something a routine first-time applicant files alongside a standard application. If you are one of the limited cases that qualifies under Minn. Stat. §60K.42, have your sponsoring producer or insurer's information ready when you submit through the electronic licensing platform.
 
 ## Processing Timeline and What Happens After Submission
 
@@ -116,15 +116,17 @@ Appointment terminations: If you leave a carrier or agency relationship, the car
 
 ## The Temporary License Option
 
-Minnesota offers a 180-day temporary producer license for applicants who need to begin transacting business before their regular license application is processed. The temporary license requires:
+Minnesota's temporary producer license is narrower than most applicants assume — it is not a way to "start selling early" while your regular application is pending. Under Minn. Stat. §60K.42, the Commissioner of Commerce may issue a temporary producer license for a period not to exceed 180 days *without requiring an examination*, but only when doing so is necessary to service an existing insurance business in a limited set of circumstances:
 
-A sponsoring insurance company that appoints the applicant under the temporary license
+To the surviving spouse or court-appointed personal representative of a licensed producer who dies or becomes disabled — to allow time to sell the business, return the producer to work, or train and license replacement personnel
 
-An application submitted through Sircon
+To a member or employee of a licensed business entity, upon the death or disability of an individual named on the entity's license
 
-Satisfying all other eligibility requirements (the temporary license does not excuse prelicensing, exam, or fingerprinting requirements — it is a timing mechanism, not a shortcut)
+To the designee of a licensed producer who is entering active service in the U.S. armed forces
 
-The temporary license expires at 180 days or when the regular license is issued, whichever comes first. It is subject to the same appointment requirement — the sponsoring company must file the temporary appointment. If the regular license application is denied, the temporary license also terminates.
+In any other circumstance where the Commissioner determines the public interest will best be served
+
+Because the temporary license exists to keep an ongoing book of business running through a disruption — not to let a brand-new applicant begin working before finishing licensing — a routine first-time applicant does not qualify for one and instead completes prelicensing, the PSI exam, fingerprinting, and the standard application. The Commissioner may require the temporary licensee to have a suitable sponsor — a licensed producer or insurer who assumes responsibility for the temporary licensee's acts. A temporary license is not renewable, may not continue after the business it services is disposed of, and may be revoked if the interests of insureds or the public are endangered.
 
 ## Non-Resident License Applications
 

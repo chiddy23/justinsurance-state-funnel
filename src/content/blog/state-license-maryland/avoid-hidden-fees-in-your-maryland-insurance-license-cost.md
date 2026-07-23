@@ -49,7 +49,7 @@ $50–$250
 
 Exam fee
 
-$60 per attempt
+$62 per attempt
 
 Application fee (via NIPR)
 
@@ -69,7 +69,7 @@ Depending on your personal situation, you might also need to budget for travel e
 
 One of the first real decisions you may make is whether to enroll in an optional pre-licensing course. Maryland doesn't require it, but many candidates choose a program that covers fundamental insurance concepts, state regulations, and ethical guidelines to prepare for the exam. Costs for these courses vary based on the provider, the number of study materials they offer, and whether the course is online or in-person.
 
-To avoid hidden fees, look into what your provider includes with your tuition. Some bundle the textbook, practice exams, and interactive quizzes, while others may charge extra for each item. Contact the provider directly if their pricing structure feels unclear. Online programs can be a cost-saving option if you do not need the structure of a traditional classroom—just confirm they are recognized by the [Maryland Insurance Administration](/maryland/requirements).
+To avoid hidden fees, look into what your provider includes with your tuition. Some bundle the textbook, practice exams, and interactive quizzes, while others may charge extra for each item. Contact the provider directly if their pricing structure feels unclear. Online programs can be a cost-saving option if you do not need the structure of a traditional classroom—just confirm the course is built to the current Prometric Maryland content outline. Maryland's [Insurance Administration](/maryland/requirements) no longer requires prelicensing and doesn't approve or "recognize" prelicensing or exam-prep courses, so there's no state seal to look for.
 
 Similarly, scheduling your exam should be straightforward, but watch out for “premium” time slots or test centers that tack on small administrative fees. If you have flexibility, consider choosing a testing time that is more likely to have lower overhead costs.
 

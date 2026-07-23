@@ -35,7 +35,7 @@ Before you dive into the formal licensing steps, decide which insurance lines yo
 
 Although exact rules vary by location, most states follow a similar pattern to license new agents. Here is a quick overview:
 
-1.  Complete a state-approved pre-licensing course.
+1.  Complete pre-licensing education if your state requires it. Only 18 states do, and in those states the hours have to come from a provider that state has approved. The other 32 let you go straight to scheduling the exam (see below).
 2.  Schedule and pass the licensure exam.
 3.  Undergo a background check or fingerprinting if required.
 4.  Submit your license application and fees.
@@ -45,7 +45,9 @@ Your primary responsibility early on is gathering information. Visit your state�
 
 ## Compare licensing by state
 
-[Pre-licensing courses](/prelicensing) and exam formats can differ significantly between states. You could face pre-licensing education requirements ranging from about 20 hours in one state to more than 50 hours in another. Costs and exam structures also vary, so it pays to do careful research before committing time and money.
+[Pre-licensing courses](/prelicensing) and exam formats can differ significantly between states — starting with whether a course is required at all. Only 18 states mandate pre-licensing education for a life and health license. In the other 32, a course is optional exam prep rather than a legal prerequisite, and there is no state-approved hour requirement to satisfy.
+
+Among the states that do require it, the hour totals are all over the map. California asks for 12 hours (its Code and Ethics course, after AB 943 repealed the 20-hour requirement effective January 1, 2026), Georgia 16, a large group of states 40, Florida 60 for its combined Life and Health course, and Colorado 50 hours for each line of authority — 100 hours if you want both, since Colorado does not offer a combined life and health exam. Costs and exam structures also vary, so it pays to do careful research before committing time and money.
 
 To give you a simple snapshot, here is an example table comparing a few states. Always confirm the official figures with your state’s department of insurance because rules can change:
 
@@ -69,7 +71,7 @@ Texas
 
 None required (40-hr combo course optional)
 
-$39
+$49
 
 $50
 
@@ -89,15 +91,17 @@ $33
 
 $80
 
+The exam figures above are for the life and health path in each state, and that qualifier matters: several states price by line of authority rather than charging one flat fee. Texas, for example, charges $49 for the General Lines – Life, Accident and Health exam but $39 for the life-only or personal lines exam and $29 for limited lines, all paid to Pearson VUE at the time you reserve your seat. Check the fee for the specific exam you are sitting for rather than a state average, and confirm the current amount with the testing vendor when you book — vendors adjust these periodically.
+
 Some states bundle life and health coverage into one license, while others split them into two distinct tests. If you plan to sell multiple product lines, be sure to check whether you need to complete separate pre-licensing courses and exams for each. This can affect how you structure your study schedule and budget.
 
 ## Prepare for the exam process
 
-Getting ready for your licensing exam involves more than just memorizing information. Each state mandates a minimum number of study hours that you must complete before sitting for the test. These classes can usually be taken online or in person, depending on your learning style.
+Getting ready for your licensing exam involves more than just memorizing information. Eighteen states set a minimum number of course hours you must complete before you are allowed to sit for the test; in the other 32 — Texas, Massachusetts, Montana and North Carolina among them — nothing stops you from scheduling the exam without a course, and the coursework is simply how most candidates make sure they pass it. Either way, these classes can usually be taken online or in person, depending on your learning style.
 
 Consider these pointers to ensure you are well prepared:
 
-• Find the right course provider. An approved school or program will outline all the topics you need to pass: state regulations, federal laws, sales ethics, and more.  
+• Find the right course provider. In the states that mandate hours, the provider has to hold that state’s approval; everywhere else, judge a program on whether it covers what the exam actually tests — state regulations, federal laws, sales ethics, and more.  
 • Set a realistic timeline. Give yourself enough time to thoroughly review materials, especially if you are juggling work or family responsibilities.  
 • Take practice exams. Sample tests help you become comfortable with question formats and time limits. They also highlight areas you should review further.  
 • Stay organized. Use digital tools or good old-fashioned note cards to keep track of key terms, definitions, and formulas.
@@ -106,12 +110,12 @@ Remember that many exam providers require you to schedule a time slot at an offi
 
 ## Apply and pay required fees
 
-Once you complete your pre-licensing coursework, you are ready for the exam. If you pass, you will move on to the state’s formal application procedure. This phase typically requires:
+Once you have finished preparing — and completed your pre-licensing coursework if your state requires it — you are ready for the exam. If you pass, you will move on to the state’s formal application procedure. This phase typically requires:
 
 • Filling out an online form on your state insurance department’s website.  
 • Providing proof that you successfully passed your exam.  
 • Submitting to a background check or fingerprinting if mandated (some states combine these steps).  
-• Paying the license application fee, which ranges from about $40 to $200 depending on the state and license type.
+• Paying the license application fee, which ranges from $0 to about $225 depending on the state and license type — Montana charges no state application fee at all, Michigan and Ohio $10, Texas and Florida $50, California $188, and Massachusetts $225. Budget separately for the exam fee, fingerprinting, and the NIPR transaction fee.
 
 Although it may be tempting to put off these administrative tasks, try to handle them promptly. Minimizing delays ensures you can receive your license sooner, especially if your goal is to land an agent position or start selling insurance as quickly as possible.
 
@@ -129,6 +133,6 @@ Lapsed licenses can interrupt your ability to conduct business, so set calendar 
 
 Becoming an insurance agent can transform your career trajectory if you are diligent, patient, and willing to learn. With a thorough understanding of insurance licensing requirements by state, you will have a clear path to follow—no more guesswork about which forms to fill out or exams to register for.
 
-JustInsurance is here to make the journey even smoother. You can find state-approved courses, helpful study resources, and personalized support to guide you from your first application all the way to renewing your license in future years. Whether you want to focus on life, health, property, or multiple lines of coverage, there is a plan that fits your ambitions.
+JustInsurance is here to make the journey even smoother. You can find courses that carry state approval wherever your state approves that course type, full-length practice exams, and step-by-step support that runs from exam scheduling and the NIPR application through your continuing education at renewal time. Whether you want to focus on life, health, property, or multiple lines of coverage, there is a plan that fits your ambitions.
 
 Take your time to weigh your options, gather the right information, and devote the necessary effort to shaping your ideal career. You are on the brink of a bright new professional chapter, and your license is the key to unlocking it. If you are ready to make your move, explore how JustInsurance can help you take that well-informed first step.

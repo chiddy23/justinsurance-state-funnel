@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
+import { stateClaims } from "@/lib/prelicensing-status";
 import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import CTABanner from "@/components/CTABanner";
@@ -8,8 +9,88 @@ import TrustpilotStars from "@/components/TrustpilotStars";
 import { TRUSTPILOT } from "@/lib/trustpilot";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
+// ---------------------------------------------------------------------------
+// COVERAGE vs APPROVAL — two different facts, both derived from states.ts so the
+// copy self-corrects when the data changes. We publish pages for every state
+// except New York (49 served), but we hold a state CE provider approval number
+// only where providerApprovalNumber !== "PENDING" (Washington is still PENDING
+// among the states we serve). "Nationwide" asserted an approval we do not hold.
+// Prelicensing counts come from stateClaims() over the same records: most states
+// mandate no prelicensing education at all, so a blanket "every course meets each
+// state's requirements" claim is not available to us.
+// ---------------------------------------------------------------------------
+const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
+const SERVED_STATE_COUNT = SERVED_STATES.length;
+const CE_APPROVAL_PENDING = SERVED_STATES.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
+
+// PRELICENSING is a separate credential from CE. Most states mandate no
+// prelicensing education at all, so there is no state requirement for a course
+// to "meet" and no prelicensing-provider approval to advertise — stateClaims()
+// is the single source of truth for what may be asserted (see
+// src/lib/prelicensing-status.ts). Counted over the states we actually serve.
+const PRELICENSING_REQUIRED_SERVED = SERVED_STATES.filter(
+  (s) => stateClaims(s).prelicensingRequired
+);
+const PRELICENSING_APPROVED_COUNT = SERVED_STATES.filter(
+  (s) => stateClaims(s).canClaimPrelicensingApproval
+).length;
+const EXAM_PREP_ONLY_COUNT = SERVED_STATE_COUNT - PRELICENSING_REQUIRED_SERVED.length;
+
+/** States whose course carries a mandated LIVE classroom/webinar component. */
+const LIVE_COMPONENT_STATES = SERVED_STATES.filter(
+  (s) => typeof s.classroomWebinarHours === "number"
+);
+
+/** "A", "A and B", "A, B, and C" — for naming states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+/** Lowercase, mid-sentence CE reach claim. Matches /continuing-education. */
+const CE_APPROVAL_PHRASE =
+  CE_APPROVAL_PENDING.length === 0
+    ? `state-approved CE in all ${SERVED_STATE_COUNT} states we serve`
+    : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (our ${formatStateNames(CE_APPROVAL_PENDING)} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending)`;
+
+/** Same claim, sentence-initial. */
+const CE_APPROVAL_CLAIM =
+  CE_APPROVAL_PHRASE.charAt(0).toUpperCase() + CE_APPROVAL_PHRASE.slice(1);
+
+/** Short form for metadata — the count already excludes any pending state. */
+const CE_APPROVAL_SHORT =
+  CE_APPROVAL_PENDING.length === 0
+    ? `state-approved CE in all ${SERVED_STATE_COUNT} states we serve`
+    : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve`;
+
+/** Course access window — rendered only when it is uniform across served states. */
+const ACCESS_DAY_VALUES = Array.from(
+  new Set(SERVED_STATES.map((s) => s.courseAccessDays))
+);
+const UNIFORM_ACCESS_DAYS = ACCESS_DAY_VALUES.length === 1 ? ACCESS_DAY_VALUES[0] : null;
+
+/**
+ * Delivery-format caveats. "100% online, self-paced" is not true everywhere:
+ * Illinois mandates live classroom/webinar hours with verified attendance
+ * (50 Ill. Adm. Code Part 3119; 215 ILCS 5/500-35(b)), and a number of states
+ * (CO, CT, MI, MN, MS, WV, WI ...) require the final course exam to be
+ * administered by a disinterested third-party proctor the student arranges.
+ */
+const LIVE_COMPONENT_CAVEAT = LIVE_COMPONENT_STATES.length
+  ? `${formatStateNames(LIVE_COMPONENT_STATES)} include${LIVE_COMPONENT_STATES.length === 1 ? "s" : ""} a live classroom/webinar component with verified attendance, and several states require a proctor-monitored final exam you arrange`
+  : "several states require a proctor-monitored final exam you arrange";
+
+/** Same caveat, sentence-initial. */
+const LIVE_COMPONENT_SENTENCE =
+  LIVE_COMPONENT_CAVEAT.charAt(0).toUpperCase() + LIVE_COMPONENT_CAVEAT.slice(1);
+
 const homeTitle = "Insurance Prelicensing & CE Courses | JustInsurance";
-const homeDesc = "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% completer pass rate, pass guarantee in eligible states. From $199.";
+const homeDesc = `Insurance prelicensing and CE courses — ${CE_APPROVAL_SHORT}. Online and self-paced in most states, 93% completer pass rate, pass guarantee in eligible states. From $199.`;
 
 export const metadata: Metadata = {
   title: { absolute: homeTitle },
@@ -31,9 +112,7 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  const states = Object.values(STATES)
-    .filter(s => s.slug !== "new-york")
-    .sort((a, b) => a.name.localeCompare(b.name));
+  const states = [...SERVED_STATES].sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <>
@@ -49,7 +128,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved CE nationwide, plus prelicensing in the states where we are approved. 100% online, self-paced, and backed by our pass guarantee in eligible states. Join 20,000+ students who&apos;ve trusted JustInsurance.
+            {CE_APPROVAL_CLAIM}, plus prelicensing in the states where we are approved. Online and self-paced in most states: {LIVE_COMPONENT_CAVEAT}. Backed by our pass guarantee in eligible states. Join 20,000+ students who&apos;ve trusted JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -172,7 +251,7 @@ export default function HomePage() {
             Choose Your State
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We offer state-approved continuing education nationwide, plus prelicensing in the states where we are approved. Click your state to get started.
+            We offer state-approved continuing education in {CE_APPROVED_COUNT} of the {SERVED_STATE_COUNT} states we serve (all except New York{CE_APPROVAL_PENDING.length > 0 ? `; our ${formatStateNames(CE_APPROVAL_PENDING)} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending` : ""}), plus prelicensing in the states where we are approved. Click your state to get started.
           </p>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
@@ -211,8 +290,8 @@ export default function HomePage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
                   </svg>
                 ),
-                title: "State-Approved Nationwide",
-                desc: "Every course meets the exact education requirements set by each state's Department of Insurance — no guesswork.",
+                title: `State-Approved CE in ${CE_APPROVED_COUNT} States`,
+                desc: `Our CE is approved by the Department of Insurance in the ${CE_APPROVED_COUNT} states where our approval has issued, and our prelicensing courses are state-approved in the ${PRELICENSING_APPROVED_COUNT} states we serve that mandate prelicensing education. In the other ${EXAM_PREP_ONLY_COUNT}, the state requires no prelicensing course and ours is optional exam preparation.`,
               },
               {
                 icon: (
@@ -220,8 +299,8 @@ export default function HomePage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                 ),
-                title: "Study at Your Own Pace",
-                desc: "No schedules, no deadlines within the course. Start today and study whenever it fits your life.",
+                title: "Self-Paced in Most States",
+                desc: `Study whenever it fits your life${UNIFORM_ACCESS_DAYS ? `, with ${UNIFORM_ACCESS_DAYS} days of course access` : ""}. ${LIVE_COMPONENT_SENTENCE}.`,
               },
               {
                 icon: (

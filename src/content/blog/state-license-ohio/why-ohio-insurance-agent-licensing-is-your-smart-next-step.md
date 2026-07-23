@@ -75,7 +75,7 @@ $100-$300 per course
 
 Licensing exam registration
 
-$40-$60 per attempt
+$49 per attempt (flat rate)
 
 2-3 hours on test day
 
@@ -91,7 +91,7 @@ Around $72
 
 Under 30 minutes to complete
 
-These figures can change based on demand and the provider you use. Always double-check current fees and timeframes so that you can budget accordingly.
+Course tuition and fingerprinting costs can change based on demand and the provider you use, but the exam fee is not one of them—PSI charges every Ohio candidate the same $49, whichever line you test for. Always double-check current fees and timeframes so that you can budget accordingly.
 
 Once you’ve made it through these steps, you’re free to choose a path that suits your ambitions. You might partner with an established company to gain hands-on experience and a stable paycheck. Alternatively, you can embark on your own, setting your client meetings and marketing plans. Don’t forget to keep up with [Ohio continuing education](/ohio/continuing-education)—the state requires ongoing study to maintain your license and expand your knowledge.
 

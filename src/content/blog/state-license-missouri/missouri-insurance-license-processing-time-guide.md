@@ -16,13 +16,13 @@ imageAlt: >-
   insurance license processing time guide.
 ---
 
-Missouri's licensing timeline from starting preparation to holding an active producer license is typically 2 to 4 weeks. No PLE, no fingerprinting, and 5-10 business day processing make Missouri one of the fastest licensing paths available. The primary variables are exam preparation time (self-directed; industry sources put the all-candidate first-attempt pass rate at 40-60%, making preparation essential — that figure isn't JustInsurance's own outcome, and among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93%, see [pass rates](/pass-rates) for methodology) and the 24-48 hour wait after passing before applying. With no temporary license available, understanding Missouri's processing timeline helps candidates plan their career start date accurately.
+Missouri's licensing timeline from starting preparation to holding an active producer license is typically 2 to 4 weeks. No PLE, no fingerprinting, and 5-10 business day processing make Missouri one of the fastest licensing paths available. The primary variables are exam preparation time (self-directed; industry sources put the all-candidate first-attempt pass rate at 40-60%, making preparation essential — that figure isn't JustInsurance's own outcome, and among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93%, see [pass rates](/pass-rates) for methodology) and the 24-48 hour wait after passing before applying. With no temporary license available to new applicants, understanding Missouri's processing timeline helps candidates plan their career start date accurately.
 
 ## Timeline Overview
 
 ## Stage 1: Exam Preparation — The Critical Investment
 
-Missouri's industry-wide 40-60% first-attempt pass rate (all candidates; not JustInsurance's own outcome — see the note above) makes study preparation the most impactful licensing investment. The two-section format — national AND Missouri state — requires:
+Missouri's industry-wide 40-60% first-attempt pass rate (all candidates; not JustInsurance's own outcome — see the note above) makes study preparation the most impactful licensing investment. The single exam blends national AND Missouri state content into one scaled Pass/Fail score, and both portions demand preparation:
 
 National content: Standard insurance product knowledge, policy provisions, underwriting concepts — covered by most exam prep materials.
 
@@ -30,11 +30,11 @@ Missouri state section: This is where underprepared candidates fail. Missouri st
 
 DCI structure and Commissioner authority; RSMo Chapters 375/379
 
-Producer licensing: no PLE; $29-$35 Pearson VUE; 70% both sections; 24-hr retake; $100 NIPR; no fingerprint; 5-10 day processing; no temp license; renewal 2 years; CE 16/3 Ethics
+Producer licensing: no PLE; $32 Pearson VUE ($40 for the combined Life+A&H or P&C exam); scaled passing score of 70; 24-hr wait to retake the full exam; $100 NIPR; no fingerprint; 5-10 day processing; no temp license for new applicants (RSMo § 375.025 temporary licenses are business-continuity only); renewal 2 years; CE 16/3 Ethics
 
 Pure comparative negligence (Mo. Rev. Stat. § 537.765)
 
-Auto minimums: 25/50/10 (RSMo 303.190 statutory) — low PD minimum
+Auto minimums: 25/50/25 (RSMo 303.190 statutory) — $25,000 property damage since the limits were raised effective July 1, 2019
 
 UM required (RSMo 379.203): 25/50 BI; UM cannot be waived
 
@@ -58,15 +58,15 @@ Two government-issued IDs (one with photo)
 
 Results immediate; diagnostic report in Pearson VUE account
 
-If you fail one section: Wait 24 hours → retake only failed section. Focus study on the failed section's content specifically using the Pearson VUE diagnostic report.
+If you fail: Wait 24 hours → retake the full exam. Focus your study on the weakest content areas using the Pearson VUE diagnostic report.
 
 ## Stage 3: NIPR Application — Wait Then Submit Promptly
 
-After passing both sections, wait 24-48 hours for results to load in DCI system, then submit NIPR application immediately.
+After passing the exam, wait 24-48 hours for results to load in DCI system, then submit NIPR application immediately.
 
 Processing: 5-10 business days. DCI issues license; access through NIPR or DCI website.
 
-No temporary license available — until the license is issued, the candidate cannot legally sell insurance in Missouri. Plan accordingly.
+No temporary license for new applicants — Missouri's temporary producer license (RSMo § 375.025) is reserved for business-continuity situations such as the death or disability of a licensed producer, so it is not a bridge for first-time candidates. Until the license is issued, the candidate cannot legally sell insurance in Missouri. Plan accordingly.
 
 ## What Slows Applications Down
 
@@ -81,10 +81,10 @@ Applying before 24-hour wait. Applications submitted before exam results load in
 ## 5 Frequently Asked Questions
 
 - How long does DCI processing take? 5-10 business days for clean applications — approximately 1.5-2 calendar weeks. Most clean applications are processed within this window; applications with background disclosures or incomplete submissions may take longer.
-- What is the fastest possible path from exam to active license? Pass both Pearson VUE sections → wait 24-48 hours → submit NIPR application → wait 5-10 business days → receive license. Minimum total: approximately 8-12 business days from exam date. Unlike Indiana (where fingerprinting adds time), Missouri's path is clean: exam + wait + application + processing.
-- Since there's no temporary license, what can I do while waiting for my license? Missouri doesn't issue temporary licenses — so while your application processes (5-10 business days), you cannot legally sell insurance. Some candidates use this time to complete agency contracting paperwork, set up their CRM, and prepare client outreach materials. The 5-10 business day window is short enough that most candidates work on their agency setup during this period.
+- What is the fastest possible path from exam to active license? Pass the Pearson VUE exam → wait 24-48 hours → submit NIPR application → wait 5-10 business days → receive license. Minimum total: approximately 8-12 business days from exam date. Neighboring Indiana doesn't require fingerprinting either, but it does require 20 hours of prelicensing education per line (40 for a combined line) before you can sit for the exam — which is the step Missouri skips entirely. Missouri's path is just exam + wait + application + processing.
+- Since there's no temporary license for new applicants, what can I do while waiting for my license? Missouri's temporary producer license (RSMo § 375.025) is limited to business-continuity situations like a licensed producer's death or disability, so it isn't available to first-time candidates — while your application processes (5-10 business days), you cannot legally sell insurance. Some candidates use this time to complete agency contracting paperwork, set up their CRM, and prepare client outreach materials. The 5-10 business day window is short enough that most candidates work on their agency setup during this period.
 - Is the 1-year exam score validity window sufficient? Yes — the 1-year window (from passing date) is far more generous than Maryland's 6 months or Virginia's 183 days. Missouri's 5-10 business day processing creates no real risk of the 1-year window expiring before the license is issued. The 1-year window mainly matters for candidates who pass the exam and then change their career plans — they have a full year to decide.
-- Can I schedule at any Missouri Pearson VUE test center or only near my home? Missouri candidates can test at any Pearson VUE test center — not just those nearest their residence. Missouri test centers are available in St. Louis (multiple), Kansas City (multiple), Springfield, Columbia, Jefferson City, Joplin, Cape Girardeau, and other cities. Choose the most convenient location.
+- Can I schedule at any Missouri Pearson VUE test center or only near my home? The Pearson VUE Missouri handbook states that candidates may test at any Pearson VUE center in the U.S. — not just the one nearest their residence. In-state, the handbook lists centers in St. Louis (2), Kansas City (2), Cape Girardeau (2), Joplin (2), St. Joseph (2), Springfield, Columbia, Carthage, Maryville, Poplar Bluff, and West Plains. Locations and schedules change, so confirm availability when you schedule.
 
 ## Build Your MO License Timeline Efficiently
 

@@ -87,13 +87,13 @@ Adopts regulations to implement the Code
 
 Massachusetts Division of Insurance Contact Information:
 
-Address: 1000 Washington Street, Suite 810, Boston, MA 02118-6200
+Address: One Federal Street, Suite 700, Boston, MA 02110-2012
 
 Phone: (617) 521-7794
 
 Toll-Free: (877) 563-4467
 
-Email: producerupdate.mailbox@state.ma.us
+Email: producerupdate.mailbox@mass.gov
 
 Website: mass.gov/orgs/division-of-insurance
 
@@ -109,7 +109,7 @@ Annuity Best Interest standard adoption. Massachusetts adopted enhanced annuity 
 
 MassHealth-specific LTC training. Massachusetts requires producers who took initial 8-hour LTC training in another state to complete a 2-hour MassHealth-specific course before selling LTC in Massachusetts.
 
-Paper application phase-out (effective September 15, 2025). Paper insurance license applications submitted via postal mail were discontinued, with all applications now electronic through NIPR.
+MVDA online-only applications (effective September 15, 2025). New and renewal Motor Vehicle Damage Appraiser (MVDA) applications must be submitted online through NIPR, and paper applications mailed after that date are returned. (Individual insurance producer applications became electronic-only earlier — the Division converted producer licensing to NAIC's State Based Systems and NIPR on March 18, 2022.)
 
 2026 PBM licensing (effective January 1, 2026). Pharmacy Benefit Managers (PBMs) operating in Massachusetts must apply for licensure under new requirements.
 

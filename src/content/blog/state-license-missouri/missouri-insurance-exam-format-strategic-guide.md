@@ -16,47 +16,37 @@ imageAlt: >-
   insurance exam format: strategic guide.
 ---
 
-Missouri's exam format has several strategic implications unique to this state: the two-section scoring (national AND state each at 70%+) creates a specific preparation strategy; the lowest exam fees of all comparison states ($29-$35) make retakes financially accessible; the ability to retake only the failed section reduces retake cost; the May 2025 elimination of remote testing means all candidates need in-person test center access; and the 1-year score validity creates ample post-exam flexibility. The state section — approximately 15-25% of questions — is where the exam is won or lost for candidates who come from national content study materials. Here's the strategic breakdown.
+Missouri's exam format has several strategic implications: the exam is reported as a single scaled score from 0 to 100 with a passing mark of 70 — not a raw percentage of questions answered correctly; low exam fees ($32 for a single line, $40 for a combined line) keep retakes financially accessible; the May 2025 elimination of remote testing means all candidates need in-person test center access; and the 1-year score validity creates ample post-exam flexibility. What really distinguishes Missouri is how much of the exam is state law — 40 of the 90 scored questions on a single-line exam, roughly 44 percent — which is where the exam is won or lost for candidates who study from national-content-only materials. Here's the strategic breakdown. (Figures below are from the Pearson VUE Missouri Insurance Licensing Candidate Handbook, March 2026, and the Missouri Insurance Content Outlines effective February 1, 2026 — verify against the current handbook before you schedule.)
 
 ## Format Overview
 
-Pacing: Individual exams are comfortably paced at 69-72 seconds per question. Combined exams at 63-65 seconds per question are tighter — plan to move efficiently.
+Each single-line exam — Life, Accident & Health, Property, or Casualty — is 90 scored questions plus 10 unidentified pretest questions (100 items total) in 2 hours. That is 72 seconds per item.
 
-## Two-Section Format — Missouri's Distinctive Strategic Implication
+The combined exams are longer but more generously paced, not tighter: Life, Accident & Health is 95 scored plus 10 pretest (105 items) in 3 hours — about 103 seconds per item — and Property & Casualty is 90 scored plus 10 pretest (100 items) in 3 hours, about 108 seconds per item. Personal Lines is 115 scored plus 10 pretest (125 items) in 2.5 hours, back to 72 seconds per item.
 
-Most states interleave national and state questions and provide one combined score. Missouri presents two clearly separated sections and requires 70% on each independently.
+Pretest questions are mixed in with the scored questions, are not identified, and do not affect your score. Answer every question as though it counts, because you cannot tell which ones do.
+
+## Two Bodies of Content, One Score — Missouri's Distinctive Strategic Implication
+
+Missouri's content outlines split each exam into a general-knowledge portion and a Missouri-specific portion covering state statutes, rules, and regulations. That split drives how you should study — but it is not how you are graded.
+
+Scoring is a single scaled score. Raw scores are converted onto a 0-100 scale, and 70 is the cut. As the candidate handbook puts it, the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Your score report says Pass or Fail. Neither the handbook nor the content outlines publish a separate general and state score, a section-level pass requirement, or a way to retake one portion on its own — if you fail, you re-sit the whole exam after a one-day wait.
 
 Strategic implications:
 
-If you fail the state section only:
+Weight your study time toward Missouri law. The state portion is 40 of 90 scored questions on a single-line exam and 45 of 95 on the combined Life, Accident & Health exam — roughly 44 to 47 percent, far more than most candidates assume from a national study guide.
 
-You passed national — don't retake it
+Do not aim for "70 percent of the questions." Because the score is scaled, the number of items you need right on your particular form is set by the equating process, not by a fixed 70-question threshold. Aim to over-prepare, not to clear a percentage.
 
-Retake only the Missouri state section (24-hour wait; same fee)
+Prepare both bodies of content to the same standard. A strong general score does not bank you anything against a weak Missouri-law score — one scaled number decides the whole exam.
 
-Focus your study specifically on the Missouri state law topics from your Pearson VUE diagnostic report
-
-If you fail the national section only:
-
-You passed Missouri state — don't retake it
-
-Retake only national section (24-hour wait)
-
-Focus study on the weak national content areas from diagnostic report
-
-If you fail both sections:
-
-You can retake both sections at once at the standard exam fee
-
-Or retake each section separately
-
-Practice strategy: Separately prepare for and practice national content and Missouri state content — treat them as two distinct exams requiring two distinct preparation tracks.
+If you fail, budget for a full retake at the standard fee after the 24-hour wait, and use the interval to close the gap in whichever content you know you struggled with.
 
 ## Combined Exam Cost Advantage
 
-Same savings for P&C combined ($35) vs. separate Property + Casualty ($58-$70).
+Combining lines saves money. Property & Casualty combined is $40, against $64 for separate Property ($32) and Casualty ($32) exams. Life, Accident & Health combined is likewise $40 against $64 for the two separate exams.
 
-Missouri's exam fees are so low that even retakes are financially accessible — $29 for a single-line retake represents the lowest retake cost of all comparison states.
+Missouri's exam fees are low enough that even a retake is financially accessible — $32 for a single-line retake is among the lowest retake costs in the country.
 
 ## Score Validity Context
 
@@ -66,21 +56,21 @@ Missouri's 1-year score validity is generous — no deadline pressure once you p
 
 Missouri's May 7, 2025 elimination of remote online exams is a significant structural change. All candidates must now plan for in-person testing:
 
-Missouri Pearson VUE test centers include:
+Missouri Pearson VUE test centers listed in the current handbook:
 
-St. Louis metro (multiple locations including downtown, Chesterfield, Creve Coeur)
+St. Louis (2 locations)
 
-Kansas City metro (multiple locations)
+Kansas City (2 locations)
 
-Springfield
+St. Joseph (2 locations)
 
-Columbia
+Cape Girardeau (2 locations)
 
-Jefferson City
+Joplin (2 locations)
 
-Joplin
+Springfield, Columbia, Carthage, Maryville, Poplar Bluff, and West Plains
 
-Cape Girardeau
+Candidates may also test at Pearson VUE centers in neighboring states — Illinois, Iowa, Kansas, Nebraska, Oklahoma, Arkansas, Kentucky, and Tennessee all host sites within reach of Missouri's borders. Locations and schedules change, so confirm on Pearson VUE before you book.
 
 For candidates in rural Missouri, the nearest test center may require travel. Plan accordingly — particularly if scheduling becomes tight.
 
@@ -90,7 +80,7 @@ All exams:
 
 DCI: Missouri Department of Commerce and Insurance; Commissioner authority; insurance.mo.gov; RSMo Chapters 375/379; multi-sector (insurance + financial institutions + professional registration)
 
-Producer licensing: No PLE; $29-$35 Pearson VUE; in-person only; 70% both sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting; $100 NIPR; 24-48 hr wait before applying; 5-10 day processing; no temp license; renewal 2 years/birth date (not month-end); CE 16 hrs/3 Ethics
+Producer licensing: No PLE; $32-$40 Pearson VUE; in-person only; passing score 70 on a 0-100 scaled score (one score, not a raw percentage); 1-year score validity; 24-hr wait before rescheduling a retake of the full exam; no fingerprinting; $100 NIPR; 24-48 hr wait before applying; 5-10 day processing; no general temporary license for new producers — Missouri's temporary license (RSMo 375.025) issues only in limited succession situations (death or disability of a licensed producer, or a producer entering active military service), not as a way to sell before you pass; renewal 2 years/birth date (not month-end); CE 16 hrs/3 Ethics
 
 RSMo unfair practices: Misrepresentation, twisting, churning, rebating, defamation, unfair discrimination, unfair claims settlement
 
@@ -104,7 +94,7 @@ No Missouri individual mandate
 
 P&C-specific:
 
-Auto minimums: 25/50/10 (RSMo § 303.190 statutory)
+Auto minimums: 25/50/25 — $25,000 BI per person, $50,000 BI per accident, $25,000 property damage (RSMo § 303.190, property damage floor raised from $10,000 effective July 1, 2019)
 
 At-fault state
 
@@ -114,18 +104,18 @@ UM required (RSMo § 379.203): $25,000/$50,000 BI; UIM optional
 
 No PIP requirement
 
-Workers' comp: 5+ employees (1+ for construction); Chapter 287; NCCI; Travelers = assigned risk; non-compliance: Class A Misdemeanor or 3x premium/$50,000
+Workers' comp: 5+ employees (1+ for construction); Chapter 287; NCCI; Travelers = assigned risk; non-compliance (RSMo § 287.128): first offense Class A misdemeanor plus a penalty of up to 3x the annual premium the employer would have paid or up to $50,000, whichever is greater; a subsequent offense is a Class E felony
 
 ## 5 Frequently Asked Questions
 
-- What is the strategic advantage of being able to retake only the failed section? If you pass the national section but fail the Missouri state section, you pay only the retake fee for the state section — not the full exam fee. Since Missouri's retake fees are already the lowest nationally ($29-$35), failing the state section and retaking only it costs much less than in states where failing any portion requires retaking the entire exam. The diagnostic report from Pearson VUE helps identify specific weak areas in the failed section for targeted study.
-- How do I use the Pearson VUE diagnostic report? After the Missouri exam, candidates can log into their Pearson VUE account to access a diagnostic report showing performance by content category. For the failed section, the report identifies which subject areas had the most incorrect answers — allowing targeted review rather than restudy of all content.
-- Is the combined Life & A&H exam harder than two separate exams? The combined exam (170 questions, 180 min) requires sustained focus for 3 hours and covers both lines' content simultaneously. Per-question pacing (63 seconds) is tighter than individual exams (72 seconds). For candidates who have prepared for both lines, the combined exam is efficient — same two sections (national and state) just covering both lines' content. The primary risk is mental fatigue over 3 hours.
+- What happens if I fail the Missouri exam? Your score report shows Pass or Fail plus a scaled score from 0 to 100, where 70 is passing. A score below 70 tells you how close you came, not how many questions you missed. Missouri does not publish separate general and state scores or a partial-retake option, so plan on re-sitting the full exam. Reservations for a retake are not made at the test center — you must wait one day, then reschedule through Pearson VUE and pay the standard exam fee ($32 single line, $40 combined). That low fee is the real cushion here: a Missouri retake costs far less than in most states.
+- Where should I concentrate my study time? On Missouri statutes, rules, and regulations. The Missouri-specific outline is 40 of the 90 scored questions on a single-line exam and 45 of 95 on the combined Life, Accident & Health exam — close to half the exam. Most national exam-prep material under-covers it, which is the single most common reason otherwise well-prepared candidates fail. Work directly from the Missouri Insurance Content Outlines published by Pearson VUE, which cite the specific RSMo and CSR sections each topic comes from.
+- Is the combined Life & A&H exam harder than two separate exams? The combined exam is 95 scored questions plus 10 pretest items (105 total) in 3 hours — about 103 seconds per item, which is actually more generous than the 72 seconds per item you get on a single-line exam. It covers both lines' general content plus a slightly larger 45-question Missouri portion. For candidates who have prepared for both lines it is efficient and cheaper ($40 versus $64). The primary risk is mental fatigue over 3 hours, not time pressure.
 - What is the historical context of Missouri switching to in-person only? Missouri's May 7, 2025 elimination of remote online exams reversed the COVID-era accommodation that allowed online testing. As a DCI/Pearson VUE policy decision, all Missouri insurance licensing exams now require candidates to appear at a physical test center. This affects candidates in rural Missouri who may be farther from test centers and candidates who preferred the convenience of home testing.
-- How does Missouri's 40-60% first-attempt pass rate compare to other states? Industry sources put the all-candidate first-attempt pass rate at roughly 40-60% depending on line — slightly lower than some comparison states, which can be attributed to the no-PLE structure (no mandated study floor) combined with the two-section scoring requirement. States that require PLE (IN: 20 hours; MN: 20 hours) create a mandatory study baseline that improves first-attempt rates. That industry figure isn't JustInsurance's own outcome, though — among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93% (see [pass rates](/pass-rates) for methodology). Missouri's self-directed study requirement makes exam prep quality directly correlated with pass rates.
+- How does Missouri's 40-60% first-attempt pass rate compare to other states? Industry sources put the all-candidate first-attempt pass rate at roughly 40-60% depending on line — slightly lower than some comparison states, which can be attributed to the no-PLE structure — Missouri sets no mandated study floor before you sit — combined with a heavy Missouri-law content share that national study material tends to under-cover. States that require PLE (IN: 20 hours; MN: 20 hours) create a mandatory study baseline that improves first-attempt rates. That industry figure isn't JustInsurance's own outcome, though — among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93% (see [pass rates](/pass-rates) for methodology). Missouri's self-directed study requirement makes exam prep quality directly correlated with pass rates.
 
 ## Master the Missouri Exam Format
 
-Missouri's two-section scoring, lowest exam fees nationally, and section-specific retake all reward candidates who understand the format and prepare specifically for Missouri state law. JustInsurance's DCI-approved Missouri courses cover both the national and Missouri state sections.
+Missouri's single scaled score, its unusually large Missouri-law content share, and its low exam and retake fees all reward candidates who understand the format and prepare specifically for Missouri state law. JustInsurance's DCI-approved Missouri courses cover both the general content and the Missouri statutes, rules, and regulations portion.
 
 Enroll today and prepare strategically for the Missouri insurance exam.

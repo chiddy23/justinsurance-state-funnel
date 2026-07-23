@@ -246,6 +246,6 @@ Receive Nevada license
 
 ## Build Your Multi-State Practice with Reciprocity
 
-Reciprocity is one of the most valuable tools for growing your insurance practice across state lines. At JustInsurance, our Nevada exam prep course prepares you for any required Nevada exams and our Nevada CE courses keep you compliant after licensing.
+Reciprocity is one of the most valuable tools for growing your insurance practice across state lines. At JustInsurance, our Nevada Life & Health exam prep course prepares you if you need to sit for the Life or Health exam, and our Nevada CE courses keep you compliant after licensing.
 
 Enroll today and expand your insurance practice efficiently.

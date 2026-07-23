@@ -12,7 +12,7 @@ image: /blog/images/unlock-your-career-with-a-tennessee-insurance-license-today.
 imageAlt: "Tennessee Property and Casualty Exam: What's on It and How to Pass Both Lines"
 ---
 
-The Tennessee Property and Casualty licensing exams are two separate Pearson VUE exams — Property and Casualty are distinct lines of authority in Tennessee, each requiring its own exam, its own $50 application fee, and its own passing score of 70%. There is no combined P&C exam in Tennessee. A candidate who passes Property but fails Casualty holds only Property authority and must retake only the Casualty exam before applying for Casualty. Most producers pursuing commercial lines or a full personal lines practice need both — and the strategic question is whether to sit for both exams on the same day or stage them sequentially.
+The Tennessee Property and Casualty licensing exams are two separate Pearson VUE exams — Property and Casualty are distinct lines of authority in Tennessee, each requiring its own exam, its own $50 application fee, and its own passing standard — a scaled score of 70, which is neither the number nor the percentage of questions answered correctly. Tennessee never merges the two into one P&C credential, and at a Pearson VUE test center each exam must be taken alone in its own session. What Tennessee does offer is a combination reservation through OnVUE remote testing: Property and Casualty booked together is $80, against the $110 you would pay for two $55 single-line appointments. That is one booking covering two independently scored exams — not a single shorter P&C test, and not a reduction in what you have to know. A candidate who passes Property but fails Casualty holds only Property authority and must retake only the Casualty exam before applying for Casualty. Most producers pursuing commercial lines or a full personal lines practice need both — and the strategic question is whether to sit for both exams on the same day or stage them sequentially.
 
 Both exams follow the same 77-question, 105-minute Pearson VUE format with 68 scored questions and 9 unscored pretest questions. Both test two knowledge domains: general insurance concepts for the respective line and Tennessee state laws and regulations. The state law section is identical across Property and Casualty — the same TDCI provisions, the same Tennessee auto insurance requirements, the same workers' compensation framework — meaning a candidate who masters the state law section for one exam enters the second exam with that section already prepared.
 
@@ -272,7 +272,7 @@ UM coverage:
 
 Pays the insured's bodily injury damages when the at-fault driver is uninsured
 
-Hit-and-run qualifies as UM if there is physical contact with the unidentified vehicle (in most states — verify Tennessee's hit-and-run contact requirement)
+Hit-and-run by an unknown ("John Doe") driver qualifies as UM in Tennessee under TCA §56-7-1201(e) on either of two showings: actual physical contact between the unknown vehicle and the insured or the insured's property, OR proof of the unknown vehicle's existence by clear and convincing evidence from a source other than an occupant of the insured vehicle. The insured must also have reported the accident to law enforcement within a reasonable time and must not have been negligent in failing to identify the other vehicle. Tennessee does not impose an absolute physical-contact rule — that is a distractor answer
 
 Typically covers bodily injury only — property damage requires separate uninsured motorist property damage (UMPD) coverage in many states
 
@@ -384,7 +384,7 @@ Part Two — Employers' Liability: Covers third-party suits against the employer
 
 Part Three — Other States Insurance: Extends Part One coverage to employees temporarily working in states not listed in the policy's declarations. Without Part Three, a Tennessee employee injured while working temporarily in Georgia may not have workers' compensation benefits covering that injury under the Tennessee policy.
 
-Experience modification factor (EMR): Compares the employer's specific claims history to other employers in the same classification and adjusts premium up or down accordingly. EMR = 1.00 is average. Below 1.00 is a credit (better-than-average experience). Above 1.00 is a debit (worse-than-average experience). The EMR is calculated by the rating bureau — in Tennessee, the Tennessee Compensation Rating Bureau — using three years of prior loss and payroll data.
+Experience modification factor (EMR): Compares the employer's specific claims history to other employers in the same classification and adjusts premium up or down accordingly. EMR = 1.00 is average. Below 1.00 is a credit (better-than-average experience). Above 1.00 is a debit (worse-than-average experience). The EMR is calculated by the workers' compensation rating organization using three years of prior loss and payroll data. In Tennessee that organization is NCCI — the National Council on Compensation Insurance — which is the state's designated rate service organization under TCA §56-5-320 and produces experience modifications under its Experience Rating Plan Manual. Tennessee is an NCCI state; it does not operate its own independent compensation rating bureau the way a handful of states (such as New York, New Jersey, Pennsylvania, and North Carolina) do.
 
 Workers' compensation classification codes: Every employee is assigned a classification code reflecting their job duties and the associated historical loss experience for that work type. Classification codes drive the base rate per $100 of payroll before EMR adjustment. Misclassification — placing employees in a lower-rate code than their actual duties warrant — is an audit finding that generates significant additional premium.
 
@@ -464,11 +464,11 @@ Licensing mechanics:
 
 No mandatory [prelicensing](/tennessee/prelicensing) (effective March 21, 2023)
 
-Pearson VUE; $59 per attempt; 70% pass; immediate results
+Pearson VUE; $55 per line (same fee at a test center or via OnVUE), or $80 for the Property and Casualty combination booked as one OnVUE reservation; passing is a scaled score of 70, not a raw percentage; immediate results
 
 IdentoGO fingerprinting: $37.15; TBI + FBI
 
-NIPR application: $50 per line; 48-hour mandatory post-exam wait
+NIPR application: flat $50 filing fee regardless of the number of lines on the application; 48-hour mandatory post-exam wait
 
 Biennial license; last day of birth month
 
@@ -476,7 +476,7 @@ CE and renewal:
 
 24 hours biennial; 3 hours ethics; no classroom minimum
 
-Renewal fee: standard amount (contact the TDCI); 60-day grace period; late fee not publicly posted (contact the TDCI); up to 1 year late renewal
+Renewal fee: $60, or $30 for limited lines (Tenn. Code Ann. §56-6-121); no fee-free grace period — under §56-6-107(d), a late renewal within 12 months of the due date requires a penalty of double the unpaid renewal fee ($120, or $60 for limited lines); after 12 months, full relicensing is required
 
 Appointment rules:
 
@@ -556,7 +556,9 @@ The diagnostic [practice exam](/tennessee/practice-exam) shows readiness above 7
 
 The candidate is under time pressure to achieve dual licensure quickly
 
-Same-day exam logistics: Schedule both exams at the same Pearson VUE test center or as consecutive OnVUE sessions with at least 30 minutes between appointments for the check-in process. Take the line you are more confident about first.
+Same-day exam logistics: At a test center, book two separate appointments — the handbook requires each single-line exam to be taken alone in one session — and leave at least 30 minutes between them for the second check-in. Remotely, book the Property and Casualty combination as one OnVUE reservation. Take the line you are more confident about first.
+
+The cost footnote on sequencing: staging the two lines weeks apart means two $55 single-line reservations, or $110. The OnVUE combination is $80. So Approach 1 costs about $30 more than Approach 2 — real money, but small next to a $55 retake fee and a 10-day waiting period if the split preparation was not enough. Sequencing is still the right call for most first-time candidates; just book it knowing you are paying a modest premium for the deeper preparation, not saving money.
 
 ### Topic Prioritization for Property
 
@@ -612,7 +614,7 @@ Collision vs. comprehensive scenario questions
 
 I passed Property but failed Casualty. Do I need to retake Property before I can add Casualty after passing the retake?
 
-No. Tennessee issues licenses by individual line of authority. Your Property license is active and remains active — it is not affected by your Casualty exam result. Study for the Casualty retake using your score report to identify the weakest content areas, schedule the retake when practice performance reaches 80%+, pass the Casualty exam, and submit a separate NIPR application for Casualty authority with its own $50 application fee plus $5.60 NIPR fee. Tennessee requires a 10-day wait after a first failure (30 days after each subsequent failure) before you can retake the Casualty exam. Your Property license is fully operative throughout that wait.
+No. In Tennessee each line of authority stands on its own, so your Property authority remains active — it is not affected by your Casualty exam result. Study for the Casualty retake using your score report to identify the weakest content areas, schedule the retake when practice performance reaches 80%+, pass the Casualty exam, and submit a separate NIPR application for Casualty authority with its own $50 application fee plus $5.60 NIPR fee. Tennessee requires a 10-day wait after a first failure (30 days after each subsequent failure) before you can retake the Casualty exam. Your Property authority is fully operative throughout that wait.
 
 The coinsurance formula confuses me in exam questions. How do I set it up correctly every time?
 
@@ -624,4 +626,4 @@ Read the scenario for two pieces of timing information: when the incident occurr
 
 The Tennessee Property and Casualty exams reward candidates who study both the technical content of each line and the Tennessee-specific statutory provisions that appear consistently across both state law sections. Candidates who master the coinsurance formula, who can identify the correct homeowners form for every residential scenario, who know the CGL coverage triggers with precision, and who can recall Tennessee's 50% comparative fault bar and 25% bad faith penalty without hesitation are the candidates who earn both licenses efficiently — often in a single examination day — and move into their insurance careers with the full P&C authorization that commercial and personal lines practice requires.
 
-Visit JustInsurance to enroll today and complete your Tennessee P&C exam prep with a state-approved course designed for Pearson VUE — the preparation that first-time passes on both lines are built on.
+Visit JustInsurance to enroll today and complete your Tennessee P&C exam prep with a course built to the current Pearson VUE Tennessee content outline — the preparation that first-time passes on both lines are built on.

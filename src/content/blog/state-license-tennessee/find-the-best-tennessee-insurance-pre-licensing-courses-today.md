@@ -21,9 +21,11 @@ It’s completely normal to feel overwhelmed by all the course material and stat
 
 ## Understand your licensing requirements
 
-Before you dive into choosing a pre-licensing course, take time to review the official licensing requirements from the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Each line of authority in Tennessee has its own set of pre-licensing hours you must complete in order to sit for the state exam. That means your study plan may vary depending on whether you’re going for life & health, property & casualty, or both.
+Before you dive into choosing a pre-licensing course, take time to review the official licensing requirements from the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Start with the single most important fact: **Tennessee does not require pre-licensing education for any line of authority.** The state repealed its mandatory prelicensing requirement effective March 21, 2023 (2023 Tenn. Acts, ch. 57), so there is no minimum number of course hours standing between you and the Pearson VUE exam. You can register and sit for the exam without taking a course at all.
 
-You’ll also want to verify that you meet the general eligibility criteria, which typically include being at least 18 years old and passing a background check. Different Tennessee insurance pre-licensing courses are designed to align with these official rules, so once you understand which licenses you want, you’ll have a clearer view of the exact courses needed.
+That changes what you are shopping for. A Tennessee pre-licensing course is exam preparation, not a legal prerequisite — which means you should judge it purely on whether it will actually get you through the test, not on whether it "satisfies" an hour count. One more scheduling note while you plan: if you want both Life and Accident & Health, you will be graded on two distinct Pearson VUE exams and need to prepare for both, even though Pearson VUE lets you book the pair as one $80 OnVUE reservation rather than paying $55 for each.
+
+You’ll also want to verify that you meet the general eligibility criteria, which typically include being at least 18 years old and passing a background check with fingerprinting. Once you know which lines of authority you want, you’ll have a clearer view of which prep courses are worth your time.
 
 ## Key features to consider in a Tennessee pre-licensing course
 
@@ -55,11 +57,11 @@ When you’re reviewing different Tennessee insurance pre-licensing courses, you
 
 ### 1\. How long does it take to complete a pre-licensing course?
 
-It depends on your area of study and the minimum hours required by the state. For example, you may need 20 to 40 hours per major line of authority. If you choose an online course, you might finish faster by dedicating extra study time each day, whereas in-person classes follow a set schedule.
+That’s entirely up to you — Tennessee sets no minimum hours, so there is no state-mandated length to hit. As a practical benchmark, our own Tennessee courses run about 20 hours for a single line and about 40 hours for a life and health package. Online, self-paced study lets you compress that by putting in extra hours a day; in-person classes follow a set schedule.
 
 ### 2\. Can I combine multiple lines of authority in one course?
 
-Yes, some providers offer combined courses for life & health or property & casualty. If you plan to pursue multiple licenses, a bundled program can be a convenient way to meet all of your pre-licensing hours in a single package instead of taking two separate courses.
+Yes, some providers offer combined courses for life & health or property & casualty. If you plan to pursue multiple lines, a bundled program can be a convenient way to cover all the material in a single package instead of buying two separate courses. Remember that Tennessee still scores Life and Accident & Health as two distinct exams, so a combined course is preparing you for two graded tests — even if you book them as a single $80 OnVUE combination reservation rather than two $55 appointments.
 
 ### 3\. What happens if I don’t pass the exam on my first try?
 
@@ -69,12 +71,12 @@ It’s not unusual to need a second attempt. You’ll simply schedule another ex
 
 Yes, once you hold your Tennessee insurance license, you need to complete [Tennessee continuing education](/tennessee/continuing-education) (CE) credits regularly to maintain it. Different lines of authority have different CE requirements, so it’s wise to keep track of these deadlines to avoid any license lapses.
 
-### 5\. How do I determine if a course is state-approved?
+### 5\. Does my pre-licensing course have to be state-approved?
 
-Always verify that your chosen provider is recognized by the Tennessee Department of Commerce and Insurance. Most websites will clearly state this if they’re officially approved. If you’re unsure, you can contact the department directly to confirm.
+No. Because Tennessee eliminated the pre-licensing education mandate in 2023, the state no longer approves or certifies pre-licensing courses, and no course completion certificate is filed with your application. Judge a program on its content and pass results instead. (This is different from continuing education after you’re licensed — TDCI does approve CE courses and providers, and those approvals matter.)
 
 ## Final thoughts
 
 Choosing the right pre-licensing course is a vital step on your journey to becoming a licensed insurance agent in Tennessee. With your specific goals in mind, you’ll be better positioned to spot a course that aligns with your schedule, budget, and preferred learning style. When you do, you’ll find the exam content more approachable and feel more at ease about test day.
 
-If you’re ready to move forward, start by setting aside time this week to review a few reputable Tennessee insurance pre-licensing courses. Compare their features, check for state approval, and look at student feedback to see what truly works. You’ll soon be on your way to achieving a brand-new professional milestone.
+If you’re ready to move forward, start by setting aside time this week to review a few reputable Tennessee insurance pre-licensing courses. Compare their features, look at how closely the material tracks the Pearson VUE content outline, and read student feedback to see what truly works. You’ll soon be on your way to achieving a brand-new professional milestone.

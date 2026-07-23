@@ -1,10 +1,11 @@
 ---
 title: Discover the True Florida Insurance License Cost for You
 description: >-
-  Florida insurance license renewal cost: education hours, state exam details,
-  background check, application fees, and timeline from licensed insurance
-keyword: florida insurance license renewal cost
-targetKeywords: florida insurance license renewal
+  What a Florida insurance license really costs: pre-licensing education, state
+  exam, fingerprinting, and application fees — plus the recurring CE cost that
+  keeps your perpetual license active. Licensed-agent guidance.
+keyword: florida insurance license cost
+targetKeywords: florida insurance license cost
 cluster: florida-insurance-license
 clusterName: Florida Insurance License
 type: supporting
@@ -92,7 +93,7 @@ When you add up each line, the grand total might land around $350 to $500 or mor
 
 ## Plan for future fees
 
-Obtaining your Florida insurance license is only the beginning. Throughout your career, you’ll need to maintain your license by completing [Florida continuing education](/florida/continuing-education) (CE) credits. The state’s CE requirements can vary, but most licenses must be renewed every two years with proof of your coursework. CE courses often come with fees to cover instruction and any materials, so be sure to budget for this recurring cost.
+Obtaining your Florida insurance license is only the beginning. Throughout your career, you’ll need to maintain your license by completing [Florida continuing education](/florida/continuing-education) (CE) credits. Florida agent licenses are actually perpetual — there’s no license-renewal application and no renewal fee. What recurs is your CE obligation: you must complete your credits every two years, by the end of your birth month, to keep the license active. New agents complete 24 CE hours per two-year cycle, which drops to 20 hours once you’ve been licensed more than six years, and each cycle must include the state’s required Law & Ethics update course. CE courses often come with fees to cover instruction and any materials, so be sure to budget for this recurring cost.
 
 Another cost you might encounter is Errors & Omissions (E&O) insurance, especially if you open an independent agency or transition into a role that requires personal liability coverage. E&O insurance premiums can range widely, so it’s always good to review your options and speak with a trusted insurance provider or consult your employer for group rate discounts.
 

@@ -236,7 +236,7 @@ export default function FloridaSpanishHubPage() {
               <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">
                 {SPANISH_UI.totalCostLabel}
               </p>
-              <p className="text-sm font-bold text-navy">$350-500</p>
+              <p className="text-sm font-bold text-navy">{stateData.totalCostRange}</p>
             </div>
             <div className="bg-gray-bg rounded-lg p-4 text-center">
               <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">

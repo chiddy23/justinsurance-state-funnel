@@ -86,15 +86,15 @@ When UM/UIM must be offered: Arizona requires insurers to offer UM/UIM coverage 
 
 Producer advisory role: Given Arizona's uninsured driver reality, presenting UM/UIM as essential rather than optional protects clients and demonstrates genuine advisory value. Document discussions about UM/UIM in every auto insurance interaction.
 
-## Older Driver Rate Reduction (A.R.S. § 20-266.01 / § 20-266 Motor Vehicle Rate Reduction)
+## Older Driver Rate Reduction (A.R.S. § 20-262)
 
-Arizona law provides a rate reduction for older drivers who complete qualifying accident prevention courses:
+Arizona law permits — but does not require — insurers to offer a rate reduction to older drivers who complete a qualifying accident prevention course:
 
-Eligible drivers: Arizona motorists who complete a qualifying accident prevention course (typically 55+ programs like AARP Driver Safety, AAA RoadWise Driver, or similar)
+Eligible drivers: Insureds who are at least 55 years old and have completed an approved, non-self-instructed accident prevention/driver improvement course (such as AARP Driver Safety, AAA RoadWise Driver, or similar) within the preceding three years.
 
-Rate reduction: Insurers must reduce premiums for qualifying completions (specific percentage varies by carrier)
+Rate reduction: The discount is discretionary. A.R.S. § 20-262 says an insurer "may provide" the reduction, so whether one is offered — and how much — is at the carrier's discretion. Not every insurer participates, so never promise a client a guaranteed discount.
 
-Renewal requirement: Course must be renewed periodically to maintain the premium discount
+Renewal requirement: Because the statute only credits a course completed within the last three years, drivers must retake an approved course periodically to keep qualifying.
 
 Producer opportunity: Informing senior clients about this rate reduction — and helping them access qualifying courses — is a genuine value-add in Arizona's active senior market, particularly in Phoenix-area retirement communities.
 
@@ -180,6 +180,6 @@ Producer implication for senior clients: Senior clients with Medicare as primary
 
 ## Serve Arizona Auto Clients With Genuine Expertise
 
-Arizona's auto insurance system rewards producers who understand its at-fault mechanics, limits adequacy considerations, and ADAS developments. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) and CE courses cover Arizona auto insurance law in practical depth.
+Arizona's auto insurance system rewards producers who understand its at-fault mechanics, limits adequacy considerations, and ADAS developments. At JustInsurance, our Arizona [property and casualty continuing education](/arizona/continuing-education) covers Arizona auto insurance law in practical depth.
 
-Enroll today and develop the Arizona auto insurance expertise clients need.
+Enroll in your Arizona P&C continuing education today and keep the auto insurance expertise your clients need current.

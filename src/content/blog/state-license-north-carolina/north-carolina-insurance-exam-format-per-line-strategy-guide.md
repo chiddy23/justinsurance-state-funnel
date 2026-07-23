@@ -38,35 +38,37 @@ This per-line structure has significant implications for exam strategy.
 
 All North Carolina major-line insurance exams share common format characteristics:
 
-Computer-based. Taken on computers at Pearson VUE testing centers or through online proctored testing.
+Computer-based. Taken at Pearson VUE testing centers, including select test centers on military installations.
 
 Multiple choice. All questions are four-option multiple choice.
 
-Two-section structure. General Knowledge and North Carolina Statutes combined in one exam.
+Two-section structure. General Knowledge and North Carolina Statutes are combined in one exam. The two parts are scored together, not individually — you need an overall passing score, not a passing score on each part.
 
-Single combined score. One overall percentage score.
+Scaled score of 70 to pass. This is the detail candidates most often misunderstand. North Carolina reports a scaled score on a 0–100 scale. Per Pearson VUE's NC candidate handbook, "the scaled score that is reported to you is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Scaling exists so that a slightly harder exam form and a slightly easier one represent the same standard, which means the raw number of correct answers needed to pass varies by form and is not published. Plan to know the material, not to budget a fixed number of misses.
 
-70% passing requirement. At least 39 of 55 scored questions correct.
+55 scored questions on the Life, Accident and Health or Sickness, Property, and Casualty exams — plus up to 5 unscored pretest questions mixed in and not identified. Shorter than most states.
 
-55 questions per exam. Shorter than most states.
+1 hour 15 minutes for each of those four exams.
 
-1 hour 15 minutes per exam. Approximately 82 seconds per question on average.
+Personal Lines is the exception. The Personal Lines Agent exam is also a major line of authority, but it runs 80 scored questions plus up to 16 pretest questions with 1 hour 45 minutes allotted. If you are testing Personal Lines, none of the 55-question pacing math below applies to you.
 
 Multiple exam forms. Different question sets per candidate, same content outline.
 
-Two forms of ID required. Distinctive to North Carolina among most states.
+Two forms of ID required. Primary must be government-issued with photo and signature; secondary must carry a valid signature. Distinctive to North Carolina among most states.
 
 ## Time per Question Analysis
 
-Understanding pacing helps manage exam time:
+Understanding pacing helps manage exam time. Pace against the total number of items in front of you, not the scored count — pretest questions are mixed in and not identified, so you will answer all of them.
 
-55 questions in 75 minutes:
+Life, A&H, Property, Casualty — up to 60 items in 75 minutes:
 
-Average time per question: ~82 seconds
+Average time per item: ~75 seconds
 
-For 39 correct answers needed: can miss 16 questions
+Personal Lines Agent — up to 96 items in 105 minutes:
 
-Most prepared candidates complete with substantial time remaining. The shorter question count rewards confident, prepared candidates who don't overthink.
+Average time per item: ~65 seconds
+
+There is no "you can miss X" number to aim at. Because North Carolina reports a scaled score, the raw count needed to pass shifts with the exam form, so a margin-of-error strategy is not something you can plan around. Most prepared candidates finish with time remaining, and the shorter question count on the four single-line exams rewards candidates who trust their preparation and don't overthink.
 
 Time management approach:
 
@@ -94,17 +96,17 @@ Analysis questions (~20-25%). Test deeper conceptual understanding.
 
 "Which of the following best describes the purpose of the incontestability clause?"
 
-North Carolina-specific questions (~15-25%). Test knowledge of NC General Statutes Chapter 58 and NCDOI rules.
+North Carolina-specific questions (roughly a quarter of the scored questions — about 24-27% on the four single-line exams, 30% on Personal Lines). Test knowledge of NC General Statutes Chapter 58 and NCDOI rules.
 
 "Under North Carolina law, which of the following must the Commissioner of Insurance approve?"
 
-Given only 55 questions total, each section is worth significant weight. Don't neglect any content area.
+Given only 55 scored questions on the single-line exams (80 on Personal Lines), each content area carries significant weight. Don't neglect any of them.
 
 ## What General vs. NC-Specific Means
 
-General Knowledge (~75-85%): Insurance principles applicable in any state — products, provisions, concepts, and federal regulations.
+General Knowledge (about 70-76%, depending on the exam): Insurance principles applicable in any state — products, provisions, concepts, and federal regulations.
 
-NC Statutes and Regulations (~15-25%): North Carolina-specific insurance laws from G.S. 58, NCDOI regulations, and distinctive NC market rules.
+NC Statutes and Regulations (about 24-30%, depending on the exam): North Carolina-specific insurance laws from G.S. 58, NCDOI regulations, and distinctive NC market rules. Per the Pearson VUE North Carolina content outline (effective March 2, 2026), the dedicated "North Carolina Statutes and Regulations" section is 14 of the 55 scored questions on Life and on Accident & Health (about 25%), 13 of 55 on Property (about 24%), 15 of 55 on Casualty (about 27%), and 24 of 80 on Personal Lines (30%).
 
 Both sections appear in the same exam — you don't choose which to take. A single score across both sections determines pass or fail.
 
@@ -270,33 +272,17 @@ Failed attempt: Reschedule and pay another $45 per exam.
 
 Planning implication: Don't schedule your exam until you're confident in preparation — each failed attempt costs $45.
 
-## Online vs. In-Person Testing
+## Where You Test: Pearson VUE Test Centers
 
-Pearson VUE Testing Centers:
+North Carolina insurance exams are delivered at Pearson VUE testing centers. The current NC candidate handbook does not document an at-home online-proctored option for these exams, so plan on an in-person appointment.
 
 Physical locations throughout North Carolina
 
-Professional, controlled environment
+Also available at select Pearson VUE test centers on military installations, for service members, dependents, and contractors with authorized base access
 
-Some candidates prefer in-person structure
+Professional, controlled environment with a published test center policy — no personal items in the testing room, simple-function calculator permitted
 
-Online Proctored Testing:
-
-Take from home or office
-
-Requires compatible computer, webcam, quiet environment
-
-Same time limits, ID requirements, and scoring
-
-Live proctor monitors throughout
-
-Which to choose:
-
-In-person: Better for those who need structured environment
-
-Online: Better for those with long testing center commutes or scheduling flexibility needs
-
-Both options have identical [pass rates](/pass-rates) when preparation is equivalent.
+Practical planning point: because there is no remote option to fall back on, build travel time into your appointment. Candidates who arrive late are treated as absent and forfeit the $45 fee. If Pearson VUE adds a remote-proctored option for North Carolina, it will appear on the NC insurance program page and in the candidate handbook — check there rather than assuming a delivery mode is available.
 
 ## The Two-ID Requirement in Practice
 
@@ -312,11 +298,13 @@ Military ID
 
 State-issued ID card
 
-Secondary ID (required): Signature on document
+Secondary ID (required): Valid signature on the document
 
-Another government-issued document with signature
+A debit (ATM) card or credit card
 
-Major credit card is sometimes accepted as secondary (verify with Pearson VUE)
+Or any second document from the primary ID list
+
+Neither ID may be expired — Pearson VUE does not recognize state renewal grace periods
 
 Do not arrive with only one form of ID. You'll be denied admission and forfeit your exam fee.
 

@@ -49,19 +49,19 @@ Costs for these courses vary. Some providers charge a flat fee that includes stu
 
 ## Register for the exam
 
-After completing your pre-licensing coursework, you will need to register for the state licensing exam. New Jersey partners with approved testing vendors, which often let you schedule your exam date online. Keep in mind:
+After completing your pre-licensing coursework, you will need to register for the state licensing exam. The Department of Banking and Insurance has contracted PSI Services LLC to administer New Jersey producer exams, and you can schedule online, by phone, or through PSI's remote-proctored option. Keep in mind:
 
-• You must show proof you finished the pre-licensing coursework before you can officially register.  
-• You will pay an exam fee, typically due when you schedule your spot.  
-• Exams are offered at various testing centers throughout the state, so choose a location close to you if possible.
+• Your pre-licensing course completion certificate (or a DOBI waiver) is presented to PSI on exam day, not at registration.  
+• The exam fee is due when you book your spot, and it is not refundable.  
+• Exams are offered at testing centers throughout the state, or remotely, so pick whichever setting you will perform best in.
 
-Exam fees can change slightly, but expect a cost in the ballpark of $30–$50 per line of authority. Be sure to double-check if your exam covers multiple lines or if you need separate registrations for each line you plan to sell.
+PSI's current New Jersey candidate information bulletin lists a $38 examination fee. It is charged per exam, and New Jersey does not offer a combined Life and Health test — each line of authority you intend to write is a separate sitting and a separate fee. Confirm the current figure in the bulletin before you schedule, since fees can be revised.
 
 ## Ace your licensing test
 
 Test day often feels nerve-racking, but proper preparation can help you walk in confidently. You will usually see multiple-choice questions that test your knowledge of insurance concepts, coverage options, and New Jersey regulations. The passing score is generally around 70 percent, though you should always aim higher.
 
-Many people find that creating flashcards, taking practice exams, and reviewing complex terminology multiple times are the best ways to reduce any pre-exam anxiety. On the day itself, arrive early with two forms of identification, one of which should have your photo (such as a driver’s license or passport). Make sure you leave personal items—like cell phones—in a secure spot, as they typically are not allowed in the testing area.
+Many people find that creating flashcards, taking practice exams, and reviewing complex terminology multiple times are the best ways to reduce any pre-exam anxiety. On the day itself, PSI asks you to arrive 30 minutes before your appointment, and to bring one form of identification — it must be government-issued, current, and carry your name, signature, and photograph. A state driver’s license, state ID card, U.S. passport, or U.S. military ID all qualify; temporary identification is not accepted, and the name on the ID has to match the name you registered under. Life, Health, Property, Casualty, Title, and Personal Lines candidates also have to present a pre-licensing course completion certificate (electronic or hard copy) or a DOBI-issued waiver. Make sure you leave personal items—like cell phones—in a secure spot, as they are not allowed in the testing area.
 
 If you do not pass, take some time to restudy the sections in which you missed the most questions. You can retest, though you will need to register again and pay the fee. Failing once or twice is not the end of your journey, but perseverance and thorough studying will help you earn that passing grade.
 

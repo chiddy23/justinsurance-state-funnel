@@ -16,7 +16,7 @@ The New Jersey Property and Casualty exams cover two of the most commercially im
 
 ## How the P&C Exams Are Structured
 
-Property and Casualty are separate exams in New Jersey. The Property exam has 79 scored questions and the Casualty exam has 91 scored questions, each plus unscored pretest items; both allow 210 minutes and require a 70% passing score. The fee is $47 per exam. Most candidates pursuing a full P&C license take both exams — either on the same day or in close succession.
+Property and Casualty are separate exams in New Jersey. The Property exam has 79 scored questions and the Casualty exam has 91 scored questions, each plus unscored pretest items; both allow 210 minutes and require a 70% passing score. PSI's examination fee is $38 per exam, and it is charged per attempt — confirm the current figure in the PSI New Jersey candidate information bulletin before you schedule. Most candidates pursuing a full P&C license take both exams — either on the same day or in close succession.
 
 Each exam follows the same two-section architecture: a general knowledge section covering nationally applicable P&C concepts, and a New Jersey state law section covering NJ-specific regulations, the auto insurance system, and producer licensing rules.
 
@@ -32,7 +32,9 @@ Policy Provisions — conditions, exclusions, and endorsements across different 
 
 New Jersey Laws — Common to All Lines — producer licensing, DOBI Commissioner powers, unfair trade practices, and replacement regulations.
 
-New Jersey Laws — Property-Specific — NJ-specific property insurance rules, including the Fair Plan (New Jersey Property Liability Insurance Guaranty Association), rules governing nonrenewal and cancellation of homeowners policies, and coastal property insurance considerations relevant to New Jersey's Shore communities.
+New Jersey Laws — Property-Specific — NJ-specific property insurance rules, including the New Jersey FAIR Plan, rules governing nonrenewal and cancellation of homeowners policies, and coastal property insurance considerations relevant to New Jersey's Shore communities.
+
+One distinction to nail down before test day: the FAIR Plan and the guaranty association are two different entities, and candidates routinely confuse them. The New Jersey FAIR Plan is operated by the New Jersey Insurance Underwriting Association (NJIUA) — the state's residual property market, which writes basic property coverage for applicants who cannot obtain it in the voluntary market. The New Jersey Property-Liability Insurance Guaranty Association (PLIGA) is a separate body that pays covered claims when a property/casualty insurer becomes insolvent. Residual market versus insolvency backstop. Exam writers like this pair precisely because the names blur together.
 
 ### Key Strategy: The Coinsurance Formula
 
@@ -90,7 +92,7 @@ Correct Answer: B. Under the verbal threshold (Limited Right to Sue), a NJ polic
 
 Do I have to take the Property and Casualty exams separately in New Jersey?
 
-Yes. Property and Casualty are two separate lines of authority in New Jersey, each requiring its own 20-hour [prelicensing](/new-jersey/prelicensing) course and its own PSI exam. You must hold both the Property and Casualty licenses to have what is commonly called a "P&C license." You can take both exams on the same day at PSI — paying two $47 fees — or schedule them separately. Most candidates find it efficient to complete both prelicensing courses first, then schedule the exams in close succession.
+Yes. Property and Casualty are two separate lines of authority in New Jersey, each requiring its own 20-hour [prelicensing](/new-jersey/prelicensing) course and its own PSI exam. You must hold both the Property and Casualty licenses to have what is commonly called a "P&C license." You can take both exams on the same day at PSI — paying two $38 examination fees — or schedule them separately. Most candidates find it efficient to complete both prelicensing courses first, then schedule the exams in close succession.
 
 How heavily is New Jersey auto insurance tested on the Casualty exam?
 
@@ -110,4 +112,4 @@ Most candidates find the Casualty exam more conceptually demanding than the Prop
 
 New Jersey's P&C exams test real insurance knowledge in the context of one of the country's most complex state insurance environments. Master the coinsurance formula, understand NJ's no-fault auto architecture, and know the current 2026 liability minimums — and you will be well ahead of most candidates walking into PSI.
 
-Visit JustInsurance to enroll today and complete your NJ Property and Casualty prelicensing courses with the exam-focused content you need to pass.
+Visit JustInsurance to enroll today and — once you have passed the PSI exam and earned your license — keep your Property and Casualty expertise current with DOBI-approved [continuing education](/new-jersey/continuing-education).

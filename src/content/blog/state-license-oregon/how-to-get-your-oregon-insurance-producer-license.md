@@ -114,7 +114,7 @@ For questions about fingerprinting, contact Oregon Producer Licensing at:
 
 Phone: (503) 947-7981
 
-Email: web.insagent@oregon.gov
+Email: web.insagent@dcbs.oregon.gov
 
 ## Step 5: Submit Your License Application
 

@@ -266,9 +266,9 @@ Mental preparation
 
 ## Connecticut-Specific Study Time Allocation
 
-Approximately 20-25% of your study time should focus on Connecticut-specific content:
+Connecticut-specific law is a large share of the exam — 30 of the 80 scored questions (about 38%) on the combined Life, Accident, Health or Sickness Producer exam, and 25 of 75 (about a third) on the single-line Life or Health exams. Plan for roughly a third to 40% of your study time on Connecticut-specific content:
 
-For 6-week plan: ~10-15 hours focused on Connecticut content For 4-week plan: ~6-10 hours focused on Connecticut content For 2-week plan: ~3-5 hours focused on Connecticut content
+For 6-week plan: ~18-24 hours focused on Connecticut content For 4-week plan: ~11-15 hours focused on Connecticut content For 2-week plan: ~5-8 hours focused on Connecticut content
 
 Don't leave Connecticut content for the final week. Integrate throughout your study period.
 
@@ -308,37 +308,19 @@ Aim for 80%+ scores consistently before scheduling real exam.
 
 ## Topic-by-Topic Allocation
 
-Within your study time, allocate based on exam weighting:
+You don't have to guess at the weighting. Pearson VUE's Connecticut Insurance Content Outlines score the combined Life, Accident, Health or Sickness Producer exam in two sections — 50 General Knowledge questions and 30 Connecticut-Specific questions, 80 scored in total. Allocate your study time to match.
 
-Life Insurance Topics (25-30% of combined exam):
+General Knowledge (50 of 80 scored questions — about 62%). This one section covers all of the product and concept material:
 
-Term, whole, universal, variable life
+Life insurance — term, whole, universal, and variable life; policy provisions and riders; annuities; premiums, dividends, and cash value
 
-Policy provisions and riders
+Health insurance — HMOs, PPOs, POS, EPOs; group health; Medicare; disability income; long-term care
 
-Annuities
+Federal regulation — HIPAA, ERISA, ACA, COBRA
 
-Premiums, dividends, cash value
+General insurance concepts — risk and insurance principles, contract law basics, insurable interest
 
-Health Insurance Topics (25-30% of combined exam):
-
-HMOs, PPOs, POS, EPOs
-
-Group health
-
-Medicare
-
-Disability income
-
-Long-term care
-
-Connecticut Partnership Program
-
-Federal Regulation (10-15% of combined exam):
-
-HIPAA, ERISA, ACA, COBRA
-
-Connecticut-Specific (15-25% of combined exam):
+Connecticut-Specific (30 of 80 scored questions — about 38%). This is the state law section, and it carries far more weight than most candidates expect:
 
 Connecticut Insurance Code
 
@@ -350,17 +332,11 @@ Access Health CT
 
 HUSKY Health
 
-Partnership Program
+Connecticut Partnership Program
 
 Annuity Best Interest
 
-General Insurance Concepts (10-15% of combined exam):
-
-Risk and insurance principles
-
-Contract law basics
-
-Insurable interest
+If you're testing for a single line, the Life-only and Health-only exams are 75 scored questions each, with 25 of those (about a third) Connecticut-specific. Pearson VUE revises these outlines periodically, so confirm the current version before you build your plan around it.
 
 ## Timing Your Exam Schedule
 
@@ -410,7 +386,7 @@ Insufficient practice questions. Reading isn't practice. You need substantial vo
 
 Skipping practice exams. Practice exams test endurance and calibration.
 
-Ignoring Connecticut content. 15-25% of the exam.
+Ignoring Connecticut content. It's about 38% of the combined exam — 30 of the 80 scored questions.
 
 Cramming the final week. Cramming creates fatigue without producing retention.
 
@@ -440,7 +416,7 @@ Reschedule your exam if needed. Better to delay than to fail.
 - How many practice questions should I work through? Minimum 500 practice questions. Strong preparation involves 1,000+ practice questions across all content areas.
 - How many full-length practice exams should I take? At least 2-3 full-length practice exams under timed conditions before scheduling real exam.
 - Should I study every day or take rest days? Daily consistency matters most. One rest day per week is fine. Complete burnout hurts more than helps.
-- When should I take Connecticut-specific content? Throughout your study period, not just the final week. Approximately 20-25% of your study time should focus on Connecticut content.
+- When should I take Connecticut-specific content? Throughout your study period, not just the final week. Connecticut-specific law is about 38% of the combined exam (30 of 80 scored questions), so plan for roughly a third to 40% of your study time on Connecticut content.
 
 ## Build a Connecticut Study Plan That Works
 

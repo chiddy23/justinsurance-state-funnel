@@ -120,11 +120,15 @@ Provider contract transparency (SSB 5579, RCW 48.43.732): New 2025 law regulates
 
 Health care benefit managers (effective January 24, 2026): New OIC rule implementing regulations for pharmacy benefit managers — addressing transparency and accountability in PBM activities that affect drug costs and health insurance pricing.
 
-## Washington SHOP and Small Business
+## Washington Small Group — and Why There Is No SHOP
 
-Small Business Health Options Program (SHOP): Available through Washington Healthplanfinder for businesses with up to 50 employees (RCW 48.43.715). Provides year-round enrollment for qualified small businesses.
+Washington does not have a Small Business Health Options Program (SHOP) marketplace. Washington Healthplanfinder Business stopped selling small-business coverage after the 2017 plan year — no carrier offered SHOP-certified plans through the exchange for 2018 — and the Washington Health Benefit Exchange has not sold small-group coverage since. If a study guide or an older producer manual still describes an active Washington SHOP, that material is out of date.
 
-Washington small group market: Washington has active small group health insurance market regulation including guaranteed issue, rate restrictions, and minimum participation requirements.
+How small employers actually buy coverage: per OIC, any Washington business with 1–50 employees can buy in the small employer market, either directly from an insurance company or through an insurance agent or broker. Association coverage is a third route for some employers.
+
+Washington small group market: Washington actively regulates the small group market, including guaranteed issue, rate restrictions, and carrier participation and contribution requirements.
+
+Producer implication: do not route a small-group client to Washington Healthplanfinder. Healthplanfinder is the individual-market channel — that is where Cascade Care and Cascade Care Savings live. Small-group business is written carrier-direct or through a broker. Employees of a small business that does not offer coverage can still shop as individuals on Healthplanfinder and may qualify for premium tax credits there.
 
 ## Washington's Medicare Market
 
@@ -164,6 +168,6 @@ Estate recovery (RCW 41.05A.090, WAC 182-527-2746): Apple Health may recover cos
 
 ## Serve Washington Health Insurance Clients With Confidence
 
-Washington's health insurance landscape — state-based Healthplanfinder, Cascade Care public option, Apple Health, HCSCs, and active OIC enforcement — rewards producers who understand state-specific dynamics. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses provide comprehensive health insurance coverage including Washington-specific regulatory provisions.
+Washington's health insurance landscape — state-based Healthplanfinder, Cascade Care public option, Apple Health, HCSCs, and active OIC enforcement — rewards producers who understand state-specific dynamics. Washington doesn't require prelicensing education for any line, so there's no health prelicensing course to complete first — the edge comes from staying current. A note on JustInsurance: our Washington CE provider approval is still pending with the OIC, so until it's issued we can't report Washington CE credit. Take your continuing education from a provider currently on the OIC's approved list, and verify each course number at insurance.wa.gov before you enroll.
 
-Enroll today and build your Washington health insurance expertise.
+Master these distinctive Washington health provisions and you'll serve your clients with genuine expertise.

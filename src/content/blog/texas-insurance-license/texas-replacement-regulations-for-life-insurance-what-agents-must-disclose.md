@@ -26,19 +26,23 @@ Under Texas regulations, replacement occurs when an existing life insurance poli
 
 It doesn't matter whether the replacement is happening with the same carrier or a different one. If the client's existing coverage is being affected by the new sale, replacement rules apply.
 
-## Required Disclosures and Forms
+## What the Agent Actually Has to Do
 
-Texas requires specific forms for every replacement transaction:
+Texas Insurance Code §1114.051 spells out the agent's duties, and there are only three of them. Know these cold, because this is the list a TDI investigator will work from.
 
-Notice Regarding Replacement. At the time of application, the agent must give the applicant a written notice explaining that a replacement is occurring. This notice describes the potential disadvantages of replacement and must be signed by both the applicant and the agent.
+Statement of existing policies. On every life insurance or annuity application you initiate, you must submit to the insurer — with or as part of the application — a statement signed by both you and the applicant saying whether the applicant has existing policies or contracts. If the answer is no, your replacement duties are finished right there. This step is not optional and it is not limited to replacement cases; it's how replacement gets identified in the first place.
 
-Comparison Information. The agent must provide information comparing the existing policy with the proposed new policy. This helps the client make an informed decision rather than replacing a policy based solely on an agent's recommendation.
+Notice Regarding Replacement. If the applicant does have existing coverage, you must present and read the notice to the applicant no later than the time you take the application. Texas uses TDI form LAC029, "Notice Regarding Replacement — Replacing Your Life Insurance Policy or Annuity," or a substantially similar notice the department has approved. Both you and the applicant sign it, and the signature attests either that you read the notice aloud or that the applicant did not want it read aloud. The notice also has to identify the existing coverage by insurer name, insured name, and policy or contract number.
 
-Statement of Existing Policies. The applicant is asked to list any existing life insurance or annuity contracts. Agents must ask this question and document the answer truthfully.
+Sales material. At the time the application is completed, you must leave the applicant the original or a copy of all sales material you used. If you presented anything electronically, the applicant has to get it in printed form no later than the date the policy or contract is delivered.
+
+That's the whole agent checklist. Note what is *not* on it: Texas does not require you to prepare or hand over a side-by-side comparison of the existing policy against the proposed one. The illustration, policy summary, or disclosure document does move between carriers — but §1114.053(c) makes that an insurer-to-insurer obligation, triggered by the existing insurer's request, not an agent-to-applicant deliverable. Walking a client through a comparison is good practice and good suitability discipline — just don't mistake it for the rule, and never let it stand in for the three items above.
 
 ## The Insurer's Responsibilities
 
-The insurance company issuing the new policy also has obligations. It must notify the existing insurer that a replacement is occurring, so the existing carrier has an opportunity to conserve the business — meaning the existing insurer can contact the client and explain what they'd be losing by replacing their policy.
+The insurance company issuing the new policy has its own set of obligations under §1114.053. Within five business days of receiving an application that indicates a replacement — or of otherwise identifying that a replacement occurred — the replacing insurer must notify any existing insurer that may be affected. That gives the existing carrier an opportunity to conserve the business, meaning it can contact the client and explain what they'd be giving up.
+
+If the existing insurer then asks for the illustration, policy summary, or disclosure document, the replacing insurer has five business days from that request to mail it. The replacing insurer also has to keep copies of its replacement notifications indexed by agent, and must tell the policy owner about the right to return the new policy or contract within 30 days of delivery for a full refund of premiums paid.
 
 This exists to protect the consumer, not to protect the carriers' business. It ensures the client has full information from multiple sources before finalizing the decision.
 
@@ -67,7 +71,7 @@ The key is that the replacement must benefit the client, be fully disclosed, and
 - Do replacement rules apply to term life insurance only, or all types? They apply to all types of life insurance and annuity contracts, including term, whole life, universal life, and all annuity products.
 - What if the client doesn't disclose an existing policy on the application? You're required to ask directly. Document the question and the client's answer. If you discover later that the client had an existing policy and misrepresented it, notify the insurer and update records.
 - Is there a waiting period after replacement before selling another policy? Texas doesn't impose a specific waiting period, but repeated replacements involving the same client raise immediate red flags for churning — regardless of timing.
-- Who keeps copies of the replacement forms? Copies must be provided to the applicant, retained by the agent, and submitted to the insurer. All parties need documentation.
+- Who keeps copies of the replacement forms? The signed statement of existing policies goes to the insurer with the application, the applicant keeps the original or a copy of all sales material, and the replacing insurer must maintain its replacement notifications indexed by agent. Keeping your own file copy of everything you signed isn't a statutory duty, but it's the only thing that will defend you if a complaint lands years later.
 - Does replacement apply if the client is simply adding a new policy without canceling the old one? No. If the existing policy remains in force unchanged, replacement rules don't apply. Replacement requires that the existing coverage be lapsed, surrendered, reduced, or modified.
 
 ## Master Replacement Compliance

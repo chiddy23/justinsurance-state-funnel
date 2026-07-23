@@ -62,7 +62,7 @@ For Life/A&H candidates (~20-25 questions):
 
 IDOI: Commissioner; address; IC 27-1-15.6 producer licensing provisions
 
-Licensing facts: PLE 20 hrs; 6-month validity; bring Certificate; Pearson VUE $69; 70%; 48-hr retake; 1 OnVUE; no fingerprinting (self-disclosure only); $40 NIPR; 5-7 days; 180-day temp; renewal $40; late $160; CE 24/3 Ethics
+Licensing facts: PLE 20 hrs; 6-month validity; bring Certificate; Pearson VUE $69; 70%; 48-hr retake; 1 OnVUE; no fingerprinting (self-disclosure only); $40 NIPR; 5-7 days; 180-day temp; renewal $40; late reinstatement penalty $120 ($160 total with renewal); CE 24/3 Ethics
 
 Ivy Tech partnership: Distinctive exam testing network
 
@@ -70,7 +70,7 @@ Healthcare.gov — Indiana's ACA marketplace (NOT state-based)
 
 HIP 2.0 (Healthy Indiana Plan): Medicaid expansion; POWER accounts; HIP Plus vs. HIP Basic
 
-Annuity Best Interest (760 IAC 1-72-4.5; July 1, 2024): 4-hour one-time training before selling annuities
+Annuity Best Interest (760 IAC 1-72-4.5; July 1, 2024): producers who obtain a life line on or after July 1, 2024 complete a one-time 4-hour course before selling any annuity — no grace period; producers licensed earlier who had already completed the prior annuity training took a one-time 1-hour update by January 2, 2025
 
 Professional org CE: up to 2 hours/2-year period
 
@@ -88,7 +88,7 @@ No PIP mandate
 
 Indiana Auto Insurance Plan (INAIP): Assigned risk pool
 
-Diminished value: Indiana is a diminished value state (6-year SOL)
+Diminished value: Indiana is a diminished value state — but the claim is auto property damage, so it runs on the 2-year SOL (IC 34-11-2-4)
 
 Workers' comp: ICRB (not NCCI); 1+ employee; IC 22-3-2-2; private market; exclusive remedy IC 22-3-2-6
 

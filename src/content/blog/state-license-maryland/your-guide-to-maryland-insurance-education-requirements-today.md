@@ -17,7 +17,7 @@ imageCredit: Photo by Нұржас Тұрарбек on Pexels
 
 You may feel daunted by the idea of getting your [Maryland insurance license](/maryland), especially when you hear about the education requirements you must meet. Luckily, these requirements are designed to help you master fundamental insurance concepts before you start serving clients. By understanding the process step by step, you can fulfill Maryland insurance education requirements without confusion or unnecessary stress.
 
-Getting licensed often opens up exciting career possibilities. Whether you plan to focus on life and health, property and casualty, or both, Maryland’s guidelines remain consistent in their goal—ensuring you gain the knowledge needed to confidently serve policyholders. Below, you’ll find insights on [pre-licensing](/maryland/prelicensing) courses, [continuing education](/maryland/continuing-education), and answers to frequently asked questions so you can feel ready to start your insurance journey.
+Getting licensed often opens up exciting career possibilities. Whether you plan to focus on life and health, property and casualty, or both, Maryland’s guidelines remain consistent in their goal—ensuring you gain the knowledge needed to confidently serve policyholders. Below, you’ll find insights on [life & health pre-licensing](/maryland/prelicensing) courses, [continuing education](/maryland/continuing-education), and answers to frequently asked questions so you can feel ready to start your insurance journey.
 
 ## Learn maryland insurance basics
 
@@ -64,7 +64,7 @@ Below are some frequently asked questions about Maryland insurance education req
 2.  Do I need to take separate courses if I want to hold multiple licenses?  
     Since pre-licensing is optional in Maryland, you aren’t required to take any course. If you do choose optional exam prep for multiple license types, you’ll generally need separate study materials for each, unless a combined course is available (such as life and health). Always verify with your chosen provider whether they offer bundled classes that can save you time and money.
 3.  Can I take my pre-licensing course online, or do I have to attend in-person classes?  
-    Many Maryland-approved course providers let you study online, which can be helpful if you work full-time or have a busy schedule. In-person options still exist for those who learn best in a classroom environment. Pick whichever format helps you absorb the material effectively.
+    Many course providers let you study online, which can be helpful if you work full-time or have a busy schedule — Maryland doesn't approve or "recognize" prelicensing or exam-prep courses, so choose one built to the current Prometric Maryland content outline rather than looking for a state seal. In-person options still exist for those who learn best in a classroom environment. Pick whichever format helps you absorb the material effectively.
 4.  How do I schedule my [Maryland insurance licensing exam](/maryland/requirements)?  
     You can register for the exam directly through Prometric’s website or phone system whenever you feel ready — Maryland doesn’t require a pre-licensing certificate of completion to schedule it. You’ll just need to pay the exam fee. Exam sessions are offered regularly, so you can usually choose a date and location that works for you.
 5.  What if I fail my exam on the first try?  

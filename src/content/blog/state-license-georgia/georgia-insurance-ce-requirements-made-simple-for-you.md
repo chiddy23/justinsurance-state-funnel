@@ -47,7 +47,7 @@ You usually learn your pass/fail status right after the test. If you pass, you c
 
 ## Complete necessary continuing education
 
-After you become licensed, paying attention to Georgia insurance CE requirements ensures your license remains active. Generally, you’ll need to complete a set number of continuing education hours every two years. On top of the total hours, Georgia may require specific ethics credits or special coursework if you handle certain types of insurance. Keeping a personal calendar of your renewal deadlines simplifies this process. A digital reminder that pings you a few months before your renewal date guarantees you’ll never scramble at the last minute.
+After you become licensed, paying attention to Georgia insurance CE requirements ensures your license remains active. Most resident licensees complete 24 hours of continuing education every two years, due on or before the last day of your birth month — and beginning in 2026, licensees with more than 20 years of service receive an automatic 4-hour reduction to 20 hours. Within that total, 3 hours must be ethics. That piece is mandatory, not optional, and it can’t be swapped for other coursework. Keeping a personal calendar of your renewal deadlines simplifies this process. A digital reminder that pings you a few months before your renewal date guarantees you’ll never scramble at the last minute.
 
 Providers in Georgia typically offer flexible CE formats, including online, self-study, and in-person classes. Even if you’ve never tried the online format before, you might discover it’s surprisingly convenient. You can complete short modules during breaks or weekends, track your progress, and sometimes even take the exam portion online. Just confirm the provider is state-approved so your completed hours will be accepted without any extra hassle.
 
@@ -55,7 +55,7 @@ Whenever you finish a CE course, hold onto your completion certificates. You don
 
 ## Maintain your license obligations
 
-Beyond earning CE credits, you’re responsible for renewing your license by the state deadline and paying any required fees on time. Late renewals can incur penalty charges or put your ability to sell insurance at risk. Fortunately, the online renewal process for Georgia is fairly straightforward. You’ll typically log into the Georgia Department of Insurance portal, enter your completed CE hours, and pay the renewal fee digitally.
+Beyond earning CE credits, you’re responsible for renewing your license by the state deadline and paying any required fees on time. Late renewals can incur penalty charges or put your ability to sell insurance at risk. Fortunately, the online renewal process for Georgia is fairly straightforward. Georgia’s regulator is the Office of Commissioner of Insurance and Safety Fire (OCI), and resident licensees renew through Sircon.com/georgia, OCI’s licensing system of record. You don’t key in your CE hours yourself — approved providers report your completions electronically, so your job is to confirm your CE transcript already shows the required credits, then submit the renewal and pay the fee digitally.
 
 As you gain experience, you may add new lines of authority or specialize in niche areas. Whenever that happens, be sure to stay current on any extra CE hours you might need. It’s much easier to manage these obligations actively than to play catch-up later. By maintaining a steady rhythm of CE completion and timely renewals, you ensure your professional credentials remain solid for years to come.
 
@@ -65,7 +65,7 @@ You’ll also want to keep up with state-level regulation changes and industry n
 
 Navigating Georgia insurance CE requirements can feel overwhelming, but you don’t have to do it alone. JustInsurance offers user-friendly options for both pre-licensing study and continuing education. Whether you prefer online or in-person coursework, you can find quality material that aligns with Georgia’s latest guidelines. Even better, you’ll have access to supplemental resources such as exam insights, customizable study timelines, and dedicated support if you get stuck.
 
-It’s not just about meeting legal obligations. It’s about boosting your professional credibility. With JustInsurance, you can tap into expert-curated courses that keep you ahead of the curve, whether you’re focusing on life and health or property and casualty. By investing in ongoing learning, you’re showing potential clients that you take your role seriously and want to serve them at the highest level possible.
+It’s not just about meeting legal obligations. It’s about boosting your professional credibility. With JustInsurance, you can tap into expert-curated courses that keep you ahead of the curve — Life and Health prelicensing, plus continuing education for both life and health and property and casualty agents. By investing in ongoing learning, you’re showing potential clients that you take your role seriously and want to serve them at the highest level possible.
 
 ## Take your next step
 

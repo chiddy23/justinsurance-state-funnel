@@ -60,7 +60,7 @@ This is the smartest approach — it removes one of the most common causes of ap
 
 If your background check reveals a criminal history, TDI will review it as part of your application. Not every record results in a denial — TDI evaluates the nature of the offense, how long ago it occurred, and other factors.
 
-If you have concerns about your background before you invest time in the process, you can request a pre-application determination from TDI. They'll give you an informal assessment of how your history might affect your application.
+If you have concerns about your background before you invest time in the process, contact TDI's licensing division directly (License@tdi.texas.gov). TDI reviews criminal history case by case when you file your application, so its licensing staff — not a third party — are the right people to ask how a record like yours is typically treated before you pay for the exam.
 
 ## 5 Frequently Asked Questions
 

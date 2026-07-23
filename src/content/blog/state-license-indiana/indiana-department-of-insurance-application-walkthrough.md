@@ -62,7 +62,7 @@ Complete NIPR Uniform Individual Application
 
 Pay $40 state fee + $5.60 transaction fee
 
-Include work authorization documentation if applicable (email to [email protected])
+Include work authorization documentation if applicable (email to AgentLicensing@idoi.in.gov)
 
 Submit within 6 months of PLE completion AND passing exam
 

@@ -2,7 +2,7 @@
 title: Your Ultimate Checklist for Getting an Insurance License in Tennessee
 description: >-
   How to get an insurance license in tennessee: what you need to know about
-  prelicensing hours, exam costs, background checks, and the state application
+  Tennessee's no-prelicensing rule, exam costs, background checks, and the state application
 keyword: how to get an insurance license in tennessee
 targetKeywords: how to get an insurance license in tennessee
 cluster: state-license-tennessee
@@ -31,11 +31,11 @@ Below is a clear path to follow. It’s designed to make each crucial step in th
 1.  Confirm you meet eligibility requirements  
     Tennessee typically requires you to be at least 18 years old, reside in or plan to conduct business in the state, and have a clean criminal record. Make sure you have valid identification and a Social Security number. It’s also wise to review the official guidelines from the [Tennessee Department of Commerce and Insurance](/tennessee/requirements) to confirm that you’re eligible.
 2.  Choose the right license type for you  
-    Before diving into [pre-licensing](/tennessee/prelicensing) courses, decide which lines of authority you want to sell. Popular options include Life, Accident & Health or Property & Casualty. You can get both, but note that each license may have distinct exam requirements. Picking the correct focus upfront will keep you from juggling multiple applications later.
-3.  Complete your required [Tennessee prelicensing courses](/tennessee/prelicensing)  
-    Tennessee mandates a specific number of study hours for each license type. This course work is designed to give you a strong foundation in policy provisions, insurance laws, and best practices. Many providers offer these classes in-person or online, so choose the format that fits your schedule. Be sure to hold onto the certificate you receive when you finish—this is often required to book your exam.
+    Decide which lines of authority you want to sell before you start studying. Popular options include Life, Accident & Health or Property & Casualty. You can get both, but note that Tennessee gives each line its own exam—Life and Accident & Health can be booked together as one $80 OnVUE reservation instead of $55 apiece, but you still sit and pass each exam on its own. Picking the correct focus upfront will keep you from juggling multiple applications later.
+3.  Prepare for the exam—no state-mandated course required  
+    Tennessee does **not** require prelicensing education. The state repealed its mandatory course-hour requirement effective March 21, 2023 (2023 Tenn. Acts, ch. 57, amending T.C.A. § 56-6-106), so there is no minimum number of study hours for any license type and no completion certificate needed to book your exam. What you do still need is a real command of policy provisions, insurance law, and Tennessee-specific rules—which is why many candidates still take a [Tennessee prelicensing course](/tennessee/prelicensing) as optional exam prep. Many providers offer these classes in person or online, so choose the format that fits your schedule.
 4.  Schedule your official exam  
-    Once you’ve completed your pre-licensing prerequisites, select an approved testing center and schedule an exam date. It’s generally recommended to secure your spot early, as testing locations can fill up quickly. Double-check everything from required IDs to testing fees, so you’re not caught off guard on exam day.
+    Whenever you feel ready, schedule directly with Pearson VUE, Tennessee’s testing vendor. It’s generally recommended to secure your spot early, as testing locations can fill up quickly. Double-check everything from required IDs to testing fees, so you’re not caught off guard on exam day.
 5.  Pass the exam with confidence  
     On exam day, arrive at least 30 minutes early to handle any check-in procedures. You’ll typically answer multiple-choice questions covering terminology, state-specific regulations, and policy scenarios. Remember that partial knowledge can trip you up, so commit to a thorough study plan beforehand. Once you pass, you’ll receive an exam score report which you’ll need for your application.
 6.  Submit your license application  
@@ -55,15 +55,15 @@ That depends on how familiar you are with insurance concepts. Many first-time ca
 
 ### 3\. Can I hold more than one license type at once?
 
-Absolutely. It’s common for agents to hold multiple licenses, such as Life & Health and Property & Casualty. Just remember that each line may come with extra fees, exams, or [continuing education](/tennessee/continuing-education) requirements.
+Absolutely. It’s common for agents to carry multiple lines of authority — such as Life & Health and Property & Casualty — on a single Tennessee producer license. Tennessee issues one license that carries every line you qualify for rather than a separate license per line. Just remember that each line has its own exam, and adding a line later means a separate application with its own fee — though your 24-hour [continuing education](/tennessee/continuing-education) requirement stays the same no matter how many lines you hold.
 
 ### 4\. Do I need a sponsor to apply?
 
 Not necessarily. While some states require a sponsoring insurer, Tennessee allows individuals to apply on their own. That said, if you already have an employer or agency lined up, their support can help you navigate the details.
 
-### 5\. Is online or in-person pre-licensing better?
+### 5\. Do I have to take a prelicensing course at all?
 
-Both formats are effective, and the choice usually comes down to personal preference. Online classes offer flexible scheduling, while in-person sessions provide immediate instructor feedback. Pick the option that suits your learning style and availability.
+No. Tennessee eliminated its prelicensing education requirement effective March 21, 2023, so you can register for the Pearson VUE exam without completing any course. A course is purely optional exam prep. If you do take one, both formats work—online classes offer flexible scheduling, while in-person sessions provide immediate instructor feedback. Pick the option that suits your learning style and availability.
 
 ## Take your next step with JustInsurance
 

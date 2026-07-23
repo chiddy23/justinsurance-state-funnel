@@ -13,7 +13,7 @@ image: /blog/images/achieve-your-goals-with-nj-insurance-license-eligibility-hel
 imageAlt: "In-Person vs. Remote: Which PSI Exam Format Is Right for Your NJ License?"
 ---
 
-PSI offers New Jersey insurance licensing candidates a genuine choice that most states did not have until recently: sit your exam at a physical test center, or take it remotely from your own computer at home or the office. Both formats deliver the same exam content, the same 70% passing threshold, the same $47 fee, and the same score report. But the experience of taking them is substantially different — and choosing the wrong format for your personality, equipment, or environment can hurt your performance on exam day even if your preparation was solid.
+PSI offers New Jersey insurance licensing candidates a genuine choice that most states did not have until recently: sit your exam at a physical test center, or take it remotely from your own computer at home or the office. Both formats deliver the same exam content, the same 70% passing threshold, the same examination fee — PSI's current New Jersey candidate bulletin lists it at $38 — and the same score report. But the experience of taking them is substantially different — and choosing the wrong format for your personality, equipment, or environment can hurt your performance on exam day even if your preparation was solid.
 
 ## How the Test Center Format Works
 
@@ -21,7 +21,7 @@ PSI operates multiple test center locations throughout New Jersey. Once you regi
 
 On exam day at a test center:
 
-Arrive 30 minutes before your scheduled start. Bring two forms of identification — one government-issued photo ID plus a secondary ID — and your original [prelicensing](/new-jersey/prelicensing) course certificate of completion (or your failing score report if this is a retake). You will sign in, present your IDs to staff, and be escorted to the exam room.
+Arrive 30 minutes before your scheduled start. PSI requires one form of identification: it must be government-issued, current, and show your name, signature, and photograph — a state driver's license or ID card, US passport, military ID, alien registration card, or Canadian government-issued ID. Temporary IDs are not accepted. Life, Health, Property, Casualty, Title, Personal Lines, and LL Bail Bond candidates must also present a [prelicensing](/new-jersey/prelicensing) education course completion certificate — an electronic version or a hard copy is accepted — or a waiver issued by DOBI. On a retake you may present that certificate or your failing score report. You will sign in, present your documents to staff, and be escorted to the exam room.
 
 All personal items must be stored outside the exam room. PSI provides accordion-type folders in the lobby — they are not responsible for their security. You cannot wear a wristwatch, bring a phone, bring notes, bring food or drinks, or take any reference materials into the exam area. You will be asked to empty your pockets.
 
@@ -99,7 +99,7 @@ Most first-time candidates — especially those entering insurance through an ag
 
 Can I switch from remote to in-person after I register?
 
-You can change your exam format by canceling your existing appointment and rebooking, as long as you provide at least two calendar days' notice before your scheduled exam. Contact PSI directly — either through the website or by calling (855) 579-4634 — and speak with a representative. Do not leave a voicemail; voicemails are not an acceptable form of cancellation under PSI's rules. If you cancel with proper notice, your fee is not forfeited and you can rebook in either format. If you cancel late or no-show, you forfeit the $47 fee regardless of the reason, and you will need to pay again to reschedule.
+You can change your exam format by canceling your existing appointment and rebooking, as long as you provide at least two calendar days' notice before your scheduled exam. Contact PSI directly — either through the website or by calling (855) 579-4634 — and speak with a representative. Do not leave a voicemail; voicemails are not an acceptable form of cancellation under PSI's rules. If you cancel with proper notice, your fee is not forfeited and you can rebook in either format. If you cancel late or no-show, you forfeit the examination fee regardless of the reason, and you will need to pay again to reschedule. Registration fees are non-refundable — check the current amount on PSI's New Jersey candidate bulletin before you book, since it is the only published source that governs.
 
 What happens if my internet cuts out during the remote exam?
 

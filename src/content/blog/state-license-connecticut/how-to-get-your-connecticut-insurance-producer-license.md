@@ -58,7 +58,7 @@ Life and Health combined: 40 hours total
 
 Property and Casualty combined: 40 hours total
 
-This is governed under Connecticut General Statutes §38a-702. Prelicense courses must be completed through a Connecticut-approved provider and include:
+This is governed under Connecticut General Statutes §38a-702e (Application for license; Examination) — not §38a-702, which is the chapter's definitions section. Prelicense courses must be completed through a Connecticut-approved provider and include:
 
 Reading each lesson
 

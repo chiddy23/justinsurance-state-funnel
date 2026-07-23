@@ -22,9 +22,9 @@ Here's a clear breakdown of Alabama's insurance CE requirements.
 
 ## The Basic Framework
 
-Under the authority of Alabama Department of Insurance (ALDOI) Regulation 110, the ALDOI requires licensed insurance producers to complete continuing education on a biennial schedule, tied to their license renewal cycle.
+Under the authority of Alabama Department of Insurance (ALDOI) Regulation 110, the ALDOI requires licensed insurance producers and service representatives to complete continuing education on a biennial schedule, tied to their license renewal cycle.
 
-For Alabama major lines producers (Life, Accident & Health, Property, Casualty, Personal Lines, Variable Products), the standard requirement is:
+For Alabama licensees in the major lines (Life, Accident & Health, Property, Casualty, Personal Lines, Variable Products), the standard requirement is:
 
 24 hours of CE every 2 years
 
@@ -32,7 +32,7 @@ For Alabama major lines producers (Life, Accident & Health, Property, Casualty, 
 
 The remaining 21 hours can be in approved insurance-related topics
 
-This framework applies to producers across major license types.
+This framework applies to producers and service representatives alike, across major license types.
 
 ## Your License Renewal Cycle
 
@@ -54,9 +54,9 @@ This makes your renewal schedule predictable and tied to information you already
 
 Major Lines Producers (Life, Accident & Health, Property, Casualty, Personal Lines, Variable Products): 24 hours every 2 years, including 3 hours Ethics.
 
-Service Representatives: 12 hours every 2 years, including 2 hours Ethics. Service representatives are licensees working in a supporting/service role rather than selling.
+Service Representatives: also 24 hours every 2 years, including 3 hours Ethics. Service representatives are licensees working in a supporting/service role rather than selling — but that role does not come with a smaller CE requirement. Rule 482-1-110-.05(1) sets the 24-hour/3-ethics standard for "every insurance representative … licensed in this state as a producer or service representative," so both categories carry identical hours.
 
-Producers working only in-office for one employer (not licensed non-resident elsewhere): 12 hours every 2 years, including 2 hours Ethics.
+The one reduced tier — working only in your employer's office: If you are a producer or a service representative employed by another producer or by an insurer to work only in the office of that employer, and you are not licensed as a non-resident in any other state, Rule 482-1-110-.05(5) substitutes 12 hours every 2 years, including 2 hours Ethics, for the standard 24. This is the only reduced hour tier in Alabama's CE rule, and it turns on how and where you work — not on which of the two license categories you hold. If you pick up a non-resident license in any other state, you lose the reduction and owe the full 24.
 
 Multiple lines of authority: If you hold licenses in multiple lines (Life/Health AND Property/Casualty), your total CE requirement is still 24 hours — you don't double it. You can take CE in any line of authority.
 
@@ -99,6 +99,8 @@ If a non-resident's home state has no CE requirement, the non-resident must comp
 ## CE Exemptions
 
 Alabama offers CE exemptions in specific circumstances. Common exemption categories include:
+
+First renewals: Newly licensed producers and service representatives are excused from the CE requirement for the 12 months following their license's effective date (ALDOI Regulation 110, Rule 482-1-110-.03(3)(d)). In practice, if your first biennial renewal falls within that first year of licensure, you owe no CE for that first cycle. If you're a new licensee approaching your first renewal, don't buy a full slate of CE before confirming whether this exemption applies to you.
 
 Non-residents (under home-state reciprocity described above)
 
@@ -158,7 +160,7 @@ Alabama charges a $1.00 per credit hour roster fee for CE reporting. This may be
 
 ## Reporting Notice from the ALDOI
 
-Alabama sends an electronic notice of your CE requirements 90 days before your birth month at the end of your biennial renewal period. This reminder is helpful, but don't rely on it exclusively — track your renewal deadline independently.
+The ALDOI emails a renewal notice to the business email address on file about 45 days before the first day of your birth month. Separately — and this is where the timing often gets confused — the online renewal window itself opens earlier: under ALDOI Regulation 110 (Rule 482-1-110-.04), you can complete your renewal on the Department's website beginning approximately 90 days before your license expires (the last day of your birth month). Either way, don't wait for the notice to arrive — track your birth-month deadline independently.
 
 ## What Happens If You Miss the Deadline
 
@@ -192,7 +194,7 @@ Take varied courses. You can't repeat courses within a cycle for credit — vari
 
 ## 5 Frequently Asked Questions
 
-- How many CE hours do I need every 2 years in Alabama? 24 hours of CE, including 3 hours of ethics, every biennial renewal cycle.
+- How many CE hours do I need every 2 years in Alabama? 24 hours of CE, including 3 hours of ethics, every biennial renewal cycle — the same for producers and service representatives. The only reduced tier is the in-office rule: if you work solely in your employer's office and hold no non-resident license in another state, it drops to 12 hours including 2 hours of ethics.
 - Can I carry over extra CE hours to the next renewal cycle? No. Alabama doesn't allow carryover of excess credits.
 - Can I take the same CE course twice? You can take it twice, but only one completion counts for credit within a renewal period.
 - What if I hold licenses in multiple lines of authority? Your total CE requirement is still 24 hours — you don't double it.

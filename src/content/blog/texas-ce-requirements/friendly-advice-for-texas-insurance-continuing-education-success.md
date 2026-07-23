@@ -79,11 +79,15 @@ Personal Lines
 
 3
 
-Title
+Escrow officer (title)
 
-8
+10
 
-0 (check TDI updates)
+2
+
+Two more format rules apply to every line in this table. At least half of your hours must be earned in a classroom or classroom-equivalent environment, and no more than half of your credits may carry the instruction method of "self-study" — so check the instruction method on each course before you enroll, not after. Excess hours never carry forward into the next period.
+
+A note on the escrow officer row: title-side licensees run on a different schedule from agents and adjusters. Per TDI's Basic Manual of Title Insurance, Section IV (Procedure 28), escrow officers complete 10 credit hours per reporting period with at least 2 of those in ethics — not the 24/3 that applies to General Lines, Life, Personal Lines, MGA, and adjuster licenses. New licensees whose first reporting period runs under 24 months follow a prorated table (for example, 9 hours at 22-23 months, 5 hours at 12-14 months), with the 2-hour ethics floor holding at every tier of 6 months or longer.
 
 ## Renew with confidence
 
@@ -107,7 +111,7 @@ When your course completions are in place, you’ll pay the renewal fee and subm
 3.  Can I carry over extra CE credits to my next renewal cycle?  
     Texas typically does not allow you to carry surplus hours into the next cycle. It’s best to confirm current TDI rules to be certain.
 4.  Do I have to take in-person courses, or will online courses count?  
-    Approved online courses are generally acceptable, as long as the provider is authorized by the TDI. Self-paced internet classes can be a convenient way to meet requirements.
+    TDI-approved online courses count, and many of them are registered as "classroom equivalent," which satisfies the rule that at least half your hours be classroom or classroom-equivalent. The catch is the other bucket: no more than half your credits can carry the instruction method of "self-study." Two courses can look identical on a provider's website and be registered differently with TDI, so confirm the instruction method listed on Sircon before you enroll.
 5.  Is there a maximum number of courses I can take from a single provider?  
     Texas does not set a strict limit for a single provider, but it’s best practice to ensure your courses are diverse and relevant to your license.
 

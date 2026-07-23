@@ -34,11 +34,11 @@ The Louisiana state content is where most failures happen. This section covers T
 
 ## High-Priority Topics by Line
 
-For the Life exam, prioritize: types of life insurance (term, whole, universal, variable, and their policy mechanics), annuity types and the Louisiana Annuity Best Interest standard (806 LAC 19:, effective September 20, 2024), beneficiary designations, producer licensing requirements and grounds for discipline under Title 22, and unfair trade practices.
+For the Life exam, prioritize: types of life insurance (term, whole, universal, variable, and their policy mechanics), annuity types and the Louisiana Annuity Best Interest standard (Regulation 89, LAC 37:XIII Chapter 117, effective September 20, 2024), beneficiary designations, producer licensing requirements and grounds for discipline under Title 22, and unfair trade practices.
 
 For the Property & Casualty exam, prioritize: Louisiana auto minimums (15/30/25), the modified comparative fault system (51% bar, effective January 1, 2026), the No Pay No Play statute, UM/UIM coverage in Louisiana, workers' compensation (NCCI, LWCC, 1+ employee threshold, Louisiana Workforce Commission Office of Workers' Compensation Administration), NFIP flood insurance (ongoing every renewal period in Louisiana — not a one-time requirement), and LDI producer conduct obligations.
 
-For the Health & Accident exam, prioritize: group vs. individual health insurance structures, COBRA continuation, Healthy Louisiana (state Medicaid program, expanded June 1, 2016, 138% FPL), Healthcare.gov marketplace (Louisiana uses the federal exchange, not a state-based exchange), LTC initial training requirements (8-hour initial, 4-hour ongoing per renewal), and disability income concepts.
+For the Health & Accident exam, prioritize: group vs. individual health insurance structures, COBRA continuation, Healthy Louisiana (state Medicaid program; expansion enrollment opened June 1, 2016 and coverage took effect July 1, 2016, covering adults up to 138% FPL), Healthcare.gov marketplace (Louisiana uses the federal exchange, not a state-based exchange), LTC initial training requirements (8-hour initial, 4-hour ongoing per renewal), and disability income concepts.
 
 ## Test-Taking Strategy on Exam Day
 

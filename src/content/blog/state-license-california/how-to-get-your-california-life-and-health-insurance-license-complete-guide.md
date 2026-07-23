@@ -54,8 +54,8 @@ California insurance licensing exams are administered by PSI Exams Online. Once 
 
 The California Life, Accident, and Health exam:
 
-- Contains 150 scored questions (plus some unscored pilot questions)
-- Gives you up to 3 hours and 15 minutes
+- Contains 150 questions
+- Gives you 3 hours to complete it
 - Requires a score of 60% to pass
 
 You'll see your pass/fail result immediately after finishing. Failed candidates receive a printed breakdown of performance by content area.
@@ -95,9 +95,9 @@ From starting your prelicense course to holding your license in hand, most Calif
 
 2. Can I take the prelicense course online? Yes. CDI accepts approved online prelicense education, and most candidates complete it at their own pace online.
 
-3. What happens if I fail the exam? You can retake it. Each retake requires a new PSI registration and fee. California doesn't cap retake attempts, but repeated failures may require waiting periods.
+3. What happens if I fail the exam? You can retake it, and there's no mandatory waiting period between attempts — you just schedule the next available date. Each retake requires a new PSI registration and fee. California does cap attempts, though: under Cal. Ins. Code § 1682, you can't be admitted to more than 10 license qualification examinations of the same type in any 12-month period. Hit 10, and you're locked out of that exam type until 12 months have passed from the tenth one. In practice that's a ceiling almost nobody reaches, but it's a real statutory limit — not an unlimited retake policy.
 
-4. How long is my California license valid? California resident producer licenses are issued as non-expiring as long as you complete CE and renewal requirements. License renewal is tied to a specific biennial cycle based on your license date.
+4. How long is my California license valid? It is not permanent. California producer licenses run a two-year term. Under Cal. Ins. Code § 1630, the term ends in the second succeeding year on the last calendar day of the month your initial license was issued — so a license issued in March expires on March 31 two years later, and every two years after that. To renew, you complete 24 hours of CE including 3 hours of ethics. Renew late and you pay a 50% penalty fee and re-file your carrier appointments; go more than one year past expiration and you start over with a new application.
 
 5. Does California reciprocate with other states? Yes. Once you hold a California resident license, you can apply for non-resident licenses in most other states relatively easily.
 

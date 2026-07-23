@@ -182,7 +182,7 @@ The Wiregrass region in southeast Alabama has distinct characteristics:
 
 Agricultural economy. Peanuts, cotton, cattle, peanuts, and poultry are significant.
 
-Military presence. Fort Novosel (formerly Fort Rucker) creates military and veteran client populations.
+Military presence. Fort Rucker (named Fort Novosel from 2023 to 2025) creates military and veteran client populations.
 
 Mid-size markets. Dothan, Enterprise, Ozark, and surrounding communities represent growing markets.
 
@@ -238,6 +238,6 @@ Many successful rural Alabama agents earn $80,000-$160,000+ with excellent quali
 
 ## Build Your Rural Alabama Insurance Career
 
-Rural Alabama offers genuinely rewarding insurance career opportunity for agents who understand and authentically engage with rural communities. At JustInsurance, our Alabama exam prep prepares you for the licensing exam and the diverse practice paths Alabama offers — including rural specialty careers.
+Rural Alabama offers genuinely rewarding insurance career opportunity for agents who understand and authentically engage with rural communities. At JustInsurance, our Alabama life and health exam prep gets you ready to pass the state licensing exam, and our Alabama property and casualty continuing education helps licensed agents build the farm, ranch, and commercial expertise these rural markets reward.
 
 Enroll today and explore Alabama insurance career opportunity.

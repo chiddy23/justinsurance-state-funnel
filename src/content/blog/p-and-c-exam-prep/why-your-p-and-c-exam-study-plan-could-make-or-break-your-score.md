@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by The Lazy Artist Gallery on Pexels
 ---
 
-Preparing for your property and casualty (P&C) [insurance licensing exam](/prelicensing) can feel daunting. There’s a wide range of topics to cover, from basic policy provisions to complex underwriting guidelines. Yet, having a well-structured p&c exam study plan can simplify your path to success. By knowing what to study, how to organize it, and when to review, you’ll feel fully prepared once exam day arrives.
+Preparing for your property and casualty (P&C) insurance licensing exam can feel daunting. There’s a wide range of topics to cover, from basic policy provisions to complex underwriting guidelines. Yet, having a well-structured p&c exam study plan can simplify your path to success. By knowing what to study, how to organize it, and when to review, you’ll feel fully prepared once exam day arrives.
 
 A clear plan doesn’t just help you pass the test. It shapes how you retain information and apply it later, ensuring that once you’re licensed, you’ll have a confident foundation to serve clients. Your study strategy could very well make or break your final score, so it’s worth giving it the attention and effort it deserves.
 
@@ -39,6 +39,8 @@ Sticking with this targeted approach reduces the temptation to overlearn minor d
 There’s no shortage of resources available, and the right ones can accelerate your progress. Flashcards or digital quiz apps help you test your understanding of major coverage forms, definitions, and state-specific regulations. Online practice exams offer a valuable glimpse into the test’s format and question styles, helping you feel more comfortable when time is ticking on the real exam.
 
 Some people learn best in group settings. If that sounds like you, consider forming a study group or pairing up with a friend. Teaching each other is an excellent way to confirm the depth of your knowledge. Being at ease explaining indemnity principles or liability coverage details to someone else often signals that you truly grasp the subject.
+
+One note on sourcing those tools, since it affects what you should expect from us: JustInsurance does not publish a property and casualty prelicensing course or a P&C practice exam. Our [prelicensing courses and practice exams](/prelicensing) cover the Life, Health, and Life & Health lines only. Build your P&C plan around your state’s official content outline and a question bank from a provider that specifically covers P&C in your state. What we do run on the property and casualty side is state-approved [continuing education](/property-and-casualty-ce), which is for producers who already hold the license rather than candidates studying for the exam.
 
 ## Stay organized and motivated
 
@@ -100,4 +102,4 @@ Everyone’s schedule and learning style varies, but aiming for an hour or two e
 
 Your P&C exam study plan is more than just a roadmap to pass the test. It’s a guide to understanding fundamentals that will be invaluable in your future career. By focusing on the essential topics, using practice questions to measure your progress, and keeping yourself motivated daily, you’ll build a reliable knowledge base that extends far beyond exam day.
 
-If you’re looking for additional resources or personalized support along the way, JustInsurance offers a range of tools designed to help you master essential coverage details and boost your confidence. As you refine your study approach, remember that following a clear, consistent plan is your best bet for success. All that’s left is to get started. The sooner you begin, the more you’ll retain—and the closer you’ll be to hitting your target score. Good luck!
+If you’re looking for additional resources along the way, go straight to your state insurance department’s published content outline and pair it with a P&C-specific question bank — and once you pass and hold the license, JustInsurance can take over your renewal hours with state-approved [property and casualty continuing education](/property-and-casualty-ce). As you refine your study approach, remember that following a clear, consistent plan is your best bet for success. All that’s left is to get started. The sooner you begin, the more you’ll retain—and the closer you’ll be to hitting your target score. Good luck!

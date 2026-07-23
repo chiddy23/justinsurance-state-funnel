@@ -94,7 +94,7 @@ Simply enrolling in a pre-licensing course is not enough to guarantee success. Y
 3.  Setting small goals per session. Rather than cramming all week, aim to learn or review a specific topic each time you study. Achieving little milestones creates a sense of progress.
 4.  Reviewing your knowledge daily. Even five minutes spent reciting definitions or insurance rules can help lock in details, particularly if you struggle with tricky terminology.
 
-If you find a concept confusing, remember most course providers, including JustInsurance, have support resources. Taking a few minutes to chat with a mentor or instructor can clear up confusing points before they snowball into bigger issues.
+If you find a concept confusing, remember most course providers, including JustInsurance, have support resources. Taking a few minutes to sit in on a live instructor Q&A session or reach out to your provider's support team can clear up confusing points before they snowball into bigger issues.
 
 ## Frequently asked questions
 

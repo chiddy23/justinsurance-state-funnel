@@ -25,31 +25,30 @@ Insurance agents are entrusted with sensitive client information, financial deci
 
 ## How the Background Check Works
 
-California uses Live Scan, an electronic fingerprinting system administered by the California Department of Justice. The process:
+California uses Live Scan, an electronic fingerprinting system administered by the California Department of Justice. One important sequencing detail trips up a lot of applicants: CDI instructs applicants **not** to submit fingerprints until after the license application has been filed. The process:
 
-- Step 1: After your exam, CDI issues you a Request for Live Scan Service form.
-- Step 2: You take this form to an approved Live Scan location and complete fingerprinting.
-- Step 3: Your fingerprints are submitted electronically to the California Department of Justice and the FBI.
+- Step 1: File your license application with CDI (most applicants file through NIPR).
+- Step 2: Schedule your fingerprinting appointment through CDI's contracted Live Scan vendor, Capital Live Scan, and bring the Request for Live Scan Service form (BCIA 8016) you receive when you register. CDI also publishes the form and payment instructions as form LIC 442-39A on its licensing forms page.
+- Step 3: At your appointment, the technician electronically captures your fingerprints and submits them to the California Department of Justice and the FBI.
 
 Step 4: Criminal history results are sent directly to CDI. You don't receive a copy.
 
 Step 5: CDI reviews the results alongside your application disclosures.
 
-Live Scan results are typically available to CDI within a few days, though processing can take longer during high-volume periods.
+CDI asks applicants to wait at least seven days after fingerprinting before checking status, and to contact the Department if the fingerprint requirement is not showing as completed within 45 days. The fingerprint requirement has to be satisfied before your license can be issued — and if a license isn't issued within 12 months of the date your prints were submitted, you have to be printed again.
 
 ## What CDI Checks
 
-The background check runs your fingerprints through:
+The background check runs your fingerprints through two agencies — and only two:
 
-- California Department of Justice — state criminal history
+- California Department of Justice — California criminal offender record information (CORI)
 - FBI — federal criminal history
-- Administrative Office of the Courts — state court records in California
 
-CDI also reviews:
+Separately from the fingerprint check, CDI's Licensing Background Section also reviews:
 
 - Your application disclosures
-- Prior insurance license history in other states
-- Regulatory actions from other state departments
+- The NAIC's Regulatory Information Retrieval System (RIRS) — regulatory actions reported by other state insurance departments
+- The State Producer Licensing Database (SPLD) — your license history in other states
 - Professional disciplinary history
 - Relevant civil judgments or bankruptcies if disclosed
 
@@ -93,15 +92,16 @@ Provide documentation if relevant. For past issues, include court records, certi
 
 ## If You Have Concerns About Your Background
 
-California allows applicants to request a pre-application determination — a non-binding assessment of how CDI would likely evaluate a specific background issue. This lets you understand the risk before investing time and money into [prelicense](/california/prelicensing) education.
+Be aware of what CDI does not offer: there is no advance advisory ruling. CDI does not publish a process for getting a pre-application opinion on how a specific conviction or regulatory action would be treated. Its published guidance points the other direction — applicants are told to answer all background questions truthfully and provide all required background documentation *at the time the application is submitted*, so the Licensing Background Section can evaluate the issue as part of the application itself.
 
-To request a pre-application determination:
+That means the practical way to reduce your risk is to build the strongest possible disclosure package up front:
 
-- Submit your request in writing with full details of the issue
-- Include court documents and any rehabilitation evidence
-- Allow several weeks for response
+- Full, accurate answers to every background question on the application
+- Certified court documents showing the charge, the disposition, and completion of any sentence or probation
+- Evidence of rehabilitation — certificates of rehabilitation, expungement orders, restitution records, letters of reference
+- A short written explanation putting the issue in context
 
-The determination isn't legally binding, but it's highly informative. If CDI indicates likely denial, you can make an informed decision before continuing.
+If your history is serious enough that you're weighing whether to invest in [prelicense](/california/prelicensing) education at all, talk to a California administrative attorney who handles CDI licensing matters. An attorney can assess your specific record against how CDI has treated comparable cases. Waiting for CDI to tell you in advance is not an option the Department provides.
 
 ## What Happens If Your Application Is Denied
 
@@ -117,7 +117,7 @@ Denial doesn't always mean permanent exclusion. Some applicants successfully app
 
 1. Can I work in insurance while my application is pending? No. You cannot conduct insurance business until your license is issued. Working while unlicensed creates serious legal exposure.
 
-2. How long does the background check take? Live Scan results typically reach CDI within a few days of fingerprinting. Application review can add 2 to 6 weeks depending on complexity.
+2. How long does the background check take? CDI asks applicants to allow at least seven days after fingerprinting before checking status, and to contact the Department if the requirement still isn't showing as complete 45 days after submission. Application review can add 2 to 6 weeks on top of that depending on complexity.
 
 3. Does a past bankruptcy disqualify me? Bankruptcy by itself rarely disqualifies applicants. CDI evaluates the overall financial history and whether there are other concerns.
 

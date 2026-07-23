@@ -19,25 +19,24 @@ imageAlt: >-
 imageCredit: Photo by Pixabay on Pexels
 ---
 
-If you're getting your California insurance license in 2026, the rules just changed — and they changed in your favor. **California Assembly Bill 943**, signed into law in 2024 and effective **January 1, 2026**, eliminated the old line-specific [prelicensing](/california/prelicensing) hour requirements that had been on the books for decades. The 52-hour Life course, the 40-hour Accident & Health course, the 40-hour Property course, and the 40-hour Casualty course are gone.
+If you're getting your California insurance license in 2026, the rules just changed — and they changed in your favor. **California Assembly Bill 943**, signed by Governor Newsom on October 10, 2025 (Chapter 566, Statutes of 2025) and effective **January 1, 2026**, repealed the 20-hour line-specific [prelicensing](/california/prelicensing) course California had required for decades. Life, Accident & Health, Property, Casualty, Personal Lines, Commercial Lines, Limited Lines Automobile — the 20-hour course is gone for every one of them.
 
-What replaced all of them is simpler: a single **12-hour Code and Ethics prelicensing course**. That's it. One course covers every line of authority you want to qualify for.
+What's left is simpler: the **12-hour Code and Ethics course**. It's the same course California has required for years, you take it once, and it covers every line of authority you're applying for.
 
 If you've been hearing conflicting information from different schools about how many hours you need, this guide cuts through it with the actual statutory citation, what changed and what didn't, and what most candidates are doing now that the rules are looser.
 
 ## What AB 943 actually changed
 
-Before AB 943, **California Insurance Code § 1749** required every insurance license applicant to complete a specific number of education hours per line of authority before they could sit for the state exam. The hour counts were:
+Before AB 943, **California Insurance Code § 1749** required every insurance license applicant to complete a **20-hour line-specific prelicensing course** for each line of authority, on top of the **12-hour Code and Ethics course**, before the Department could issue the license. The 20 hours were uniform — the same 20 hours whether you were going for Life, Accident & Health, Property, Casualty, Personal Lines, Commercial Lines, or Limited Lines Automobile.
 
-- **Life-Only Agent:** 52 hours total (40 hours general + 12 hours Code & Ethics)
-- **Accident & Health Agent:** 40 hours total (28 hours general + 12 hours Code & Ethics)
-- **Property Broker-Agent:** 40 hours total (28 hours general + 12 hours Code & Ethics)
-- **Casualty Broker-Agent:** 40 hours total (28 hours general + 12 hours Code & Ethics)
-- **Personal Lines Broker-Agent:** 20 hours total (8 hours general + 12 hours Code & Ethics)
+In practice that worked out to:
 
-If you wanted multiple lines, you stacked the hours. A new agent pursuing a combined Life/Accident & Health license needed roughly 92 hours of seat time before they could schedule their exam.
+- **A single line (Life-Only, for example):** 32 hours — 20 line-specific + 12 Code & Ethics
+- **Combined Life & Accident/Health:** 52 hours — 20 + 20 line-specific + 12 Code & Ethics
 
-Effective January 1, 2026, the line-specific hours were eliminated entirely. The only mandatory prelicensing education that remains is the **12-hour Code and Ethics course**, codified in [Cal. Ins. Code § 1749(a)(1) (Article 13.5, as amended by AB 943)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB943).
+The 12-hour Code and Ethics block was never duplicated; you took it once no matter how many lines you wanted. The line-specific hours, though, stacked — so anyone building a multi-line practice paid for and sat through another 20-hour course for every line they added.
+
+Effective January 1, 2026, those line-specific hours were eliminated entirely. The only mandatory prelicensing education that remains is the **12-hour Code and Ethics course**, codified in [Cal. Ins. Code § 1749(a)(1) (Article 13.5, as amended by AB 943, Ch. 566, Stats. 2025)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943).
 
 That single 12-hour course now satisfies the prelicensing education requirement for **every major line**: Life, Accident & Health, Property, Casualty, and Personal Lines.
 
@@ -55,18 +54,19 @@ It's important to be specific about what AB 943 did and didn't touch, because so
 
 **What also didn't change:**
 
-- The Code and Ethics course content itself. The 12-hour curriculum covers California insurance law, the Producer Licensing Model Act, ethical sales practices, and consumer protection — the same material the Department has required for years.
+- The Code and Ethics course content itself. The 12-hour curriculum covers California insurance law, ethical sales practices, and consumer protection, including one hour on insurance fraud — the same material the Department has required for years.
+- The course's completion and time-tracking rules. AB 943 did not touch them; the 12 hours are still monitored seat time.
 - The fact that your education must come from a CDI-approved provider with a current Provider Approval Number on file with the state.
 
 ## Why California eliminated the line-specific hours
 
-The legislative analysis behind AB 943 made two arguments. First, the old line-specific hour requirements created a barrier to entry that the Department of Insurance had grown skeptical of — the state already gates licensure with a substantive exam and a fingerprint-based background check, so adding mandatory seat time on top wasn't producing meaningfully better-prepared agents. Second, candidates pursuing multiple lines were paying for and sitting through redundant content (the Code & Ethics block was repeated in every line-specific course), which the bill's author called "an inefficiency without a corresponding consumer protection benefit."
+The argument made for AB 943 was that the mandatory seat time wasn't doing the work people assumed it was doing. California already gates licensure with a substantive state exam and a fingerprint-based background check, and states that had already repealed similar mandates reported no drop in exam pass rates. NAIFA CEO Kevin Mayeux, whose organization co-sponsored the bill, put it this way: "Pre-licensing mandates, originally created decades ago, have not been shown to improve exam performance. In fact, states that have repealed the requirement report no decline in exam pass rates, as most candidates still voluntarily purchase courses and study materials to prepare" ([NAIFA](https://advocacy.naifa.org/news/california-eliminates-pre-licensing-education-requirement-for-insurance-producers)). What the mandate reliably did produce was cost and delay, and that lands hardest on people trying to get into the profession in the first place.
 
-The Department of Insurance supported the bill, as did most major industry associations. The change brings California in line with several other large markets that don't impose line-specific hour mandates — Texas, Pennsylvania, and Arizona, among others, have no prelicensing education requirement at all.
+AB 943 was authored by Assemblymember Michelle Rodriguez and co-sponsored by NAIFA-California and the Association of California Life and Health Insurance Companies (ACLHIC). The change brings California in line with several other large markets that don't impose line-specific hour mandates — Texas, Pennsylvania, and Arizona, among others, have no prelicensing education requirement at all.
 
 ## What this means for you in practice
 
-The shortest version: **you can complete the only required prelicensing education in a single afternoon.** A 12-hour Code & Ethics course, taken online and self-paced, takes most candidates between one full day and one weekend depending on how they break it up.
+The shortest version: **the only prelicensing education California still requires is 12 hours.** And it is a real 12 hours — the Code and Ethics course is monitored seat time under 10 CCR §§ 2188.2 and 2188.5, so it cannot be completed in less than 12 hours no matter how quickly you get through the material. Taken online and self-paced, that's one full day to one weekend depending on how you break it up.
 
 Three things to keep in mind, though:
 
@@ -76,11 +76,11 @@ The course exists primarily to make sure every new licensee in California has fo
 
 ### 2. The state exam content didn't get easier — only the prelicensing requirement
 
-Removing seat-time hours doesn't remove the underlying knowledge requirement. The PSI exam still tests the same material. Most candidates who pass on the first try report studying 20 to 40 hours of state-exam-aligned material before sitting for the test, even when their state doesn't mandate it. **Voluntary exam prep is now where most of the actual learning happens for California candidates.**
+Removing seat-time hours doesn't remove the underlying knowledge requirement. The PSI exam still tests the same material, and it is a real exam — you need 60% to pass. Plan on putting in genuine study time even though the state no longer counts it for you. **Voluntary exam prep is now where most of the actual learning happens for California candidates.**
 
 ### 3. Combined-line study is now genuinely combined
 
-Under the old rules, you'd pay for and sit through a 52-hour Life course and a 40-hour Health course as two separate experiences. Now you take the 12-hour Code & Ethics course once, then study for the Life and Accident & Health exam content with whatever exam prep makes sense for you. JustInsurance's [California prelicensing courses](/california/prelicensing) include the required 12-hour Code & Ethics course plus full exam prep covering both Life and Accident & Health content in a single bundle.
+Under the old rules, you'd pay for and sit through the 20-hour Life course and then the 20-hour Accident & Health course as two separate blocks of required seat time. Now you take the 12-hour Code & Ethics course once, then study for the Life and Accident & Health exam content with whatever exam prep makes sense for you. JustInsurance's [California prelicensing courses](/california/prelicensing) include the required 12-hour Code & Ethics course plus full exam prep covering both Life and Accident & Health content in a single bundle.
 
 ## Step-by-step: How to get licensed in California in 2026
 
@@ -91,13 +91,13 @@ Here's the updated process under AB 943, start to finish:
 3. **Schedule your state exam through PSI.** California's exam administrator is PSI. Schedule online at [test-takers.psiexams.com](https://test-takers.psiexams.com/). Each line is a separate exam; the combined Life & Accident/Health exam covers both lines in one sitting.
 4. **Complete Live Scan fingerprinting.** Use any CDI-approved Live Scan provider. Bring the official CDI Request for Live Scan Service form, available on the [CDI website](https://www.insurance.ca.gov/).
 5. **Submit your license application.** Apply through NIPR or directly through the CDI online portal. Pay the application fee.
-6. **Wait for license issuance.** California's processing time runs 4 to 8 weeks for resident license applications, depending on background check turnaround.
+6. **Wait for license issuance.** California typically issues a resident license about 2 to 3 weeks after it has everything it needs, which puts most candidates at roughly 3 to 6 weeks start to finish depending on exam scheduling and background check turnaround.
 
 For a complete fee breakdown, fingerprinting requirements, and current renewal cycles, see our [California insurance license requirements page](/california/requirements).
 
 ## Are some schools still selling the old hour packages?
 
-Yes, and this is where it gets confusing. Some prelicensing providers haven't updated their California catalogs to reflect AB 943. You may still see "52-hour California Life Insurance Course" listings on competitor sites in 2026. There are two reasons this happens:
+Yes, and this is where it gets confusing. Some prelicensing providers haven't updated their California catalogs to reflect AB 943. You may still see "20-hour California Life prelicensing course" listings sold as a state requirement in 2026. There are two reasons this happens:
 
 - **Inertia.** Some providers haven't gotten around to updating their state-specific catalogs.
 - **Bundling exam prep as "required hours."** Some schools sell exam prep content under a label that suggests it's mandatory state hours when it isn't. Read the fine print: if the description says the hours are "required by California for licensure," verify against [Cal. Ins. Code § 1749](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749) directly. The only required prelicensing education in California after January 1, 2026 is 12 hours of Code & Ethics.
@@ -132,16 +132,16 @@ Yes. AB 943 didn't change minimum age (18), residency requirements (California r
 
 ### Where can I take the 12-hour Code & Ethics course?
 
-The course must be completed with a CDI-approved provider with a current Provider Approval Number. JustInsurance is a CDI-approved provider, and our [California prelicensing courses](/california/prelicensing) include the required 12-hour Code & Ethics course plus optional exam prep tailored to your line of authority.
+The course must be completed with a CDI-approved provider with a current Provider Approval Number. JustInsurance is a CDI-approved provider, and our [California prelicensing courses](/california/prelicensing) include the required 12-hour Code & Ethics course plus Life and Accident & Health exam prep.
 
 ## Bottom line
 
-California AB 943 made the prelicensing process dramatically simpler and faster. If you've been putting off getting licensed because of the old 52-hour or 92-hour combined seat-time requirement, those barriers are gone. The path is now: 12-hour Code & Ethics course → state exam → fingerprinting → application → license. Most candidates can move from enrollment to active license in **2 to 6 weeks** depending on exam scheduling and background check turnaround.
+California AB 943 made the prelicensing process dramatically simpler and faster. If you've been putting off getting licensed because of the old 20-hour line-specific requirement — 32 hours for a single line, 52 hours for a combined Life & Accident/Health license — that barrier is gone. The path is now: 12-hour Code & Ethics course → state exam → fingerprinting → application → license. Most candidates can move from enrollment to active license in **3 to 6 weeks** depending on exam scheduling and background check turnaround.
 
 The exam is still the gating event — that didn't change. But the runway to get to it just got a lot shorter.
 
-Ready to start? Browse [California prelicensing courses](/california/prelicensing) for the 12-hour Code & Ethics course plus state-aligned exam prep.
+Ready to start? Browse [California prelicensing courses](/california/prelicensing) for the 12-hour Code & Ethics course plus Life and Accident & Health exam prep.
 
 ---
 
-*Sources: [California Assembly Bill 943 (2023-2024 Session)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB943), [Cal. Ins. Code § 1749](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749), [California Department of Insurance — Producer Licensing](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/index.cfm).*
+*Sources: [California Assembly Bill 943 (2025-2026 Session — Ch. 566, Stats. 2025, approved by the Governor October 10, 2025)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943), [Cal. Ins. Code § 1749](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749), [California Department of Insurance — 12 Hours of Ethics and California Insurance Code FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/), [California Department of Insurance — Producer Licensing](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/index.cfm).*

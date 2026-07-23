@@ -62,7 +62,7 @@ All key facts tested:
 
 PLE: NOT required (eliminated October 1, 2024)
 
-Prometric exam: $60; 70%; 6-month score validity; 4-day retake wait
+Prometric exam: $62; 70%; 6-month score validity; 4-day retake wait
 
 No fingerprinting required
 
@@ -174,7 +174,7 @@ Even though Maryland is an at-fault state, PIP is required to be offered — unu
 
 Prohibition on credit history in auto underwriting: Maryland prohibits using credit history for auto insurance underwriting (Md. Ins. § 27-501) — however, credit scoring is allowed for rating (premium calculation) but not for determining eligibility (COMAR 31.15.11.09). This is a specifically tested Maryland consumer protection provision.
 
-MAIF (Maryland Automobile Insurance Fund): Maryland's assigned risk pool for high-risk drivers. MAIF also competes on the voluntary market — a private/quasi-public hybrid similar to Chesapeake Employers Insurance in workers' comp.
+MAIF (Maryland Automobile Insurance Fund): Maryland's residual-market insurer of last resort for drivers who cannot obtain coverage in the voluntary market. To qualify, an applicant must have been refused coverage by at least two private insurers, or have had a policy cancelled or nonrenewed for a reason other than nonpayment of premium. MAIF was not created to compete for voluntary business and may write only applicants who meet that last-resort test — the opposite of Chesapeake Employers Insurance in workers' comp, which does write voluntary-market business alongside its residual-market role.
 
 Electronic verification: Maryland uses an electronic verification system to monitor auto insurance compliance. Gaps trigger Notice of Non-Compliance within days requiring response within 30 days; failure results in registration suspension.
 
@@ -192,7 +192,7 @@ Competes on voluntary market (not a monopoly like Ohio's BWC)
 
 Maryland is an NCCI state (National Council on Compensation Insurance sets rates); Chesapeake uses some deviating classifications
 
-Self-insurance available with MIA approval (note: MIA approves self-insurance, not a separate commission)
+Self-insurance available with Workers' Compensation Commission approval — the Commission approves individual self-insured employers and monitors their solvency (self-insurance groups additionally need a certificate of authority from the Insurance Commissioner)
 
 Non-compliance penalties: Up to $25,000 (plus potential misdemeanor charges with fines up to $10,000 or prison time).
 
@@ -206,7 +206,22 @@ Maryland Joint Insurance Association (JIA): Property insurer of last resort for 
 
 Satellite/aerial imagery restrictions (Bulletin 25-10, June 2025): MIA issued restrictions on using satellite or aerial imagery for insurance cancellations and nonrenewals — a 2025 consumer protection update.
 
-## MN Numbers Summary for the MD Exam
+## Maryland Numbers Summary for the MD Exam
+
+The figures Maryland candidates most need at recall speed:
+
+- Prometric exam: $62; 70% to pass; 6-month score validity; 4-day retake wait
+- NIPR application: $54 + $5.60 transaction fee
+- Temporary Life license: 15 months
+- Renewal: every 2 years; $69 ($54 + $15 fraud prevention); 90-day window
+- CE: 24 hours per cycle (3 Ethics)
+- Civil penalties: up to $5,000 per violation
+- Auto liability minimums: 30/60/15
+- PIP: $2,500 minimum (waivable in writing)
+- UM: required, must match liability limits (30/60/15)
+- Workers' comp: 1+ employee threshold; non-compliance penalties up to $25,000
+- Maryland Health Connection: 255,612 enrolled for 2026 coverage
+- Maryland Medicaid: adults up to 138% FPL
 
 ## 5 Frequently Asked Questions
 
@@ -218,6 +233,6 @@ Satellite/aerial imagery restrictions (Bulletin 25-10, June 2025): MIA issued re
 
 ## Own the Maryland State Section
 
-Maryland's contributory negligence, credit history prohibition, EUIM, Maryland Health Connection, and LTC tax credit are distinctive provisions that generic national materials don't cover. JustInsurance's MIA-approved Maryland courses are built around the exact Prometric content outline.
+Maryland's contributory negligence, credit history prohibition, EUIM, Maryland Health Connection, and LTC tax credit are distinctive provisions that generic national materials don't cover. JustInsurance's Maryland courses are built to the current Prometric Maryland content outline. Maryland repealed prelicensing education effective October 1, 2024 (MIA Bulletin 24-19), and the prelicensing provider and course rosters were retired at the same time — so for the major producer lines there is no MIA-approved prelicensing or exam-prep course to buy in Maryland, from us or anyone. We build to the outline the exam is actually drawn from. JustInsurance is separately an MIA-approved Maryland continuing-education provider, which is a different approval that Bulletin 24-19 left untouched.
 
 Enroll today and master the Maryland state law that determines your exam outcome.

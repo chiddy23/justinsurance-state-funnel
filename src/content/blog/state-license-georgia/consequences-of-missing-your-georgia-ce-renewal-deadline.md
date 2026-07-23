@@ -80,7 +80,7 @@ Late fees. Assessed during the grace period. Amount varies.
 
 Reinstatement fees. Assessed if you're beyond the grace period. Can be significant.
 
-Completion of missed CE. You still need to complete your full 24 hours plus 3 ethics hours. These don't go away — you just pay for them later.
+Completion of missed CE. You still need to complete your full 24 CE hours, including the mandatory 3 ethics hours — which count toward the 24, not on top of it. Those hours don't go away — you just pay for them later.
 
 Lost business. Commissions you didn't earn while lapsed. This is typically the largest cost.
 

@@ -25,7 +25,7 @@ Start by confirming which lines of authority you hold, such as life and health o
 
 ## Complete your continuing education
 
-Most Minnesota insurance professionals must fulfill [Minnesota continuing education](/minnesota/continuing-education) (CE) credits to renew. The exact number varies depending on your license type, but the standard requirement is 24 credit hours every two years. These hours keep you current with laws, regulations, and industry changes that affect your everyday work.
+Most Minnesota insurance professionals must fulfill [Minnesota continuing education](/minnesota/continuing-education) (CE) credits to renew. Minnesota requires 24 credit hours every two years — and that total stays the same no matter how many lines of authority you hold. A producer who carries both Life & Health and Property & Casualty still owes 24 hours, not 48; you do not double up. These hours keep you current with laws, regulations, and industry changes that affect your everyday work.
 
 Below is a simplified look at what to expect:
 
@@ -49,9 +49,9 @@ Property & Casualty
 
 Combined L&H / P&C
 
-24 per line
+24
 
-3 total
+3
 
 The ethics requirement is a topic many new producers overlook. You must complete at least 3 hours on ethics-related content in every renewal cycle. It's also important to stick with approved CE providers recognized by the [Minnesota Department of Commerce](/minnesota/requirements). If you’re not certain about a course’s approval status, contact the provider or check the state’s online resources for verification.
 

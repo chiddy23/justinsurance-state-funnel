@@ -28,9 +28,9 @@ If you’re in doubt about your background or any specific eligibility questions
 
 ## Consider pre-licensing education (optional)
 
-Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so you can go straight to the state exam without taking a [pre-licensing](/pennsylvania/prelicensing) course. Even so, many candidates opt into [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) coursework to prepare, since the exam covers substantial Pennsylvania-specific content. If you choose a course, confirm its hours and content with an approved education provider.
+Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so you can go straight to the state exam without completing a prelicensing course. Even so, many candidates still study with structured materials to prepare, since the property and casualty exam covers substantial Pennsylvania-specific content. If you use a study course, confirm its content covers the current PSI Pennsylvania property and casualty exam outline; Pennsylvania does not approve or endorse prelicensing courses.
 
-Once you’ve verified how many hours you need, choose a program that fits your schedule and learning style. Some people thrive in an online course environment, where you can study whenever you have free time. Others prefer an in-person classroom setting with live instruction and immediate feedback. Reputable providers like JustInsurance can guide you through the essentials, from risk management principles to policy details, ensuring you’re thoroughly prepared for the final exam.
+If you decide to use a study course, choose a program that fits your schedule and learning style. Some people thrive in an online course environment, where you can study whenever you have free time. Others prefer an in-person classroom setting with live instruction and immediate feedback. Whatever format you choose, look for materials that walk you through the essentials — from risk management principles to policy details — so you’re thoroughly prepared for the final exam.
 
 Remember that these courses focus on practical knowledge, introducing the policies and practices you’ll use every day once you’re licensed. Don’t worry if you’re new to insurance concepts. These lessons are designed to help beginners gain both confidence and expertise. A helpful tip is to set aside daily study periods and spread out your learning, so you steadily build your foundation instead of cramming everything into a single weekend.
 
@@ -78,7 +78,7 @@ Expand your skills. Consider additional lines of authority beyond property and c
 
 ## Where JustInsurance fits in
 
-If you’re feeling uncertain about the road ahead, JustInsurance can be a helpful partner. They offer resources not only for pre-licensing education, but also for advanced certifications that you may want later in your career. Studying with a provider that understands the insurance industry inside and out can save you time as you tackle new licenses, renew existing ones, or look for ways to grow your client base.
+If you’re feeling uncertain about the road ahead, JustInsurance can be a helpful partner. While your property and casualty exam prep can come from any provider whose materials match the current PSI outline, JustInsurance offers Pennsylvania [life and health prelicensing](/pennsylvania/prelicensing) if you decide to add those lines, along with Pennsylvania [continuing education](/pennsylvania/continuing-education) to keep your license current once you’re practicing. Working with a provider that understands the insurance industry inside and out can save you time as you add new lines, renew existing credentials, or look for ways to grow your client base.
 
 ## Chart your own path
 
@@ -86,4 +86,4 @@ Choosing to pursue a Pennsylvania property and casualty license is a meaningful 
 
 If you’ve been thinking about seizing this opportunity, now is the perfect moment to take action. Follow the roadmap above to meet every requirement, pass your exam, and secure your license. As you gain confidence, you’ll see that your license is more than a credential—it’s a bridge to a new profession, layered with potential for both personal and financial success.
 
-Ready to begin your journey? Explore the education options available at JustInsurance or speak to an industry mentor who can guide you. The insurance field in Pennsylvania is growing, and your future clients are out there waiting for you to help protect what they care about most. Embrace this step, and you’ll soon find that obtaining your property and casualty license is just the start of a long, rewarding career in insurance.
+Ready to begin your journey? Explore the education options available at JustInsurance, and look for an experienced producer in your own market who is willing to mentor you. The insurance field in Pennsylvania is growing, and your future clients are out there waiting for you to help protect what they care about most. Embrace this step, and you’ll soon find that obtaining your property and casualty license is just the start of a long, rewarding career in insurance.

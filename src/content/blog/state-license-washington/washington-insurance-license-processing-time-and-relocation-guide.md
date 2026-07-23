@@ -29,13 +29,13 @@ Day 0 — Pass exam PSI reports score to OIC. You receive immediate on-screen re
 
 Days 1-3 — Submit NIPR/OIC application Apply through NIPR (nipr.com) or OIC online portal. Pay ~$55 fee. Receive transaction number in confirmation email.
 
-Days 1-7 — Schedule and complete fingerprinting Use transaction number to schedule IDEMIA IdentoGO appointment. Fingerprint appointment typically available within a few days. Pay $49.25 at scheduling.
+Days 1-7 — Schedule and complete fingerprinting Use transaction number to schedule IDEMIA IdentoGO appointment. Fingerprint appointment typically available within a few days. Pay the $49.00 fingerprint fee at scheduling.
 
 Days 7-14 — Washington State Patrol processing Fingerprints sent electronically to WSP, which runs background check and forwards results to OIC. This is typically the longest single step.
 
-Days 14-28 — OIC review and license issuance OIC reviews complete application. Clean applications typically issued within a few weeks of receiving all components.
+Days 14-21 — OIC review and license issuance Once the background results and score report are on file, OIC review runs roughly 3-5 business days for a clean application, and the license is issued a few days after that.
 
-Total typical timeline: 3-6 weeks from exam pass to active license for clean applications.
+Total typical timeline: about 2-4 weeks from exam pass to active license for clean applications.
 
 Clean applications with no disclosure complications and efficient fingerprint scheduling commonly complete at the lower end of this range. Complex backgrounds or disclosure issues add time.
 
@@ -57,7 +57,7 @@ Personal circumstances can cause delays
 
 Best practice: Begin the application and fingerprinting process within the first week of passing. Even with 180 days available, beginning promptly prevents any risk of expiration.
 
-If your exam validity expires: You must retake and pass the exam before reapplying. Given Washington's $35-52 exam fee, this is more a time cost than a significant financial one — but it extends your timeline meaningfully.
+If your exam validity expires: You must retake and pass the exam before reapplying. Given Washington's $38-55 exam fee, this is more a time cost than a significant financial one — but it extends your timeline meaningfully.
 
 ## The Fingerprint Process in Detail
 
@@ -71,7 +71,7 @@ Step 3: From the agency dropdown, select "Washington Office of the Insurance Com
 
 Step 4: Choose a nearby IDEMIA IdentoGO center or PSI testing center (if fingerprinting at exam location).
 
-Step 5: Complete application and pay $49.25 fee.
+Step 5: Complete the appointment request and pay the fingerprint fee — $49.00 at an IdentoGO center per OIC, or $48.25 if you book the appointment for a PSI examination center per PSI's Washington candidate bulletin.
 
 Step 6: Attend your appointment — bring required identification.
 
@@ -101,7 +101,7 @@ OIC modernization note: OIC's January 2026 announcement of its PLO (Producer & L
 
 Print your license: Log into the OIC online portal at insurance.wa.gov to print your license.
 
-CE planning: Washington's 24-hour/2-year CE cycle begins from your license issuance date.
+CE planning: Washington licenses expire on the last day of your birth month every two years — not on your license anniversary. Your 24 hours of CE, including 3 hours of ethics, must be completed by that expiration date, and the renewal window opens 90 days before it. Find your actual expiration date in the OIC portal the day your license is issued and work backward from it; counting 24 months from issuance can leave you weeks off and drop you into the late-renewal fee window ($82.50 per line for days 1-30 past expiration, $110 per line for days 31-60).
 
 Carrier appointments: Contact carriers for appointment and contracting. Washington requires producer appointment before selling.
 
@@ -143,7 +143,7 @@ Use transaction number to schedule IDEMIA IdentoGO fingerprinting
 
 OIC processes application
 
-CE: Washington resident CE requirements (24 hours/2 years, 3 ethics) apply from your new Washington license issuance.
+CE: Washington resident CE requirements (24 hours per two-year cycle, 3 of them ethics) attach once your Washington resident license is issued, and are due by your first Washington expiration date — the last day of your birth month, biennially — not two years from the issuance date.
 
 Requesting clearance from prior state: Contact your prior state's insurance department for clearance/letter of certification as part of the transition.
 
@@ -159,7 +159,7 @@ CE continuation: As a Washington non-resident, you're responsible for your new h
 
 ## Career Launch Productivity During Processing
 
-Use Washington's 3-6 week processing window:
+Use Washington's 2-4 week processing window:
 
 Complete Washington Healthplanfinder certification. If you plan to sell individual marketplace health plans, certification through Washington Healthplanfinder is required separately from your OIC license. Complete this during the wait so you're ready to sell marketplace plans immediately upon licensure.
 
@@ -175,7 +175,7 @@ Study Washington's health care market. Washington's distinctive health insurance
 
 ## 5 Frequently Asked Questions
 
-- How long does Washington insurance license processing take? 3-6 weeks for clean applications from exam pass to active license. The Washington State Patrol fingerprint background check is typically the longest single step. Complex background situations add time.
+- How long does Washington insurance license processing take? About 2-4 weeks for clean applications from exam pass to active license, with OIC review itself running roughly 3-5 business days once your background check results and score report are on file. The Washington State Patrol fingerprint background check is typically the longest single step. Complex background situations add time.
 - What's the most common source of delay in Washington licensing? Fingerprinting scheduling and WSP background check processing. Candidates who delay submitting their application (needed to schedule fingerprinting) and then delay fingerprint scheduling extend their timeline significantly. Submit your application within the first week after passing and schedule fingerprinting promptly.
 - Does Washington offer a temporary license during processing? Washington has provisions for certain temporary licensing situations — contact OIC at 360-725-7144 for current temporary license availability and requirements for your specific situation.
 - If I move from Washington to another state, can I keep my Washington license? Yes — apply for a Washington non-resident license through NIPR. No fingerprinting required for non-resident applications. You can continue serving Washington clients as a non-resident producer with appropriate CE compliance (your new home state's CE requirements).

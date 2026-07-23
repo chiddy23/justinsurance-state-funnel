@@ -16,261 +16,163 @@ imageAlt: >-
   insurance exam content outline: what's actually test.
 ---
 
-Walking into the Alabama insurance exam without knowing what's actually tested is one of the most common reasons candidates fail. The exam has a specific content outline with predictable topics and weightings. Understanding the exact content domains — and what's weighted most heavily — lets you focus your study where it matters.
+Walking into the Alabama insurance exam without knowing what's actually tested is one of the most common reasons candidates fail. The exam has a published content outline with predictable topics and — unusually — exact question counts rather than vague percentage ranges. Understanding those counts lets you focus your study where it actually pays.
 
 Here's what's actually tested on the Alabama insurance exam.
 
 ## The Alabama Exam Content Framework
 
-Alabama's insurance licensing exams are divided into two major sections:
+The Alabama Department of Insurance publishes its own Producer Examination Content Outline for Life and Health Examinations, and it tells you precisely how many questions come from each chapter. Everything below comes from that document (Industry Advisory Committee review 8/8/2023), not from estimates.
 
-General Section. Tests basic insurance product knowledge applicable in any state — concepts, principles, product structures, and how insurance works broadly.
+The outline is organized into four parts:
 
-Alabama-Specific Section. Tests Alabama insurance laws, rules, regulations, and practices unique to Alabama.
+Part I — General. Insurance principles that apply in any state: the purpose of insurance, contract law, and underwriting.
 
-This two-section structure is common across states, but Alabama's specific content and weighting reflects the state's regulatory framework.
+Part II — Life Insurance. Life products, policy provisions, policy options, riders, annuities, group and business life, and Social Security.
 
-## Content Domains on the Life & Health Exam
+Part III — Health Insurance. Health plan foundations, medical expense and disability income policies, the Uniform Individual Health Policy Provisions Law, group health, Medicare and Medicaid, and limited benefit policies.
 
-The combined Life and Health exam covers these content domains:
+Part IV — Alabama Insurance Law. The state-specific section — ALDOI and Commissioner authority, licensing, continuing education, unfair trade practices, and Alabama's product-specific rules.
 
-## Section 1: General Insurance Concepts
+Alabama offers three versions of the exam, and the weighting shifts depending on which one you sit for:
 
-Approximately 5-10% of exam weight:
+Combined Life & Health: 150 questions, 180 minutes, 105 correct to pass
 
-Insurance as a risk transfer mechanism
+Life only: 125 questions, 150 minutes, 87 correct to pass
 
-Elements of an insurance contract
+Health only: 100 questions, 120 minutes, 70 correct to pass
 
-Insurable interest
+The breakdowns below use the combined Life & Health exam, since that's what most candidates take. Where the Life-only and Health-only counts differ, they're noted.
 
-Agent authority (express, implied, apparent)
+## Part I: General — 30 of 150 questions (about 20%)
 
-Contract requirements
+Chpt 1, Purpose of Insurance — 8 questions:
 
-Regulatory framework
+The purpose of life and health insurance
 
-## Section 2: Life Insurance Basics
+Dealing with risk
 
-Approximately 15-20% of exam weight:
+The law of large numbers
 
-Term life insurance (level, decreasing, increasing)
+Insurance company structures
 
-Whole life insurance
+Domestic, foreign, and alien companies
 
-Universal life insurance
+Admitted and nonadmitted companies
 
-Variable life insurance
+Chpt 2, Contract Law — 11 questions:
 
-Variable universal life
+Introduction to the law of contracts
 
-Industrial life insurance
+Contractual terms and concepts
 
-Group life insurance
+Law of agency
 
-Credit life insurance
+Powers of producers
 
-What's tested: Ability to identify products, distinguish their features, calculate premiums and values, and recommend appropriate products for specific client situations.
+Chpt 3, Underwriting and the Application — 11 questions:
 
-## Section 3: Life Insurance Policy Provisions
+Underwriting and risk classification
 
-Approximately 15-18% of exam weight:
+Premium calculation and premium mode
 
-Grace periods (typically 30 or 31 days)
+Mortality risk factors
 
-Reinstatement provisions
+Conditional receipts
 
-Incontestability periods
+Agent responsibilities
 
-Beneficiary designations (revocable vs. irrevocable, primary vs. contingent)
+Insurance marketing systems
 
-Policy loans
+What's tested: This is a fifth of the combined exam — do not treat "general concepts" as a warm-up. Expect definitional and applied questions on insurable interest, the elements of a contract, and the three kinds of agent authority.
 
-Settlement options (lump sum, fixed period, fixed amount, life income)
+Other versions: 27 questions on the Life-only exam, 21 on the Health-only exam.
 
-Policy surrender
+## Part II: Life Insurance — 55 of 150 questions (about 37%)
 
-Dividend options
+Chpt 4, Traditional Life Policies — 11 questions: term life, whole life, joint life and survivorship life, modified life and graded premium whole life.
 
-Common riders (waiver of premium, accidental death, guaranteed insurability, etc.)
+Chpt 5, Flexible Feature Life Policies — 3 questions: adjustable life, universal life, variable life and variable universal life, equity indexed life.
 
-Conversion privileges
+Chpt 6, Policy Provisions — 15 questions: entire contract and policyowner's rights clauses, beneficiaries, incontestable clause, misstatement of age or gender, suicide clause, free look, grace period, reinstatement, automatic premium loan, assignment, exclusions, accelerated (living) benefit options and viatical settlements.
 
-Assignment rights
+Chpt 7, Policy Options — 10 questions: dividend options, nonforfeiture options, settlement options.
 
-What's tested: Detailed knowledge of how provisions work, time periods, consumer rights, and how provisions interact in specific scenarios.
+Chpt 8, Policy Riders — 5 questions: waiver of premium, disability income, payor, accidental death, guaranteed insurability, term riders, other insureds, cost of living.
 
-## Section 4: Annuities
+Chpt 9, Annuities and Retirement Plans — 5 questions: annuity basics and the fundamentals of retirement plans.
 
-Approximately 8-12% of exam weight:
+Chpt 10, Business and Group Life — 4 questions: business uses for life insurance, group life characteristics.
 
-Annuity structure (accumulation phase, payout phase)
+Chpt 11, Social Security — 2 questions: purpose and funding, types of OASDI benefits.
 
-Fixed annuities
+What's tested: Chapter 6 alone is 15 questions — the single largest chapter on the combined exam. Know the standard provisions cold, including the exact time periods. Chapter 7 is where the classic dividend/nonforfeiture/settlement option distinctions live.
 
-Variable annuities
+Other versions: 80 questions on the Life-only exam. Part II is not tested on the Health-only exam.
 
-Indexed annuities
+## Part III: Health Insurance — 45 of 150 questions (30%)
 
-Immediate vs. deferred
+Chpt 12, Health Foundations — 10 questions: health insurance in general, health insurance providers, managed care, high deductible plans, flexible spending accounts, common provisions.
 
-Single premium vs. flexible premium
+Chpt 13, Medical Expense Policies — 7 questions: major medical policies, major medical claims, medical expense policy provisions.
 
-Tax treatment (qualified vs. non-qualified)
+Chpt 14, Disability Income Policies — 6 questions: disability income features, unique provisions, business uses, riders, income replacement.
 
-Surrender periods and charges
+Chpt 15, Uniform Individual Health Policy Provisions Law — 7 questions: required provisions and optional provisions.
 
-Suitability considerations
+Chpt 16, Group Health — 5 questions: group health generally, group health provisions and guidelines, coordination of benefits, portability, COBRA, HIPAA.
 
-Uses of annuities
+Chpt 17, Medicare and Medicaid — 3 questions.
 
-What's tested: Understanding annuity mechanics, tax implications, and when specific annuity types fit specific client needs.
+Chpt 18, Limited Health Insurance Policies — 7 questions: Medicare Supplement policies, long-term care policies, accidental death and dismemberment, dread disease and critical illness, miscellaneous limited benefit policies.
 
-## Section 5: Accident and Health Insurance Basics
+What's tested: Managed care structures (HMO, PPO, POS, EPO), how deductibles and coinsurance actually pay a claim, and the required-versus-optional split under the Uniform Individual Health Policy Provisions Law.
 
-Approximately 10-12% of exam weight:
+Other versions: 63 questions on the Health-only exam. Part III is not tested on the Life-only exam.
 
-Health maintenance organizations (HMOs)
+## Part IV: Alabama Insurance Law — 20 of 150 questions (about 13%)
 
-Preferred provider organizations (PPOs)
+Chpt 19, All Licensing Candidates — 8 questions: overview; the Insurance Commissioner's powers, duties, investigations, and hearings; authorized companies and certificates of authority; obtaining a producer license; keeping your license; continuing education; producer appointment and termination; the Unfair Trade Practices Law; other prohibited actions; the Domestic Abuse Protection Act.
 
-Point-of-service (POS) plans
+Chpt 20, Life Insurance Candidates — 7 questions: approval of policies and required policy provisions; industrial life provisions; nonforfeiture laws; life insurance and annuity advertisements; life insurance solicitations and disclosures; life insurance illustrations; life and annuity replacement; annuity suitability and disclosures; minors and insurance; the Alabama Life and Disability Insurance Guaranty Association.
 
-Exclusive provider organizations (EPOs)
+Chpt 21, Accident and Health (Disability) Insurance Candidates — 5 questions: individual accident and health policies; required benefits for certain coverages in Alabama; health maintenance organizations; general accident and health plan provisions; Medicare Supplement insurance; long-term care insurance.
 
-Indemnity plans
+What's tested: Alabama-specific rules and how they apply in practice. This is where many candidates lose points, because generic national study materials don't cover this depth.
 
-High-deductible plans paired with HSAs
+Other versions: 18 questions on the Life-only exam, 16 on the Health-only exam.
 
-Individual vs. group coverage
+## Two Things the Outline Does Not Contain
 
-Funding arrangements
+Prep materials sometimes promise an Alabama "federal regulation" domain and a standalone "ethics" domain. Alabama's published outline has neither, and studying for phantom domains wastes time you don't have.
 
-What's tested: Plan structure differences, network implications, cost-sharing mechanics, and when each plan type suits specific clients.
+Federal law is tested only where the outline places it. HIPAA and COBRA appear inside Chpt 16, Group Health — 5 questions on the combined exam, shared with group health provisions, coordination of benefits, and portability. ERISA, the Affordable Care Act, the Fair Credit Reporting Act, and USA PATRIOT Act anti-money-laundering rules are not listed anywhere in Alabama's Life and Health outline. Know HIPAA and COBRA well; don't build a study block around the rest.
 
-## Section 6: Accident and Health Policy Provisions
-
-Approximately 10-15% of exam weight:
-
-Deductibles and coinsurance
-
-Copayments and out-of-pocket maximums
-
-Coordination of benefits
-
-Pre-existing condition provisions
-
-Renewability provisions (guaranteed renewable, non-cancelable, etc.)
-
-Elimination periods (particularly for disability insurance)
-
-Benefit periods
-
-Probationary periods
-
-Policy exclusions
-
-What's tested: How provisions work in practice, how they affect claim payments, and what consumers can expect.
-
-## Section 7: Specialized Medical Plans
-
-Approximately 5-8% of exam weight:
-
-Medicare (Parts A, B, C, D)
-
-Medicare Supplements (Medigap)
-
-Medicaid
-
-Long-term care insurance
-
-Disability income insurance
-
-What's tested: Medicare structure and enrollment periods, Medicare Supplement standardization, long-term care features and benefits, disability income coverage mechanics.
-
-## Section 8: Federal Regulation
-
-Approximately 5-7% of exam weight:
-
-HIPAA (Health Insurance Portability and Accountability Act)
-
-ERISA (Employee Retirement Income Security Act)
-
-ACA (Affordable Care Act) provisions
-
-COBRA continuation coverage
-
-Fair Credit Reporting Act in insurance
-
-USA PATRIOT Act anti-money laundering requirements
-
-What's tested: Basic understanding of federal laws affecting insurance, compliance requirements, and consumer rights under federal law.
-
-## Section 9: Alabama Insurance Laws
-
-Approximately 15-20% of exam weight:
-
-Alabama Department of Insurance (ALDOI) structure and authority
-
-Alabama licensing requirements
-
-Alabama producer conduct standards
-
-Alabama unfair trade practices
-
-Alabama replacement rules
-
-Alabama-specific policy provisions
-
-Alabama claims handling standards
-
-Alabama-specific consumer protections
-
-What's tested: Alabama-specific rules and how they apply in practice. This is where many candidates lose points because generic national study materials don't cover this depth.
-
-## Section 10: Ethics
-
-Approximately 3-5% of exam weight (woven throughout other sections):
-
-Fiduciary duty
-
-Fair dealing
-
-Confidentiality and privacy
-
-Conflicts of interest
-
-Recognizing unethical conduct
-
-What's tested: Application of ethical principles to specific scenarios. Often framed as "what should the producer do?" questions.
+Ethics is not a separate section either. Ethical conduct is tested through the content that carries it — the law of agency and producer powers in Chpt 2, agent responsibilities in Chpt 3, and the Unfair Trade Practices Law and "other prohibited actions" in Chpt 19. Expect "what should the producer do?" framing inside those chapters rather than a discrete ethics block.
 
 ## How Alabama's Weighting Affects Study Strategy
 
-Heavy weighting areas need significant study time:
+Where the questions actually are, on the combined exam:
 
-Life insurance policies and provisions (~15-18%)
+Life policy provisions and options (Chpts 6-7) — 25 questions
 
-Accident and Health provisions (~10-15%)
+Part I General (Chpts 1-3) — 30 questions
 
-Alabama-specific laws (~15-20%)
+Part IV Alabama Insurance Law (Chpts 19-21) — 20 questions
 
-Life insurance basics (~15-20%)
+Traditional and flexible-feature life products (Chpts 4-5) — 14 questions
 
-Moderate weighting areas need solid review:
+Health foundations and medical expense (Chpts 12-13) — 17 questions
 
-Annuities
+Lower-count chapters where basic competence is enough:
 
-Health plan types
+Social Security (Chpt 11) — 2 questions
 
-Federal regulation
+Medicare and Medicaid (Chpt 17) — 3 questions
 
-Lower weighting areas need basic competence:
+Business and group life (Chpt 10) — 4 questions
 
-General concepts
-
-Specialized medical plans
-
-Ethics (interwoven)
+Note the trap in that list: "general concepts" is the second-largest block on the combined exam at 30 questions, and it's the block candidates most often skim. Alabama law, at 20 questions, is smaller than most candidates assume — but it's also the block generic materials leave you least prepared for, so it still earns dedicated study.
 
 ## Alabama-Specific Content Deserves Extra Attention
 
@@ -280,15 +182,15 @@ Focus areas for Alabama-specific study:
 
 ALDOI structure and Commissioner authority
 
-Alabama's unfair trade practices
+Alabama's Unfair Trade Practices Law and other prohibited actions
 
-Alabama-specific replacement requirements
+Alabama's life and annuity replacement, illustration, and disclosure rules
 
-Alabama producer conduct standards
+Producer licensing, appointment, termination, and CE requirements
 
-Alabama-specific policy provisions
+The Alabama Life and Disability Insurance Guaranty Association
 
-Recent Alabama legislative changes
+Required benefits for certain coverages in Alabama
 
 ## Scenario-Based Questions Are Common
 
@@ -310,7 +212,7 @@ A replacement is being proposed — what disclosures are required?
 
 Understanding the content outline helps you:
 
-Budget your time. Don't spend 5 minutes on a 1% weighted question while ignoring 5-6 questions on heavily-weighted content.
+Budget your time. The combined exam gives you 180 minutes for 150 questions — about 72 seconds each. Don't spend five minutes on a single item while six questions from a heavier chapter go unread.
 
 Recognize question patterns. Questions often follow predictable patterns within each content domain.
 
@@ -320,14 +222,14 @@ Trust your preparation. Knowing the content outline means you've studied the rig
 
 ## 5 Frequently Asked Questions
 
-- How much of the Alabama exam is state-specific? Approximately 15-20% of questions focus on Alabama-specific laws, regulations, and practices.
-- Is the Alabama content outline published? Detailed content outlines are available through the University of Alabama's testing network. Check training.ua.edu/insurance-testing for current outlines.
+- How much of the Alabama exam is state-specific? Fewer questions than most candidates expect. Part IV, Alabama Insurance Law, is 20 of 150 questions on the combined Life & Health exam (about 13%), 18 of 125 on the Life-only exam (about 14%), and 16 of 100 on the Health-only exam (16%).
+- Is the Alabama content outline published? Yes, and you should download it. ALDOI posts the official outlines at aldoi.gov/licensing/ExamOutlines.aspx — the Life and Health outline lists every chapter and its exact question count for all three exam versions. Registration and scheduling run through the University of Alabama's insurance testing program at training.ua.edu/insurance-testing.
 - Do I need to memorize specific Alabama statutes? Not necessarily. Focus on understanding rules and how they apply rather than memorizing specific statute numbers.
 - How are scenarios typically framed on the exam? Usually as brief situations (2-3 sentences) asking which rule, provision, or action applies. Practice with scenario-based questions to build familiarity.
-- Which section do candidates typically struggle with most? Alabama-specific laws are where unprepared candidates lose the most points, because generic materials don't cover this depth. Dedicate specific time to Alabama content.
+- Which section do candidates typically struggle with most? Alabama-specific laws are where unprepared candidates lose the most points, because generic materials don't cover this depth. Dedicate specific time to Alabama content — and don't let the 20-question count fool you into skipping it.
 
 ## Master What's Actually Tested
 
-Knowing the content outline lets you study strategically. At JustInsurance, our Alabama exam prep is structured around the actual content domains and weightings the state exam tests.
+Knowing the content outline lets you study strategically. At JustInsurance, our Alabama exam prep is structured around the actual content domains and question counts the state exam tests.
 
 Enroll today and focus your Alabama exam preparation where it matters.

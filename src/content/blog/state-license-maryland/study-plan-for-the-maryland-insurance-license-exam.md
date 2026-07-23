@@ -64,7 +64,7 @@ MIA: dedicated insurance regulator; Commissioner authority; Maryland Insurance A
 
 PLE eliminated October 1, 2024 (Bulletin 24-19) — testable as recent regulatory change
 
-Prometric exam: $60; 70%; 6-month validity; 4-day retake wait; ProProctor option
+Prometric exam: $62; 70%; 6-month validity; 4-day retake wait; ProProctor option
 
 No fingerprinting; ITIN accepted; $54 NIPR application; 7-10 business days
 
@@ -117,8 +117,6 @@ MAIF = assigned risk pool
 Workers' comp: 1+ employee; Chesapeake Employers Insurance; $25,000 penalty; NCCI state
 
 Satellite/aerial imagery restrictions (Bulletin 25-10, June 2025)
-
-## Maryland State Law Quick Reference — Numbers to Memorize
 
 ## Common Study Mistakes for MD Exams
 
@@ -176,6 +174,6 @@ For A&H Maryland scenarios: Maryland Health Connection vs. Healthcare.gov distin
 
 ## Build Your Maryland Study Plan Right
 
-Maryland's self-directed study environment post-PLE elimination rewards candidates who prepare specifically. JustInsurance's MIA-approved Maryland courses cover the full Prometric content outline with Maryland state law depth.
+Maryland's self-directed study environment post-PLE elimination rewards candidates who prepare specifically. JustInsurance's Maryland courses are built to the current Prometric Maryland content outline, with the state-law depth the interleaved MIA questions actually demand; because Maryland no longer requires prelicensing education, the MIA does not approve exam-prep courses for any provider, so we build straight to the outline the exam is drawn from.
 
 Enroll today and prepare for the Maryland exam with genuine state-specific preparation.

@@ -132,7 +132,9 @@ Pay the $45 exam fee per exam at registration
 
 ## North Carolina Exam Structure
 
-North Carolina has a distinctive exam format compared to most states. Passing score is 70% (at least 39 of 55 scored questions correct).
+North Carolina has a distinctive exam format compared to most states — including how it reports your score. The passing score is 70, but that 70 is a **scaled** score on a 0-to-100 range, not a percentage of questions answered correctly. The Pearson VUE North Carolina handbook is explicit: raw scores are converted into scaled scores, and "the scaled score that is reported to you is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Because Pearson VUE equates the different forms of each exam to correct for differences in difficulty, the raw number of correct answers needed to reach a 70 varies by the version you sit. There is no fixed "X of 55" threshold to aim at, and any course that quotes you one is inventing it.
+
+One more scoring detail worth knowing: the Life, A&H, Property, Casualty, and Personal Lines exams are two-part exams (general and state-specific), and the two parts are scored together, not individually. You need an overall passing score — you do not have to clear a separate cut on each part.
 
 Common NC exam types:
 
@@ -144,7 +146,7 @@ NO combined Property and Casualty exam — Property and Casualty are two distinc
 
 NO combined Life and Health exam — Life and Accident & Health or Sickness are two distinct exams ($90 total)
 
-All exams are 55 questions and 1 hour 15 minutes (shorter than most states)
+Exam length varies by line — the four major lines are the short ones. Life, Accident & Health or Sickness, Property, and Casualty are each 55 scored questions plus 5 pretest questions, with 1 hour 15 minutes allotted (shorter than most states). Personal Lines Agent is 80 scored plus 16 pretest, with 1 hour 45 minutes. Other lines differ again: Medicare Supplement/Long-Term Care is 1 hour 45 minutes, Title and Surplus Lines 1 hour each, Auto Physical Damage and Hail Adjuster 30 minutes each, and Adjuster and Public Adjuster 2 hours 15 minutes
 
 Identification requirements:
 
@@ -204,9 +206,9 @@ Fingerprinting Exemption: Insurance producers licensed before October 1, 2010 ar
 
 ## Step 6: NCDOI Reviews and Issues Your License
 
-Once Pearson VUE has your complete application, exam results, and fingerprint background check, processing typically takes:
+Once Pearson VUE has your complete application, exam results, and fingerprint background check, expect the review to take weeks rather than days. NCDOI's official standard is 60 days from a complete application; in practice most clean applications finish faster than that.
 
-Standard processing: 48-72 hours after all requirements are met.
+Standard processing: 2-6 weeks after all requirements are met, with the license typically issued in under a month once all required documentation is in. Do not plan around a 48-to-72-hour turnaround — neither NCDOI nor Pearson VUE publishes one, and the state's own published standard is 60 days.
 
 Applications with disclosures: May add 4-6 weeks for additional review.
 
@@ -220,7 +222,7 @@ North Carolina requires producers to be appointed by carriers to sell their prod
 
 ## Total Timeline
 
-From starting study to holding your active North Carolina license, most candidates finish in 2-5 weeks:
+From starting study to holding your active North Carolina license, plan on 4-8 weeks. NCDOI's official standard for the licensing process is 60 days:
 
 Self-study (recommended even though not required): 1-3 weeks
 
@@ -232,9 +234,9 @@ Fingerprinting: 1-2 weeks within 30 days of application
 
 Background check processing: 1-3 weeks
 
-License processing: 48-72 hours after all requirements met
+License processing: 2-6 weeks after all requirements met (official standard: 60 days)
 
-The elimination of PLE requirements has made North Carolina one of the faster states for licensing.
+The elimination of PLE requirements removed weeks of mandatory coursework from the front of that timeline — but the back end, the state's review and background check, is the part you cannot compress, and it is what makes North Carolina slower end to end than neighbors like Virginia and Tennessee.
 
 ## North Carolina License Lines of Authority
 
@@ -310,27 +312,23 @@ Agent Services: (919) 807-6800
 
 Website: ncdoi.gov
 
-## License Renewal
+## Keeping Your License Active: CE, Not Renewal
 
-North Carolina producer licenses are valid for 2 years from issuance:
+North Carolina works differently from most states here, and the difference is easy to get wrong. NCDOI states that insurance producer licenses "do not renew and are valid until surrendered, canceled or revoked" for Life, Accident & Health or Sickness, Property, Casualty, Personal Lines, Medicare Supplement, Long-Term Care, and Variable Life and Variable Annuity Products. There is no biennial renewal filing and no renewal fee on those lines. (Some other license types — adjusters, public adjusters, business entities, surplus lines, purchasing groups — do have fixed annual renewal dates.)
 
-Renewal cycle: Biennial, on the last day of birth month
+What actually keeps a producer license alive is continuing education. Miss the CE deadline and the license expires; there is no separate renewal step to save it.
 
-Year: Determined by birth year (even-year birth = even-year expiration, odd-year birth = odd-year expiration)
+CE requirement: 24 hours every 2 years, including 3 hours of ethics. Producers holding a property line must also complete 3 hours of flood insurance CE in their first compliance period and again every 4 years
 
-CE requirement: 24 hours every 2 years (3 hours Ethics)
+CE compliance date: the last day of your birth month, biennially. Even-year birth year = even-year compliance, odd-year birth year = odd-year compliance
 
-CE deadline: Must be completed at least 60 days before license expiration
+CE deadline: your hours must be completed **by** your CE compliance date. There is no requirement to finish 60 days early — that rule does not exist in North Carolina
 
-No renewal fee for major lines licenses
+Missing the compliance date: your license expires, but you have 4 months from the compliance date to complete the hours and submit a $75 reinstatement to Prometric
 
-Late renewal: 4-month grace period with $75 reinstatement fee
+After 4 months: the license goes inactive and you must restart the licensing process, including the state exam
 
-After 4 months: Must restart entire licensing process
-
-Fingerprinting: Required EVERY OTHER renewal period ($38 fee)
-
-This periodic re-fingerprinting requirement is distinctive to North Carolina among insurance licensing states.
+Fingerprinting: a one-time requirement, not a recurring one. Under N.C.G.S. 58-33-48 and 11 NCAC 6A .0418, fingerprints are required from applicants for an initial resident producer license, non-resident producers applying for a resident license, adjusters applying for an initial resident producer license, applicants reinstating a license lapsed more than one year, and applicants whose license was suspended or revoked for non-payment of child support. There is no every-other-renewal re-fingerprinting requirement and no recurring $38 fingerprint fee
 
 ## Special Path: Moving to North Carolina From Another State
 
@@ -355,7 +353,7 @@ This streamlined path makes North Carolina accessible for already-licensed produ
 - Does North Carolina require pre-licensing education? No — as of October 1, 2025. North Carolina House Bill 737 (Session Law 2025-45) eliminated the prelicense education requirement for all insurance producer lines. However, structured study is strongly recommended given the exam difficulty.
 - Does North Carolina require fingerprinting for insurance producers? Yes. All initial resident producer license applicants must complete fingerprinting through local law enforcement (Livescan), with results processed by the NC State Bureau of Investigation. Insurance producers licensed before October 1, 2010 are exempt under legacy provisions.
 - How much does the North Carolina insurance exam cost? $45 per exam, paid to Pearson VUE at registration. Each line of authority requires a separate exam.
-- How long is my North Carolina insurance license valid? 2 years from the last day of your birth month, with even-year birthday = even-year expiration and odd-year birthday = odd-year expiration. Renewals require completing CE at least 60 days before expiration.
+- How long is my North Carolina insurance license valid? For the major producer lines, NCDOI does not expire the license on a renewal cycle — those licenses "do not renew and are valid until surrendered, canceled or revoked." What you must meet is your CE compliance date: the last day of your birth month, biennially (even birth year = even-year compliance, odd birth year = odd-year compliance). Complete 24 hours including 3 ethics by that date, or the license expires — with a 4-month window afterward to make up the hours and pay a $75 reinstatement to Prometric.
 - What's the application fee for a North Carolina resident producer license? $82 base fee (includes $38 fingerprint fee for first-time applicants) + $50 per line of authority. Adding all four major lines totals approximately $282 in application fees plus $180 in exam fees.
 
 ## Start Your North Carolina Insurance Career Right

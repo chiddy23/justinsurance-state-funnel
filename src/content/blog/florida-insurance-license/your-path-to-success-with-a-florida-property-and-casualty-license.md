@@ -20,7 +20,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 For many Florida residents, obtaining a [Florida property and casualty license](/florida) marks the start of an exciting new career path. Whether you dream of helping families protect their homes or safeguarding businesses from unexpected risks, this license opens up diverse opportunities in insurance. You might feel a little overwhelmed at first, but the journey can be surprisingly straightforward if you break it into steps.
 
-Earning your property and casualty license in Florida does involve certain requirements, courses, and exams. However, with the right guidance, each step will feel manageable. Below, you will find a clear roadmap to walk you through the entire process from eligibility to license renewal. Let’s get started.
+Earning your property and casualty license in Florida does involve certain requirements, courses, and exams. However, with the right guidance, each step will feel manageable. Below, you will find a clear roadmap to walk you through the entire process from eligibility to keeping your license active. Let’s get started.
 
 ## Understand the license basics
 
@@ -30,15 +30,19 @@ By securing this license, you position yourself as a trusted advisor who can gui
 
 ## Check your eligibility
 
-Before you get too deep into planning your steps, it’s important to ensure you meet the basic requirements set by the [Florida Department of Financial Services](/florida/requirements). Most importantly, you must be at least 18 years old, and you’ll need to provide proof of residency if Florida isn’t your primary home state.
+Before you get too deep into planning your steps, it’s important to ensure you meet the basic requirements set by the [Florida Department of Financial Services](/florida/requirements). Most importantly, you must be at least 18 years old, a resident of the state of Florida, and a U.S. citizen or a legal alien with work authorization. DFS also requires that you not hold a resident insurance license in another state. Residency is not paperwork you can supply after the fact — it is a condition of the resident 2-20 license itself.
+
+If Florida is not your primary home state, the resident license described on this page is not the one you apply for. You would instead pursue the 9-20 non-resident general lines license, which is granted on the strength of an equivalent resident license you already hold in your home state and stays valid only for the lines of authority that home-state license carries. In that case, your first step is licensure at home, not a Florida pre-licensing course.
 
 Meeting the character requirement is just as vital as meeting the age and residency rules. When you apply, the state will run a background check. Generally, minor blemishes on your record are fine, but more serious issues can complicate your application. It’s best to address any concerns up front to avoid surprises.
 
 ## Complete your pre-licensing
 
-Once you’ve confirmed your eligibility, you’ll need to take the required [Florida pre-licensing education](/florida/prelicensing). Currently, Florida mandates a specific number of credit hours that you must complete through an approved course provider. These classes cover core insurance terms, legal guidelines, policy structures, and ethical practices.
+Once you’ve confirmed your eligibility, you’ll need to complete the required Florida pre-licensing education. For the 2-20 license, the standard route is a department-approved 200-hour property and casualty course completed within four years of your application date. That is one of the longest pre-licensing requirements in the country, so plan your schedule accordingly. These classes cover core insurance terms, legal guidelines, policy structures, and ethical practices.
 
-When choosing a [pre-licensing](/florida/prelicensing) program, look for interactive lessons and up-to-date resources that match Florida statutes. If you have a busy schedule, many providers offer online courses you can complete at your own pace. Completing these courses thoroughly sets you up for success in the state exam, so avoid rushing through the material.
+Florida does recognize a few alternatives to the 200-hour course — for example, a year of full-time responsible insurance duties in all property and casualty lines, or holding the CPCU designation — but most newcomers take the course.
+
+When choosing a pre-licensing program, look for interactive lessons and up-to-date resources that match Florida statutes. If you have a busy schedule, many providers offer online courses you can complete at your own pace. One thing to know up front: JustInsurance’s own pre-licensing catalog covers the Life and Health lines — the 2-14, 2-40, and combined 2-15 — so for the 2-20 property and casualty course itself, you’ll want a DFS-approved property and casualty provider. Completing these courses thoroughly sets you up for success in the state exam, so avoid rushing through the material.
 
 ## Prepare for the exam
 
@@ -48,7 +52,7 @@ Use practice exams and flashcards to handily review the trickiest parts of the m
 
 ## Take the state exam
 
-The next step is registering for your Florida property and casualty license exam through the approved testing vendor. Once you schedule your exam, map out the date and location well in advance so you can plan your final review time effectively.
+The next step is registering for your Florida property and casualty license exam through the approved testing vendor. Sequencing matters here: DFS issues an exam authorization to your MyProfile account once your application is approved, though the state will also accept an exam you passed within the year before you applied. Either way, map out the date and location well in advance so you can plan your final review time effectively.
 
 On exam day, bring proper identification and arrive early to ensure a smooth check-in. The test itself typically includes multiple-choice questions, focusing on both state-specific and general industry knowledge. If you’ve covered the pre-licensing material carefully, stay calm and trust in your preparation. In just a couple of hours, you could be walking away one step closer to your new career.
 
@@ -60,9 +64,9 @@ Typical timeline
 
 Approx. fee
 
-Complete pre-licensing courses
+Complete the 200-hour pre-licensing course
 
-1–4 weeks
+5+ weeks full time; longer at a part-time pace
 
 Varies by provider
 
@@ -94,4 +98,4 @@ The good news is that most CE courses are flexible and easily fit into a work sc
 
 Securing your Florida property and casualty license doesn’t have to feel overwhelming. Each phase, from preliminary research to acing your state exam, is manageable when you organize your efforts and trust in your preparation. You’re not just meeting state requirements, you’re crafting a strong foundation for a career that revolves around helping people safeguard what matters most.
 
-When you’re ready to begin your insurance journey in earnest, consider connecting with JustInsurance. From user-friendly pre-licensing courses to resources tailored to Florida’s unique regulations, JustInsurance offers tools to make your path even smoother. Now is the time to take action, complete your coursework, schedule your exam, and start your new professional life as a licensed property and casualty insurance agent in the Sunshine State. Your future clients are waiting — and you have everything you need to serve them with confidence.
+When you’re ready to begin, organize your coursework, schedule your exam, and take each step with confidence. A quick word on where JustInsurance fits your 2-20 journey: the 200-hour property and casualty pre-licensing course itself comes from a DFS-approved property and casualty provider, not from us — our pre-licensing catalog covers the Life and Health lines (2-14, 2-40, and the combined 2-15). Where we can help once you’re licensed is keeping your 2-20 current — our DFS-approved [property and casualty continuing education](/florida/continuing-education) is reported straight to Florida DFS every renewal cycle. And if you ever decide to add life and health lines to your practice, our pre-licensing courses are ready when you are. Your future clients are waiting — and with the right plan, you have everything you need to serve them with confidence.

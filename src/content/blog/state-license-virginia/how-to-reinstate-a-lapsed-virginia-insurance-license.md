@@ -36,9 +36,9 @@ To reinstate a lapsed Virginia insurance license, you must satisfy all of the fo
 
 3. Pay the reinstatement fees:
 
-A producer reinstating a single line of authority pays $30 per line ($10 renewal + $20 reinstatement) plus the $5.60 processing fee. A producer reinstating five lines of authority pays $150 in reinstatement fees plus processing.
+Virginia charges $30 per qualification to reinstate — the $10 renewal fee plus a reinstatement fee of double that, $20 — and the NIPR/Sircon transaction fee of $5.60 applies once per submission, not once per qualification. So a producer reinstating a single qualification pays $35.60 all in. A producer carrying the full general-lines set — Life and Annuities, Health, and Property and Casualty, which is three qualifications — pays $90 ($30 in renewal fees plus $60 in reinstatement fees) plus the same single $5.60. Add $30 for any additional qualification you hold, such as Title.
 
-4. Provide updated background documentation if required. If significant time has passed since your original fingerprinting and CHRR, the Bureau may request updated documentation. Contact the Bureau directly at AgentLicensing@scc.virginia.gov if your reinstatement involves more than a brief lapse.
+4. Provide updated background documentation if required. If significant time has passed since your original Fieldprint fingerprinting, or if your background has changed since you were last licensed, the Bureau may request new prints or additional disclosure documents. Contact the Bureau directly at AgentLicensing@scc.virginia.gov if your reinstatement involves more than a brief lapse.
 
 ## What You Cannot Do While Lapsed
 
@@ -56,7 +56,7 @@ If you transact insurance during a lapse period, you are operating without a lic
 
 Once reinstated, your license is active again for the lines you held. Your carrier appointments that were on file prior to lapse may need to be re-activated by the appointing insurer — contact your carriers to confirm appointment status after your license is reinstated.
 
-Your CE clock resets for the next biennial cycle. Going forward, make CE completion and renewal submission part of a calendar-driven process — your birth-month renewal date repeats every two years without exception, which means there is no excuse for being caught off-guard by it.
+Your CE obligation now runs to your next birth-month renewal date — the fixed biennial deadline, not a fresh two years counted from your reinstatement. Going forward, make CE completion and renewal submission part of a calendar-driven process — your birth-month renewal date repeats every two years without exception, which means there is no excuse for being caught off-guard by it.
 
 ## If the One-Year Window Has Passed
 
@@ -64,9 +64,7 @@ If your license lapsed more than one year ago, reinstatement is not available. Y
 
 Pass the Prometric exam for each line you want to hold ($35 per exam)
 
-Complete Fieldprint fingerprinting ($34.95)
-
-Obtain a new CHRR from the Virginia State Police
+Complete Fieldprint fingerprinting ($34.95) using code FPVABOIProducer — this is the background check in its entirety; there is no separate Virginia State Police report to order and upload
 
 Submit a new application through NIPR or Sircon ($15 per line)
 
@@ -92,7 +90,7 @@ Virginia's 65/20 CE exemption was available to producers who were 65 years old a
 
 After reinstatement, when is my next renewal due?
 
-Your next renewal is due on your usual birth-month renewal date, two years after the cycle in which you reinstated. If you reinstate a license that lapsed at your birth-month deadline in 2024, your next renewal is the same birth-month date in 2026. Your CE biennium resets from the date of reinstatement for the new cycle. Begin tracking CE requirements immediately after reinstatement — two years goes faster than expected, and your birth-month deadline applies the same way regardless of when you reinstated.
+Your next renewal is due on your usual birth-month renewal date, on the same fixed biennial schedule you were always on. If you reinstate a license that lapsed at your birth-month deadline in 2024, your next renewal is the same birth-month date in 2026. Your CE obligation runs to that fixed date — not a fresh two years measured from your reinstatement — so if you reinstated partway through the cycle, you have less than a full biennium to complete the required hours. Begin tracking CE requirements immediately after reinstatement, because your birth-month deadline applies the same way regardless of when you reinstated.
 
 A lapsed Virginia insurance license is a fully correctable situation as long as you act within one year of the expiration date. Complete your CE, pay the reinstatement fees, and submit through NIPR or Sircon. Miss the one-year window and the path back requires starting from scratch.
 

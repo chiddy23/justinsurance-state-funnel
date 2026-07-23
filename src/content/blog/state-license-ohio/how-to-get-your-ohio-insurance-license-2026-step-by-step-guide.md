@@ -32,7 +32,7 @@ ODI states that each completion certificate lasts **180** calendar days and that
 
 ## Schedule PSI with the Ohio-specific client code
 
-NIPR’s [Ohio licensing overview](https://nipr.com/licensing-center/state-information/ohio) routes you to the Ohio landing page at [psiexams.com/ohin](https://www.psiexams.com/ohin). Bookmark it. PSI handles seat inventory, remote proctoring eligibility, and reschedules; ODI handles whether your education and background satisfy Ohio law. Confirm any current phone contact directly on the PSI Ohio portal rather than relying on a number from a third-party summary.
+NIPR’s [Ohio licensing overview](https://nipr.com/licensing-center/state-information/ohio) routes you to the Ohio landing page at [test-takers.psiexams.com/ohins](https://test-takers.psiexams.com/ohins) — note the trailing **s**, which is the alias ODI’s current candidate bulletin prints. Bookmark it. Budget **$49** for the exam: ODI’s bulletin (Updated 3/24/2026) lists a single flat examination fee for every Ohio insurance exam, and it is not refundable or transferable once paid. PSI handles seat inventory and reschedules; ODI handles whether your education and background satisfy Ohio law. Plan on driving to a test center — the same bulletin states that effective 3/13/2026 remote proctored examinations are no longer available in Ohio, and only in-person seats at PSI locations remain. Confirm any current phone contact directly on the PSI Ohio portal rather than relying on a number from a third-party summary.
 
 ## Apply through NIPR once exams clear—don’t let the 180-day certificate lapse first
 
@@ -68,7 +68,7 @@ Other states trimmed hours (Georgia’s **8.0**-hour rule is the clearest contra
 
 ## Bottom line
 
-Pick lines, finish **20** hours per line from an ODI-approved provider, guard the **180**-day certificate, pass PSI before that window closes, then push the NIPR application with clean fingerprints. Drill with [Ohio practice exams](https://justinsuranceco.com/ohio/practice-exam) if you want item-level repetition after your statutory hours, read the [insurance exam guide](https://justinsuranceco.com/insurance-exam-guide) for how to read vendor bulletins, and book [Ohio prelicensing](https://justinsuranceco.com/ohio/prelicensing) once you know which certificates you need for the combined tests you plan to sit.
+Pick lines, finish **20** hours per line from an ODI-approved provider, guard the **180**-day certificate, pass PSI before that window closes, then push the NIPR application with clean fingerprints. Drill with [Ohio practice exams](https://justinsuranceco.com/ohio/practice-exam) if you want item-level repetition after your statutory hours, read the [insurance exam guide](https://justinsuranceco.com/insurance-exam-guide) for how to read vendor bulletins, and book [Ohio prelicensing](https://justinsuranceco.com/ohio/prelicensing) for the Life and Accident & Health certificates you need before the combined Life & Health exam — Property & Casualty and Personal Lines candidates complete those statutory hours through a separate ODI-approved course.
 
 **By Justin vom Eigen, Licensed Insurance Agent and Founder of JustInsurance**
 
@@ -79,6 +79,5 @@ Pick lines, finish **20** hours per line from an ODI-approved provider, guard th
 - [Ohio Department of Insurance — Pre-Licensing Education](https://insurance.ohio.gov/wps/portal/gov/odi/agents-and-agencies/agent-education/pre-licensing-education)
 - [Ohio Administrative Code — Rule 3901-5-07](https://codes.ohio.gov/ohio-administrative-code/rule-3901-5-07)
 - [NIPR — Ohio licensing overview](https://nipr.com/licensing-center/state-information/ohio)
-- [PSI — Ohio insurance exam scheduling](https://www.psiexams.com/ohin)
-
-**Word count:** ~1,560 words
+- [PSI — Ohio insurance exam scheduling](https://test-takers.psiexams.com/ohins)
+- [Ohio Department of Insurance — PSI Insurance License Examination Candidate Information Bulletin (Updated 3/24/2026)](https://dam.assets.ohio.gov/image/upload/insurance.ohio.gov/Agent/Documents/Candidate_Handbook_updated_3.20.2025.pdf)

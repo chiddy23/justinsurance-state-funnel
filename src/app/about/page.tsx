@@ -1,8 +1,110 @@
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import { STATES } from "@/lib/states";
+import { pleRequirement } from "@/lib/prelicensing-status";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+
+// ---------------------------------------------------------------------------
+// Coverage count is DERIVED, never hand-typed: we serve every state except
+// New York, so this self-corrects if coverage changes. Same derivation as
+// /press. A hard-coded "nationwide" previously shipped here and contradicted
+// the 49-state figure printed elsewhere on this same page.
+// ---------------------------------------------------------------------------
+const ALL_STATES = Object.values(STATES);
+const SERVED_STATES = ALL_STATES.filter((s) => s.slug !== "new-york");
+const SERVED_STATE_COUNT = SERVED_STATES.length;
+
+// ---------------------------------------------------------------------------
+// CE APPROVAL is a different fact from COVERAGE. `providerApprovalNumber` is a
+// CONTINUING EDUCATION credential (see src/lib/prelicensing-status.ts), and the
+// value "PENDING" is NOT an approval. Among the states we serve, Washington is
+// still pending, so "continuing education across 49 states" would assert an
+// approval we do not hold. Derived here so it self-corrects when WA issues.
+// ---------------------------------------------------------------------------
+const CE_APPROVAL_PENDING = SERVED_STATES.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
+
+/** "A", "A and B", "A, B, and C" — for naming states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+const CE_APPROVAL_PHRASE =
+  CE_APPROVAL_PENDING.length === 0
+    ? `continuing education in all ${SERVED_STATE_COUNT} states we serve`
+    : `continuing education in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (our ${formatStateNames(
+        CE_APPROVAL_PENDING
+      )} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending)`;
+
+// ---------------------------------------------------------------------------
+// DELIVERY-FORMAT FACTS — derived from states.ts, never hand-typed.
+//
+// This page previously named ONLY Minnesota and Michigan as proctor states and
+// then asserted "In every other state the coursework is fully self-paced."
+// Both halves were wrong: states.ts documents a disinterested third-party
+// proctor for the course final exam in seven states, and several states impose
+// other non-self-paced formats (Illinois live webinar hours, New Mexico live
+// CE hours, California/Minnesota monitored seat time). The universal claim is
+// gone; the enumeration is now computed from the same records the state pages
+// render.
+//
+// Ohio must NOT appear in the proctor list: OAC 3901-5-07(F) accepts an honor
+// affidavit "in place of a live proctor, so no third-party proctor is needed."
+// Matching the exact phrase "disinterested third-party proctor" excludes it,
+// and the negative test below is belt-and-braces if that wording ever changes.
+// ---------------------------------------------------------------------------
+const PROCTORED_FINAL_STATES = SERVED_STATES.filter((s) =>
+  (s.specialNotices ?? []).some(
+    (n) =>
+      n.body.includes("disinterested third-party proctor") &&
+      !n.body.includes("no third-party proctor")
+  )
+);
+const PROCTOR_STATE_NAMES = formatStateNames(PROCTORED_FINAL_STATES);
+
+/** States whose CE hours include a mandated live-instructor block (New Mexico). */
+const LIVE_CE_STATES = SERVED_STATES.filter(
+  (s) => typeof s.ce?.liveInstructorHours === "number"
+);
+
+const IL = STATES["illinois"];
+const IL_LIVE_HOURS = IL?.classroomWebinarHours;
+const IL_LINE = pleRequirement(IL?.prelicensing?.life?.hours);
+
+/** Illinois live-format sentence — hours come from the record, not from memory. */
+const IL_LIVE_SENTENCE =
+  IL_LIVE_HOURS && IL_LINE.required
+    ? `Illinois requires ${IL_LIVE_HOURS} of the ${IL_LINE.hours} prelicensing hours per line of authority to be attendance-verified live classroom/webinar instruction (215 ILCS 5/500-30(b); 50 Ill. Adm. Code Part 3119), plus its ${IL.ce.ethicsHours} CE ethics hours in that same live format (50 Ill. Adm. Code 3119.45).`
+    : "";
+
+const PROCTOR_SENTENCE = PROCTORED_FINAL_STATES.length
+  ? `${PROCTOR_STATE_NAMES} require the course final exam to be administered by a disinterested third-party proctor you arrange — we supply the exam and the affidavit, you supply the proctor.`
+  : "";
+
+const LIVE_CE_SENTENCE = LIVE_CE_STATES.length
+  ? `${formatStateNames(LIVE_CE_STATES)} require${
+      LIVE_CE_STATES.length === 1 ? "s" : ""
+    } ${LIVE_CE_STATES[0].ce.liveInstructorHours} of ${
+      LIVE_CE_STATES.length === 1 ? "its" : "their"
+    } ${LIVE_CE_STATES[0].ce.totalHours} biennial CE hours to be earned in a live-instructor format (13.4.7 NMAC).`
+  : "";
+
+/** Short form used in CTA copy, where the full enumeration will not fit. */
+const SELF_PACED_CTA_CAVEAT = `Self-paced study in most of the ${SERVED_STATE_COUNT} states we serve${
+  IL_LIVE_HOURS ? " — Illinois includes state-required live webinar hours" : " —"
+}${
+  PROCTORED_FINAL_STATES.length
+    ? ` and ${PROCTORED_FINAL_STATES.length} states require a proctored final exam you arrange`
+    : ""
+}; New York is not currently served.`
 
 export const metadata: Metadata = {
   title: { absolute: "About JustInsurance — 20,000+ Students Trained Since 2018" },
@@ -72,25 +174,46 @@ const orgPersonSchema = {
 
 const stats = [
   { value: "20,000+", label: "Students Trained" },
-  { value: "93%", label: "First-Attempt Pass Rate" },
-  { value: "49", label: "States Covered" },
+  { value: "93%", label: "First-Attempt Pass Rate*" },
+  { value: String(SERVED_STATE_COUNT), label: "States Covered" },
   { value: "20,000+", label: "YouTube Subscribers" },
   { value: "$199", label: "Prelicensing" },
   { value: "$39", label: "CE (from)" },
 ];
 
-const press = [
+// FTC/Lanham hygiene: self-issued material must not be presented as independent
+// editorial coverage. The Dec 10, 2025 item is ONE company press release we paid
+// GlobeNewswire to distribute; Yahoo Finance carries the automated syndication of
+// that same release and stamps it "This is a paid press release. Contact the press
+// release distributor directly with any inquiries." Those two entries are labeled
+// as a press release, not as coverage. The InsuranceNerds entry is a republication
+// of a company-supplied Q&A and its link resolves only to that site's homepage.
+type PressItem = {
+  outlet: string;
+  date: string;
+  title: string;
+  href: string;
+  /** Link text — "Read coverage" is reserved for independent editorial items. */
+  linkLabel: string;
+  /** Provenance note shown when the item is not independent editorial. */
+  note?: string;
+};
+
+const press: PressItem[] = [
   {
     outlet: "NASDAQ TradeTalks",
     date: "Live at NASDAQ MarketSite",
     title: "Panel discussion on AI governance and innovation in financial services",
     href: "https://www.youtube.com/watch?v=AYuIOZCZpLQ",
+    linkLabel: "Watch the appearance",
   },
   {
     outlet: "Yahoo Finance",
     date: "Dec 10, 2025",
     title: "JustInsurance Unveils 93% Pass-Rate Breakthrough",
     href: "https://finance.yahoo.com/news/justinsurance-unveils-93-pass-rate-160000549.html",
+    linkLabel: "Read the press release",
+    note: "Company press release — our GlobeNewswire release syndicated to Yahoo Finance, which labels it a paid press release. Not Yahoo Finance reporting.",
   },
   {
     outlet: "GlobeNewswire",
@@ -98,6 +221,8 @@ const press = [
     title:
       "JustInsurance Unveils 93% Pass-Rate Breakthrough, Offering a Scalable Solution to the U.S. Insurance Agent Shortage",
     href: "https://www.globenewswire.com/news-release/2025/12/10/3203363/0/en/JustInsurance-Unveils-93-Pass-Rate-Breakthrough-Offering-a-Scalable-Solution-to-the-U-S-Insurance-Agent-Shortage.html",
+    linkLabel: "Read the press release",
+    note: "Company press release issued by JustInsurance over a paid distribution wire. Not independent reporting.",
   },
   {
     outlet: "CityBiz",
@@ -105,12 +230,15 @@ const press = [
     title:
       "Q&A with Justin vom Eigen, Founder and CEO of JustInsurance, on Modernizing Insurance Education",
     href: "https://citybiz.co/article/765855/qa-with-justin-vom-eigen-founder-and-ceo-of-justinsurance-on-modernizing-insurance-education/",
+    linkLabel: "Read coverage",
   },
   {
     outlet: "InsuranceNerds",
     date: "2025",
     title: "CEO Q&A republication",
     href: "https://insnerds.com",
+    linkLabel: "Visit InsuranceNerds",
+    note: "Republication of the company-provided CEO Q&A. Link goes to the InsuranceNerds site, not to a standalone article.",
   },
   {
     outlet: "Refresh Miami",
@@ -118,6 +246,7 @@ const press = [
     title:
       "JustInsurance offers pre-license education courses for aspiring agents and it's expanding in Miami",
     href: "https://refreshmiami.com/news/justinsurance-offers-pre-license-education-courses-for-aspiring-agents-and-its-expanding-in-miami/",
+    linkLabel: "Read coverage",
   },
 ];
 
@@ -176,10 +305,10 @@ export default function AboutPage() {
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-3xl mx-auto">
             JustInsurance was founded by Justin vom Eigen — a former New York Life agent who
             watched talented people wash out of the industry because of outdated,
-            soul-crushing prelicensing courses. Today we&apos;ve trained over{" "}
-            <strong className="text-white">20,000 students</strong> across{" "}
-            <Link href="/" className="underline hover:text-gold">
-              nationwide
+            soul-crushing prelicensing courses. Today we&apos;ve trained{" "}
+            <strong className="text-white">over 20,000 students</strong> across{" "}
+            <Link href="/#states" className="underline hover:text-gold">
+              {SERVED_STATE_COUNT} states
             </Link>{" "}
             with a <strong className="text-white">93% first-attempt pass rate</strong>{" "}
             (among students who complete the course and recommended practice —{" "}
@@ -209,7 +338,7 @@ export default function AboutPage() {
             <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Since</p>
           </div>
           <div>
-            <p className="text-3xl md:text-4xl font-extrabold text-navy">49</p>
+            <p className="text-3xl md:text-4xl font-extrabold text-navy">{SERVED_STATE_COUNT}</p>
             <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">States</p>
           </div>
           <div>
@@ -275,10 +404,15 @@ export default function AboutPage() {
           <P>
             JustInsurance is a fully online insurance education platform offering insurance
             prelicensing courses, insurance continuing education, and full licensing support
-            across 49 states. Our courses carry state approval wherever the state approves that
-            course type &mdash; continuing education broadly, and prelicensing in the states that
-            actually mandate it. Everything is self-paced and built for the way candidates
-            actually study.
+            across {SERVED_STATE_COUNT} states. Our courses carry state approval wherever the
+            state approves that course type &mdash; {CE_APPROVAL_PHRASE}, and prelicensing in the
+            states that actually mandate it. Coursework is self-paced except where state law
+            requires live instruction, monitored seat time, or a proctored exam.{" "}
+            {IL_LIVE_SENTENCE} {PROCTOR_SENTENCE} {LIVE_CE_SENTENCE} California and Minnesota also
+            enforce monitored seat time that cannot be accelerated, so those hours take as long as
+            the state says they take (10 CCR &sect;&sect; 2188.2, 2188.5; Minn. Stat. 45.305,
+            subd. 4). Outside those state-imposed formats you study on your own schedule &mdash;
+            and everywhere, it&apos;s built for the way candidates actually study.
           </P>
 
           <H3>For New Agents</H3>
@@ -286,7 +420,7 @@ export default function AboutPage() {
             If you&apos;ve never held a license, we handle the full path: a life and health
             insurance license prelicensing course, full-length practice exams, exam scheduling
             guidance, background check walkthroughs, and the NIPR application process. Most
-            students finish in one to three weeks.
+            students finish in two to six weeks, depending on the state.
           </P>
 
           <H3>For Licensed Agents</H3>
@@ -323,7 +457,7 @@ export default function AboutPage() {
             ))}
           </div>
           <p className="text-gray-500 text-xs mt-6 text-center max-w-2xl mx-auto">
-            93% first-attempt pass rate reflects JustInsurance student outcomes among students who
+            *93% first-attempt pass rate reflects JustInsurance student outcomes among students who
             complete the course and recommended practice. Founded 2018, public since January
             2023.{" "}
             <Link href="/pass-rates" className="text-navy font-semibold underline hover:text-gold">
@@ -365,8 +499,15 @@ export default function AboutPage() {
               application walkthroughs.
             </li>
             <li>
-              <strong className="text-navy">Self-paced completion</strong> — students move at
-              their own pace, on any device, without waiting on a fixed classroom schedule.
+              <strong className="text-navy">Self-paced completion in most states</strong> —
+              students move at their own pace, on any device, without waiting on a fixed classroom
+              schedule. Where state law requires otherwise, the schedule is the state&apos;s, not
+              ours: Illinois requires {IL_LIVE_HOURS} attendance-verified live webinar hours per
+              line of authority (plus live-format CE ethics hours); {PROCTOR_STATE_NAMES} require a
+              final exam you schedule with a disinterested third-party proctor;{" "}
+              {formatStateNames(LIVE_CE_STATES)} requires part of its CE hours in a live-instructor
+              format; and California and Minnesota meter seat time, so those hours cannot be
+              finished early.
             </li>
             <li>
               <strong className="text-navy">Plain English instruction</strong> — no industry
@@ -385,8 +526,8 @@ export default function AboutPage() {
             </li>
           </ul>
           <p className="text-gray-500 text-xs leading-relaxed mb-6">
-            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or
-            West Virginia.{" "}
+            Pass guarantee is available in most states and is not offered in{" "}
+            {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="text-navy font-semibold underline hover:text-gold">
               Full terms
             </Link>
@@ -460,13 +601,17 @@ export default function AboutPage() {
         <div className="max-w-3xl mx-auto">
           <H2 id="press">As Seen In</H2>
           <P>
-            JustInsurance has been featured in national financial media and insurance industry
-            publications as part of broader coverage on modernizing insurance education and
-            addressing the U.S. insurance agent shortage. Full{" "}
+            JustInsurance has appeared in national financial media and insurance industry
+            publications discussing the modernization of insurance education and the U.S.
+            insurance agent shortage. The list below separates independent coverage &mdash; such
+            as the NASDAQ TradeTalks appearance, the citybiz Q&amp;A, and Refresh Miami &mdash;
+            from material we issued ourselves: the Dec 10, 2025 item is a JustInsurance press
+            release distributed over a paid newswire and syndicated to Yahoo Finance, not
+            third-party reporting. Full{" "}
             <Link href="/press" className="text-navy font-semibold underline hover:text-gold">
               press and media
             </Link>{" "}
-            coverage is collected here:
+            listings are collected here:
           </P>
           <ul className="space-y-4">
             {press.map((p) => (
@@ -479,13 +624,16 @@ export default function AboutPage() {
                   <p className="text-xs text-gray-500">{p.date}</p>
                 </div>
                 <p className="text-gray-600 text-sm leading-relaxed mb-2">{p.title}</p>
+                {p.note && (
+                  <p className="text-gray-500 text-xs leading-relaxed mb-2 italic">{p.note}</p>
+                )}
                 <a
                   href={p.href}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gold font-semibold text-sm hover:underline"
                 >
-                  Read coverage &rarr;
+                  {p.linkLabel} &rarr;
                 </a>
               </li>
             ))}
@@ -518,9 +666,12 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* subtitle is a STRING prop, not JSX — the count must be interpolated with
+          ${...} inside a template literal. A bare {SERVED_STATE_COUNT} in a quoted
+          string would render as literal source text to visitors. */}
       <CTABanner
         title="Ready to Get Licensed?"
-        subtitle="Prelicensing from $199, state-approved where the state requires it. Pass guarantee included in most states. Study at your own pace nationwide."
+        subtitle={`Prelicensing from $199, state-approved where the state requires it. Pass guarantee in most states. ${SELF_PACED_CTA_CAVEAT}`}
         ctaText="Find My State"
         ctaHref="/#states"
       />

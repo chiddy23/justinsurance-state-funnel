@@ -69,9 +69,9 @@ Generic national study materials cover insurance principles well but underprepar
 
 The reality:
 
-Approximately 15-25% of the Nevada exam is state-specific
+Roughly 30% of the Nevada Life & Health combined exam is state-specific — 44 of 144 scored questions — and it climbs to about 38% on the single-line Life exam (30 of 80) and 43% on the single-line Health exam (38 of 88)
 
-That's enough to fail the exam if you skip Nevada content
+That's more than enough to fail the exam if you skip Nevada content
 
 Nevada has specific rules (NRS Chapter 683A, NAC 683A) generic materials miss
 
@@ -352,7 +352,7 @@ This approach consistently produces first-time passes.
 - What's the most common reason people fail the Nevada exam? Underestimating the exam because Nevada doesn't require prelicense education. The exam is challenging regardless of state prelicense requirements.
 - How many practice questions should I work through? 500-1,000+ practice questions for solid preparation. Quality matters more than quantity, but volume helps too.
 - Should I take prelicense education even though it's not required? Highly recommended. The cost of a quality prelicense course is far less than the cost of multiple exam attempts.
-- How much time should I spend on Nevada-specific content? Approximately 15-25% of total study time, matching the exam's state-specific weighting.
+- How much time should I spend on Nevada-specific content? Plan for at least a third of your study time. Nevada-specific material makes up about 30% of the Life & Health combined exam (44 of 144 scored questions) and even more on the single-line exams — roughly 38% for Life and 43% for Health — so it is not a section you can afford to skim.
 - Can I retake the Nevada exam if I fail? Yes. There's no specific cap on retakes, but each attempt requires a new fee. Address weak areas between attempts.
 
 ## Pass the Nevada Exam on Your First Try

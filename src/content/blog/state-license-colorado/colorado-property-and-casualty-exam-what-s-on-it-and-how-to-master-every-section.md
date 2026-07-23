@@ -1,6 +1,6 @@
 ---
 title: "Colorado Property and Casualty Exam: What's on It and How to Master Every Section"
-description: The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour prelicensing ...
+description: The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour prelicensing course, its own Pearson VUE exam, and its own scaled passing score of 70.
 keyword: colorado property and casualty exam whats on it and how to
 targetKeywords: colorado property and casualty exam whats on it and how to
 cluster: state-license-colorado
@@ -12,11 +12,13 @@ image: /blog/images/easy-steps-to-meet-colorado-insurance-license-requirements.j
 imageAlt: "Colorado Property and Casualty Exam: What's on It and How to Master Every Section"
 ---
 
-The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour [prelicensing](/colorado/prelicensing) course, its own Pearson VUE exam, and its own $47 application fee. You can sit for both in a single combined session at a physical Pearson VUE test center for one combined exam fee (confirm the current amount directly with Pearson VUE's Colorado candidate handbook), taking 120 minutes per exam back-to-back in a 240-minute total session. The content outline for each exam is published by Pearson VUE and effective January 1, 2024. This post maps every content area of both exams — general knowledge and Colorado state sections — with full topic detail and the specific strategy for the state section topics that most P&C candidates underprepare.
+The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour prelicensing course, its own Pearson VUE exam, and its own $44 license application fee per line of authority (NIPR, plus NIPR's transaction fee). You can sit for both in a single session at a physical Pearson VUE test center — the Colorado candidate handbook allows up to two exams in one session for a single $41 fee — taking 120 minutes per exam back-to-back in a 240-minute total session. Confirm current fees before you register; both the Division and Pearson VUE adjust them. The content outline for each exam is published by Pearson VUE and effective January 1, 2024. This post maps every content area of both exams — general knowledge and Colorado state sections — with full topic detail and the specific strategy for the state section topics that most P&C candidates underprepare.
 
 ## The Two Exams at a Glance
 
-Passing score for each: 70% — at minimum 53 correct scored answers on Property and 57 on Casualty. The combined session scores each exam independently. A pass on one and a fail on the other means you keep the pass and only retake the fail.
+Passing score for each: 70 — and that 70 is a **scaled score**, not a percentage of questions you got right. The Pearson VUE Colorado candidate handbook converts your raw score onto a 0–100 scale that equates forms of different difficulty, and it says so directly: the scaled score reported to you "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." There is no fixed raw target — no "53 of 75 correct on Property" or "57 of 81 on Casualty" — because the number of correct answers required to reach 70 moves with the form you are given. Pearson VUE also reports a numeric score only to candidates who fail; pass, and your report simply says pass.
+
+What you can count on is the structure. Property is 75 scored questions (50 general plus 25 Colorado-specific) plus 10 unscored pretest questions. Casualty is 81 scored questions (50 general plus 31 Colorado-specific) plus 10 pretest. The combined session scores each exam independently. A pass on one and a fail on the other means you keep the pass and only retake the fail.
 
 ## PROPERTY EXAM: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
 
@@ -76,9 +78,9 @@ F. Other Property Policies (1–2 questions)
 
 Title insurance — protects against losses from defects in title to real property; one-time premium; no expiration; owner's policy vs. lender's policy. Farm and ranch policies — specialty agricultural coverage combining dwelling, farm buildings, livestock, equipment, and farm liability. Mobile home policies — specific coverage for manufactured housing.
 
-### Content Area II: Insurance Terms and Related Concepts — 14 Questions
+### Content Area II: Insurance Terms and Related Concepts — 15 Questions
 
-This is the conceptual vocabulary section — 14 questions testing your command of fundamental property insurance definitions and principles.
+This is the conceptual vocabulary section — 15 questions testing your command of fundamental property insurance definitions and principles. It is also where binders, endorsements, and blanket-versus-specific coverage live on the Colorado outline.
 
 Insurable interest — must exist at the time of loss for property insurance (unlike life insurance where it must exist at policy inception). A property owner has insurable interest in their own property; a mortgagee has insurable interest in the mortgaged property up to the loan balance.
 
@@ -110,7 +112,9 @@ Vacancy and unoccupancy — most property policies suspend certain coverages if 
 
 Blanket vs. specific coverage — specific insurance covers a specific item at a specific location for a stated amount; blanket insurance covers multiple items or multiple locations under a single limit.
 
-### Content Area III: Policy Provisions and Contract Law — 10 Questions
+### Content Area III: Policy Provisions and Contract Law — 13 Questions
+
+This is the third and final general content area on the Colorado Property outline — there is no separate "completing the transaction" area on this exam, so the application, underwriting-information, and privacy topics you may have seen listed separately in other states are folded in here.
 
 Declarations page — the front of the policy; identifies the insured, the property insured, the policy period, the premium, the coverage limits, and the deductibles.
 
@@ -128,25 +132,29 @@ Other insurance provisions — pro rata clause (each insurer pays its proportion
 
 Contract law — same four elements as all insurance contracts (consideration, offer and acceptance, competent parties, legal purpose); same four unique characteristics (conditional, unilateral, adhesion, aleatory).
 
-### Content Area IV: Completing the Transaction — 4 Questions (Property)
+Sources of underwriting information, the Fair Credit Reporting Act, Gramm-Leach-Bliley privacy protection, and the policy application itself are all listed under this content area — do not skip them because they feel administrative.
 
-Binders — temporary evidence of coverage pending policy issuance; oral or written; effective immediately; coverage terminates when the policy is issued or the binder is cancelled with proper notice.
+### Transaction Topics: Where They Actually Sit
 
-Field underwriting — the producer's role in gathering accurate property information; completing property applications; identifying coverage needs; disclosing material facts to the underwriter. Misrepresentation in a property insurance application — material misrepresentation that would have affected the insurer's decision to issue the policy at the same premium can void the policy.
+Colorado's Property general outline has three content areas, not four, so the transaction mechanics are distributed rather than gathered under a heading of their own. Know them anyway:
+
+Binders — temporary evidence of coverage pending policy issuance; oral or written; effective immediately; coverage terminates when the policy is issued or the binder is cancelled with proper notice. (Listed under Content Area II.)
+
+Field underwriting — the producer's role in gathering accurate property information; completing property applications; identifying coverage needs; disclosing material facts to the underwriter. Misrepresentation in a property insurance application — material misrepresentation that would have affected the insurer's decision to issue the policy at the same premium can void the policy. (Content Area III: policy application, warranties/representations/concealment, sources of underwriting information.)
 
 Proof of insurance — evidence of coverage provided to mortgage lenders, vehicle lienholders, or regulatory authorities; certificates of insurance (COIs) for commercial accounts.
 
 ## PROPERTY EXAM: COLORADO STATE SECTION (25 Scored Questions)
 
-The Property state section has 25 scored questions (slightly fewer than the Life and A&H state sections' 30 questions) drawn from two main categories:
+The Property state section has 25 scored questions (slightly fewer than the Life and A&H state sections' 30 questions), and the official outline splits them three ways: 19 questions from the statutes common to all lines, 4 from the statutes common to Property and Casualty, and just 2 from the Property-only provisions.
 
-### Section I: Colorado Statutes Common to All Lines — approximately 17–18 Questions
+### Section I: Colorado Statutes Common to All Lines — 19 Questions
 
 The same common section shared across all Colorado insurance lines: Insurance Commissioner powers, licensing and producer legal responsibility (fiduciary/commingling, commission sharing, unauthorized entities), and unfair competition and deceptive practices (misrepresentation, coercion, defamation, rebating, unfair discrimination, controlled business, unfair claims practices, Colorado Fraud Statute). This section is the same content and strategy as described in the Life and A&H exam guides — know the unfair trade practices definitions cold.
 
-### Section II: Colorado Statutes Pertinent to Property Insurance Only — approximately 7–8 Questions
+### Section II: Property and Casualty Common Statutes — 4 Questions; Section III: Property Only — 2 Questions
 
-The Property-specific state section is notably shorter than the A&H equivalent. Key Colorado property law topics:
+The Property-specific slice is genuinely small — 6 of your 25 state questions across both subsections, and only 2 of those are Property-only. Section II covers rate regulation (10-4-401; 10-4-403; 10-4-416), the summary disclosure form (10-4-111; 10-4-636; Reg. 5-2-16), commercial policy requirements, and the use of credit information (10-4-116). Section III covers the Fraudulent Claims and Arson Information Reporting Act (10-4-1001 through 1008), insurance and loans secured by real property (10-4-114), homeowners cancellation and nonrenewal (10-4-110.7), and availability of fire insurance (10-4-110.9; Reg. 5-1-17). Key Colorado property law topics:
 
 Cancellation and nonrenewal notice requirements — Colorado law requires insurers to provide advance written notice before cancelling or nonrenewing a property insurance policy. The notice period varies by circumstance: mid-term cancellation for reasons other than nonpayment generally requires more advance notice than cancellation for nonpayment. Nonrenewal requires advance notice (typically 30 days or more) before the policy expiration date. The exam tests the principle that Colorado has specific statutory notice requirements — not necessarily the exact number of days for each scenario, but that the requirements exist and apply to both cancellation and nonrenewal.
 
@@ -156,11 +164,11 @@ Residential property — coinsurance and replacement cost — Colorado producers
 
 NFIP in Colorado — flood insurance in Colorado's context: Colorado communities in FEMA-designated flood zones require NFIP coverage as a condition of federally-backed mortgages. The Division of Insurance has authority over flood insurance marketing practices in Colorado. Colorado producers selling NFIP must complete the one-time 3-hour NFIP training.
 
-## CASUALTY EXAM: GENERAL KNOWLEDGE SECTION (56 Scored Questions)
+## CASUALTY EXAM: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
 
-The Casualty general section has 56 scored questions — slightly more than Property's 50. The content outline assigns these across four content areas.
+The Casualty general section has 50 scored questions — the same as Property's general section. Casualty's extra weight is in its state section, not here. The content outline assigns these 50 across three content areas.
 
-### Content Area I: Types of Casualty Policies — approximately 22–24 Questions
+### Content Area I: Types of Policies, Bonds, and Related Terms — 23 Questions
 
 A. Auto Insurance
 
@@ -218,7 +226,7 @@ G. Commercial Auto
 
 Business auto policy (BAP) — covers autos used in business; symbol system defines which vehicles are covered (Symbol 1 = any auto; Symbol 2 = owned autos only; Symbol 7 = specifically described autos; Symbol 8 = hired autos; Symbol 9 = non-owned autos). The exam tests the symbol definitions and their coverage implications.
 
-### Content Area II: Insurance Terms and Related Concepts — 14 Questions (Casualty)
+### Content Area II: Insurance Terms and Related Concepts — 15 Questions (Casualty)
 
 Negligence — the legal basis for most liability claims. Four elements: duty (the defendant owed the plaintiff a care obligation), breach (the defendant failed to meet that duty), causation (the breach caused the harm — actual cause "but for" + proximate cause), damages (actual compensable harm resulted). Liability insurance responds when the insured is found legally negligent.
 
@@ -230,9 +238,9 @@ Defense costs — under standard liability policies, the insurer has a duty to d
 
 Aggregate limits — the maximum the insurer will pay for all claims combined during the policy period; distinct from the per-occurrence limit. CGL policies typically have a general aggregate (overall maximum per year), a products-completed operations aggregate, and a per-occurrence limit.
 
-### Content Area III: Policy Provisions and Contract Law — 10 Questions (Casualty)
+### Content Area III: Policy Provisions — 12 Questions (Casualty)
 
-Same contract law elements as property: declarations, insuring agreement, exclusions, conditions, endorsements. Key casualty-specific provisions:
+Same core provisions as property: declarations, insuring agreement, exclusions and limitations, conditions, duties of the insured after a loss, cancellation and nonrenewal provisions, supplementary payments, proof of loss, notice of claim, and TRIA. Key casualty-specific provisions:
 
 Other insurance clauses in liability policies — contribution by equal shares (each insurer pays equally until one is exhausted, then the other pays the remainder); pro rata contribution by limits (each insurer pays in proportion to its limits). The exam tests these contribution methods.
 
@@ -240,19 +248,19 @@ Severability of insureds — each insured is treated separately under the CGL; a
 
 Cross-liability exclusion — in standard CGL, there is no coverage for bodily injury or property damage claims between insureds; the policy does not cover one insured suing another.
 
-### Content Area IV: Completing the Transaction — 5 Questions (Casualty)
+### Transaction Topics: Where They Actually Sit (Casualty)
 
-Same elements as Property: binders, field underwriting, certificates of insurance (COIs), the producer's role in gathering accurate information, and the prohibition on material misrepresentation in the application.
+As with Property, Colorado's Casualty general outline has three content areas, not four — there is no standalone "completing the transaction" area. Binders, certificates of insurance, warranties, representations, concealment, deposit premium/audit, and Fair Credit Reporting Act compliance are all listed inside Content Area II. Study them; just do not expect them to arrive under their own heading.
 
-## CASUALTY EXAM: COLORADO STATE SECTION (25 Scored Questions)
+## CASUALTY EXAM: COLORADO STATE SECTION (31 Scored Questions)
 
-The structure mirrors the Property state section: approximately 17–18 questions from the common Section I (same unfair trade practices, licensing, Commissioner authority content) and 7–8 questions from Section II covering Colorado-specific Casualty law.
+This is where Casualty outweighs Property. The Casualty state section carries 31 scored questions to Property's 25, split by the official outline into 19 questions from the common all-lines statutes (same unfair trade practices, licensing, and Commissioner authority content), 4 from the statutes common to Property and Casualty, and 8 from Colorado's Casualty-only provisions — four times the Property-only allocation.
 
-### Section II: Colorado Statutes Pertinent to Casualty Insurance Only
+### Section III: Colorado Statutes Pertinent to Casualty Insurance Only — 8 Questions
 
 Colorado auto insurance requirements — at-fault system; minimum liability 25/50/15 under CRS § 42-7-103; UM/UIM optional but default-included unless rejected in writing; MedPay optional; no PIP required; electronic verification system; SR-22 for certain violations (financial responsibility certificate filed by insurer with DMV); no FR-44 equivalent in Colorado (unlike Virginia's DUI-enhanced certificate requirement).
 
-Uninsured motorist (UM) — Colorado includes UM/UIM by default in every auto liability policy unless the policyholder rejects it in writing. Unlike Virginia's post-2023 stacking rule, Colorado UM/UIM operates on an offset basis — UIM pays the difference between the at-fault driver's liability limits and the injured party's UIM limits (not in addition to). Approximately 15–20% of Colorado drivers are estimated to be uninsured.
+Uninsured motorist (UM) — Colorado includes UM/UIM by default in every auto liability policy unless the policyholder rejects it in writing. Colorado UIM is add-on coverage, not offset: under CRS § 10-4-609(1)(c), for policies issued or renewed on or after January 1, 2008, UIM limits are not reduced by any setoff for the at-fault driver's liability payment. UIM pays the difference between the at-fault driver's liability limits and the injured party's total damages, up to the injured party's full UIM limit — in addition to what the liability policy already paid. Study materials that still describe Colorado UIM as operating on an offset basis are pre-2008 and no longer correct; the exam tests the current add-on rule. Approximately 15–20% of Colorado drivers are estimated to be uninsured.
 
 Colorado workers' compensation — employer threshold (1+ employees), Pinnacol Assurance's role as state-chartered insurer and insurer of last resort, competitive private market alongside Pinnacol, and the Division of Workers' Compensation's role (separate from the DOI). The exam distinguishes DORA DOI (regulates workers' comp insurance carriers and rates) from the DWFC (adjudicates claims).
 
@@ -260,7 +268,7 @@ Liability insurance cancellation and nonrenewal — same Colorado statutory noti
 
 ## Mastery Strategy: Property and Casualty Together
 
-If taking the combined P+C session: Do not schedule both exams for the same day unless you have genuinely prepared for both. The most common failure pattern in combined P+C sessions is passing one line and failing the other — typically failing Casualty, which has more content (56 scored general questions vs. Property's 50) and more conceptually demanding material (negligence, occurrence vs. claims-made, CGL structure). Prepare for each exam independently, and only combine the session when both preparations are complete.
+If taking the combined P+C session: Do not schedule both exams for the same day unless you have genuinely prepared for both. The most common failure pattern in combined P+C sessions is passing one line and failing the other — typically failing Casualty, which has more content (81 scored questions vs. Property's 75, with a state section of 31 questions against Property's 25) and more conceptually demanding material (negligence, occurrence vs. claims-made, CGL structure). Prepare for each exam independently, and only combine the session when both preparations are complete.
 
 The highest-yield general knowledge topics by exam:
 
@@ -276,7 +284,7 @@ Colorado-specific P&C topics that consistently surprise candidates: The claims-m
 
 Should I take Property and Casualty as separate exams or in one combined session?
 
-Taking both in a single combined session saves you the cost of a second exam fee (one combined fee vs. two separate $48 fees — confirm the current combined-session amount with Pearson VUE) and is the most cost-efficient approach. However, the combined session only makes sense if you are fully prepared for both exams. Each exam is 120 minutes long — the combined session is 240 minutes of consecutive testing, which is cognitively demanding. If your Property preparation is strong but your Casualty preparation needs more time, schedule them separately rather than risking the Casualty fail in the combined session. The financial saving from the combined session is modest; the cost of a failed Casualty attempt (additional exam fee, delay in licensing) is larger.
+Taking both in a single session saves you the cost of a second exam fee — Pearson VUE's Colorado handbook lets you take up to two exams in one session for a single $41 fee, versus $41 per session if you split them — so it is the most cost-efficient approach. However, the combined session only makes sense if you are fully prepared for both exams. Each exam is 120 minutes long — the combined session is 240 minutes of consecutive testing, which is cognitively demanding. If your Property preparation is strong but your Casualty preparation needs more time, schedule them separately rather than risking the Casualty fail in the combined session. The financial saving from the combined session is modest; the cost of a failed Casualty attempt (additional exam fee, delay in licensing) is larger.
 
 What is the difference between the BOP and the CPP, and why does it appear on the exam?
 
@@ -296,4 +304,4 @@ Proximate cause is the direct, unbroken causal chain that produces a loss. In pr
 
 The Colorado Property and Casualty exams together cover the widest content breadth of any Colorado licensing exam combination. Candidates who master the HO form distinctions, the coinsurance formula, the CGL occurrence vs. claims-made structure, and the state section's unfair trade practices content will find that both exams reward systematic preparation over superficial familiarity.
 
-Visit JustInsurance to enroll today and complete your Colorado Property and Casualty prelicensing with a state-approved course built to the current Pearson VUE content outline.
+Study to the current Pearson VUE Property and Casualty content outlines until every content area is automatic, and confirm the latest fees with the Division and Pearson VUE before you register. Once you are licensed, JustInsurance's Colorado [continuing education](/colorado/continuing-education) keeps your Property and Casualty lines current through every biennial renewal.

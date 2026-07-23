@@ -1,8 +1,9 @@
 ---
 title: Start Strong with Washington Pre-Licensing Insurance Courses You Trust
 description: >-
-  Washington pre-licensing insurance courses: credit requirements, ethics
-  mandates, approved course providers, and step-by-step renewal process from
+  Washington pre-licensing insurance courses are optional — the state dropped the
+  requirement in 2023. How to compare formats, what a good course covers, and how
+  to book your PSI exam.
 keyword: washington pre-licensing insurance courses
 targetKeywords: washington pre-licensing insurance courses
 cluster: state-license-washington
@@ -18,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Thirdman on Pexels
 ---
 
-## Understand your [Washington pre-licensing](/washington/prelicensing) requirements
+## Understand where [Washington pre-licensing](/washington/prelicensing) stands today
 
 Washington does not require [pre-licensing](/washington/prelicensing) training before you sit for the exam, but plenty of aspiring agents still choose it to prepare. Most learners who opt in complete separate courses for life & health or property & casualty, depending on which lines of authority they want. Completing this optional education helps you build a solid grasp of core concepts—from policy types and regulations to ethics and consumer protections.
 
@@ -97,8 +98,8 @@ When selecting a format, think about which environment helps you absorb informat
     Washington does not require pre-licensing education for any line of authority, so no course is mandatory. If you choose optional prep, it is generally organized by line — for instance, a track for life & health and a separate track for property & casualty — and you can take both if your goal is to handle multiple product lines.
 2.  How many hours of pre-licensing education are required?  
     Washington has no state-mandated pre-licensing hour requirement — that requirement was eliminated in 2023. Optional courses are commonly built around 20 hours per line or 40 hours for combined lines, but that is simply a course length, not a state requirement. Voluntary prep is still recommended to help you study for the exam.
-3.  Are online courses accepted by Washington’s licensing board?  
-    Yes. Online courses from approved providers typically satisfy state requirements just like in-person classes. Just be sure the course is recognized by the relevant Washington regulatory authority so you do not waste time on noncompliant training.
+3.  Are online courses accepted in Washington?  
+    There is nothing for the state to accept or reject. Washington eliminated the pre-licensing education requirement effective July 23, 2023 (HB 1061), so it neither requires nor approves pre-licensing courses — online, self-paced, webinar, and classroom formats are all equally valid because the coursework is voluntary exam prep rather than a compliance step. Choose on quality and fit, then book your exam directly with PSI. One naming note: Washington's regulator is the Office of the Insurance Commissioner, not a "licensing board."
 4.  What if I need extra time to complete the course?  
     Many providers give you a set timeframe, usually several weeks or more, to finish. If you need an extension, some providers will let you request additional access for a fee. It is best to clarify deadlines and extension policies before starting.
 5.  Will I be fully prepared for the exam after finishing the course?  
@@ -108,6 +109,6 @@ When selecting a format, think about which environment helps you absorb informat
 
 Securing a [Washington insurance license](/washington) starts with the right educational foundation. When you choose quality Washington pre-licensing insurance courses, you show potential employers that you take your professional goals seriously. A supportive learning environment can make all the difference between merely passing and truly understanding the content.
 
-At JustInsurance, we believe that every aspiring agent deserves well-structured courses, up-to-date exam prep, and real-person support. By focusing on these essentials, you gain the knowledge, confidence, and credentials you need to launch your insurance career.
+At JustInsurance, we believe that every aspiring agent deserves well-structured courses, up-to-date exam prep, and real-person support. By focusing on these essentials, you gain the knowledge and confidence you need to walk into the PSI exam ready — the license itself comes from passing that exam and clearing the state's application and fingerprinting steps, not from any course.
 
 Ready to begin? Explore your course options today and enroll in a program that suits your learning style and schedule. With good preparation, you can pass the exam on your first try and get licensed faster, then stay sharp with [Washington continuing education](/washington/continuing-education) each renewal. The possibilities that follow are well within your reach, so take that next step forward. Your future in the Washington insurance industry is waiting.

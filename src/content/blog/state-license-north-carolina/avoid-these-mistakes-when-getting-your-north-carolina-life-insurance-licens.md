@@ -24,7 +24,7 @@ Below, you’ll find common mistakes people often make when getting a North Caro
 
 ## Underestimating pre-licensing education
 
-As of October 1, 2025 (HB 737), North Carolina no longer requires a state-approved [pre-licensing](/north-carolina/prelicensing) course before you can earn your life insurance license — it's optional. Even so, many candidates skip or rush through structured preparation entirely, especially if they already have industry experience or feel pressed for time. Doing so can lead to misunderstanding essential insurance concepts and missing valuable study tips provided by qualified instructors.
+As of October 1, 2025 (HB 737), North Carolina no longer requires a [pre-licensing](/north-carolina/prelicensing) course before you can earn your life insurance license — it's optional. Even so, many candidates skip or rush through structured preparation entirely, especially if they already have industry experience or feel pressed for time. Doing so can lead to misunderstanding essential insurance concepts and missing valuable study tips provided by qualified instructors.
 
 Pre-licensing courses typically cover fundamental topics like policy types, state regulations, and ethical standards. If you skip structured preparation altogether without a solid self-study plan, you risk entering the exam without a strong foundation. If you do enroll in a course, treat it as the backbone of your study routine. Commit to a schedule that allows you to absorb the material at a steady pace, and don’t hesitate to ask questions if certain topics seem unclear.
 
@@ -50,7 +50,7 @@ Be proactive by scheduling your fingerprinting or background check as early as y
 
 While your primary focus might be on passing the life insurance exam, remember that [continuing education](/north-carolina/continuing-education) (CE) is an ongoing part of being an insurance professional in North Carolina. After you earn your license, the state has regular [North Carolina continuing education](/north-carolina/continuing-education) requirements to ensure you stay updated on laws, practices, and industry trends. If you overlook these requirements, you risk lapsing in your license status.
 
-Early in your journey, become familiar with the CE expectations and set up reminders for your renewal deadlines. This approach not only helps you maintain your license but also keeps you informed on emerging topics that can improve your service to clients. If you ignore continuing education, you’ll eventually face penalties and potentially have to retake courses. By staying ahead in your CE duties, you’ll demonstrate credibility while avoiding added complications later.
+Early in your journey, become familiar with the CE expectations and set up reminders for your CE compliance deadlines. This approach not only helps you maintain your license but also keeps you informed on emerging topics that can improve your service to clients. If you ignore continuing education, you’ll eventually face penalties and potentially have to retake courses. By staying ahead in your CE duties, you’ll demonstrate credibility while avoiding added complications later.
 
 ## Take the next step
 

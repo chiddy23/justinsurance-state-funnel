@@ -97,7 +97,7 @@ Clients are the lifeblood of your agency. Focus on consistently growing your net
 
 One effective approach is to combine traditional, in-person efforts with modern digital marketing. For example, you might join local business associations and also run targeted online ads. Think about how you can make your agency stand out by educating prospects about their options and providing a smooth quoting experience.
 
-If you are looking for extra assistance in connecting with potential clients, consider platforms such as JustInsurance that specialize in helping new agents find leads and build a reputation. By partnering with a reputable resource that understands the insurance space, you can concentrate on what you do best: advising clients and recommending the right coverage.
+Be clear-eyed about one thing: lead sourcing is its own discipline, and it is not something an education provider does for you. JustInsurance handles the licensing side — [prelicensing courses](/prelicensing) for the producers you recruit and [continuing education](/continuing-education) reported to your state for the ones you already have — so your team stays legally able to write business. Finding the prospects is a function you will need to build in-house or buy from a dedicated lead vendor.
 
 ## Avoid common pitfalls
 
@@ -129,6 +129,6 @@ Failing to keep in touch after a policy sale may result in lost renewals or miss
 4.  Do I need to focus on one type of insurance, or can I offer multiple lines?  
     You can offer multiple lines if you hold the appropriate licenses, but starting with one or two can help you build expertise faster. Once you have mastered those lines, you can add more product offerings as your agency grows.
 5.  How can JustInsurance help me grow my agency?  
-    JustInsurance can guide you in acquiring quality leads, streamlining your marketing, and connecting you with potential clients who are actively searching for insurance. By tapping into resources that understand the insurance market, you can save time and find more opportunities to close sales.
+    We help you get producers licensed and keep them licensed. That means prelicensing courses for the new recruits in your pipeline, state-reported continuing education for your existing producers, and an agency toolkit — a developer API, real-time candidate tracking dashboards, and white-label sales pages — so onboarding does not eat your week. We do not sell leads and we do not provide marketing services; those are separate vendors.
 
 Creating a successful insurance agency is not about overnight success. It is about building a foundation that will support you for years to come. If you begin by clarifying your goals, planning your finances, building a strong client base, and maintaining a high level of service, you will give yourself the best possible chance to thrive in the competitive insurance market.

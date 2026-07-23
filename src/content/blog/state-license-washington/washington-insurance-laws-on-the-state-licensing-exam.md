@@ -16,7 +16,7 @@ imageAlt: >-
   insurance laws on the state licensing exam.
 ---
 
-The Washington state law section is described by instructors as "very detailed" with "trivial details relating to complicated state regulations" — and it's where candidates who relied only on national study materials find themselves short of 70%. Washington's insurance law framework under Revised Code of Washington Title 48 (RCW 48) and Washington Administrative Code Title 284 (WAC 284) includes genuinely distinctive provisions: an elected Insurance Commissioner, Health Care Service Contractors as a separate regulatory category, Apple Health and Washington Healthplanfinder as the public coverage programs, specific numerical thresholds for rebates and fines, and auto insurance that follows the same 25/50/10 minimums as Arizona while adding Washington-specific financial responsibility law. Understanding what's tested — and learning the specific values that Washington exam questions demand — separates passing from failing scores.
+The Washington state law section is described by instructors as "very detailed" with "trivial details relating to complicated state regulations" — and it's where candidates who relied only on national study materials find themselves short of 70%. Washington's insurance law framework under Revised Code of Washington Title 48 (RCW 48) and Washington Administrative Code Title 284 (WAC 284) includes genuinely distinctive provisions: an elected Insurance Commissioner, Health Care Service Contractors as a separate regulatory category, Apple Health and Washington Healthplanfinder as the public coverage programs, specific numerical thresholds for rebates and fines, and 25/50/10 auto liability minimums that live in Washington's motor vehicle financial responsibility law (RCW 46.29.090) rather than in insurance Title 48. Understanding what's tested — and learning the specific values that Washington exam questions demand — separates passing from failing scores.
 
 Here's what every Washington producer candidate needs to know about state law for the exam.
 
@@ -56,17 +56,17 @@ Making regulations (promulgated as WAC 284)
 
 Enforcing RCW 48
 
-Disciplinary authority:
+Disciplinary authority (RCW 48.17.560 — note the citation carefully, because the exam does): the producer fine authority lives in the licensing chapter, not in RCW 48.02, which creates the office and its general powers.
 
-Commissioner may fine a licensee up to $1,000 for each offense
+Commissioner may fine a licensee not more than $1,000 for each offense
 
-Fine must be paid within 15-30 days of the date of the order
+Fine must be fully paid not less than 15 nor more than 30 days from the date of the order
 
 If fine is not paid when due, Commissioner will revoke the license (if not already revoked)
 
 Fine may be recovered in a civil action brought by Commissioner
 
-Severe violations: OIC may impose fines up to $250,000 for serious systemic violations. May refer to Washington State Attorney General under Consumer Protection Act (RCW 19.86).
+Fines against insurers are a separate track: under RCW 48.05.185 the Commissioner may fine an *insurer* not less than $250 and not more than $10,000 in lieu of or in addition to suspending its certificate of authority. Conduct may also be referred to the Washington State Attorney General under the Consumer Protection Act (RCW 19.86).
 
 Exam questions on the Commissioner typically ask:
 
@@ -76,9 +76,9 @@ How long does the Commissioner serve? (4 years)
 
 What bond must the Commissioner execute? ($25,000)
 
-What can the Commissioner fine a licensee? (Up to $1,000 per offense)
+What can the Commissioner fine a licensee? (Not more than $1,000 per offense, under RCW 48.17.560)
 
-When must a fine be paid? (15-30 days after order)
+When must a fine be paid? (Not less than 15 nor more than 30 days from the date of the order)
 
 ## Washington Producer Licensing (RCW 48.17)
 
@@ -142,15 +142,17 @@ Offer any commission, earnings, profits, dividends, or other benefit not specifi
 
 Exception: Commissions paid to a licensed producer for insurance placed on that producer's own property are permitted
 
-Insured/recipient side (RCW 48.30.150): No insured person shall receive or accept any rebate of premium not specified in the policy.
+Illegal inducements (RCW 48.30.150): No insurer, producer or title insurance agent may offer stock, securities, special advisory board contracts, or merchandise above the statutory value limit as an inducement to insurance.
 
-Rebate threshold: Any goods worth more than $25 constitute a rebate
+Insured/recipient side (RCW 48.30.170): No insured person shall receive or accept any rebate of premium not specified in the policy.
 
-Insured receiving a prohibited rebate: liable to fine of not more than $200
+Merchandise value limit: Prizes, goods, wares, gift cards, gift certificates or merchandise are permitted only up to $100 in value **per person in the aggregate in any twelve-month period** (RCW 48.30.140(4); RCW 48.30.150). Learn the aggregation window along with the dollar figure — it is the operative half of the test, and the exam writes questions around it.
+
+Insured receiving a prohibited rebate: liable to fine of not more than $200 (RCW 48.30.170)
 
 Exam questions on rebating ask:
 
-What dollar value of goods constitutes a rebate? (More than $25)
+What value of goods may be given without it being a prohibited rebate? (Up to $100 per person in the aggregate in any twelve-month period)
 
 What fine can an insured who accepts a rebate face? (Up to $200)
 
@@ -166,7 +168,7 @@ Not attempting in good faith to settle clear-liability claims
 
 First-party claim action (RCW 48.30.015): Before filing an action based on unfair claims settlement, a first-party claimant must provide 20 days written notice to the insurer AND OIC.
 
-Producers must reply to Commissioner inquiries within 21 days.
+Response to Commissioner inquiries (RCW 48.17.475): Every licensed producer, title insurance agent or adjuster must respond in writing to a Commissioner inquiry, and a timely response is one **received by the Commissioner within 15 business days** from receipt of the inquiry. Note both details the exam tests: the unit is business days, not calendar days, and the clock runs to receipt by OIC rather than to the date you mail or send it. WAC 284-30-650 treats anything later as untimely, and failing to respond on time is itself a violation punishable under RCW 48.17.530 and/or 48.17.560.
 
 ## Washington Guaranty Associations
 
@@ -236,7 +238,7 @@ How HCSCs differ from HMOs: Both provide services rather than indemnity. The reg
 
 Apple Health — Washington Medicaid: Washington's Medicaid program branded as Apple Health. Provides coverage for eligible low-income Washingtonians. Exam questions referencing Washington's "Medicaid program" may use either "Medicaid" or "Apple Health."
 
-Washington Healthplanfinder (RCW 48.43.715 et seq.): Washington's state-based ACA marketplace — not Healthcare.gov. Candidates seeking to sell individual marketplace plans in Washington must:
+Washington Healthplanfinder (Chapter 43.71 RCW): Washington's state-based ACA marketplace — not Healthcare.gov. The Washington Health Benefit Exchange that operates Healthplanfinder is created in Title 43 RCW, not in the insurance title; RCW 48.43.715 is a different provision entirely (benchmark plan selection and state-mandated health benefits for the individual and small group markets). Candidates seeking to sell individual marketplace plans in Washington must:
 
 Complete Washington Healthplanfinder producer certification
 
@@ -244,7 +246,7 @@ This is separate from OIC licensure
 
 Healthplanfinder manages Washington's individual market ACA enrollment
 
-Health Insurance Coverage Access Act (RCW 48.62): Extends health coverage access in Washington — tested as a Washington-specific statutory reference on the Disability exam.
+Health Insurance Coverage Access Act (Chapter 48.41 RCW): Establishes the Washington State Health Insurance Pool — the state's high-risk pool mechanism for extending coverage access. This one is worth committing to memory by chapter number, because Chapter 48.62 RCW is "Local Government Insurance Transactions" (self-insurance authority for local government entities) and has nothing to do with individual health coverage.
 
 Washington Health Insurance Reform (RCW 48.43): Includes:
 
@@ -260,7 +262,7 @@ Balance Billing Protection Act provisions
 
 Mental health parity requirements
 
-Washington SHOP: Small Business Health Options Program available through Washington Healthplanfinder for businesses with up to 50 employees (RCW 48.43.715).
+Washington SHOP — know that it is gone: Washington Healthplanfinder no longer sells small-business coverage. The Exchange stopped offering SHOP plans after the 2017 plan year, when no carrier offered small-business coverage through Healthplanfinder for 2018. Small employers in Washington buy small-group coverage directly from carriers or through a broker. If a study guide still describes an active Washington SHOP marketplace, that material is out of date.
 
 ## Washington Auto Insurance Laws
 
@@ -330,10 +332,10 @@ Step 5: Read the RCW. Key provisions — particularly RCW 48.02 (Commissioner), 
 
 ## 5 Frequently Asked Questions
 
-- What's the most distinctively Washington topic on the Disability exam? Health Care Service Contractors (HCSCs) under RCW 48.44 — organizations that provide health care services directly (rather than paying indemnity), regulated under their own statutory chapter, and distinct from both traditional insurers and HMOs. No other state has a regulatory framework quite like Washington's HCSC structure.
+- What's the most distinctively Washington topic on the Disability exam? Health Care Service Contractors (HCSCs) under RCW 48.44 — organizations that provide health care services directly (rather than paying indemnity), regulated under their own statutory chapter, and distinct from both traditional insurers and HMOs. A few states regulate a comparable category — Oregon licenses health care service contractors under ORS Chapter 750 — but the entity type is rare enough that national study materials skip it, which is exactly why Washington's exam tests it directly.
 - What are Washington's P&C Guaranty Association coverage limits? Claims above $100 and less than $300,000 per claim. The Association is also not obligated beyond the face amount of the policy.
 - How is Washington's Insurance Commissioner selected, and why does it matter for the exam? Washington's Commissioner is elected — serving a 4-year term. This contrasts with appointment processes in most other states. Exam questions about Commissioner selection require the specific answer "elected." The Commissioner also must execute a $25,000 bond before taking office.
-- What is the rebate threshold in Washington? Goods worth more than $25 constitute a prohibited rebate. An insured who accepts a prohibited rebate can be fined up to $200.
+- What is the rebate threshold in Washington? Prizes, goods, gift cards or merchandise are permitted only up to $100 in value per person in the aggregate in any twelve-month period (RCW 48.30.140(4); RCW 48.30.150) — value above that aggregate is a prohibited rebate. An insured who accepts a prohibited rebate can be fined up to $200 under RCW 48.30.170.
 - What is the difference between Apple Health and Washington Healthplanfinder? Apple Health is Washington's Medicaid program (public coverage for low-income individuals). Washington Healthplanfinder is Washington's state-based ACA marketplace (private coverage with income-based subsidies). Both are tested; both reflect Washington's distinctive approach to health coverage access.
 
 ## Own Washington's State Law Section

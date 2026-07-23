@@ -29,15 +29,15 @@ Keep in mind that insurance is highly relationship-driven. You might spend time 
 
 ## Complete your pre-licensing requirements
 
-Every state has its own rules, but most require that you complete a set number of pre-licensing education hours for each line of insurance you wish to sell. Common lines include life, health, property, and casualty. If you plan on dealing with both life and health insurance, for instance, you’ll likely need to fulfill separate course requirements.
+Every state has its own rules, and they differ more than most newcomers expect. Eighteen states require a set number of pre-licensing education hours for each line of insurance you want to sell. In the other 32 you can register for the state exam with no required coursework at all — a course there is optional exam preparation, not a legal prerequisite. Common lines include life, health, property, and casualty, and where hours are mandated they are set per line, so someone pursuing both life and health typically has to satisfy each one separately. Check your own state’s department of insurance first; that single lookup tells you whether you are buying a requirement or buying preparation.
 
-Pre-licensing coursework can be done online or in person, depending on your preference and schedule. The materials generally cover ethics, applicable insurance laws, and the fundamentals of various policy types. This foundation ensures you have a working knowledge of the industry before you even set foot in a testing center.
+Pre-licensing coursework can be done online or in person, depending on your preference and schedule. The materials generally cover ethics, applicable insurance laws, and the fundamentals of various policy types. That foundation is worth having either way — the exam is written against a state content outline, and walking in cold is how most people end up paying for a retake.
 
-Tuition can vary, so consider shopping around for a program that meets your budget and learning style. Many providers offer flexible payment plans so you can study without straining your finances. Make certain that the course you choose is approved in your state, as that’s crucial for being eligible to take the official licensing exam.
+Tuition can vary, so consider shopping around for a program that meets your budget and learning style. Many providers offer flexible payment plans so you can study without straining your finances. If you are in one of the 18 states that mandate hours, confirm the course carries that state’s prelicensing approval, because unapproved hours will not count toward your requirement. In the other 32 there is no prelicensing approval to check — judge the course on quality and on how closely it tracks your state’s exam content outline.
 
 ## Prepare for your licensing exam
 
-Once you finish your pre-licensing hours, you can register for the state licensing exam. This test generally includes multiple-choice questions, and you’ll receive a pass or fail score right away. The content you studied during your [pre-licensing course](/prelicensing) will be directly tested, so make sure to review those materials in the week leading up to your exam.
+Once you have finished any hours your state requires — or, in an exam-only state, once you feel ready — you can register for the state licensing exam. This test generally includes multiple-choice questions, and you’ll receive a pass or fail score right away. The content you studied during your [pre-licensing course](/prelicensing) will be directly tested, so make sure to review those materials in the week leading up to your exam.
 
 The cost of the exam typically ranges from about $50 to $100, but it may be higher in some states. You might also pay a separate fee to file your application after you pass. Below is a quick glance at what you can expect:
 
@@ -47,9 +47,9 @@ Time commitment
 
 Approximate cost range
 
-Pre-licensing coursework
+Pre-licensing coursework (required in 18 states, optional elsewhere)
 
-20–40 hours per line
+20–40 hours per line where mandated
 
 $100–$300
 
@@ -77,7 +77,7 @@ Many new agents also choose to join local professional associations or networkin
 
 ## Launch your career and keep growing
 
-When you’ve built a strong foundation, it’s time to officially launch your insurance career. You’ll want to choose whether you work independently, join an agency, or partner with a company like JustInsurance, which offers support and resources to help new agents thrive.
+When you’ve built a strong foundation, it’s time to officially launch your insurance career. You’ll want to choose whether you work independently, join an established agency, or contract with a captive carrier. Each route trades autonomy against built-in support and lead flow, and there’s no universally right answer for a first-year agent.
 
 As a new agent, it’s natural to feel nervous during your first client meetings or policy consultations. However, the insurance business is all about consistent progress. Each conversation, whether it leads to a sale or not, helps you refine your approach. Over time, you’ll develop a clearer understanding of common client concerns, and you’ll become more adept at tailoring recommendations.
 
@@ -89,4 +89,4 @@ It’s also wise to review emerging insurance trends. For instance, telehealth c
 
 Taking the leap into insurance can sound intimidating, but with focused study, the right resources, and guidance from experienced professionals, you’ll find it’s a highly reachable goal. Even without prior industry experience, you can thrive here by dedicating time to learn the foundational knowledge and developing a genuine interest in helping clients protect what matters most.
 
-If you’re ready to begin your journey, consider exploring JustInsurance for practical tools and networking opportunities that can further set you up for success. The possibilities within insurance are enormous, and your path starts with a single step—earning that license and finding your place in this dynamic industry.
+If you’re ready to begin your journey, JustInsurance handles the education side of that first step: self-paced [prelicensing coursework](/prelicensing), full-length practice exams, and state-approved [continuing education](/continuing-education) once you’re licensed. The possibilities within insurance are enormous, and your path starts with a single step—earning that license and finding your place in this dynamic industry.

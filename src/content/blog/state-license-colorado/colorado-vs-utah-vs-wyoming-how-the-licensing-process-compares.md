@@ -28,7 +28,7 @@ The practical implication: A motivated candidate in Utah or Wyoming can go from 
 
 ## Exam Vendors and Fees
 
-Colorado and Utah are meaningfully less expensive to exam. Wyoming's exam fees are substantially higher — $96 for a single-line exam versus Colorado's $48 and Utah's $32–$45. A Wyoming candidate pursuing separate Property and Casualty licenses would pay $192 in exam fees; a Colorado candidate can take both in one session at a physical test center (confirm current combined-session pricing with Pearson VUE).
+Colorado and Utah are meaningfully less expensive to exam. Wyoming's exam fees are substantially higher — $96 for a single-line exam versus Colorado's $41 and Utah's $32–$45. A Wyoming candidate pursuing separate Property and Casualty licenses would pay $192 in exam fees; a Colorado candidate can take up to two exams in one Pearson VUE session at a physical test center for a single $41 fee (confirm current session pricing with Pearson VUE).
 
 ## Fingerprinting Requirements
 
@@ -36,7 +36,7 @@ Colorado is the only one of the three with no fingerprinting requirement at any 
 
 ## Application Fees
 
-Wyoming's application fee is more than double Colorado's and one-third higher than Utah's. A candidate seeking both Property and Casualty in Wyoming pays $200 in application fees; the same candidate in Colorado pays $94–$105.
+Wyoming's application fee is more than double Colorado's and one-third higher than Utah's. A candidate seeking both Property and Casualty in Wyoming pays $200 in application fees; the same candidate in Colorado pays $88 in application fees (two lines at $44 each, plus NIPR transaction fees).
 
 ## Score Validity Windows
 
@@ -60,13 +60,13 @@ Utah's classroom requirement (minimum 12 of 24 hours in classroom or classroom-e
 
 All three states participate in reciprocity for non-resident licensing, meaning if you hold an active resident license in good standing in your home state, you can obtain a non-resident license without taking the state exam.
 
-Colorado: No prelicensing or exam required for non-residents who are licensed and in good standing in their home state. Apply via NIPR or Sircon; pay $47/line + $5.60 NIPR fee. No fingerprinting.
+Colorado: No prelicensing or exam required for non-residents who are licensed and in good standing in their home state. Apply via NIPR or Sircon. The Division's published non-resident fee is $68 per line of authority — the $44 rate is the resident rate and does not apply to a non-resident application. No fingerprinting.
 
 Utah: No exam required for non-residents from reciprocal states. Apply via NIPR or Sircon. No fingerprinting required for non-residents. $75 application fee. Non-resident CE: satisfy home state requirements (Utah recognizes home state CE compliance).
 
 Wyoming: No exam required for non-residents licensed in good standing in home state. Apply via NIPR; no fingerprinting for non-residents. $150 non-resident application fee (higher than resident rate of $100). Non-residents satisfy home state CE requirements.
 
-Reciprocity advantage for multi-state expansion: Colorado is the cheapest non-resident expansion of the three ($47–$52.60/line with no fingerprinting). Wyoming is the most expensive ($150/line). For a producer already licensed in one Mountain West state looking to add the other two, the cost and complexity order from least to most is: Colorado → Utah → Wyoming.
+Reciprocity advantage for multi-state expansion: Colorado is the cheapest non-resident expansion of the three at $68 per line of authority with no fingerprinting, narrowly ahead of Utah's $75. Wyoming is the most expensive ($150/line). For a producer already licensed in one Mountain West state looking to add the other two, the cost and complexity order from least to most is: Colorado → Utah → Wyoming.
 
 ## The Complete Side-by-Side Summary
 
@@ -82,7 +82,7 @@ Wyoming's 30-day average from application to license issuance is driven by its f
 
 Does Colorado's 50-hour prelicensing requirement make it harder to get licensed than Utah or Wyoming?
 
-It adds time and cost to the initial process — not difficulty in the pass/fail sense. The Colorado prelicensing course itself is comprehensive preparation for the Pearson VUE state exam, and candidates who complete it thoroughly tend to pass the state exam at higher rates than unprepared candidates sitting directly for Utah or Wyoming exams. The time cost is real: 50 hours of coursework plus the Certificate Exam typically takes 2–4 weeks to complete, adding 3–5 weeks to Colorado's total timeline compared to Utah or Wyoming. The financial cost is the course fee (typically $125–$200) plus the $48 exam fee, compared to Utah and Wyoming where candidates who self-study spend only the exam fee. For candidates who approach prelicensing seriously, however, the pass rate improvement from Colorado's mandatory preparation often justifies the time investment.
+It adds time and cost to the initial process — not difficulty in the pass/fail sense. The Colorado prelicensing course itself is comprehensive preparation for the Pearson VUE state exam, and candidates who complete it thoroughly tend to pass the state exam at higher rates than unprepared candidates sitting directly for Utah or Wyoming exams. The time cost is real: 50 hours of coursework plus the Certificate Exam typically takes 2–4 weeks to complete, adding 3–5 weeks to Colorado's total timeline compared to Utah or Wyoming. The financial cost is the course fee (typically $125–$200) plus the $41 exam fee, compared to Utah and Wyoming where candidates who self-study spend only the exam fee. For candidates who approach prelicensing seriously, however, the pass rate improvement from Colorado's mandatory preparation often justifies the time investment.
 
 Which of the three states has the most producer-friendly CE structure for multi-line licensees?
 

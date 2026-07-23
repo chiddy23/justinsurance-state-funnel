@@ -1,6 +1,6 @@
 ---
 title: "Adding a Line of Authority in Tennessee: CE and Licensing Implications"
-description: A Tennessee insurance producer who wants to expand their practice — adding Property to an existing Casualty license, adding Life to an existing A&H lice...
+description: A Tennessee producer expanding their practice — adding the Property line of authority to a license that already carries Casualty, or Life to one that already carries A&H — passes a new Pearson VUE exam, files a NIPR amendment, and folds the new line into their existing renewal and CE cycle.
 keyword: adding a line of authority in tennessee ce and licensing
 targetKeywords: adding a line of authority in tennessee ce and licensing
 cluster: state-license-tennessee
@@ -12,7 +12,7 @@ image: /blog/images/top-tips-to-simplify-tennessee-insurance-license-renewal.jpg
 imageAlt: "Adding a Line of Authority in Tennessee: CE and Licensing Implications"
 ---
 
-A Tennessee insurance producer who wants to expand their practice — adding Property to an existing Casualty license, adding Life to an existing A&H license, or adding any major line to any existing license — must pass a new Pearson VUE exam for the additional line, submit a new NIPR application with its own fee, and understand how the added line interacts with their existing renewal cycle and CE obligations. No grandfathering applies. No existing knowledge is tested through the current license. Every line of authority added to a Tennessee producer license requires demonstrating competency through the same exam process that applied at initial licensing — because Tennessee's line of authority structure treats each line as an independently assessed credential.
+A Tennessee insurance producer who wants to expand their practice — adding the Property line to a license that already carries Casualty, adding Life to one that already carries A&H, or adding any major line to any existing license — must pass a new Pearson VUE exam for the additional line, submit a new NIPR application with its own fee, and understand how the added line interacts with their existing renewal cycle and CE obligations. No grandfathering applies. No existing knowledge is tested through the current license. Every line of authority added to a Tennessee producer license requires demonstrating competency through the same exam process that applied at initial licensing — because Tennessee's line of authority structure treats each line as an independently assessed credential.
 
 This post covers every dimension of adding a line of authority in Tennessee: the exam and application process, the fee structure, how the added line's expiration date interacts with the existing license, CE implications of holding multiple lines, specialty training considerations, and the strategic decisions around whether to add lines simultaneously or sequentially.
 
@@ -26,19 +26,19 @@ Exam specifics for the added line:
 
 Vendor: Pearson VUE
 
-Fee: $59 per attempt at a Pearson VUE test center
+Fee: $55 per attempt at a Pearson VUE test center (single-line exam)
 
 Format: 77 questions (68 scored + 9 unscored pretest), 105 minutes
 
-Pass score: 70% on scored questions
+Pass score: a scaled score of 70 (Tennessee reports exam results as a scaled score from 0 to 100 — not a raw percentage of the questions you answered correctly)
 
 Score reporting: Immediate — results displayed before leaving the testing environment
 
 Retakes: Unlimited attempts (no hard cap), but a 10-day waiting period after the first failure and a 30-day waiting period after each subsequent failure; full exam fee per attempt
 
-The state law section is the same across all lines. Every Tennessee licensing exam includes the same Tennessee state law section testing TDCI provisions, producer licensing requirements, unfair trade practices, bad faith, auto minimums, workers' compensation thresholds, CE requirements, and appointment rules. A producer who has already passed one Tennessee line exam has studied this content — the state law section for the added line exam is not new material. The only new content is the general section for the added line.
+The state law section is partly shared, partly line-specific. Each Tennessee exam includes 18 Tennessee-specific scored questions (out of 68 scored). Fourteen of those cover a common core tested on every line — the Commissioner's powers, definitions, producer licensing requirements, unfair trade practices, and bad faith — so a producer who has already passed one Tennessee line exam has genuinely studied that core. The remaining Tennessee-specific questions are keyed to the line itself: the Casualty exam's state section covers auto financial responsibility (the 25/50/25 minimums) and workers' compensation rules that never appear on the Life or Accident & Health exam, while the Life exam's state section covers life policy provisions, replacement, and annuity suitability. So the added line is not entirely familiar ground — you still face its full general section plus a handful of line-specific Tennessee questions — but the common regulatory core is content you have seen before.
 
-No mandatory [prelicensing](/tennessee/prelicensing) for the added line. Tennessee eliminated mandatory prelicensing in March 2023. This applies to added lines as well as initial licensing. A producer adding Property to an existing Casualty license can schedule the Property exam without completing any prescribed course.
+No mandatory [prelicensing](/tennessee/prelicensing) for the added line. Tennessee eliminated mandatory prelicensing in March 2023. This applies to added lines as well as initial licensing. A producer adding the Property line to a license that already carries Casualty can schedule the Property exam without completing any prescribed course.
 
 ### Step 2: Wait the Mandatory 48-Hour Post-Exam Period
 
@@ -50,7 +50,13 @@ A separate NIPR application — with its own fees — is required for each line 
 
 Application fees for adding a line:
 
-The fingerprinting requirement for adding lines: Resident producers who have previously completed IdentoGO fingerprinting for their Tennessee license do not need to repeat the fingerprinting process when adding a line of authority. The background check requirement is per applicant — not per line. A producer who completed fingerprinting when obtaining their initial Property license does not submit new fingerprints when adding Casualty.
+$50 TDCI application filing fee, charged per application rather than per line
+
+$5.60 NIPR transaction fee
+
+$55.60 total in application fees for the addition — separate from the $55 Pearson VUE exam fee for the added line
+
+The fingerprinting requirement for adding lines: Resident producers who have previously completed IdentoGO fingerprinting for their Tennessee license do not need to repeat the fingerprinting process when adding a line of authority. The background check requirement is per applicant — not per line. A producer who completed fingerprinting when first licensed with the Property line does not submit new fingerprints when adding Casualty.
 
 Application submission process: Log in to your existing NIPR account and submit a new application selecting the line of authority being added. NIPR routes the application to the TDCI for processing. Standard processing time: 2–5 business days for uncomplicated applications.
 
@@ -64,7 +70,7 @@ After TDCI processing, the added line appears in your license record alongside y
 
 When a producer adds a line of authority to an existing Tennessee license, the newly added line's expiration date is aligned to the existing license's renewal cycle — the same biennial birth month deadline. All lines renew simultaneously on the same date.
 
-The practical implication: A producer born in August who holds an active Property license expiring August 31, 2026 adds Casualty in February 2026. The Casualty line is added to the existing license and expires on the same August 31, 2026 date as the Property line — even though the Casualty line was added only six months before that date.
+The practical implication: A producer born in August who holds an active license carrying the Property line, expiring August 31, 2026, adds the Casualty line in February 2026. The Casualty line is added to the existing license and expires on the same August 31, 2026 date as the Property line — even though the Casualty line was added only six months before that date.
 
 This alignment means the producer must renew all lines simultaneously on August 31, 2026 — including the Casualty line that was active for only six months in the current renewal cycle. They do not receive a full new biennial cycle for the added line.
 
@@ -100,7 +106,7 @@ When a producer adds a line mid-biennial period, CE hours already completed in t
 
 A producer who adds the Life line of authority and intends to sell annuity products must complete the one-time 4-hour annuity suitability training before their first annuity transaction. Adding the Life line creates the authority to sell annuities — but the annuity suitability training prerequisite applies immediately upon beginning annuity sales.
 
-If the producer already completed annuity suitability training in connection with a prior Life license in another state, verify with the TDCI whether that completion satisfies Tennessee's requirement before selling annuities in Tennessee.
+If the producer already completed annuity suitability training in connection with prior Life authority in another state, verify with the TDCI whether that completion satisfies Tennessee's requirement before selling annuities in Tennessee.
 
 ### A&H Line Added — LTC Training
 
@@ -154,11 +160,15 @@ The producer wants to avoid the future interruption of adding lines mid-career t
 
 The most common line addition scenario in Tennessee is a Personal Lines producer adding Property and Casualty authority — or a property-only producer adding Casualty — to serve commercial clients whose needs exceed Personal Lines authority.
 
-The Personal Lines limitation: A Personal Lines license covers personal auto and personal homeowners only. It does not authorize commercial placements. The moment a client presents a business insurance need — a business owner's policy, commercial auto, workers' compensation — a Personal Lines producer is unauthorized to serve it. Adding Property and Casualty eliminates this limitation and opens the full commercial lines market.
+The Personal Lines limitation: Personal Lines authority covers personal auto and personal homeowners only. It does not authorize commercial placements. The moment a client presents a business insurance need — a business owner's policy, commercial auto, workers' compensation — a Personal Lines producer is unauthorized to serve it. Adding Property and Casualty eliminates this limitation and opens the full commercial lines market.
 
-The cost of adding P&C to a Personal Lines license:
+The cost of adding Property and Casualty to a license that carries only Personal Lines:
 
-This $203.60 investment — plus preparation time — removes the commercial lines ceiling permanently.
+Two Pearson VUE exams — Property and Casualty: $110 booked as two separate $55 single-line appointments, or $80 booked together as one OnVUE combination reservation
+
+One $50 TDCI application filing fee plus one $5.60 NIPR transaction fee (both lines added on a single application): $55.60
+
+That is $165.60 in fees if you book the exams separately, or $135.60 if you take them as a single OnVUE combination — plus preparation time. Either way it is an investment that removes the commercial lines ceiling permanently.
 
 ### The Life and A&H Complement Addition
 
@@ -166,7 +176,7 @@ A producer holding Life who adds A&H — or A&H who adds Life — gains access t
 
 ## Frequently Asked Questions
 
-I currently hold a Casualty license in Tennessee and want to add Property. My Casualty license expires in four months. Should I add Property now or wait until after I renew?
+I currently hold a license with the Casualty line in Tennessee and want to add Property. My license expires in four months. Should I add Property now or wait until after I renew?
 
 Add Property now — before the renewal — for two reasons. First, the added Property line will align to your existing August renewal date (or whatever your birth month deadline is) and be included in your upcoming renewal in four months. You will pay one renewal fee covering both lines at the same time you were already paying for Casualty renewal. Waiting until after renewal would mean adding Property in the new biennial period and having its first renewal occur at the same time as Casualty anyway. Second, completing the Property exam and application now gives you Property authority for the four months before renewal — client opportunities you can serve immediately rather than deferring. The only practical consideration is whether your current CE standing for the upcoming renewal is sufficient to cover both lines — and since CE in Tennessee is not line-specific and the requirement is the same 24 hours regardless of line count, your existing CE obligation is unchanged by adding Property.
 
@@ -180,4 +190,4 @@ No. When you renew in two months, you renew all lines together under your existi
 
 Adding a line of authority in Tennessee is a straightforward process — one additional exam, one additional NIPR application, and an understanding of how the new line integrates into the existing renewal and CE framework. The producers who manage this process most efficiently are those who plan the addition intentionally — timing it relative to their renewal cycle, ensuring the exam and application are completed before client opportunities require the new authority, and coordinating carrier appointments for the new line before the first transaction. Every line added expands the client service capacity and the income potential of the Tennessee producer license — making the $55.60 application investment and the exam preparation time one of the most productive decisions in an insurance career.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep for any line of authority with a state-approved course designed for Pearson VUE.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep for any line of authority with a comprehensive course built around the Pearson VUE exam.

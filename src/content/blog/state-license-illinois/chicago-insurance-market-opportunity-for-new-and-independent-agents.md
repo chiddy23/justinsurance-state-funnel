@@ -26,7 +26,7 @@ Chicago's strengths as an insurance market include:
 
 Scale. The Chicago metro area has approximately 9.4 million residents across the metro, making it the third-largest U.S. metro area. Scale supports specialization and niche focus.
 
-Corporate depth. Chicago hosts headquarters for Boeing, McDonald's, Abbott, Walgreens Boots Alliance, AbbVie, Caterpillar, United Airlines, Allstate, State Farm's regional hub, Sears, Mondelez, and many others. Corporate headquarters create both executive-level client opportunity and group benefits markets.
+Corporate depth. The Chicago metro area hosts headquarters for McDonald's, United Airlines, AbbVie, Abbott, Walgreens Boots Alliance, Allstate, Mondelez, State Farm's regional hub, and many others. Corporate headquarters create both executive-level client opportunity and group benefits markets.
 
 Financial services presence. The Chicago Mercantile Exchange, Chicago Board Options Exchange, major banks, asset managers, and insurance companies create a financial services ecosystem that supports high-net-worth client markets.
 

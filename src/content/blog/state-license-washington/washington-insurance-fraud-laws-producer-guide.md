@@ -31,7 +31,7 @@ Misrepresentation, rebating, twisting, churning
 
 Unfair claims settlement practices
 
-Rebating threshold: more than $25 in goods or value
+Merchandise/gift limit: prizes, goods, gift cards, or merchandise are capped at $100 per person in the aggregate in any twelve-month period (RCW 48.30.140(4)) — value above that aggregate is a prohibited rebate
 
 RCW 48.80 — Criminal insurance fraud:
 
@@ -75,7 +75,7 @@ Behavioral health parity compliance: OIC has dedicated staff and ongoing investi
 
 Restitution authority (2025 legislative priority): OIC sought authority to order restitution with 8% simple interest to consumers harmed by insurer violations. This expanded remedy authority signals OIC's commitment to making consumers whole — not just sanctioning insurers.
 
-Producer fine authority: The existing $1,000 per offense fine for producer violations remains active and is regularly used. Producers who fail to respond to OIC inquiries within 21 days, engage in misrepresentation, or violate RCW 48.30 face this enforcement mechanism.
+Producer fine authority: The existing $1,000 per offense fine for producer violations remains active and is regularly used. Producers who fail to respond to OIC inquiries within the statutory window, engage in misrepresentation, or violate RCW 48.30 face this enforcement mechanism. That window is short: RCW 48.17.475 provides that "a timely response is one that is received by the commissioner within 15 business days from receipt of the inquiry."
 
 ## Common Washington Insurance Fraud Patterns
 
@@ -173,7 +173,7 @@ Premium misappropriation: Collecting client premiums and not remitting to carrie
 
 Unauthorized signatures: Signing client names on applications, change requests, or claims documents without authorization — forgery.
 
-Misrepresentation in sales: False or misleading statements about policy terms, premiums, or coverage — violates RCW 48.30.140 and potentially RCW 48.80.
+Misrepresentation in sales: False or misleading statements about policy terms, benefits, premiums, or coverage — violates RCW 48.30.090 (misrepresentation of policies), and can rise to criminal insurance fraud under RCW 48.80 when made knowingly. (RCW 48.30.140 is the separate rebating statute, not the misrepresentation provision.)
 
 Application fraud facilitation: Assisting clients in misrepresenting information on insurance applications — criminally prosecutable under RCW 48.80.030.
 
@@ -205,7 +205,7 @@ Premium integrity: All premiums collected must be remitted to carriers promptly.
 
 No unauthorized signatures: Never sign a client's name on any document — application, change form, claims form. No exceptions.
 
-Cooperate with OIC: When OIC investigates, cooperation is required — including responding within 21 days to OIC inquiries. Obstruction or delayed response creates independent regulatory violations.
+Cooperate with OIC: When OIC investigates, cooperation is required — and RCW 48.17.475 sets the clock at 15 business days from receipt of the inquiry. Calendar it the day the inquiry arrives; obstruction or a late response creates an independent regulatory violation on top of whatever prompted the inquiry.
 
 Document everything: Thorough records of client conversations, applications, and transactions protect producers from false fraud allegations and demonstrate compliance in OIC audits.
 
@@ -257,7 +257,7 @@ Maintain proper premium accounts. Never commingle client premiums with operating
 
 Complete ethics CE thoroughly. Washington's 3-hour ethics CE requirement addresses the conduct standards that prevent fraud — engage with it seriously, not as a checkbox.
 
-Understand the $25 rebate threshold. Washington's low threshold creates inadvertent fraud exposure — any gift, discount, or value transfer exceeding $25 to a client is a potential violation.
+Understand the $100 aggregate gift limit. Under RCW 48.30.140(4), promotional prizes, goods, gift cards, or merchandise are permitted only up to $100 in value per person in the aggregate in any twelve-month period. Because the cap is cumulative rather than per-item, several modest gifts to the same client inside twelve months can add up past $100 and become a prohibited rebate even when no single gift does.
 
 Know your Apple Health routing obligations. Steering Medicaid-eligible clients to marketplace plans to earn commissions is a form of fraud against the client and potentially the federal/state program.
 
@@ -267,10 +267,12 @@ Know your Apple Health routing obligations. Steering Medicaid-eligible clients t
 - What is the OIC Claims Review Team and why does it matter for producers? OIC sought legislative funding in 2025 to establish a dedicated Claims Review Team focused on RCW 48.30 and WAC 284-30 claims handling violations. This team would investigate complaints and initiate enforcement — signaling heightened OIC attention to claims handling compliance that affects both insurer and producer conduct.
 - What is claim suppression and why is it a producer concern? Claim suppression under RCW 51.28.010 is when employers induce employees not to report workplace injuries through the L&I system. Commercial P&C producers who become aware that a business client is suppressing workers' comp claims face professional risk from knowing about and not disclosing the violation. Advise business clients on their legal obligations.
 - What happens to a producer's license if they're involved in fraud? OIC revokes the license — typically permanently for fraud. The revocation is reported to the National Producer Database and visible to all state insurance departments. Obtaining insurance licenses in any state after fraud involvement becomes effectively impossible.
-- How does Washington's $25 rebate threshold affect daily producer practice? Under RCW 48.30.140, any goods or value worth more than $25 given to a client as an inducement to insurance constitutes a prohibited rebate. This low threshold — well below the $50-$100 thresholds in some other states — means common producer appreciation activities (gift cards, restaurant certificates, holiday gifts, merchandise) can cross the line. Client appreciation must stay below $25 per item to avoid rebating exposure.
+- How does Washington's rebate limit affect daily producer practice? Under RCW 48.30.140(4), promotional prizes, goods, gift cards, gift certificates, or merchandise are permitted only up to $100 in value per person in the aggregate in any twelve-month period; anything above that aggregate is a prohibited rebate, and RCW 48.30.150 applies the same $100 aggregate figure on the illegal-inducement side. The practical trap is that the limit is cumulative, not per-item — several modest client-appreciation gifts (gift cards, restaurant certificates, holiday gifts, merchandise) to the same person inside twelve months can add up past the $100 aggregate even when no single gift does. Track the running total per client across the year, not just the size of any one gift.
 
 ## Build a Fraud-Resistant Washington Practice
 
-Washington's active OIC enforcement environment and the L&I fraud investigation infrastructure make anti-fraud awareness practical career protection. At JustInsurance, our Washington CE courses cover anti-fraud topics including producer conduct standards, documentation requirements, and Washington-specific fraud enforcement frameworks.
+Washington's active OIC enforcement environment and the L&I fraud investigation infrastructure make anti-fraud awareness practical career protection.
 
-Enroll today and build a fraud-resistant Washington insurance practice.
+A note on where JustInsurance stands: our Washington continuing education provider approval is still pending with the OIC. Until that approval is issued, we cannot report Washington CE credit, so take any anti-fraud or ethics hours from a provider currently on the OIC's approved list — you can verify a provider, browse approved courses, and check your own CE transcript at insurance.wa.gov.
+
+What we do offer Washington candidates is exam prep. If you are still working toward the license, our Washington [prelicense](/washington/prelicensing) course covers the state law and producer conduct material the PSI exam actually tests — including the RCW 48.30 and RCW 48.80 framework this guide walks through.

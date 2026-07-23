@@ -84,15 +84,15 @@ Treat the Sircon renewal reminder as a secondary notification system, not your p
 
 If you do not renew your license by the last day of your birth month in your renewal year, your license lapses. A lapsed license cannot be used to transact insurance — selling, soliciting, or negotiating insurance on a lapsed license is an unlicensed activity violation under Colorado law, regardless of the reason for the lapse.
 
-Colorado allows lapsed licenses to be reinstated within one year of the expiration date. Reinstatement requires:
+Colorado does not offer a discounted "late renewal." Once your license expires it is no longer renewed — it must be reinstated. Under Division of Insurance Regulation 1-2-10 (3 CCR 702-1), a producer who fails to continue by the expiration date reinstates by submitting a new application and paying the initial application fee, not a renewal fee plus a penalty. There is no separate late or reinstatement penalty in Colorado. Reinstatement within one year of the expiration date requires:
 
-Payment of the standard renewal fee ($27/line resident, $40/line non-resident)
+Submission of a new producer license application through Sircon or NIPR
 
-Payment of a reinstatement penalty of $29 per line
+Payment of the initial application fee — $44 per line of authority for a resident producer, the same fee charged on a first-time application (NIPR confirms that reinstatement fees equal the initial license fee per line)
 
-Completion of all CE requirements that were due at the time of lapse (if the lapse occurred after the first renewal cycle)
+Completion of any CE that was required for the lapsed cycle (if the lapse occurred after the first renewal cycle)
 
-A producer who allows their license to lapse and reinstates within one year pays the renewal fee plus the $29/line penalty. A resident producer with two lines pays ($27 + $29) × 2 = $112 to reinstate, compared to $54 for an on-time renewal. The penalty is not a substantial financial burden on its own — the more significant cost is the period of unlicensed status during which the producer cannot legally transact insurance and may lose carrier appointments.
+A resident producer reinstating two lines therefore pays $88 in application fees ($44 × 2), compared to $54 for an on-time renewal ($27 × 2). The added cost is modest — the more significant consequence is the period of unlicensed status during which the producer cannot legally transact insurance and may lose carrier appointments.
 
 The one-transaction rule: All lines being reinstated must be reinstated in a single electronic transaction. You cannot reinstate Property today and Casualty next week. If you hold multiple lines, they must all be addressed in one submission. This rule applies to both reinstatement and renewal when multiple lines are involved.
 
@@ -104,7 +104,7 @@ Complete the full 50-hour [prelicensing](/colorado/prelicensing) course for each
 
 Pass the Pearson VUE state exam for each line
 
-Submit a new license application with the $47/line application fee plus $5.60 NIPR transaction fee
+Submit a new license application with the $44/line application fee plus $5.60 NIPR transaction fee
 
 There is no abbreviated path. A 20-year veteran whose license lapses for more than 12 months must complete prelicensing education and pass the state exam as if licensing for the first time. This is the most severe consequence of missed renewal and the strongest argument for treating the birth-month deadline with the same discipline as any regulatory compliance obligation.
 
@@ -120,7 +120,7 @@ Comply with Colorado's LTC training requirements if selling LTC products in Colo
 
 Renew by the same birth-month deadline that applies to resident licensees
 
-Non-resident producers who allow their Colorado license to lapse follow the same reinstatement rules as residents — $40/line renewal fee plus $29/line reinstatement penalty within one year, or full new application after one year.
+Non-resident producers who allow their Colorado license to lapse follow the same reinstatement model as residents — a new application and payment of the initial non-resident license fee within one year (Colorado charges no separate reinstatement penalty), or a full new application after one year.
 
 ## Producer License vs. Appointment: Two Separate Obligations
 

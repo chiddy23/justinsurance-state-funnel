@@ -29,7 +29,7 @@ Regularly reviewing these regulations—as well as your own schedule—means you
 
 ## Discover online course options
 
-Online courses have transformed how you can satisfy your CE credits. Many providers offer self-paced study modules, live webinars, or a blend of both. As a result, you can pick the format that best suits your lifestyle and learning preferences. If you’d rather complete a few chapters on your lunch break a couple of times a week, that’s entirely possible with flexible digital platforms.
+Online courses have transformed how you can satisfy your CE credits. Many providers offer self-paced study modules, live webinars, or a blend of both. Keep one Texas-specific rule in mind, though: at least 12 of your 24 CE hours must be completed in a classroom or classroom-equivalent course, and the remaining hours can be ordinary self-study. Classroom-equivalent is a specific TDI registration, not a description of how modern a course looks — the rule requires built-in question periods you have to answer correctly to move forward, plus periodic checks that the registered student is the one taking the course. An all-online plan works as long as 12 of your hours carry that registration, so check the instruction method on the listing before you enroll. Within those limits, you can pick the formats that best suit your lifestyle, and flexible digital platforms make it easy to fit chapters into a busy week.
 
 Plus, these virtual courses often include quizzes or interactive features that reinforce your understanding of new or updated insurance regulations. Engaging tools make studying less of a chore and more of a practical training session. That means you’re not just earning credits—you’re expanding the knowledge that sets you apart.
 

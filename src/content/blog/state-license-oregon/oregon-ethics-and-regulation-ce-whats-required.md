@@ -96,7 +96,7 @@ If a provider only offers ethics, you'll need to find a separate Oregon law prov
 
 ## Why This Matters for Your Career
 
-Ethics violations are the most common reason producers face license suspension or revocation. Most career-ending compliance issues trace back to ethical lapses that ethics CE was designed to prevent.
+Ethics violations aren't an abstract concern — they're written directly into Oregon's disciplinary statute. Under ORS 744.074, the Director may place a producer on probation, or suspend, revoke, or refuse to renew a license for grounds that include intentionally misrepresenting the terms of an insurance contract, improperly withholding or converting money received in the course of insurance business, and using fraudulent, coercive, or dishonest practices. Those are precisely the behaviors ethics CE is built to head off.
 
 Oregon law violations are equally career-threatening but often unintentional. Producers who don't stay current on Oregon law changes can violate rules they don't know exist. The 3-hour Oregon law requirement exists specifically to prevent this.
 

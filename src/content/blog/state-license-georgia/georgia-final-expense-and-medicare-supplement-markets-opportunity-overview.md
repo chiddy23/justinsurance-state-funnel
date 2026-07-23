@@ -78,9 +78,7 @@ Community presence (churches, senior centers, community organizations)
 
 Commission structure. Final expense commissions typically run 80–130% of first-year premium, depending on carrier and agent contract level. Renewal commissions continue for multiple years, building a recurring income stream.
 
-Typical weekly income for active final expense agents. Serious agents working consistently can generate $1,500–$4,000+ per week in commissions after the initial ramp-up period.
-
-*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+Weekly income for active final expense agents. Because final expense is fully commission-based, weekly earnings swing widely with the number of appointments worked, close rate, and average premium — there is no single "typical" weekly figure that holds across agents. What you earn tracks your own activity and the book you build, not a set wage. For a grounded benchmark of what Georgia insurance agents earn overall, see "Realistic Income Expectations" below.
 
 ## The Medicare Supplement Market
 
@@ -150,23 +148,11 @@ Step 6 — Show up consistently. Senior markets reward consistency. Agents who w
 
 ## Realistic Income Expectations
 
-Final expense only (active agent).
+Final expense and Medicare are commission businesses, so there is no salary to quote — what you earn tracks the size and quality of the book you build. As a labor-market benchmark, the U.S. Bureau of Labor Statistics puts Georgia insurance sales agents at a median wage of about $58,410 a year, with the top 10% earning roughly $133,520 or more (U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics, Georgia, May 2024). That survey covers all insurance sales agents, not senior-market specialists specifically, and it is the honest anchor for what agents in the state actually earn.
 
-First 90 days in production: $4,000–$8,000/month
+Within that reality: a new agent who works leads consistently through the ramp-up period is typically building toward the middle of that range in the first year or two, while established agents with a mature book, strong retention, and a mix of final expense plus Medicare business tend to sit in its upper part. Renewal income is what compounds the picture over time. None of it is guaranteed — results depend entirely on your activity, lead flow, and execution.
 
-First year: $55,000–$95,000
-
-Established agents: $100,000–$200,000+
-
-Medicare combined with final expense (active agent).
-
-First year: $65,000–$110,000
-
-Established agents: $120,000–$250,000+
-
-These numbers assume consistent activity, adequate lead flow, and professional execution.
-
-*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+*Wage figures are the published BLS Occupational Employment and Wage Statistics estimates for Georgia insurance sales agents; commissions are not a wage and are never guaranteed — individual results vary.*
 
 ## 5 Frequently Asked Questions
 

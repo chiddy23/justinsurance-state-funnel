@@ -22,7 +22,7 @@ The insurance mechanism: Because most individual drivers lack the personal asset
 
 How Tennessee's system differs from no-fault states: In no-fault states like Michigan, Florida, and Minnesota, the legislature determined that waiting for fault determination before paying injured parties created unnecessary delays and litigation. They required each driver to carry Personal Injury Protection (PIP) — first-party coverage that pays the insured's own medical expenses quickly, regardless of who caused the accident. Tennessee retained the traditional tort approach — fault matters, and the at-fault party pays.
 
-The Modified Comparative Fault Act: Tennessee's specific version of the at-fault system is codified in the Tennessee Comparative Fault Act. Under this framework, contributory negligence no longer completely bars recovery (as it once did under the older contributory negligence doctrine). Instead, recovery is possible for claimants who bear less than 50% of the fault — but it is reduced proportionally by their fault percentage. At 50% or more fault, recovery is completely barred.
+Modified comparative fault: Tennessee's specific version of the at-fault system was not enacted as a standalone statute — it was adopted judicially by the Tennessee Supreme Court in McIntyre v. Balentine, 833 S.W.2d 52 (Tenn. 1992), which replaced the old all-or-nothing contributory negligence doctrine with a modified comparative fault rule. Under this framework, contributory negligence no longer completely bars recovery (as it once did under the older contributory negligence doctrine). Instead, recovery is possible for claimants who bear less than 50% of the fault — but it is reduced proportionally by their fault percentage. At 50% or more fault, recovery is completely barred.
 
 ## How Fault Is Actually Determined
 
@@ -52,7 +52,7 @@ Disputed fault is common in Tennessee auto accidents, particularly in intersecti
 
 Insurer negotiation: The injured party's insurer and the at-fault driver's insurer negotiate a fault allocation and damage settlement. Most disputes are resolved through this process without litigation.
 
-Litigation: When insurers cannot agree on fault or damages, the injured party may file a civil lawsuit. Tennessee's civil courts — circuit courts for serious cases — apply the Modified Comparative Fault Act. A jury determines the percentage of fault attributable to each party, which drives the damages calculation.
+Litigation: When insurers cannot agree on fault or damages, the injured party may file a civil lawsuit. Tennessee's civil courts — circuit courts for serious cases — apply the modified comparative fault rule from McIntyre v. Balentine. A jury determines the percentage of fault attributable to each party, which drives the damages calculation.
 
 The litigation timeline: Civil litigation in Tennessee can take months to years to resolve. During that period, the injured party may have mounting medical expenses and lost wages with no payment from the at-fault driver's insurer. This gap between injury and recovery is one of the practical arguments for first-party coverages — MedPay and health insurance — that pay immediately regardless of fault determination.
 
@@ -86,7 +86,21 @@ Tennessee's UM requirement: Tennessee requires UM coverage unless the insured re
 
 Why UM rejections are inadvisable in Tennessee: Tennessee's uninsured driver rate is estimated at approximately 20% — meaning roughly one in five Tennessee drivers carries no auto liability insurance. In an at-fault state where the injured party's recovery depends entirely on the at-fault driver's insurance, 20% of accidents involve an at-fault driver whose insurance does not exist. UM coverage is the only protection against this scenario. Producers who allow clients to sign UM rejection forms without a clear explanation of this exposure are not serving those clients' interests.
 
-The hit-and-run scenario: Tennessee requires physical contact between the unidentified vehicle and the insured's vehicle for UM coverage to apply to a hit-and-run claim. A driver forced off the road by a vehicle that never makes contact does not have a straightforward UM claim — the physical contact requirement exists to prevent fraudulent hit-and-run claims. Producers who explain this limitation to clients who assume all hit-and-run scenarios are covered by UM give those clients accurate expectations about their coverage.
+The hit-and-run scenario — the "John Doe" claim: When the at-fault driver is unknown, TCA §56-7-1201(e) sets three conditions for UM recovery, and the first one is written in the alternative. The insured must show either:
+
+Actual physical contact between the vehicle owned or operated by the unknown person and the person or property of the insured; or
+
+The existence of the unknown motorist established by clear and convincing evidence, other than any evidence provided by occupants in the insured vehicle
+
+And, in addition to whichever branch applies:
+
+The insured, or someone on the insured's behalf, reported the accident to the appropriate law enforcement agency within a reasonable time after it occurred
+
+The insured was not negligent in failing to determine the identity of the other vehicle and its owner or operator at the time of the accident
+
+What this means for the miss-and-run client: A driver forced off the road by a phantom vehicle that never touched them is not automatically out of luck. Tennessee's statute contemplates exactly that case — the claim survives if the unknown vehicle's existence can be proven by clear and convincing evidence from a source outside the insured's own car. Independent eyewitnesses, surveillance or dash-camera footage from another vehicle, and physical evidence documented by the responding officer are the kinds of proof that can carry that burden. What cannot carry it, standing alone, is the account of the driver and passengers in the insured vehicle — that is the anti-fraud safeguard the legislature actually built, and it is an evidentiary restriction, not a contact requirement.
+
+The producer's advisory point: Never tell a Tennessee client that no contact means no UM claim. Tell them the truth — that the claim is harder without contact because it demands independent proof, which makes two client behaviors decisive: call law enforcement and get a report on file promptly, and identify any independent witness or camera before the scene clears. A client who leaves without a police report has jeopardized the claim under condition (2) regardless of how the phantom vehicle behaved.
 
 ### Underinsured Motorist: The At-Fault System's Coverage Gap Problem
 
@@ -144,4 +158,4 @@ The insurer's fault investigation serves the insurer's financial interest — de
 
 Tennessee's at-fault system creates specific, predictable coverage needs that producers who understand the framework can address with precision. Liability limits that protect personal assets. UM/UIM that fills the gap when the at-fault system fails because the other driver has no insurance or insufficient insurance. MedPay that bridges the time between an accident and the liability claim's resolution. And a clear explanation of the 50% comparative fault bar that helps clients understand exactly how their own fault percentage can eliminate their third-party recovery entirely — making first-party coverage their only financial protection in that scenario. Producers who internalize these connections serve Tennessee auto clients at the level that genuine financial protection requires.
 
-Visit JustInsurance to enroll today and complete your Tennessee [prelicensing](/tennessee/prelicensing) with a state-approved course covering every auto insurance and fault system provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep with a course built to the current Pearson VUE Tennessee content outline covering every auto insurance and fault system provision tested on the Pearson VUE exam.

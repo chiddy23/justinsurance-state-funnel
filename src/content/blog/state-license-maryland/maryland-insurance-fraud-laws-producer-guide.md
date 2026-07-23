@@ -16,7 +16,7 @@ imageAlt: >-
   insurance fraud laws: producer guide.
 ---
 
-Maryland's insurance fraud framework and workers' compensation laws create specific producer obligations in one of the country's highest-income states. Maryland workers' comp is a private market with the Chesapeake Employers Insurance Company providing both a competitive state fund option and assigned risk access — not a monopoly like Ohio's BWC. The 1+ employee threshold captures virtually every Maryland employer. The $25,000 non-compliance penalty (significantly higher than Virginia's) reflects Maryland's aggressive enforcement posture. And the MIA's October 2024 civil penalty increase (from $500 to $5,000 per violation) signals a broader enforcement culture that makes genuine ethics and fraud compliance practically important for Maryland producers.
+Maryland's insurance fraud framework and workers' compensation laws create specific producer obligations in one of the country's highest-income states. Maryland workers' comp is a private market with the Chesapeake Employers Insurance Company providing both a competitive state fund option and assigned risk access — not a monopoly like Ohio's BWC. The 1+ employee threshold captures virtually every Maryland employer. The $25,000 non-compliance penalty — raised from $10,000 to $25,000 in 2024 — reflects a strengthening enforcement posture, though it still sits below Virginia's $50,000 cap. And the MIA's October 2024 civil penalty increase (from $500 to $5,000 per violation) signals a broader enforcement culture that makes genuine ethics and fraud compliance practically important for Maryland producers.
 
 ## Maryland Insurance Fraud Framework
 
@@ -80,7 +80,7 @@ Self-insurance available with Workers' Compensation Commission approval
 
 Maryland workers' comp vs. comparison states:
 
-Non-compliance penalties: up to $25,000 — substantially higher than Virginia's $50,000 cap; similar enforcement intensity.
+Non-compliance penalties: up to $25,000 — below Virginia's $50,000 cap, though Maryland raised its own maximum from $10,000 to $25,000 in 2024, signaling tougher enforcement.
 
 Average rate: $1.07 per $100 payroll (NCCI data; Maryland is in the lower quarter nationally), though Chesapeake's classifications may vary.
 
@@ -96,7 +96,7 @@ Misclassification risk: Maryland's workers' comp commission aggressively investi
 
 ## 5 Frequently Asked Questions
 
-- What are the non-compliance penalties for workers' comp in Maryland? Up to $25,000 per violation for employers who fail to carry required workers' compensation insurance. Additional criminal penalties (misdemeanor with fines up to $10,000 or prison time) can apply. Late payment or dispute of claims triggers 20-40% additional penalties from the Workers' Compensation Commission. Maryland's enforcement posture is aggressive — the $25,000 maximum is significantly higher than many states.
+- What are the non-compliance penalties for workers' comp in Maryland? Up to $25,000 per violation for employers who fail to carry required workers' compensation insurance. Additional criminal penalties (misdemeanor with fines up to $10,000 or prison time) can apply. Late payment or dispute of claims triggers 20-40% additional penalties from the Workers' Compensation Commission. Maryland strengthened its enforcement posture by raising this maximum from $10,000 to $25,000 in 2024, though it remains below Virginia's $50,000 cap.
 - What is Chesapeake Employers Insurance and how does it differ from Ohio's BWC? Chesapeake Employers Insurance Company is Maryland's competitive state fund — it competes for accounts alongside private carriers on the voluntary market, AND administers the assigned risk pool. Ohio's Bureau of Workers' Compensation (BWC) is a monopoly state fund that all Ohio employers must use. Maryland producers earn commission on voluntary market placements with Chesapeake or any private carrier. Ohio producers cannot sell workers' comp because there's no voluntary market.
 - Can Maryland LLC members exempt themselves from workers' comp coverage? LLC members who provide services for monetary compensation are covered by default. However, LLC members with more than 20% ownership interest may choose to exempt themselves from coverage. This is a nuanced Maryland-specific workers' comp provision that producers advising LLC owners should understand.
 - What is Maryland's workers' comp classification deviation from NCCI? Maryland is an NCCI state (National Council on Compensation Insurance sets base rates), but Chesapeake Employers Insurance uses its own classification system that deviates from NCCI in several areas. Producers who are familiar with both NCCI standard classifications and Chesapeake's deviating classifications provide genuine advisory value — misclassification during audits can result in significant premium adjustments.
@@ -104,6 +104,6 @@ Misclassification risk: Maryland's workers' comp commission aggressively investi
 
 ## Build Your Maryland Commercial Lines Practice
 
-Maryland's private workers' comp market, 1+ employee threshold, and professional service economy create active commercial insurance advisory opportunities. JustInsurance's MIA-approved Maryland courses cover workers' comp law and fraud provisions in producer-focused depth.
+Maryland's private workers' comp market, 1+ employee threshold, and professional service economy create active commercial insurance advisory opportunities. JustInsurance's MIA-approved Maryland CE courses cover workers' comp law and fraud provisions in producer-focused depth.
 
 Enroll today and develop your Maryland commercial lines expertise.

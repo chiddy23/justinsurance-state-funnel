@@ -28,7 +28,7 @@ If you plan to handle multiple lines, you will need to meet requirements for eac
 
 ## Complete your pre-licensing steps
 
-New York prelicensing courses are the foundation of your insurance education. They teach you the fundamentals—such as policy structures, state regulations, and ethical responsibilities—before you take your official license exam. Most students take these courses through approved providers that cater to busy schedules. The course length typically depends on your line of authority, but you can expect anywhere from 20 to 40 hours of study.
+New York prelicensing courses are the foundation of your insurance education. They teach you the fundamentals—such as policy structures, state regulations, and ethical responsibilities—before you take your official license exam. Most students take these courses through approved providers that cater to busy schedules. Course length is set by DFS and depends entirely on your line of authority, and the spread is wider than most newcomers expect: Life is 20 hours, Accident and Health is 20 hours, a combined Life, Accident and Health course is 40 hours, Personal Lines is 40 hours, and full Property/Casualty is 90 hours. Public adjuster candidates need 40 hours. So if you are heading toward property and casualty work, budget for a course several times longer than the life and health path — and plan your study calendar accordingly.
 
 While you can complete these classes in a classroom setting, many aspiring agents choose online learning for flexibility. Once you wrap up your pre-licensing course, you will receive a certification of completion. Hold on to this certificate, since it is your ticket to scheduling and taking the official state exam.
 
@@ -54,7 +54,7 @@ $100–$300+
 
 License exam registration
 
-$33–$100+
+$40 per attempt
 
 1 week for scheduling
 
@@ -84,7 +84,7 @@ Once you complete each continuing education course, the provider will typically 
 
 Staying current with your CE credits does more than just satisfy New York’s legal requirements—it helps you remain competitive in an ever-changing insurance market. After all, ongoing education exposes you to new products and updated rules that keep your clients covered. It also demonstrates your professionalism and commitment to serving people reliably.
 
-To ensure you do not miss your renewal deadlines, set reminders in your calendar for a few months before your license expires. That way, you will have time to wrap up any required courses, file the necessary paperwork, and pay your renewal fees without rushing. You can also sign up for email or text notifications from your coursework provider or from organizations like JustInsurance to stay informed about any changes to CE regulations.
+To ensure you do not miss your renewal deadlines, set reminders in your calendar for a few months before your license expires. That way, you will have time to wrap up any required courses, file the necessary paperwork, and pay your renewal fees without rushing. Treat that calendar entry as your only reliable warning system — no course provider tracks your renewal date on your behalf. For the authoritative picture of where you actually stand, check your license record and CE standing directly with the New York Department of Financial Services rather than waiting for someone to flag it for you.
 
 If you accidentally let your license lapse, you risk penalties, additional fees, and the stress of catching up on credits. In some cases, you might need to re-take the exam, which can add even more cost and time to your schedule. Be proactive by knocking out your continuing education credits at a steady pace throughout each two-year cycle.
 
@@ -94,6 +94,6 @@ By now, you have a clear roadmap for earning and maintaining your New York insur
 
 If you are feeling ambitious, you can expand your license authority to sell additional lines of insurance. The process follows a similar pattern: complete the required pre-licensing and exams for the new authority, then stay on top of continuing education once you are licensed. It can take time and effort, but the payoff is worth it when you can serve more clients and expand your expertise.
 
-Finally, do not forget that you are never alone. JustInsurance helps thousands of aspiring and current agents navigate the twists and turns of licensing and renewal. That includes offering study materials, guidance on fulfilling your CE credits, and updates on policy changes relevant to your work. Whenever you need assistance, reach out for personalized support that keeps your progress on track.
+Finally, you do not have to build a study plan from scratch. JustInsurance offers self-paced online study materials and practice questions for the Life and Accident & Health lines, so you have something structured to work through as you prepare. One disclosure specific to New York: our New York CE provider approval is still pending with DFS. Until that approval issues, we cannot award or report New York CE credit, so complete your New York renewal hours through a provider that currently appears on the DFS approved-provider list.
 
 Ready to start or enhance your insurance career? Begin your licensing journey with confidence, knock out your New York insurance CE credits, and keep your qualifications in top shape. Whether you are just entering the field or looking to renew, the time to pursue your goals is now. Here’s to a bright and rewarding future in New York’s insurance landscape!

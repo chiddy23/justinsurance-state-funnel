@@ -43,7 +43,7 @@ You might also want to explore trusted providers like JustInsurance, which offer
 
 Once you complete your pre-licensing education, it’s time to secure your spot on the Michigan insurance license exam schedule. Scheduling can typically be done online, and you’ll pick a date, time, and testing location that works best for you. Because dates can fill up, plan to schedule your exam at least a few weeks in advance to get your desired slot.
 
-You’ll also need to pay an exam fee at the time of registration. The amount varies based on the license type, so be sure to confirm the cost for your specific exam. It helps to have a flexible range of test dates in mind so you can choose the day that aligns best with your level of readiness.
+You’ll also need to pay the exam fee at the time of registration. Michigan charges a flat $41 per exam through PSI — the same amount for every line of authority, whether you’re sitting for Life, Accident & Health, Property, or Casualty. It helps to have a flexible range of test dates in mind so you can choose the day that aligns best with your level of readiness.
 
 ### Steps to book your exam
 

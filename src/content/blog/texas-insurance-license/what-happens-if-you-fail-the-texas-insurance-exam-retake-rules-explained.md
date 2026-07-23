@@ -28,13 +28,13 @@ This score report is valuable. It tells you exactly which sections you underperf
 
 ## Texas Exam Retake Rules
 
-Waiting period: There's no mandatory waiting period in Texas — you can typically schedule your next available test date right away.
+Waiting period: There's no meaningful waiting period. Pearson VUE's Texas handbook states that a candidate who fails can schedule a new exam within one day, so in practice you're limited by seat availability, not by rule.
 
-Retake fee: Each attempt requires a new registration and exam fee paid to Pearson VUE. The current exam fee is $39 per attempt. Confirm the current fee at pearsonvue.com when registering.
+Retake fee: Each attempt requires a new registration and a new exam fee paid to Pearson VUE, and the fee depends on which exam you're sitting for. The General Lines — Life, Accident & Health exam is $49 per attempt, and so is General Lines — Property & Casualty. The Life Agent (life-only) exam and Personal Lines Property & Casualty are $39. Limited Lines is $29. Most JustInsurance students are retaking General Lines — Life, Accident & Health, so budget $49 per attempt, and confirm the current fee at pearsonvue.com when you register.
 
 Number of attempts: Texas does not cap the number of times you can retake the exam. You can keep attempting until you pass — but each attempt costs money, so treating each retake seriously pays off.
 
-Exam validity: Once you pass, your results are valid for 1 year. You must submit your TDI license application within that window.
+Exam validity: Once you pass, you have 12 months to submit a completed license application to TDI. Miss that window and you have to sit the exam again.
 
 ## How to Come Back Stronger
 
@@ -48,9 +48,10 @@ Give yourself at least 1 to 2 weeks before your next attempt. One day of crammin
 
 Consider where your study approach broke down. Were you spending enough time on Texas state law? Did you underestimate the health insurance section? Adjust your approach, not just the amount of time you're spending.
 
-## 5 Frequently Asked Questions
+## 6 Frequently Asked Questions
 
-- How soon can I retake the Texas insurance exam? There's no mandatory waiting period — you can typically book your next attempt right away. That said, booking it too quickly without additional preparation usually leads to another failed attempt.
+- How soon can I retake the Texas insurance exam? Pearson VUE lets a failed candidate schedule a new exam within one day, so there's effectively no waiting period. That said, booking it that quickly without additional preparation usually leads to another failed attempt.
+- How much does a retake cost in Texas? The same as the original attempt: $49 for General Lines — Life, Accident & Health or General Lines — Property & Casualty, $39 for the Life Agent or Personal Lines P&C exam, $29 for Limited Lines. There is no discounted retake rate.
 - Do I have to redo a [prelicense](/texas/prelicensing) course before retaking? No — prelicensing is optional in Texas either way, so if you completed one it remains valid for reference. You only need to pay the retake fee and schedule a new exam appointment.
 - Will a failed attempt show up on my license application? No. TDI's application process looks at your most recent passing result, not your full attempt history.
 - Is there a limit to how many times I can retake the exam in Texas? Texas does not impose a maximum number of attempts. There is no point at which TDI bars you from trying again.

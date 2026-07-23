@@ -48,15 +48,15 @@ The combined Life and Health Producer exam is most common for new agents pursuin
 
 Passing score: 70% on every Connecticut insurance license exam.
 
-Exam fee: $65 (paid to Pearson VUE at registration).
+Exam fee: $105 for the combined Life & Health exam (12-CT-03), paid to Pearson VUE at registration. Each single-line exam is $65 if you test the lines separately.
 
 ## Choosing the Right Exam
 
 If you're pursuing a combined Life and Health license, you have options:
 
-Take the combined Life and Health exam. Single exam covering both content areas. 145 questions, ~2.5 hours. Most efficient path.
+Take the combined Life and Health exam. Single exam covering both content areas. 95 questions, ~2.5 hours. Most efficient path.
 
-Take Life and Health exams separately. Two separate exams. Allows you to focus on one content area at a time but doubles exam fees and scheduling.
+Take Life and Health exams separately. Two separate exams (85 questions each, 2 hours each). Lets you focus on one content area at a time, but means paying two $65 exam fees instead of a single $105 fee and scheduling two sittings.
 
 For most candidates, the combined exam is the practical choice.
 
@@ -124,7 +124,7 @@ Life insurance policies and provisions
 
 Accident and Health policies and provisions
 
-Connecticut-specific laws (typically 15-25% of exam)
+Connecticut-specific laws (30 of the 80 scored questions — roughly 37% of the combined Life & Health exam)
 
 Annuities
 
@@ -162,7 +162,7 @@ See remaining time on screen
 
 ## Time Management
 
-For the combined Life and Health exam (145 questions, ~2.5 hours), you have approximately 1 minute per question on average. Most prepared candidates finish with time to spare.
+For the combined Life and Health exam (95 questions, ~2.5 hours), you have about a minute and a half per question on average. Most prepared candidates finish with time to spare.
 
 Strategy:
 
@@ -180,15 +180,15 @@ Never leave questions blank — guess rather than skip
 
 If you pass: Your result reports electronically to the Connecticut Insurance Department. You can submit your license application through NIPR.
 
-If you fail: You receive a score report showing performance areas. Use this for diagnostic purposes. You can retake the exam — pay another $65 fee and reschedule.
+If you fail: You receive a score report showing performance areas. Use this for diagnostic purposes. You can retake the exam — pay another $105 fee and reschedule.
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on the Connecticut Life and Health combined exam? 145 questions. You have approximately 2.5 hours to complete them.
+- How many questions are on the Connecticut Life and Health combined exam? 95 questions (80 scored plus 15 unscored pretest). You have approximately 2.5 hours to complete them.
 - What's the passing score? 70% on Connecticut insurance license exams.
-- How much does the Connecticut insurance exam cost? $65 paid to Pearson VUE at registration.
+- How much does the Connecticut insurance exam cost? The combined Life & Health exam is $105, paid to Pearson VUE at registration. Single-line Connecticut producer exams are $65 each.
 - What identification do I need at the testing center? Two valid forms of current signature identification. Primary must be government-issued, photo-bearing, with signature. Names must exactly match your registration.
-- Can I retake the Connecticut exam if I fail? Yes. There's no specific cap on retakes. Each attempt requires another $65 exam fee.
+- Can I retake the Connecticut exam if I fail? Yes. There's no specific cap on retakes. Each attempt requires another exam fee ($105 for the combined Life & Health exam).
 
 ## Walk Into the Connecticut Exam Prepared
 

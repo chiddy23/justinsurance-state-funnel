@@ -90,11 +90,17 @@ Complaints should include copies of all relevant documents — certificates of i
 
 ### The Statutory Obligation
 
-Under §56-53-111 (general insurance) and §56-47-112 (workers' compensation), every insurer authorized to do business in Tennessee must prepare, implement, maintain, and submit an insurance anti-fraud plan to the TDCI. This is not optional — it is a mandatory compliance obligation for every Tennessee-admitted carrier.
+Tennessee imposes the anti-fraud plan obligation through two statutes, and they do not have the same scope. Getting the difference right matters, because the two provisions reach different carriers and impose different filing duties.
+
+§56-53-111 — general insurance: The requirement applies to every insurer with direct written premiums exceeding ten million dollars ($10,000,000). It is a premium-threshold obligation, not a universal one — an admitted Tennessee carrier writing below that threshold is not covered by the general anti-fraud plan mandate. Covered insurers must prepare, implement, and maintain the plan. The statute does not require routine submission of the plan to the TDCI; instead, the Commissioner may review the plan at a financial or market conduct examination or on request, and may require the insurer to file a summary of its anti-fraud activities and results.
+
+§56-47-112 — workers' compensation: This provision is broader and stricter. Under the Workers' Compensation Fraud Act, every insurer must prepare, implement, maintain, and submit to the Department of Commerce and Insurance a workers' compensation insurance anti-fraud plan. There is no premium threshold, and submission to the department is affirmative — not review-on-request.
+
+The exam-testable contrast: general lines are threshold-based ($10 million in direct written premiums) with review-on-request; workers' compensation applies to every insurer with an affirmative filing duty.
 
 ### Required Anti-Fraud Plan Components
 
-Each Tennessee insurer's anti-fraud plan must outline specific procedures to:
+An insurer's anti-fraud plan must outline specific procedures to:
 
 Prevent, detect, and investigate all forms of insurance fraud — including fraud involving the insurer's own employees or agents, fraud resulting from misrepresentations in applications or renewals, claims fraud, and security of the insurer's data processing systems.
 
@@ -122,7 +128,7 @@ Insurer anti-fraud plans specifically address fraud by appointed producers. When
 
 ## The Fraud Warning Requirement on Claim Forms
 
-Tennessee's insurance fraud statutes require that claim forms submitted to Tennessee insurers contain a specific fraud warning statement. Both §56-53-111 and §56-47-112 impose this requirement — for general insurance and workers' compensation respectively.
+Tennessee's insurance fraud statutes require that applications and claim forms contain a specific fraud warning statement. Both §56-53-111 and §56-47-112 impose this requirement — for general insurance and workers' compensation respectively. Note that unlike the anti-fraud plan mandate in §56-53-111(a), the fraud warning requirement in §56-53-111(b) carries no premium threshold: it attaches to the forms themselves, so it reaches every carrier using applications and claim forms in Tennessee. The requirement does not extend to reinsurance contract forms.
 
 The required warning notifies claimants that making a false or fraudulent claim is a crime subject to criminal penalties. While the lack of a fraud warning statement on a form does not constitute a defense in any criminal prosecution under the fraud statutes, the presence of the warning ensures that claimants — and anyone assisting them in completing claim forms, including producers — are on notice of the legal consequences of fraud.
 
@@ -208,4 +214,4 @@ Yes — both can and frequently do happen simultaneously because they operate th
 
 Tennessee's insurance fraud enforcement framework — spanning the general fraud provisions of Chapter 56-53, the workers' compensation fraud provisions of Chapter 56-47, the TDCI's Fraud Investigations Section's dedicated investigative authority, the insurer anti-fraud plan requirement, and the good-faith reporting immunity that protects legitimate reporters — creates a comprehensive system for detecting, investigating, and punishing fraud at every level of the insurance transaction chain. Producers who understand the framework operate with a clear picture of their obligations: refuse to participate in fraud, report suspected fraud through appropriate channels, document their conduct, and rely on the immunity protections Tennessee law provides to good-faith reporters.
 
-Visit JustInsurance to enroll today and complete your Tennessee [prelicensing](/tennessee/prelicensing) with a state-approved course covering every fraud law and enforcement provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Tennessee [prelicensing](/tennessee/prelicensing) with a course built to the current Pearson VUE Tennessee content outline covering every fraud law and enforcement provision tested on the Pearson VUE exam.

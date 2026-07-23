@@ -176,7 +176,7 @@ CE transcript for NFIP training (if approved for CE credit)
 
 Beyond tracking hours, track your renewal date:
 
-Calendar your renewal date prominently. Nevada licenses renew every 3 years, by the last day of your birth month.
+Calendar your renewal date prominently — and calendar the right one. Nevada licenses renew every 3 years, but the expiration date is tied to your license-issuance month, not your birth month. Under NRS 683A.261, your first license runs to the last day of the month three years after the month the Commissioner originally issued it; every renewal after that runs to the last day of the month three years after your previous renewal date. Producers who assume a birth-month deadline routinely miscalculate. Pull the exact expiration date off your license record in Sircon and work backward from that.
 
 Set milestone reminders:
 

@@ -64,5 +64,3 @@ Pass PSI, pay the **$55** resident application fee through Sircon or NIPR immedi
 - [Pennsylvania Code — 31 Pa. Code § 39a.9 (LTC training requirements)](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html&d=reduce)
 - [NIPR — Pennsylvania licensing overview (12-month score validity)](https://nipr.com/licensing-center/state-information/pennsylvania)
 - [PSI — Pennsylvania insurance exam scheduling](https://test-takers.psiexams.com/pa/insurance)
-
-**Word count:** ~1,480 words

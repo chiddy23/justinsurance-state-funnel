@@ -1,3 +1,5 @@
+import { CE_APPROVAL_PHRASE, PRELICENSING_REQUIRED_COUNT } from "@/lib/site-facts";
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
@@ -10,8 +12,23 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Life Insurance License Course | Online | JustInsurance";
 const PAGE_DESC =
-  "Get your life insurance license online. $199 state-approved prelicensing with pass guarantee in eligible states. Self-paced courses available nationwide. Enroll today.";
+  "Get your life insurance license online. $199 course price — state-approved prelicensing where your state requires it, exam prep everywhere else. Pass guarantee in eligible states.";
 const CANONICAL = "https://justinsuranceco.com/life-insurance-license";
+
+/**
+ * All-in cost range for the life line, DERIVED from states.ts rather than
+ * retyped. $199 is the course only; the state exam fee and the DOI application
+ * fee are on top of it, and prelicensing.life.totalCost is the company's own
+ * computed all-in figure per state. New York is excluded because it is not
+ * listed on this page.
+ */
+const LIFE_TOTAL_COSTS = Object.values(STATES)
+  .filter((s) => s.slug !== "new-york")
+  .map((s) => Number(String(s.prelicensing.life.totalCost).replace(/[^0-9.]/g, "")))
+  .filter((n) => Number.isFinite(n) && n > 0);
+const LIFE_TOTAL_COST_RANGE = `$${Math.round(Math.min(...LIFE_TOTAL_COSTS))}–$${Math.round(
+  Math.max(...LIFE_TOTAL_COSTS)
+)}`;
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },
@@ -41,12 +58,12 @@ const faqs = [
   {
     question: "How many prelicensing hours are required for a life insurance license?",
     answer:
-      "Required prelicensing hours for life insurance vary by state — most fall between 20 and 40 hours. Some states have a standalone life-only requirement, while others only offer a combined life and health track. Check your state's page for the exact hour requirement and course options available to you.",
+      "Only 18 of the 50 states require prelicensing for the life line at all; where required, hours range from 8 (Georgia) to 50 (Colorado). Every state that requires life prelicensing sets a standalone life-only hour requirement, so you can always license for life by itself; states that also offer a combined life and health track generally require the two lines' hours added together. A few states — Wisconsin among them — have no combined life and health option at all, and several others require you to sit separate life and health exams rather than one combined exam. Check your state's page for the exact hour requirement and course options available to you.",
   },
   {
     question: "How much can I earn selling life insurance?",
     answer:
-      "Life insurance agents are among the highest-earning professionals in financial services. First-year agents typically earn between $40,000 and $70,000 in commission income, while experienced agents and top producers regularly exceed $100,000 to $250,000 per year. Income scales significantly with your renewal book — clients who keep their policies pay you renewals year after year. Income figures are illustrative and drawn from public labor-market data (e.g., U.S. Bureau of Labor Statistics); they are not a guarantee or representation of earnings, and individual results vary.",
+      "Life insurance is a commission-driven career with wide earnings dispersion: the U.S. Bureau of Labor Statistics reports a median annual wage of $60,370 for insurance sales agents (May 2024), with the highest-paid 10% above $135,660. First-year agents typically earn in the $30,000s to $40,000s in commission income in most states, while experienced agents in the strongest states average around $78,000, and top producers can reach substantially more. Income scales significantly with your renewal book — clients who keep their policies pay you renewals year after year. Income figures are illustrative and drawn from public labor-market data (e.g., U.S. Bureau of Labor Statistics); they are not a guarantee or representation of earnings, and individual results vary.",
   },
   {
     question: "Is a life license required to sell annuities?",
@@ -56,9 +73,9 @@ const faqs = [
 ];
 
 const stats = [
-  { value: "$199", label: "Prelicensing price", sub: "Flat rate, no hidden fees" },
+  { value: "$199", label: "Prelicensing price", sub: `Course price; state exam and DOI fees are paid separately to the state (typical all-in ${LIFE_TOTAL_COST_RANGE})` },
   { value: "93%", label: "First-attempt pass rate", sub: "Among JustInsurance completers" },
-  { value: "49", label: "States covered", sub: "Life exam prep and state-approved CE" },
+  { value: "49", label: "States covered", sub: `Life exam prep; ${CE_APPROVAL_PHRASE}` },
   { value: "$78K", label: "Experienced-agent earnings", sub: "Highest state average in our data; varies widely by state and book" },
 ];
 
@@ -114,7 +131,7 @@ export default function LifeInsuranceLicensePage() {
             Life Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Earn your life insurance license online for $199. State-approved courses covering term, whole life, universal life, and annuities. Pass guarantee included (available in most states).
+            Earn your life insurance license online. Your course is $199 &mdash; the state exam fee and your Department of Insurance application fee are paid separately to the state. Courses cover term, whole life, universal life, and annuities: state-approved prelicensing where your state requires it, exam prep built to the state exam content outline everywhere else. Pass guarantee included (available in most states).
           </p>
           <a
             href="#states"
@@ -123,11 +140,11 @@ export default function LifeInsuranceLicensePage() {
             Find My State
           </a>
           <p className="text-blue-200 text-xs mt-6 max-w-xl mx-auto leading-relaxed">
-            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-white">
               Terms
             </Link>
-            : complete the recommended hours, score 80%+ on the practice exam three times, and sit for your state exam within 30 days of enrolling.
+            : complete the recommended hours, score 80%+ on the practice exam three times in a row, and sit for your state exam within 30 days of enrolling.
           </p>
         </div>
       </section>
@@ -146,10 +163,10 @@ export default function LifeInsuranceLicensePage() {
               A life insurance license gives you the legal authority to sell a broad range of life insurance and annuity products to consumers. This includes term life insurance — the most widely purchased coverage type — as well as permanent products like whole life and universal life insurance that build cash value over time. Most states also require a life insurance license to sell fixed annuities, making this credential the cornerstone of retirement and financial planning practices.
             </p>
             <p>
-              The career opportunity in life insurance is substantial. The U.S. has an estimated 10 million households that are underinsured or have no life coverage at all. Independent agents who build a life insurance book of business benefit from renewal commissions that pay out year after year as clients keep their policies in force — creating a compounding income stream that rewards consistent effort.
+              The career opportunity in life insurance is substantial. LIMRA&apos;s 2025 Insurance Barometer Study estimates that more than 100 million American adults are uninsured or underinsured for life insurance. Independent agents who build a life insurance book of business benefit from renewal commissions that pay out year after year as clients keep their policies in force — creating a compounding income stream that rewards consistent effort.
             </p>
             <p>
-              To sell life insurance legally you must pass the state licensing exam, submit a license application, and receive approval from your state&apos;s Department of Insurance &mdash; and in the 17 states that mandate it, complete a state-approved prelicensing course first. JustInsurance provides the prelicensing education for this process — online, self-paced, and at a flat $199 with no hidden fees. Select your state below to see the specific course hours required and what the exam covers.
+              To sell life insurance legally you must pass the state licensing exam, submit a license application, and receive approval from your state&apos;s Department of Insurance &mdash; and in the {PRELICENSING_REQUIRED_COUNT} states that mandate it, complete a state-approved prelicensing course first. JustInsurance provides the prelicensing education for this process — online, self-paced, and at a flat $199 course price. The state exam fee and your Department of Insurance application fee are charged separately by the state and the exam vendor, which puts the typical all-in cost at roughly {LIFE_TOTAL_COST_RANGE} depending on where you license. Select your state below to see the specific course hours required and what the exam covers.
             </p>
           </div>
         </div>

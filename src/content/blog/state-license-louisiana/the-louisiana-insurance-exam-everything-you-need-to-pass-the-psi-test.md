@@ -24,9 +24,7 @@ PSI Services LLC administers all Louisiana Department of Insurance producer lice
 
 ## Exam Fees by Line of Authority
 
-The Louisiana insurance exam fee is $36 per attempt, regardless of line of authority. Fees are paid at the time of reservation by credit card, debit card, voucher, or electronic check and are non-refundable — you must pay the fee again for each retake.
-
-⚠️ Question counts and time allocations for Health & Accident and combined L/H&A exams — verify in the current PSI Candidate Handbook at test-takers.psiexams.com/ladi.
+The Louisiana insurance exam fee is $36 per attempt for a single line of authority, paid at the time of reservation by credit card, debit card, voucher, or electronic check. Fees are non-refundable — you must pay the fee again for each retake.
 
 ## Passing Score and Retake Policy
 

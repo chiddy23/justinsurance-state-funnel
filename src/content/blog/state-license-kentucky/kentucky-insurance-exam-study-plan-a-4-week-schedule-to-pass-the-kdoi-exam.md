@@ -36,7 +36,7 @@ Action items for Week 2: sign and date your Form CPL-01, confirm that the KDOI h
 
 Your application is processing, and you have one to two weeks before your exam appointment. Work through full-length practice exams covering all topic areas. Track your performance by category — general insurance knowledge versus Kentucky law — and identify which areas need reinforcement.
 
-Dedicate at least two study sessions specifically to Kentucky statutory content: KRS 304.39 (auto no-fault, minimums, UM/UIM, comparative negligence), KRS Chapter 342 (workers' comp threshold, NCCI, KEMI, DWC, felony penalty), 806 KAR 12:120 (Annuity Best Interest effective January 1, 2022), and the KDOI producer licensing framework (CE obligations, grounds for revocation, unfair trade practices).
+Dedicate at least two study sessions specifically to Kentucky statutory content: KRS 304.39 (auto no-fault, minimums, UM/UIM, comparative negligence), KRS Chapter 342 (workers' comp threshold, NCCI, KEMI, DWC, per-employee/per-day civil penalties), 806 KAR 12:120 (Annuity Best Interest effective January 1, 2022), and the KDOI producer licensing framework (CE obligations, grounds for revocation, unfair trade practices).
 
 ## Week 4: Final Review and Exam
 

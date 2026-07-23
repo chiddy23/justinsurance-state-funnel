@@ -26,19 +26,17 @@ Business entities: Agencies, corporations, partnerships, and limited liability c
 
 Exemptions from the licensing requirement: Several categories of activity do not require an insurance producer license under Tennessee law:
 
-Employees of insurers who do not receive commission and whose duties are limited to clerical or administrative functions
+Officers, directors, or employees of an insurer or of an insurance producer who do not receive commission on policies and whose duties are executive, administrative, managerial, or clerical
 
-Licensed attorneys whose insurance-related activities are incidental to their legal practice
+Salaried full-time employees who counsel or advise their own employer on the employer's insurance interests, without selling, soliciting, or negotiating insurance for others
 
-Officers, directors, or employees of insurers who do not receive commission for selling insurance
+Persons who secure and furnish information for group insurance, or who enroll individuals under a group plan, without receiving a commission for that activity
 
-Persons whose activities are limited to providing general information about insurance without specific product recommendations
-
-The exemption lines in Tennessee are narrowly drawn. Any individual who receives compensation for placing or facilitating the placement of insurance should assume licensure is required and confirm their status with the TDCI before transacting business.
+The full list of exemptions is set out at Tenn. Code Ann. § 56-6-104(b), and it is narrowly drawn. Note what is not on it: Tennessee has no general licensing exemption for attorneys. An attorney who sells title insurance ancillary to the practice of law is treated as a limited insurance producer who must still obtain a license from the TDCI — though that limited license requires no written examination. Any individual who receives compensation for placing or facilitating the placement of insurance should assume licensure is required and confirm their status with the TDCI before transacting business.
 
 ## The Regulatory Authority: Tennessee Department of Commerce and Insurance
 
-The Tennessee Department of Commerce and Insurance (TDCI) is the state agency responsible for licensing, regulating, and disciplining insurance producers in Tennessee. Unlike Minnesota, which integrates insurance regulation within a broader Department of Commerce covering multiple financial services industries, Tennessee's TDCI has a broader consumer protection mandate that includes insurance, securities, banking, and professional licensing — but the insurance division operates with dedicated staff and resources.
+The Tennessee Department of Commerce and Insurance (TDCI) is the state agency responsible for licensing, regulating, and disciplining insurance producers in Tennessee. Unlike states that maintain a standalone Department of Insurance, Tennessee houses insurance regulation inside a multi-industry department — the same structural approach Minnesota takes with its Department of Commerce. TDCI's mandate spans insurance, securities, banking, and a range of professional licensing boards, but the insurance division operates with dedicated staff and resources.
 
 TDCI contact information:
 
@@ -62,7 +60,7 @@ Chapter 8: Unfair Trade Practices and Unfair Claims Settlement Act — the statu
 
 ## License Types: What Each Line of Authority Covers
 
-Tennessee issues producer licenses by individual line of authority. Understanding exactly what each line covers — and what it does not cover — is essential for choosing the right license at the start of your career and for advising clients about which coverage a specific producer is authorized to place.
+Tennessee issues a single producer license that carries one or more lines of authority — you do not receive a separate license for each line. Understanding exactly what each line covers — and what it does not cover — is essential for choosing the right lines to carry at the start of your career and for advising clients about which coverage a specific producer is authorized to place.
 
 ### Life
 
@@ -160,23 +158,33 @@ Title insurance is a separate line requiring its own license. Title insurance pr
 
 ## The Exam Requirements: Line by Line
 
-Tennessee administers all insurance licensing exams through Pearson VUE. There is no mandatory [prelicensing](/tennessee/prelicensing) education — candidates may sit for the exam without completing any prescribed course. The pass score for all Tennessee insurance exams is 70% on the scored questions.
+Tennessee administers all insurance licensing exams through Pearson VUE. There is no mandatory [prelicensing](/tennessee/prelicensing) education — candidates may sit for the exam without completing any prescribed course.
+
+### The Passing Standard: A Scaled Score of 70
+
+Tennessee's passing standard is a **scaled score of 70** — not 70% of the questions answered correctly. This distinction is not a technicality, and candidates routinely misread it.
+
+Pearson VUE equates each exam form to correct for small differences in difficulty between versions, then scales the resulting raw score onto a common 0–100 reporting scale. The Tennessee candidate handbook states it plainly: "The scaled score that is reported is neither the number of questions answered correctly (the raw score) nor the percentage of questions answered correctly." TDCI selected 70 as the reported passing score.
+
+The practical consequence: you cannot set a target like "I need 48 of 68 correct." The raw number of correct answers that produces a scaled 70 depends on the difficulty of the form you draw. Prepare to command the content outline, not to clear an arithmetic threshold.
 
 ### Exam Structure
 
-Every Tennessee insurance exam consists of:
+Per the Pearson VUE Tennessee candidate handbook, the Life exam consists of:
 
-68 scored questions that determine your pass/fail result
+50 scoreable general-knowledge questions plus 5 pretest questions
 
-9 pretest questions that are unscored and are being evaluated for future exam use
+18 scoreable Tennessee-specific law questions plus 4 pretest questions
 
-77 total questions presented without identification of which are scored and which are pretest
+68 scoreable and 9 pretest questions in total — 77 items presented without identifying which are which
 
-1 hour and 45 minutes to complete each exam
+Pretest questions are unscored; Pearson VUE is collecting statistical data on them for future exam forms.
+
+Time allotted is 1 hour and 45 minutes for each major line exam (Life, Accident and Health, Property, and Casualty), and 2 hours for Personal Lines. The scoreable/pretest split varies by line — check the content outline for your specific exam in the current handbook.
 
 ### Exam Fees
 
-Each line requires a separate exam and a separate fee. There are no combination exams in Tennessee — Life and A&H are tested separately, and Property and Casualty are tested separately. Multiple exams can be taken in a single testing session on the same day.
+Each line has its own exam and its own fee. A single-line exam — Life, Accident and Health, Property, Casualty, Personal Lines, or Title — is $55; Public Adjuster is $50. Tennessee does offer combination reservations, but only through OnVUE remote testing: Life and Accident & Health together is $80, Property and Casualty together is $80, and either of those pairings with Title added is $125. At a test center, by contrast, the handbook is explicit that each single-line exam must be taken alone in one session — you can still book two appointments on the same day, but you pay $55 for each. A combination reservation does not merge the lines into one test; you sit each line exam and each is scored independently.
 
 ### Retakes
 
@@ -184,7 +192,9 @@ Tennessee allows unlimited exam retakes — there is no cap on the number of att
 
 ### Score Reports
 
-Pearson VUE delivers score reports immediately after exam completion — before you leave the testing center or close your remote session. A pass or fail result appears on screen with your scaled score. You do not need to wait for results by mail or email.
+Pearson VUE delivers score reports immediately after exam completion — before you leave the testing center or close your remote session. You do not need to wait for results by mail or email.
+
+Note how the report differs by outcome: candidates who pass receive a report that simply reads "pass," with no numeric score attached. Candidates who fail receive a numeric scaled score along with diagnostic information for each major content area, which you can map against the handbook's content outline to target your retake study.
 
 ### Scheduling
 
@@ -248,11 +258,11 @@ Tennessee requires applicants to wait at least 48 hours after passing the exam b
 
 ### Application Fees
 
-A candidate applying for Property and Casualty pays $100 in state application fees ($50 per line) plus the $5.60 NIPR fee plus the $37.15 fingerprinting cost. A candidate applying for all four major lines pays $200 in state application fees plus processing costs.
+A candidate applying for Property and Casualty in a single application pays one $50 state filing fee — the TDCI charges a single $50 filing fee per application, not per line of authority — plus the $5.60 NIPR fee plus the $37.15 fingerprinting cost. A candidate applying for all four major lines in one application pays that same single $50 filing fee. (Only if you file at separate times does the fee repeat: adding a line later in its own application carries its own $50 filing fee.)
 
 ### Processing Time
 
-The TDCI typically processes applications within 2–5 business days for standard applications submitted electronically through NIPR. Applications that require additional background check review or manual TDCI review can take up to 15 business days. Business entity license applications may take longer.
+The TDCI typically processes applications submitted electronically through NIPR within 10 business days. Paper applications take about 15 days from receipt in the Agent Licensing Section, and applications that require additional background-check review or manual TDCI review can take longer. Business entity license applications may take longer as well.
 
 ### What the Application Requires
 
@@ -272,7 +282,7 @@ Confirmation of completed fingerprinting (the IdentoGO appointment must be compl
 
 ### License Term
 
-Tennessee insurance producer licenses are valid for two years from the date of issuance and expire on the last day of the producer's birth month in the renewal year. A producer born in June who receives their license in any month will always renew by June 30 of their renewal year.
+Tennessee insurance producer licenses run on a two-year renewal cycle and expire on the last day of the producer's birth month — not on the anniversary of the issue date. A producer born in June will always renew by June 30 of their renewal year regardless of the month the license was originally issued, which means the first license term is usually somewhat shorter or longer than a clean 24 months. Do not calculate your deadline by counting two years forward from issuance; go by the expiration date on the license record.
 
 ### Continuing Education
 
@@ -286,11 +296,11 @@ Tennessee has no mandatory classroom hour minimum — all 24 hours can be comple
 
 ### Renewal Fee
 
-The TDCI renewal fee is not publicly posted — check your NIPR renewal screen or contact the TDCI for the current amount. Renewal is submitted through NIPR.
+The TDCI renewal fee is $60 for a license carrying at least one major line or Title ($30 for limited-line-only licenses), paid through NIPR at the time of renewal, plus the small NIPR transaction fee. Renewal is submitted through NIPR.
 
-### Grace Period and Late Renewal
+### Late Renewal (There Is No Grace Period)
 
-Tennessee provides a 60-day grace period after the license expiration date during which the license can be renewed with no additional fee. After the 60-day grace period, late renewal is possible for up to one year after expiration — but a late fee applies (the TDCI does not publicly post the exact amount — contact the TDCI directly). After one year of expiration, the license cannot be renewed and the producer must apply for a new license, including passing the exam again.
+Tennessee producer licenses have no post-expiration grace period. The renewal window runs from 90 days before the expiration date through the expiration date itself; a renewal submitted on or before the expiration date is a standard renewal. Miss the expiration date and you are into late renewal — available for up to one year past expiration, and under Tenn. Code Ann. § 56-6-107(d) a renewal fee received after the due date carries a penalty of double the unpaid renewal fee: $120 for a license carrying at least one major line or Title, and $60 for a limited-line-only license. After one year of expiration, late renewal is no longer available and the producer must apply for a new license, including passing the exam again.
 
 ### Specialty Training Requirements
 
@@ -316,9 +326,9 @@ Transacting before appointment: A producer who sells, solicits, or negotiates in
 
 ## Frequently Asked Questions
 
-I passed the Property exam but not the Casualty exam on the same day. Do I get a partial license for Property only?
+I passed the Property exam but not the Casualty exam on the same day. Can I get licensed for Property only?
 
-Yes. Tennessee issues licenses by individual line of authority. If you passed Property but not Casualty, you may apply for the Property license alone and add Casualty later after passing that exam. You will pay a separate $50 application fee for each line when you apply. There is no requirement to hold both Property and Casualty simultaneously — you can hold one without the other and add the second when ready. Most producers who want a full P&C practice do eventually hold both, but the licensing process does not require them to be obtained at the same time.
+Yes. Tennessee issues one producer license that carries the lines of authority you qualify for, and it will issue with just the Property line if that is all you have passed. If you passed Property but not Casualty, you can apply now for a license carrying only the Property line and add the Casualty line of authority later, after you pass that exam. You will pay the $50 filing fee on each application you submit — one when you apply for Property now, and another when you later file the amendment to add Casualty, because those are two separate filings rather than one. There is no requirement to carry both the Property and Casualty lines at once — you can hold a license with just one line and add the second when ready. Most producers who want a full P&C practice do eventually carry both lines, but the licensing process does not require them to be obtained at the same time.
 
 I have a misdemeanor conviction from several years ago. Will this prevent me from getting a Tennessee insurance license?
 
@@ -326,8 +336,8 @@ Not necessarily — Tennessee evaluates criminal history on a case-by-case basis
 
 How long does my Tennessee license remain valid if I never renew it?
 
-Your Tennessee license expires on the last day of your birth month in the biennial renewal year. After expiration, you have a 60-day grace period to renew with no late fee. After the grace period, you can renew for up to one year past expiration by paying a late fee (contact the TDCI for the current amount, since it is not publicly posted). After one full year past expiration, the license is permanently lapsed and you must apply for a new license — including passing the Pearson VUE exam again for each line you want to hold. The practical message is that renewal is far less costly in time, money, and disruption than letting a license lapse beyond the one-year late renewal window. Set calendar reminders well before your birth month renewal deadline, complete your 24 CE hours at least 30 days before expiration, and renew through NIPR before the deadline.
+Your Tennessee license expires on the last day of your birth month in the biennial renewal year. There is no grace period for producer licenses — a renewal is on time only if it is submitted on or before the expiration date. Miss it and you are into late renewal, which is available for up to one year past expiration and, under Tenn. Code Ann. § 56-6-107(d), carries a penalty of double the unpaid renewal fee — $120 for a major-line or Title license ($60 for a limited-line-only license). After one full year past expiration, the license is permanently lapsed and you must apply for a new license — including passing the Pearson VUE exam again for each line you want to hold. The practical message is that renewal is far less costly in time, money, and disruption than letting a license lapse beyond the one-year late renewal window. Set calendar reminders well before your birth month renewal deadline, complete your 24 CE hours at least 30 days before expiration, and renew through NIPR before the deadline.
 
 Tennessee's insurance licensing requirements are structured to be accessible — no mandatory prelicensing, a clear four-step process, immediate exam results, and a reasonable fee structure — while maintaining the professional standards that protect Tennessee policyholders. Every requirement in the process serves a specific purpose: the exam verifies minimum knowledge of insurance products and Tennessee law, the background check protects consumers from producers with disqualifying histories, the appointment requirement ensures that producers represent only carriers who have authorized their activities, and the CE requirement ensures that licensed producers maintain current knowledge throughout their careers. Applicants who understand every requirement before they begin move through the process efficiently, without the delays and additional costs that avoidable errors produce.
 
-Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course — and enter the licensing process fully prepared for every step.
+Visit JustInsurance to enroll today and complete your Tennessee exam prep built around the current Pearson VUE content outlines — and enter the licensing process fully prepared for every step.

@@ -1,6 +1,6 @@
 ---
 title: "Tennessee Life Insurance Exam: Full Content Breakdown and Strategy Guide"
-description: The Tennessee Life insurance licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passe...
+description: The Tennessee Life insurance licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and requires a passing scaled score of 70 (not 70% of questions correct). A full content and strategy breakdown.
 keyword: tennessee life insurance exam full content breakdown and
 targetKeywords: tennessee life insurance exam full content breakdown and
 cluster: state-license-tennessee
@@ -12,7 +12,7 @@ image: /blog/images/find-the-best-tennessee-insurance-pre-licensing-courses-toda
 imageAlt: "Tennessee Life Insurance Exam: Full Content Breakdown and Strategy Guide"
 ---
 
-The Tennessee Life insurance licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passed at 70% to earn Life line of authority from the Tennessee Department of Commerce and Insurance. No mandatory [prelicensing](/tennessee/prelicensing) course is required before sitting for the exam. That combination — a substantive exam with no required preparation structure — means the candidates who pass on the first attempt are those who understand exactly what the exam tests and have prepared for both the general life insurance content and the Tennessee state law section with equal discipline. This post provides the complete content breakdown for the Tennessee Life exam: every topic area, what each tests at the level of specificity the exam requires, how question weight is distributed, and the strategic approach that produces first-time passing scores.
+The Tennessee Life insurance licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and requires a passing scaled score of 70 (on Pearson VUE's 0–100 reporting scale, not 70% of questions answered correctly) to earn the Life line of authority from the Tennessee Department of Commerce and Insurance. No mandatory [prelicensing](/tennessee/prelicensing) course is required before sitting for the exam. That combination — a substantive exam with no required preparation structure — means the candidates who pass on the first attempt are those who understand exactly what the exam tests and have prepared for both the general life insurance content and the Tennessee state law section with equal discipline. This post provides the complete content breakdown for the Tennessee Life exam: every topic area, what each tests at the level of specificity the exam requires, how question weight is distributed, and the strategic approach that produces first-time passing scores.
 
 ## The Two-Section Structure of the Tennessee Life Exam
 
@@ -22,7 +22,7 @@ Section 1 — General Life Insurance Concepts: Tests foundational knowledge of l
 
 Section 2 — Tennessee State Laws and Regulations: Tests specific knowledge of Tennessee's insurance regulatory framework — TCA Title 56, the TDCI's authority, producer licensing requirements, and Tennessee-specific statutory provisions. This section cannot be answered from general life insurance knowledge. It requires explicit study of Tennessee law.
 
-Both sections contribute to the single pool of 68 scored questions. Both must be understood to pass. The most common failure pattern on the Tennessee Life exam is a candidate who prepared thoroughly for the general section but treated the state law section as an afterthought — and fell below 70% because of state law question losses they did not anticipate.
+Both sections contribute to the single pool of 68 scored questions. Both must be understood to pass. The most common failure pattern on the Tennessee Life exam is a candidate who prepared thoroughly for the general section but treated the state law section as an afterthought — and fell short of the passing scaled score of 70 because of state law question losses they did not anticipate.
 
 ## General Section: Life Insurance Products
 
@@ -158,7 +158,7 @@ Misstatement of age or sex: If the insured's age or sex was misstated on the app
 
 Suicide clause: If the insured dies by suicide within the policy's suicide exclusion period — typically two years — the insurer returns premiums paid rather than paying the full death benefit. After the exclusion period, suicide is a covered cause of death. The two-year standard is specifically testable.
 
-Free look period: The policyholder may return the policy within the free look period for a full premium refund. The standard free look period is 10 days from policy delivery. For replacement policies, the free look period extends to 30 days. The replacement-specific 30-day extension is frequently tested.
+Free look period: The policyholder may return the policy within the free look period for a full premium refund. The standard free look period is 10 days from policy delivery. For replacement policies, the free look period extends to 20 days. The replacement-specific 20-day extension is frequently tested.
 
 Automatic premium loan: An optional provision that automatically uses the policy's cash value to pay a premium if it is not paid by the end of the grace period — preventing unintentional lapse. Available only on permanent policies with cash value. The loan accrues interest against the cash value.
 
@@ -270,7 +270,7 @@ Provide the applicant with a copy of the Comparison Document
 
 Leave a copy of the completed applications with the applicant
 
-The 30-day free look on replacement policies: Replacement policies include a 30-day free look period — double the standard 10-day free look — giving policyholders additional time to compare the new and old policies and reverse the decision if the replacement was not advantageous.
+The 20-day free look on replacement policies: Replacement policies include a 20-day free look period — double the standard 10-day free look — giving policyholders additional time to compare the new and old policies and reverse the decision if the replacement was not advantageous.
 
 Twisting: Misrepresenting the terms or conditions of an existing policy — or the performance of an existing insurer — to induce a policyholder to replace coverage. Twisting is a violation of Tennessee's Unfair Trade Practices Act (TCA Title 56, Chapter 8) and a ground for license discipline under TCA §56-6-112.
 
@@ -308,7 +308,7 @@ High-priority topics — deepest study:
 
 Policy types: term (all variations), whole life (all variations), universal life (Option A and B), variable products
 
-Policy provisions: grace period, reinstatement, incontestability, suicide clause, misstatement of age, free look (10 days standard, 30 days replacement)
+Policy provisions: grace period, reinstatement, incontestability, suicide clause, misstatement of age, free look (10 days standard, 20 days replacement)
 
 Non-forfeiture options: cash surrender, reduced paid-up, extended term
 
@@ -350,7 +350,7 @@ Daily flashcard drill: 10–15 minutes per day reviewing all state law flashcard
 
 Take your first full-length [practice exam](/tennessee/practice-exam) after completing initial content coverage — not before, and not after partial coverage. Use the results to identify your three weakest topic areas and allocate your final study period to those areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping for the evening.
 
-The readiness threshold: Three consecutive practice exams at 80% or above. At that level of practice performance, the 70% pass threshold on the actual exam is reachable even accounting for test-day performance variation.
+The readiness threshold: Three consecutive practice exams at 80% or above. At that level of practice performance, the passing scaled score of 70 on the actual exam is reachable even accounting for test-day performance variation.
 
 ## Frequently Asked Questions
 
@@ -366,6 +366,6 @@ The incontestability clause says the insurer cannot contest coverage after two y
 
 No — and this is a specifically testable nuance. The incontestability clause prevents the insurer from voiding coverage based on misrepresentation after two years. It does not protect fraudulent misrepresentation. If an applicant provided false information about their age, smoking status, or medical history — even materially false information — the insurer cannot use that misrepresentation to deny a claim after the two-year contestability period expires. However, if the misrepresentation was made with fraudulent intent — deliberate deception with knowledge of falsity — most state courts and policy language allow the insurer to contest even after two years. Tennessee's exam tests the standard rule: incontestability bars contests based on misrepresentation after two years except for fraud. Know both the rule and the fraud exception.
 
-The Tennessee Life insurance exam is a comprehensive test of both product knowledge and Tennessee statutory law. Candidates who prepare for both sections with equal depth — who can explain the difference between Option A and Option B universal life with precision, who know Tennessee's bad faith penalty to the specific percentage, and who can recall the 15-day appointment filing window without hesitation — are the candidates who reach the 70% threshold and earn their Life line of authority on the first attempt.
+The Tennessee Life insurance exam is a comprehensive test of both product knowledge and Tennessee statutory law. Candidates who prepare for both sections with equal depth — who can explain the difference between Option A and Option B universal life with precision, who know Tennessee's bad faith penalty to the specific percentage, and who can recall the 15-day appointment filing window without hesitation — are the candidates who reach the passing scaled score of 70 and earn their Life line of authority on the first attempt.
 
-Visit JustInsurance to enroll today and complete your Tennessee Life exam prep with a state-approved course designed for Pearson VUE — the foundation for a first-time passing score.
+Visit JustInsurance to enroll today and complete your Tennessee Life exam prep with a course built to the current Pearson VUE Tennessee content outline — the foundation for a first-time passing score.

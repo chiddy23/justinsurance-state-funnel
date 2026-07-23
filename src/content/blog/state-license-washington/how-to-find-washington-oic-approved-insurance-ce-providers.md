@@ -16,7 +16,7 @@ imageAlt: >-
   washington oic-approved insurance ce providers.
 ---
 
-Completing Washington's 24-hour CE requirement starts with finding OIC-approved providers whose courses count toward your compliance. Washington's CE system has practical features worth understanding — OIC updates its approved provider list twice a year, course numbers for LTC and annuity courses are standardized across all providers making duplicate detection straightforward, providers must report completions within 10 business days, and the OIC's online transcript system lets you verify credit posting before submitting your renewal. Here's how to find and work with OIC-approved Washington CE providers.
+Completing Washington's 24-hour CE requirement starts with finding OIC-approved providers whose courses count toward your compliance. Washington's CE system has practical features worth understanding — OIC updates its approved provider list twice a year, every approved course carries its own OIC course number and you cannot earn credit for the same course number twice in one renewal cycle, providers must report completions within 10 days, and the OIC's online transcript system lets you verify credit posting before submitting your renewal. Here's how to find and work with OIC-approved Washington CE providers.
 
 ## Why OIC Approval Matters
 
@@ -48,11 +48,11 @@ Course credit type. Verify whether the course credits are Ethics, General, LTC, 
 
 Credit hours. Confirm exactly how many hours the course awards.
 
-Course number. OIC tracks completions by course number. Because LTC and annuity course numbers are standardized across all providers, confirm your course number before enrolling to avoid inadvertent duplication.
+Course number. OIC tracks completions by course number, and each approved course has its own. Ask for the course number before you enroll and check it against what you have already completed this cycle — the OIC's own guidance warns that many courses have similar titles, so title alone will not tell you whether you are repeating something.
 
 Progressive completion enforcement. Washington requires sequential progression through course content. Verify the provider's platform enforces this.
 
-Reporting timeline. How quickly does the provider report to OIC? Within 10 business days is the standard expectation. Faster is better given the importance of transcript verification before renewal submission.
+Reporting timeline. How quickly does the provider report to OIC? The rule is 10 days from course completion, so that is the outside expectation — faster is better given the importance of transcript verification before renewal submission.
 
 Refund and completion policy. Reputable providers have clear refund policies and completion timelines.
 
@@ -98,11 +98,7 @@ Within your current renewal cycle: Cannot take the same course number twice and 
 
 Across renewal cycles: OIC removed the prior 3-year restriction. You can now take Course #XYZ123 in your current cycle even if you completed it in your previous cycle.
 
-LTC and Annuity courses — same numbers across providers: Course numbers for the initial 8-hour LTC course and the 4-hour Annuity Best Interest course are standardized — they're the same across all providers. This means:
-
-If you take the 8-hour LTC course from Provider A, you cannot take the same course from Provider B within the same cycle (same course number = duplicate)
-
-The 4-hour LTC ongoing refresher IS exempt from this rule — it can be taken each renewal cycle as required
+Specialty courses follow the same rule: The initial 8-hour LTC course and the 4-hour Annuity Best Interest course are each approved and numbered like any other Washington CE course, and the same-course-number restriction applies to them within a cycle. Note that course numbers are assigned per approved course — two providers offering LTC training are offering two separately approved courses with two different numbers, so do not assume that comparing titles tells you whether you have already earned the credit. Check the number.
 
 Practical workflow: When selecting courses, note the course number. Keep a simple record of course numbers completed in your current cycle to avoid duplication.
 
@@ -118,7 +114,7 @@ Before submitting renewal: Verify your transcript shows all 24 hours (including 
 
 Washington providers must report CE completions to OIC:
 
-Standard timeline: Within 10 business days of course completion
+Required timeline: Within 10 days of course completion — the OIC requires rosters to be submitted electronically within 10 days, and repeated violations of the 10-day roster rule can draw enforcement action
 
 Some providers: Same day or next business day processing
 
@@ -188,12 +184,12 @@ Complete CE first — then apply. Washington explicitly requires CE to be comple
 
 - How often does OIC update the approved CE provider list? Twice a year. Always verify a provider's current approval status against the most recent OIC list at insurance.wa.gov before enrolling.
 - Do Annuity Best Interest and Flood training hours count toward my 24-hour CE requirement? Per OIC guidance, these specialty training requirements are separate from the standard 24-hour CE requirement. Completing them does not reduce your general CE obligation — budget for 24 CE hours plus any applicable specialty training separately.
-- How quickly do Washington CE providers report completions to OIC? Most providers report within 10 business days of completion; many report same day or next business day. OIC strongly recommends completing CE at least 30 days before your renewal deadline to ensure reporting and transcript posting are complete.
+- How quickly do Washington CE providers report completions to OIC? The OIC requires the roster to be submitted within 10 days of course completion, and many providers report same day or next business day. OIC strongly recommends completing CE at least 30 days before your renewal deadline to ensure reporting and transcript posting are complete.
 - What do I do if my CE credits don't appear in my OIC transcript? Contact your provider first — they're responsible for reporting to OIC. If the provider confirms reporting and credits still don't appear, contact OIC's CE team at insedu@oic.wa.gov or (360) 725-7144.
 - Can I complete all 24 Washington CE hours through online self-study? Yes. Washington has no classroom or live instruction requirement. All 24 hours — including the 3 ethics hours — can be completed through self-paced online courses from OIC-approved providers.
 
 ## Choose the Right Washington CE Provider the First Time
 
-Provider selection affects both compliance reliability and educational quality. At JustInsurance, our Washington CE courses are OIC-approved with reliable reporting, Washington-specific content, and transparent pricing.
+Provider selection affects both compliance reliability and educational quality — and the first filter is always the same one this post opened with: is the provider on the OIC's current approved list? Apply that test to every provider you consider, including us.
 
-Enroll today and complete your Washington CE with confidence.
+To be straightforward about our own status: JustInsurance does not currently hold Washington OIC CE provider approval. Our Washington application is pending, and until the OIC grants it we cannot and do not represent that a JustInsurance course will earn Washington CE credit. For the renewal cycle in front of you, complete your 24 hours — including your 3 ethics hours and any LTC, annuity, or flood training you need — through a provider on the OIC's current approved list at insurance.wa.gov, and verify the credits post to your OIC transcript before you submit your renewal. If you want a second opinion on a provider's approval status, the OIC's CE team will confirm it directly at insedu@oic.wa.gov or (360) 725-7144.

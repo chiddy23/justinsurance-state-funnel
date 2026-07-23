@@ -1,3 +1,4 @@
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
@@ -10,7 +11,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Life & Health Insurance License | Combined | JustInsurance";
 const PAGE_DESC =
-  "Get your combined life and health insurance license online. $199 state-approved prelicensing with pass guarantee in eligible states. The most popular license type nationwide.";
+  "Get your combined life and health insurance license online. $199 state-approved prelicensing with pass guarantee in eligible states. One of the most popular license types nationwide.";
 const CANONICAL = "https://justinsuranceco.com/life-and-health-insurance-license";
 
 export const metadata: Metadata = {
@@ -34,14 +35,14 @@ export const metadata: Metadata = {
 
 const faqs = [
   {
-    question: "Why is the combined life and health license the most popular choice?",
+    question: "Why is the combined life and health license such a popular choice?",
     answer:
-      "The combined life and health license is the most popular starting point for new agents because it unlocks the widest possible product portfolio in a single step. Rather than limiting yourself to either life products or health products, you can serve clients across term and permanent life insurance, annuities, disability income, long-term care, major medical, Medicare Supplement, and Medicare Advantage — all under one license. This breadth maximizes your earning potential and gives you the flexibility to serve clients at every stage of life.",
+      "The combined life and health license is a popular starting point for new agents because it unlocks the widest life and health product portfolio in a single step. Rather than limiting yourself to either life products or health products, you can serve clients across term and permanent life insurance, annuities, disability income, long-term care, major medical, Medicare Supplement, and Medicare Advantage — all under one license. This breadth maximizes your earning potential and gives you the flexibility to serve clients at every stage of life.",
   },
   {
     question: "Does completing a combined course take significantly longer than a single line?",
     answer:
-      "Yes, but not dramatically. Most states require between 30 and 40 hours for a combined life and health prelicensing course, compared to 20 to 30 hours for a single line of authority. The additional time is well worth it — you complete more education once and receive authorization to sell a much broader product set, avoiding the need to return for a second course later.",
+      "Yes, where prelicensing hours are mandated. Prelicensing education is required in only about 18 states — the rest treat a course as optional exam prep. In the states that do require it, a combined life and health course typically runs around 40 hours (more in a few states such as Florida and Colorado), compared to roughly 20 hours for a single line of authority. The additional time is well worth it — you complete more education once and receive authorization to sell a much broader product set, avoiding the need to return for a second course later.",
   },
   {
     question: "Do I take one exam or two with a combined license?",
@@ -51,14 +52,14 @@ const faqs = [
   {
     question: "Can I start selling with a life and health license right away after passing?",
     answer:
-      "Once your state approves your license application, you are authorized to sell the products covered under your license. However, before selling specific carrier products — especially Medicare plans — you typically need to be appointed by that carrier and complete any required product certifications. For Medicare Advantage and Part D specifically, annual AHIP certification is required by CMS.",
+      "Once your state approves your license application, you are authorized to sell the products covered under your license. However, before selling specific carrier products — especially Medicare plans — you typically need to be appointed by that carrier and complete any required product certifications. For Medicare Advantage and Part D specifically, CMS requires the plan to provide annual training and testing to the agents who sell its products (42 C.F.R. §§ 422.2274, 423.2274); most carriers meet this by accepting AHIP certification, though AHIP is a private vendor and some carriers accept NABIP or their own training instead.",
   },
 ];
 
 const stats = [
   { value: "$199", label: "Prelicensing price", sub: "One price, both lines of authority" },
   { value: "93%", label: "First-attempt pass rate", sub: "Among JustInsurance completers" },
-  { value: "#1", label: "Most popular license type", sub: "Chosen by the majority of new agents" },
+  { value: "#1", label: "Most popular with our students", sub: "The most common first license our students choose" },
   { value: "2× products", label: "Broader product portfolio", sub: "Life + health under one credential" },
 ];
 
@@ -108,13 +109,13 @@ export default function LifeAndHealthInsuranceLicensePage() {
       <section className="bg-navy text-white py-16 md:py-24 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-gold font-semibold text-sm uppercase tracking-widest mb-4">
-            Most Popular License Type
+            One of the Most Popular License Types
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
             Life &amp; Health Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Get the broadest insurance license available for $199. One combined course covers life, health, disability, LTC, annuities, and Medicare. Pass guarantee included (available in most states).
+            Get the broadest life and health insurance license available for $199. One combined course covers life, health, disability, LTC, annuities, and Medicare. Pass guarantee included (available in most states).
           </p>
           <a
             href="#states"
@@ -123,7 +124,7 @@ export default function LifeAndHealthInsuranceLicensePage() {
             Find My State
           </a>
           <p className="text-blue-200 text-xs leading-relaxed mt-6 max-w-xl mx-auto">
-            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-gold">
               Terms
             </Link>
@@ -143,13 +144,13 @@ export default function LifeAndHealthInsuranceLicensePage() {
           </h2>
           <div className="space-y-5 text-gray-700 leading-relaxed text-base">
             <p>
-              The combined life and health insurance license is the single most popular license type for new and experienced agents alike — and for good reason. Instead of limiting yourself to one product category, a combined license authorizes you to sell the full spectrum of personal insurance products: term and permanent life insurance, fixed annuities, individual and group major medical plans, disability income insurance, long-term care insurance, Medicare Supplement plans, and Medicare Advantage plans. This breadth means you can serve one client from the beginning of their career through retirement with products that meet every protection need.
+              The combined life and health insurance license is one of the most popular license types for new and experienced agents alike — and for good reason. Instead of limiting yourself to one product category, a combined license authorizes you to sell the full spectrum of personal insurance products: term and permanent life insurance, fixed annuities, individual and group major medical plans, disability income insurance, long-term care insurance, Medicare Supplement plans, and Medicare Advantage plans. This breadth means you can serve one client from the beginning of their career through retirement with products that meet every protection need.
             </p>
             <p>
               From an income standpoint, the combined license is the highest-ceiling option for most agents. Life insurance renewals build a passive income stream as clients keep their policies. Medicare products pay recurring commissions for as long as the client remains enrolled. Annuity cases can generate some of the largest single-sale commissions in the industry. Agents who hold both lines often out-earn single-line agents because they have more entry points to serve each client and more cross-selling opportunities throughout that relationship. Income varies widely by individual, market, and effort — no income level is typical or guaranteed.
             </p>
             <p>
-              The combined prelicensing course covers all the education required for both lines of authority — typically 30 to 40 hours depending on your state. You take a single licensing exam (or two exams on the same day in select states) and receive one license credential authorizing both product categories. JustInsurance offers this course for $199 flat with a pass guarantee available in most states (not offered in Ohio, Illinois, or West Virginia). Select your state below to see the specific requirements, hours, and exam format for your market.
+              The combined prelicensing course covers all the education required for both lines of authority — where hours are required, typically around 40 hours depending on your state, though most states have no mandatory hour requirement. You take a single licensing exam (or two exams on the same day in select states) and receive one license credential authorizing both product categories. JustInsurance offers this course for $199 flat with a pass guarantee available in most states (not offered in {passGuaranteeExcludedLabel()}). Select your state below to see the specific requirements, hours, and exam format for your market.
             </p>
           </div>
         </div>
@@ -243,7 +244,7 @@ export default function LifeAndHealthInsuranceLicensePage() {
 
       <CTABanner
         title="Get the License That Opens Every Door"
-        subtitle="The combined life and health license is the most versatile credential in the industry. Enroll for $199 and start your career with the broadest possible product portfolio."
+        subtitle="The combined life and health license is the most versatile credential in the industry. Enroll for $199 and start your career with the broadest life and health product portfolio."
         ctaText="Find My State"
         ctaHref="#states"
       />

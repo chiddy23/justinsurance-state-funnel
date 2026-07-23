@@ -1,6 +1,6 @@
 ---
 title: "NJ Life and Health Insurance Exam: A Complete Content and Strategy Guide"
-description: The Life exam and the Health exam in New Jersey are administered separately by PSI — each has its own scored question count, its own $47 fee, its own 210-...
+description: The Life exam and the Health exam in New Jersey are administered separately by PSI — each has its own scored question count, its own $38 PSI examination fee, its own 210-...
 keyword: nj life and health insurance exam a complete content and
 targetKeywords: nj life and health insurance exam a complete content and
 cluster: state-license-new-jersey
@@ -12,7 +12,7 @@ image: /blog/images/top-nj-insurance-licensing-schools-to-kickstart-your-career.
 imageAlt: "NJ Life and Health Insurance Exam: A Complete Content and Strategy Guide"
 ---
 
-The Life exam and the Health exam in New Jersey are administered separately by PSI — the Life exam has 83 scored questions and the Health exam has 88, and each has its own $47 fee, its own 210-minute time limit, and its own certificate of completion requirement. Some candidates take both in the same week; others focus on one at a time. Either way, understanding exactly what each exam covers and how to approach it strategically is the difference between passing on your first attempt and paying $47 to find out what you should have studied.
+The Life exam and the Health exam in New Jersey are administered separately by PSI — the Life exam has 83 scored questions and the Health exam has 88, and each has its own examination fee, its own 210-minute time limit, and its own certificate of completion requirement. PSI's New Jersey Candidate Information Bulletin currently lists the examination fee at $38 per exam; confirm the current amount in the bulletin when you register, because PSI fees change. Some candidates take both in the same week; others focus on one at a time. Either way, understanding exactly what each exam covers and how to approach it strategically is the difference between passing on your first attempt and paying a second fee to find out what you should have studied.
 
 ## The NJ Life Insurance Exam
 
@@ -80,7 +80,7 @@ Correct Answer: B. HMOs require members to select a primary care physician who c
 
 Can I take the Life and Health exams on the same day in New Jersey?
 
-Yes. PSI allows candidates to schedule both the Life and Health exams on the same day at the same testing center. However, you will pay two separate $47 fees ($76 total), and each exam counts as a separate session. Most candidates who choose same-day testing take a short break between exams. Whether this approach makes sense for you depends on your preparation level — if you are equally confident in both lines, same-day testing is efficient. If you are stronger in one line than the other, consider separating them by a few days to allow targeted review.
+Yes. PSI allows candidates to schedule both the Life and Health exams on the same day at the same testing center. Booking two exams does not get you a discount, though: you pay two separate examination fees — $38 each, or $76 total, at the fee published in PSI's current New Jersey Candidate Information Bulletin — and each exam counts as a separate session. Most candidates who choose same-day testing take a short break between exams. Whether this approach makes sense for you depends on your preparation level — if you are equally confident in both lines, same-day testing is efficient. If you are stronger in one line than the other, consider separating them by a few days to allow targeted review.
 
 What is the hardest part of the NJ Life and Health exams?
 

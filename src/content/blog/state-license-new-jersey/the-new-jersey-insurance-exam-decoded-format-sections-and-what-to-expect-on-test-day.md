@@ -21,7 +21,7 @@ The New Jersey Department of Banking and Insurance (DOBI) has contracted PSI Ser
 
 ## Exam Fee and Score Validity
 
-The exam fee is $47 per exam, paid at the time of registration by credit card, debit card, or voucher. This fee is non-refundable. Once you pass, your score report is valid for one year — meaning you must complete your fingerprinting and submit your NIPR license application within 12 months of your exam date or your passing score expires.
+PSI's New Jersey Candidate Information Bulletin currently lists the examination fee at $38 per exam, paid at the time of registration by credit card, debit card, voucher, or electronic check. Confirm the current amount in the bulletin when you register, because PSI fees change. This fee is non-refundable. Once you pass, your score report is valid for one year — meaning you must complete your fingerprinting and submit your NIPR license application within 12 months of your exam date or your passing score expires.
 
 ## Exam Format at a Glance
 
@@ -51,9 +51,9 @@ Before registering for remote proctoring, PSI requires you to run a system compa
 
 ## Reporting to the Test Center
 
-Arrive at the PSI test center 30 minutes before your scheduled start time. You must bring two forms of identification: one government-issued photo ID and one secondary ID. You must also bring your original prelicensing course certificate of completion. For a retake, you may bring either your certificate or your previous failing score report.
+Arrive at the PSI test center 30 minutes before your scheduled start time. You need one form of identification: a current, government-issued ID showing your name, signature, and photograph — a state driver's license or state ID card, a US passport, a US military ID, an alien registration card, or a Canadian government-issued ID. Temporary identification is not accepted. Alongside that ID you must present your prelicensing education course completion certificate — PSI accepts an electronic version or a hard copy — or a waiver issued by DOBI. For a retake, you may present either the certificate or your previous failing score report.
 
-No personal items are permitted in the exam room — no phone, no watch, no notes, no food or drink. PSI provides accordion folders in the lobby for storage; they are not responsible for the security of those items. You will empty your pockets before entering.
+No personal items are permitted in the exam room — no phone, no watch, no notes, no food or drink. If prohibited items turn up at check-in, you either place them in the secure storage PSI provides at the test center or return them to your vehicle; PSI is not responsible for the security of personal belongings. You will empty your pockets before entering.
 
 ## After You Finish
 
@@ -63,21 +63,21 @@ If you do not pass, you receive a diagnostic report showing your performance by 
 
 ## Canceling or Rescheduling
 
-You can cancel or reschedule without forfeiting your fee if you provide notice at least two calendar days before your appointment. A voicemail does not count — you must reach a PSI representative directly or use the PSI website. If you miss your appointment or cancel late, you forfeit the full $47 fee.
+You can cancel or reschedule without forfeiting your fee if you provide notice at least two calendar days before your appointment. A voicemail does not count — you must reach a PSI representative directly or use the PSI website. If you miss your appointment or cancel late, you forfeit the full examination fee.
 
 ## Frequently Asked Questions
 
 How many questions are on the New Jersey insurance licensing exam, and how long do I have?
 
-Question counts vary by line: the Life exam has 83 scored questions, Health (Accident & Health) has 88, Property has 79, and Casualty has 91 — each plus an unspecified number of unscored pretest questions mixed in. (Personal Lines question counts aren't published in the same reference sources; confirm the current figure in the PSI New Jersey candidate handbook before you schedule.) Every one of these exams gives you 210 minutes (three and a half hours) to complete it. Most candidates finish well before the time limit; the format is not designed to be a speed test. The extra time exists so that careful, methodical test-takers are not penalized. That said, pacing yourself and not spending more than two or three minutes on any single question is still good practice. If you are unsure of an answer, flag it and move on, then return to flagged questions before submitting.
+Question counts vary by line: the Life exam has 83 scored questions, Health (Accident & Health) has 88, Property has 79, and Casualty has 91 — each plus a small number of unscored "experimental" questions mixed in, which PSI's bulletin puts at 5 to 19 per exam. (Personal Lines question counts aren't published in the same reference sources; confirm the current figure in the PSI New Jersey candidate handbook before you schedule.) Every one of these exams gives you 210 minutes (three and a half hours) to complete it. Most candidates finish well before the time limit; the format is not designed to be a speed test. The extra time exists so that careful, methodical test-takers are not penalized. That said, pacing yourself and not spending more than two or three minutes on any single question is still good practice. If you are unsure of an answer, flag it and move on, then return to flagged questions before submitting.
 
 What happens if I fail the New Jersey insurance exam?
 
-If you do not reach the 70% passing threshold, you will receive a failing score report immediately on screen and a detailed diagnostic report by email within one to three business days. The diagnostic report breaks down your performance by section — general knowledge versus state law — and by topic area, so you can target your retake studying precisely. You cannot reschedule on the same day you tested, but you can contact PSI the next business day to book a new appointment as early as the following day, depending on availability. There is no mandatory waiting period beyond the scheduling logistics, and New Jersey imposes no lifetime limit on exam attempts. The $47 fee applies to every attempt.
+If you do not reach the 70% passing threshold, you will receive a failing score report immediately on screen and a detailed diagnostic report by email within one to three business days. The diagnostic report breaks down your performance by section — general knowledge versus state law — and by topic area, so you can target your retake studying precisely. You cannot reschedule on the same day you tested, but you can contact PSI the next business day to book a new appointment as early as the following day, depending on availability. There is no mandatory waiting period beyond the scheduling logistics, and New Jersey imposes no lifetime limit on exam attempts. The examination fee — $38 in PSI's current New Jersey bulletin — applies to every attempt.
 
 Do I need to bring my prelicensing certificate to the exam?
 
-Yes. If you are taking the exam for the first time, you must bring your original certificate of completion from your DOBI-approved prelicensing provider. If you are retaking the exam, you may bring either your certificate or your failing score report from your previous attempt. Without one of these documents, PSI will deny you entry, mark you as absent, and you will forfeit your exam fee. Make sure the name on your certificate matches the name on your government-issued ID exactly — this is a common source of preventable delays.
+Yes. If you are taking the exam for the first time, you must present the certificate of completion from your DOBI-approved prelicensing provider — PSI's candidate bulletin states that either an electronic version or a hard copy is accepted — or a waiver issued by DOBI. If you are retaking the exam, you may present either the certificate or your failing score report from the previous attempt. Without one of these documents, PSI will deny you admission, mark you as absent, and you will forfeit your exam fee. Make sure the name on your certificate matches the name on your government-issued ID exactly — this is a common source of preventable delays.
 
 How long is my passing score valid in New Jersey?
 

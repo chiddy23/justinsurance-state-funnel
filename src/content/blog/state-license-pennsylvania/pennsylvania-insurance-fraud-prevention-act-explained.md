@@ -52,13 +52,15 @@ Pennsylvania's anti-fraud framework exists to combat these costs and protect con
 
 Pennsylvania's anti-fraud framework includes:
 
-Pennsylvania Insurance Fraud Prevention Authority. Established to investigate and combat insurance fraud in Pennsylvania.
+Pennsylvania Insurance Fraud Prevention Authority (IFPA). Created by the Insurance Fraud Prevention Act to fund the fight against insurance fraud. Worth knowing: the IFPA does not investigate cases itself. It funds the law enforcement agencies and prosecutors who do, runs public-awareness campaigns, and advises the Governor and General Assembly on the nature and scope of the problem.
 
-Pennsylvania Insurance Department Enforcement. PID has authority to investigate fraud-related licensing violations and impose disciplinary penalties.
+Section of Insurance Fraud, Office of Attorney General. This is Pennsylvania's dedicated insurance-fraud unit — it reviews referrals from insurers, producers, and the public, and selects cases for investigation and prosecution.
+
+Pennsylvania Insurance Department Enforcement. PID has authority to investigate fraud-related licensing violations and impose disciplinary penalties, and maintains an Anti-Fraud Compliance Division.
 
 Pennsylvania Attorney General's Office. Prosecutes major insurance fraud cases.
 
-Insurance Fraud Statute (40 P.S. §1101 et seq.). Pennsylvania's statutory framework for insurance fraud, establishing definitions, penalties, and enforcement mechanisms.
+Insurance Fraud Prevention Act (40 P.S. §§ 325.1–325.62, Act 166 of 1994) and the criminal insurance-fraud statute (18 Pa.C.S. § 4117). The Act created the Insurance Fraud Prevention Authority referenced above, while 18 Pa.C.S. § 4117 defines the criminal fraud offense and its penalties — together forming Pennsylvania's insurance-fraud framework.
 
 Federal Coordination. Many fraud cases involve federal law as well, particularly involving interstate insurance activities, mail fraud, and wire fraud.
 
@@ -176,9 +178,9 @@ Pennsylvania producers have specific anti-fraud obligations:
 
 Accurate Application Information. Producers must take reasonable steps to ensure information on applications is accurate. This means asking questions clearly, recording answers accurately, and not encouraging or facilitating misrepresentation.
 
-Reporting Suspected Fraud. Producers who suspect insurance fraud have obligations to report it. Specific reporting channels apply depending on the type of fraud.
+Reporting Suspected Fraud. Be precise about what the law actually requires here, because this is widely misstated. Pennsylvania does not impose a general statutory duty on individual producers to report suspected fraud. What it does is protect you when you choose to: 18 Pa.C.S. § 4117(f) gives an insurer "and any agent, servant or employee thereof acting in the course and scope of his employment" immunity from civil and criminal liability for supplying fraud information in good faith. Your carrier appointment agreement is a separate question — many impose contractual reporting requirements that go well beyond state law, so read yours.
 
-Cooperation with Investigations. When the PID, Insurance Fraud Prevention Authority, or carriers investigate potential fraud, licensed producers must cooperate fully.
+Cooperation with Investigations. This one is mandatory, and it is the obligation producers most often overlook. Under 40 P.S. § 325.44, "every insurer, every employee of an insurer and every licensed agent or broker shall cooperate fully with" the Section of Insurance Fraud in the Office of Attorney General. When the PID, the Attorney General's fraud section, or a carrier investigates potential fraud, cooperation is a legal duty, not a courtesy.
 
 Avoiding Inducements to Fraud. Producers cannot encourage clients to misrepresent information, file false claims, or otherwise participate in fraudulent activities.
 
@@ -186,23 +188,23 @@ Premium Handling. Premiums collected from clients must be remitted to insurers p
 
 ## How to Report Insurance Fraud in Pennsylvania
 
-If you suspect insurance fraud:
+Reporting is voluntary in Pennsylvania, but it's the right professional call. If you suspect insurance fraud:
 
-Pennsylvania Insurance Department. The PID can investigate fraud-related licensing violations:
+Office of Attorney General, Section of Insurance Fraud. Pennsylvania's dedicated referral channel, and usually the right first stop. The office runs separate referral forms for the insurance industry and for private citizens at attorneygeneral.gov, and takes calls at (717) 787-0272.
 
-Phone: (717) 787-3840
+Pennsylvania Insurance Department. The PID handles fraud-related licensing violations:
 
-Consumer Hotline: 1-866-PA-COMPLAINT
+Anti-Fraud Compliance Division: ra-in-fraud@pa.gov
 
-Website: pa.gov/consumer
+Producer and agent licensing: (717) 787-3840 or ra-in-producer@pa.gov
 
-Email: ra-in-producer@pa.gov
+Consumer hotline: 1-877-881-6388
 
-Pennsylvania Insurance Fraud Prevention Authority. Specialized fraud investigation entity.
+Consumer Help Center: pa.gov/agencies/insurance/consumer-help-center
 
-Pennsylvania Attorney General's Office. For significant fraud cases.
+Pennsylvania Insurance Fraud Prevention Authority. Not an investigative body — but helpstopfraud.org maintains a county-by-county directory of the insurance fraud units that are, which is the fastest way to reach the right local investigators.
 
-Your insurance carrier. For fraud schemes involving their policies. Carriers have dedicated fraud investigation units.
+Your insurance carrier. For fraud schemes involving their policies. Carriers have dedicated special investigation units, and your appointment agreement may require you to notify them.
 
 National Insurance Crime Bureau (NICB). Coordinates fraud investigation and intelligence across the industry.
 
@@ -368,9 +370,9 @@ Quality CE includes anti-fraud content addressing emerging fraud patterns.
 
 - What constitutes insurance fraud in Pennsylvania? Insurance fraud includes any intentional misrepresentation, concealment, or false statement made to obtain insurance benefits, lower premiums, or otherwise gain advantage in insurance transactions. Both producers and consumers can commit insurance fraud.
 - What are the penalties for insurance fraud in Pennsylvania? Penalties depend on the severity and amount involved, ranging from misdemeanor charges with fines and probation to felony charges with imprisonment. Producers convicted of fraud almost always lose their licenses.
-- Am I obligated to report suspected fraud as a producer? Yes. Pennsylvania producers have obligations to report suspected fraud through appropriate channels (carriers, Pennsylvania Insurance Fraud Prevention Authority, PID, or law enforcement depending on the type of fraud).
+- Am I legally obligated to report suspected fraud as a producer? Not by statute. Pennsylvania imposes no general duty on individual producers to report suspected fraud. It does two other things: it requires you to cooperate fully with the Attorney General's Section of Insurance Fraud (40 P.S. § 325.44), and it gives you good-faith immunity from civil and criminal liability if you do choose to report (18 Pa.C.S. § 4117(f)). Your carrier appointment agreement may separately require you to report — check it. Reporting is still the right call professionally; just don't assume a state statute is what compels it.
 - What happens if a client asks me to misrepresent something on an application? You must refuse. Helping clients misrepresent information on applications is fraud and will result in loss of your license. Document the conversation if necessary.
-- How do I report Pennie scam attempts to authorities? Report to the Pennsylvania Insurance Department at 1-866-PA-COMPLAINT or pa.gov/consumer. The PID actively addresses Pennie scam attempts and other Pennsylvania-specific insurance fraud.
+- How do I report Pennie scam attempts to authorities? Report to the Pennsylvania Insurance Department at 1-877-881-6388 or through the Consumer Help Center at pa.gov/agencies/insurance/consumer-help-center. For a fraud referral, use the Attorney General's Section of Insurance Fraud at (717) 787-0272 or its online referral form.
 
 ## Build Anti-Fraud Awareness Into Your Practice
 

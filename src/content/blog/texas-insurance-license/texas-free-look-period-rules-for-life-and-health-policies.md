@@ -16,53 +16,57 @@ imageAlt: >-
   period rules for life and health policies.
 ---
 
-The free-look period is one of the most important consumer protections in insurance — and it's one that agents often gloss over during the sales process. In Texas, clients have a specific window to review their new policy after receiving it and cancel for a full refund if they change their mind. Knowing the rules and clearly explaining them to clients isn't just good practice. It's required.
+The free-look period is one of the most important consumer protections in insurance — and it's one that agents often gloss over during the sales process. What trips people up in Texas is that there is no single free-look rule. The state sets return windows product by product, the numbers are different, and one of the products most agents assume is covered isn't covered by statute at all.
 
-Here's how the Texas free-look period works.
+Here's how the Texas free-look rules actually work, and which number to quote to a client.
 
 ## What Is a Free-Look Period?
 
-The free-look period is a window of time after a new insurance policy is delivered during which the policyholder can review the policy, decide it's not the right fit, and cancel for a full refund of premiums paid. No questions asked. No penalties.
+The free-look period is a window of time after a new insurance policy is delivered during which the policyholder can review the policy, decide it's not the right fit, and hand it back. No questions asked, no reason required, and no surrender charge or penalty for having used the window. What the refund actually consists of depends on the product, which is covered further down.
 
 It exists because insurance policies are complex documents. A client might understand the general concept at the point of sale but discover details in the actual policy that don't match their expectations. The free-look period gives them a real chance to review the contract and make sure it's what they signed up for.
 
 ## Texas Free-Look Period Requirements
 
-In Texas, life insurance policies must include a free-look period of at least 10 days from the date the policy is delivered to the policyholder. Some policies, particularly replacement policies, are required to have longer free-look periods — often 20 or 30 days — because of the added consumer protection concerns around replacement.
+Texas has no blanket free-look statute covering every life and health product. It has several product-specific rules, and the number changes depending on what you sold.
 
-For health insurance policies, Texas typically requires a free-look period as well. Specifics vary by policy type and carrier, but most individual health policies include at least a 10-day free-look period.
+**Individual accident and health policies — 10 days.** Texas Insurance Code §1201.058 requires an individual accident and health policy to carry a notice telling the insured they may return it if, after examining it, they are not satisfied with it for any reason. Returned no later than the 10th day after the date of delivery, the premium is refunded and the policy is treated as void as if it had never been issued. The requirement doesn't reach single premium nonrenewable policies.
 
-Annuity contracts also include free-look provisions, with longer periods often required for replacement annuities.
+**Replacement life policies and annuities — 30 days.** When the sale replaces existing life insurance or an annuity, §1114.053(e) requires the replacing insurer to give the owner notice of the right to return the policy or contract within 30 days of delivery and receive an unconditional full refund of all premiums or considerations paid. That's a flat 30 days — not "20 or 30," and not something that varies by carrier. Chapter 1114 doesn't reach every transaction, though: §1114.004 exempts credit life, group life and group annuities where no agent directly solicits the individual, conversions and same-insurer replacements, policies funding ERISA plans and qualified accounts, and structured settlements, among others.
+
+**Annuity contracts — 15 calendar days, conditionally.** Under 28 TAC §4.2311 (mirrored at §3.9711), if the buyer's guide and the required disclosure document weren't provided at or before the time of application, the contract has to carry a free look of at least 15 calendar days, disclosed prominently on or attached to the cover page. That clock begins when the consumer receives the contract and runs concurrently with any other free-look period Texas law requires — so a replacement annuity doesn't get 30 plus 15, it gets 30.
+
+**Ordinary individual life — whatever the policy grants.** This is the one agents get wrong. Chapter 1101's required life policy provisions — entire contract, grace period, incontestability, policy loans, nonforfeiture, settlement timing — do not include a free look, and neither does any other Texas life statute. Outside of a replacement, a life free look in Texas comes from the policy form the carrier filed, not from the Insurance Code. TDI's own consumer guide tells buyers that "Texas policies have a free-look period of at least 10 to 20 days," which describes normal market practice rather than a statutory floor. Read the contract before you promise a client a number.
 
 ## When Does the Clock Start?
 
-The free-look period begins on the date the policy is delivered to the policyholder — not the date the application was signed, not the date the policy was issued, and not the date premiums were paid. Delivery means the client physically receives the policy document.
+Every one of those windows runs from delivery — not the date the application was signed, not the date the policy was issued, and not the date premiums were paid. Section 1201.058 counts from "the date the policy is delivered," §1114.053(e) from "the delivery of the policy or contract," and 28 TAC §4.2311(c) from the date the consumer receives the annuity contract.
 
-This matters because the client needs to actually have the document in hand to review it. Some carriers require the policyholder to sign a delivery receipt, which establishes the start date of the free-look window.
+This matters because the client needs to actually have the document to review it. Some carriers require the policyholder to sign a delivery receipt, which establishes the start date of the free-look window. However your carrier handles delivery, the fact you want documented is the date the client received the contract — that is the date every one of these clocks runs from.
 
 ## What Happens When a Client Cancels During Free-Look
 
-If the client cancels within the free-look window, they're entitled to a full refund of all premiums paid. The carrier is required to process the refund promptly. The client walks away with no obligation and no financial penalty.
+If the client returns the policy inside the window, they get their money back. Under §1201.058 the health policy becomes void as if it had never been issued and the premium is refunded. Under §1114.053(e) a returned replacement policy or annuity earns an unconditional full refund of all premiums or considerations paid. In both cases the client walks away with no obligation and no penalty for the days coverage was technically in force — there's no proration for time on the policy.
 
-This applies even if the client received coverage during the free-look period — there's no prorated refund or penalty for time on the policy.
+The exception worth knowing is variable and modified guaranteed annuities. For those contracts, 28 TAC §4.2311(d) defines the unconditional refund as the cash surrender value provided in the contract plus any fees or charges deducted from the premiums or imposed under the contract — so a bad two weeks in the market can leave the refund short of what the client deposited. Say that out loud before the client signs, not after they ask for their money back.
 
 ## The Agent's Role
 
 Texas agents have specific responsibilities around the free-look period:
 
-Explain it clearly at the point of sale. Clients should know they have the right to review and cancel before they sign. Don't minimize this right or discourage clients from using it.
+Explain it clearly at the point of sale, and explain the right one. Quoting "you've got 10 days" on a replacement sale understates the client's rights by three weeks; quoting 10 days on a straight life sale states a rule the Insurance Code doesn't contain. Look at the product, then at the contract.
 
-Ensure proper delivery. The policy must be physically delivered. Explain to the client when the free-look period begins and how long they have.
+Document delivery. The window starts when the client receives the policy, so the delivery date is the fact everything else hangs on. If the carrier uses a delivery receipt, get it signed and keep it.
 
-Never pressure a client to stay in a policy during free-look. If the client decides to cancel during the window, your job is to help them do so — not to talk them out of it. Pressure tactics here are a direct violation of Texas unfair practices rules.
+Never pressure a client to stay in a policy during free-look. If the client decides to cancel during the window, your job is to help them do so — not to talk them out of it. Misstating or downplaying a return right is a misrepresentation of the terms of the policy, which is exactly the conduct Chapter 541 of the Insurance Code exists to police.
 
 ## 5 Frequently Asked Questions
 
-- Does the free-look period apply to group insurance? Generally, no. Group policies issued to employers and similar groups don't include individual free-look periods in the same way individual policies do. Free-look rules primarily apply to individually purchased coverage.
-- Can an agent offer a longer free-look period than the minimum? The insurer can offer longer, but not shorter than the minimum required by Texas. Some carriers routinely offer 20 or 30 days even on non-replacement policies.
+- Does the free-look period apply to group insurance? Generally, no. The 10-day return right in §1201.058 is written for individual accident and health policies, and Chapter 1114's replacement rules expressly exempt group life insurance and group annuities where there's no direct solicitation of individuals by an agent (§1114.004(a)(2)). Certificate holders under a group plan have other protections — this isn't one of them.
+- Can an insurer offer a longer free-look period than the minimum? Yes. A carrier can file a more generous window, and many do; what it can't do is go below a floor Texas sets for that product. TDI tells consumers that Texas policies commonly run at least 10 to 20 days, which is carrier practice sitting on top of the statutory minimums.
 - What if the client cancels after the free-look period ends? Standard cancellation rules apply — and the refund will typically be prorated or reduced based on policy terms, rather than a full refund.
-- Does a client need a specific reason to cancel during free-look? No. The free-look period allows cancellation for any reason or no stated reason at all. That's the entire point — unconditional right to cancel.
-- Does the free-look period apply to policies replacing existing coverage? Yes, and it's often longer for replacement policies — typically 20 or 30 days — to give the client extra time to reconsider the decision to replace.
+- Does a client need a specific reason to cancel during free-look? No. Section 1201.058 is written around the insured simply not being "satisfied with the policy for any reason," and §1114.053(e) calls the replacement refund unconditional. No stated reason is required.
+- Does the free-look period apply to policies replacing existing coverage? Yes — and this is the one place Texas puts a longer number in statute. Section 1114.053(e) gives the owner 30 days from delivery to return a replacement life policy or annuity contract for an unconditional full refund of everything paid in.
 
 ## Protect Your Clients, Protect Your License
 

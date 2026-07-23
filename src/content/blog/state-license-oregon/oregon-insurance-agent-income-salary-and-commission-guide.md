@@ -46,23 +46,23 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by Oregon City
 
-Portland. Oregon's largest metro area and economic center. Strong markets for technology, healthcare, financial services, and professional clients. New agents in Portland metro can reach $50,000-$85,000 in their first 1-2 years; established agents commonly earn $85,000-$124,990+, with top producers and agency owners able to exceed that ceiling.
+Portland. Oregon's largest metro area and economic center. Strong markets for technology, healthcare, financial services, and professional clients. New agents in Portland metro typically start in the $38,690-$46,250 first-few-years range; established agents commonly earn toward the upper end of the experienced band ($60,710-$78,790), with top producers and agency owners reaching the state's top-producer benchmark of $124,990+.
 
-Eugene-Springfield. University of Oregon presence plus growing tech and healthcare. Established agents commonly earn $80,000-$115,000+.
+Eugene-Springfield. University of Oregon presence plus growing tech and healthcare. Established agents commonly earn in the $60,710-$78,790 experienced range, often toward the upper end given the university and healthcare base.
 
-Salem. State capital with significant government, healthcare, and educational employment. Steady, consistent insurance market. Established Salem agents commonly earn $78,000-$110,000+.
+Salem. State capital with significant government, healthcare, and educational employment. Steady, consistent insurance market. Established Salem agents commonly earn in line with the statewide experienced range ($60,710-$78,790).
 
-Bend. Growing market with technology, tourism, retiree migration, and outdoor recreation industries. Established Bend agents commonly earn $80,000-$115,000+, with the rapid growth creating strong opportunity.
+Bend. Growing market with technology, tourism, retiree migration, and outdoor recreation industries. Established Bend agents commonly earn in the $60,710-$78,790 experienced range, with the area's rapid growth pushing strong producers toward the upper end.
 
-Medford-Ashland. Southern Oregon hub with healthcare, agriculture, and growing wine industry. Established agents commonly earn $75,000-$105,000+.
+Medford-Ashland. Southern Oregon hub with healthcare, agriculture, and growing wine industry. Established agents commonly earn within the statewide experienced range ($60,710-$78,790).
 
-Corvallis. Oregon State University presence creates academic, research, and tech-related markets. Established agents commonly earn $75,000-$100,000+.
+Corvallis. Oregon State University presence creates academic, research, and tech-related markets. Established agents commonly earn within the statewide experienced range ($60,710-$78,790), anchored by the university and research economy.
 
-Beaverton, Hillsboro, Lake Oswego (Portland suburbs). Tech industry concentration ("Silicon Forest") creates strong professional client markets. Established agents in these areas often earn $90,000-$124,990+, with top producers reaching beyond that ceiling.
+Beaverton, Hillsboro, Lake Oswego (Portland suburbs). Tech industry concentration ("Silicon Forest") creates strong professional client markets. Established agents in these areas often earn toward the upper end of the experienced band ($60,710-$78,790), with top producers serving high-income tech professionals reaching the $124,990+ top-producer benchmark.
 
-Coastal communities (Astoria, Newport, Coos Bay). Smaller markets with tourism, fishing, and recreational opportunities. Established agents commonly earn $65,000-$95,000+.
+Coastal communities (Astoria, Newport, Coos Bay). Smaller markets with tourism, fishing, and recreational opportunities. Established agents commonly earn within — and in the smaller markets somewhat below — the statewide experienced range ($60,710-$78,790).
 
-Smaller cities and rural Oregon. Lower cost of living significantly affects practical income. Established rural Oregon agents commonly earn $65,000-$90,000+.
+Smaller cities and rural Oregon. Lower cost of living significantly affects practical income. Established rural Oregon agents commonly earn below the statewide experienced average, reflecting smaller client bases and lower cost of living.
 
 ## What Drives Oregon Income
 

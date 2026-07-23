@@ -1,8 +1,8 @@
 ---
 title: Helpful Resources for Your North Carolina Adjuster License Journey
 description: >-
-  S: north carolina adjuster license: what you need to know about prelicensing
-  hours, exam costs, background checks, and the state application process in
+  North Carolina adjuster license: the NIPR application that comes before the
+  exam, Pearson VUE exam costs, background checks, and study resources.
 keyword: 's: north carolina adjuster license'
 targetKeywords: north carolina adjuster license
 cluster: state-license-north-carolina
@@ -26,21 +26,25 @@ In this article, you'll discover what each stage of the adjuster license path en
 
 ## Understand the requirements
 
-North Carolina has clear guidelines for becoming a licensed adjuster, and meeting these requirements is often simpler than you might expect. You need to be at least 18 years of age, submit a completed license application, and undergo a background check. If you have any legal or financial issues on your record, you may want to address those ahead of time to avoid unexpected delays.
+North Carolina has clear guidelines for becoming a licensed adjuster, and meeting them is often simpler than you might expect — as long as you take the steps in the right order. You need to be at least 18 years of age, file a completed license application, pass the state adjuster examination, and clear the background screening built into the application. If you have any legal or financial issues on your record, address those ahead of time: "yes" answers to the application's screening questions require supporting documentation, and missing documents are what stalls a file most often.
 
-The state also requires successful completion of a licensing exam specific to adjusters. This exam ensures you're comfortable handling everything from policy coverage to claims processes. When you finish the exam, you'll apply for your license through the [North Carolina Department of Insurance](/north-carolina/requirements) website. Keep in mind that application fees and exam fees are separate, so budgeting for both will help you navigate the process smoothly.
+Here is the part that surprises candidates coming from other states. North Carolina is an application-before-exam state, so the application comes first, not last. You apply electronically at NIPR (nipr.com) and pay your license, fingerprint, and processing fees there. Pearson VUE then emails you an authorization notice with the details you need to schedule your exam, plus an eligibility period — six months, with a start and end date — inside which your license has to be issued or you reapply. Test centers cannot seat you without that authorization, so filing with NIPR is genuinely step one of exam day rather than a follow-up to it. Application fees and exam fees are separate, so budget for both.
+
+Two more details worth knowing up front. Public adjusters — the ones who represent the policyholder rather than a carrier or adjusting firm — carry extra requirements under N.C.G.S. Chapter 58, Article 33A: fingerprints for a criminal history check and a $20,000 surety bond or equivalent letter of credit that must stay in force. And the file itself is reviewed by the North Carolina Licensing Office of Pearson VUE, with anything needing regulatory review referred to the [North Carolina Department of Insurance](/north-carolina/requirements) Agent Services Division.
 
 ## Complete your pre-licensing preparation
 
-Although North Carolina may not mandate a formal [pre-licensing](/north-carolina/prelicensing) course for your adjuster license, solid preparation can make all the difference in exam performance. Researching study materials designed around insurance fundamentals and North Carolina regulations ensures you cover every topic that might appear on your exam. Working with a reputable study provider will save you time and frustration in the long run.
+North Carolina does not require pre-licensing education for adjusters, but solid preparation still makes all the difference in exam performance. Researching study materials designed around insurance fundamentals and North Carolina regulations ensures you cover every topic that might appear on your exam. Working with a reputable study provider will save you time and frustration in the long run.
 
 During this stage, it's also wise to create a realistic study schedule. Break your materials into manageable chunks, then focus on one section at a time. A consistent plan can transform overwhelming content into bite-sized pieces, increasing retention and making it simpler to review.
 
 ## Ace your exam
 
-Once you're confident in your study progress, you'll schedule your official adjuster exam through the authorized testing vendor. Exam availability is typically flexible, but it's a good idea to book your spot a few weeks in advance, especially if weekends or certain locations fill up quickly.
+Once your authorization email has arrived and you're confident in your study progress, you'll schedule your adjuster exam with Pearson VUE, North Carolina's testing vendor. The adjuster exam runs $45 per attempt and gives you 2 hours and 15 minutes. Exam availability is typically flexible, but it's a good idea to book your spot a few weeks in advance, especially if weekends or certain locations fill up quickly — and keep your six-month eligibility window in mind when you pick a date.
 
 On test day, you'll answer multiple-choice questions designed to measure your understanding of adjuster duties. Topics may include policy terms, claims handling responsibilities, and state-specific regulations. Remember that time management is key. Keep your eye on the clock, and don't linger too long on questions you find difficult. If you've studied thoroughly, you can trust your instincts and handle most questions with confidence.
+
+North Carolina reports a scaled score rather than a raw percentage, with 70 as the passing mark, and numeric scores are released only to candidates who don't pass. If that's you, you'll get a diagnostic breakdown with your report and can reschedule after a 24-hour waiting period. When you do pass, Pearson VUE transmits the result electronically to the application already on file — there's no pass certificate for you to send anywhere.
 
 ## Manage fees and forms
 
@@ -52,7 +56,7 @@ As you complete your forms, double-check that your personal information is accur
 
 Learning materials are widely available, but quality can differ. You'll want a combination of official resources, third-party study guides, and perhaps even online forums where you can interact with others preparing for a North Carolina adjuster license. Online practice exams are especially helpful because they let you test your knowledge under conditions similar to the real assessment.
 
-If you're not sure where to begin, JustInsurance is a popular go-to for helpful tips, up-to-date content, and pre-licensing support. Many aspiring adjusters use them to stay on track, especially when they want a well-organized, easy-to-follow study plan that actually prepares them for real-world scenarios.
+If you're not sure where to begin, JustInsurance is a popular go-to for helpful tips, up-to-date content, and exam-prep support. Many aspiring adjusters use them to stay on track, especially when they want a well-organized, easy-to-follow study plan that actually prepares them for real-world scenarios.
 
 Below is a quick snapshot of how you might structure your prep:
 

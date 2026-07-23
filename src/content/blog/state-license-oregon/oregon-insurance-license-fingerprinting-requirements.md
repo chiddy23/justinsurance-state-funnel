@@ -132,7 +132,7 @@ PSI fees are paid at the appointment (or through PSI's online registration in so
 
 Fieldprint fees are paid through Fieldprint's online scheduling system
 
-Confirm current fees with PSI or Fieldprint when scheduling. Fees are typically in the range of $40-$60 but can vary.
+At PSI test sites, the fingerprinting fee is a fixed $61.25, paid at the test center on the day of testing (money order, cashier's check, company check, Visa, or MasterCard). Fieldprint sets its own fee, collected through its online scheduling system — confirm the current amount with Fieldprint when you book.
 
 ## What Could Cause Issues
 
@@ -204,7 +204,7 @@ Oregon Producer Licensing:
 
 Phone: (503) 947-7981
 
-Email: web.insagent@oregon.gov
+Email: web.insagent@dcbs.oregon.gov
 
 For PSI-specific questions, contact PSI directly through psiexams.com.
 

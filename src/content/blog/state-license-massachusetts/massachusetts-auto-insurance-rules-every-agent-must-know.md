@@ -141,7 +141,7 @@ UM/UIM is particularly important given that Massachusetts clients can be hit by 
 
 Massachusetts has distinctive auto insurance rate-setting practices:
 
-Massachusetts Bureau of Insurance. Reviews and approves auto insurance rates.
+Massachusetts Division of Insurance. Reviews and approves auto insurance rate filings under the state's managed-competition system.
 
 Specific rate factors. Massachusetts allows specific rate factors and prohibits others.
 
@@ -303,6 +303,6 @@ For producers building general practice, auto insurance often serves as the foun
 
 ## Master Massachusetts Auto Insurance
 
-Massachusetts auto insurance offers steady opportunity for producers who develop genuine expertise in the state's distinctive system. At JustInsurance, our Massachusetts [prelicense](/massachusetts/prelicensing) and CE courses include comprehensive coverage of auto insurance principles and Massachusetts-specific requirements.
+Massachusetts auto insurance offers steady opportunity for producers who develop genuine expertise in the state's distinctive system. If you already hold a property and casualty license, JustInsurance's Massachusetts [property and casualty continuing education](/massachusetts/continuing-education) courses include coverage of auto insurance principles and the Massachusetts-specific requirements that set this market apart.
 
 Enroll today and develop the auto insurance expertise Massachusetts clients need.

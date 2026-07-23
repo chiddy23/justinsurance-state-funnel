@@ -70,9 +70,9 @@ Similar demographics and insurance market characteristics to Sun City
 
 Slightly newer development — residents skewing somewhat younger on average
 
-Sun City Grand (Peoria — western Phoenix metro):
+Sun City Grand (Surprise — northwest Phoenix metro, immediately south of Sun City West):
 
-Newest Sun City community; approximately 9,000 homes at full buildout
+Del Webb's third West Valley community, built 1996-2005; approximately 9,500 homes at full buildout
 
 Actively recruiting new retirees — growing market with recent arrivals
 
@@ -82,9 +82,9 @@ Youngtown (incorporated into Sun City corridor):
 
 One of Arizona's historic senior communities
 
-Surprise, Goodyear, Avondale (West Valley):
+Surprise (outside Sun City Grand), Goodyear, Avondale (West Valley):
 
-Growing retirement communities adjacent to Sun City corridor
+Growing retirement communities adjacent to the Sun City corridor
 
 Younger retiree profile than Sun City; often newly retired early 60s
 
@@ -186,7 +186,7 @@ Immediate annuities for clients needing immediate income
 
 Deferred income annuities for longevity protection
 
-Arizona's 20-day free-look for senior annuity clients (65+) provides extra protection
+Arizona's free-look window on annuity contracts is 10 days generally, but 30 days when the contract holder is 65 or older on the date of application (A.R.S. § 20-1233) — meaningful extra protection for the senior clients who make up most of this market, and a point worth stating plainly at delivery
 
 Must complete 4-hour Annuity Best Interest training before selling any annuity products (ARS §20-1241, per DIFI requirements).
 

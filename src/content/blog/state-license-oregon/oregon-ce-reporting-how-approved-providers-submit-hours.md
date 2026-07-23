@@ -148,7 +148,7 @@ DFR contact:
 
 Phone: (503) 947-7981
 
-Email: web.insagent@oregon.gov
+Email: web.insagent@dcbs.oregon.gov
 
 Address: 350 Winter St NE, Salem, OR 97301-3883
 

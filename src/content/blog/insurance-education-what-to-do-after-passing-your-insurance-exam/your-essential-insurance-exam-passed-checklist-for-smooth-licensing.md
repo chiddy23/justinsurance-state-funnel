@@ -18,8 +18,6 @@ imageAlt: 'Cozy office workspace with a calculator, laptop, and notes on a woode
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Insurance: insurance exam passed checklist
-
 Congratulations on passing your insurance exam. This accomplishment marks a huge step on your path toward a rewarding insurance career. Now that the test is behind you, it is time to follow a clear action plan to secure your license, meet state requirements, and launch your professional journey. Use this insurance exam passed checklist to keep yourself organized every step of the way.
 
 Most new agents find that the transition from exam to licensure is easier if they have a clear roadmap for handling administrative tasks, background checks, and continuing education. With a little organization, you can avoid common pitfalls and get to your next milestone quickly. Below is a guide to help you tackle the process from start to finish.
@@ -30,7 +28,7 @@ Begin by confirming your official passing status and obtaining any proof-of-pass
 
 If a physical certificate of completion is issued, keep it in a safe place. This document can be requested during your license application. Once your passing result is confirmed, the countdown begins for completing your post-exam tasks on time.
 
-Complete your license application
+## Complete your license application
 
 Next, head to your state’s insurance department website and locate the license application forms. Be sure to fill them out carefully and thoroughly. Each state has slightly different requirements, so read every instruction before entering your information.
 
@@ -65,7 +63,7 @@ It is helpful to itemize your fees in advance. That way, you will know exactly h
 
 Once licensed, many states expect you to complete continuing education (CE) on a regular cycle. This is the key to staying current on industry changes, product updates, and ethical standards. Even if you just passed your exam, it is never too soon to investigate which CE courses will be most beneficial for your practice.
 
-Some jurisdictions allow you to begin earning CE credits as soon as your license is granted. Others may have specific guidelines about what topics or providers they recognize. Justinsurance can help you connect with curated resources that align with your state’s [CE requirements](/continuing-education), making it easier to stay on top of your ongoing education.
+Some jurisdictions allow you to begin earning CE credits as soon as your license is granted. Others may have specific guidelines about what topics or providers they recognize. JustInsurance runs state-approved [continuing education](/continuing-education) in the states where we are approved, so once your license is issued you can check whether your state and line of authority are covered.
 
 ## Explore career opportunities
 

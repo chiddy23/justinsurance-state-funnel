@@ -16,7 +16,7 @@ imageAlt: >-
   insurance: maryland health connection guide.
 ---
 
-Maryland's health insurance framework is built around Maryland Health Connection — the state's own ACA marketplace — and several distinctive features: the state Premium Assistance program (recently expanded to all ages at 400% FPL), a reinsurance waiver through December 2028 that keeps Maryland's rates among the most competitive nationally, robust required health benefit mandates under Title 15, and the MD LTC tax credit creating a unique LTC-health insurance intersection. Maryland's proximity to DC makes the federal employee/FEHB transition market particularly significant. And Maryland's strong consumer protection orientation (credit history prohibitions, required benefits, mental health parity) creates a regulatory environment that rewards producers who understand state-specific health law.
+Maryland's health insurance framework is built around Maryland Health Connection — the state's own ACA marketplace — and several distinctive features: the state Premium Assistance program (recently expanded to all ages at 400% FPL), a reinsurance waiver through December 2028 that keeps Maryland's rates among the most competitive nationally, robust required health benefit mandates under Title 15, and a one-time state income tax credit for qualified long-term care insurance premiums — capped at $500 per insured, claimable once and never again — that surfaces whenever a health client starts asking about LTC coverage. Maryland's proximity to DC makes the federal employee/FEHB transition market particularly significant. And Maryland's strong consumer protection orientation (credit history prohibitions, required benefits, mental health parity) creates a regulatory environment that rewards producers who understand state-specific health law.
 
 ## Maryland Health Connection — The State Exchange
 
@@ -130,6 +130,6 @@ Each agency's employees have FEHB coverage during employment; transition plannin
 
 ## Serve Maryland Health Insurance Clients With Expert Knowledge
 
-Maryland Health Connection, the state Premium Assistance expansion, federal employee transitions, and Maryland's mandated health benefits create a health insurance landscape that rewards genuine state-specific knowledge. JustInsurance's MIA-approved Maryland courses cover health insurance law in full state-specific depth.
+Maryland Health Connection, the state Premium Assistance expansion, federal employee transitions, and Maryland's mandated health benefits create a health insurance landscape that rewards genuine state-specific knowledge. JustInsurance's MIA-approved Maryland CE courses cover health insurance law in full state-specific depth.
 
 Enroll today and build your Maryland health insurance expertise.

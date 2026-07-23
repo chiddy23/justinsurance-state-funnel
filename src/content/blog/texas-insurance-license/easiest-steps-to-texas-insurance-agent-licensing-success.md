@@ -67,6 +67,6 @@ It’s easy to meet CE requirements by consulting approved providers and schedul
 
 Once you’ve completed your CE credits and submitted renewal fees on time, your license remains active without interruption. It’s a fairly simple process, as long as you’re mindful of the deadlines and thoroughly track your progress every renewal cycle.
 
-You’re now equipped with the most straightforward roadmap for Texas insurance agent licensing. Whether you plan to focus on Life & Health, Property & Casualty, or another line of authority, remember that your dedication to pre-licensing education and exam preparation will shape how confidently you enter the industry. If you need extra guidance, resources from JustInsurance can help you feel fully supported every step of the way.
+You’re now equipped with the most straightforward roadmap for Texas insurance agent licensing. Whichever line of authority you plan to focus on, remember that your dedication to exam preparation will shape how confidently you enter the industry. If you're pursuing a Life, Health, or Life & Health license, JustInsurance's prelicensing and continuing education can help you feel fully supported every step of the way.
 
 Above all, don’t underestimate your ability to succeed in this field and provide meaningful protection for Texas families, individuals, and businesses. By following these guidelines and staying committed to professional growth, you’ll build a rewarding career that stands the test of time.

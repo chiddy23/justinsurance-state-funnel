@@ -51,7 +51,7 @@ Ethics CE must be completed before your compliance deadline, along with the rest
 
 The North Carolina ethics requirement reflects industry recognition that:
 
-Ethical violations drive most disciplinary actions. Producers don't typically lose licenses for missed CE or procedural errors — they lose them for misrepresentation, twisting, churning, rebating, and other conduct violations.
+Conduct violations carry the most severe consequences. Misrepresentation, twisting, churning, rebating, and similar conduct violations are the kind that lead to license suspension or revocation — penalties far heavier than those for an administrative lapse like a late CE filing.
 
 Consumer trust is foundational. Insurance is a trust-based business. Producers handle sensitive financial and personal information, advise on major life decisions, and process substantial transactions.
 
@@ -159,7 +159,7 @@ Quality ethics courses use case studies drawn from real NCDOI enforcement action
 
 ## Why Ethics CE Matters for Your Career
 
-Ethics violations are career-ending. Most producers who lose their North Carolina licenses don't fail because they missed a CE deadline or made a technical error — they lose licenses because they crossed ethical or legal lines.
+Ethics violations can be career-ending. A missed CE deadline or a technical error is usually fixable, but crossing an ethical or legal line can cost you your license for good. That gap in consequences is exactly why the ethics requirement carries the weight it does.
 
 Common NCDOI disciplinary triggers:
 
@@ -236,7 +236,7 @@ Social media missteps. Advertising and marketing standards apply to social media
 ## 5 Frequently Asked Questions
 
 - Can I substitute general CE hours for the ethics requirement? No. The 3-hour ethics requirement must be specifically NCDOI-approved Ethics CE. General courses that mention ethics don't qualify.
-- Do I need to take ethics every renewal period? Yes. Ethics is required every 2-year compliance period. Excess ethics hours from a prior period carry over as general credit only — they don't satisfy the ethics requirement in the next period.
+- Do I need to take ethics every compliance period? Yes. Ethics is required every 2-year CE compliance period. Excess ethics hours from a prior period carry over as general credit only — they don't satisfy the ethics requirement in the next period.
 - Can I repeat the same ethics course? Not within the same 2-year compliance period. You may take the same course in a subsequent period.
 - Does it matter which ethics course I take? It must be specifically NCDOI-approved as Ethics CE. Beyond that, quality content — North Carolina-specific, case-study-based, current — provides more professional value than generic material.
 - What happens if I skip the ethics requirement? Your license expires at your compliance deadline. Without ethics, your CE is considered incomplete even if you've completed 21 general hours. The 4-month grace period with $75 fee applies, but after that the license becomes inactive and you must pass the licensing exam again.

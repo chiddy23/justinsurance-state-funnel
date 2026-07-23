@@ -1,3 +1,16 @@
+import {
+  EXAM_FEE_LABEL,
+  APPLICATION_FEE_LABEL,
+  CE_HOURS_LABEL,
+  STATE_COUNT,
+  PRELICENSING_REQUIRED_COUNT,
+  EXAM_ONLY_COUNT,
+  CE_APPROVED_COUNT,
+  CE_PENDING_LABEL,
+} from "@/lib/site-facts";
+import { formatPassingScore, isScaledScore } from "@/lib/exam-score";
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
+import { STATES } from "@/lib/states";
 import type { Metadata } from "next";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
@@ -17,6 +30,88 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 ]);
 
 // ─────────────────────────────────────────────────────────────────────────────
+// Facts DERIVED from states.ts, never hand-typed. Every hand-written national
+// roll-up on this page had drifted from the per-state data (the CE "exceptions"
+// list named Ohio and Wyoming, which match the 24/2-year norm exactly, and
+// omitted the five states that really are below it).
+//
+// 2026-07-22 audit: three more hand-typed roll-ups were wrong or incomplete and
+// are now derived as well —
+//   "17 states report a scaled score"  -> exam-score.ts holds 16
+//   "most require 70%, but CA 60/MS 65" -> silently dropped Michigan (72–76%,
+//                                          by exam) and Montana (75, scaled)
+//   "4 to 8 weeks" to license (x2)      -> 39 of 50 states publish <= 4 weeks
+// ─────────────────────────────────────────────────────────────────────────────
+
+const ALL_STATES = Object.values(STATES);
+
+const listWithAnd = (items: string[]): string =>
+  items.length <= 1
+    ? items.join("")
+    : items.length === 2
+      ? `${items[0]} and ${items[1]}`
+      : `${items.slice(0, -1).join(", ")}, and ${items[items.length - 1]}`;
+
+/** States that do NOT follow the 24-hours-per-2-year CE norm, worst-first. */
+const CE_EXCEPTIONS_LABEL = listWithAnd(
+  ALL_STATES.filter((s) => !(s.ce.totalHours === 24 && s.ce.renewalPeriod === "2 years"))
+    .sort((a, b) => b.ce.totalHours - a.ce.totalHours)
+    .map((s) => `${s.name} (${s.ce.totalHours} hours / ${s.ce.renewalPeriod})`)
+);
+
+/** States whose licensing exam is administered by Prometric, not Pearson VUE or PSI. */
+const PROMETRIC_STATES_LABEL = listWithAnd(
+  ALL_STATES.filter((s) => s.examInfo.examProvider.startsWith("Prometric")).map((s) => s.name)
+);
+
+// ─── Exam passing standard ───────────────────────────────────────────────────
+// Derived from exam-score.ts — the SAME module that renders the score on every
+// state page — so the FAQ can never disagree with the state pages again. The
+// page previously hand-typed "17 states report a scaled score"; the set holds
+// 16, and the five states deliberately held as raw "%" (ID, IA, KY, NH, VT)
+// plus Michigan (raw criterion-referenced, per-exam) are correctly excluded.
+
+/** States whose vendor reports a SCALED score, not a raw percentage correct. */
+const SCALED_SCORE_COUNT = ALL_STATES.filter((s) => isScaledScore(s.slug)).length;
+
+/** States on the 70 standard, and the ones that are not. */
+const SEVENTY_COUNT = ALL_STATES.filter((s) => s.examInfo.passingScore === 70).length;
+
+/** e.g. "California at 60%, Mississippi at 65%, Michigan at 72%–76% (varies by exam), and Montana at 75 (scaled score)" */
+const PASSING_SCORE_EXCEPTIONS_LABEL = listWithAnd(
+  ALL_STATES.filter((s) => s.examInfo.passingScore !== 70)
+    .sort((a, b) => a.examInfo.passingScore - b.examInfo.passingScore)
+    .map((s) => `${s.name} at ${formatPassingScore(s.slug, s.examInfo.passingScore)}`)
+);
+
+const PASSING_SCORE_SENTENCE = PASSING_SCORE_EXCEPTIONS_LABEL
+  ? `${SEVENTY_COUNT} of the ${STATE_COUNT} states set the passing standard at 70; the exceptions are ${PASSING_SCORE_EXCEPTIONS_LABEL}`
+  : `all ${STATE_COUNT} states set the passing standard at 70`;
+
+// ─── Licensing timeline ──────────────────────────────────────────────────────
+// The page asserted "4 to 8 weeks" twice. The per-state data disagrees: the
+// overwhelming majority of totalLicensingTime values are "2-4 weeks", so the
+// FAQ was contradicting every state page it links to. Read the leading
+// "N-M weeks" range out of the data instead of guessing at a national average.
+
+const weekRange = (raw: string): [number, number] | null => {
+  const m = raw.match(/(\d+)\s*[-–]\s*(\d+)\s*weeks/);
+  return m ? [Number(m[1]), Number(m[2])] : null;
+};
+
+const LICENSING_WEEKS = ALL_STATES.map((s) => weekRange(s.totalLicensingTime)).filter(
+  (r): r is [number, number] => r !== null
+);
+
+/** e.g. "2 to 12 weeks" */
+const LICENSING_WEEKS_LABEL = `${Math.min(...LICENSING_WEEKS.map(([lo]) => lo))} to ${Math.max(
+  ...LICENSING_WEEKS.map(([, hi]) => hi)
+)} weeks`;
+
+/** How many states publish a timeline that finishes inside four weeks. */
+const FOUR_WEEK_STATE_COUNT = LICENSING_WEEKS.filter(([, hi]) => hi <= 4).length;
+
+// ─────────────────────────────────────────────────────────────────────────────
 // All 20 Q&As — grouped for display, flattened for FAQ JSON-LD
 // ─────────────────────────────────────────────────────────────────────────────
 
@@ -24,7 +119,7 @@ const gettingLicensedFaqs = [
   {
     question: "How do I get an insurance license?",
     answer:
-      "The process has four main steps: (1) If your state requires prelicensing (18 do), complete a state-approved course for your line of authority — Life, Health, or Life & Health; in the other 32 states you can go straight to the exam. (2) Pass the state insurance licensing exam at an approved test center or online. (3) Submit a license application through NIPR or your state's producer portal and pay the application fee. (4) Complete any background check or fingerprinting required by your state. Most agents go from enrollment to license in 4 to 8 weeks.",
+      `The process has four main steps: (1) If your state requires prelicensing (${PRELICENSING_REQUIRED_COUNT} do), complete a state-approved course for your line of authority — Life, Health, or Life & Health; in the other ${EXAM_ONLY_COUNT} states you can go straight to the exam. (2) Pass the state insurance licensing exam at an approved test center or online. (3) Submit a license application through NIPR or your state's producer portal and pay the application fee. (4) Complete any background check or fingerprinting required by your state. Published start-to-license timelines run ${LICENSING_WEEKS_LABEL} depending on the state, and ${FOUR_WEEK_STATE_COUNT} of the ${STATE_COUNT} states finish inside four weeks.`,
   },
   {
     question: "Do I need a sponsor or employer to get licensed?",
@@ -34,17 +129,17 @@ const gettingLicensedFaqs = [
   {
     question: "How long does it take to get an insurance license?",
     answer:
-      "Most applicants complete the process in 4 to 8 weeks. The prelicensing course typically takes 1 to 3 weeks of self-paced study. Scheduling the exam usually takes a few days to a week. Application processing by your state's DOI typically takes 1 to 4 weeks. Some states issue licenses in as little as 1 to 3 business days after a completed application.",
+      `It depends heavily on the state. Published start-to-license timelines run ${LICENSING_WEEKS_LABEL}, and ${FOUR_WEEK_STATE_COUNT} of the ${STATE_COUNT} states finish inside four weeks. The prelicensing course itself takes most students 1 to 2 weeks of self-paced study. Scheduling the exam usually takes a few days to a week. Application processing by the DOI varies just as widely — one to two business days in the fastest states, 45 to 60 days in the slowest. Your state's page shows the timeline that state publishes.`,
   },
   {
     question: "How much does it cost to get an insurance license?",
     answer:
-      "Total costs vary by state but typically range from $150 to $400. The main expenses are: prelicensing course ($199), exam fee ($40–$70), state license application fee ($30–$150), and background check/fingerprinting if required ($10–$50). JustInsurance provides an exact cost breakdown on each state's page.",
+      `Total costs vary by state — most states land in the $350-$500 range, with California nearer $545. The main expenses are: prelicensing course ($199 where required), exam fee (${EXAM_FEE_LABEL} depending on the state), state license application fee (${APPLICATION_FEE_LABEL}), and background check/fingerprinting if required. JustInsurance provides an exact cost breakdown on each state's page.`,
   },
   {
     question: "Can I get licensed in multiple states?",
     answer:
-      "Yes. Once you are licensed in your home state, you can apply for non-resident licenses in other states through a process called reciprocity. Most states participate in the NIPR reciprocal licensing system, which allows you to apply online without retaking the exam or completing additional prelicensing education. Non-resident application fees are typically $30 to $100 per state.",
+      "Yes. Once you are licensed in your home state, you can apply for non-resident licenses in other states through a process called reciprocity. Most states participate in the NIPR reciprocal licensing system, which allows you to apply online without retaking the exam or completing additional prelicensing education. Non-resident application fees are set by each state and are frequently as high as or higher than the resident fee — California charges $188 and Illinois $380 for a non-resident producer license. Check NIPR's state requirements page for each state before you budget.",
   },
 ];
 
@@ -57,7 +152,7 @@ const ourCoursesFaqs = [
   {
     question: "How long do I have access to the course?",
     answer:
-      "Prelicensing courses include 30 days of access from enrollment. CE courses are available until you complete them. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their prelicensing course in 1 to 3 weeks.",
+      "Prelicensing courses include 30 days of access from enrollment. CE courses are available until you complete them. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their prelicensing course in 1 to 2 weeks.",
   },
   {
     question: "What is included in a JustInsurance course?",
@@ -67,7 +162,7 @@ const ourCoursesFaqs = [
   {
     question: "Does JustInsurance offer a pass guarantee?",
     answer:
-      "Yes. If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. This guarantee reflects our confidence in the quality of our course content and your preparation. Not available for Ohio, Illinois, or West Virginia courses.",
+      `Yes. If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass — provided you submit your refund request with your official score report within 30 days of the failed exam. This guarantee reflects our confidence in the quality of our course content and your preparation. Not available for ${passGuaranteeExcludedLabel()} courses.`,
   },
   {
     question: "Are JustInsurance courses fully online?",
@@ -80,12 +175,12 @@ const continuingEducationFaqs = [
   {
     question: "How many CE hours do I need to renew my insurance license?",
     answer:
-      "Most states require 24 CE hours per 2-year renewal cycle. Exceptions include Arizona (48 hours / 4 years), Massachusetts (45 hours / 3 years), Iowa (36 hours / 3 years), Ohio (24 hours / 2 years), Wyoming (24 hours / 2 years), and South Dakota (10 hours / 1 year). Your state's requirement is shown on the /license-renewal-guide page.",
+      `Most states require 24 CE hours per 2-year renewal cycle, but totals run from ${CE_HOURS_LABEL}. The states that differ are ${CE_EXCEPTIONS_LABEL}. Your state's requirement is shown on the /license-renewal-guide page.`,
   },
   {
     question: "Does JustInsurance report CE completions to my state?",
     answer:
-      "Yes. JustInsurance is a state-approved CE provider in the states where we offer CE. Completions are reported directly to your state's Department of Insurance — typically the same business day. You do not need to submit transcripts or paperwork yourself.",
+      `Yes, wherever our CE provider approval has issued — currently ${CE_APPROVED_COUNT} of the ${STATE_COUNT} states, with ${CE_PENDING_LABEL} still pending. In those approved states, completions are reported directly to your state's Department of Insurance — typically the same business day — so you do not need to submit transcripts or paperwork yourself.`,
   },
   {
     question: "What happens if I miss my CE deadline?",
@@ -95,7 +190,7 @@ const continuingEducationFaqs = [
   {
     question: "Do CE credits expire?",
     answer:
-      "CE completions are tied to your renewal cycle. Credits completed before your previous renewal generally cannot be carried forward to the next cycle — they must be earned fresh each renewal period. Check your state's rules if you completed CE courses early and want to understand how they apply to your upcoming renewal.",
+      "CE completions are tied to your renewal cycle. Whether excess hours carry forward into the next cycle depends entirely on your state — many states allow a capped carryover (Florida and Pennsylvania up to 24 hours, South Carolina up to 18, Georgia and Illinois up to 12), while many others do not permit it at all, and ethics hours usually cannot carry. Check your state's rule before buying extra CE if you completed courses early and want to understand how they apply to your upcoming renewal.",
   },
   {
     question: "Are ethics courses required for CE renewal?",
@@ -108,22 +203,22 @@ const examDayFaqs = [
   {
     question: "Who administers the insurance licensing exam?",
     answer:
-      "Insurance licensing exams are administered by two main vendors: Pearson VUE and PSI. Which one applies to you depends on your state. Both offer in-person test centers and online proctored options. Your state's candidate handbook will specify the exam provider and link to the scheduling portal.",
+      `Most states use one of two vendors — Pearson VUE or PSI — but not all of them do. Prometric administers the exam in ${PROMETRIC_STATES_LABEL}; Alabama's exam is administered by the University of Alabama; and Kentucky's is administered directly by the Kentucky Department of Insurance at state testing sites. Pearson VUE and PSI both offer in-person test centers and online proctored options. Your state's candidate handbook or Department of Insurance page will specify the exam provider and link to the scheduling portal.`,
   },
   {
     question: "What is the format of the insurance licensing exam?",
     answer:
-      "The exam is multiple choice with 100 to 150 questions, a 2 to 3 hour time limit, and a passing score of 70% (75% in some states). You will not know which specific questions appeared in your score until results are posted — the exam is adaptive in some states. Results are provided immediately after completion.",
+      `The exam is multiple choice, typically with 100 to 150 questions and a 2 to 3 hour time limit. The passing standard varies by state: ${PASSING_SCORE_SENTENCE}. In ${SCALED_SCORE_COUNT} states the number the vendor reports is a scaled score rather than the raw percentage of questions you answered correctly, so a 70 there does not mean 70% correct. It is a fixed-length, linear test — not adaptive — so your state's candidate handbook publishes the exact question count and time limit for each exam. Some exams add a small number of unscored experimental questions on top of the scored items. Results are provided immediately after completion.`,
   },
   {
     question: "How many times can I retake the exam if I fail?",
     answer:
-      "Most states allow unlimited retakes within a 12-month period, with a waiting period of 24 hours to 14 days between attempts. A few states limit the total number of attempts before requiring additional steps, such as retaking a prelicensing course. Your score report will specify the retake waiting period.",
+      "Retake rules vary widely by state. Some states let you rebook the next available date with no mandatory wait; others impose escalating waits after repeated failures — Alabama requires 90 days after a second failure and 180 days after a fourth, Kansas requires 6 months after a third failure, and Arizona bars retesting for a full year after a fourth failure within 12 months. A few states also cap the total number of attempts before requiring additional steps, such as repeating the application process. Your score report and your state's page will specify the retake waiting period that applies to you.",
   },
   {
     question: "Can I take the insurance exam online from home?",
     answer:
-      "Yes, in most states. Pearson VUE offers online proctored testing through OnVUE, and PSI offers online testing through PSI Bridge. Online exams require a webcam, microphone, a clean and private test environment, and a stable internet connection. Some states still require in-person testing — check with your state's exam provider before scheduling.",
+      "In many states, yes. Pearson VUE offers online proctored testing through OnVUE, and PSI offers online testing through PSI Bridge. Online exams require a webcam, microphone, a clean and private test environment, and a stable internet connection. States that use a different administrator have their own rules — Kentucky, for example, tests only at its state testing sites — and some Pearson VUE and PSI states still require in-person testing. Check with your state's exam provider before scheduling.",
   },
   {
     question: "What should I bring to the exam?",

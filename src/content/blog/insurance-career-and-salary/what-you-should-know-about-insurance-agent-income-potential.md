@@ -61,10 +61,10 @@ It depends on factors like your sales activity, networking efforts, and local ma
 
 ### 5\. What kind of support does JustInsurance provide?
 
-JustInsurance offers comprehensive training materials, access to marketing collateral, and ongoing mentorship to help you succeed. They also provide technology platforms that streamline your day-to-day tasks, freeing you up to focus on providing top-tier service to your clients.
+JustInsurance is an online insurance education platform, so the support we provide is educational rather than sales support. That means prelicensing and exam-prep courses (state-approved in the states that run a prelicensing approval program), full-length practice exams, continuing education once you’re licensed, and guidance through exam scheduling, the background check, and the NIPR application. What we don’t do is appoint agents, supply products, pay commissions, or hand out marketing collateral, mentorship, and client-servicing software — those come from whichever carrier, agency, or IMO you contract with after your license is issued.
 
 ## Plan your next steps
 
-If you want a career where your earning potential grows with your experience, and you enjoy building relationships, becoming an insurance agent might be the path for you. Connect with JustInsurance to explore training opportunities or get a personal consultation about starting in the field.
+If you want a career where your earning potential grows with your experience, and you enjoy building relationships, becoming an insurance agent might be the path for you. Connect with JustInsurance to find the prelicensing or exam-prep course for your state and get your license in hand — the first step before any carrier or agency can put you to work.
 
 By combining consistent effort and a commitment to meeting client needs, you can carve out a rewarding future in insurance sales. Take the first step now—your success story begins as soon as you decide to pursue it. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

@@ -25,7 +25,7 @@ If you’re aiming to sell a specialized product—like life insurance or health
 
 ## Complete your pre-licensing training
 
-Once you know which line(s) of insurance you’ll handle, your next step is to sign up for a state-approved [Ohio prelicensing](/ohio/prelicensing) course. This is where you’ll receive the official instruction required for each license type. Think of it as the classroom phase of your training, where you’ll learn about policy types, ethics, and state insurance regulations.
+Once you know which line(s) of insurance you’ll handle, your next step is to sign up for a state-approved [Ohio prelicensing](/ohio/prelicensing) course for the line you’re pursuing. This is where you’ll receive the official instruction required for that license. Think of it as the classroom phase of your training, where you’ll learn about policy types, ethics, and state insurance regulations.
 
 You can often choose between in-person sessions and online learning. In-person classes let you ask questions on the spot and interact with an instructor. Online programs offer flexibility if you have a busy schedule or prefer to study at your own pace. Whichever option you pick, make sure it’s from a provider recognized by the Ohio Department of Insurance.
 
@@ -36,11 +36,11 @@ You can often choose between in-person sessions and online learning. In-person c
 -   Property & Casualty: Covers home, auto, and business property policies
 -   Personal Lines: Targets personal residential and auto coverage
 
-Each line typically requires set hours of study—always verify that you complete all mandated coursework before your exam. This ensures you’re well-prepared and meet the legal minimum of instruction.
+Each line typically requires set hours of study—always verify that you complete all mandated coursework before your exam. This ensures you’re well-prepared and meet the legal minimum of instruction. JustInsurance’s prelicensing courses cover the **Life** and **Health** lines; if you’re pursuing Property & Casualty or Personal Lines, you’ll complete those hours through a separate ODI-approved property and casualty course.
 
 ## Register for your license exam
 
-After finishing your pre-licensing training, you’ll receive a certification of completion. You’ll need that document when you register for the state licensing exam. The registration process is usually done online, and you can select the time, date, and location that works best for you. You’ll pay an exam fee, which can vary depending on your chosen line(s) of authority.
+After finishing your pre-licensing training, you’ll receive a certification of completion. You’ll need that document when you register for the state licensing exam. The registration process is usually done online, and you can select the time, date, and location that works best for you. You’ll pay a $49 exam fee, and that amount is the same no matter which line(s) of authority you’re testing for—Ohio uses one flat examination fee.
 
 Double-check the exam requirements in advance. You may need to bring two forms of valid ID, and in some cases, you’ll have to share your completion certificate. If you miss any of these tasks, you could lose your appointment and have to reschedule, which means more time and additional fees.
 
@@ -66,7 +66,7 @@ When renewing, be prepared to pay a renewal fee and submit proof of completed CE
 
 ## Take your next step with JustInsurance
 
-If you’re looking for a friendly, reliable partner to guide you through Ohio insurance license training, JustInsurance can be a great resource. They offer state-approved pre-licensing programs designed to streamline your education and help you succeed on exam day. With clear course materials, flexible study schedules, and knowledgeable instructors, you’ll feel supported every step of the way.
+If you’re looking for a friendly, reliable partner to guide you through Ohio insurance license training, JustInsurance can be a great resource. They offer state-approved Life and Health pre-licensing programs designed to streamline your education and help you succeed on exam day. With clear course materials, flexible study schedules, and knowledgeable instructors, you’ll feel supported every step of the way.
 
 Once you’ve decided you’re ready, explore the course options and pick the one that best fits your schedule and learning preference. Before you know it, you’ll be submitting your application and stepping into a new career path. And if you need extra help or have any questions along the way, JustInsurance’s support team is there to back you up.
 

@@ -25,9 +25,11 @@ Keep reading for practical tips on how to prepare effectively, spot any tricky d
 
 Before you can truly conquer [Tennessee insurance license](/tennessee) exam questions, you need to know how the test itself is structured. Understanding the big picture sets you up for success when you dive into details.
 
-In Tennessee, you typically have two main categories of exams: Life & Health (L&H) and Property & Casualty (P&C). You may opt to take just one or both, depending on your career path. Each category covers a range of topics such as state regulations, general insurance principles, policy provisions, and ethical practices.
+Here is the first thing to get straight, because candidates get it wrong in both directions: Pearson VUE administers a distinct examination for each line of authority — Life, Accident & Health, Property, and Casualty each carry their own content outline, their own question allocation, and their own $55 fee — but Tennessee does sell combination reservations. Book Life and Accident & Health together through OnVUE and the pair is $80. Property and Casualty together is likewise $80. Add Title to either pairing and it is $125. At a test center the handbook requires each single-line exam to be taken alone in one session, so combinations are a remote-testing option only.
 
-It helps to check the Tennessee Department of Commerce and Insurance website for the exact content outlines. Familiarize yourself with required hours of [Tennessee prelicensing education](/tennessee/prelicensing), the format and length of the exam, any fees involved, and how to book your test date. By clarifying all the “who, what, where, and how” questions in advance, you’ll remove a lot of stress from your experience.
+What a combination buys you is one reservation at a discount — $80 instead of the $110 two single-line bookings would cost, or $125 instead of $165 for three. It does not buy you a single merged test. You still sit each line exam in turn, and each is scored independently, so passing one and failing the other leaves you holding exactly the line you passed. Every one of them covers a range of topics such as Tennessee regulations, general insurance principles, policy provisions, and ethical practices.
+
+It helps to pull the official Pearson VUE Tennessee content outlines and candidate handbook for the exact topic breakdown. One detail that surprises many candidates: Tennessee requires no [prelicensing education](/tennessee/prelicensing) before you sit the exam. The mandatory-hours requirement was eliminated in 2023, so there is no course you must finish and no completion certificate you must present in order to book a seat. A structured course is still the fastest, most reliable way to prepare — but it is your choice, not a state hurdle. Beyond that, familiarize yourself with the format and length of the exam, the fees involved, and how to book your test date. By clarifying all the “who, what, where, and how” questions in advance, you’ll remove a lot of stress from your experience.
 
 ## Create a solid study schedule
 
@@ -66,7 +68,7 @@ If time allows, review your answers once you’ve finished. Unforced errors happ
 
 ## Explore helpful resources
 
-Your pre-licensing classes form the backbone of your study, but there are other resources you can tap into. Some students benefit from attending live review sessions or joining study groups for a deeper dive into complex topics. Others prefer digital flashcard apps that let them quiz themselves on the go.
+If you’ve opted into a prelicensing course, it forms the backbone of your study — but there are other resources you can tap into either way. Some students benefit from attending live review sessions or joining study groups for a deeper dive into complex topics. Others prefer digital flashcard apps that let them quiz themselves on the go.
 
 If you’re looking for extra clarity from experienced professionals, you might explore services like JustInsurance. They’re known for offering additional guidance and detailed question banks that align with Tennessee regulations. This can save you time hunting for reliable study material scattered across the web.
 
@@ -86,11 +88,11 @@ If you feel that test anxiety creeping in, remember your strategy. Work methodic
 ## Frequently asked questions
 
 1.  How many Tennessee insurance license exam questions are there?  
-    The exact number varies based on the specific line of authority. Life & Health and Property & Casualty exams typically feature between 100 and 150 questions. Check the testing provider’s guidelines for an accurate count.
+    It varies by line of authority. The Life, Accident & Health, Property, and Casualty exams each contain 77 questions — 68 scored plus 9 unscored pretest questions — within a 105-minute limit. Personal Lines is the long one at 111 questions (100 scored plus 11 pretest). Check the current Pearson VUE Tennessee content outlines for an accurate count before you book.
 2.  What is the passing score for the Tennessee insurance exam?  
-    In most cases, you need at least 70 percent correct to pass. However, confirm this with the official Tennessee Department of Commerce and Insurance resources so you don’t rely on outdated or incorrect information.
+    Tennessee’s standard is a scaled score of 70 on a 0–100 reporting scale — which is not the same thing as answering 70 percent of the questions correctly. Pearson VUE statistically converts your raw score, so the number of correct answers you need shifts slightly depending on which form of the exam you sit. The candidate handbook puts it plainly: the reported score “is neither the number of questions answered correctly (the raw score) nor the percentage of questions answered correctly.” Confirm current standards with the official Tennessee Department of Commerce and Insurance resources so you don’t rely on outdated or incorrect information.
 3.  How do I register for the exam?  
-    You’ll register through the authorized testing provider’s website once you complete your required pre-licensing education. You can often choose a convenient test location and date that fits your schedule.
+    You register directly with Pearson VUE, Tennessee’s authorized testing provider. There is no prelicensing education you must complete first, so you can book as soon as you feel ready. Reservations must be made at least 24 hours ahead and walk-in exams are not available, so plan the date rather than showing up. You can choose a convenient test location and time that fits your schedule.
 4.  Is it possible to reschedule if I’m not ready?  
     Many testing providers allow you to reschedule as long as you do so within their policy guidelines. Always check the provider’s specific rescheduling or cancellation requirements to avoid any last-minute fees.
 5.  How long are my test results valid?  

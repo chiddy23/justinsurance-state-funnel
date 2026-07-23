@@ -1,7 +1,7 @@
 ---
-title: "In-Person vs. Remote: Choosing Your Pearson VUE Format for the Colorado Insurance Exam"
+title: "In-Person vs. Remote for the Colorado Insurance Exam: Why Every Candidate Now Tests at a Pearson VUE Center"
 description: >-
-  Colorado insurance licensing candidates have two options for how they sit for the Pearson VUE state exam: in-person at a physical Pearson VUE test cente...
+  Colorado no longer offers remote insurance licensing exams. The Division of Insurance ended online (OnVUE) testing in December 2025, so every Colorado exam is now taken at a physical Pearson VUE test center. Here is what changed and how to plan around it.
 keyword: inperson vs remote choosing your pearson vue format for the
 targetKeywords: inperson vs remote choosing your pearson vue format for the
 cluster: state-license-colorado
@@ -10,203 +10,115 @@ type: supporting
 date: '2026-05-11'
 author: Justin vom Eigen
 image: /blog/images/your-ultimate-guide-to-colorado-insurance-license-renewal.jpg
-imageAlt: "In-Person vs. Remote: Choosing Your Pearson VUE Format for the Colorado Insurance Exam"
+imageAlt: "In-Person vs. Remote for the Colorado Insurance Exam: Why Every Candidate Now Tests at a Pearson VUE Center"
 ---
 
-Colorado insurance licensing candidates have two options for how they sit for the Pearson VUE state exam: in-person at a physical Pearson VUE test center or remotely through OnVUE, Pearson's online proctored platform. Both options deliver the same exam content, use the same scoring system, and produce results that are identical in the eyes of the Colorado Division of Insurance. The format decision is entirely logistical — it is about which environment gives you the best conditions to demonstrate what you have prepared. This post maps every relevant difference between the two formats so you can make the right choice for your specific situation before you schedule.
+If you are trying to decide between testing in person and testing remotely for your Colorado insurance license, the decision has already been made for you. Colorado no longer offers a remote option. The Colorado Division of Insurance ended online insurance licensing examinations, and as of today every Colorado insurance licensing exam — Life, Accident and Health, Property, Casualty, Personal Lines, and the limited lines — is administered at a physical Pearson VUE test center.
 
-## The Core Difference: Environment Control
+This post explains exactly what changed, what it means if you were counting on testing from home, and how to prepare for the test-center experience that is now the only path to a Colorado license.
 
-The fundamental distinction between in-person and OnVUE testing is where environmental control sits. At a physical test center, the testing environment is controlled for you — the facility, the workstation, the security protocols, and the technical setup are all standardized and managed by the test center staff. Your only job is to show up, pass ID verification, and perform. With OnVUE, you control the environment — you provide the device, the internet connection, the private room, and the correct technical configuration. That shifts the preparation burden from logistics to self-management.
+## What Changed and When
 
-Neither format is objectively better. The right choice depends on your specific circumstances, home environment, and comfort with technology.
+The Colorado Division of Insurance announced that it would cease accepting new registrations for online insurance licensing examinations as of December 15, 2025. Candidates who had already registered for an online exam were permitted to sit it only if the exam was scheduled on or before January 6, 2026. After that date, online delivery ended.
 
-## Format Comparison: Side by Side
+The Division's stated reasoning was straightforward: online licensing exams were first offered during the COVID-19 public health emergency, which has not been in place in Colorado since 2021. After a program review, Colorado — like a number of other states — decided to stop offering them. The Division noted that Colorado has 37 physical test centers located throughout the state, so test-center access was not treated as a barrier.
 
-## In-Person Testing: The Details
+The change is reflected in the current Pearson VUE Colorado Insurance Licensing Candidate Handbook. The handbook now describes a single delivery path — "Go to the test center on the day of the examination" — and its fee schedule lists one examination line item at $41. The separate online-exam fee row, the online retake policy, and the online check-in procedures that appeared in earlier editions have all been removed.
 
-Primary Colorado test center: Pearson VUE Colorado Insurance 3131 S. Vaughn Way, Suite 205 Aurora, CO 80014
+### If You Passed an Exam Online Before the Cutoff
 
-Additional authorized Pearson VUE test centers exist across Colorado including in Fort Collins, Colorado Springs, Grand Junction, and other Front Range and regional cities. Availability varies by location — check pearsonvue.com/co/insurance to find centers near you and confirm scheduling availability before committing to a location.
+A passing score earned through the former online option is still a valid passing score. Colorado does not treat it differently from a test-center result. What matters is the standard score-validity rule, which has not changed: passing scores are valid for one year from the examination date, and your license application must be received within one year of passing. If you passed in late 2025 or the first week of January 2026 and have not yet applied, check that date carefully.
 
-Arrival: Report to the test center at least 30 minutes before your scheduled exam time to complete the check-in process. Late arrivals are not admitted and forfeit the exam fee. Build travel margin beyond your normal estimate — traffic, parking, and building navigation add time you cannot recover on exam day.
+## What This Means If You Were Planning to Test From Home
 
-Check-in process: At the test center you will:
+The practical consequences fall into three buckets.
 
-Present two forms of valid identification; the primary ID must be government-issued, photo-bearing, and signature-bearing; the secondary ID must bear your signature
+Travel becomes part of your exam plan: whatever your distance to the nearest of Colorado's 37 test centers, that trip is now a fixed cost of licensure. Build it into your schedule the same way you build in study time — pick your center, confirm its availability, and book the date before you finish your coursework, not after.
 
-Be photographed — the photo appears on your score report
+Seat availability now drives your timeline more than your study pace does: with one delivery channel instead of two, popular Front Range dates fill. Reservations must be made at least 24 hours in advance and walk-in examinations are not available, so "I'll schedule when I feel ready" is a strategy that can cost you weeks. Your prelicensing course completion is only good for one year, so a scheduling delay eats a window you cannot extend.
 
-Surrender all personal items (phone, wallet, watch, keys) to a locker or your vehicle before entering the testing room
+The home-environment tradeoff: the risks are gone, and so is the convenience. You no longer have to secure a private room, disconnect a second monitor, or worry about a family member walking in and voiding your session. The test center controls all of that for you. In exchange, you are on their clock and their check-in process.
 
-Receive scratch paper or an erasable board for notes — you may not bring your own materials and may not remove provided materials from the testing room
+## Test-Center Testing: What to Expect
 
-Prohibited in the testing room: Cell phones, smart watches, electronic devices of any kind, wallets, purses, food, gum, tobacco products, and any study materials. Beverages are permitted.
+### Before Exam Day
 
-The combined session advantage: This is the most significant reason to choose in-person over OnVUE for candidates pursuing both Property and Casualty. At a physical test center, you can take both the Property exam and the Casualty exam in a single session for one combined fee (confirm the current amount with Pearson VUE) — 240 total minutes (120 per exam). OnVUE does not offer combined sessions, so two separate OnVUE bookings ($48 each, $96 total) are required for the same two exams that cost less as a single in-person combined session. For candidates pursuing both lines simultaneously, in-person is the financially and logistically superior choice.
+Making the reservation: Schedule online through the Pearson VUE Colorado Insurance portal at pearsonvue.com/us/en/co/insurance.html, or by phone at (800) 274-2616. Online reservations must be made at least 24 hours before the desired date; phone reservations at least one business day ahead. Before you call, have your legal name, address, date of birth, the exam name, your preferred date and center, and the five-digit code of your prelicensing provider.
 
-No-breaks rule: There are no scheduled breaks during the exam. You remain in the testing room for the full duration. The 120-minute Life, A&H, Property, or Casualty exams and the 135-minute Personal Lines exam are continuous. Plan accordingly before your appointment.
+What it costs: The Colorado licensing examination fee is $41, paid at the time of reservation by credit card, debit card, or voucher. Fees are not accepted at the test center, and all fees are non-refundable and non-transferable.
 
-## OnVUE Remote Testing: The Details
+The combined-session advantage: Per the Pearson VUE Colorado candidate handbook, candidates may take up to two examinations during one exam session for a single fee of $41. If you are pursuing two lines — Property and Casualty, or Life and Accident & Health — sitting both in one session means one trip, one appointment, and one $41 fee instead of two. Each exam still carries its own time allotment, so a Property-and-Casualty session runs the full 120 minutes per exam. Note that Colorado does not offer a combined Life & Health examination; the two lines are separate exams that you may simply schedule into the same session.
 
-What OnVUE is: OnVUE is Pearson VUE's secure online proctoring platform. Your exam is delivered to your own device and monitored in real-time by a remote proctor via your webcam and microphone. The exam content and scoring are identical to in-person — what changes is the delivery environment.
+Changing or canceling: Call Pearson VUE at (800) 274-2616 at least 48 hours before your appointment to change or cancel. With proper notice you may transfer the fee to a new reservation or request a refund. Without proper notice, you forfeit the fee.
 
-### System Requirements (April 2026)
+Accommodations: Pearson VUE provides reasonable accommodations under the ADA — a separate testing room, extra testing time, or a reader or recorder, among others — for candidates with documented disabilities. Requests are individualized and require supporting documentation, and they must be arranged before you schedule, not on exam day. Candidates whose first language is not English may also request additional time, and word-for-word translation dictionaries are permitted in the exam room after test center staff inspect and approve them.
 
-Before scheduling OnVUE, run the system test available at pearsonvue.com/us/en/co/insurance. Do this on the same computer and internet connection you plan to use for the exam — not on a different device. System requirements as of April 2026:
+### Exam Day
 
-Operating system:
+Arrival: Report to the test center 30 minutes before your scheduled exam time to complete check-in. Candidates who are absent or late and did not cancel under the 48-hour policy will not be admitted and will forfeit the fee. Build travel margin beyond your normal estimate — traffic, parking, and building navigation add time you cannot recover.
 
-Windows 11 or Windows 10 (64-bit) — must pass Genuine Windows Validation
+Identification: You must present two forms of current signature identification, and the name on your ID must exactly match the name on your registration. The primary ID must be government-issued, photo-bearing, and signed — a driver's license, state or national ID card, passport or passport card, military ID, or permanent resident card. The secondary ID must carry a valid signature, such as a Social Security card or a credit or debit card. Identification must be in English. Pearson VUE does not recognize grace periods on expired IDs: if your license expired yesterday, it is expired.
 
-macOS 10.15 (Catalina) or later
+Check-in: Test center staff review your identification and photograph you; that photo appears on your score report. You store all personal items in a secure area or return them to your vehicle, and all electronic devices must be powered off before storage.
 
-Hardware:
+In the testing room: No personal items are permitted — phones, smart watches, other electronic devices, pagers, wallets, purses, hats, bags, coats, books, notes, pens, and pencils all stay in the locker. Studying inside the test center is not allowed, and visitors, children, family, and friends may not accompany you. You may not bring your own scratch materials; the administrator provides materials for notes and calculations once you are seated, and you may begin writing on them during the tutorial. Eating, drinking, chewing gum, and smoking are prohibited during the exam.
 
-Desktop or laptop computer only — tablets are prohibited unless they have a physical keyboard and meet all other requirements; mobile phones are strictly prohibited as exam devices or webcams
+The tutorial: You get an opportunity to run a short tutorial on the exam computer, and that time does not reduce your examination time. The exam clock starts the moment you view the first question.
 
-Minimum 4 GB RAM; Pearson recommends exceeding minimum specifications
+Breaks: There are no scheduled breaks built into the Colorado exams. Break policy is set by the exam sponsor, and the exam clock does not stop for an unscheduled break — plan to sit the full allotted time in one stretch.
 
-Display resolution: minimum 1024×768
+Time allotted: Life, Accident and Health, Property, and Casualty are each two hours. Personal Lines is two hours and fifteen minutes. Among the limited lines, Public Insurance Adjuster and Title are one hour and fifteen minutes each, and Credit, Crop Hail Adjuster, and Surplus Lines are 45 minutes each.
 
-Webcam: internal or external; minimum 640×480 at 10 fps; must be forward-facing at eye level showing head and shoulders; cannot be placed at an angle
+Results: Testing at a Pearson VUE test center, your score report is provided to you at the center before you leave.
 
-Microphone: functional, not muted
+## Scoring and Retakes
 
-Speakers: functional
+Colorado uses scaled scoring. The Division set the passing standard in conjunction with Pearson VUE after a comprehensive study of each examination, and raw scores are converted to a scaled score on a 0-to-100 scale — a scaled 70 is the passing mark. That number is neither the count nor the percentage of questions you answered correctly, and numeric scores are only reported to failing candidates, where the score indicates how close you came rather than a raw tally.
 
-Prohibited hardware configurations:
+If you do not pass, you must wait 24 hours before making a reservation for a retake, and reexamination reservations cannot be made at the test center. There is no cap on the number of test-center attempts. What does limit you is your coursework: Colorado prelicensing training is valid for one year, and if you have not passed within a year of completing it, you must retrain.
 
-Multiple monitors — forbidden; disconnect all secondary displays
+## What Did Not Change
 
-Touch screens — strictly forbidden
+The end of remote testing did not alter the substance of the exam or the licensing process:
 
-VPNs and proxies — must be disabled before launching OnVUE
+The same content outlines, question pool, and exam construction
 
-Work computers — strongly discouraged; corporate firewalls and restrictions frequently prevent successful exam delivery; use a personal computer
+The same $41 examination fee and the same two-exams-in-one-session allowance
 
-Internet:
+The same scaled passing standard
 
-Minimum 3 Mbps download / 2 Mbps upload
+The same one-year validity on a passing score, and the same one-year validity on prelicensing training
 
-Stable wired connection preferred; Wi-Fi is acceptable but less reliable
+The same prohibition on notes, books, and reference materials of any kind
 
-VPNs and proxies must not be active during the exam session
-
-Supported browsers: Chrome, Safari, Firefox, or Microsoft Edge (latest versions) for the registration portal; the OnVUE application itself must be downloaded and run separately
-
-Browsers: Cookies must be enabled; pop-up blocking must be disabled
-
-### The Testing Environment
-
-Your testing space must meet specific conditions. If any condition is not met at check-in, your exam is cancelled and the fee forfeited:
-
-A private room with walls and a door — not an open office, coffee shop, library, or shared space
-
-No other person may enter or be visible in the room during the exam; if anyone enters, the exam is terminated immediately
-
-The surface your computer rests on must be completely clear of objects — no notes, books, phones, secondary devices, food packaging, or personal items
-
-Phone, smart watch, and any other electronic devices must be placed out of sight and out of reach — not just face down, but removed from the desk
-
-All doors in the room (including closet or bathroom doors) must be closed
-
-No physical scratch materials: OnVUE does not allow you to use paper, whiteboards, or physical scratch materials during the exam. You are provided an on-screen whiteboard tool within the exam interface for notes and calculations. This is a meaningful difference from in-person testing, where physical scratch materials are provided. Candidates who are accustomed to working out coinsurance calculations or other math on paper should practice using an on-screen whiteboard before their exam day.
-
-### The Check-In Process
-
-Check-in opens 30 minutes before your exam appointment time. Do not wait until the appointment time — begin check-in as soon as the window opens. The check-in sequence:
-
-Launch the downloaded OnVUE application (download it in advance — the download can take up to 30 minutes; do not attempt to download on exam day)
-
-Complete technology checks — the system verifies your webcam, microphone, and internet connection
-
-Take a photo of yourself and your government-issued photo ID via webcam — the ID name must exactly match your exam booking name
-
-Complete a 360-degree room scan with your webcam — the proctor reviews the scan to verify the environment is compliant
-
-Be connected to a live proctor who monitors the session continuously
-
-If any check-in step fails — ID rejected, environment non-compliant, equipment failure — you cannot test and your fee is forfeited.
-
-### The One-Attempt Rule: The Most Important OnVUE Restriction
-
-You are allowed only one OnVUE attempt per exam for Colorado insurance licensing. If you take the Life exam via OnVUE and fail, your retake must be taken at a physical Pearson VUE test center. You cannot use OnVUE again for that specific line.
-
-This rule has significant strategic implications:
-
-If you fail your OnVUE attempt and live in a rural area far from a test center, your retake requires travel that OnVUE was intended to avoid
-
-If you are testing on a tight schedule with limited availability near test centers, losing OnVUE access after one attempt may constrain your retake options
-
-The one-attempt rule does not apply across different lines — if you take the Life exam via OnVUE and fail, you can still use OnVUE for your A&H exam (a separate booking)
-
-Given this rule, candidates who have any doubt about their readiness should strongly consider taking their first attempt in-person rather than OnVUE. If you fail in-person, you retain full flexibility to retake either in-person or via OnVUE. If you fail via OnVUE, in-person is your only retake option.
-
-### What Happens If OnVUE Has a Technical Problem During Your Exam
-
-If a technical issue occurs during an OnVUE session, communicate with your proctor via the in-exam chat. The proctor can address procedural issues but cannot pause or extend your exam, and cannot troubleshoot your device or internet connection. If the issue cannot be resolved:
-
-If the technical failure is attributable to Pearson VUE's systems, your attempt is typically not counted and Pearson provides either a reimbursement or a voucher for a new exam
-
-If the technical failure is attributable to your equipment or internet connection, the situation is governed by the specific circumstances — contact Pearson VUE immediately and document what occurred
-
-If your computer freezes or disconnects, close and relaunch the OnVUE application from your downloads folder. Do not use your phone or another device to contact support during the exam — any second device visible during the session violates exam security rules.
-
-## Choosing Your Format: A Decision Framework
-
-Work through these questions before scheduling:
-
-Question 1: Am I taking Property and Casualty together? If yes → In-person. The combined session costs less than two separate OnVUE bookings and consolidates logistics — confirm the current combined-session fee with Pearson VUE. OnVUE cannot offer combined sessions.
-
-Question 2: Is my home or work environment reliably private and quiet? If no, or uncertain → In-person. A testing environment you cannot control introduces risk that the test center eliminates. A household with children, pets, other people present, or unpredictable noise creates real OnVUE compliance risk — if someone enters your room, your exam is terminated.
-
-Question 3: Is my internet connection stable and fast enough? If uncertain → In-person. Run the OnVUE system test before deciding. If the test flags any issue with your connection speed, equipment, or configuration, choose in-person. Internet variability is the most common cause of OnVUE technical failures.
-
-Question 4: Am I confident in my exam readiness? If not fully confident → In-person. The one-attempt OnVUE rule means a failed remote attempt removes OnVUE as an option for your retakes. Preserving that flexibility is worth more than any small price difference between formats. If you are well-prepared and the remote format fits your situation, OnVUE is a perfectly reliable option.
-
-Question 5: Is travel to a test center a significant burden? If yes, and questions 1–4 are all favorable → OnVUE makes sense. Candidates in rural Colorado, candidates with demanding work schedules, or candidates for whom the Aurora test center is a multi-hour round trip have a genuine logistical reason to use OnVUE. The format works well when the home environment is controlled and the technical setup is verified in advance.
-
-## What Both Formats Have in Common
-
-Regardless of format, these elements of the Colorado exam experience are identical:
-
-The same exam content, question pool, and Pearson VUE content outline
-
-The same 70% passing standard and scaled scoring methodology
-
-The same 24-hour minimum scheduling advance requirement
-
-The same 24-hour retake waiting period after a failed attempt
-
-The same one-year score validity for your passing result
-
-The same prohibition on study materials, notes, and reference documents during the exam
-
-The same immediate results — you receive a pass or fail notification at the conclusion of every session in both formats
+The same application path afterward — apply at sircon.com/colorado or nipr.com, at $44 per authority for a resident producer
 
 ## Frequently Asked Questions
 
-If I pass via OnVUE, is my passing score treated any differently than if I passed in-person?
+Can I still take the Colorado insurance exam online from home?
 
-No. The Colorado Division of Insurance and Pearson VUE treat passing scores identically regardless of delivery format. A passing score via OnVUE and a passing score at the Aurora test center produce the same license application eligibility and the same one-year validity window. The format of delivery has no bearing on the license itself.
+No. The Colorado Division of Insurance stopped accepting new registrations for online insurance licensing examinations on December 15, 2025, and the last online exams were administered on or before January 6, 2026. Every Colorado insurance licensing exam is now delivered at a physical Pearson VUE test center. If you find a study site, forum post, or older article describing an at-home option for Colorado, it is out of date — the current Pearson VUE Colorado candidate handbook describes test-center delivery only.
 
-Can I use a second monitor for reference materials during an OnVUE exam?
+I live in rural Colorado, hours from a major city. What are my options?
 
-No. Multiple monitors are strictly forbidden under OnVUE technical requirements. You must disconnect all secondary displays before beginning your check-in. Even a disconnected second monitor physically present on your desk may be flagged during the room scan as a potential security concern — put it out of sight or in another room entirely. You cannot use any reference materials during an OnVUE exam, just as you cannot at a test center. The exam must be taken entirely from memory with only the on-screen whiteboard for notes.
+The Division noted 37 physical test centers throughout the state when it announced the change, which is the realistic answer: there are likely more locations than the Aurora and Denver-metro centers you may have in mind. Use the Pearson VUE Colorado Insurance scheduling portal to see every center and its open dates before you assume the nearest option is a multi-hour drive. Because seats are finite and the fee is non-refundable, book the specific date and location first, then work backward to set your study schedule. If travel is genuinely unavoidable, sitting two lines in a single session for one $41 fee turns two trips into one.
 
-I live in rural Colorado far from any test center. Is OnVUE reliable enough for a first attempt?
+Does a score I earned online in 2025 still count toward my license?
 
-For candidates with a stable internet connection, a compatible device, and a controllable private space, OnVUE is reliable for a first attempt. The key is preparation: run the system test on your actual exam-day device and internet connection before scheduling — not just checking that you have Wi-Fi, but actually running Pearson VUE's diagnostic tool to confirm compatibility. If the system test passes cleanly, OnVUE is a viable option. If the test flags any issue, that is your answer: schedule at the nearest test center even if it requires significant travel. The cost of a failed attempt plus travel to a retake center exceeds the cost of planning one travel day for the original attempt.
+Yes. Colorado does not treat a passing score differently based on how it was delivered. The constraint is timing, not format: passing scores are valid for one year from the examination date, and your license application must be received within one year of passing. If you passed shortly before the cutoff, confirm your remaining window before you plan anything else.
 
-What ID documents are acceptable for OnVUE check-in?
+What identification do I need, and what happens if my name does not match?
 
-For OnVUE, you must present a valid, non-expired, government-issued photo ID that exactly matches the name on your exam booking. Acceptable primary IDs include a driver's license, state-issued ID card, or passport. Notably, certain IDs that are accepted at physical test centers are not accepted for OnVUE remote check-in: U.S. military IDs, Senate and House IDs, Department of Defense CAC cards, and other secure access IDs are not accepted for remote proctoring purposes. If your primary ID is a military or CAC card, you must test at a physical test center where those IDs are accepted. Ensure you verify ID compatibility before scheduling OnVUE.
+Two forms of current, signed identification, with the primary one government-issued and photo-bearing. The name on your ID must exactly match the name on your exam registration. This is the single most common avoidable check-in failure — middle names, suffixes, hyphenated or maiden names, and abbreviations all cause problems. Compare your registration confirmation against your driver's license the day you book, not the morning of the exam, and call Pearson VUE at (800) 274-2616 to correct any mismatch. If you are turned away at check-in you are treated as absent and you forfeit the fee.
 
-How early should I download and test the OnVUE application before my exam day?
+Can I request extra time or a separate room?
 
-Download OnVUE and run the full system test at least 2–3 days before your exam, not the morning of. The download can take up to 30 minutes, and post-download configuration — allowing camera and microphone permissions on Mac, disabling VPN, disconnecting secondary monitors, adjusting browser cookie and pop-up settings — takes additional time and sometimes requires troubleshooting. Mac users particularly should verify that OnVUE has the necessary System Preferences permissions for camera, microphone, Automation, and Input Monitoring before exam day. Discovering a configuration issue 20 minutes before your exam appointment is a scenario that forfeits your fee and forces rescheduling.
+Yes, through Pearson VUE's accommodations process under the ADA. Accommodations may include a separate testing room, extra testing time, or a reader or recorder, and they are evaluated case by case with documentation from the professional who diagnosed your condition. Start the request at pearsonvue.com's accommodations page and select the Colorado Insurance program — and start it well before you want to test, because the request must be approved before your reservation is scheduled. Candidates whose first language is not English can also request additional time and may use an approved word-for-word translation dictionary.
 
-Choosing the right format is a logistical decision, not a performance decision. Candidates who select the format that matches their actual situation — home environment, technical setup, schedule, and strategic flexibility — remove a variable that has nothing to do with their insurance knowledge from the equation. The exam tests what you know. The format decision is entirely within your control.
+If I fail, how soon can I test again, and how many attempts do I get?
 
-Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course built to the current Pearson VUE content outline for both in-person and remote exam delivery.
+You must wait 24 hours before making a reservation for a retake, and you cannot book the retake at the test center — schedule it online or by phone. There is no limit on the number of test-center attempts, and each attempt is a new $41 reservation. The real limit is your prelicensing certificate: it is valid for one year from course completion, and if you have not passed by then you must retake the coursework.
+
+The format question that used to dominate Colorado exam planning no longer exists. What replaced it is a scheduling question — which center, which date, and whether to sit both of your lines in one session. Answer those three early, and the exam becomes what it should have been all along: a test of what you know.
+
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course built to the current Pearson VUE content outline.

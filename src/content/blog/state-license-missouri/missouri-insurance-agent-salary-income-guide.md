@@ -30,7 +30,7 @@ Missouri median household income: ~$57,290 — below national average
 
 Missouri income tax: graduated up to 4.7% (recently lowered from 4.95%; Missouri has been progressively reducing the top rate toward a planned lower level)
 
-On $100,000 producer income: Missouri income tax ≈ $4,200-$4,700 — lower than MN's ~$7,050+, MD's ~$7,500-$9,000, and NJ's ~$7,000+ at comparable incomes; higher than Indiana's 3.05% flat
+On $100,000 producer income: Missouri income tax ≈ $4,200-$4,700 — lower than MN's ~$7,050+, MD's ~$7,500-$9,000, and NJ's ~$7,000+ at comparable incomes; higher than Indiana's 2.95% flat
 
 ## Income by Missouri Region
 
@@ -58,7 +58,7 @@ Boeing Defense manufacturing. Boeing's Hazelwood campus is a significant St. Lou
 
 Cerner/Oracle Health technology. Kansas City's largest private employer creates a technology professional community with RSU compensation (Oracle is publicly traded), career transition advisory demand, and health IT professional insurance needs.
 
-Missouri income tax trajectory. Missouri has been progressively lowering its top income tax rate (from 5.4% several years ago to 4.7% currently, with legislation targeting further reductions). The downward tax trajectory makes Missouri increasingly competitive with Indiana's 3.05% flat rate — benefiting producer take-home income over time.
+Missouri income tax trajectory. Missouri has been progressively lowering its top income tax rate (from 5.4% several years ago to 4.7% currently, with legislation targeting further reductions). The downward tax trajectory makes Missouri increasingly competitive with Indiana's 2.95% flat rate — benefiting producer take-home income over time.
 
 ## 5 Frequently Asked Questions
 

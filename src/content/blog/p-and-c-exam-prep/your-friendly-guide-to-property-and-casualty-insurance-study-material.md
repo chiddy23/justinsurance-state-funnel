@@ -32,7 +32,9 @@ Because both property and casualty insurance policies come with a variety of end
 
 The next step is to gather the right mix of reading materials, practice tools, and review aids. Exam outlines are usually provided by the testing administrator or your state’s department of insurance. These outlines break down the topics you’re expected to know—make them your roadmap for study sessions.
 
-Beyond official guidelines, you can explore textbooks, online lessons, and exam prep programs. Look for content that aligns with your state’s specific requirements, as regulations sometimes vary. You might also find downloadable PDFs or practice exams written by reputable providers like JustInsurance, which can help you gauge your progress and identify areas that need extra work.
+Beyond official guidelines, you can explore textbooks, online lessons, and exam prep programs. Look for content that aligns with your state’s specific requirements, as regulations sometimes vary. Downloadable outlines and practice question banks can help you gauge your progress and identify areas that need extra work — just confirm the material was actually written for the property and casualty exam. P&C prep and life and health prep share almost no content, so a general “insurance exam” package is not a substitute.
+
+To be clear about our own catalog: JustInsurance’s [prelicensing courses](/prelicensing) and $59 state practice exams cover the Life, Health, and Life & Health lines only. We do not publish a property and casualty prelicensing course or a P&C practice exam, so for the exam itself you will want a dedicated P&C prep provider. What we do offer on the property and casualty side is state-approved [continuing education](/property-and-casualty-ce) for producers who are already licensed.
 
 ## Try these sample questions
 
@@ -71,4 +73,4 @@ It also pays to familiarize yourself with the format of the exam. Find out how m
 
 When you feel well-prepared, your confidence level will naturally rise—making the test itself less intimidating.
 
-Wrapping up your study plan is simpler than you might think. If you’d like more structured guidance, JustInsurance offers resources and practice exams tailored to your needs. Keep at it, and remember that each small effort adds up. With consistent work, you’ll be on your way to a passing score and a rewarding future in insurance. Good luck!
+Wrapping up your study plan is simpler than you might think. Work from your state’s official exam outline, pick a prep program built specifically for the P&C exam, and practice under timed conditions. Once you pass and get licensed, our state-approved [property and casualty CE](/property-and-casualty-ce) is here for your renewals. Keep at it, and remember that each small effort adds up. With consistent work, you’ll be on your way to a passing score and a rewarding future in insurance. Good luck!

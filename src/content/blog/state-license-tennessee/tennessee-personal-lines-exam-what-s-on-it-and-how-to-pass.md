@@ -1,6 +1,6 @@
 ---
 title: "Tennessee Personal Lines Exam: What's on It and How to Pass"
-description: The Tennessee Personal Lines licensing exam is a focused alternative to holding separate Property and Casualty licenses — designed for producers who int...
+description: The Tennessee Personal Lines licensing exam is a focused alternative to carrying both the Property and Casualty lines of authority — designed for producers who int...
 keyword: tennessee personal lines exam whats on it and how to pass
 targetKeywords: tennessee personal lines exam whats on it and how to pass
 cluster: state-license-tennessee
@@ -12,9 +12,9 @@ image: /blog/images/top-tips-to-simplify-tennessee-insurance-license-renewal.jpg
 imageAlt: "Tennessee Personal Lines Exam: What's on It and How to Pass"
 ---
 
-The Tennessee Personal Lines licensing exam is a focused alternative to holding separate Property and Casualty licenses — designed for producers who intend to sell personal auto insurance and personal homeowners insurance without entering the commercial lines market. It is administered by Pearson VUE, contains 77 questions with 68 scored and 9 unscored pretest questions, requires a 70% passing score, and covers the same Tennessee state law section that appears on every other Tennessee licensing exam. No mandatory [prelicensing](/tennessee/prelicensing) course is required before sitting.
+The Tennessee Personal Lines licensing exam is a focused alternative to carrying both the Property and Casualty lines of authority — designed for producers who intend to sell personal auto insurance and personal homeowners insurance without entering the commercial lines market. It is administered by Pearson VUE, contains 111 questions — 100 scored (75 general Personal Lines questions plus 25 Tennessee state-law questions) and 11 unscored pretest questions — carries a 2-hour time limit, and requires a passing scaled score of 70 (Tennessee reports a scaled score, not a raw percentage of questions correct). It is a larger exam than the single-line major-lines tests: Property and Casualty each run 68 scored questions in 1 hour 45 minutes, while Personal Lines folds both disciplines' personal-lines content into one longer sitting. It draws on the same Tennessee regulatory core that appears on every other Tennessee licensing exam. No mandatory [prelicensing](/tennessee/prelicensing) course is required before sitting.
 
-Understanding what the Personal Lines exam covers — and what it does not — is the first strategic decision every candidate must make. Personal Lines authority is narrower than full Property and Casualty. A Personal Lines producer cannot write a business owner's policy, commercial auto, workers' compensation, or any other commercial coverage regardless of how small the client's business is. The moment a client's insurance need crosses into commercial territory, the Personal Lines license cannot serve it. This post covers the complete content of the Tennessee Personal Lines exam, the strategic considerations around choosing Personal Lines versus full P&C, and the preparation approach that produces first-time passing scores.
+Understanding what the Personal Lines exam covers — and what it does not — is the first strategic decision every candidate must make. Personal Lines authority is narrower than full Property and Casualty. A Personal Lines producer cannot write a business owner's policy, commercial auto, workers' compensation, or any other commercial coverage regardless of how small the client's business is. The moment a client's insurance need crosses into commercial territory, Personal Lines authority cannot serve it. This post covers the complete content of the Tennessee Personal Lines exam, the strategic considerations around choosing Personal Lines versus full P&C, and the preparation approach that produces first-time passing scores.
 
 ## The Scope of Personal Lines Authority in Tennessee
 
@@ -54,13 +54,13 @@ The commercial exclusion is absolute. A Personal Lines producer who writes a com
 
 ## The Two-Section Structure
 
-Like every Tennessee insurance exam, the Personal Lines exam tests two knowledge domains within one 77-question session.
+Like every Tennessee insurance exam, the Personal Lines exam tests two knowledge domains within a single session — here, 111 questions total (100 scored plus 11 unscored pretest), with a 2-hour time limit.
 
 Section 1 — General Personal Lines Concepts: Property and liability coverage for personal risks — personal auto, homeowners, dwelling fire, personal umbrella, and related personal lines products.
 
 Section 2 — Tennessee State Laws and Regulations: The TDCI regulatory framework, producer licensing requirements, Tennessee auto insurance law, and the full suite of Tennessee-specific statutory provisions that appear on every Tennessee licensing exam.
 
-The state law section on the Personal Lines exam is identical to the state law section on the Property and Casualty exams — same TDCI provisions, same Tennessee auto minimums, same workers' compensation thresholds, same bad faith penalty, same CE requirements. A candidate who holds a Property or Casualty license already has the state law section mastered for Personal Lines as well.
+The state law section on the Personal Lines exam draws on the same Tennessee regulatory core as the Property and Casualty exams — the same TDCI provisions, the same Tennessee auto minimums, the same workers' compensation thresholds, the same bad faith penalty, the same CE requirements. It is weighted more heavily than on a single major line, though: Personal Lines carries 25 scored state-law questions versus 18 on each of the Property and Casualty exams, because it folds in both the property and the personal-auto state-law provisions. A candidate who already holds the Property or Casualty line of authority has seen most of this material, but should still review the personal-lines-specific auto and property provisions.
 
 ## General Section: Personal Auto Insurance
 
@@ -154,7 +154,7 @@ Injuries covered by workers' compensation
 
 ### Part C — Uninsured and Underinsured Motorist Coverage
 
-Uninsured motorist (UM): Pays the insured's bodily injury damages when the at-fault driver has no liability insurance. Also covers hit-and-run accidents in most circumstances — Tennessee requires physical contact with the unidentified vehicle for UM coverage to apply to a hit-and-run claim.
+Uninsured motorist (UM): Pays the insured's bodily injury damages when the at-fault driver has no liability insurance. It also covers hit-and-run ("John Doe") accidents, but Tennessee sets specific proof requirements under TCA § 56-7-1201: an unknown-driver claim requires EITHER actual physical contact with the unidentified vehicle OR proof of that vehicle's existence by clear and convincing evidence from a source other than an occupant of the insured's own vehicle — and the accident must have been reported to law enforcement within a reasonable time. Physical contact is one way to qualify, not an absolute requirement.
 
 Underinsured motorist (UIM): Pays the gap between what the at-fault driver's liability insurer paid and the insured's actual damages, up to the UIM policy limits. The at-fault driver must be underinsured relative to the insured's damages — if the at-fault driver's limits equal or exceed the insured's damages, UIM does not apply.
 
@@ -366,7 +366,7 @@ The insured's own property damage (umbrella is liability coverage only)
 
 ## Tennessee State Law Section: Personal Lines Focus
 
-The state law section of the Personal Lines exam is identical to the state law section on the Property and Casualty exams. Every provision in the shared state law framework appears on all three exams. For Personal Lines candidates, the auto insurance provisions receive particular emphasis because personal auto is the dominant product category.
+The state law section of the Personal Lines exam shares the same Tennessee regulatory core as the Property and Casualty exams, though it is weighted more heavily — 25 scored state-law questions, versus 18 on each major line — and folds in both the property and the personal-auto provisions. For Personal Lines candidates, the auto insurance provisions receive particular emphasis because personal auto is the dominant product category.
 
 ### Tennessee-Specific Provisions for Personal Lines Producers
 
@@ -382,15 +382,15 @@ The no-PIP rule: Tennessee does not require personal injury protection. Tennesse
 
 TDCI licensing mechanics for Personal Lines:
 
-Pearson VUE exam; $59 per attempt; 70% pass
+Pearson VUE exam; $55 per attempt; passing is a scaled score of 70
 
 IdentoGO fingerprinting: $37.15; 2 business days before application
 
 NIPR application: $50; 48-hour post-exam mandatory wait
 
-Biennial renewal; last day of birth month; standard renewal fee (contact the TDCI for the current amount)
+Biennial renewal; last day of birth month; renewal fee $60 (or $30 for limited lines) under Tenn. Code Ann. §56-6-121
 
-60-day grace period; late fee not publicly posted (contact the TDCI); 1-year late renewal window
+No fee-free grace period — under Tenn. Code Ann. §56-6-107(d), a late renewal within 12 months of the due date costs double the unpaid renewal fee ($120, or $60 for limited lines); after 12 months, full relicensing is required
 
 CE requirements: 24 hours biennial; 3 hours ethics; no classroom minimum
 
@@ -404,7 +404,7 @@ Before finalizing your study plan, confirm that Personal Lines — rather than f
 
 Choose Personal Lines if: Your employer sells only personal auto and homeowners, your career path is clearly limited to personal insurance with no commercial exposure, and you want the lowest-cost initial licensure.
 
-Choose full Property and Casualty instead if: You have any likelihood of serving clients with commercial needs, your agency offers both personal and commercial products, you plan to eventually expand your practice, or you are uncertain about your long-term focus. The additional cost of two exams and two application fees — approximately $150–$160 more — is a modest investment compared to the cost of adding lines later and the opportunity cost of referral-based commercial needs you cannot serve with Personal Lines authority.
+Choose full Property and Casualty instead if: You have any likelihood of serving clients with commercial needs, your agency offers both personal and commercial products, you plan to eventually expand your practice, or you are uncertain about your long-term focus. Full P&C means one additional exam, and on exam fees the gap is smaller than it looks: Personal Lines is a single $55 exam, while Property and Casualty are two — $110 booked as separate single-line appointments, or $80 booked together as one OnVUE combination reservation. So full P&C costs $55 more the expensive way and only $25 more the efficient way. The $50 TDCI filing fee is the same either way, because it is charged once per application regardless of how many lines that application requests. That is a modest investment compared to the cost of adding lines later and the opportunity cost of referral-based commercial needs you cannot serve with Personal Lines authority.
 
 ### Topic Prioritization for Personal Lines
 
@@ -418,7 +418,7 @@ HO form distinctions — which form applies to which residential situation
 
 Standard homeowners exclusions — flood, earthquake, ordinance or law, business pursuits
 
-Tennessee state law — bad faith (25%), auto minimums, UM rejection, TDCI enforcement, CE (24/3), appointment rules (15 days), renewal (standard fee/60-day grace/late fee not publicly posted/1-year window)
+Tennessee state law — bad faith (25%), auto minimums, UM rejection, TDCI enforcement, CE (24/3), appointment rules (15 days), renewal (fee $60/$30; no fee-free grace period; late renewal within 12 months costs double the renewal fee; full relicensing after 12 months)
 
 Medium priority — solid understanding:
 
@@ -454,13 +454,13 @@ Essential Personal Lines state law flashcards:
 
 Take your first full-length [practice exam](/tennessee/practice-exam) after completing initial content coverage — not before. Use the score report to identify your three weakest topic areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping.
 
-The readiness threshold: Three consecutive practice exams at 80% or above. At that level, the 70% pass threshold on the actual exam is reachable even accounting for test-day performance variation.
+The readiness threshold: Three consecutive practice exams at 80% or above on the raw questions. At that level, you have the command of the material needed to clear Tennessee's passing scaled score of 70 on the actual exam, even accounting for test-day performance variation.
 
 ## Frequently Asked Questions
 
 A client tells me they run a small business from their home — can I cover their business liability under a homeowners policy as a Personal Lines producer?
 
-No — on both the coverage and the licensing level. Homeowners Coverage E excludes business pursuits liability. A client who injures a customer in their home-based business has a claim that Coverage E does not cover. The client needs a home-based business endorsement — or a separate business owner's policy if the exposure is significant. However, as a Personal Lines producer, you are not authorized to write a business owner's policy or commercial general liability policy. If the client's exposure requires commercial coverage, you must either refer the commercial placement to a producer with Property and Casualty authority or obtain P&C authority yourself. This scenario illustrates exactly why the Personal Lines vs. full P&C decision matters — personal lines clients with business exposures present commercial needs that a Personal Lines license cannot serve.
+No — on both the coverage and the licensing level. Homeowners Coverage E excludes business pursuits liability. A client who injures a customer in their home-based business has a claim that Coverage E does not cover. The client needs a home-based business endorsement — or a separate business owner's policy if the exposure is significant. However, as a Personal Lines producer, you are not authorized to write a business owner's policy or commercial general liability policy. If the client's exposure requires commercial coverage, you must either refer the commercial placement to a producer with Property and Casualty authority or obtain P&C authority yourself. This scenario illustrates exactly why the Personal Lines vs. full P&C decision matters — personal lines clients with business exposures present commercial needs that Personal Lines authority cannot serve.
 
 The HO-3 covers the dwelling on an open perils basis but personal property on a named perils basis. What exactly does that mean in practice for a client whose belongings are damaged?
 
@@ -472,4 +472,4 @@ Personal liability on a homeowners policy — and on a personal umbrella that bu
 
 The Tennessee Personal Lines exam rewards candidates who understand both the breadth of personal auto and homeowners coverage and the specific limits of Personal Lines authority. Candidates who master the PAP's four coverage parts, who can identify the right homeowners form for every residential scenario, who know the HO-3's asymmetric open perils/named perils structure, and who can recall Tennessee's 25/50/25 minimums, 50% comparative fault bar, and 25% bad faith penalty without hesitation are the candidates who pass on the first attempt and enter the personal lines market with the authorization they need.
 
-Visit JustInsurance to enroll today and complete your Tennessee Personal Lines exam prep with a state-approved course designed for Pearson VUE — and reach exam day fully prepared for every topic the exam tests.
+Visit JustInsurance to enroll today and complete your Tennessee Personal Lines exam prep with a course built to the current Pearson VUE Tennessee content outline — and reach exam day fully prepared for every topic the exam tests.

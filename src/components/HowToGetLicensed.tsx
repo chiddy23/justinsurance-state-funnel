@@ -21,7 +21,7 @@ interface HowToGetLicensedProps {
  * fingerprint code, DOI URL, etc.) so each of the 50 hubs renders correctly.
  */
 export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
-  const { name, examInfo, applicationFee, totalLicensingTime, fingerprintRequirement } = stateData;
+  const { name, examInfo, applicationFee, totalLicensingTime, fingerprintRequirement, backgroundRequirement } = stateData;
 
   // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
   // and WA) cannot claim a "state-approved" course until approval issues.
@@ -41,36 +41,86 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
       stateData.prelicensing.lifeAndHealth.hours,
     ]) === "prelicensing";
   // States that require no fingerprinting (e.g. Arkansas) must not carry a
-  // "Complete fingerprinting" step heading; the background-check step still
-  // applies, so the heading reflects the state's actual fingerprint flag.
+  // "Complete fingerprinting" step heading; the heading reflects the state's
+  // actual fingerprint flag.
   const noFingerprint =
     fingerprintRequirement.toLowerCase().includes("not required") ||
     fingerprintRequirement.toLowerCase().includes("no finger");
+  // A distinct background-check step applies only when the state runs
+  // fingerprinting OR requires an actual criminal/name-based background check.
+  // States that clear producer background purely through self-disclosure or
+  // application-based review on the license application (e.g. Colorado,
+  // Nebraska, South Dakota) have no such step — their backgroundRequirement
+  // never contains the phrase "background check". Gate on the real field so the
+  // step list and the "N steps" heading stay consistent.
+  const backgroundStepRequired =
+    !noFingerprint ||
+    backgroundRequirement.toLowerCase().includes("background check");
 
-  const steps = [
-    {
-      n: 1,
-      title: prelicensingRequiredHere
-        ? "Complete your prelicensing course"
-        : "Prepare for your exam (optional)",
-      body: `${prelicensingRequiredHere ? `Finish ${prelicensingApproved ? "a state-approved" : "an online"} prelicensing course` : `${name} does not require a prelicensing course, but most successful candidates take one. Work through an online course`} covering the ${name} exam content outline. JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line.`,
-    },
-    {
-      n: 2,
-      title: `Schedule and pass the ${name} state exam`,
-      body: `Book your exam through ${examInfo.examProvider} (${examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"}). Passing score: ${formatPassingScore(stateData.slug, examInfo.passingScore)}.`,
-    },
-    {
-      n: 3,
-      title: noFingerprint ? "Complete your background check" : "Complete fingerprinting and background check",
-      body: fingerprintRequirement || `Submit fingerprints through ${name}'s designated vendor (typically IdentoGO). Background check fees usually run $30–$50 paid directly to the vendor.`,
-    },
-    {
-      n: 4,
-      title: `Submit your license application`,
-      body: `File your producer license application via NIPR with the ${applicationFee ? `$${applicationFee}` : "state"} application fee. Most ${name} applications are processed within ${stateData.applicationProcessingTime || "a few business days"}, and most candidates complete the whole process in ${totalLicensingTime || "2-4 weeks"}.`,
-    },
+  // The "$199 per line" JustInsurance offer is a PURCHASE claim, so it may only
+  // appear where our provider approval has actually issued. When approval is
+  // still PENDING (providerApproved === false — New York and Washington today) we
+  // drop the buyable offer: a prelicensing-required held state (New York) says
+  // the course is completing approval and opening soon, while an exam-only
+  // pending state (Washington) simply keeps the generic study guidance with no
+  // JustInsurance price. Every approved state renders byte-identically.
+  const jiOfferSentence = providerApproved
+    ? " JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line."
+    : prelicensingRequiredHere
+    ? ` JustInsurance's ${name} prelicensing is completing state approval and will open for enrollment soon.`
+    : "";
+  const stepPrelicensing = {
+    title: prelicensingRequiredHere
+      ? "Complete your prelicensing course"
+      : "Prepare for your exam (optional)",
+    body: `${prelicensingRequiredHere ? `Finish ${prelicensingApproved ? "a state-approved" : "an online"} prelicensing course` : `${name} does not require a prelicensing course, but most successful candidates take one. Work through an online course`} covering the ${name} exam content outline.${jiOfferSentence}`,
+  };
+  const stepExam = {
+    title: `Schedule and pass the ${name} state exam`,
+    body: `Book your exam through ${examInfo.examProvider} (${examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"})${stateData.applicationBeforeExam ? ", after your application is processed and you receive your Authorization to Test" : ""}. Passing score: ${formatPassingScore(stateData.slug, examInfo.passingScore)}.`,
+  };
+  const stepBackground = {
+    title: noFingerprint ? "Complete your background check" : "Complete fingerprinting and background check",
+    // When fingerprinting is not required, fingerprintRequirement can be a bare
+    // "Not required" (e.g. Maryland, Oklahoma) — which reads as a contradiction
+    // under a "Complete your background check" heading. Fall back to the
+    // backgroundRequirement, which describes the actual (name-based/criminal)
+    // check in those states.
+    body:
+      noFingerprint && fingerprintRequirement.trim().toLowerCase() === "not required"
+        ? backgroundRequirement
+        : fingerprintRequirement || `Submit fingerprints through ${name}'s designated vendor (typically IdentoGO). Background check fees usually run $30–$50 paid directly to the vendor.`,
+  };
+  const stepApply = {
+    title: stateData.applicationBeforeExam
+      ? "Submit your license application and get your Authorization to Test"
+      : "Submit your license application",
+    body: `File your producer license application via NIPR with the ${applicationFee ? `$${applicationFee}` : "state"} application fee${stateData.applicationBeforeExam ? ` — ${name} requires you to apply and receive your Authorization to Test before you can schedule the exam` : ""}. Most ${name} applications are processed within ${stateData.applicationProcessingTime || "a few business days"}, and most candidates complete the whole process in ${totalLicensingTime || "2-4 weeks"}.`,
+  };
+
+  const steps = (
+    stateData.applicationBeforeExam
+      ? [stepPrelicensing, stepApply, ...(backgroundStepRequired ? [stepBackground] : []), stepExam]
+      : [stepPrelicensing, stepExam, ...(backgroundStepRequired ? [stepBackground] : []), stepApply]
+  ).map((s, i) => ({ n: i + 1, ...s }));
+
+  // Derive the "N steps" heading from the list that actually renders so the
+  // sentence can never drift from the steps (states without a background-check
+  // step render three steps, not four).
+  const stepCountWords = [
+    "zero",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
   ];
+  const stepCountWord = stepCountWords[steps.length] ?? String(steps.length);
+  const stepCountWordCap =
+    stepCountWord.charAt(0).toUpperCase() + stepCountWord.slice(1);
 
   const howToSchema = {
     "@context": "https://schema.org",
@@ -94,7 +144,7 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
           How to Get Your {name} Insurance License
         </h2>
         <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-          Four steps from start to active license. Same path for Life, Health, and Life &amp; Health producers.
+          {stepCountWordCap} steps from start to active license. Same path for Life, Health, and Life &amp; Health producers.
         </p>
         <ol className="space-y-5">
           {steps.map((s) => (

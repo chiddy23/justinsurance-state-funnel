@@ -16,15 +16,21 @@ Insurance fraud costs Virginia policyholders real money — fraudulent claims dr
 
 ## Virginia's Insurance Fraud Statute
 
-Virginia's primary insurance fraud statute is found in Title 18.2 of the Code of Virginia (the criminal code), not in Title 38.2. Va. Code § 18.2-178 (insurance fraud) prohibits:
+Virginia does not have a standalone criminal statute called "insurance fraud." It gets there in two steps, and producers should understand both.
 
-Making any false statement or representation in any application for insurance
+**Step one — the general false pretenses statute.** Va. Code § 18.2-178 is titled "Obtaining money or signature, etc., by false pretense." It provides that a person who obtains money, a gift certificate, or other property from another by any false pretense or token, with intent to defraud, "shall be deemed guilty of larceny thereof." Separately, obtaining another person's signature by false pretense — where the false making of that writing would be forgery — is a Class 4 felony.
 
-Making any false statement or representation in any claim for insurance benefits or payment
+**Step two — the insurance overlay.** Va. Code § 52-36 defines "insurance fraud" as "any commission or attempted commission of the criminal acts and practices defined in § 18.2-178 which involve any type of insurance." So a false statement on an application, a fabricated or inflated claim, or premium theft becomes insurance fraud when the § 18.2-178 conduct involves insurance. Title 52, Chapter 9 also creates the Insurance Fraud Investigation Unit inside the Virginia State Police Bureau of Criminal Investigation, which is the body that actually investigates these cases.
 
-Assisting another in making such false representations
+**How it is punished.** Because § 18.2-178 deems the offense larceny, the penalty is the larceny penalty, not a special insurance-fraud grade:
 
-Insurance fraud under § 18.2-178 is a felony (Class 5, punishable by up to 10 years in prison) when the value involved exceeds $1,000, and a Class 1 misdemeanor for smaller amounts. Federal insurance fraud statutes (18 U.S.C. §§ 1033-1034) additionally apply to persons engaged in the business of insurance, imposing federal criminal liability for willfully embezzling, stealing, or misappropriating insurance funds.
+Where the value involved is $1,000 or more, it is grand larceny under Va. Code § 18.2-95 — an unclassified felony punishable by one to 20 years in a state correctional facility, or, in the discretion of the court or jury, up to 12 months in jail and a fine of up to $2,500, either or both
+
+Where the value is under $1,000, it is petit larceny under § 18.2-96, a Class 1 misdemeanor
+
+Obtaining a signature by false pretense is a Class 4 felony under § 18.2-178 itself
+
+Federal insurance fraud statutes (18 U.S.C. §§ 1033-1034) additionally apply to persons engaged in the business of insurance, imposing federal criminal liability for willfully embezzling, stealing, or misappropriating insurance funds.
 
 ## Title 38.2 Fraud-Related Provisions
 
@@ -72,11 +78,17 @@ Virginia's 3-year record retention requirement (§ 38.2-1809) serves a dual frau
 
 What is the producer's obligation when they suspect a client or claimant is committing insurance fraud?
 
-Virginia does not impose a mandatory reporting requirement on producers for suspected consumer fraud in the same way some states do. However, producers who knowingly assist a client in filing a fraudulent claim may themselves be liable under Va. Code § 18.2-178 for aiding and abetting insurance fraud. The practical obligation is to refuse to participate in any transaction the producer believes is fraudulent and to consider whether a report to the insurer's SIU (Special Investigations Unit) or the Bureau of Insurance is appropriate under the circumstances. Producers who have reasonable suspicion of systematic fraud affecting their book of business should consult with legal counsel about reporting obligations and protections.
+Virginia does impose a reporting duty, and it is easy to miss because it lives in Title 52 rather than Title 38.2. Va. Code § 52-40(A) provides that if any insurer, any employee of an insurer, or any "insurance professional" has knowledge of, or reason to believe that, a violation of § 18.2-178 will be, is being, or has been committed, "that person shall furnish and disclose any information in his possession concerning the fraudulent act to the Department" — the Virginia State Police — subject to any legal privilege protecting the information. Va. Code § 52-36 defines "insurance professional" to include agents, so producers are squarely covered.
+
+Two related points. Va. Code § 52-41 provides immunity from civil liability for persons who furnish information about suspected insurance fraud in good faith, so the statute protects the producer who reports. And a producer who knowingly assists a client in filing a fraudulent claim may be liable under § 18.2-178 directly. The practical obligation is to refuse to participate in any transaction you believe is fraudulent, to report as § 52-40 requires, and to notify the insurer's SIU (Special Investigations Unit) under your carrier's own procedures. Producers who suspect systematic fraud affecting their book of business should consult legal counsel about the scope of the duty and the privilege limitation.
 
 What happens to a producer's license if they are convicted of insurance fraud?
 
-A felony conviction — including insurance fraud under § 18.2-178 or federal insurance fraud under 18 U.S.C. § 1033 — is grounds for mandatory license revocation under § 38.2-1831. The producer must report the conviction to the Bureau within 30 calendar days of the conviction (not just after appeals are exhausted). The Bureau will initiate license revocation proceedings. Federal 18 U.S.C. § 1033 additionally imposes a lifetime bar on engaging in the business of insurance for anyone convicted under that statute, unless written consent is obtained from the applicable state insurance authority.
+Two different things happen, and only one of them is automatic.
+
+On the state side, a felony conviction — including insurance fraud charged under § 18.2-178 or federal insurance fraud under 18 U.S.C. § 1033 — is one of the enumerated grounds for license action under § 38.2-1831. That statute is discretionary, not mandatory: it provides that the Commission "may, in addition to or in lieu of a penalty imposed under § 38.2-218, place on probation, suspend, revoke or refuse to issue or renew" a license on any of sixteen listed grounds, of which "having been convicted of a felony" is one. Revocation is the likely outcome in a fraud case, but it is an outcome the Commission chooses after a proceeding — not a result the statute imposes by operation of law. The producer must still report the conviction to the Bureau within 30 calendar days of the conviction, not just after appeals are exhausted.
+
+On the federal side, the consequence is closer to automatic. 18 U.S.C. § 1033(e) makes it a federal crime for anyone convicted of a felony involving dishonesty or breach of trust, or of a § 1033 offense, to willfully engage in the business of insurance affecting interstate commerce — unless that person first obtains written consent from the applicable state insurance regulator. In Virginia that means a § 1033 written consent application to the SCC Bureau of Insurance, and the federal bar operates independently of whatever the Commission decides about the license itself.
 
 Can a Virginia producer be held liable for misrepresentation that does not rise to the level of criminal fraud?
 
@@ -88,8 +100,8 @@ When the Bureau receives a complaint or identifies potential misconduct through 
 
 Does Virginia have a separate dedicated insurance fraud bureau like some other states?
 
-Virginia does not have a separate standalone insurance fraud bureau equivalent to NJ's OIFP. Insurance fraud investigation in Virginia is handled through a combination of the SCC Bureau of Insurance (market conduct and producer misconduct), the Virginia State Police (criminal investigation), and the Commonwealth's attorneys (prosecution of criminal insurance fraud). The Bureau of Insurance does have an enforcement/compliance unit focused on market conduct and producer discipline. Federal insurance fraud falls under FBI jurisdiction and is prosecuted by U.S. Attorneys in Virginia's four federal judicial districts.
+Virginia does not have a separate standalone insurance fraud bureau equivalent to NJ's OIFP. Insurance fraud investigation in Virginia is handled through a combination of the SCC Bureau of Insurance (market conduct and producer misconduct), the Virginia State Police (criminal investigation), and the Commonwealth's attorneys (prosecution of criminal insurance fraud). The Bureau of Insurance does have an enforcement/compliance unit focused on market conduct and producer discipline. Federal insurance fraud falls under FBI jurisdiction and is prosecuted by U.S. Attorneys in Virginia's two federal judicial districts — the Eastern District of Virginia and the Western District of Virginia, established by 28 U.S.C. § 127 — with appeals going to the Fourth Circuit.
 
 Virginia's insurance fraud framework is distributed across criminal statutes, the Title 38.2 regulatory system, and the Bureau's enforcement authority — producers who understand all three layers understand both what is prohibited and what the consequences of violations are.
 
-Visit JustInsurance to enroll today and study Virginia's insurance law enforcement framework with a state-approved course built to the current Prometric content outline.
+Visit JustInsurance to enroll today and study Virginia's insurance law enforcement framework with a course built to the current Prometric Virginia content outline.

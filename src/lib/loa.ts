@@ -27,7 +27,7 @@ export const LOA_DEFINITIONS: Record<LOASlug, LOADefinition> = {
     name: "Life & Health Insurance",
     shortName: "Life & Health",
     description:
-      "The combined life and health license authorizes agents to sell both life insurance and health insurance products under a single license. This is the most common license sought by new agents because it opens the broadest range of product opportunities—from term and whole life policies to major medical, Medicare, and long-term care coverage. Most states allow candidates to fulfill the prelicensing education requirement for both lines with a single combined course and sit for a combined state exam.",
+      "The combined life and health license authorizes agents to sell both life insurance and health insurance products under a single license. This is the most common license sought by new agents because it opens the broadest range of product opportunities—from term and whole life policies to major medical, Medicare, and long-term care coverage. Prelicensing is certified by line of authority, so the Life and Health prelicensing courses are completed separately; many states then offer a single combined Life & Health exam, while others require a separate exam for each line.",
   },
 };
 

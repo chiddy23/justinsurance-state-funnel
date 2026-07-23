@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Six-Figure Insurance Income in New Jersey: A Realistic Roadmap"
-description: New Jersey is the fifth-highest-paying state for insurance agents in the country, with commercial lines producers averaging approximately $99,634 in tot...
+description: New Jersey is one of the higher-paying states in the country for insurance agents, and commercial lines producers sit at the top of that range. Here is w...
 keyword: how to build a sixfigure insurance income in new jersey a
 targetKeywords: how to build a sixfigure insurance income in new jersey a
 cluster: state-license-new-jersey
@@ -12,7 +12,7 @@ image: /blog/images/top-nj-insurance-licensing-schools-to-kickstart-your-career.
 imageAlt: "How to Build a Six-Figure Insurance Income in New Jersey: A Realistic Roadmap"
 ---
 
-New Jersey is the fifth-highest-paying state for insurance agents in the country, with commercial lines producers averaging approximately $99,634 in total compensation and top earners — established independent producers with strong commercial books — clearing $200,000 or more annually. Six-figure income in NJ insurance is achievable. But the path to it is specific, and candidates who enter the industry without understanding what actually drives high-income outcomes in this market tend to spend years grinding at below-potential income levels before figuring out what the top producers already know. This post lays out exactly what distinguishes producers who reach $100,000+ from those who plateau at $50,000 to $60,000 — and what a realistic timeline to six figures looks like in New Jersey.
+New Jersey is one of the higher-paying states in the country for insurance agents, and within the state, commercial lines producers sit at the top of the range — a well-established independent producer with a strong commercial book can earn well into six figures. Six-figure income in NJ insurance is achievable. But the path to it is specific, and candidates who enter the industry without understanding what actually drives high-income outcomes in this market tend to spend years grinding at below-potential income levels before figuring out what the top producers already know. This post lays out exactly what distinguishes producers who reach $100,000+ from those who plateau at $50,000 to $60,000 — and what a realistic timeline to six figures looks like in New Jersey.
 
 *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
@@ -94,7 +94,7 @@ The tri-state reciprocity opportunity. NJ, NY, and PA participate in nonresident
 
 Is six-figure income realistic in New Jersey insurance within 5 years?
 
-Yes — for producers who focus on the right lines, build strong retention, and consistently develop new business throughout the five-year period. The BLS national median for insurance agents is $60,370, but NJ's median is higher — roughly $59,600 to $66,000 depending on the data source. The 90th percentile for NJ producers reaches approximately $101,015 annually according to ZipRecruiter data. For commercial lines producers specifically, total compensation averages approximately $99,634. The five-year timeline assumes consistent production (building a book rather than churning transactional business), high retention (85%+ annually), and at least partial movement toward commercial accounts rather than remaining entirely in personal lines. Producers who accomplish all three reach six figures on the expected timeline or ahead of it. Producers who struggle with retention or remain entirely in personal auto and homeowners typically earn $50,000 to $70,000 at the five-year mark regardless of production volume.
+Yes — for producers who focus on the right lines, build strong retention, and consistently develop new business throughout the five-year period. The BLS national median for insurance sales agents was $60,370 in May 2024; New Jersey estimates from commercial salary aggregators range roughly $59,600 to $66,000 depending on the source and methodology. Treat those averages as a floor rather than a ceiling: they blend new, part-time, and captive agents in with established producers, and the upper end of the NJ range — commercial lines producers with mature books — runs into six figures. We do not publish a precise percentile figure for New Jersey, because the job-posting aggregators that circulate those numbers are modeling them from advertised ranges rather than measuring what licensed producers actually earn. The five-year timeline assumes consistent production (building a book rather than churning transactional business), high retention (85%+ annually), and at least partial movement toward commercial accounts rather than remaining entirely in personal lines. Producers who accomplish all three reach six figures on the expected timeline or ahead of it. Producers who struggle with retention or remain entirely in personal auto and homeowners typically earn $50,000 to $70,000 at the five-year mark regardless of production volume.
 
 What is the single biggest lever for increasing insurance income in New Jersey?
 

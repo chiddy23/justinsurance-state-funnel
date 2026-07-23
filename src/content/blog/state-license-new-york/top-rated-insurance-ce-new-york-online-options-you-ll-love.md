@@ -53,14 +53,14 @@ As straightforward as online CE might seem, it’s still possible to trip up on 
 
 Pay special attention to each course’s guidelines, too. Some courses require seat-time tracking, meaning you must spend a certain number of minutes on each module before the system unlocks the final exam. Glancing over course rules can save you from unexpected time sinks as you approach the finish line.
 
-## Explore JustInsurance as a resource
+## A note on JustInsurance and New York CE
 
-When it comes to user-friendly online coursework, JustInsurance is a popular choice for New York agents seeking efficient CE solutions. They focus on flexible scheduling, letting you log in whenever you have spare time to learn. Plus, the interface is designed to be intuitive, so you can easily navigate modules and track your progress.
+Since this guide tells you to vet your provider, here is where we stand: JustInsurance’s New York CE provider approval is still pending with the Department of Financial Services. Until that approval issues, we cannot award or report New York CE credit, and nothing we offer will count toward your New York renewal hours. Complete your New York credits through a provider that currently appears on the DFS approved-provider list.
 
-Look for course catalogs that align with your license type, or speak to an advisor about recommended packages. With JustInsurance’s range of topics and comprehensive updates, you can stay in the loop on new regulations and business practices that keep your skill set relevant.
+That is worth saying plainly, because approval status is the detail agents skip most often when comparing online CE options. Before you pay for any course, confirm the provider is DFS-approved for your line of authority and that it will file your completion with the Department. A course can be convenient, well-designed, and inexpensive and still be worth nothing at renewal if the provider is not approved to report the credit.
 
 ## Wrap up: Your next move
 
 Complying with your CE requirements is a pivotal part of maintaining your New York insurance license. By selecting the right insurance CE New York online courses, creating a dedicated study schedule, and carefully tracking your progress, you’ll be ready for each renewal with confidence. Identify how many hours you need, find a provider that fits your learning style, and let the process unfold step by step.
 
-As soon as you finish reading this, consider jotting down a quick plan. Which courses catch your eye? How many sessions will you need to block off weekly? Once those questions are answered, you’ll have a clear roadmap to follow. And if you’re still searching for a place to begin, it may be worthwhile to explore options at JustInsurance. By taking those first steps now, you’re ensuring a smoother path to a [license renewal](/license-renewal-guide)—and one less item on your professional to-do list.
+As soon as you finish reading this, consider jotting down a quick plan. Which courses catch your eye? How many sessions will you need to block off weekly? Once those questions are answered, you’ll have a clear roadmap to follow. And if you’re still searching for a place to begin, start with the DFS approved-provider list and shortlist from there. By taking those first steps now, you’re ensuring a smoother path to a [license renewal](/license-renewal-guide)—and one less item on your professional to-do list.

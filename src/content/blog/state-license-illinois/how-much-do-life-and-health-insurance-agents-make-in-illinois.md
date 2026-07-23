@@ -43,7 +43,15 @@ Bonuses and overrides. Many agencies and carriers offer production bonuses, rete
 
 ## Income Ranges by Experience Level
 
-These ranges are working benchmarks. Top-end numbers require consistent work, strong client relationships, and often specialization in higher-revenue niches.
+Entry level (year one): roughly $38,000 to $48,000
+
+Established (a few years in, with renewals building): roughly $59,000 to $98,000
+
+Statewide average across all experience levels: about $96,810
+
+Top producers and agency owners: $150,000 and up
+
+These ranges are working benchmarks drawn from public labor-market data, not guarantees. Top-end numbers require consistent work, strong client relationships, and often specialization in higher-revenue niches.
 
 ## What Drives Illinois Income
 
@@ -75,7 +83,7 @@ Many new Illinois agents underestimate this and quit before their book produces.
 
 ## Illinois-Specific Income Considerations
 
-Chicago market opportunity. Chicago offers diverse client profiles across product lines. Corporate headquarters (Boeing, McDonald's, Abbott, Walgreens, AbbVie, Caterpillar, United, and many others) support strong group benefits markets. Significant financial services presence creates opportunity for wealth management-aligned life insurance and annuities.
+Chicago market opportunity. Chicago offers diverse client profiles across product lines. Corporate headquarters (McDonald's, Abbott, Walgreens, AbbVie, United, Allstate, and many others) support strong group benefits markets. Significant financial services presence creates opportunity for wealth management-aligned life insurance and annuities.
 
 Strong senior market. Illinois's aging population creates consistent Medicare and final expense opportunity throughout the state.
 

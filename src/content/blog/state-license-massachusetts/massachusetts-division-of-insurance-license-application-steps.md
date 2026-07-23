@@ -38,13 +38,13 @@ Coordinates with the Massachusetts Health Connector for health insurance marketp
 
 Massachusetts Division of Insurance Contact Information:
 
-Address: 1000 Washington Street, Suite 810, Boston, MA 02118-6200
+Address: One Federal Street, Suite 700, Boston, MA 02110-2012
 
 Phone: 617-521-7794
 
 Toll-Free: (877) 563-4467
 
-Email: producerupdate.mailbox@state.ma.us
+Email: producerupdate.mailbox@mass.gov
 
 Website: mass.gov/orgs/division-of-insurance
 
@@ -52,7 +52,7 @@ Website: mass.gov/orgs/division-of-insurance
 
 Before submitting your application, you should have:
 
-Passed the Massachusetts state exam through your testing vendor — Prometric through July 16, 2026, Pearson VUE from July 22, 2026 onward (no [prelicense](/massachusetts/prelicensing) required, but exam is required for most license types)
+Passed the Massachusetts state exam through Pearson VUE, the state's testing vendor since July 22, 2026 (Prometric administered the exam through July 16, 2026, with a testing blackout July 17–21 during the changeover). No [prelicense](/massachusetts/prelicensing) course is required, but the exam is required for most license types
 
 Gathered documentation for any disclosure answers
 
@@ -62,7 +62,7 @@ Confirmed your name matches your government-issued ID exactly
 
 ## Step 1: Access NIPR for Application
 
-Massachusetts license applications are submitted through the National Insurance Producer Registry (NIPR) at nipr.com. Note: Paper applications submitted via postal mail were returned after September 15, 2025.
+Massachusetts license applications are submitted through the National Insurance Producer Registry (NIPR) at nipr.com. Producer applications have been electronic-only since Massachusetts converted to NIPR in March 2022 — there is no paper-application option for producer licensing.
 
 NIPR uses NAIC's State Based Systems (SBS) for insurance licensing in Massachusetts.
 
@@ -170,7 +170,7 @@ You can track status through NIPR
 
 After submission, the DOI reviews:
 
-Your exam completion. Your testing vendor (Prometric through July 16, 2026, Pearson VUE from July 22, 2026 onward) reports your exam results electronically.
+Your exam completion. Your testing vendor — Pearson VUE as of July 22, 2026 (Prometric administered the exam through July 16, 2026) — reports your exam results electronically.
 
 Your background check. Background check results flow to the DOI for review.
 

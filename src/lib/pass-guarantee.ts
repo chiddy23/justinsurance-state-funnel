@@ -21,3 +21,30 @@ export function hasPassGuarantee(stateSlug?: string | null): boolean {
   const s = stateSlug.toLowerCase();
   return !PASS_GUARANTEE_EXCLUDED_STATES.has(s) && !PASS_GUARANTEE_PENDING_APPROVAL_STATES.has(s);
 }
+
+/**
+ * The states where the guarantee is NOT offered, as display text.
+ *
+ * National pages hard-coded "Ohio, Illinois, or West Virginia" in six places. That
+ * list omitted the two pending-approval states, so those pages advertised the
+ * guarantee to New York and Washington readers while hasPassGuarantee() withheld it
+ * for exactly those slugs — the copy and the gate disagreed. Derive the sentence
+ * from the same sets the gate uses so the two can never drift apart again.
+ */
+const TITLE: Record<string, string> = {
+  ohio: "Ohio",
+  illinois: "Illinois",
+  "west-virginia": "West Virginia",
+  "new-york": "New York",
+  washington: "Washington",
+};
+
+export function passGuaranteeExcludedLabel(): string {
+  const slugs: string[] = [];
+  PASS_GUARANTEE_EXCLUDED_STATES.forEach((s) => slugs.push(s));
+  PASS_GUARANTEE_PENDING_APPROVAL_STATES.forEach((s) => slugs.push(s));
+  const names = slugs.map((s) => TITLE[s] ?? s);
+  if (names.length <= 1) return names[0] ?? "";
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+}

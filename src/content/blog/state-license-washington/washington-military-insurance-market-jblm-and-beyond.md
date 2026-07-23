@@ -94,7 +94,7 @@ Total compensation often $60,000-$150,000+ for mid-career personnel
 
 Insurance baseline:
 
-SGLI (Servicemembers Group Life Insurance): Up to $400,000 maximum — often insufficient for families with mortgage obligations
+SGLI (Servicemembers' Group Life Insurance): $500,000 maximum, raised from $400,000 effective March 1, 2023 — eligible members are automatically enrolled at the full amount unless they elect a lower amount or decline. Still often short of what a family with a mortgage needs
 
 TRICARE: Military health insurance — comprehensive for active duty; different cost-sharing structures for different TRICARE plans
 
@@ -102,7 +102,7 @@ No private disability insurance in most cases (VA disability benefits exist but 
 
 Insurance gaps:
 
-SGLI maximum $400,000 often insufficient for families with Washington's high housing costs
+SGLI caps at $500,000 — which does not stretch far against Puget Sound-area home prices once mortgage payoff, income replacement, and children's education are all counted
 
 No own-occupation disability protection
 
@@ -306,6 +306,6 @@ Commercial insurance for defense contractors: Military-adjacent businesses (Tier
 
 ## Build Your Washington Military Insurance Career
 
-Washington's military communities — JBLM, Kitsap, Whidbey Island, and Fairchild — offer accessible, genuine specialty opportunity for producers who invest in military-specific knowledge. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses prepare you for the exam and for building a career serving Washington's military and veteran community.
+Washington's military communities — JBLM, Kitsap, Whidbey Island, and Fairchild — offer accessible, genuine specialty opportunity for producers who invest in military-specific knowledge. At JustInsurance, our Washington [exam-prep coursework](/washington/prelicensing) covers both the national insurance content and the Washington state law under RCW 48 and WAC 284 that the PSI exam tests — the foundation you build a JBLM, Kitsap, or Fairchild practice on. Washington has not required prelicensing education since July 23, 2023, so what we offer is preparation rather than a state-mandated course. One thing to be clear about: JustInsurance is not currently an OIC-approved continuing education provider in Washington, so we cannot roster Washington CE credit. When your first renewal comes due, take your 24 hours — including the 3 ethics hours — from a provider on the OIC's approved list at insurance.wa.gov.
 
 Enroll today and start your Washington military insurance practice.

@@ -10,7 +10,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: { absolute: "No Exam Needed: Get a Non-Resident Insurance License" },
   description:
-    "Hold an active resident license? Apply for a non-resident insurance license via NIPR — no exam, fees $30–$100 per state, decisions in 1–15 days.",
+    "Hold an active resident license? Apply for a non-resident insurance license via NIPR — no exam, state fees roughly $30–$380, decisions in 1–15 days.",
   alternates: { canonical: "https://justinsuranceco.com/non-resident-insurance-license" },
 };
 
@@ -23,7 +23,7 @@ const faqs = [
   {
     question: "Do I need to retake the state exam to get a non-resident license?",
     answer:
-      "In almost every case, no. Under NAIC reciprocity standards (adopted by all 50 states plus DC), if you hold an active resident license in good standing, you can apply for a non-resident license in another state without retesting. The one practical exception is if your resident state is not considered reciprocal by the target state — this is rare but does occur in edge cases.",
+      "In almost every case, no. Under NAIC reciprocity standards, if you hold an active resident license in good standing, you can apply for a non-resident license in another state without retesting. Reciprocity is broad but not universal — the NAIC certified 40 jurisdictions as reciprocal and notes that several large states are not yet fully reciprocal — so verify your target state on NIPR before applying.",
   },
   {
     question: "How long does a non-resident license application take?",
@@ -33,12 +33,12 @@ const faqs = [
   {
     question: "How much does a non-resident insurance license cost?",
     answer:
-      "Expect $30 to $100 per state in application fees, plus a small NIPR transaction fee (typically around $5.60). Renewal fees are usually similar to the initial application fee. A few states — California, Florida, and Hawaii among them — sit at the higher end of that range due to supplemental state-specific surcharges.",
+      "State application fees vary widely — most fall between about $30 and $200, but several states run far higher: Illinois is $380, Massachusetts $225 (plus a $75 lead-paint surcharge on property, casualty and personal lines) and California $188 for all lines of authority. Florida is near the bottom at $50 plus $5 per line of authority. Add a small NIPR transaction fee (typically around $5.60), and in fingerprint states such as Florida a background-check fee of about $49.50 through IdentoGO. Renewal fees are usually similar to the initial application fee. Check NIPR's state-requirements page for your target state before you budget.",
   },
   {
     question: "Do I need to complete CE for every non-resident state I hold a license in?",
     answer:
-      "Most reciprocal states waive their non-resident CE requirement as long as you satisfy your home state's CE. This is the single biggest practical benefit of NAIC reciprocity. A few states still expect specific ethics or annuity training regardless of residency — Florida's 5-hour LAH update and California's annuity-specific hours are the two most-cited examples.",
+      "Most reciprocal states waive their non-resident CE requirement as long as you satisfy your home state's CE. This is the single biggest practical benefit of NAIC reciprocity. A few product-specific training rules do apply regardless of residency — the most-cited is California's annuity training under Cal. Ins. Code §1749.8, which requires 8 hours before selling annuities in California (plus 4 hours every two years) for resident and non-resident life licensees alike. Florida's 4-hour law and ethics update is not in that category: under Fla. Stat. §626.2815(6), a non-resident may satisfy Florida's CE with home-state CE where the home state reciprocates.",
   },
   {
     question: "Does my non-resident license expire when my resident license does?",
@@ -64,7 +64,7 @@ const credentialSchema = {
   "@type": "EducationalOccupationalCredential",
   name: "Non-Resident Insurance Producer License",
   description:
-    "An insurance producer license issued by a state to an individual whose primary residence is in a different state, granted under NAIC reciprocity standards adopted by all 50 states plus DC. Allows the producer to legally solicit, negotiate, and sell insurance in the issuing state.",
+    "An insurance producer license issued by a state to an individual whose primary residence is in a different state, granted under NAIC reciprocity standards adopted by most U.S. jurisdictions. Allows the producer to legally solicit, negotiate, and sell insurance in the issuing state.",
   credentialCategory: "license",
   recognizedBy: {
     "@type": "Organization",
@@ -120,7 +120,7 @@ const applicationSteps = [
   {
     step: "4",
     title: "Answer Background Questions and Pay",
-    body: "Complete the background questions (felony convictions, administrative actions, child support arrears). Fees run $30 to $100 per state plus the NIPR transaction fee. Pay by credit card or ACH.",
+    body: "Complete the background questions (felony convictions, administrative actions, child support arrears). State fees vary widely — commonly $30 to $200, with states such as Illinois ($380), Massachusetts ($225) and California ($188) higher — plus the NIPR transaction fee. Pay by credit card or ACH.",
   },
   {
     step: "5",
@@ -141,7 +141,7 @@ const reciprocityData: { name: string; category: "Full" | "Partial" | "Extra"; n
   { name: "Virginia", category: "Full", note: "Reciprocal under NAIC framework" },
   { name: "Illinois", category: "Full", note: "Reciprocal; non-residents file through NIPR" },
   { name: "California", category: "Extra", note: "May require supplemental forms for LOAs beyond the basics and longer background review — verify current form requirements with the CA DOI" },
-  { name: "Florida", category: "Extra", note: "Separate state-specific CE rules still apply for certain LOAs; longer processing" },
+  { name: "Florida", category: "Extra", note: "IdentoGO fingerprinting required for non-resident applicants (~$49.50); longer processing" },
   { name: "Hawaii", category: "Extra", note: "Higher fees; periodic supplemental documentation requests" },
   { name: "New York", category: "Extra", note: "Reciprocal for standard LOAs; unique carveouts for surplus lines and public adjuster lines" },
 ];
@@ -153,11 +153,11 @@ const pitfalls = [
   },
   {
     title: "Confusing Reporting Rules for CE",
-    body: "Most agents think they owe CE to every state they hold a license in. In reality, reciprocity means your home-state CE covers your non-resident obligations in most states. The exceptions are narrow — Florida's LAH update and a few annuity-specific rules are the most commonly cited — but requirements can change, so verify current rules with each state's DOI before assuming you're covered. Agents frequently over-buy CE out of caution.",
+    body: "Most agents think they owe CE to every state they hold a license in. In reality, reciprocity means your home-state CE covers your non-resident obligations in most states. The exceptions are narrow and mostly product-specific — California's annuity training is the most commonly cited, while Florida's law and ethics update can be satisfied through reciprocal home-state CE under Fla. Stat. §626.2815(6) — but requirements can change, so verify current rules with each state's DOI before assuming you're covered. Agents frequently over-buy CE out of caution.",
   },
   {
     title: "Forgetting Appointment Transitions",
-    body: "A license alone does not let you write business. You must also be appointed by each carrier in each state. When you add a non-resident license, notify your carriers so they can file the appointment through NIPR. Writing business before the appointment is posted is a compliance violation in every state.",
+    body: "In most states a license alone does not let you write business — you must also be appointed by each carrier in each state. When you add a non-resident license, notify your carriers so they can file the appointment through NIPR. Appointment timing rules vary: some states let the insurer file the notice of appointment after the fact, such as North Carolina, where N.C. Gen. Stat. §58-33-40 gives the insurer 15 days after the first application is submitted. Confirm the rule in each target state before you write, rather than assuming one national deadline.",
   },
   {
     title: "Mismatched Legal Names",
@@ -192,7 +192,7 @@ export default function NonResidentInsuranceLicensePage() {
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
             Short answer: if you hold an active resident license, most states let you apply online at{" "}
             <a href="https://nipr.com" className="underline text-white hover:text-gold" target="_blank" rel="noopener noreferrer">NIPR.com</a>
-            {" "}with no new exam. Fees run $30 to $100 per state and most applications clear in under 15 business days.
+            {" "}with no new exam. State fees vary widely — commonly $30 to $200, with a few states such as Illinois and Massachusetts substantially higher — and most applications clear in under 15 business days.
           </p>
         </div>
       </section>
@@ -209,9 +209,11 @@ export default function NonResidentInsuranceLicensePage() {
               you can get a non-resident license in almost any other state without retaking an exam.
               Apply online at{" "}
               <a href="https://nipr.com" className="text-navy underline hover:text-gold" target="_blank" rel="noopener noreferrer">NIPR.com</a>
-              {" "}— the process takes under 20 minutes, fees run $30 to $100 per state plus a ~$5.60
-              NIPR transaction fee, and most states issue a decision within 1 to 15 business days.
-              All 50 states plus DC honor NAIC reciprocity, so no new prelicensing course is required.
+              {" "}— the process takes under 20 minutes, state fees commonly run $30 to $200 (Illinois
+              $380 and Massachusetts $225 are the high outliers) plus a ~$5.60 NIPR transaction fee,
+              and most states issue a decision within 1 to 15 business days. Nearly every state honors
+              NAIC reciprocity, so no new prelicensing course is required — verify your target state
+              on NIPR before applying.
             </p>
           </div>
         </div>
@@ -244,7 +246,7 @@ export default function NonResidentInsuranceLicensePage() {
             <p>
               Under the{" "}
               <a href="https://content.naic.org/" className="text-navy underline hover:text-gold" target="_blank" rel="noopener noreferrer">National Association of Insurance Commissioners (NAIC)</a>
-              {" "}Producer Licensing Model Act, all 50 states plus the District of Columbia have adopted reciprocity provisions. That means your home-state license is the gateway to nearly every other state in the country without having to sit through another{" "}
+              {" "}Producer Licensing Model Act, the great majority of jurisdictions have adopted reciprocity provisions — the NAIC certified 40 jurisdictions as reciprocal and notes that several large states are not yet fully reciprocal. That means your home-state license is the gateway to nearly every other state in the country without having to sit through another{" "}
               <Link href="/prelicensing" className="text-navy underline hover:text-gold">prelicensing course</Link>
               {" "}or{" "}
               <Link href="/practice-exam" className="text-navy underline hover:text-gold">state exam</Link>.
@@ -329,7 +331,7 @@ export default function NonResidentInsuranceLicensePage() {
               {" "}accepts NIPR applications but runs a deeper background review, and certain LOAs (annuities, long-term care) still require California-specific training even for non-residents. Plan on 2 to 4 weeks for issuance rather than a few days.
             </p>
             <p>
-              <strong>Florida</strong> allows non-resident applications through NIPR but is known for supplemental state rules, including a 5-hour LAH update course for life &amp; health non-residents who want to keep appointments clean. See our{" "}
+              <strong>Florida</strong> allows non-resident applications through NIPR but adds supplemental state steps — non-resident applicants must be fingerprinted through IdentoGO (about $49.50). Florida&apos;s 4-hour law and ethics update course applies to resident licensees; under Fla. Stat. §626.2815(6) a non-resident who completes CE in a home state that reciprocates may use that home-state CE to satisfy Florida&apos;s requirement. See our{" "}
               <Link href="/florida" className="text-navy underline hover:text-gold">Florida licensing hub</Link>
               {" "}for specifics.
             </p>
@@ -375,13 +377,13 @@ export default function NonResidentInsuranceLicensePage() {
           </h2>
           <div className="space-y-4 text-gray-700 text-base leading-relaxed">
             <p>
-              Non-resident licensing is inexpensive relative to resident licensing because there is no prelicensing course or exam fee. Your total out-of-pocket per state is basically the DOI application fee plus the NIPR transaction fee.
+              Non-resident licensing is inexpensive relative to resident licensing because there is no prelicensing course or exam fee. Your total out-of-pocket per state is the DOI application fee, the NIPR transaction fee, and — in fingerprint states such as Florida — a background-check fee (about $49.50 through IdentoGO).
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
               <div className="bg-gray-50 rounded-xl p-5 border border-gray-100">
                 <p className="text-gold font-semibold text-xs uppercase tracking-widest mb-2">Application</p>
-                <p className="text-2xl font-bold text-navy mb-1">$30 – $100</p>
-                <p className="text-gray-600 text-sm">Per state, per line of authority. Paid to the state DOI through NIPR.</p>
+                <p className="text-2xl font-bold text-navy mb-1">$30 – $380</p>
+                <p className="text-gray-600 text-sm">Per state, paid to the state DOI through NIPR. Most states charge one fee covering all lines of authority (California $188 for all LOAs); a few add a per-line charge (Florida $50 + $5 per LOA).</p>
               </div>
               <div className="bg-gray-50 rounded-xl p-5 border border-gray-100">
                 <p className="text-gold font-semibold text-xs uppercase tracking-widest mb-2">NIPR Fee</p>
@@ -390,8 +392,8 @@ export default function NonResidentInsuranceLicensePage() {
               </div>
               <div className="bg-gray-50 rounded-xl p-5 border border-gray-100">
                 <p className="text-gold font-semibold text-xs uppercase tracking-widest mb-2">Renewal</p>
-                <p className="text-2xl font-bold text-navy mb-1">$30 – $100</p>
-                <p className="text-gray-600 text-sm">Every 1–4 years depending on the state cycle.</p>
+                <p className="text-2xl font-bold text-navy mb-1">$30 – $380</p>
+                <p className="text-gray-600 text-sm">Usually mirrors the application fee (Illinois renews at $380). Most states run a 2-year cycle; a few run 3 or 4 years.</p>
               </div>
             </div>
             <p>
@@ -400,7 +402,7 @@ export default function NonResidentInsuranceLicensePage() {
               {" "}starts at $39 for the full home-state package, and that completion satisfies the reciprocal non-resident states automatically.
             </p>
             <p>
-              <strong>Where CE still applies.</strong> Florida, California, and a few other states have carveouts — specific annuity training, long-term care training, or state-specific ethics — that apply regardless of residency. Budget an additional $30 to $80 per state where carveouts exist. Check each target state&apos;s DOI site for current rules.
+              <strong>Where CE still applies.</strong> A few product-specific training rules apply regardless of residency — California, for example, requires 8 hours of annuity training under Cal. Ins. Code §1749.8 before a resident or non-resident life licensee sells annuities there, plus 4 hours every two years. Long-term care training carries similar state-specific rules. Florida&apos;s law and ethics update, by contrast, can be satisfied through reciprocal home-state CE under Fla. Stat. §626.2815(6). Budget an additional $30 to $80 per state where a carveout does apply, and check each target state&apos;s DOI site for current rules.
             </p>
           </div>
         </div>
@@ -489,7 +491,7 @@ export default function NonResidentInsuranceLicensePage() {
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-5">Bottom Line</h2>
           <div className="space-y-4 text-gray-700 text-base leading-relaxed">
             <p>
-              If you already hold an active resident insurance license in good standing, a non-resident license in almost any other state is a paperwork exercise — not another exam. Go to NIPR.com, pay $30 to $100, wait up to 15 business days, and you have authority to write business there. Keep your resident license active, track renewal cycles state by state, and add carrier appointments before writing policies. The reciprocity system is doing real work for you; the worst thing you can do is let your home-state license slip and collapse every non-resident license you own along with it.
+              If you already hold an active resident insurance license in good standing, a non-resident license in almost any other state is a paperwork exercise — not another exam. Go to NIPR.com, pay the state fee (commonly $30 to $200, but $380 in Illinois, $225 in Massachusetts, $188 in California, and $50 plus $5 per line in Florida), and wait up to 15 business days. In most states you also need a carrier appointment on file before or shortly after your first application before you can write business. Keep your resident license active, track renewal cycles state by state, and coordinate carrier appointments before writing policies. The reciprocity system is doing real work for you; the worst thing you can do is let your home-state license slip and collapse every non-resident license you own along with it.
             </p>
             <p className="text-gray-500 text-sm italic pt-4 border-t border-gray-200">
               By Justin vom Eigen, Licensed Insurance Agent and Founder of JustInsurance

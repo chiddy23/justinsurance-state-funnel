@@ -100,7 +100,7 @@ Minimum liability: 30/60/10 ($30,000/$60,000 bodily injury, $10,000 property dam
 
 Mandatory PIP: $40,000 ($20,000 medical + $20,000 non-medical including lost wages at 85% capped at $500/week)
 
-PIP pays regardless of fault; six-month deadline to file PIP claim
+PIP pays regardless of fault; a no-fault policy may set a notice period of not less than six months (Minn. Stat. §65B.55, subd. 1) — a notice rule, not a filing deadline, under which late notice bars benefits only to the extent the insurer proves actual prejudice
 
 Mandatory UM/UIM: $25,000/$50,000 (both UM and UIM required)
 
@@ -166,7 +166,7 @@ A reference sheet is a single-page (or two-page) condensed summary of the most t
 
 What belongs on your reference sheet:
 
-All numerical thresholds: PIP $40,000, UM/UIM $25,000/$50,000, liability 30/60/10, tort threshold $4,000, CE 24 hours/3 ethics/12 non-sponsored (no classroom requirement), renewal fee $80, lapse reinstatement penalty double fee, workers' comp penalty $1,000/week plus 65%
+All numerical thresholds: PIP $40,000, UM/UIM $25,000/$50,000, liability 30/60/10, tort threshold $4,000, CE 24 hours/3 ethics/12 non-sponsored (no classroom requirement), renewal fee ~$60 ($50 per line plus ~$10 technology surcharge), lapse reinstatement penalty double the renewal fee, workers' comp penalty $1,000/week plus 65%
 
 All key statute numbers: Chapter 60K (licensing), Chapter 65B (auto), §72A.20 (unfair trade practices), §60C (P&C guaranty), §61B (L&H guaranty)
 

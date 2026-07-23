@@ -57,7 +57,7 @@ Standards of ethical professional conduct
 
 Common compliance issues and how to avoid them
 
-It's also a safeguard against the problem areas that come up repeatedly in DOI enforcement actions — misrepresentation, unsuitable sales, replacement violations, and undisclosed conflicts of interest.
+It's also a safeguard against conduct Massachusetts law specifically prohibits — misrepresentation, unsuitable sales, replacement violations, and undisclosed conflicts of interest.
 
 ## What Ethics CE Covers
 
@@ -93,9 +93,9 @@ Quality ethics courses use case studies and real DOI enforcement actions to make
 
 ## Why This Matters for Your Career
 
-Ethics violations are career-threatening. Most producers who lose their licenses don't do so because they failed an exam or missed CE hours — they lose them because they crossed an ethical or legal line.
+Ethics violations are career-threatening. Falling short on an exam or on CE hours keeps you from getting or renewing a license — but those are fixable. The licenses that get revoked or suspended are lost for conduct: crossing an ethical or legal line the Division treats as a violation.
 
-Massachusetts has been notably active in producer discipline, with the Massachusetts Insurance Fraud Bureau and DOI investigating producer conduct. Issues that lead to discipline include:
+Massachusetts investigates producer conduct through both the Division of Insurance and the Massachusetts Insurance Fraud Bureau. Issues that can lead to discipline include:
 
 Misrepresentation on applications or in sales
 
@@ -179,7 +179,7 @@ Proctor required for online. Disinterested third party with no conflict of inter
 
 Closed-book exams. Cannot reference course material during the final exam.
 
-Reporting fee. Approximately $1.50 per CE hour for state reporting (vendor-dependent).
+Reporting fee. Massachusetts charges a roster fee of $2.00 per credit, per student, to file your completion with the state through the NAIC's State Based Systems (SBS); providers typically build this into course pricing.
 
 ## Choosing Quality Ethics CE
 

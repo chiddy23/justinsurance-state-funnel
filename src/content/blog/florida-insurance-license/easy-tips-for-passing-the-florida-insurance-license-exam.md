@@ -67,7 +67,7 @@ Keep in mind that short, focused sessions often yield better results than marath
 
 Once you pass, you are not done yet. Florida will issue your official insurance license after you submit your passing scores, application, and background check (if applicable). Double-check all documentation to prevent delays in receiving your license. After that, you will be legally allowed to discuss and sell insurance products for the lines you tested in.
 
-Keep in mind there are ongoing requirements to maintain your license. Florida, like most other states, enforces [continuing education](/florida/continuing-education) (CE) hours that agents need to fulfill every few years. CE courses keep you informed of new regulations or industry trends, ensuring consumers get up-to-date guidance on their insurance needs.
+Keep in mind there are ongoing requirements once you are licensed. A Florida agent license is perpetual — there is no renewal application to file — but you must complete [continuing education](/florida/continuing-education) (CE) by the end of your birth month every two years, beginning after you have been licensed 24 months. Miss that date and the Department will not renew your appointments, and appointments are what actually let you write business. CE also keeps you current on new regulations and industry trends, so consumers get up-to-date guidance on their insurance needs.
 
 For newly licensed agents, it is wise to seek mentorship or connect with a reputable agency right away. On-the-job experience can solidify what you learned during training and keep you on track for long-term career growth.
 
@@ -75,6 +75,6 @@ For newly licensed agents, it is wise to seek mentorship or connect with a reput
 
 Becoming a licensed insurance agent in Florida is a process that rewards thorough preparation. A solid florida insurance license study guide, consistent practice, and precise exam scheduling can set you up for success. Remember to keep your pre-licensing certificate on hand, confirm your exam details in advance, and strengthen your knowledge by focusing on both general insurance concepts and Florida-specific regulations.
 
-To make your journey smoother, consider teaming up with JustInsurance. With guidance tailored to your individual needs, you can navigate licensing requirements, exam registrations, and even future [continuing education](/florida/continuing-education) reminders. If you ever feel uncertain about your next steps, support is always available.
+To make your journey smoother, consider teaming up with JustInsurance. Our Florida prelicensing courses and practice exams cover the material the state actually tests, and once you are licensed our DFS-approved [continuing education](/florida/continuing-education) catalog keeps you compliant — when you finish a CE course we typically report the hours to Florida’s Department of Financial Services the same business day, so there is nothing for you to mail in. If you ever feel uncertain about your next steps, support is always available.
 
 Now is a perfect time to begin. Organize your study materials, set up your schedule, and plan ahead for the exam day. Before you know it, you will hold a Florida insurance license in your hands, opening the door to a fulfilling career helping people protect what matters most.

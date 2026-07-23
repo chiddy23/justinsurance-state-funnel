@@ -28,7 +28,7 @@ Depending on your situation, you might also need to provide fingerprints and off
 
 ### Timing and fees
 
-Plan ahead for both the schedule and cost of filing your application. Fees vary based on the type of license, so expect to pay a licensing application fee and a fingerprinting fee. Both can add up to a few hundred dollars, so it helps to set aside a dedicated budget for these costs. Keep track of deadlines because delayed paperwork can extend your wait time, pushing back when you’re allowed to take the exam.
+Plan ahead for both the schedule and cost of filing your application. In Florida, expect a licensing application fee of about $50 and a fingerprinting fee of about $50 — roughly $100 combined, not a few hundred dollars. It still helps to set aside a dedicated budget for these costs, especially once you add the state exam fee of about $44. Keep track of deadlines because delayed paperwork can extend your wait time, pushing back when you’re allowed to take the exam.
 
 ## Complete your pre-licensing course
 
@@ -68,11 +68,11 @@ If you encounter an especially tough question, avoid rushing to guess under pres
 
 After you pass your exam, you’re not quite done. You’ll still need to submit final documents, such as your exam completion certificate and any remaining paperwork required by the Florida Department of Financial Services. Once they approve your application, you’ll receive your official license in the mail or via email, depending on the system Florida has in place at that time.
 
-Your newly acquired license will open the door to a range of career opportunities. Some new license holders begin by working with established insurance agencies, while others prefer to start as independent agents. Whichever path you choose, remember to keep your license active by completing [continuing education](/florida/continuing-education) (CE) requirements every renewal cycle. These CE courses help you stay current with changes in state regulations and insurance products.
+Your newly acquired license will open the door to a range of career opportunities. Some new license holders begin by working with established insurance agencies, while others prefer to start as independent agents. Whichever path you choose, understand how Florida keeps a license alive, because it surprises people: agent licenses in Florida are perpetual and there is no renewal to file. What actually keeps yours in force is an active appointment from an appointing insurer or agency — a license that goes 48 months without one expires — plus your [continuing education](/florida/continuing-education) (CE) hours, completed inside each 24-month compliance cycle. These CE courses help you stay current with changes in state regulations and insurance products.
 
 ### Explore ways to stay on track
 
-To keep your license in good standing, pay attention to any updates in Florida’s insurance laws. Mark important dates on your calendar to ensure that renewing your license or meeting CE requirements never sneaks up on you. You can also connect with professional groups or mentors in the insurance field. Networking events and online forums are excellent places to gather useful insights and discover new ways to serve your clients better.
+To keep your license in good standing, pay attention to any updates in Florida’s insurance laws. There is no renewal date to diary, but there are two things worth putting on the calendar: your CE compliance deadline, which falls on the last day of your birth month every two years, and your appointment status, since an unappointed license is the one real way to lose what you just earned. You can also connect with professional groups or mentors in the insurance field. Networking events and online forums are excellent places to gather useful insights and discover new ways to serve your clients better.
 
 ## Key takeaways
 

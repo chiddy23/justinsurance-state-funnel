@@ -38,7 +38,7 @@ This 30-hour, 3-year framework distinguishes Nevada from most states, which use 
 
 Nevada insurance licenses renew on a 3-year cycle, with a consistent timing rule:
 
-License renewal. Major Lines licensees renew their license by the last day of their birth month, every 3 years.
+License renewal. Major Lines licensees renew their license every 3 years, by the last day of the month in which the license was originally issued — Nevada keys renewal to your license-issuance month, not your birth month.
 
 This makes Nevada's renewal cycle longer than most states (which typically use 2-year cycles), giving you more flexibility — but also requiring careful tracking since renewal dates come less frequently.
 
@@ -134,7 +134,7 @@ Nevada provides several CE exemptions documented in NAC 683A.330:
 
 20-Year Veterans. Producers who have been licensed for 20 consecutive years are exempt from CE.
 
-Industry Designation Holders. Producers holding designations including CLU, CPCU, CIC, CFC, or CFP are exempt from CE.
+Industry Designation Holders. Producers holding designations including CLU, CPCU, CIC, ChFC, or CFP are exempt from CE.
 
 Other Specific Categories. Various other exemptions may apply for specific situations.
 

@@ -60,7 +60,7 @@ Below are answers to common questions many aspiring agents have when pursuing an
 
 ### 1\. How do I begin the pre-licensing process?
 
-Arizona doesn't require prelicensing coursework, but you can start by enrolling in a state-approved [pre-licensing](/arizona/prelicensing) course anyway. This optional training covers the fundamentals you need to learn before taking your official exam. Look for programs that suit your schedule and learning style.
+Arizona doesn't require prelicensing coursework, but you can still enroll in an optional [pre-licensing](/arizona/prelicensing) course built to the current PSI Arizona content outline — the state itself does not approve prelicensing courses. This training covers the fundamentals you need to learn before taking your official exam. Look for programs that suit your schedule and learning style.
 
 ### 2\. How many hours does the optional prep course take?
 
@@ -80,4 +80,4 @@ Your license renewal cycle typically runs every four years. However, you’re re
 
 ## Take your next step
 
-If you’re ready to thrive in a field that values service, expertise, and meaningful connections, earning your Arizona insurance license is the best first move. At JustInsurance, we understand what it takes to launch a successful insurance career, and we’re here to support you every step of the way. Take control of your future by pursuing licensure now. Sign up for your pre-licensing course, complete your exam, and embark on a rewarding career in Arizona’s dynamic insurance market.
+If you’re ready to thrive in a field that values service, expertise, and meaningful connections, earning your Arizona insurance license is the best first move. At JustInsurance, we build self-paced Life and Health prelicensing courses and full-length practice exams for exactly this, and our support team can answer questions about them. Take control of your future by pursuing licensure now. Sign up for your pre-licensing course, complete your exam, and embark on a rewarding career in Arizona’s dynamic insurance market.

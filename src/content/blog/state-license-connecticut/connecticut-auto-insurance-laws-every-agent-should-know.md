@@ -242,6 +242,6 @@ For producers building general practice, auto insurance often serves as the foun
 
 ## Master Connecticut Auto Insurance
 
-Connecticut auto insurance offers steady opportunity for producers who develop genuine expertise. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) and CE courses include comprehensive coverage of auto insurance principles and Connecticut-specific requirements.
+Connecticut auto insurance offers steady opportunity for producers who develop genuine expertise. Auto falls under Property & Casualty authority, so if you already hold a P&C or Personal Lines license, JustInsurance's Connecticut [Property & Casualty continuing education](/connecticut/continuing-education) counts toward your 24-hour renewal requirement while keeping your casualty and Connecticut-specific knowledge sharp. And because auto clients so often need life and health protection too, our Connecticut [Life & Health prelicense courses](/connecticut/prelicensing) can help you add the lines that round out a multi-line practice.
 
-Enroll today and develop the auto insurance expertise Connecticut clients need.
+Explore JustInsurance's Connecticut courses and keep building the coverage expertise your clients rely on.

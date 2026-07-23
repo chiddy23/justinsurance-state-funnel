@@ -61,7 +61,7 @@ Lines of authority definitions
 
 Producer conduct standards
 
-License renewal and CE requirements
+License continuation and CE requirements (producer licenses are perpetual; adjuster-class and surplus-lines credentials renew)
 
 License revocation and disciplinary procedures
 
@@ -103,15 +103,15 @@ Unfair discrimination
 
 Enforcement and penalties
 
-Article 35 — Health Insurance (G.S. 58-51):
+Article 51 — Nature of Policies (G.S. 58-51):
 
-Health insurance requirements
+Accident and health policy form filing and approval
 
-Policy provisions for health insurance
+Required accident and health policy provisions
 
-Group health continuation and conversion
+Related coverage sits in Article 50 (General Accident and Health Insurance Regulations) and Article 53 (Group Health Insurance Continuation and Conversion Privileges)
 
-Additional Articles cover workers' compensation (Article 32), surplus lines (Article 21), long-term care (Article 55), variable products, and many other specialized areas.
+Additional Articles cover surplus lines (Article 21), workers' compensation self-insurance (Article 47), long-term care (Article 55), variable products, and many other specialized areas. Workers' compensation rate filings run through the NC Rate Bureau under Article 36. Two article numbers that trip up candidates: Article 35 is Insurance Premium Financing — not health insurance — and Article 32 is the Public Officers and Employees Liability Insurance Commission, not workers' compensation.
 
 ## The North Carolina Commissioner of Insurance
 
@@ -167,17 +167,17 @@ Application through NIPR
 
 Recent significant change (October 1, 2025): HB 737 (Session Law 2025-45) eliminated the [prelicense](/north-carolina/prelicensing) education (PLE) requirement for all insurance producer lines. Candidates can now go directly from study to NIPR application to exam.
 
-License renewal:
+License continuation and CE compliance:
 
-Biennial renewal (last day of birth month)
+Producer licenses are perpetual — there is no renewal filing and no renewal fee for major lines
 
-24 hours CE including 3 hours ethics
+24 hours of CE, including 3 hours of ethics, on a two-year compliance cycle
 
-CE completed at least 60 days before expiration
+Your CE compliance date is the last day of your birth month in your compliance year — even-numbered years if you were born in an even year, odd-numbered years if you were born in an odd year
 
-No renewal fee for major lines
+There is no rule requiring CE to be finished 60 days early; finishing ahead of the compliance date is a scheduling best practice, not a statutory deadline
 
-Producer license is perpetual as long as CE met
+Failing to complete the required hours by your compliance date causes the license to expire
 
 Disciplinary grounds:
 

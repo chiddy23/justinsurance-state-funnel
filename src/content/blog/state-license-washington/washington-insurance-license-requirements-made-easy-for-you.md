@@ -19,7 +19,7 @@ imageCredit: Photo by Gera Cejas on Pexels
 
 You might feel a bit overwhelmed when you first see all the [Washington insurance license requirements](/washington/requirements). But once you break them down into manageable steps, the entire process can be surprisingly straightforward. Each requirement is designed to ensure you know the rules, regulations, and ethical obligations of the insurance industry, so you can serve clients with confidence. Whether you plan on selling Life and Health policies, Property and Casualty coverage, or both, it all starts with meeting Washington’s official standards.
 
-Below, you will find a clear road map for each step, from completing [pre-licensing](/washington/prelicensing) courses to finalizing your license application. By the end, you will understand the costs, timelines, and study strategies that are key to success, as well as where to turn for additional support. Let’s get you set up to conquer your exam and launch an exciting career in insurance.
+Below, you will find a clear road map for each step, from choosing how you want to prepare — Washington dropped its [pre-licensing](/washington/prelicensing) education mandate on July 23, 2023, so coursework is now your call — through the exam and on to finalizing your license application. By the end, you will understand the costs, timelines, and study strategies that are key to success, as well as where to turn for additional support. Let’s get you set up to conquer your exam and launch an exciting career in insurance.
 
 ## Make sense of [Washington insurance license](/washington) requirements
 
@@ -55,7 +55,7 @@ Passing scores typically hover around 70%, but you should aim higher to give you
 
 With your exam behind you, the next step is to formally apply for your Washington insurance license. You will submit your application through the designated online portal. Expect to share personal details such as your Social Security number, your exam certificate, and any other proof Washington requires to confirm you have met all eligibility standards.
 
-Most applicants must undergo a background check and get fingerprinted as part of the licensing process. While background checks may feel intimidating, keep in mind that it is a standard procedure designed to protect consumers. You usually handle the fingerprinting at an approved location, so remember to schedule that appointment promptly after your exam if the testing center itself does not provide the service.
+Most applicants must undergo a background check and get fingerprinted as part of the licensing process. While background checks may feel intimidating, keep in mind that it is a standard procedure designed to protect consumers. Washington sequences this step in a way that surprises people: you cannot book your fingerprint appointment until your license application is already on file, because the OIC needs a record to match the results against. Submit the application first, keep the transaction number you receive, then use it to schedule at an IdentoGO location — PSI does not fingerprint you at the testing center.
 
 By staying on top of these tasks, you will keep the process moving without delays. If you have a clean record and your paperwork is in order, you can expect your license approval to go smoothly.
 
@@ -77,15 +77,15 @@ $150–$200 per course
 
 Exam Registration
 
-~$35 per exam
+$38 per single-line exam; $55 for a combined exam
 
 1–2 weeks to schedule
 
 Fingerprinting & Background
 
-~$50–$75
+$49
 
-Often done onsite or local
+Only bookable after you apply
 
 License Application
 
@@ -93,18 +93,18 @@ License Application
 
 2–10 days processing
 
-Be aware these amounts can change, so always check the Washington Office of the Insurance Commissioner’s latest fee schedule. You also have the option to pursue multiple lines together, which can consolidate your costs if you combine exams.
+Be aware these amounts can change. Exam fees are published by PSI in its Washington candidate information bulletin, while license and application fees come from the Washington Office of the Insurance Commissioner — check both before you budget. You also have the option to pursue multiple lines together, which can consolidate your costs if you combine exams.
 
-Once you submit your application, you will typically wait a few business days for review. After that, your brand-new license number should be issued, and you are free to start selling insurance policies right away.
+Once you submit your application, you will typically wait a few business days for review. After that, your brand-new license number is issued — but the license by itself is not permission to start writing business. Under RCW 48.17.160, you cannot act as an agent of an insurer until that insurer has appointed you, and the carrier must file the notice of appointment with the Office of the Insurance Commissioner. In practice that means your last step is carrier contracting: line up an agency or direct carrier appointments so that, for every company whose products you intend to solicit, your appointment is on file before you make your first sale.
 
 ## Frequently asked questions
 
 1.  How long does the entire process take?  
-    It varies by person, but many complete everything in about three to five weeks. This includes finishing pre-licensing, scheduling and passing the exam, and submitting the application. If you have more time to study or you combine multiple lines, the timeline may be slightly longer.
+    Most of it is up to you, because Washington sets no required study hours. Once you pass, plan on roughly two to four weeks from exam day to an active license: the OIC’s own review runs about three to five business days, and the fingerprint background check is usually the longest single step. Add the few weeks most candidates spend preparing and the realistic start-to-license range is about one to two months. Combining multiple lines can stretch the study half of that.
 2.  Do I have to complete pre-licensing before the exam?  
     No. Washington does not require pre-licensing education. If you choose to prepare with a course anyway, many providers offer robust online options that let you study wherever and whenever you want, along with traditional classroom sessions.
 3.  Do I need separate licenses for Life and Health vs Property and Casualty?  
-    Each line of authority (Life, Disability, Property, and Casualty) typically requires its own exam. Washington also offers combined exams for Life and Disability or for Property and Casualty. Combining them can save time and money if you plan to sell both.
+    Each line of authority (Life, Disability, Property, and Casualty) typically requires its own exam. Washington also offers combined exams for Life and Disability or for Property and Casualty. Combining saves both a sitting and a fee if you plan to sell both — a combined exam is $55 against $76 for the two single-line exams.
 4.  What if I fail the exam on my first try?  
     You can retake the exam, but you will have to pay the registration fee again. Take note of your weaker areas and focus your studying more deeply in those topics. Many successful agents pass on their second attempt without issue.
 5.  Where can I get more help?  

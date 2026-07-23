@@ -49,13 +49,9 @@ On test day, arrive early, double-check you have the necessary ID documents, and
 
 ## Submit your license application
 
-With your passing exam score in hand, you’re ready to apply for your license. The Texas Department of Insurance oversees the application process, which you can complete entirely online through the official website. You’ll typically need to upload:
+With your passing exam score in hand, you’re ready to apply for your license. You’ll file your application electronically through the National Insurance Producer Registry (NIPR) or Sircon — TDI accepts both. There’s no packet of documents to mail or upload: your Pearson VUE exam result is transmitted to TDI electronically, and your fingerprint-based background check is submitted separately through IdentoGO. Because Texas doesn’t require pre-licensing education, there’s no completion certificate to send in — even if you took an optional prep course.
 
--   Your pre-licensing certificate of completion, if you took a course
--   Proof of your exam results
--   Any supporting documents for previous names or addresses, if requested
-
-There is also an application fee, so keep that in mind as you budget for the process. After you submit everything, a processing period begins while the department reviews your details and confirms that you meet all Texas insurance license requirements. If you completed the fingerprint background check earlier, the department will factor in those results before issuing your official license.
+Plan to apply within one year of passing your exam, since Texas exam results stay valid for 12 months. You’ll pay a $50 application fee when you submit, so keep that in your budget. Once your application is on file, TDI reviews your details, factors in your fingerprint results, and confirms you meet all Texas insurance license requirements before issuing your official license.
 
 ## Next steps after licensing
 

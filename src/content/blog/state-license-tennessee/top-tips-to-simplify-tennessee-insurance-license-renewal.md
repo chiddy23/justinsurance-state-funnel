@@ -61,7 +61,7 @@ The typical requirement is 24 hours of CE every two years, which usually include
 
 ### 2\. What if I do not complete my CE by the deadline?
 
-If you fail to meet your CE requirements in time, your license may go into a lapsed or inactive status. You typically have a grace period to catch up on credits and renewal fees, but you must avoid conducting insurance business during any period of expiration.
+If you fail to meet your CE requirements in time, your license lapses at your birth-month expiration date. Tennessee gives producers no post-expiration grace period — a renewal submitted after the deadline is late and carries a penalty of double the renewal fee under Tenn. Code Ann. § 56-6-107(d). You can still reinstate a lapsed license without re-examination for up to one year after expiration by completing your CE and paying that doubled fee, but you must not conduct any insurance business while the license is expired.
 
 ### 3\. Can I renew my license online?
 

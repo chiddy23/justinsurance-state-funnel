@@ -26,9 +26,9 @@ Below, you will find the key steps that will help guide your journey, starting f
 
 Before diving into study materials, make sure you know the basic prerequisites for the Minnesota property and casualty insurance license. Each state has unique rules about training hours, background checks, and the topics covered in the official exam.
 
-In Minnesota, you typically need to complete a certain number of [pre-licensing](/minnesota/prelicensing) education hours. These hours may vary based on your provider or specific course, but they generally cover critical topics such as state regulations, property policies, and casualty insurance basics. You will also need to register for the exam and pay the associated fees. Check official state guidelines in advance so there are no surprises regarding location, scheduling, or required documentation.
+In Minnesota, you must complete state-approved pre-licensing education before you can sit for the property and casualty exam. These hours cover critical topics such as state regulations, property policies, and casualty insurance basics. You will also need to register for the exam and pay the associated fees. Check official state guidelines in advance so there are no surprises regarding location, scheduling, or required documentation.
 
-Spending a bit of time up front to clarify these details helps you map out your timeline and ensures you do not waste energy on outdated information. If you prefer a structured plan that meets the state's standards, consider looking into an approved provider like JustInsurance, which specializes in pre-licensing courses tailored for the Minnesota exam.
+Spending a bit of time up front to clarify these details helps you map out your timeline and ensures you do not waste energy on outdated information. If you prefer a structured plan that meets the state's standards, look for a state-approved provider that offers property and casualty pre-licensing tailored to the Minnesota exam.
 
 ## Develop a personalized study approach
 
@@ -44,7 +44,7 @@ Once you have your study plan in place, the next step is to simulate the exam en
 
 Try to recreate a quiet, focused setting similar to the real test center. Use a timer and do not pause unless you absolutely have to, so you can build stamina for the actual exam day. Once you complete a practice test, review the answers thoroughly. Comprehension is more important than a single high score. Revisit your study materials when you notice patterns of incorrect answers or topics you feel unsure about.
 
-If you are taking a course through a provider like JustInsurance, you will likely have access to online practice quizzes that adapt to your progress. These tools can ease you into more advanced questions and challenge you to stay consistent with your studies.
+If you are taking a course through a state-approved provider, you will likely have access to online practice quizzes that adapt to your progress. These tools can ease you into more advanced questions and challenge you to stay consistent with your studies.
 
 ## Use mindful test-taking strategies
 
@@ -70,7 +70,7 @@ Below are five questions people often ask when preparing for the Minnesota prope
 4.  Is there a penalty for guessing on questions?  
     Typically, there is no penalty for guessing. If you encounter a question you truly cannot answer, it is better to eliminate wrong choices and make your best guess than to leave it blank.
 5.  What support do prep courses usually include?  
-    Quality pre-licensing courses often provide a combination of reading assignments, video tutorials, practice quizzes, and access to instructors for questions. Providers like JustInsurance can guide you in a structured manner, with progress tracking that ensures you stay on target.
+    Quality pre-licensing courses often provide a combination of reading assignments, video tutorials, practice quizzes, and access to instructors for questions. A good provider guides you in a structured manner, with progress tracking that ensures you stay on target.
 
 ## Your next steps
 
@@ -78,4 +78,4 @@ Once you have mastered the study materials and feel comfortable with practice ex
 
 After you’re licensed, plan ahead for [Minnesota continuing education](/minnesota/continuing-education) at every two-year renewal. When you pass, celebrate your accomplishment. You have shown you can handle property and casualty concepts and uphold Minnesota’s guidelines. From there, you will be ready to step into the industry and apply your new license in practical ways—whether that means selling insurance products, helping clients navigate policy questions, or growing your career in other directions.
 
-Remember, if you need extra direction or structure, consider a course from JustInsurance. Their team specializes in [Minnesota pre-licensing](/minnesota/prelicensing), so you can confidently learn essential concepts and walk into test day feeling prepared. Embrace the challenge, stay focused on your goals, and soon enough you will become a licensed property and casualty producer in Minnesota. Good luck!
+Remember, if you need extra direction or structure, choose a state-approved property and casualty pre-licensing course so you can confidently learn essential concepts and walk into test day feeling prepared. And once you are licensed, JustInsurance offers Minnesota property and casualty [continuing education](/minnesota/continuing-education) to keep your license current at every renewal. Embrace the challenge, stay focused on your goals, and soon enough you will become a licensed property and casualty producer in Minnesota. Good luck!

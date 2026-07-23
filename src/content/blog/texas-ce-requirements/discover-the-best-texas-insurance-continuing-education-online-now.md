@@ -22,9 +22,11 @@ Completing your [Texas insurance continuing education](/texas/continuing-educati
 
 ## Why choose online CE
 
-Online CE saves you time, energy, and money. Instead of traveling to an in-person class, you can log in from any location and work through your modules at your own pace. This means you have more control over when you study, what subjects you focus on first, and how quickly you wrap up each segment. Many agents find that learning through on-demand videos, readings, and interactive quizzes makes for a more engaging experience, which helps them retain knowledge and apply it on the job.
+Online CE saves you time, energy, and money. Instead of traveling to an in-person class, you can log in from any location. This means you have more control over when you study, what subjects you focus on first, and how quickly you wrap up each segment. Many agents find that learning through on-demand videos, readings, and interactive quizzes makes for a more engaging experience, which helps them retain knowledge and apply it on the job.
 
-Flexibility is especially valuable when juggling work, family, and social commitments. With online CE, you avoid the stress of aligning your schedule to a rigid classroom session and can study whenever it suits you best. This convenience can be a game-changer if you need to complete multiple modules in a tight timeframe.
+One thing to understand up front, because it shapes how you build your plan: "online" and "self-paced" are not the same thing in Texas. TDI registers every CE course under an instruction method, and at least half your hours — 12 of 24 — have to carry a classroom or "classroom-equivalent" method rather than self-study. Classroom-equivalent is an online format TDI has registered as such, built around periodic question sets you have to answer to advance and checks that the enrolled student is the one doing the work. A live, instructor-led webinar is credited as a classroom course. So you can absolutely do all 24 hours from your desk — you just can't do all 24 at your own unscheduled pace.
+
+Flexibility is still the point. With online CE, you avoid the drive and the fixed seat time of a full-day seminar, and you can fit the self-study half of your plan around work, family, and social commitments. That convenience matters most when you need to finish several courses in a tight timeframe — just confirm the instruction method TDI has on file for each course before you enroll, since a self-study course you take after you've already banked 12 self-study hours won't post to your transcript.
 
 ## Key benefits of online format
 
@@ -45,7 +47,7 @@ You gain a deeper understanding of how to navigate the industry and meet client 
 
 ## Steps to fulfill requirements
 
-Many licensed agents in Texas need to complete 24 credit hours of continuing education every two years. Out of those hours, 3 must be dedicated to ethics content, though you should confirm exact requirements that apply to your specific license. While each approved provider may handle content delivery differently, you can generally expect an online learning experience that walks you through distinct modules or course sections.
+Many licensed agents in Texas need to complete 24 credit hours of continuing education every two years. Out of those hours, 3 must be dedicated to ethics content, though you should confirm exact requirements that apply to your specific license. The other constraint to plan around is the format mix: no more than half of your hours can carry the self-study instruction method, so at least 12 have to come from classroom or classroom-equivalent courses. While each approved provider may handle content delivery differently, you can generally expect an online learning experience that walks you through distinct modules or course sections.
 
 Below is a quick reference to help you see the broad structure:
 
@@ -67,6 +69,18 @@ Ethics requirement
 
 Included in the 24 hours
 
+Classroom or classroom-equivalent minimum
+
+12
+
+At least half of the 24 hours
+
+Self-study maximum
+
+12
+
+No more than half of the 24 hours
+
 Once you have finished each course, confirm that the provider reports your credits to the Texas Department of Insurance. Some providers handle reporting automatically, while others might require you to submit documentation. Either way, keep your completion certificates safe so you have proof of your newly earned credits if needed.
 
 ## Frequently asked questions
@@ -74,7 +88,7 @@ Once you have finished each course, confirm that the provider reports your credi
 1.  How many CE hours do I need to renew my license?  
     Texas generally requires 24 hours of CE every two years, including 3 hours dedicated to ethics training. Always verify the latest information with the Texas Department of Insurance for your specific license type.
 2.  Can I complete my CE requirements entirely online?  
-    Yes. Many approved providers allow you to complete all required courses online, which means you can finish them from home or wherever you have internet access.
+    You can complete your CE online, but not all of it can be self-paced self-study. Texas caps self-study at 12 of your 24 hours; at least the other 12 must come from classroom, classroom-equivalent, or live webinar courses (28 TAC Chapter 19, Subchapter K). Approved online providers offer courses in those interactive formats, so you can still finish everything from home — just keep your self-study portion at or under 12 hours.
 3.  Are there mandatory topics besides ethics?  
     While ethics is one mandatory topic, exact requirements can vary by license class. Common areas include policy updates, risk management, and agent responsibilities.
 4.  Do online providers report my course completions automatically?  
@@ -84,12 +98,12 @@ Once you have finished each course, confirm that the provider reports your credi
 
 ## Choose JustInsurance today
 
-When it comes to an online option that values your time and effort, JustInsurance stands out as a convenient and reliable provider. Their course catalog spans various specialties, from core fundamentals to advanced topics. You can pick exactly what you need, learn at your own rhythm, and then breeze through to your exam.
+When it comes to an online option that values your time and effort, JustInsurance is a convenient and reliable provider. Their course catalog spans various specialties, from core fundamentals to advanced topics. You can pick exactly what you need and work through it online — just check each course's registered instruction method as you build your 24 hours so your classroom and self-study halves both land where they need to.
 
 One of the most appreciated benefits is their user-friendly platform. You will find each module well-structured, which makes it easy to track your progress and see how many remaining credit hours you have. Plus, if any questions come up, a friendly support team is there to help you navigate the steps, so you never feel stuck or rushed.
 
 ## Conclusion and next steps
 
-Ultimately, completing your [Texas insurance](/texas) continuing education online allows you to stay ahead in your profession without sacrificing your personal schedule. You will keep your license current, expand your knowledge base, and better serve your clients, all from a flexible digital classroom tailored to your pace. Take a look at your available options, decide which courses will address your learning goals, and get started.
+Ultimately, completing your [Texas insurance](/texas) continuing education online allows you to stay ahead in your profession without sacrificing your personal schedule. You will keep your license current, expand your knowledge base, and better serve your clients, all without leaving your desk — as long as your plan respects the 12-hour classroom minimum. Take a look at your available options, decide which courses will address your learning goals, and get started.
 
 If you would like a straightforward path that fits into your daily life, JustInsurance is ready to help you succeed. Enroll in the right CE package, set your study schedule, and you will be on your way toward meeting your requirements. The sooner you begin, the more time you will have to study and integrate what you learn. Make the most of your next renewal period, and keep your career momentum going strong.

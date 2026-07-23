@@ -7,6 +7,7 @@ import TestimonialCards from "@/components/TestimonialCards";
 import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
 // ---------------------------------------------------------------------------
 // Coverage and approval are different facts. We publish CE pages for every state
@@ -42,6 +43,70 @@ const CE_APPROVAL_PHRASE =
     ? `state-approved CE in all ${SERVED_STATE_COUNT} states we serve`
     : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (our ${formatStateNames(CE_APPROVAL_PENDING)} approval is still pending)`;
 
+// ---------------------------------------------------------------------------
+// CE HOUR + ETHICS FACTS, DERIVED FROM states.ts (audit 2026-07-20).
+// This page asserted "typically 20 to 24 hours", a "2–4 hrs" average completion
+// time, and ethics "required in all states". None of the three is in the data:
+// NOT ONE state requires 20–23 hours (the real spread is 10 in South Dakota to
+// 48 in Arizona, with 24 the mode), no state's requirement can be earned in 2–4
+// hours, and south-dakota.ce.ethicsHours is 0. Derive all of it from the
+// records so the copy can never drift from the data again.
+// ---------------------------------------------------------------------------
+const ALL_STATES = Object.values(STATES);
+
+/** Most frequently occurring value in a numeric list (the modal requirement). */
+const modeOf = (vals: number[]): number => {
+  const counts = new Map<number, number>();
+  vals.forEach((v) => counts.set(v, (counts.get(v) ?? 0) + 1));
+  return Array.from(counts.entries()).sort((a, b) => b[1] - a[1])[0][0];
+};
+
+const CE_HOUR_VALUES = ALL_STATES.map((s) => s.ce.totalHours);
+const CE_HOURS_MIN = Math.min(...CE_HOUR_VALUES); // 10 (South Dakota)
+const CE_HOURS_MAX = Math.max(...CE_HOUR_VALUES); // 48 (Arizona)
+const CE_MODAL_HOURS = modeOf(CE_HOUR_VALUES); // 24
+const CE_MODAL_HOUR_COUNT = CE_HOUR_VALUES.filter((h) => h === CE_MODAL_HOURS).length; // 41
+
+const CE_TWO_YEAR_COUNT = ALL_STATES.filter((s) => s.ce.renewalPeriod === "2 years").length;
+const YEAR_WORD: Record<string, string> = {
+  "3 years": "three years",
+  "4 years": "four years",
+  "5 years": "five years",
+};
+/** e.g. "three years in Iowa, Massachusetts, and Nevada; four years in Arizona" */
+const CE_LONGER_CYCLES = Array.from(new Set(ALL_STATES.map((s) => s.ce.renewalPeriod)))
+  .filter((p) => p !== "2 years")
+  .sort()
+  .map(
+    (p) =>
+      `${YEAR_WORD[p] ?? p} in ${formatStateNames(
+        ALL_STATES.filter((s) => s.ce.renewalPeriod === p)
+      )}`
+  )
+  .join("; ");
+
+const CE_REQUIREMENT_SENTENCE =
+  `State CE requirements range from ${CE_HOURS_MIN} to ${CE_HOURS_MAX} hours per renewal cycle — ` +
+  `${CE_MODAL_HOUR_COUNT} of the ${ALL_STATES.length} states require ${CE_MODAL_HOURS} hours — and the ` +
+  `renewal cycle is two years in ${CE_TWO_YEAR_COUNT} states (${CE_LONGER_CYCLES}).`;
+
+// Ethics is a PRODUCT claim, so it is scoped to the states we actually serve.
+const CE_ETHICS_STATES = SERVED_STATES.filter((s) => s.ce.ethicsHours > 0);
+const CE_NO_ETHICS_STATES = SERVED_STATES.filter((s) => s.ce.ethicsHours === 0);
+const CE_ETHICS_HOUR_VALUES = CE_ETHICS_STATES.map((s) => s.ce.ethicsHours);
+const CE_ETHICS_TYPICAL = modeOf(CE_ETHICS_HOUR_VALUES); // 3
+const CE_ETHICS_MAX = Math.max(...CE_ETHICS_HOUR_VALUES); // 6 (Arizona)
+const CE_ETHICS_MAX_STATES = CE_ETHICS_STATES.filter((s) => s.ce.ethicsHours === CE_ETHICS_MAX);
+const CE_NO_ETHICS_CLAUSE = CE_NO_ETHICS_STATES.length
+  ? `; ${formatStateNames(CE_NO_ETHICS_STATES)} ${
+      CE_NO_ETHICS_STATES.length === 1 ? "has" : "have"
+    } no separate ethics mandate`
+  : "";
+const CE_ETHICS_LABEL = `Ethics (required in ${CE_ETHICS_STATES.length} of the ${SERVED_STATE_COUNT} states we serve)`;
+const CE_ETHICS_DESC = `typically ${CE_ETHICS_TYPICAL} hours, up to ${CE_ETHICS_MAX} in ${formatStateNames(
+  CE_ETHICS_MAX_STATES
+)}${CE_NO_ETHICS_CLAUSE} — included where your state requires it`;
+
 const PAGE_TITLE = "Insurance CE Courses | Same-Day Reporting | JustInsurance";
 const PAGE_DESC = `Renew your insurance license online. State-approved CE with same-day DOI reporting in most cases — ${CE_APPROVAL_PHRASE}. L&H from $39, P&C CE in 25 states.`;
 const CANONICAL = "https://justinsuranceco.com/continuing-education";
@@ -69,7 +134,7 @@ const faqs = [
   {
     question: "What is insurance continuing education (CE)?",
     answer:
-      "Insurance continuing education is the ongoing education requirement that licensed insurance agents must complete to renew their license. Most states require agents to complete a set number of CE hours — typically 20 to 24 hours — every two years. CE courses cover insurance product updates, regulatory changes, ethics, and emerging topics relevant to practicing agents.",
+      `Insurance continuing education is the ongoing education requirement that licensed insurance agents must complete to renew their license. ${CE_REQUIREMENT_SENTENCE} CE courses cover insurance product updates, regulatory changes, ethics, and emerging topics relevant to practicing agents.`,
   },
   {
     question: "How often do I need to complete CE?",
@@ -89,10 +154,14 @@ const faqs = [
 ];
 
 const stats = [
-  { value: "From $39", label: "CE package price", sub: "Includes all required hours and ethics" },
+  { value: "From $39", label: "CE package price", sub: "Includes every hour your state requires" },
   { value: "Same day", label: "DOI reporting", sub: "We typically transmit your completion the same business day" },
   { value: String(SERVED_STATE_COUNT), label: "States covered", sub: CE_APPROVAL_SUB },
-  { value: "2–4 hrs", label: "Avg. completion time", sub: "Complete your renewal in a single session" },
+  {
+    value: `${CE_HOURS_MIN}–${CE_HOURS_MAX} hrs`,
+    label: "CE hours per cycle",
+    sub: "Set by your state — work through them at your own pace",
+  },
 ];
 
 // Hub-page schemas: WebPage + EducationalOccupationalCredential. Mirrors the
@@ -215,6 +284,25 @@ export default function ContinuingEducationPage() {
       </section>
 
       <TrustBar />
+      {/* CE renewal has no state licensing exam, and the Terms (§ 4 / "Other
+          products") limit the Pass Guarantee to qualifying PRELICENSING courses.
+          The shared TrustBar still renders that badge on every national page, so
+          the CE hub has to say plainly that the guarantee does not reach a CE
+          purchase — and name the states where it is not offered at all.
+          A TrustBar prop that swaps the badge out on non-prelicensing hubs is
+          requested separately; this note is the in-page correction. */}
+      <section className="bg-gray-bg border-b border-gray-200 px-4 pb-3">
+        <p className="max-w-4xl mx-auto text-center text-xs text-gray-500 leading-snug">
+          Pass Guarantee note: the guarantee applies only to qualifying prelicensing
+          courses, which are conditioned on a first-time state exam attempt — continuing
+          education renewal has no state exam, so a CE purchase is not covered. The
+          guarantee is not offered in {passGuaranteeExcludedLabel()}. See our{" "}
+          <Link href="/terms" className="underline hover:text-navy">
+            Terms
+          </Link>{" "}
+          for full conditions.
+        </p>
+      </section>
       <PressLogosBar />
 
       {/* What is CE */}
@@ -225,10 +313,10 @@ export default function ContinuingEducationPage() {
           </h2>
           <div className="space-y-5 text-gray-700 leading-relaxed text-base">
             <p>
-              Insurance continuing education (CE) is the ongoing education requirement that all licensed insurance agents must satisfy to keep their license active. Every state&apos;s Department of Insurance mandates a certain number of CE credit hours — typically 20 to 24 hours — within each renewal period, which is usually two years. These hours must cover state-approved topics, and most states require that a portion of those hours address ethics and professional conduct.
+              Insurance continuing education (CE) is the ongoing education requirement that all licensed insurance agents must satisfy to keep their license active. Every state&apos;s Department of Insurance mandates a certain number of CE credit hours within each renewal period. {CE_REQUIREMENT_SENTENCE} These hours must cover state-approved topics, and most states require that a portion of those hours address ethics and professional conduct.
             </p>
             <p>
-              JustInsurance CE packages are designed to fulfill your entire renewal requirement in a single, convenient online bundle. Our courses are approved by your state&apos;s insurance regulator — see each course listing for its approved credit hours. Each package includes the required ethics hours, and you can complete everything at your own pace — many agents finish in a single afternoon.
+              JustInsurance CE packages are designed to fulfill your entire renewal requirement in a single, convenient online bundle. Our courses are approved by your state&apos;s insurance regulator — see each course listing for its approved credit hours. Each package includes any ethics hours your state requires, and you can complete everything at your own pace — your state sets the credit-hour count, and you can spread those hours across your renewal cycle.
             </p>
             <p>
               One of the most important advantages of renewing with JustInsurance is same-day DOI reporting in most cases. The moment you complete your course, we typically transmit your completion record electronically to your state&apos;s Department of Insurance — no paperwork or transcripts for you to mail. Most states then post the credit to your license record within a few business days, so it&apos;s worth confirming your hours are on file before your renewal deadline.
@@ -245,15 +333,15 @@ export default function ContinuingEducationPage() {
           </h2>
           <p className="text-gray-700 leading-relaxed mb-6">
             Every JustInsurance CE package includes all required credit hours for
-            your state, the mandatory ethics course, and any state-specific specialty
-            topics. Depending on your state, packages may include:
+            your state, any ethics hours your state mandates, and any state-specific
+            specialty topics. Depending on your state, packages may include:
           </p>
           <ul className="space-y-3 mb-6">
             {[
-              { label: "Ethics (required in all states)", desc: "typically 3–4 hours, included in every package" },
+              { label: CE_ETHICS_LABEL, desc: CE_ETHICS_DESC },
               { label: "Annuity suitability", desc: "required before selling annuity products in most states" },
               { label: "Long-term care (LTC) training", desc: "required for agents selling LTC products" },
-              { label: "National Flood Insurance Program (NFIP)", desc: "required for Property & Casualty agents in flood-prone states" },
+              { label: "National Flood Insurance Program (NFIP)", desc: "a one-time federal training requirement — generally worth 3 CE hours — for any agent who sells NFIP flood policies, in every state (Flood Insurance Reform Act of 2004 § 207); some states add their own flood CE rules" },
               { label: "General CE electives", desc: "insurance law updates, product knowledge, regulatory changes" },
             ].map((t) => (
               <li key={t.label} className="bg-white rounded-lg p-4 border border-gray-200 flex gap-3">
@@ -356,7 +444,7 @@ export default function ContinuingEducationPage() {
 
       <CTABanner
         title="Don't Let Your License Lapse"
-        subtitle="Complete your CE in as little as a few hours, typically get same-day DOI reporting, and keep your license active without the stress."
+        subtitle="Work through your state's required CE hours at your own pace, typically get same-day DOI reporting, and keep your license active without the stress."
         ctaText="Renew My License Now"
         ctaHref="#states"
       />

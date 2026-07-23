@@ -24,11 +24,11 @@ The Kentucky Department of Insurance (KDOI) is your single point of contact for 
 
 ## Step 1: Complete Your Prelicensing Education (PLE)
 
-Before anything else, Kentucky requires you to complete 20 hours of approved prelicensing education for each major line of authority you intend to pursue. Whether you are pursuing a Life license, an Accident & Health license, or a Property & Casualty license, 20 hours of coursework is mandatory for each. Kentucky is a forced-progression state, meaning you must complete each lesson in sequential order before advancing to the next. Your provider will track your study time electronically.
+Before anything else, Kentucky requires you to complete approved prelicensing education for each line of authority you intend to pursue. Each single line requires 20 hours of coursework, so a Life license or an Accident & Health license takes 20 hours. Property and Casualty, however, are two separate lines of authority — so a full Property & Casualty license requires 40 hours (20 hours for Property plus 20 hours for Casualty) under 806 KAR 9:025. Kentucky is a forced-progression state, meaning you must complete each lesson in sequential order before advancing to the next. Your provider will track your study time electronically.
 
 Upon finishing the course and passing the provider's internal certification exam with at least a 70%, you will receive a Certificate of Completion (Form CPL-01). This certificate must be signed and dated. Your provider will report your completion electronically to the KDOI, but you remain personally responsible for ensuring the Department has your certificate on file. If necessary, you can upload it directly through the KDOI eServices portal, fax it, or email it to DOI.AgentLicensingMail@ky.gov. Your PLE certificate is valid for one year, so you must pass your state licensing exam within that 12-month window.
 
-JustInsurance offers KDOI-approved prelicensing courses for all major Kentucky lines of authority, with built-in time tracking and forced-progression compliance so your certificate is generated correctly the first time.
+JustInsurance offers KDOI-approved Kentucky Life and Health prelicensing courses, with built-in time tracking and forced-progression compliance so your certificate is generated correctly the first time.
 
 ## Step 2: Obtain Your Criminal Background Report
 
@@ -61,4 +61,4 @@ From the day you begin your prelicensing course to the day you hold a Kentucky i
 - How many times can I retake the Kentucky insurance exam? There is no limit on the number of retakes within your 120-day testing window. Each retake requires filing an Exam Retake Form with the KDOI and paying a $50 retake fee. You may reschedule starting on the next business day after a failed attempt. If the 120-day window expires before you pass, you must submit a new application.
 - Does Kentucky have a temporary insurance license? Kentucky does not issue standard temporary producer licenses for new applicants. Spouses of active-duty military members assigned to Kentucky may be eligible for fee waivers and expedited processing under KRS 12.357. Contact the KDOI at (502) 564-3630 to discuss your specific circumstances.
 - What happens to my PLE certificate if I don't take the exam right away? Your PLE certificate is valid for one year from the date of course completion. If you do not pass your state licensing exam within that year, you will need to complete a new 20-hour prelicensing course before you can apply again.
-Ready to start? JustInsurance offers KDOI-approved Kentucky prelicensing courses for all major lines of authority. Enroll today at justinsuranceco.com and take the first step toward your Kentucky insurance career.
+Ready to start? JustInsurance offers KDOI-approved Kentucky Life and Health prelicensing courses. Enroll today at justinsuranceco.com and take the first step toward your Kentucky insurance career.

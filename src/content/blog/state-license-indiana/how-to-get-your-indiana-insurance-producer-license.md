@@ -16,7 +16,7 @@ imageAlt: >-
   indiana insurance producer license.
 ---
 
-Indiana's insurance licensing process is administered by the Indiana Department of Insurance (IDOI) under Indiana Code Title 27, Article 1 — a regulatory framework notable for requiring [prelicensing](/indiana/prelicensing) education at 20 hours per line, self-disclosure (not fingerprinting) for the background check, and a Pearson VUE exam administered at the distinctive combination of Ivy Tech Community College locations and standard Pearson VUE test centers. The exam fee is $69, the application fee is $40, and the 6-month window (from PLE completion and exam passing to application) creates a clear sequential timeline. Indiana is home to Eli Lilly (one of the world's largest pharmaceutical companies), Elevance Health (world's largest for-profit health insurer by enrollment), and the globally recognized Warsaw, Indiana orthopedic device cluster — creating specialty insurance markets that reward producers who develop genuine local expertise. Here's the complete guide.
+Indiana's insurance licensing process is administered by the Indiana Department of Insurance (IDOI) under Indiana Code Title 27, Article 1 — a regulatory framework notable for requiring [prelicensing](/indiana/prelicensing) education at 20 hours per line, self-disclosure (not fingerprinting) for the background check, and a Pearson VUE exam delivered at Ivy Tech Community College campuses as well as standard Pearson VUE test centers. The exam fee is $69, the application fee is $40, and the 6-month window (from PLE completion and exam passing to application) creates a clear sequential timeline. Indiana is home to Eli Lilly (one of the world's largest pharmaceutical companies), Elevance Health (one of the largest U.S. health insurers by membership), and the Warsaw, Indiana orthopedic device cluster — creating specialty insurance markets that reward producers who develop genuine local expertise. Here's the complete guide.
 
 ## Who Regulates Indiana Insurance
 
@@ -26,7 +26,7 @@ Address: 311 West Washington Street, Suite 103, Indianapolis, Indiana 46204-2787
 
 Main phone: 317-232-2389
 
-Email: [email protected]
+Email: AgentLicensing@idoi.in.gov
 
 Website: in.gov/idoi
 
@@ -38,7 +38,7 @@ Designation exemptions: IC 27-1-15.6-9
 
 IDOI's distinctive structure: The IDOI is a dedicated insurance regulator — focused exclusively on insurance regulation, similar to Maryland's MIA and Virginia's Bureau of Insurance. IDOI partners with Pearson VUE for exam administration and with Sircon and NIPR for licensing applications.
 
-Ivy Tech partnership: Indiana is one of the few states where IDOI has formally partnered with a community college system — Ivy Tech Community College — to serve as an additional exam testing location alongside Pearson VUE centers. This partnership makes exam access more convenient throughout Indiana's geography and is a uniquely Indiana feature.
+Ivy Tech testing sites: In Indiana the licensing exam is delivered at Ivy Tech Community College campuses in addition to Pearson VUE's own professional test centers. Because Ivy Tech has campuses across the state, candidates outside the major metros often have a closer option than the nearest dedicated test center. Confirm which sites are currently available to you using the Pearson VUE test center locator before you schedule.
 
 ## Step 1: Complete Prelicensing Education (Required)
 
@@ -78,7 +78,15 @@ Find approved providers: sircon.com/Indiana → "Look up education courses/credi
 
 JustInsurance's IDOI-approved Indiana Life, Health, and Life & Health prelicensing courses are fully online and self-paced.
 
-Designation exemptions from PLE (IC 27-1-15.6-9): Life & A&H: CLU, CFP, CFC, CPCU, CIC, AAI; bachelor's degree in insurance P&C: CPCU, CIC, AAI Email request to [email protected] with license qualification + photocopy of designation certificate or degree. Critical: Even with a PLE waiver, must still pass the Laws & Regulations Assessment — a separate Indiana-specific laws exam via Pearson VUE.
+Designation exemptions from PLE (IC 27-1-15.6-9) — the accepted designations differ by line, so match yours to the qualification you are actually applying for:
+
+Life and Accident & Health lines: CLU (Chartered Life Underwriter), CFP (Certified Financial Planner), or Chartered Financial Consultant — the ChFC, which IDOI's licensing page abbreviates "CFC"
+
+Property & Casualty and Personal Lines: CPCU (Chartered Property and Casualty Underwriter), CIC (Certified Insurance Counselor), or AAI (Accredited Advisor in Insurance)
+
+Any line: a bachelor's degree in insurance
+
+To request the waiver, email AgentLicensing@idoi.in.gov with your name as it appears on your driver's license, the license qualification you are seeking, and a photocopy of the designation certificate or degree. Critical: a PLE waiver is not a testing waiver. You must still pass the Indiana Laws & Regulations Assessment for that qualification — a separate Indiana-specific laws exam delivered through Pearson VUE.
 
 ## Step 2: Schedule and Pass the Pearson VUE Exam
 
@@ -96,7 +104,7 @@ Exam fee: $69 Passing score: 70% (scaled; equating process used for different ex
 
 Indiana exam locations — distinctive feature: Exams administered at:
 
-Ivy Tech Community College locations (unique to Indiana)
+Ivy Tech Community College campuses across the state
 
 Pearson VUE professional testing centers
 
@@ -118,21 +126,21 @@ Application fee: $40 per license + $5.60 transaction fee
 
 Apply within 6 months of both completing PLE and passing the Pearson VUE exam.
 
-Work authorization: All applicants must be U.S. citizens or legal aliens with proper work authorization. Documentation to [email protected].
+Work authorization: All applicants must be U.S. citizens or legal aliens with proper work authorization. Documentation to AgentLicensing@idoi.in.gov.
 
 ## Step 4: Maintain Your License
 
-Renewal: 2 years; last day of birth month. Renewal fee: $40. Late fee: $160. CE: 24 hours (3 Ethics) + additional for annuities and LTC.
+Renewal: 2 years; last day of birth month. Renewal fee: $40. Miss the deadline and IDOI charges a flat $120 resident reinstatement fee on top of the $40 renewal — $160 to bring the license current. That late-renewal path stays open until one year past the expiration date; after that you have to apply for a brand-new license from scratch. CE: 24 hours (3 Ethics) + additional training for annuities and LTC.
 
 ## Indiana vs. Comparison States
 
 ## 5 Frequently Asked Questions
 
-- What is Indiana's Ivy Tech Community College partnership for exams? IDOI, Pearson VUE, and Ivy Tech Community College have formally partnered to offer Indiana insurance licensing exams at Ivy Tech campuses throughout the state. Ivy Tech has multiple campuses across Indiana — giving candidates in smaller markets access to exam facilities without traveling to major Pearson VUE test centers. Military sites worldwide also offer IDOI exams. This three-venue structure (Ivy Tech + Pearson VUE + military) is unique to Indiana among comparison states.
+- Can I take the Indiana exam at an Ivy Tech campus? Yes. Indiana insurance licensing exams are delivered at Ivy Tech Community College campuses in addition to Pearson VUE's professional test centers, and military sites worldwide also host the exams. Because Ivy Tech has campuses across the state, candidates in smaller markets can often test without driving to a major metro. Use the Pearson VUE test center locator to confirm which of the three venue types is open near you on the date you want.
 - What happens if I exceed the 6-month window after completing PLE? If you don't take the exam AND apply for your license within 6 months of completing PLE, you must retake the prelicensing course. The 6-month clock runs from PLE completion — complete PLE, take the exam promptly, apply immediately after passing. Don't let the certificate expire.
 - Can I take the Indiana exam remotely (OnVUE) for retakes? For your first attempt, OnVUE remote testing is available. After failing, all retakes must be taken in-person at a Pearson VUE test center or Ivy Tech location. This is a specifically Indiana restriction — plan accordingly if your first attempt doesn't pass.
 - What makes the Laws & Regulations Assessment different from the standard exam? Candidates who receive a PLE waiver based on professional designation or degree bypass the standard prelicensing course but must still pass the Laws & Regulations Assessment — an Indiana-specific laws exam administered via Pearson VUE. This ensures all Indiana producers, regardless of PLE waiver status, demonstrate knowledge of Indiana-specific insurance law.
-- Why is Indiana significant for the insurance industry specifically? Indianapolis hosts both Eli Lilly (Fortune 500 pharma; Mounjaro/Zepbound driving explosive growth) and Elevance Health (Fortune 500; world's largest for-profit health insurer by enrollment). Warsaw, Indiana is the "Orthopedic Capital of the World" — hosting the highest per-capita concentration of orthopedic device companies globally. These markets create specialty insurance advisory opportunities in pharmaceutical professional, health insurance industry, and medical device executive advisory that are unique to Indiana.
+- Why is Indiana significant for the insurance industry specifically? Indianapolis hosts both Eli Lilly (Fortune 500 pharma) and Elevance Health (Fortune 500; one of the largest U.S. health insurers by membership). Warsaw, Indiana is known as the "Orthopedic Capital of the World" for its concentration of orthopedic device manufacturers. These markets create specialty insurance advisory opportunities in pharmaceutical professional lines, the health insurance industry, and medical device executive advisory that few other states can match.
 
 ## Start Your Indiana License Process
 

@@ -24,7 +24,7 @@ You want to pass the [Tennessee insurance license exam](/tennessee/requirements)
 
 Before diving into your study materials, spend a little time getting familiar with the basics of the [Tennessee insurance license](/tennessee) exam. Knowing what to expect sets the tone for your entire preparation process.
 
-Start by confirming which lines of insurance you will be tested on. Each track, such as Life & Health or Property & Casualty, may have separate requirements regarding the number of [Tennessee prelicensing](/tennessee/prelicensing) hours and the key topics that appear on the test. You can find official guidelines in state-issued manuals or by talking with professional insurance educators.
+Start by confirming which lines of insurance you will be tested on. Tennessee eliminated its prelicensing-education requirement in 2023, so there are no mandatory course hours to complete for any line — an [exam-prep course](/tennessee/prelicensing) is optional. What does differ by track, such as Life & Health or Property & Casualty, is the set of key topics that appear on the test. You can confirm the exact content outline in the Pearson VUE Tennessee candidate handbook or by talking with professional insurance educators.
 
 It is also important to note how many questions you will face and how much time you will have to complete the exam. Most Tennessee insurance exams focus on both core insurance principles and state regulations, so expect questions ranging from general coverage definitions to more nuanced concepts that apply specifically in Tennessee.
 
@@ -53,16 +53,16 @@ By making practice tests a routine, you will feel more comfortable with the mult
 
 Confidence plays a huge role in how you perform on any test. When you trust your preparation and know you have done the work, you free up mental energy to tackle the questions more effectively.
 
-To develop a stronger sense of self-assurance, review your previous successes, like finishing your [pre-licensing](/tennessee/prelicensing) coursework or acing a practice exam section. These small victories can provide solid proof that you are capable of mastering new and complex material. Also, avoid frazzled, last-minute cram sessions. Instead, get adequate rest and create a calm environment that supports a positive headspace.
+To develop a stronger sense of self-assurance, review your previous successes, like finishing your [exam-prep](/tennessee/prelicensing) coursework or acing a practice exam section. These small victories can provide solid proof that you are capable of mastering new and complex material. Also, avoid frazzled, last-minute cram sessions. Instead, get adequate rest and create a calm environment that supports a positive headspace.
 
-If you find yourself feeling anxious, remind yourself you have followed a structured plan and are thoroughly familiar with the testing process. Sometimes, speaking with a friend or fellow candidate who shares your goal can help you realize you are not alone in your concerns. Even connecting with a reputable resource like JustInsurance can be reassuring. They offer guidance and tools focused on making your insurance licensing journey as seamless as possible.
+If you find yourself feeling anxious, remind yourself you have followed a structured plan and are thoroughly familiar with the testing process. Sometimes, speaking with a friend or fellow candidate who shares your goal can help you realize you are not alone in your concerns. Even connecting with a reputable resource like JustInsurance can be reassuring. Their Tennessee exam-prep course gives you a structured way to review the material and build confidence before test day.
 
 ## Address five common questions
 
 Below are five frequently asked questions about the Tennessee insurance license exam. If you have been unsure about any of these topics, the answers should set your mind at ease.
 
 1.  Can I study at my own pace?  
-    Yes. Many programs let you accomplish pre-licensing hours on a schedule that fits your lifestyle. Some people prefer structured classroom training, while others thrive using online self-study tools.
+    Yes. Tennessee does not require prelicensing hours, so you are free to work through exam-prep material on a schedule that fits your lifestyle. Some people prefer structured classroom training, while others thrive using online self-study tools.
 2.  How important are state laws and regulations?  
     Very important. Expect a fair number of questions specific to Tennessee insurance statutes and rules. Focus on understanding how the laws affect policy provisions and claims practices.
 3.  What if I fail the exam on my first try?  

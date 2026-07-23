@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
 export const metadata: Metadata = {
   title: { absolute: "Contact JustInsurance — Support 754-223-9744" },
@@ -184,7 +185,8 @@ export default function ContactPage() {
                 <p className="text-gray-600 text-sm leading-relaxed">
                   Need help choosing between Life, Health, or combined prelicensing? Have
                   a question about course access, completion requirements, or the pass
-                  guarantee? Contact our support team or check our{" "}
+                  guarantee (available in eligible states — not offered in{" "}
+                  {passGuaranteeExcludedLabel()})? Contact our support team or check our{" "}
                   <Link href="/faq" className="text-navy underline hover:text-gold">
                     FAQ
                   </Link>

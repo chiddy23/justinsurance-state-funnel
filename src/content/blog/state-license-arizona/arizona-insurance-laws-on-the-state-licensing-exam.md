@@ -118,13 +118,13 @@ Know each practice by name. Exam questions frequently present scenarios asking w
 
 Arizona's free-look provisions are among the most specifically tested Arizona-law topics:
 
-10 days: Standard free-look period for most insurance policies (life, A&H, property, casualty, etc.)
+10 days: Standard free-look period for most insurance policies (life, A&H, property, casualty, etc.), and the baseline free-look period on an annuity contract under A.R.S. § 20-1233.
 
-20 days: Free-look period for annuities sold to seniors age 65 or older — extended protection for senior consumers purchasing annuity products.
+30 days: Free-look period for an annuity contract when the contract holder is age 65 or older on the date of the application — the statute (A.R.S. § 20-1233) triples the standard window as extended protection for senior annuity buyers.
 
-30 days: Free-look period for Medicare supplement (Medigap) policies — the longest Arizona free-look period, reflecting the importance of Medicare supplement decisions for seniors.
+30 days: Free-look period for Medicare supplement (Medigap) policies, reflecting the importance of Medicare supplement decisions for seniors.
 
-Why these three specific numbers matter: These exact figures appear on the Arizona state exam. A question asking "What is the free-look period for an annuity sold to a 67-year-old?" requires knowing "20 days" — not the standard 10 days.
+Why these numbers matter: These exact figures appear on the Arizona state exam. A question asking "What is the free-look period for an annuity sold to a 67-year-old?" requires knowing "30 days" — not the standard 10 days. Note that the senior-annuity trigger is the applicant's age on the application date, not the delivery date.
 
 ## Arizona Life and Health Insurance Guaranty Association
 
@@ -144,7 +144,7 @@ What's excluded: Some products (variable products backed by separate accounts, c
 
 Exam tip: The $300K/$250K/$500K figures are specific, distinctive, and consistently tested. Know all three.
 
-Note for P&C candidates: The Michigan Property and Casualty Insurance Guaranty Association (MPCIGA) parallels the life/health association for P&C insurers.
+Note for P&C candidates: The Arizona Property and Casualty Insurance Guaranty Fund (A.R.S. § 20-661 et seq., Title 20, Chapter 3, Article 6) is the parallel mechanism for property and casualty insurers. It pays covered claims after a P&C insolvency, limited to the applicable policy limits or $300,000, whichever is less, and is funded by assessments on licensed P&C insurers.
 
 ## Arizona Replacement Regulations
 
@@ -176,7 +176,7 @@ Documentation of suitability analysis
 
 Recommendations must be in the client's best interest
 
-20-day senior free-look for annuities: Extended free-look specifically for senior clients purchasing annuities — reflects Arizona's commitment to protecting its substantial senior population.
+30-day senior free-look for annuities: Under A.R.S. § 20-1233 a contract holder who is 65 or older on the application date has 30 days to return the annuity contract for a full refund, versus 10 days otherwise — reflecting Arizona's commitment to protecting its substantial senior population.
 
 LTC/Annuity coordination: Hybrid products combining life/annuity with LTC benefit riders are increasingly common in Arizona's senior market.
 
@@ -288,7 +288,7 @@ Study unfair trade practices by name with Arizona's specific statutory definitio
 
 - How much of the Arizona exam is state-specific law? Approximately 20-30% of each exam's questions involve Arizona-specific content from A.R.S. Title 20 and A.A.C. Title 20. For the Insurance Regulation section alone, most questions involve Arizona-specific DIFI and licensing requirements.
 - What are the Arizona Guaranty Association limits? $300,000 for life insurance death benefits, $250,000 for annuity values, and $500,000 for health insurance benefits. These specific figures are frequently tested.
-- What are Arizona's three different free-look periods? 10 days for most policies, 20 days for annuities sold to seniors age 65+, and 30 days for Medicare supplement policies.
+- What are Arizona's different free-look periods? 10 days for most policies (including a standard annuity contract), 30 days for an annuity when the contract holder is 65 or older on the application date under A.R.S. § 20-1233, and 30 days for Medicare supplement policies.
 - Is Arizona an at-fault or no-fault auto insurance state? At-fault. Arizona's auto insurance system makes the responsible driver liable for damages. Arizona is not a no-fault state.
 - What records retention does Arizona law require? A.R.S. § 20-290 requires a minimum 3-year retention period, with the clock starting at transaction completion — not policy issuance. Each policy renewal creates a new transaction and a new clock.
 

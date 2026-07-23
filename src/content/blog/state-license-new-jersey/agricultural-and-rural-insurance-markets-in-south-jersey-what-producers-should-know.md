@@ -19,9 +19,9 @@ New Jersey's "Garden State" moniker is not a marketing slogan — it is a functi
 
 New Jersey is not a grain state. Unlike the Midwest's commodity agriculture, NJ's farming is almost entirely specialty crop and horticulture production — high-value, labor-intensive crops that require careful management and carry unique insurance exposures:
 
-Blueberries: NJ is the national leader in blueberry production. Atlantic County (particularly the area around Hammonton) is the blueberry capital of the world, and the crop generates tens of millions of dollars annually. Blueberry operations require specific crop insurance — USDA RMA Actual Production History (APH) policies — and are vulnerable to frost, drought, and disease pressure.
+Blueberries: New Jersey annually ranks in the top six blueberry-producing states, harvesting on the order of 50 million pounds a year — a crop worth tens of millions of dollars. (Washington leads national production; NJ's claim to fame is that the cultivated highbush blueberry was developed here.) Production is centered in Atlantic County around Hammonton, which bills itself as the blueberry capital of the world. Blueberry operations require specific crop insurance — USDA RMA Actual Production History (APH) policies — and are vulnerable to frost, drought, and disease pressure.
 
-Cranberries: NJ is a significant cranberry producer, concentrated in Ocean County's Pine Barrens. Cranberry farming requires specialized bog infrastructure that has specific commercial property and equipment breakdown insurance implications.
+Cranberries: New Jersey ranks third nationally in cranberry production, concentrated in Burlington County's Pine Barrens around Chatsworth and Woodland Township. Cranberry farming requires specialized bog infrastructure that has specific commercial property and equipment breakdown insurance implications.
 
 Tomatoes: NJ tomatoes are nationally recognized for quality, with the Jersey Fresh brand one of the oldest state agriculture marketing programs in the country. Tomato production is concentrated in Salem and Cumberland counties.
 
@@ -59,7 +59,7 @@ Revenue Protection (RP) policies that cover both yield loss and revenue decline
 
 Whole Farm Revenue Protection (WFRP) for diversified farms with multiple crops
 
-Crop insurance sign-up deadlines, acreage reporting requirements, and claim procedures are all regulated through USDA's Farm Service Agency and require agent expertise that goes beyond general P&C knowledge.
+Sales closing dates, acreage reporting deadlines, and loss adjustment procedures for federal crop insurance are all set by RMA and administered through RMA-approved insurance providers — a separate track from the Farm Service Agency, which runs its own programs (NAP, disaster and commodity assistance) with its own filing deadlines. Keeping the two straight requires agent expertise that goes beyond general P&C knowledge.
 
 ### Greenhouse and Nursery Coverage
 

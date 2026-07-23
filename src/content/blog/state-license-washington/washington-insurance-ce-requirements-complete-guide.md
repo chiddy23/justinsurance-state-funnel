@@ -190,6 +190,8 @@ The consequences of a CE lapse are severe enough that proactive completion — w
 
 ## Stay Ahead of Washington's 2-Year CE Cycle
 
-Washington's CE is manageable with steady pacing across the 2-year cycle. At JustInsurance, our Washington CE courses are OIC-approved, cover all required credit types including ethics and specialty training, and report completions directly to OIC.
+Washington's CE is manageable with steady pacing across the 2-year cycle: 24 hours, 3 of them ethics, all completed inside the cycle, plus whichever specialty trainings your product lines require.
 
-Enroll today and keep your Washington license active with confidence.
+One thing to be clear about: **JustInsurance is not yet an OIC-approved CE provider in Washington — our Washington approval is still pending.** Until it issues, we cannot roster credit to the OIC, and no course you take from us would count toward your 24 hours. Use the OIC's approved provider list at [insurance.wa.gov](https://www.insurance.wa.gov/producers-adjusters/education/continuing-education-ce/continuing-education-requirements) to find a provider that can, and verify the specific course number — not just the provider name — before you pay.
+
+We will say so here the day that changes. In the meantime, the calendar advice above is the part worth acting on: pick your provider early, complete CE at least 30 days before your birth-month deadline, and confirm the completions posted to your OIC transcript before you submit the renewal.

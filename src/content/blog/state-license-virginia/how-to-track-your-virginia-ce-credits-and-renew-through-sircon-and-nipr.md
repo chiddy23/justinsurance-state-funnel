@@ -30,7 +30,7 @@ The number of hours in each category (Ethics, Laws and Regulations, Life/Annuiti
 
 The total hours credited in the current biennium
 
-Note: Virginia does not carry forward excess CE credits between biennia, so confirm that all required hours were completed fresh within the current renewal period rather than assuming any prior-period surplus applies
+Note: Virginia does let you carry excess credits forward, but only one cycle deep. Va. Code § 38.2-1867(D) allows an agent with excess credit hours from a renewal cycle to "carry such hours forward to the next biennium only," and the Virginia Insurance CE Board's handbook adds two limits worth knowing — the surplus is lost if you fail to renew during the 90-day renewal period, and carry forward does not apply to public adjusters at all. Treat a carried-forward balance as something to confirm on your transcript, not something to assume
 
 What to verify:
 

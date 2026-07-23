@@ -139,7 +139,7 @@ Suitability considerations
 
 ## Strategy 7: Study South Carolina-Specific Content Separately
 
-About 15-20% of the South Carolina exam covers state-specific content. Generic national study materials often don't cover this adequately.
+Roughly 23% of the South Carolina Life, Accident and Health exam is state-specific — 30 South Carolina law and regulation questions out of 130 scored questions (100 national plus 30 South Carolina). On the single-line Life or Health exams the state share is even higher, at 25 of 75 scored questions. Generic national study materials often don't cover this content adequately.
 
 South Carolina-specific topics to master:
 

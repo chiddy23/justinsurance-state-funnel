@@ -24,7 +24,7 @@ Here's what Nevada producers should know about late CE filing and license reinst
 
 Before discussing late filing, here's the standard Nevada renewal framework:
 
-License cycle. Major Lines licensees renew on the last day of their birth month, every 3 years.
+License cycle. Major Lines licensees renew every 3 years. Under NRS 683A.261, a first license expires on the last day of the month three years after the month the Commissioner originally issued it, and each renewal after that runs to the last day of the month three years after the license was last due to be renewed. The date follows your license-issuance/anniversary month — not your birth month.
 
 CE requirement: 30 hours of CE (3 hours ethics) completed and reported before submitting renewal application.
 
@@ -227,6 +227,8 @@ Carrier consequences. Carriers may not maintain appointments during license expi
 The financial difference between on-time renewal and reinstatement after expiration can be substantial.
 
 ## Common Late Filing Mistakes
+
+Calendaring the wrong date. A common one: assuming the renewal falls in your birth month. Nevada anchors expiration to your license-issuance/anniversary month, so a birth-month reminder can be months off. Verify the date on your Sircon license record.
 
 Assuming you have more time than you do. The 30-day grace period seems generous but passes quickly.
 

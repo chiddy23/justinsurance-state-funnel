@@ -52,9 +52,9 @@ Complaint handling and regulatory responsibility. How to respond when a client h
 
 ## Why This Matters for Your Career
 
-Ethics violations aren't just abstract concerns — they're the most common reason agents face license suspension or revocation in Texas. Most agents who lose their licenses don't do so because they failed a test. They lose them because they crossed an ethical line that the ethics CE was literally designed to prevent.
+Ethics violations aren't an abstract concern. The conduct these 3 hours walk through — misrepresentation, twisting, churning, misappropriation of premium — is conduct Texas law prohibits outright, and TDI's authority in those cases runs against your license, not just against a single sale. That's the practical reason the ethics hours are mandatory rather than optional: the course covers the exact lines that carry licensing consequences if you cross them.
 
-Taking ethics CE seriously is one of the cheapest forms of career insurance there is.
+Treating ethics CE as real training rather than a checkbox is inexpensive protection for a license you spent real money and study time to earn.
 
 ## 5 Frequently Asked Questions
 

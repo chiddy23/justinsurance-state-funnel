@@ -98,7 +98,7 @@ Every employer in New Jersey with at least one employee is required to maintain 
 
 What is the maximum weekly workers' compensation benefit in New Jersey for 2026?
 
-The maximum weekly workers' compensation benefit rate in New Jersey for 2026 is $1,199, up from $1,159 in 2025. This cap applies to temporary disability, permanent total disability, permanent partial disability, and dependency benefits. An injured worker's benefit is calculated at 70% of their average weekly wage, subject to this maximum. Workers earning high wages may receive less than 70% of actual wages if the maximum is reached. The state adjusts the maximum rate annually to reflect changes in the cost of living. The taxable wage base for workers' comp purposes also increased to $44,800 for 2026, up from $43,300 in 2025.
+The maximum weekly workers' compensation benefit rate in New Jersey for 2026 is $1,199, up from $1,159 in 2025. This cap applies to temporary disability, permanent total disability, permanent partial disability, and dependency benefits. An injured worker's benefit is calculated at 70% of their average weekly wage, subject to this maximum. Workers earning high wages may receive less than 70% of actual wages if the maximum is reached. The state adjusts the maximum rate annually to reflect changes in the statewide average weekly wage. (Note for producers: New Jersey workers' comp premium is based on total payroll by NJCRIB classification, not on a capped wage base — there is no workers' comp "taxable wage base." The $44,800 figure sometimes cited for 2026 is New Jersey's unemployment-compensation taxable wage base, which is unrelated to workers' comp.)
 
 What is the NJ Second Injury Fund and how does it work?
 
@@ -110,4 +110,4 @@ Non-compliance with New Jersey's workers' comp mandate carries serious consequen
 
 New Jersey's workers' compensation market is competitive, mandatory, and highly penalized for non-compliance — a combination that makes it one of the most reliable and commercially significant business lines for P&C producers in the state. Every employer with one employee is a prospect, and every policy placement comes with advisory value in experience modification, classification accuracy, and loss control.
 
-Visit JustInsurance to enroll today and master New Jersey commercial insurance law through a Property and Casualty [prelicensing](/new-jersey/prelicensing) course built to the PSI exam content outline.
+Visit JustInsurance to enroll today and build your command of New Jersey commercial insurance with DOBI-approved [continuing education](/new-jersey/continuing-education) for licensed Property and Casualty producers.

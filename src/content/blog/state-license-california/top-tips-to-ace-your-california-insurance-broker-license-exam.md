@@ -72,7 +72,7 @@ To stay on top of CE deadlines, set up reminders a few months before your licens
 
 ## Take the next step with JustInsurance
 
-If you are looking for resources to help you complete pre-licensing education or keep up with [continuing education](/california/continuing-education), JustInsurance can simplify the process. By providing clear, organized course materials and practice quizzes, they help you systematically study for the broker exam. You also have the freedom to learn from anywhere with online modules tailored to your focus area. This adaptable approach is especially helpful if you have a busy lifestyle or simply prefer the convenience of home study.
+If you are looking for resources to help you complete your prelicensing education or keep up with [continuing education](/california/continuing-education), JustInsurance can simplify the process. Our California prelicensing courses include the required 12-hour Code and Ethics course plus Life and Accident & Health exam prep, and our continuing education keeps every line of authority you hold current. You have the freedom to learn from anywhere with self-paced online modules — especially helpful if you have a busy lifestyle or simply prefer the convenience of home study.
 
 When you are ready, consider reaching out to JustInsurance for guidance on everything from registration steps to study plans. Many find it useful to have a structured program that reviews major concepts and pinpoints trouble spots, giving you a steady foundation as you move forward.
 

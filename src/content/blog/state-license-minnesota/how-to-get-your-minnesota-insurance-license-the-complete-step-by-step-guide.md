@@ -60,17 +60,33 @@ The exam administrator: Minnesota uses PSI Services LLC for all insurance licens
 
 Exam format: Exams are multiple-choice and cover two sections: a general section testing basic insurance knowledge applicable nationally, and a state-specific section testing Minnesota insurance laws, rules, and regulations. You must pass with a minimum score of 70%.
 
-Exam details by line:
+Exam details by line, from PSI's Minnesota content outlines and examination summary table:
 
-Exam fee: $45 for major lines exams. Some limited lines exams are $25. The fee must be paid at the time of reservation by credit card, debit card, or voucher. Fees are non-refundable if you fail to appear; you may cancel or reschedule up to 48 hours before your reservation.
+Life Producer: 75 scored questions (85 administered, including unscored pretest items), 2 hours
+
+Accident & Health Producer: 80 questions, 2 hours
+
+Property Producer: 75 scored questions (85 administered), 2 hours
+
+Casualty Producer: 75 scored questions (85 administered), 2 hours
+
+Personal Lines Producer: 100 questions, 2 hours
+
+Life, Accident & Health Producer (combined): 130 scored questions (145 administered), 3 hours
+
+Property & Casualty Producer (combined): 130 scored questions (145 administered), 3 hours
+
+A small number of unscored experimental questions is mixed into each exam. They do not affect your score, but they do count against your time.
+
+Exam fee: $45 for every producer exam — Life, Accident & Health, combined Life/Accident & Health, Property, Casualty, combined Property & Casualty, Personal Lines, and Farm Property & Liability. The three adjuster exams (property & casualty adjuster, crop adjuster, workers' compensation adjuster) are $25. The fee must be paid at the time of reservation by credit card, debit card, or voucher. Fees are non-refundable if you fail to appear; you may cancel or reschedule up to 48 hours before your reservation.
 
 Testing locations: In-person PSI test centers are located in Rochester, St. Paul, Willmar, Woodbury, and Brainerd, among other locations. Remote testing via PSI Bridge is available for candidates with a compatible computer, webcam, and Google Chrome browser. Check compatibility at syscheck.bridge.psiexams.com before scheduling remote.
 
-What to bring: A valid government-issued photo ID and your Certificate of Completion. Personal items — bags, wallets, cell phones, calculators, electronic devices, wrist watches — are not allowed in the testing area.
+What to bring: A valid government-issued photo ID and your Certificate of Completion. PSI requires the certificate as a paper copy — electronic copies are not accepted, and a candidate who arrives without it cannot test and forfeits the exam fee. The name on the certificate must match the name on your photo ID and the name you registered under. Personal items — bags, wallets, cell phones, calculators, electronic devices, wrist watches — are not allowed in the testing area.
 
 Results: Score reports are issued immediately after exam completion. You will receive a pass or fail result. If you fail, your score report includes a numerical score and diagnostic information by topic area to guide your retake preparation.
 
-Retakes: There is no limit on the number of retakes. You must wait 24 hours between attempts. Exam results remain valid for three years from the date of the exam — you have three years to complete the remaining steps and submit a license application.
+Retakes: There is no limit on the number of retakes. PSI cannot book a new appointment on the same day you tested — results have to process first — so in PSI's own example a candidate who fails on a Wednesday can call Thursday and retest as soon as Friday, subject to seat availability. Exam results remain valid for three years from the date of the exam — you have three years to complete the remaining steps and submit a license application.
 
 Spanish exams: Spanish-language exams are available for Minnesota insurance licensing.
 
@@ -78,9 +94,9 @@ Spanish exams: Spanish-language exams are available for Minnesota insurance lice
 
 Minnesota requires all resident producer license applicants to submit fingerprints for a criminal history background check. The prints are forwarded electronically to both the Minnesota Bureau of Criminal Apprehension (state level) and the FBI (federal level). This is a two-agency background check.
 
-Recommended approach: Get fingerprinted electronically at a PSI test center on the day of your exam. The fee is $65. You must bring a signed Background Check Consent Form. Your fingerprint images are transmitted electronically — no mailing required.
+Recommended approach: Get fingerprinted electronically at a PSI test center on the day of your exam, during regular testing hours. PSI's Minnesota candidate bulletin puts the fee at $63.75, payable by Visa, MasterCard, American Express, or Discover at the test site. You must bring a signed background check authorization form. Your fingerprint images are transmitted electronically — no mailing required.
 
-Alternative approach: Have fingerprints taken at a local police station or similar facility. You pay that facility's fee, receive a fingerprint card, and mail it along with the Background Check Consent Form and a check for $33.25 to: Minnesota Department of Commerce, Attn: Licensing, 85 7th Place East, Suite 280, St. Paul, MN 55101. This approach takes significantly longer to process.
+Alternative approach: Have fingerprints taken at a local police station or similar facility. You pay that facility's fee, receive a fingerprint card, and mail it with the signed background check authorization form and the Department's current card-processing fee to: Minnesota Department of Commerce, Attn: Licensing, 85 7th Place East, Suite 280, St. Paul, MN 55101. Confirm the current mail-in fee with the Department before you send a check — it is set separately from the PSI walk-in fee. This approach takes significantly longer to process.
 
 Timing: It is strongly recommended to complete fingerprinting on the day of the exam. Failure to get fingerprinted promptly delays license processing. The Background Check Authorization form remains valid for one year from the date signed.
 
@@ -90,17 +106,25 @@ Criminal history: Having a prior conviction does not automatically disqualify an
 
 Where to apply: Applications are submitted online through NIPR (nipr.com) or Sircon. Paper applications are not accepted.
 
-Application fee:
+Application fee: $50 per line of authority under Minn. Stat. § 60K.55 — the same amount as the renewal fee — plus the state technology surcharge (currently $10; Minn. Stat. § 45.24 caps it at $40 per two-year licensing period) and any NIPR or Sircon transaction fee. A single-line resident producer application therefore runs about $60 in state fees; an applicant taking all four major lines — Property, Casualty, Life, and Accident & Health — pays the $50 fee four times.
 
 Processing time: Most applications submitted online are processed within 10 business days. The Department processes applications in the order received. Once approved, your license is accessible through the Minnesota Department of Commerce licensing portal.
 
-Temporary license: A 180-day temporary producer license is available while your application is being processed, provided you are sponsored by an appointing insurer. Apply for the temporary license through Sircon simultaneously with or after your regular application. Contact your sponsoring company before applying.
+Temporary license: Minnesota's temporary producer license (Minn. Stat. §60K.42) is a narrow, limited-circumstance license — issued without an exam for up to 180 days to keep an existing insurance business running after a producer dies, becomes disabled, or enters military service, or when the Commissioner finds the public interest requires it. It is not a way for a new applicant to begin selling before finishing licensing, so most first-time candidates will never use one; you complete prelicensing, the PSI exam, fingerprinting, and the standard application instead.
 
 Appointment requirement: You can obtain a producer license before being appointed by an insurer (Minn. Stat. §60K.49), but an appointment is required before you can legally transact insurance business in Minnesota. Appointments are submitted electronically by the insurer — you cannot self-appoint. Once appointed, you can transact business in the lines for which both you and the insurer are licensed.
 
 ## The Total Cost of Getting Your Minnesota Insurance License
 
-Here is a realistic total cost summary for the most common licensing paths:
+Course tuition varies by provider and by how many lines you take, but the state-side costs are fixed and published:
+
+State exam: $45 per major-line exam (Life, Accident & Health, combined Life/Accident & Health, Property, Casualty, combined Property & Casualty, Personal Lines, and Farm Property & Liability), per PSI's Minnesota fee schedule.
+
+Fingerprinting at a PSI site: $63.75, paid at the test center on the day you test.
+
+License application: $50 per line of authority, plus the technology surcharge (currently $10) and any NIPR or Sircon transaction fee.
+
+So a candidate licensing in a single line should budget roughly $170 in state and vendor fees before course tuition; a candidate taking both Property and Casualty as separate exams adds another $45 exam fee and another $50 line fee.
 
 Most candidates who study consistently complete the entire process — prelicensing through license approval — in two to four weeks.
 
@@ -110,7 +134,7 @@ Receiving your Minnesota producer license is the beginning, not the end, of your
 
 CE requirement: You must complete 24 hours of [continuing education](/minnesota/continuing-education) every two years, including 3 hours of ethics. At least 12 of those 24 hours must not be sponsored by or affiliated with any insurance company — this can be satisfied entirely through self-paced online courses from an independent provider. JustInsurance typically reports CE completions to the Minnesota Department of Commerce the same day you finish — no paperwork required.
 
-Renewal deadline: Your license renews on the last day of your birth month, biennially. You may renew up to 90 days before the expiration date. Renewal is submitted electronically through NIPR with a $50 renewal fee plus a $30 technology surcharge.
+Renewal deadline: Your license renews on the last day of your birth month, biennially. You may renew up to 90 days before the expiration date. Renewal is submitted electronically through NIPR. The fee is $50 per line of authority under Minn. Stat. § 60K.55, plus the state technology surcharge — currently $10, and capped by Minn. Stat. § 45.24 at $40 per two-year licensing period, with the Department authorized to adjust it. That is roughly $60 for a single-line license, plus any NIPR transaction fee. Confirm the surcharge in effect on the day you renew.
 
 Lapsed license: If you miss your renewal deadline, you have 12 months to reinstate the license by paying double the unpaid renewal fee. After 12 months, you must reapply as a new producer and restart the full licensing process.
 

@@ -32,7 +32,7 @@ Beyond that, it’s a good idea to collect all the paperwork you might need, suc
 
 ## Completing pre-licensing education
 
-Arizona does not mandate a set number of [Arizona insurance prelicensing](/arizona/prelicensing) study hours for the property and casualty lines — it's optional rather than state-required. Even so, many find it beneficial to enroll in a prep program or choose an online study course. Structured classes can provide interactive lessons, quizzes, and personalized guidance, which can really boost your confidence before test day.
+Arizona does not mandate a set number of prelicensing study hours for the property and casualty lines — it's optional rather than state-required. Even so, many find it beneficial to enroll in a prep program or choose an online study course built to the P&C exam content outline. Structured classes can provide interactive lessons, quizzes, and personalized guidance, which can really boost your confidence before test day.
 
 During this stage, try to focus on real-world examples. Property and casualty insurance covers everything from a minor fender bender in a supermarket parking lot to significant losses from natural disasters. Imagining how these policies apply in everyday life makes the material stick, especially if you prefer learning by doing rather than just memorizing facts.
 
@@ -64,7 +64,7 @@ By planning your CE hours early, you’ll avoid last-minute scrambling and keep 
 
 Below are some common questions people ask about obtaining and holding an Arizona property and casualty insurance license. If you’re still unsure about the process, these answers might clear up some confusion.
 
-1.  How many hours of [pre-licensing](/arizona/prelicensing) education do I need?  
+1.  How many hours of pre-licensing education do I need?  
     Arizona does not mandate a set number of classroom hours. However, many reputable schools and online programs offer structured courses that help you master the material.
 2.  Do I need separate licenses for property and casualty?  
     No, Arizona groups property and casualty together under one license, so you only need to pass one combined exam. If you want to sell life or health insurance, that would be a different license or test.
@@ -79,6 +79,6 @@ Below are some common questions people ask about obtaining and holding an Arizon
 
 Earning your Arizona property and casualty insurance license is a big milestone in your professional journey, and it’s one that can bring you long-term career satisfaction. Whether you’re fresh out of school, transitioning from another state, or switching to a new line of insurance, a clear plan makes all the difference.
 
-If you’re eager to begin, JustInsurance stands ready to help you along the way. From reliable study materials to ongoing guidance once you’re licensed, you’ll find a supportive partner that understands your goals. It’s time to take that next step toward a fulfilling career in insurance.
+If you’re eager to begin, JustInsurance is glad to help where it counts. Once you pass and get licensed, our Arizona property and casualty continuing education keeps your credential current — and if you decide to add life or health lines to your practice, our prelicensing courses prepare you for those exams. Along the way, you’ll find a supportive partner that understands your goals.
 
-Feel free to share your licensing success story or ask any lingering questions in the comments. You’ve got this. When you’re ready, take your first step by exploring pre-licensing resources and reaching out to organizations—like JustInsurance—that can smooth your path. Once you open the door to property and casualty insurance, you’ll be one step closer to a career where you truly make a difference in people’s lives.
+Feel free to share your licensing success story or ask any lingering questions in the comments. You’ve got this. When you’re ready, take your first step by lining up solid P&C exam-prep resources and mapping out a study plan. Once you open the door to property and casualty insurance, you’ll be one step closer to a career where you truly make a difference in people’s lives.

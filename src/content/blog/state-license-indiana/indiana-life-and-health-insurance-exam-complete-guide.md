@@ -68,9 +68,9 @@ Indiana State Section (~20-25 questions):
 
 Common to all IN exams:
 
-IDOI: Indiana Department of Insurance; Commissioner Amy L. Beard; 311 West Washington Street, Suite 103, Indianapolis, IN 46204-2787; 317-232-2389; [email protected]; in.gov/idoi
+IDOI: Indiana Department of Insurance; Commissioner Holly W. Lambert; 311 West Washington Street, Suite 103, Indianapolis, IN 46204-2787; 317-232-2389; AgentLicensing@idoi.in.gov; in.gov/idoi
 
-IC 27-1-15.6: Producer licensing statute; PLE 20 hrs/line; 6-month certificate validity; bring Certificate to exam; $69 Pearson VUE; 70%; 48-hr retake; 1 OnVUE attempt; no fingerprinting (self-disclosure on NIPR application only); $40 NIPR application; 5-7 business day processing; 180-day temp license; renewal 2 years/$40; late fee $160; CE 24 hrs/3 Ethics; professional org up to 2 hrs CE
+IC 27-1-15.6: Producer licensing statute; PLE 20 hrs/line; 6-month certificate validity; bring Certificate to exam; $69 Pearson VUE; 70%; 48-hr retake; 1 OnVUE attempt; no fingerprinting (self-disclosure on NIPR application only); $40 NIPR application; 5-7 business day processing; 180-day temp license; renewal 2 years/$40; $120 late/reinstatement penalty ($160 total to reinstate); CE 24 hrs/3 Ethics; professional org up to 2 hrs CE
 
 Unfair practices: Indiana insurance unfair trade practices by name
 
@@ -78,7 +78,7 @@ IDOI exam partnership: Pearson VUE + Ivy Tech Community College + military sites
 
 Life-specific state section:
 
-Annuity Best Interest (760 IAC 1-72-4.5; eff. July 1, 2024): One-time 4-hour training before selling annuities; life line producers; within 6 months of rule effective date or obtaining life line; contact AgentLicensing@idoi.in.gov
+Annuity Best Interest (760 IAC 1-72-4.5; eff. July 1, 2024): producers licensed on/after July 1, 2024 complete a one-time 4-hour training before selling annuities; producers licensed before July 1, 2024 who had already completed the prior 4-hour annuity training needed only a one-time 1-hour update by January 2, 2025; contact AgentLicensing@idoi.in.gov
 
 Indiana replacement regulations
 
@@ -118,7 +118,7 @@ Covers both Life and A&H national content plus all Indiana state law for both li
 
 - Does Indiana use Healthcare.gov or a state-based ACA exchange? Healthcare.gov — Indiana does not have its own state-based ACA marketplace. Indiana producers selling marketplace plans do so through Healthcare.gov, the federal exchange. This is tested on the Indiana A&H state section and is a key distinction from states with their own exchanges.
 - What is Indiana's HIP 2.0 and why is it tested? HIP 2.0 (Healthy Indiana Plan 2.0) is Indiana's distinctive Medicaid expansion approach. Unlike standard Medicaid expansion (where the state covers all eligible adults at 138% FPL without member cost-sharing), HIP 2.0 includes POWER accounts — member contributions to a health spending account. Members who contribute get HIP Plus (with better benefits); those who don't get HIP Basic. This distinctively Indiana structure is tested because it creates advisory context around helping clients understand their HIP Plus vs. HIP Basic eligibility and benefits.
-- What is the Annuity Best Interest training requirement (760 IAC 1-72-4.5)? Effective July 1, 2024, Indiana requires any producer with a life insurance line of authority who intends to sell annuities to complete a one-time 4-hour Best Interest Standards of Conduct training course approved by IDOI. New life line holders after July 1, 2024 must complete the training within 6 months of obtaining the life line before selling annuities. This is both a licensing/CE requirement and a state exam topic.
+- What is the Annuity Best Interest training requirement (760 IAC 1-72-4.5)? Effective July 1, 2024, the requirement splits by license date. Producers licensed on or after July 1, 2024 must complete a one-time 4-hour Best Interest Standards of Conduct training course approved by IDOI before selling annuities in Indiana. Producers licensed before July 1, 2024 who had already completed the prior 4-hour annuity training needed only a one-time 1-hour update course covering the new best interest standard, with a deadline of January 2, 2025 (IDOI inactivated the 1-hour courses after that date, so anyone who missed the window now takes the 4-hour course). This is both a licensing/CE requirement and a state exam topic.
 - How does Indiana's statistical equating affect exam scoring? Indiana uses statistical equating across exam forms — different candidates see different versions of the exam. The number of correct answers required to pass varies slightly by form difficulty, but all passing scores represent equivalent knowledge. This means you cannot know exactly how many questions you need to answer correctly — instead, focus on demonstrating genuine mastery across all exam content areas.
 - What is the per-question time on the combined Life & Health exam? 150 questions in 180 minutes = 72 seconds per question. This is slightly tighter than the individual Life exam (~73-76 seconds per question at 95-100 questions in 120 minutes). The combined exam's 3-hour format is manageable but requires pacing discipline — don't linger more than 90 seconds on any one question.
 

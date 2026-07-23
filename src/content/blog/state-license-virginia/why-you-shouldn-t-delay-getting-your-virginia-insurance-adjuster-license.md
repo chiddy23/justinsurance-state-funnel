@@ -1,9 +1,9 @@
 ---
-title: Why You Shouldn’t Delay Getting Your Virginia Insurance Adjuster License
+title: 'Virginia Insurance Adjuster License: What Virginia Actually Licenses (and What It Doesn’t)'
 description: >-
-  Virginia insurance adjuster license — prelicensing hours, exam costs,
-  application steps, fingerprinting, and timeline explained by licensed
-  insurance
+  Virginia does not license company or independent adjusters. Here’s what the
+  SCC actually licenses, how the public adjuster credential works, and the
+  designated home state route
 keyword: virginia insurance adjuster license
 targetKeywords: virginia insurance adjuster license
 cluster: state-license-virginia
@@ -17,48 +17,59 @@ imageAlt: 'Overhead view of a team collaborating with laptops, phone, and notes.
 imageCredit: Photo by Ivan S on Pexels
 ---
 
-Securing your [Virginia insurance adjuster license](/virginia) is a crucial step toward a rewarding career. Yet many prospective adjusters hesitate or delay for months, unsure if they have enough time or resources to prepare. By waiting, you risk missing out on valuable opportunities. After all, the demand for adjusters in Virginia is growing quickly, with new claims cropping up and consumer needs expanding. Getting licensed now not only opens doors to a stable profession, but it also gives you a competitive edge, potentially leading to higher earnings and a stronger reputation in the insurance field.
+If you have been putting off “getting your Virginia insurance adjuster license,” there is something you need to know before you spend another dollar or another weekend studying: for most adjusters, that license does not exist. The Virginia State Corporation Commission (SCC) Bureau of Insurance says so plainly on its own adjuster page — “No other type of 'adjuster', including company or independent adjusters, require licensure in Virginia at this time.” Only **public adjusters** are licensed in the Commonwealth.
 
-## Realize the key benefits
+That is genuinely good news if you want to work claims here, and it changes what “don’t delay” means. The thing worth not delaying is understanding which of three real paths applies to you — not chasing a credential the SCC does not issue.
 
-Your adjuster license is more than a piece of paper. It represents specialized knowledge and trustworthiness in the eyes of employers and clients. In Virginia, the need for qualified adjusters is climbing as insurance companies manage everything from property damage to medical claims. Whether you plan to work with a major insurance provider or operate independently, being licensed puts you at the front of the line for interviews. You can quickly gain credibility, negotiate better compensation, and enjoy career growth you might never have thought possible.
+## What Virginia actually licenses
 
-## Know the state requirements
+The Bureau of Insurance issues seven license types that require an examination, across three categories: agents (producers), consultants, and public adjusters. There is no company adjuster license, no independent adjuster license, and no general “insurance adjuster” license on that list.
 
-Before diving into your study materials, it’s important to understand Virginia’s licensing criteria. The State Corporation Commission (SCC) oversees the licensing process. As long as you meet the age requirement of 18 or older, you’re halfway to qualifying. Virginia does not require a [prelicensing course](/virginia/prelicensing) as a prerequisite to scheduling the exam — that mandate was repealed for standard lines — though many candidates still take an optional course covering essential insurance principles, ethics, and regulations specific to Virginia to feel well prepared for the unique challenges of working as an adjuster.
+A **public adjuster** is a narrow role. Under Virginia law it means anyone who is paid — directly or indirectly, by salary, fee, or commission — for investigating, negotiating, adjusting, or advising an *insured* on first-party claims under an insurance contract. In other words, a public adjuster works for the policyholder, not the carrier. If you plan to handle claims *for an insurance company* or as an independent adjuster contracted to carriers, this is not your license, and Virginia does not require you to hold one.
 
-To help you visualize the process, here are the key requirements at a glance:
+## Path 1: You want to adjust claims for carriers in Virginia
 
--   Must be at least 18 years old
--   Optionally complete a [pre-licensing](/virginia/prelicensing) course (not state-required)
--   Pass a background check (if required)
--   Submit the license application to the SCC
--   Pass the state exam with a minimum score
+Then you are already clear to work, as far as Virginia licensing is concerned. Company adjusters and independent adjusters do not need a Virginia license to handle claims in the Commonwealth.
 
-## Organize your study plan
+What you will still need is what employers and independent adjuster (IA) firms ask for: claims training, an understanding of Virginia coverage law, and, in most cases, a license from *another* state — because the moment you are deployed to a catastrophe in Texas or Florida, those states do require one.
 
-Once you understand the requirements, it’s time to structure your learning. Many aspiring adjusters choose a pre-licensing course that dives into core insurance concepts, [Virginia regulations](/virginia/requirements), and the daily realities of claims handling. These courses often include practice exams to help gauge your readiness. If you prefer total scheduling freedom, consider an online program; if you learn better through in-person interaction, a classroom course might serve you best. Regular study sessions each week help ensure the material sticks, leaving you fully prepared to succeed on exam day.
+## Path 2: You need a license to work outside Virginia — the designated home state route
 
-## Plan your timeline and costs
+Here is where Virginia residents get tripped up. Adjuster licensing is largely reciprocal: a state like Florida or Texas will issue you a nonresident adjuster license if you already hold one in your home state. Virginia residents have no home state license to reciprocate from.
 
-Timely organization is everything. Most folks need a few weeks of focused study to feel confident about the licensing exam. The fees associated with becoming licensed may vary based on your chosen course, application costs, and exam fees. However, it helps to think of these expenses as investments in your future earning potential. By plotting out your schedule from the start, you’ll avoid a last-minute scramble and reduce the chance of paying for additional retakes. Procrastination can be expensive in terms of time, money, and missed opportunities.
+The standard solution is a **designated home state (DHS) adjuster license**. States that license adjusters generally allow a resident of a non-licensing state to designate that state as their “home state” for licensing purposes, take that state’s adjuster requirements, and then use it as the base for nonresident licenses everywhere else. Florida and Texas are the two most commonly used DHS states for exactly this reason.
 
-For example, some optional pre-licensing courses cost anywhere from $100 to $300, while the state exam fee is $35. Expect to pay a license application fee too, which could be about $15 or slightly higher. These amounts add up, but the long-term benefits often far outweigh the initial outlay. If you secure a position with an insurer or successfully grow your client base, you’ll soon see a return on the effort and money you invest now.
+If your goal is deployment work, storm work, or an IA roster, this is the step that matters — and it is administered by the DHS state you choose, not by Virginia. Check that state’s department of insurance for current requirements, because they set the prelicensing, exam, and fee rules, and they change them independently of anything Virginia does.
 
-## Take the exam with confidence
+## Path 3: You want the Virginia public adjuster license
 
-Exam day can be nerve-wracking, but thorough preparation makes all the difference. Focus your studies on key areas such as Virginia-specific regulations, claims handling procedures, and ethical standards. Expect multiple-choice questions that test both your industry knowledge and practical understanding of everyday scenarios. One proven strategy is to move quickly through the questions you know, then return to those that require extra thought. By pacing yourself, you give each question the attention it needs without letting the timer add extra pressure.
+If you intend to represent policyholders on their own first-party property claims — the homeowner whose roof claim was underpaid — then Virginia does license you, and the process is specific:
 
-Once you pass, submit your results and application to the SCC right away. This step is crucial so you can receive your license number and jump-start your search for adjuster positions. The earlier you finalize the paperwork, the sooner you’ll tap into a job market that rewards promptness, reliability, and expertise.
+-   Be a Virginia resident applicant and **pass the Virginia Public Adjuster Examination** (Prometric series 11-08, 60 minutes, $35 registration fee)
+-   **Submit the license application** electronically through NIPR or Sircon, with a **$15 nonrefundable per-application processing fee**
+-   **Certify and maintain a $50,000 bond** in favor of the Commonwealth, written by a corporate surety licensed by the Commission, for as long as the license remains in effect
+-   Business entities must also obtain a Certificate of Authority from the Commission (generally within 90 days)
 
-## Stay current with renewals
+The bond is the part people underestimate. It is a condition of licensure, not a one-time filing — if it lapses, your authority to act as a public adjuster is at risk.
 
-Securing your Virginia insurance adjuster license is only the beginning. Virginia typically requires licensees to complete periodic [continuing education](/virginia/continuing-education) to keep knowledge updated and on par with new regulations. Renewing on schedule upholds your credibility and signals that you take your professional obligations seriously. Missing these deadlines could lead to penalties or suspension of your license, halting your progress just as your career gains momentum.
+Resident public adjusters then complete **24 hours of continuing education, including 3 hours of ethics, every 24 months** to renew. That is a separate requirement from producer CE; do not assume hours carry over between the two credentials.
 
-Keep a close watch on official guidelines for renewal time frames, as they may vary depending on the type of insurance lines you handle. If you plan to expand your business into other states, again you’ll need to follow their rules too. It’s all part of building a consistent habit of meeting educational requirements on time. The more seamlessly you integrate renewals into your professional routine, the more secure your adjuster status becomes.
+## Why the confusion costs people money
 
-## Take the next step with JustInsurance
+Every year, Virginia residents buy “Virginia adjuster prelicensing” packages, study for an exam that does not exist on Prometric’s Virginia schedule, and then discover the SCC has nothing to issue them. Others go the opposite way — they assume that because Virginia does not license adjusters, no license is needed anywhere, and then lose a deployment because they could not produce a nonresident license in 48 hours.
 
-If you’re ready to get started, JustInsurance is here to help with pre-licensing courses and exam prep so you can reach your goals sooner. While obtaining a license might seem like a big undertaking, every day you delay is a missed chance for career growth and further income potential. By acting now, you’ll establish yourself as a dependable insurance adjuster, ready to help Virginia residents with claim settlements and policy guidance when they need it most.
+The fix is to decide which path is yours before you spend anything:
 
-Whether you aim to work with a major company or build an independent practice, it all starts with not postponing your licensure any longer. Your future in the insurance industry hinges on the steps you take today. Equip yourself with the right resources, move through your coursework at a steady pace, and keep renewal requirements on your radar from the beginning. You’ll soon discover that the effort you invest now will pay off once you’re officially licensed and ready to serve in the thriving Virginia market.
+-   Carrier or IA work inside Virginia only → no Virginia license required
+-   Work in other states → get a designated home state license from a state that issues one
+-   Representing insureds on their own claims → the Virginia public adjuster license above
+
+## Where the producer license fits
+
+A lot of people who arrive here searching for an adjuster license are actually better served by a **Virginia resident producer license**, especially if they want to sell as well as service. That is a real Virginia credential with a clear path: you must be at least 18, Virginia does not require a [prelicensing course](/virginia/prelicensing) for standard lines, you pass the [Prometric state exam](/virginia/requirements) ($35), submit the application through NIPR with the $15 fee, and complete fingerprinting through Fieldprint. Producers then complete their own [continuing education](/virginia/continuing-education) on a two-year cycle.
+
+If that is the direction you are heading, JustInsurance offers [Virginia producer exam prep](/virginia) — the producer license is the credential we prepare people for. We do not offer adjuster courses, and for the public adjuster exam or a designated home state adjuster license you will want a provider that specifically covers that credential.
+
+## Don’t delay the right step
+
+The original advice still holds, just aimed at the right target. Time spent uncertain is time not earning. Confirm your path with the [SCC Bureau of Insurance](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/public-adjusters/) directly, and if a course provider tells you Virginia requires an adjuster license for company or independent work, treat that as a reason to check their other claims too. Getting this right on day one is what keeps your first year in claims moving forward instead of sideways.

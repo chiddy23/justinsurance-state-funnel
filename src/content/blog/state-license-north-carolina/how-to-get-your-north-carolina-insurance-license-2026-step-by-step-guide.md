@@ -1,6 +1,6 @@
 ---
 title: 'North Carolina Insurance License 2026: Step-by-Step Guide'
-description: 'Get your North Carolina insurance license in 2026: prelicensing is now optional (HB 737), Pearson VUE exam, $38 fingerprints. Step-by-step guide.'
+description: 'Get your North Carolina insurance license in 2026: prelicensing is now optional (HB 737), $45 Pearson VUE exam, $132 in first-license fees. Step-by-step guide.'
 keyword: how to get North Carolina insurance license
 targetKeywords: >-
   North Carolina insurance producer license, North Carolina Pearson VUE exam,
@@ -18,7 +18,7 @@ imageAlt: >-
 
 House Bill 737 (Session Law 2025-45), effective October 1, 2025, repealed **General Statute § 58-33-30's** prior prelicensing-hour mandate. Individual producer applicants are **no longer required** to complete prelicensing education for any line of authority — North Carolina now joins the small group of states that let candidates go straight to the Pearson VUE exam after their NIPR application clears. Structured prelicensing study is still widely recommended given how much North Carolina-specific law each exam covers, and Pearson VUE still publishes PDF lists of DOI-approved classroom and online [prelicensing](/north-carolina/prelicensing) providers for candidates who choose that route. NIPR's [North Carolina overview](https://nipr.com/licensing-center/state-information/north-carolina) adds another clock: **exam scores remain valid for 12 months**. Miss that window and you will pay Pearson again while your hiring manager stalls appointments.
 
-This guide walks through the actual sequence North Carolina resident producers follow in 2026 — including what changed with HB 737, the optional prelicensing pathway, the $38 fingerprint fee, and the NCDOI processes most candidates miss until after they've already paid Pearson VUE.
+This guide walks through the actual sequence North Carolina resident producers follow in 2026 — including what changed with HB 737, the optional prelicensing pathway, the $132 in state fees a first-time single-line applicant owes at filing, and the NCDOI processes most candidates miss until after they've already paid Pearson VUE.
 
 ## Step 1 — Pick your line of authority
 
@@ -32,11 +32,28 @@ Even though completion is no longer required, Pearson VUE still publishes the ac
 
 If you do take a course, completions transmit electronically from the school to Pearson VUE. The certificate you receive is your proof of completion, though it's no longer a prerequisite for scheduling your exam.
 
-## Step 3 — Pearson VUE exam logistics
+## Step 3 — File on NIPR (this comes *before* the exam)
 
-Pearson VUE's North Carolina licensing office mailing address is **PO Box 14209, Raleigh, NC 27620**, with **866-265-6329** as the candidate services number. Physical testing centers are located across the state — Raleigh, Charlotte, Greensboro, Wilmington, Asheville, and other major metros all have Pearson VUE centers that proctor insurance exams. Confirm your closest center on the [Pearson VUE NC portal](https://www.pearsonvue.com/us/en/nc/insurance.html) when you book.
+North Carolina is an application-before-exam state, and this is the single sequencing detail candidates get wrong most often. Pearson VUE's North Carolina candidate guide is explicit: before making an examination reservation, candidates must visit www.nipr.com to complete the license application and pay all associated fees. Only after that application clears does Pearson VUE email you an authorization containing your **reserved National Producer Number (NPN)** and your eligibility dates. Candidates without that email are not allowed to register for an exam.
 
-Before you spend money, download the four PDFs Pearson publishes for North Carolina:
+Everything the state charges is paid to NIPR in that one submission, and the line items come straight from Pearson VUE's [Resident Licensing Fees chart (#123428)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123428.pdf):
+
+- **$50 registration fee** — charged for every line of authority on the application
+- **$44 application processing fee** — charged once per application, no matter how many lines are on it
+- **$38 fingerprint fee** — charged only on your first initial producer license
+- **$5 NIPR transaction fee** — added to every resident electronic submission
+
+A first-time applicant filing for one major line therefore owes **$132** to the state plus the $5 NIPR charge, and each additional line added to that same application costs another $50. The $45 Pearson VUE exam fee is separate — it goes to Pearson when you book each attempt, not to NIPR.
+
+That authorization email also starts a clock of its own: the NIPR license application is valid for **six months**. If your license has not been issued by the end of that eligibility period, you reapply to NIPR for a new one. (That six-month application window is separate from the 12-month validity of a passing exam score.)
+
+Pearson's North Carolina page warns that **ITINs cannot substitute for Social Security numbers** and that names must match government IDs exactly. That is not bureaucracy for its own sake; NIPR needs a valid SSN to assign your NPN, and DOI uses those identifiers to match exam results and applications. If your last name changed between the Pearson profile and the NIPR profile, fix it on both **before** you file, or you'll pay twice for the same score report — and if the data doesn't match, your license sits in pending review until you correct it.
+
+## Step 4 — Pearson VUE exam logistics
+
+With your authorization email in hand, you can book. Pearson VUE's North Carolina licensing office mailing address is **PO Box 14209, Raleigh, NC 27620**, with **866-265-6329** as the candidate services number. Physical testing centers are located across the state — Raleigh, Charlotte, Greensboro, Wilmington, Asheville, and other major metros all have Pearson VUE centers that proctor insurance exams. Confirm your closest center on the [Pearson VUE NC portal](https://www.pearsonvue.com/us/en/nc/insurance.html) when you book. Each attempt costs **$45**, paid at the time of reservation and non-refundable.
+
+Before you spend money, download the five PDFs Pearson publishes for North Carolina:
 
 - [Candidate Handbook (#123400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) — covers ID rules, exam day procedures, and scoring
 - [Approved Classroom Providers (#123429)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123429.pdf)
@@ -44,17 +61,17 @@ Before you spend money, download the four PDFs Pearson publishes for North Carol
 - [Resident Licensing Fees (#123428)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123428.pdf)
 - [Content Outlines — Insurance Only (#123415)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf) — tells you exactly which exam topics carry which weight, so you don't register for the wrong combination
 
-## Step 4 — Submit fingerprints (the $38 fee that surprises people)
+## Step 5 — Submit fingerprints (Live Scan only, and only once)
 
-NCDOI requires a **$38 fingerprint fee** plus electronic fingerprint submission for state and federal criminal background checks before license issuance. Fingerprints route through the NCDOI Agent Services Division for processing. If you've held a North Carolina insurance license previously, you may not need to re-fingerprint depending on how recently your prior license was active — confirm with NCDOI's licensing team before paying again.
+The **$38 fingerprint fee** you already paid NIPR in Step 3 covers electronic (Live Scan) fingerprint submission for the state and federal criminal background checks that have to clear before your license can be issued. You print the fingerprint packet from the link in your NIPR email, take it to a local law enforcement office that does Live Scan, then upload the signed forms back into the NIPR Attachment Warehouse; the prints themselves go electronically to the SBI for the state and national check. Fingerprint cards are not accepted — the prints must be Live Scan — and the police department may charge a fee of its own for taking the impressions, on top of the $38 that went to NIPR.
 
-Background disclosures on the NIPR application require the same level of detail Arizona and other states demand: every misdemeanor, every alias, every prior license action in any state. NCDOI cross-checks against NAIC's Regulatory Information Retrieval System.
+That $38 is a once-per-producer charge, not a per-line one. Adding lines of authority later does not require new prints and does not trigger the fee again, with one trap worth planning around: if you file a second producer application before your first fingerprinted license is active on the NAIC Producer Database, Pearson VUE's fee chart says the fingerprint fee will be charged a second time. Put every line you want on the single first application, or wait for the first license to post before filing again. If you've held a North Carolina license previously, certain lapses in licensure can also bring the fingerprint requirement back — confirm with NCDOI's licensing team before paying again.
 
-## Step 5 — File on NIPR with clean identifying data
+Background disclosures on the NIPR application require the same level of detail Arizona and other states demand: every misdemeanor, every alias, every prior license action in any state. "Yes" answers require supporting documentation uploaded to the same Attachment Warehouse, and NCDOI cross-checks against NAIC's Regulatory Information Retrieval System.
 
-NIPR's overview reminds applicants to verify that North Carolina received exam results and prelicensing completions before you blame NIPR for a stuck application. If your last name changed between the Pearson profile and the NIPR profile, fix it on both **before** you file, or you'll pay twice for the same score report.
+## Step 6 — Review and issuance
 
-Pearson's North Carolina page warns that **ITINs cannot substitute for Social Security numbers** and that names must match government IDs exactly. That is not bureaucracy for its own sake; DOI uses those identifiers to match exam results, prelicensing completions, and NIPR applications. If they don't match, your license sits in pending review until you correct the data.
+Pearson VUE's North Carolina Licensing Office assembles the pieces — your NIPR application and fees, your exam result, the completed fingerprint packet and criminal history, and any documents your screening answers triggered — and approves the license if every requirement is met. Applications that need regulatory review are referred to NCDOI's Agent Services Division for a licensing decision. Once the license is voluntarily issued, Pearson's handbook says you'll get an email telling you to print it within 48–72 hours, then asks you to wait another 48–72 hours after that email before pulling the license through SBS Connect. Printing it is free. Read both windows for what they are — the tail end of the process, not the total processing time.
 
 ## The Medicare Supplement/LTC exemption pathway (largely historical since HB 737)
 
@@ -78,17 +95,18 @@ For [continuing education](/north-carolina/continuing-education) after licensure
 | Georgia | 8.0 hours per major line | Pearson VUE | 12 months |
 | Texas | None mandated | Pearson VUE | 12 months |
 
-North Carolina now sits alongside Texas, Arizona, and California in not mandating prelicensing hours, while Georgia (8.0 hours) and Florida (60 hours for the combined 2-15 Life & Health line) still require completion. California eliminated its line-specific prelicensing hours under AB 943 (effective January 1, 2026) and now mandates only a 12-hour Code and Ethics course. Multistate recruiters should print three checklists, not one mail-merge template — every state's specifics differ.
+North Carolina now sits alongside Texas, Arizona, and Pennsylvania in not mandating prelicensing hours, while Georgia (8.0 hours per major line) and Florida (60 hours for the combined 2-15 Life & Health line) still require completion. California is a different case entirely and should not be filed under "no prelicensing": AB 943 (effective January 1, 2026) eliminated California's line-specific hour requirements but replaced them with a mandatory 12-hour Code and Ethics course, so California candidates still owe the state prelicensing education before they can sit. Multistate recruiters should print three checklists, not one mail-merge template — every state's specifics differ.
 
 ## Realistic licensing timeline
 
 | Step | Typical duration |
 |---|---|
 | Prelicensing course (optional) | 1–2 weeks |
+| NIPR application + Pearson VUE authorization email | 1–5 business days |
 | Pearson VUE exam scheduling | 3–7 days |
 | Pearson exam + score report | Same day |
 | Fingerprinting + background clearance | 5–14 business days |
-| NIPR application + NCDOI review | 7–14 business days |
+| Application review + license issuance | 7–14 business days |
 | **Total (clean application)** | **3–6 weeks** |
 
 Background hits, name mismatches, or CE transmission delays can extend this to 30–60 days while NCDOI staff resolve the discrepancy.
@@ -96,9 +114,10 @@ Background hits, name mismatches, or CE transmission delays can extend this to 3
 ## Common pitfalls North Carolina resident producers hit
 
 - **Assuming prelicensing is still required.** HB 737 eliminated the mandatory hour requirement for every line effective October 1, 2025 — you can go straight to the exam if you choose.
+- **Trying to book the exam before filing on NIPR.** North Carolina reverses the order most states use. No NIPR application means no authorization email, no reserved NPN, and no seat.
 - **Choosing a non-DOI-approved provider (if you do take a course).** Always verify against the current Pearson VUE PDF before enrolling.
 - **Letting the 12-month exam score expire.** If your application takes longer than expected, your exam score expires and you re-test.
-- **Missing the $38 fingerprint fee budget.** It's small, but it's separate from any course fee and the exam fee.
+- **Budgeting for the exam and forgetting the state fees.** The $45 Pearson VUE charge is only the testing fee. A first-time single-line applicant also owes $132 to the state at filing — $50 registration, $44 processing, $38 fingerprints — plus $5 to NIPR.
 - **Confusing prelicensing hours with CE hours.** They are completely separate; CE is still mandatory and recurs every renewal cycle even though prelicensing is now optional.
 - **Filing on NIPR with a name mismatch.** If your driver's license, Pearson account, and NIPR profile don't match exactly, your application sits in review.
 
@@ -119,4 +138,5 @@ Prelicensing education is optional in North Carolina as of HB 737 (eff. October 
 - [NCDOI — Long-Term Care Partnership FAQs (PDF)](https://www.ncdoi.gov/documents/agent-services/long-term-care-partnership-licensees-faqs/open)
 - [Pearson VUE — North Carolina insurance exams (downloads hub)](https://www.pearsonvue.com/us/en/nc/insurance.html)
 - [Pearson VUE — North Carolina Insurance Candidate Handbook (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
+- [Pearson VUE — North Carolina Insurance Resident Licensing Fees (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123428.pdf)
 - [NIPR — North Carolina licensing overview](https://nipr.com/licensing-center/state-information/north-carolina)

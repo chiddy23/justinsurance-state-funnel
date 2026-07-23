@@ -59,7 +59,7 @@ It’s also important to keep your personal details current. If you’ve changed
 
 ## Use JustInsurance to simplify your journey
 
-You might feel intimidated by the process, especially if you’re new to the industry. This is where JustInsurance can help. Through guided online tools and personalized support, JustInsurance clarifies every requirement, from registering for your first pre-licensing class to submitting your renewal paperwork. Some of the recurring steps like setting up exam reminders or checking your continuing education credits are easier when you have expert advice at your side.
+You might feel intimidated by the process, especially if you’re new to the industry. This is where JustInsurance can help. Our online pre-licensing and continuing education courses walk you through the material step by step, so the requirements stop feeling like a maze — from your first pre-licensing class through the CE you’ll complete before renewal. Recurring tasks like staying ahead of your CE deadlines and keeping your renewal paperwork in order feel far more manageable once you actually understand what’s required, and clear, up-to-date coursework is what builds that understanding.
 
 Don’t make the mistake of trying to figure everything out on your own and risking missed deadlines or incomplete forms. There’s no shortage of helpful options for aspiring and seasoned agents. JustInsurance stands out by providing up-to-date courses and a clear timeline of milestones you need to hit for licensing and renewal. That means fewer mistakes and more confidence in your qualifications.
 

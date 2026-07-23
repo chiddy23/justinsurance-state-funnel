@@ -17,7 +17,7 @@ imageAlt: >-
   carolina insurance laws on the state licensing exam.
 ---
 
-The North Carolina-specific law section is where underprepared candidates lose points they can't afford to lose. With only 55 exam questions total, every missed question matters — and the NC statutes section typically represents 15-25% of the exam. North Carolina's insurance law draws primarily from Chapter 58 of the North Carolina General Statutes (G.S. 58), a comprehensive statute administered by the North Carolina Department of Insurance (NCDOI) under the Commissioner of Insurance.
+The North Carolina-specific law section is where underprepared candidates lose points they can't afford to lose. The major single-line exams carry only 55 scored questions, so every miss matters — and per Pearson VUE's North Carolina content outlines, the North Carolina Statutes and Regulations section alone accounts for 13 to 15 of those 55 questions (13 on Property, 14 on Life and on Accident & Health, 15 on Casualty), or roughly a quarter of the exam. The Personal Lines exam is longer at 80 scored questions and devotes 24 of them to North Carolina content. North Carolina's insurance law draws primarily from Chapter 58 of the North Carolina General Statutes (G.S. 58), a comprehensive statute administered by the North Carolina Department of Insurance (NCDOI) under the Commissioner of Insurance.
 
 Here are the North Carolina-specific insurance laws every producer candidate needs to know for the state licensing exam.
 
@@ -123,15 +123,17 @@ Lines of authority available:
 
 Life; Accident & Health or Sickness; Property; Casualty; Personal Lines; Variable Products; Title; Medicare Supplement/LTC; and others
 
-Renewal requirements:
+License maintenance requirements:
 
-Biennial renewal (last day of birth month)
+Producer licenses are perpetual — NCDOI states they "do not renew and are valid until surrendered, canceled or revoked" for the major lines. There is no renewal application to file.
 
-24 hours CE including 3 hours ethics
+Maintained by continuing education, not a renewal filing
 
-CE completed at least 60 days before expiration
+24 hours CE including 3 hours ethics every 2-year compliance period
 
-No renewal fee for major lines
+CE completed by the CE compliance date — the last day of your birth month, in the odd or even year matching your birth year
+
+No renewal application or renewal fee for the major producer lines (adjuster, public adjuster, and surplus lines classes do file periodic renewals)
 
 Producer conduct standards:
 
@@ -315,7 +317,7 @@ Review recent regulatory changes. PLE elimination (HB 737/SL 2025-45 effective O
 
 ## 5 Frequently Asked Questions
 
-- How much of the North Carolina exam is state-specific law? Approximately 15-25% of each exam focuses on North Carolina-specific content from G.S. 58 and NCDOI regulations.
+- How much of the North Carolina exam is state-specific law? On the major single-line exams, Pearson VUE's content outlines assign the North Carolina Statutes and Regulations section 13 to 15 of the 55 scored questions — roughly a quarter of the exam (13 on Property, 14 on Life and on Accident & Health, 15 on Casualty). The Personal Lines exam dedicates 24 of its 80 scored questions to North Carolina content. All of it comes from G.S. 58 and NCDOI regulations.
 - What's the NC Rate Bureau and why does it appear on the exam? The NC Rate Bureau is a distinctive North Carolina institution that files insurance rates on behalf of member insurers. It creates NC-specific policy forms for auto and homeowners. Property and Casualty exams reference NC Rate Bureau forms rather than standard ISO forms.
 - Does North Carolina have its own health insurance exchange? No. North Carolina uses the federal Healthcare.gov marketplace rather than a state-based exchange. This is different from states like New York (NY State of Health) and Pennsylvania (Pennie).
 - Who is the Commissioner of Insurance in North Carolina? The North Carolina Commissioner of Insurance is elected by voters — distinctive among states where the Commissioner is typically appointed. The Commissioner leads the NCDOI and holds substantial licensing, enforcement, and rate regulation authority.

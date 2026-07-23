@@ -48,10 +48,35 @@ export default function ExamInfoSection({
   // not a percentage; and Illinois no longer offers online remote proctoring
   // (in-person Pearson VUE only). Gated so all other states are unchanged.
   const isIllinois = stateSlug === "illinois";
-  // Illinois AND Florida no longer offer online remote proctoring — both are
-  // in-person Pearson VUE only (FL since Feb 16, 2024). Gated so other states
-  // keep the "remote proctoring (where available)" wording.
-  const inPersonOnly = stateSlug === "illinois" || stateSlug === "florida";
+  // Illinois, Florida, Massachusetts and Missouri no longer offer online remote
+  // proctoring — all four are in-person Pearson VUE only (FL since Feb 16, 2024;
+  // MO since May 7, 2025, when Pearson VUE discontinued OnVUE remote delivery;
+  // MA effective July 22, 2026, when the exam moved Prometric → Pearson VUE and
+  // remote testing was eliminated). Kentucky is also in-person only, but for a
+  // different reason: the KY DOI administers its own computer-based exam at its
+  // own state/KCTCS testing sites booked through DOI eServices
+  // (insurance.ky.gov/ppc) and has never offered remote proctoring — so it needs
+  // its own venue wording rather than the Pearson VUE sentence. Michigan is also
+  // in-person only, but its vendor is PSI, not Pearson VUE: Michigan DIFS
+  // instructed PSI to discontinue all remote-proctored insurance examinations
+  // effective June 10, 2025 (Remote Examination Discontinuance,
+  // michigan.gov/difs), and PSI's own MIDIFS candidate bulletin now states exams
+  // "are administered at PSI test centers throughout Michigan" — so MI needs its
+  // own PSI venue wording rather than the Pearson VUE sentence. Gated so other
+  // states keep the "remote proctoring (where available)" wording.
+  const inPersonOnly =
+    stateSlug === "illinois" ||
+    stateSlug === "florida" ||
+    stateSlug === "massachusetts" ||
+    stateSlug === "missouri" ||
+    stateSlug === "michigan" ||
+    stateSlug === "kentucky";
+  const inPersonOnlyNote =
+    stateSlug === "kentucky"
+      ? `You take the ${stateName} exam in person at one of the state's testing sites — ${stateName} does not offer online remote proctoring.`
+      : stateSlug === "michigan"
+      ? `You take the ${stateName} exam in person at a PSI test center — ${stateName} discontinued online remote proctoring effective June 10, 2025.`
+      : `You take the ${stateName} exam in person at a Pearson VUE test center — ${stateName} no longer offers online remote proctoring.`;
   return (
     <section className="bg-white py-16 px-4">
       <div className="max-w-4xl mx-auto">
@@ -110,7 +135,7 @@ export default function ExamInfoSection({
             </h3>
             <p className="font-bold text-navy text-lg mb-2">{examProvider}</p>
             <p className="text-gray-600 text-sm mb-4">
-              The {stateName} insurance licensing exam is administered by {examProvider}. {inPersonOnly ? `You take the ${stateName} exam in person at a Pearson VUE test center — ${stateName} no longer offers online remote proctoring.` : "You can take the exam at a testing center near you or online with remote proctoring (where available)."}
+              The {stateName} insurance licensing exam is administered by {examProvider}. {inPersonOnly ? inPersonOnlyNote : "You can take the exam at a testing center near you or online with remote proctoring (where available)."}
             </p>
             <div className="space-y-2">
               <a

@@ -22,9 +22,7 @@ If you're a licensed Louisiana insurance producer approaching your renewal deadl
 
 Every Louisiana resident insurance producer must complete 24 hours of approved continuing education during each two-year renewal period. Of those 24 hours, at least 3 must be from an approved ethics course. This 24/3 structure is consistent with most states in the comparison group — Kentucky, Indiana, Ohio, and Wisconsin all require 24 hours/3 ethics. Missouri is the lightest CE state in the group at 16 hours/3 ethics.
 
-The 24-hour Louisiana requirement applies per license class — Life, Accident & Health, Property, and Casualty are separate license classes in Louisiana. Producers who hold multiple license classes should verify with the LDI whether CE hours are shared across classes or required independently per class, as this is a Louisiana-specific consideration that differs from states like Kentucky, where a single 24-hour block covers all lines.
-
-⚠️ Verify with LDI at (800) 259-5300 whether CE hours are shared across Louisiana license classes or required per class before advising clients.
+The 24-hour requirement is a single total that covers every line of authority you hold — a producer licensed for one or more of the lines of life, accident and health, property, casualty, or personal lines completes 24 hours (including the 3 ethics hours) per two-year term. Holding multiple lines does not multiply the requirement; there is no separate 24-hour block per license class. This works the same way as neighboring states like Kentucky, where a single 24-hour block also covers all lines. One Louisiana-specific wrinkle sits inside that total: producers licensed for property, casualty, or personal lines must dedicate at least 3 of their 24 hours to flood insurance (see the specialty training section below).
 
 ## The New Legislative Updates Requirement (Effective July 31, 2027)
 
@@ -36,7 +34,7 @@ This is a significant and recent change that reflects the pace of legislative ac
 
 Louisiana insurance producer licenses expire on the last day of the licensee's birth month, every two years. All required CE must be completed before the renewal application is submitted. Contact the LDI for the current resident individual producer renewal fee before submitting your renewal.
 
-⚠️ Late renewal fees and reinstatement procedures — verify current penalty amounts with LDI at (800) 259-5300 or ldi.la.gov.
+If you miss your renewal deadline, late renewal fees and reinstatement procedures apply — verify current penalty amounts with the LDI at (800) 259-5300 or ldi.la.gov.
 
 ## How CE Hours Are Reported
 
@@ -55,7 +53,7 @@ Louisiana's ongoing flood training requirement and the upcoming legislative upda
 ## Frequently Asked Questions
 
 - How many CE hours does a Louisiana insurance producer need every two years? 24 hours of approved continuing education, including at least 3 hours of ethics. Beginning with renewals due on or after July 31, 2027, the total must also include 2 hours of Louisiana insurance law legislative updates, per Act 29 of the 2025 session.
-- Is Louisiana's 3-hour NFIP flood training a one-time requirement or ongoing? Ongoing. Louisiana P&C and Personal Lines producers must complete a 3-hour NFIP flood insurance certification training course during each 2-year renewal period. This is different from Kentucky and Indiana, where the flood training is a one-time one-time requirement. The ongoing requirement reflects Louisiana's status as one of the highest flood-risk states in the nation.
+- Is Louisiana's 3-hour NFIP flood training a one-time requirement or ongoing? Ongoing. Louisiana P&C and Personal Lines producers must complete a 3-hour NFIP flood insurance certification training course during each 2-year renewal period. This is different from Kentucky and Indiana, where the flood training is a one-time requirement. The ongoing requirement reflects Louisiana's status as one of the highest flood-risk states in the nation.
 - What is the new legislative updates CE requirement effective July 31, 2027? Beginning with renewals due on or after July 31, 2027, Louisiana producers must include 2 hours dedicated to current Louisiana insurance law legislative updates as part of their 24-hour CE total. This was established by Act 29 of the 2025 Regular Legislative Session and reflects the volume of significant legislative changes to Louisiana insurance law in recent years.
 - How does LTC training count toward Louisiana CE? Life and A&H producers who sell LTC in Louisiana must complete an 8-hour initial LTC training course before their first LTC sale. After the initial course, a 4-hour ongoing LTC course is required every renewal period. Both the initial and ongoing LTC credits count toward the 24-hour CE total in the applicable period.
 - Where do I check my Louisiana CE compliance status? Log into your Industry Access account at ldi.la.gov. Your CE credits should be reflected there as providers report completions to the LDI electronically. Check your record at least quarterly throughout the renewal period — do not wait until the month before your renewal deadline.

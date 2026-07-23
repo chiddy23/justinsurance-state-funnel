@@ -1,6 +1,6 @@
 ---
 title: "Colorado Life and Annuities Exam: Full Content Breakdown and Strategy Guide"
-description: The Colorado Life insurance licensing exam is 95 questions long — 80 scored and 15 pretest — administered by Pearson VUE in 120 minutes.
+description: The Colorado Life insurance licensing exam is 90 questions long — 80 scored and 10 pretest — administered by Pearson VUE in 120 minutes.
 keyword: colorado life and annuities exam full content breakdown and
 targetKeywords: colorado life and annuities exam full content breakdown and
 cluster: state-license-colorado
@@ -12,13 +12,15 @@ image: /blog/images/fast-track-your-success-with-a-colorado-insurance-license.jp
 imageAlt: "Colorado Life and Annuities Exam: Full Content Breakdown and Strategy Guide"
 ---
 
-The Colorado Life insurance licensing exam is 95 questions long — 80 scored and 15 pretest — administered by Pearson VUE in 120 minutes. It is divided into two sections: a general knowledge section of 50 scored questions covering product knowledge, terms, and concepts, and a Colorado-specific state section of 30 scored questions covering Title 10 of the Colorado Revised Statutes. Every topic that appears on the exam is published in the official Pearson VUE content outline, effective January 1, 2024. This post maps every content area, assigns the question counts to each, explains what the exam actually tests within each area, and gives you the specific strategy for the state section topics that most candidates underprepare.
+The Colorado Life insurance licensing exam is 90 questions long — 80 scored and 10 pretest — administered by Pearson VUE in 120 minutes. It is divided into two sections: a general knowledge section of 50 scored questions (plus 5 pretest) covering product knowledge, terms, and concepts, and a Colorado-specific state section of 30 scored questions (plus 5 pretest) covering Title 10 of the Colorado Revised Statutes. Every topic that appears on the exam is published in the official Pearson VUE content outline, effective January 1, 2024. This post maps every content area, assigns the question counts to each, explains what the exam actually tests within each area, and gives you the specific strategy for the state section topics that most candidates underprepare.
 
 ## The Exam at a Glance
 
-The 15 pretest questions are indistinguishable from scored questions and are scattered throughout the exam. They do not affect your score but you will not know which they are. Answer every question as if it counts.
+The 10 pretest questions are indistinguishable from scored questions and are scattered throughout the exam. They do not affect your score but you will not know which they are. Answer every question as if it counts.
 
-Passing score: 70% of the 80 scored questions — meaning you need at least 56 correct scored answers to pass. Because you cannot identify pretest questions, the practical target is approximately 56–60 of all 80 scored questions correct across both sections.
+Passing score: 70 — and it is important to understand what that number is. Colorado reports a **scaled score**, not a raw percentage. The Pearson VUE Colorado candidate handbook states plainly that raw scores are converted to a scale of 0 to 100 and that the scaled score reported to you "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Scaling equates forms of different difficulty, so the number of correct answers it takes to reach 70 varies by the form you are given. That means there is no fixed "56 of 80 correct" threshold you can aim at, and anyone quoting one is guessing.
+
+The practical takeaway: do not study to a raw-count target. Study to mastery of the content outline, section by section, and treat every scored area as one you need to be solidly above the line on rather than one you can afford to trade away. Note too that Pearson VUE only reports a numeric score to candidates who fail — pass, and you simply see "pass."
 
 ## PART 1: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
 
@@ -86,7 +88,7 @@ Non-forfeiture options — what happens to the cash value when a policy lapses o
 
 Dividend options (participating policies only): cash payment, reduction of premium, accumulate at interest, paid-up additions (uses dividend to purchase small amounts of additional permanent insurance), one-year term. The exam frequently asks which dividend option purchases additional permanent insurance — paid-up additions.
 
-Incontestability clause — after two years, the insurer cannot contest the policy for misrepresentation or fraud in the application except for non-payment of premium. Suicide clause — if the insured commits suicide within two years (Colorado standard), the insurer returns premiums paid rather than paying the death benefit. Misstatement of age or gender — if age or gender was misstated, the benefit is adjusted to what the premium paid would have purchased at the correct age or gender.
+Incontestability clause — after two years, the insurer cannot contest the policy for misrepresentation or fraud in the application except for non-payment of premium. Suicide clause — watch the period here, because Colorado is not the two-year default many national study manuals teach: under C.R.S. § 10-7-109 suicide is no defense to payment after the first policy year, so Colorado's suicide period is one year, and the insurer's return-of-premium remedy applies only to a death by suicide within that first year. Do not let the two-year incontestability period pull your answer to "two years" on a suicide question. Misstatement of age or gender — if age or gender was misstated, the benefit is adjusted to what the premium paid would have purchased at the correct age or gender.
 
 Assignment — absolute assignment: transfers all ownership rights permanently (e.g., collateral assignment to pay off a debt if insured dies). Collateral assignment: transfers specific rights only (e.g., lender is assigned benefit up to loan balance).
 
@@ -154,7 +156,7 @@ Controlled business (10-2-401(4)) — a producer whose book of business consists
 
 Unfair claims practices (10-3-1104(1)(h)) — misrepresenting facts or policy provisions, failing to acknowledge claims promptly, failing to conduct reasonable investigations, or compelling litigation to settle claims.
 
-Colorado Fraud Statute (10-1-128; 10-1-129) — willfully making a false statement or representation in any insurance application, policy, or claim; a Class 5 felony for amounts over $1,000.
+Colorado Fraud Statute (regulatory definition in CRS §§ 10-1-128 and 10-1-129; criminal penalties under CRS § 18-5-211) — willfully making a false statement or representation in any insurance application, policy, or claim. Colorado grades insurance fraud by the type of act, not the dollar amount involved: a false or fraudulent application is a class 2 misdemeanor, a false or fraudulent claim or certificate of insurance is a class 6 felony, and knowingly misappropriating or diverting premium funds is a class 5 felony.
 
 ### Section II: Colorado Statutes Pertinent to Life Insurance Only — 10 Questions
 
@@ -168,7 +170,9 @@ Group life may be issued to employers, associations, trusts, and creditor-debtor
 
 C. Suicide Clause (10-7-109)
 
-Colorado law: if the insured dies by suicide within two years of policy issuance (whether sane or insane), the insurer's liability is limited to a return of premiums paid. After two years, the suicide exclusion no longer applies and the full death benefit is paid.
+Colorado law: the suicide period is **one year**, not the two years used in most national textbooks. C.R.S. § 10-7-109 provides that the suicide of a policyholder *after the first policy year* is not a defense against payment — whether the act was voluntary or involuntary, and whether the policyholder was sane or insane. So if the insured dies by suicide within the first policy year, the insurer's liability is limited to a return of premiums paid; after the first policy year, the full death benefit is payable.
+
+This is a favorite state-section question precisely because it differs from the national default. It is also settled law: in *Amica Life Insurance Co. v. Wertz*, 2020 CO 39 (Colo. Apr. 27, 2020), the Colorado Supreme Court held that a two-year suicide exclusion cannot be enforced against a Colorado policyholder, because § 10-7-109 bars an insurer from asserting suicide as a defense after the first policy year and that statute controls. If you see "two years" as an answer choice on a Colorado suicide-clause question, it is the distractor.
 
 D. Free Look Period / Disclosure (10-7-302; Reg. 4-1-4)
 
@@ -178,9 +182,9 @@ E. Interest on Proceeds (10-7-112)
 
 When a life insurance claim is filed and the insurer delays payment, interest accrues on the proceeds from the date of death. The exam tests the principle that Colorado requires insurers to pay interest on delayed claims.
 
-F. Sales and Marketing of Life and Annuities (Reg. 4-1-1; 4-1-2; 4-1-8; 4-1-11; 4-1-12)
+F. Sales and Marketing of Life and Annuities (10-7-103; Reg. 1-2-18; 4-1-1; 4-1-2; 4-1-3; 4-1-8; 4-1-11; 4-1-12)
 
-This subsection covers suitability requirements for life and annuity sales. Before recommending a life or annuity product, Colorado producers must: collect information about the customer's financial situation, insurance needs, risk tolerance, and objectives; have a reasonable basis that the recommendation is suitable; maintain records of the basis for the recommendation. Annuity suitability requirements are specifically addressed under Colorado's best interest standard (effective November 1, 2022), which requires producers to act in the customer's best interest when recommending annuity products — not merely a suitability standard.
+This subsection is a bundle, not a single rule. The suitability and best interest standard for annuity recommendations lives in Regulation 4-1-11 (Best Interest Obligations and Supervision in Annuity Transactions); the disclosure rules for life insurance illustrations live in Regulation 4-1-8; and the remaining citations cover life solicitation, disclosure, and advertising. Do not treat them as interchangeable — a question about what a producer owes an annuity buyer is a 4-1-11 question. Before recommending a life or annuity product, Colorado producers must: collect information about the customer's financial situation, insurance needs, risk tolerance, and objectives; have a reasonable basis that the recommendation is suitable; maintain records of the basis for the recommendation. Annuity suitability requirements are specifically addressed under Colorado's best interest standard (effective November 1, 2022), which requires producers to act in the customer's best interest when recommending annuity products — not merely a suitability standard.
 
 G. Insurable Interest (10-7-701 through 710)
 
@@ -208,7 +212,7 @@ Third, on replacement and disclosure questions, the trigger matters. Ask yoursel
 
 How many questions about annuities specifically appear on the Colorado Life exam?
 
-Annuity questions appear in multiple sections of the Colorado Life exam. In the general knowledge section, annuities are explicitly part of Content Area I (Types of Policies, 15 questions total) — approximately 3–5 of those 15 questions address annuity product types, payout options, and annuity mechanics. In the Colorado state section, annuity suitability and best interest requirements are tested under the Sales and Marketing of Life and Annuities subsection (Reg. 4-1-1, 4-1-8, 4-1-11). Expect 2–4 annuity-related questions in the state section addressing Colorado's best interest standard, required disclosures, and producer obligations before recommending an annuity product. Combined, annuities account for approximately 5–9 of your 80 scored questions — enough that a dedicated annuity review session is worthwhile, particularly given that Colorado requires a separate one-time 4-hour Annuity Best Interest CE course before producers may sell any annuity product after licensing.
+Annuity questions appear in multiple sections of the Colorado Life exam. In the general knowledge section, annuities are explicitly part of Content Area I (Types of Policies, 15 questions total) — approximately 3–5 of those 15 questions address annuity product types, payout options, and annuity mechanics. In the Colorado state section, annuity suitability and best interest requirements are tested under the Sales and Marketing of Life and Annuities subsection, where the operative rule is Regulation 4-1-11 (Best Interest Obligations and Supervision in Annuity Transactions). Expect 2–4 annuity-related questions in the state section addressing Colorado's best interest standard, required disclosures, and producer obligations before recommending an annuity product. Combined, annuities account for approximately 5–9 of your 80 scored questions — enough that a dedicated annuity review session is worthwhile, particularly given that Colorado requires a separate one-time 4-hour Annuity Best Interest CE course before producers may sell any annuity product after licensing.
 
 What is the difference between twisting and replacement on the Colorado Life exam, and why does it matter?
 
@@ -216,7 +220,7 @@ These are related but legally distinct concepts that the exam tests separately. 
 
 The content outline lists CRS citations for state section topics. Should I memorize the specific code section numbers?
 
-You do not need to memorize the specific numeric code sections (e.g., 10-7-109 for the suicide clause). The exam tests the rules themselves, not the citation numbers. What you need to know is the substance: Colorado's suicide clause period is two years; replacement requires a Notice Regarding Replacement; the annuity standard is best interest. The citations in the content outline are your study guide to find the source material if you want to read the actual statute, not a memorization list for the exam. The one practical use of the citations is to confirm you have covered every topic listed — if you can answer a question testing each numbered subsection in the outline, you have covered the state section comprehensively.
+You do not need to memorize the specific numeric code sections (e.g., 10-7-109 for the suicide clause). The exam tests the rules themselves, not the citation numbers. What you need to know is the substance: Colorado's suicide clause period is one year (suicide is no defense after the first policy year under 10-7-109); replacement requires a Notice Regarding Replacement; the annuity standard is best interest. The citations in the content outline are your study guide to find the source material if you want to read the actual statute, not a memorization list for the exam. The one practical use of the citations is to confirm you have covered every topic listed — if you can answer a question testing each numbered subsection in the outline, you have covered the state section comprehensively.
 
 I have a background in financial planning. Does that help on the Colorado Life exam?
 

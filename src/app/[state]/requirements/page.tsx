@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { stateDisclosure } from "@/lib/state-disclosures";
 import { getStateBySlug } from "@/lib/states";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isPrelicensingHeld } from "@/lib/prelicensing-status";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, withIlWebinarFaq, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
@@ -178,6 +178,13 @@ export default async function RequirementsPage({
   // See [state]/page.tsx: a PRELICENSING approval claim needs approval granted
   // AND a state that regulates prelicensing (CE-only states must not claim it).
   const prelicensingApproved = isProviderApproved && prelicensingRequired;
+  // AVAILABILITY GATE — a state that MANDATES prelicensing but whose JustInsurance
+  // provider approval is still PENDING (New York today) must NOT present a live
+  // purchase path. Mirrors the hub page + cost page gating. isPrelicensingHeld is
+  // NY-only right now (Washington is also PENDING but exam-only, so it is NOT
+  // held) and reverts automatically the moment providerApprovalNumber becomes a
+  // real number. Used to reframe the closing CTA below only.
+  const prelicensingHeld = isPrelicensingHeld(stateData);
   // Florida resident agent licenses are PERPETUAL (no license renewal/expiration).
   // What you maintain is CE (every 2 years, by end of birth month) plus at least
   // one active company appointment; the license only terminates after 48 months
@@ -195,6 +202,16 @@ export default async function RequirementsPage({
     stateData.fingerprintingNotes &&
     !stateData.fingerprintingNotes.toLowerCase().includes("not required") &&
     !stateData.fingerprintingNotes.toLowerCase().includes("no fingerprint");
+
+  // backgroundCheckCost is a free-text field: most states store a bare number
+  // ("39.5"), but the states that charge nothing store regulatory wording
+  // ("No fee required", "No separate fee"). Blindly prefixing "$" produced
+  // "$No fee required" in the at-a-glance table and the cost FAQ. Format the
+  // number only when the value actually is one (audit 2026-07-20).
+  const backgroundCostIsNumeric = /^[0-9.]+$/.test(stateData.backgroundCheckCost);
+  const backgroundCostDisplay = backgroundCostIsNumeric
+    ? `$${stateData.backgroundCheckCost}`
+    : stateData.backgroundCheckCost;
 
   // Build FAQ list — templated questions + state-specific FAQ.
   // withIlWebinarFaq appends the approved Illinois live-webinar format FAQ
@@ -224,11 +241,11 @@ export default async function RequirementsPage({
     },
     {
       question: `How much does ${aOrAn(stateData.name)} ${stateData.name} insurance license cost?`,
-      answer: `The total cost to get your ${stateData.name} insurance license typically falls in the ${stateData.totalCostRange} range. This includes: prelicensing course fees, the exam fee ($${stateData.examInfo.examFee}), the state application fee ($${stateData.applicationFee}), and the background check cost ($${stateData.backgroundCheckCost}). Individual costs vary based on the line of authority you choose.`,
+      answer: `The total cost to get your ${stateData.name} insurance license typically falls in the ${stateData.totalCostRange} range. This includes: prelicensing course fees, the exam fee ($${stateData.examInfo.examFee}), the state application fee ($${stateData.applicationFee})${backgroundCostIsNumeric ? `, and the background check cost ($${stateData.backgroundCheckCost})` : `. There is no separate background-check fee in ${stateData.name}`}. Individual costs vary based on the line of authority you choose.`,
     },
     {
       question: `What are the ${stateData.name} CE requirements?`,
-      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.firstTermHours ? `${stateData.ce.firstTermHours} hours of continuing education before your first renewal, then ${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}` : `${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}`}, including ${stateData.ce.ethicsHours} hours of ethics training. Renewal deadline: ${stateData.renewalDeadline}.${ilWebinar ? "" : ` JustInsurance offers ${isProviderApproved ? "state-approved " : ""}CE packages starting at ${stateData.ce.packagePrice}.`}`,
+      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.firstTermHours ? `${stateData.ce.firstTermHours} hours of continuing education before your first renewal, then ${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}` : `${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}`}, including ${stateData.ce.ethicsHours} hours of ethics training.${stateData.ce.mandatedTopicHours ? ` ${stateData.ce.mandatedTopicHours}` : ``} Renewal deadline: ${stateData.renewalDeadline}.${ilWebinar ? "" : ` JustInsurance offers ${isProviderApproved ? "state-approved " : ""}CE packages starting at ${stateData.ce.packagePrice}.`}`,
     },
     // State-specific FAQ from data
     stateData.stateSpecificFAQ,
@@ -238,26 +255,34 @@ export default async function RequirementsPage({
         typeof stateData.prelicensing.life.hours === "number" ||
         typeof stateData.prelicensing.health.hours === "number" ||
         typeof stateData.prelicensing.lifeAndHealth.hours === "number"
-          ? `${stateData.name} requires${
-              typeof stateData.prelicensing.life.hours === "number"
-                ? ` ${stateData.prelicensing.life.hours} hours for Life,`
-                : ""
-            }${
-              typeof stateData.prelicensing.health.hours === "number"
-                ? ` ${stateData.prelicensing.health.hours} hours for Health,`
-                : ""
-            }${
-              typeof stateData.prelicensing.lifeAndHealth.hours === "number"
-                ? ` and ${stateData.prelicensing.lifeAndHealth.hours} hours for a combined Life & Health license.`
-                : "."
-            }${
+          ? (() => {
+              // Build the per-line hours list, then join grammatically. Doing
+              // this by hand (each segment hard-coding a trailing comma with a
+              // "." fallback for the absent combined-license slot) produced a
+              // dangling ",." for separate-license states like Wisconsin that
+              // have Life & Health hours but no combined figure.
+              const segments: string[] = [];
+              if (typeof stateData.prelicensing.life.hours === "number")
+                segments.push(`${stateData.prelicensing.life.hours} hours for Life`);
+              if (typeof stateData.prelicensing.health.hours === "number")
+                segments.push(`${stateData.prelicensing.health.hours} hours for Health`);
+              if (typeof stateData.prelicensing.lifeAndHealth.hours === "number")
+                segments.push(`${stateData.prelicensing.lifeAndHealth.hours} hours for a combined Life & Health license`);
+              const joined =
+                segments.length === 1
+                  ? segments[0]
+                  : segments.length === 2
+                  ? `${segments[0]} and ${segments[1]}`
+                  : `${segments.slice(0, -1).join(", ")}, and ${segments[segments.length - 1]}`;
               // Mississippi HB 819 (Miss. Code § 83-17-251(2)(h)) exempts Life-ONLY
               // applicants. Without this note the hours sentence asserts a Life
               // requirement that step 1 on this same page says does not apply.
-              stateData.slug === "mississippi"
-                ? " Under House Bill 819 (Miss. Code § 83-17-251(2)(h)), applicants seeking the Life line of authority ONLY are exempt from that requirement."
-                : ""
-            } Courses are available fully online through JustInsurance.`
+              const mississippiNote =
+                stateData.slug === "mississippi"
+                  ? " Under House Bill 819 (Miss. Code § 83-17-251(2)(h)), applicants seeking the Life line of authority ONLY are exempt from that requirement."
+                  : "";
+              return `${stateData.name} requires ${joined}.${mississippiNote} Courses are available fully online through JustInsurance.`;
+            })()
           : `${stateData.name} does not require prelicensing education to sit for the state exam. JustInsurance still offers optional, fully online exam-prep courses.`,
     },
   ], stateData);
@@ -465,7 +490,7 @@ export default async function RequirementsPage({
                   { label: "Exam Fee", value: `$${stateData.examInfo.examFee}` },
                   { label: "Passing Score", value: formatPassingScore(stateData.slug, stateData.examInfo.passingScore) },
                   { label: "Application Fee", value: `$${stateData.applicationFee}` },
-                  { label: "Background Check Cost", value: `$${stateData.backgroundCheckCost}` },
+                  { label: "Background Check Cost", value: backgroundCostDisplay },
                   {
                     label: "Fingerprinting Required",
                     value: hasFingerprinting ? "Yes" : "No",
@@ -475,6 +500,21 @@ export default async function RequirementsPage({
                     value: `${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}`,
                   },
                   { label: "Ethics CE Hours", value: `${stateData.ce.ethicsHours} hours` },
+                  // fid-215: states that mandate specific CE topic-hours BEYOND
+                  // ethics (Oregon: 3 hrs Oregon statutes & administrative rules
+                  // per OAR 836-071-0215; New York: law/ethics/DEI credits).
+                  // Listing "Ethics CE Hours" alone understates the requirement
+                  // and a renewing producer could under-complete. Sourced from
+                  // states.ts ce.mandatedTopicHours — undefined elsewhere, so
+                  // every other state renders byte-identically.
+                  ...(stateData.ce.mandatedTopicHours
+                    ? [
+                        {
+                          label: "Other Mandated CE Topics",
+                          value: stateData.ce.mandatedTopicHours,
+                        },
+                      ]
+                    : []),
                   { label: "Renewal Deadline", value: stateData.renewalDeadline },
                   { label: "License Duration", value: stateData.licenseDuration },
                   {
@@ -517,10 +557,6 @@ export default async function RequirementsPage({
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
             How to Get Your {stateData.name} Insurance License
           </h2>
-          <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            Follow these five steps to go from zero to licensed in{" "}
-            {stateData.name}.
-          </p>
           {(() => {
             const stepPrelicensing = {
               key: "prelicensing",
@@ -555,6 +591,20 @@ export default async function RequirementsPage({
                         : stateData.prelicensing.life.hours === stateData.prelicensing.health.hours
                         ? `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education per line of authority (${stateData.prelicensing.lifeAndHealth.hours} hours for the combined Life & Health license) before sitting for the exam.`
                         : `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education for the Life line, ${stateData.prelicensing.health.hours} hours for the Health line, and ${stateData.prelicensing.lifeAndHealth.hours} hours for the combined Life & Health license, before sitting for the exam.`}{" "}
+                      JustInsurance&apos;s online courses let you study at your own
+                      pace on any device. You&apos;ll receive an official
+                      certificate of completion once you finish.
+                    </p>
+                  ) : typeof stateData.prelicensing.life.hours === "number" ||
+                    typeof stateData.prelicensing.health.hours === "number" ? (
+                    // Separate per-line prelicensing hours with no combined
+                    // Life & Health license (e.g. Wisconsin). State the real
+                    // per-line requirement instead of leaking the raw field
+                    // value into a broken "education status: 20" stub.
+                    <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                      {stateData.prelicensing.life.hours === stateData.prelicensing.health.hours
+                        ? `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education per line of authority (${stateData.prelicensing.life.hours} hours Life, ${stateData.prelicensing.health.hours} hours Health) before you can sit for the state exam.`
+                        : `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education for the Life line and ${stateData.prelicensing.health.hours} hours for the Health line before you can sit for the state exam.`}{" "}
                       JustInsurance&apos;s online courses let you study at your own
                       pace on any device. You&apos;ll receive an official
                       certificate of completion once you finish.
@@ -726,25 +776,56 @@ export default async function RequirementsPage({
                   stepAppointment,
                 ];
 
+            // fid: the intro hard-coded "these five steps" while the list
+            // actually renders four steps wherever the state has no
+            // fingerprinting requirement (Arkansas, Colorado, Connecticut,
+            // Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts,
+            // Michigan, Mississippi, Missouri, Nebraska, New Hampshire,
+            // New York, Oklahoma, South Dakota, Vermont — 18 states where
+            // fingerprintingNotes says fingerprinting is not required).
+            // Derive the number from the list that is actually rendered so
+            // the sentence can never drift from the steps again.
+            const stepCountWords = [
+              "zero",
+              "one",
+              "two",
+              "three",
+              "four",
+              "five",
+              "six",
+              "seven",
+              "eight",
+            ];
+            const stepCountWord =
+              stepCountWords[steps.length] ?? String(steps.length);
+
             return (
-              <div className="space-y-6">
-                {steps.map((step, index) => (
-                  <div
-                    key={step.key}
-                    className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start"
-                  >
-                    <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                      <span className="text-gray-dark font-bold">{index + 1}</span>
+              <>
+                <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
+                  Follow these {stepCountWord} steps to go from zero to licensed
+                  in {stateData.name}.
+                </p>
+                <div className="space-y-6">
+                  {steps.map((step, index) => (
+                    <div
+                      key={step.key}
+                      className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start"
+                    >
+                      <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                        <span className="text-gray-dark font-bold">
+                          {index + 1}
+                        </span>
+                      </div>
+                      <div className="flex-1">
+                        <h3 className="font-bold text-navy text-lg mb-2">
+                          {step.title}
+                        </h3>
+                        {step.content}
+                      </div>
                     </div>
-                    <div className="flex-1">
-                      <h3 className="font-bold text-navy text-lg mb-2">
-                        {step.title}
-                      </h3>
-                      {step.content}
-                    </div>
-                  </div>
-                ))}
-              </div>
+                  ))}
+                </div>
+              </>
             );
           })()}
         </div>
@@ -913,6 +994,22 @@ export default async function RequirementsPage({
               </div>
             ))}
           </div>
+          {/* fid-215: the stat grid above shows only "Ethics Hours Required".
+              For states that mandate additional specific CE subjects inside the
+              same total (Oregon: 3 hrs on Oregon statutes and administrative
+              rules, separate from the 3 ethics hours — OAR 836-071-0215), the
+              grid alone would let a renewing producer under-complete. Rendered
+              from states.ts ce.mandatedTopicHours; undefined elsewhere. */}
+          {stateData.ce.mandatedTopicHours && (
+            <div className="bg-amber-50 border-l-4 border-gold rounded-r-lg p-5 mb-8">
+              <p className="font-semibold text-navy text-sm mb-1">
+                {stateData.name} mandates specific CE subjects beyond ethics
+              </p>
+              <p className="text-gray-700 text-sm leading-relaxed">
+                {stateData.ce.mandatedTopicHours}
+              </p>
+            </div>
+          )}
           {!ilWebinar && (
             <div className="text-center">
               <Link
@@ -1075,15 +1172,21 @@ export default async function RequirementsPage({
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}
         subtitle={
-          // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
-          // "self-paced" claim for the approved hybrid format line.
-          ilWebinar
+          // A held state (isPrelicensingHeld: provider approval still PENDING —
+          // New York today) must NOT present a "start / instant access" purchase
+          // path. This branch takes precedence and gives held states the neutral
+          // opening-soon message. Reverts automatically once approval issues.
+          prelicensingHeld
+            ? `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
+            // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
+            // "self-paced" claim for the approved hybrid format line.
+            : ilWebinar
             ? `Start your ${prelicensingApproved ? "state-approved " : ""}prelicensing course today. ${IL_WEBINAR_SHORT_LINE}`
             : hasPassGuarantee(stateData.slug)
             ? `Start your ${prelicensingApproved ? "state-approved " : ""}prelicensing course today. 100% online, self-paced, and backed by our pass guarantee.`
             : `Start your ${prelicensingApproved ? "state-approved " : ""}prelicensing course today. 100% online, self-paced, with instant access the moment you enroll.`
         }
-        ctaText="Start My Course Today"
+        ctaText={prelicensingHeld ? "Learn More" : "Start My Course Today"}
         ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>

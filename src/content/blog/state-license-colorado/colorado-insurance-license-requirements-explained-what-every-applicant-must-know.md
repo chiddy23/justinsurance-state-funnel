@@ -40,11 +40,11 @@ Be a resident of Colorado (for resident license applications)
 
 Complete the required prelicensing education for the desired line(s) of authority
 
-Pass the applicable Pearson VUE licensing exam(s) with a score of 70% or higher
+Pass the applicable Pearson VUE licensing exam(s) with a scaled score of 70 or higher (Colorado reports a scaled score, not a raw percentage of questions correct)
 
 Submit a complete, truthful license application through NIPR or Sircon
 
-Pay the required application fee ($47 per line of authority)
+Pay the required application fee ($44 per line of authority)
 
 Have no active license revocation or denial that would bar licensure
 
@@ -92,13 +92,13 @@ Most producers pursue either Life/A&H or Property/Casualty (or both), depending 
 
 ## The State Exam
 
-After completing prelicensing and passing the Certificate Exam, the applicant schedules and takes the Pearson VUE state licensing exam. The exam fee is $48 per exam, paid at time of scheduling. The passing score is 70%, and results are available immediately after the exam.
+After completing prelicensing and passing the Certificate Exam, the applicant schedules and takes the Pearson VUE state licensing exam. The exam fee is $41 per session — a single fee that covers up to two exams if you take them together — paid at time of scheduling. The passing standard is a scaled score of 70: Colorado converts your raw exam performance to a 0–100 scale, so 70 is the cut score, not 70% of questions answered correctly. Results are available immediately after the exam.
 
 Exam content is divided into a general knowledge section (basic insurance product principles applicable in all states) and a Colorado state law section (laws, rules, and regulations specific to Colorado). The Colorado state law section of the exam is one of the primary reasons prelicensing is required — it covers Title 10 CRS provisions, Division of Insurance authority, producer licensing rules, and line-specific Colorado regulations that are not part of general insurance knowledge.
 
 ## The License Application
 
-After passing the exam, applicants have 1 year to submit their license application electronically through NIPR or Sircon. The application fee is $47 per line of authority (plus $5.60 NIPR transaction fee). The Division processes most applications in under 5 business days.
+After passing the exam, applicants have 1 year to submit their license application electronically through NIPR or Sircon. The application fee is $44 per line of authority (plus $5.60 NIPR transaction fee). The Division processes most applications in under 5 business days.
 
 Application disclosure requirements:
 

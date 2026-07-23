@@ -40,7 +40,7 @@ Iowa: Pearson VUE (now Pearson Professional Assessments) administers Iowa's insu
 
 All three states now require fingerprinting — but the timeline and vendor differ.
 
-Minnesota: Electronic fingerprinting at a PSI test center ($65) on the day of the exam is the recommended approach. Alternatively, fingerprints can be taken at a local police station and mailed with a $33.25 payment to the Department of Commerce. Prints go to the Minnesota Bureau of Criminal Apprehension and the FBI. Required for all resident applicants; not required for non-resident applicants.
+Minnesota: Electronic fingerprinting at a PSI test center ($63.75) on the day of the exam is the recommended approach. Alternatively, fingerprints can be taken at a local police station and mailed with a $33.25 payment to the Department of Commerce. Prints go to the Minnesota Bureau of Criminal Apprehension and the FBI. Required for all resident applicants; not required for non-resident applicants.
 
 Wisconsin: Fingerprinting for unlicensed applicants through Fieldprint Wisconsin. The Wisconsin Office of the Commissioner of Insurance (OCI) directs applicants to Fieldprint locations. Wisconsin does not use PSI for fingerprinting — a key difference from Minnesota.
 
@@ -50,7 +50,7 @@ Iowa: Effective June 2, 2025, Iowa began requiring fingerprinting and criminal h
 
 All three states accept applications through NIPR, but fee structures differ.
 
-Minnesota: $50 per line of authority + technology fee ($10–$20) + $5.60 NIPR transaction fee. Combined P&C: $100 + fees ≈ $125.60. Combined Life & A&H: $100 + fees ≈ $125.60. No waiting period between passing the exam and submitting the application. Application valid for 36 months after passing the exam.
+Minnesota: $50 per line of authority + a single $10 technology fee + $5.60 NIPR transaction fee. Combined P&C: $100 + fees ≈ $115.60. Combined Life & A&H: $100 + fees ≈ $115.60. No waiting period between passing the exam and submitting the application. Application valid for 36 months after passing the exam.
 
 Wisconsin: License application must be submitted through NIPR. Wisconsin requires applicants to wait 48–72 hours after passing the exam before submitting the electronic application — a mandatory delay that Minnesota and Iowa do not impose. Wisconsin's specific application fee should be confirmed through NIPR at the time of application, as fee schedules update periodically.
 
@@ -60,7 +60,7 @@ Iowa: Application must be submitted within 90 days of passing the exam — no ex
 
 The CE structures of Minnesota, Wisconsin, and Iowa differ in total hours, renewal period length, and format rules — creating meaningfully different ongoing obligations.
 
-Minnesota: 24 hours every 2 years, including 3 hours of ethics. At least 12 hours must not be sponsored by or affiliated with an insurance company — this requirement can be satisfied entirely through self-paced online courses from an independent provider; Minnesota does not require any live or in-person instruction. Renewal deadline: last day of birth month, biennial. Renewal fee: $50 + $30 technology surcharge = $80.
+Minnesota: 24 hours every 2 years, including 3 hours of ethics. At least 12 hours must not be sponsored by or affiliated with an insurance company — this requirement can be satisfied entirely through self-paced online courses from an independent provider; Minnesota does not require any live or in-person instruction. Renewal deadline: last day of birth month, biennial. Renewal fee: $50 per line of authority + a single $10 technology surcharge (≈ $60 for a single-line license).
 
 Wisconsin: 24 hours every 2 years, including 3 hours of ethics. Wisconsin does not carry over excess CE credits to the next period — any hours completed beyond 24 in a reporting period are forfeited. Wisconsin requires a proctor for self-study CE exam completion — a requirement that applies to CE as well as prelicensing, unlike Minnesota where the proctor requirement is only at prelicensing. Renewal deadline: last day of birth month, biennial.
 
@@ -70,7 +70,7 @@ Iowa: 36 hours every 3 years, including 3 hours of ethics. Iowa's 3-year renewal
 
 All three states provide a reinstatement window for lapsed licenses, with differences in requirements.
 
-Minnesota: 12-month reinstatement window. Penalty: double the unpaid renewal fee (~$160). No new prelicensing, exam, or fingerprinting required within the 12-month window. After 12 months: full relicensing required.
+Minnesota: 12-month reinstatement window. Penalty: twice the unpaid renewal fee under Minn. Stat. §60K.38, Subd. 3 — about $100 for a single-line license, double the $50 per-line renewal fee set by Minn. Stat. §60K.55. The unpaid renewal fee itself is still owed on top of that penalty, so budget roughly $160 all-in for one line once the $10 technology surcharge is added. No new prelicensing, exam, or fingerprinting required within the 12-month window. After 12 months: full relicensing required.
 
 Wisconsin: Reinstatement available within 1 year of lapse. Wisconsin's reinstating producers do not need to retake the prelicensing exam or prelicensing education — but all overdue CE must be completed before reinstatement is granted. After 1 year: full relicensing required. Wisconsin explicitly does not offer a grace period for late renewals — the license lapses on the deadline day, not with any grace extension.
 
@@ -114,7 +114,7 @@ Minnesota offers the longest exam result validity (3 years), a never-expiring pr
 
 Wisconsin has a similar structure to Minnesota with the important difference that the certificate of completion expires in one year (versus never in Minnesota) and exam results are valid for only 180 days (versus 3 years in Minnesota). The shared 8-hour foundation module reduces the marginal education burden when adding a second line within 12 months. The CE proctor requirement for self-study is a modest additional obligation compared to Minnesota.
 
-Iowa offers the fastest path to a license from a regulatory standpoint — no required prelicensing education means a motivated candidate can study independently and sit for the Pearson VUE exam on their own timeline. However, the 90-day exam result validity window creates pressure to apply quickly, the single remote exam attempt rule restricts flexibility, and the 36-hour triennial CE requirement with 18 mandatory in-person hours is the most demanding ongoing obligation of the three states.
+Iowa offers the fastest path to a license from a regulatory standpoint — no required prelicensing education means a motivated candidate can study independently and sit for the Pearson VUE exam on their own timeline. However, the 90-day exam result validity window creates pressure to apply quickly, the single remote exam attempt rule restricts flexibility, and the 36-hour triennial CE requirement is the largest single-cycle CE obligation of the three states — though, like Minnesota and Wisconsin, all 36 hours may be completed by self-study or online courses, since Iowa permanently dropped its former 18-hour classroom requirement effective June 9, 2021.
 
 ## Frequently Asked Questions
 

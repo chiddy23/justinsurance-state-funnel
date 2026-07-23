@@ -24,34 +24,38 @@ Keywords: [north carolina casualty insurance license](/north-carolina)
 
 Getting your North Carolina casualty insurance license may feel like a big undertaking, but once you know the core steps, the path gets much clearer. This license lets you sell the property damage and liability coverage that individuals and businesses count on for peace of mind. By following a structured plan, you can achieve your goal faster than you might expect.
 
-Think of your upcoming journey as a series of building blocks. Each block, such as [pre-licensing](/north-carolina/prelicensing) or exam prep, gives you the foundation you need to reach the next phase. Before you know it, you’ll be scheduling your exam day, signing up clients, and starting a new career in insurance.
+Think of your upcoming journey as a series of building blocks. Each block, such as pre-licensing study or exam prep, gives you the foundation you need to reach the next phase. Before you know it, you’ll be scheduling your exam day, signing up clients, and starting a new career in insurance.
 
 ## Confirm North Carolina requirements
 
 Your first move is to ensure you meet the state’s basic standards for licensing. North Carolina generally expects applicants to:
 
 -   Be at least 18 years old
--   Pass the state casualty insurance exam (pre-licensing education is optional as of HB 737, eff. October 1, 2025)
--   Complete fingerprinting and a background check
--   Submit an application and fee
+-   **Submit the license application at nipr.com and pay all associated fees — this comes first, before you can book the exam**
+-   Pass the state Casualty Agent exam through Pearson VUE (pre-licensing education is optional as of HB 737, eff. October 1, 2025)
+-   Complete Live Scan fingerprinting and a criminal background check
+
+Note the order carefully, because it is the opposite of what most national licensing advice describes. North Carolina is an application-before-exam state. The Pearson VUE North Carolina Insurance Licensing Candidate Handbook says candidates "MUST visit www.nipr.com to complete the license application and pay ALL associated fees" before making an examination reservation — and candidates who do not have their authorization email and reserved NPN "will not be allowed to register for an examination." Apply first, study while your application is pending, then test.
 
 Always double-check these criteria on the [North Carolina Department of Insurance](/north-carolina/requirements) website or trusted local resources. If you spot any specific paperwork or fee changes, take care of them right away to keep your progress on track.
 
-Most people find it reassuring to gather necessary documents and schedule fingerprinting early. Handling these steps up front will save you from rushing at the last minute. You’ll also feel confident knowing you’ve met every requirement before moving on.
+Most people find it reassuring to file the NIPR application and schedule fingerprinting early. Handling these steps up front will save you from rushing at the last minute — and in North Carolina, the application is what unlocks the exam.
 
 ## Consider a pre-licensing course (optional)
 
-Once you’re certain you meet the state’s standards, many candidates still choose [North Carolina prelicensing](/north-carolina/prelicensing) education, even though it's no longer required as of HB 737 (eff. October 1, 2025). This step covers essential insurance concepts, policy types, and regulatory guidelines that directly prepare you for the state exam. While it may sound like a lot, these courses are specifically designed to equip you with what you need and streamline your progress.
+Once you’re certain you meet the state’s standards, many candidates still choose a casualty pre-licensing course from a state-approved provider, even though it's no longer required as of HB 737 (eff. October 1, 2025). This step covers essential insurance concepts, policy types, and regulatory guidelines that directly prepare you for the state exam. While it may sound like a lot, these courses are specifically designed to equip you with what you need and streamline your progress.
 
-Some online programs let you learn at your own pace, so you can study after work or on weekends without overhauling your schedule. If you prefer a classroom vibe, look for in-person lessons that include lively group discussions and Q&A sessions. Either way, you’ll be covering topics such as accident and health fundamentals, key legal principles, and state-specific rules around licensing procedures.
+Some online programs let you learn at your own pace, so you can study after work or on weekends without overhauling your schedule. If you prefer a classroom vibe, look for in-person lessons that include lively group discussions and Q&A sessions. Either way, you’ll be covering topics such as property and liability fundamentals, key legal principles, and state-specific rules around claim handling and licensing procedures.
 
 If you enroll in a course, you’ll usually get a certificate of completion. Keep it in a safe place for your records. Think of pre-licensing as a well-laid training plan: the better your foundation, the smoother your entrance into a new career.
 
 ## Register for your state exam
 
-Once you feel prepared — whether through a pre-licensing course or self-study — it’s time to register for the official casualty insurance exam. In North Carolina, you typically schedule with an approved testing service on a date that works best for you. Many test centers let you pick a morning or afternoon start time, so choose a window when you’re most alert.
+You can only register once two things are true: your NIPR application and fees are submitted, and Pearson VUE has emailed you an authorization containing your reserved NPN and your eligibility dates. That email is your ticket — without it, the reservation system will turn you away. Your license application stays valid for six months, and the authorization email lists the start and end dates of that window, so you need to pass the Casualty exam before the end date or reapply through NIPR.
 
-When you register, you’ll pay an exam fee that can vary slightly each year. Be ready with the identification and documentation required, which may include details from your pre-licensing course certificate (if you completed one) and any state-issued ID. If you’re not sure which documents to bring, give the testing service a quick call. It takes only a few minutes, and you’ll avoid confusion or delays on your test day.
+With the authorization in hand, schedule online at the Pearson VUE North Carolina insurance page or by phone at (800) 274-0668, at least 24 hours before the date you want. Walk-in exams are not available. Many test centers let you pick a morning or afternoon start time, so choose a window when you're most alert.
+
+The exam fee is $45 for each attempt, paid by credit card, debit card, or voucher when you make the reservation — the test center will not take payment at the door, and the fee is non-refundable and non-transferable. Change or cancel at least 48 hours ahead if your plans shift, or you forfeit it.
 
 ## Prepare smart for exam day
 
@@ -59,13 +63,13 @@ Exam prep is something you can control, so take advantage. Whether or not you to
 
 Here’s one approach: spend short, focused study sessions on topics you find most challenging. Maybe it’s learning policy definitions, or perhaps it’s the state laws around claim handling. Tackle them head-on in 20-minute intervals, then take a quick break to let the information sink in. This method keeps you engaged without burning out.
 
-On test day, arrive early and bring everything you need, including valid ID and any required confirmation letters. You’ll typically answer multiple-choice questions about industry terminology, coverage types, legal requirements, and best practices. Expect to spend around two hours in the testing room, but keep calm. With your coursework and review under your belt, you’ll be ready to handle every question confidently.
+On test day, report to the center 30 minutes early to check in, and bring two forms of current signature identification — the primary one government-issued with your photo. The Casualty Agent exam is a two-part, four-option multiple-choice exam covering a general section and a North Carolina-specific section, and you get 1 hour 15 minutes for both parts combined. The two parts are scored together, so you need an overall passing score rather than a passing score on each half. You'll leave the test center with an official score report in hand.
 
 ## Maintain and grow your career
 
 Congratulations if you’ve reached this stage. Once you pass and receive your North Carolina casualty insurance license, you can officially start working with clients. It’s a fantastic feeling to know you’re helping people protect what matters most.
 
-Remember that your journey doesn’t end with the exam. You’ll need [North Carolina continuing education](/north-carolina/continuing-education) (CE) credits to maintain your license eventually. These credits ensure you stay updated on new rules, changing coverage options, and best practices. By setting a personal schedule for renewing your license and fulfilling CE requirements, you’ll avoid last-minute scrambles and keep your expertise sharp.
+Remember that your journey doesn’t end with the exam. You’ll need [North Carolina continuing education](/north-carolina/continuing-education) (CE) credits to maintain your license eventually. These credits ensure you stay updated on new rules, changing coverage options, and best practices. Your North Carolina producer license is perpetual — there is no renewal application or fee — so it stays active as long as you complete your CE. By setting a personal schedule for fulfilling those CE requirements every two years, you’ll avoid last-minute scrambles and keep your expertise sharp.
 
 Don’t forget to keep expanding your skill set. Hiring managers and potential clients appreciate agents who commit to professional growth and stay updated on emerging insurance trends. As you build your business, think about adding specializations, such as commercial liability or personal lines, to serve more clients.
 

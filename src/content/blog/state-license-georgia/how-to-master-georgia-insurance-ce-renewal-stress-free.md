@@ -22,7 +22,7 @@ Renewing your [Georgia insurance license](/georgia) can feel like a big deal, bu
 
 ## Understand continuing education basics
 
-[Continuing education](/georgia/continuing-education) (CE) is designed to keep you current with industry standards and maintain your professional expertise. In Georgia, the Department of Insurance requires producers to complete a set number of CE credit hours before every renewal deadline. These credits typically cover core topics, ethics, and sometimes specialized subjects based on your license type.
+[Continuing education](/georgia/continuing-education) (CE) is designed to keep you current with industry standards and maintain your professional expertise. Georgia does not have a "Department of Insurance" — the regulator is the Office of the Commissioner of Insurance and Safety Fire (OCI), and OCI is what requires producers to complete a set number of CE credit hours before every renewal deadline. These credits typically cover core topics, ethics, and sometimes specialized subjects based on your license type.
 
 For most standard insurance licenses in Georgia, you need 24 total hours of CE every two years. That amount must include at least three hours of ethics. To give you a quick snapshot, here is a simple breakdown of the main requirements:
 
@@ -50,17 +50,17 @@ Property & Casualty
 
 Every 2 years
 
-Keep in mind that you might have additional hours if you hold multiple lines of authority. Always refer to the latest guidelines from Georgia’s Office of Insurance and Safety Fire Commissioner to confirm your license-specific requirements, as they can occasionally change.
+Adding lines of authority does not add hours. Georgia’s 24 hours is one biennial total no matter how many lines you carry, and the ethics piece stays at 3 hours. What can move the number is a reduction, not an increase: licensees holding a designation such as CLU, ChFC, CFP, CPCU, CIC, AAI, CEBS, CRM, CISR, or FLMI complete 12 hours (still 3 in ethics), licensees with 20 years of licensure complete 20 hours (still 3 in ethics), and credit-only, limited subagent, and navigator licensees complete 10. Always refer to the latest guidelines from OCI’s continuing education page to confirm which bucket your license falls in, since these rules are revised periodically.
 
 ## Meet Georgia’s licensing requirements
 
 Before you can tackle your continuing education, you first need to make sure you meet the basic requirements for a Georgia insurance license. If you are new to this process, here are the core steps you will typically complete:
 
 1.  Make sure you are at least 18 years old.
-2.  Take a state-approved [Georgia insurance prelicensing](/georgia/prelicensing) course relevant to the line of insurance you plan to sell.
-3.  Pass the official licensing exam administered by a testing provider approved by Georgia.
-4.  Submit your license application and pay the associated fees.
-5.  Undergo a background check if required.
+2.  Complete the state-approved Georgia prelicensing education for the line you plan to sell — 8 clock hours per major line under Rule 120-2-3-.08, so 16 hours for a combined Life and Accident & Sickness path, and the course has to have been taken within the last 12 months. JustInsurance's [Georgia prelicensing course](/georgia/prelicensing) covers the Life and Health lines.
+3.  Pass the Georgia licensing exam, which Pearson VUE administers for OCI.
+4.  Submit your license application. Resident applicants file at sircon.com/georgia — Georgia routes residents through Sircon, not NIPR — and the agent fee is $120 ($100 license plus a $20 processing fee).
+5.  Complete electronic fingerprints and Georgia's notarized citizenship affidavit. These are required, not optional.
 
 Once you hold a valid license, you need to keep it active by completing your CE credits and following the official renewal process. These credits not only fulfill a legal requirement, but they keep you informed about emerging trends, regulatory updates, and best practices in the insurance industry. If at any point you feel uncertain, you can always reach out to your local insurance association or mentor for clarification.
 
@@ -74,7 +74,7 @@ A good practice is to schedule your CE courses at least three to six months befo
 
 Alongside the time you invest in getting your CE credits, there is also a financial aspect to consider. Costs can include course fees, exam fees (if any), and your actual license renewal fee. Paying for a state-approved online or in-person course tends to vary—some courses can cost as little as $30, while others might go beyond $100 depending on the depth of materials and instruction.
 
-You will also need to pay a renewal fee, which may range from around $50 to $100 depending on your license type. Make sure to verify the payment process on the Georgia Department of Insurance website or through any official updates. Planning your budget ahead of time ensures you do not scramble at the last minute to cover unexpected costs.
+You will also need to pay a renewal fee, and the amount depends on what you carry. OCI's published schedule puts an agent renewal at $100 without variable authority and $200 if you renew with variable products, with a $5 processing fee on top of any renewal. Renewals filed within 15 days after your expiration date also carry a late fee. Verify the current amounts and the payment steps on OCI's Renew an Agent License page before you budget, so you do not scramble at the last minute to cover unexpected costs.
 
 ## Use effective study strategies
 
@@ -86,7 +86,7 @@ If you prefer working at your own pace, online courses offer flexibility to comp
 
 ## Take the final step with JustInsurance
 
-Once you finish your CE hours and you are ready to renew, you will submit your application through the official online portal or mail in the required forms. This final step can sometimes feel tricky, but reliable services like JustInsurance can simplify every stage of Georgia insurance CE renewal. With user-friendly tools and clear guidance, you get peace of mind knowing your paperwork is in order and your credits are properly documented.
+Once you finish your CE hours and you are ready to renew, you file online — Georgia accepts renewals at sircon.com/georgia or through NIPR, and OCI emails renewal notices 90 days before your expiration date. You do not file the CE hours themselves: approved education providers report course completions to Sircon within 14 days of completion, and you can pull your own CE transcript at sircon.com/georgia to confirm the credits landed before you submit. That transcript check is the step most agents skip, and it is the one that catches a missing course while there is still time to fix it. JustInsurance's part is the coursework — we deliver the CE and report your completions — while the renewal filing and fee stay in your hands.
 
 Beyond the immediate renewal deadline, remember to keep your continuing education an ongoing priority. Maintaining up-to-date knowledge makes you a stronger professional who delivers better service to your clients, which can lead to stronger referrals and business growth.
 

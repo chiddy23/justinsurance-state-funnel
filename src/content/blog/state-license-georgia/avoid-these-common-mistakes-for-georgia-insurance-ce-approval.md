@@ -23,7 +23,7 @@ Below, you will find the key steps you need for licensing and renewal, along wit
 
 ## Understand georgia insurance CE approval
 
-Before starting any courses, it helps to get a clear sense of what “Georgia insurance CE approval” really means. The term refers to the state’s formal recognition of specific education programs designed to keep you current on the latest laws, products, and best practices. In other words, you cannot simply take any training that looks interesting. You need to work with approved providers that meet the standards set by the Georgia Department of Insurance.
+Before starting any courses, it helps to get a clear sense of what “Georgia insurance CE approval” really means. The term refers to the state’s formal recognition of specific education programs designed to keep you current on the latest laws, products, and best practices. In other words, you cannot simply take any training that looks interesting. You need to work with approved providers that meet the standards set by the Georgia Office of Insurance and Safety Fire Commissioner (OCI) — the agency that regulates insurance licensing and CE in Georgia.
 
 Being selective now can prevent headaches later. Approved courses will issue certificates you can submit or keep on file to prove your completion. If you enroll in a random, unapproved class, you may not earn the credit hours you expect, so it’s essential to confirm your course provider has the proper authorization. The state tends to update its requirements periodically, so if you relied on outdated advice in the past, double-check that your intended provider and courses still meet current regulations.
 
@@ -31,7 +31,7 @@ Being selective now can prevent headaches later. Approved courses will issue cer
 
 If you have not yet gotten your [Georgia insurance license](/georgia), focusing on licensing before CE is the first order of business. You will need to complete any necessary [pre-licensing](/georgia/prelicensing) courses, pay exam fees, and pass state exams that test your insurance knowledge. It is wise to start planning at least a few months in advance to account for:
 
-1.  Pre-licensing education. Georgia requires a specific number of hours in [Georgia insurance prelicensing](/georgia/prelicensing) coursework for each line of authority (such as Life, Health, or Property and Casualty).
+1.  Pre-licensing education. Georgia requires a specific number of prelicensing hours for each line of authority (such as Life, Health, or Property and Casualty). JustInsurance's [Georgia prelicensing course](/georgia/prelicensing) covers the Life and Health lines.
 2.  State exam scheduling. The licensing exam can book up quickly, especially around peak times. Scheduling well ahead prevents last-minute stress.
 3.  Application and background check fees. You will have to pay a state application fee, plus any criminal history background costs. Always keep extra money in your budget for administrative charges that may arise.
 
@@ -50,7 +50,7 @@ Sometimes it only takes a small oversight to miss the renewal window or spend mo
 
 ## Manage your timeline effectively
 
-Licensing renewal in Georgia generally runs on a two-year cycle, but you will want to confirm your exact renewal date based on when you initially earned your license. By looking up your expiration date on the Georgia Department of Insurance website, you can count backward to plan your coursework over a realistic timeline.
+Licensing renewal in Georgia generally runs on a two-year cycle, and your license expires on the last day of your birth month rather than on the anniversary of the day you were first licensed (O.C.G.A. § 33-23-18). By looking up your expiration date on the Georgia Office of Insurance and Safety Fire Commissioner (OCI) website at oci.georgia.gov, you can count backward to plan your coursework over a realistic timeline.
 
 It can be helpful to spread out your CE hours rather than doing them all in one month. You might dedicate a few hours each quarter to stay on pace. This helps with knowledge retention and reduces the chance of a last-minute scramble. If possible, include courses that complement your day-to-day work, as this keeps the material more engaging and relevant. After completing each course, be sure to download your certificate of completion so you can easily retrieve it come renewal time.
 

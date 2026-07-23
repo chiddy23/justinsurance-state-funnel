@@ -239,11 +239,11 @@ Yes, LTC training counts toward your 24-hour CE requirement.
 
 Does LTC training I completed in another state count for Pennsylvania?
 
-Pennsylvania-specific training is typically required, particularly for Partnership-approved policies. Verify Pennsylvania reciprocity for any out-of-state LTC training.
+For nonresident producers, yes. Under 31 Pa. Code § 39a.9, "the satisfaction of these training requirements by a nonresident insurance producer in his home state shall be deemed to satisfy the training requirements in this Commonwealth" — so LTC training you completed in your home state carries over and does not need to be repeated for Pennsylvania. Pennsylvania resident producers, by contrast, must complete the state-approved 8-hour initial LTC course (with at least 1 hour on the Medical Assistance Program before marketing Partnership policies) plus 4 hours of ongoing training each 24-month license term.
 
 Can non-resident producers sell LTC in Pennsylvania?
 
-Non-resident producers selling LTC in Pennsylvania typically must meet Pennsylvania's training requirement, even though they're generally exempt from other Pennsylvania CE requirements.
+Yes. A non-resident producer needs an active Pennsylvania non-resident Accident and Health license and must have completed LTC training. Under 31 Pa. Code § 39a.9, LTC training satisfied in the producer's home state is deemed to satisfy Pennsylvania's requirement, so home-state training generally carries over rather than having to be repeated. (A non-resident who has never completed qualifying LTC training anywhere would still need to complete it before selling LTC.)
 
 ## LTC Training Cost
 
@@ -339,12 +339,12 @@ Healthcare system knowledge. Understanding what LTC actually covers in practice.
 
 - What LTC training do I need to sell long-term care insurance in Pennsylvania? Initial 8-hour state-approved LTC Training course (one-time), then 4-hour ongoing LTC Training every 24 months. Must also hold active Health and Sickness/Accident license.
 - What's special about Pennsylvania LTC Partnership training? For Partnership-approved policies, the initial 8-hour training must include at least 1 hour related to the Medicaid Assistance Program. This connects LTC insurance to Pennsylvania Medicaid for asset protection purposes.
-- Do non-resident producers need to complete Pennsylvania LTC training? Yes. Non-resident producers selling LTC in Pennsylvania typically must meet Pennsylvania's specific training requirement, even though they're generally exempt from other Pennsylvania CE requirements.
+- Do non-resident producers need to complete Pennsylvania-specific LTC training? No. Under 31 Pa. Code § 39a.9, a non-resident producer who has satisfied the long-term care training requirement in his or her home state is deemed to have satisfied Pennsylvania's requirement, so the home-state training carries over. A non-resident does need an active Accident and Health license and must have completed qualifying LTC training somewhere.
 - Can I take the 8-hour LTC training online? Yes. The initial 8-hour and 4-hour ongoing LTC training are typically available online from approved providers. Verify approval status before enrolling.
 - Does Pennsylvania LTC training count toward my regular CE requirement? Yes. LTC training counts toward your 24-hour CE requirement.
 
 ## Build Your Pennsylvania LTC Specialty
 
-Pennsylvania's LTC market offers significant opportunity for properly trained producers. At JustInsurance (Provider Approval #147815), our Pennsylvania CE courses include foundational content supporting LTC specialty practice.
+Pennsylvania's LTC market offers significant opportunity for properly trained producers. At JustInsurance — an approved Pennsylvania continuing education provider (#147815) — our Pennsylvania CE courses include foundational content supporting LTC specialty practice.
 
 Enroll today and start building your Pennsylvania LTC insurance career.

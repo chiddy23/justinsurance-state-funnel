@@ -19,6 +19,7 @@ export interface StateDataForFAQ {
   backgroundRequirement: string;
   fingerprintRequirement: string;
   applicationProcess: string;
+  applicationBeforeExam: boolean;
   applicationFee: string;
   totalCostRange: string;
   totalLicensingTime: string;
@@ -52,6 +53,23 @@ export interface StateDataForFAQ {
   ceTotalHours: number;
   ceRenewalPeriod: string;
   ceEthicsHours: number;
+  /**
+   * Additional CE subjects a state mandates INSIDE its total, beyond ethics
+   * (states.ts `ce.mandatedTopicHours`). A full sentence written per state, so
+   * it renders verbatim wherever CE topic coverage is described (New York:
+   * law/ethics/DEI credits; Oklahoma: 2 legislative-update hours; Oregon: 3
+   * Oregon statutes-and-rules hours; Montana: 1 law-change hour). Undefined for
+   * every other state, which therefore renders byte-identically.
+   */
+  ceMandatedTopicHours?: string;
+  /**
+   * Credit hours that must cover changes in the state's insurance statutes and
+   * administrative rules, beyond ethics (states.ts `ce.lawChangeHours`; Montana:
+   * 1 of 24 — Mont. Code Ann. § 33-17-1203). Only surfaced in prose when the
+   * state has no richer `ceMandatedTopicHours` sentence saying the same thing,
+   * so the two never double-state the same mandate.
+   */
+  ceLawChangeHours?: number;
   cePackagePrice: string;
   /**
    * Higher CE hour total a NEW licensee must complete before their FIRST
@@ -62,6 +80,13 @@ export interface StateDataForFAQ {
    * their CE copy renders unchanged.
    */
   ceFirstTermHours?: number;
+  /**
+   * Minimum CE hours that must be earned via formal classroom / live-instructor
+   * interaction (states.ts `ce.liveInstructorHours`). A purely self-paced package
+   * does not satisfy this on its own. Currently New Mexico only (3 of 24 —
+   * 13.4.7.10(D)(2) NMAC). Undefined elsewhere, so CE copy renders unchanged.
+   */
+  ceLiveInstructorHours?: number;
   // CE compliance (optional — only populated for states with researched data)
   ceLateFee?: string;
   ceGracePeriod?: string;
@@ -72,10 +97,24 @@ export interface StateDataForFAQ {
 }
 
 /**
+ * `ce.lawChangeHours` (Montana) and `ce.liveInstructorHours` (New Mexico) are
+ * optional CE fields being added to states.ts by the same compliance pass. They
+ * are read structurally here so this generator compiles and renders correctly
+ * whether or not that per-state data has landed: while the fields are absent the
+ * value is simply `undefined` and every answer renders exactly as before. Once
+ * CEInfo declares them, this intersection is a no-op and can be dropped.
+ */
+type CEWithOptionalMandates = StateData["ce"] & {
+  lawChangeHours?: number;
+  liveInstructorHours?: number;
+};
+
+/**
  * Build the rich StateDataForFAQ object from a StateData record.
  * All data lives in states.ts — no secondary JSON import required.
  */
 export function buildFaqData(stateData: StateData): StateDataForFAQ {
+  const ce = stateData.ce as CEWithOptionalMandates;
   return {
     name: stateData.name,
     slug: stateData.slug,
@@ -88,6 +127,7 @@ export function buildFaqData(stateData: StateData): StateDataForFAQ {
     backgroundRequirement: stateData.backgroundRequirement,
     fingerprintRequirement: stateData.fingerprintRequirement,
     applicationProcess: stateData.applicationProcess,
+    applicationBeforeExam: stateData.applicationBeforeExam,
     applicationFee: stateData.applicationFee,
     totalCostRange: stateData.totalCostRange,
     totalLicensingTime: stateData.totalLicensingTime,
@@ -116,8 +156,11 @@ export function buildFaqData(stateData: StateData): StateDataForFAQ {
     ceTotalHours: stateData.ce.totalHours,
     ceRenewalPeriod: stateData.ce.renewalPeriod,
     ceEthicsHours: stateData.ce.ethicsHours,
+    ceMandatedTopicHours: stateData.ce.mandatedTopicHours,
+    ceLawChangeHours: ce.lawChangeHours,
     cePackagePrice: stateData.ce.packagePrice,
     ceFirstTermHours: stateData.ce.firstTermHours,
+    ceLiveInstructorHours: ce.liveInstructorHours,
     ceLateFee: stateData.ce.compliance?.lateFee,
     ceGracePeriod: stateData.ce.compliance?.gracePeriod,
     ceReinstatementFee: stateData.ce.compliance?.reinstatementFee,
@@ -238,10 +281,44 @@ export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
       : `complete a ${approvedAdj}prelicensing course — ${data.name} requires prelicensing education before you can sit for the exam`
     : `prepare for your exam — ${data.name} does not require a formal prelicensing course, though most candidates strongly recommend taking one`;
 
+  // Background-check step gating. A distinct "complete a background check" step
+  // applies only when the state runs fingerprinting OR requires an actual
+  // criminal/name-based background check. States that clear producer background
+  // purely through self-disclosure or application-based review on the license
+  // application (e.g. Colorado, Nebraska, South Dakota) have no such step — their
+  // backgroundRequirement never contains the phrase "background check". Gating on
+  // the real per-state fields keeps the numbered list and the "N steps" count in
+  // lockstep so neither can present a check the state does not require.
+  const noFingerprintForBg =
+    data.fingerprintRequirement.toLowerCase().includes("not required") ||
+    data.fingerprintRequirement.toLowerCase().includes("no finger");
+  const backgroundStepRequired =
+    !noFingerprintForBg ||
+    data.backgroundRequirement.toLowerCase().includes("background check");
+
+  // Build the "How do I get..." step clauses in render order so the ordinal
+  // words (First/Second/...) and the "N steps" count are derived from the same
+  // array and can never drift apart.
+  const examClauseBeforeApp = `schedule and pass the ${data.name} state licensing exam administered by ${data.examProvider} — you need at least ${passingScoreProse(data.slug, data.passingScore)} to pass`;
+  const examClauseStandard = `pass the ${data.name} state licensing exam administered by ${data.examProvider} — you need at least ${passingScoreProse(data.slug, data.passingScore)} to pass`;
+  const applyClause = `${data.applicationProcess} and pay the ${data.doiName} application fee of ${$(data.applicationFee)}`;
+  const backgroundClause = `complete a background check${noFingerprintForBg ? "" : ", including fingerprinting"}`;
+  const licenseStepClauses = [
+    pleStep,
+    ...(data.applicationBeforeExam
+      ? [applyClause, ...(backgroundStepRequired ? [backgroundClause] : []), examClauseBeforeApp]
+      : [examClauseStandard, ...(backgroundStepRequired ? [backgroundClause] : []), applyClause]),
+  ];
+  const ordinalWords = ["First", "Second", "Third", "Fourth", "Fifth"];
+  const stepCountWords = ["zero", "one", "two", "three", "four", "five"];
+  const licenseStepsSentence = licenseStepClauses
+    .map((clause, i) => `${ordinalWords[i]}, ${clause}.`)
+    .join(" ");
+
   return [
     {
       question: `How do I get my ${data.name} insurance license?`,
-      answer: `Getting your ${data.name} insurance license involves four steps. First, ${pleStep}. Second, pass the ${data.name} state licensing exam administered by ${data.examProvider} — you need at least ${passingScoreProse(data.slug, data.passingScore)} to pass. Third, complete a background check${data.fingerprintRequirement.toLowerCase().includes("not required") || data.fingerprintRequirement.toLowerCase().includes("no finger") ? "" : ", including fingerprinting"}. Fourth, ${data.applicationProcess} and pay the ${data.doiName} application fee of ${$(data.applicationFee)}. Most candidates complete the entire process in ${data.totalLicensingTime}. JustInsurance offers fully online, self-paced ${prelicensingRequired ? "prelicensing" : "exam-prep"} courses ${data.providerApproved && prelicensingRequired ? `approved for ${data.name}` : `built to the ${data.name} exam content outline`} that get you to exam day confident and prepared.`,
+      answer: `Getting your ${data.name} insurance license involves ${stepCountWords[licenseStepClauses.length]} steps. ${licenseStepsSentence} Most candidates complete the entire process in ${data.totalLicensingTime}. JustInsurance offers fully online, self-paced ${prelicensingRequired ? "prelicensing" : "exam-prep"} courses ${data.providerApproved && prelicensingRequired ? `approved for ${data.name}` : `built to the ${data.name} exam content outline`} that get you to exam day confident and prepared.`,
     },
     {
       question: `How much does it cost to get ${aOrAn(data.name)} ${data.name} insurance license?`,
@@ -249,7 +326,7 @@ export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
     },
     {
       question: `How long does it take to get licensed in ${data.name}?`,
-      answer: `Most focused candidates complete the ${data.name} insurance licensing process in ${data.totalLicensingTime}. That timeframe covers${prelicensingRequired ? ` finishing your prelicensing course (you get ${data.courseAccessDays} days of access; most students finish in 5–10 days),` : ""} scheduling and passing the ${data.examProvider} state exam, clearing your background check, and waiting for the ${data.doiName} to process your application. The ${data.examProvider} exam delivers results quickly — most candidates receive their score before leaving the testing center. ${data.name === "California" ? "JustInsurance's flexible online format lets you fit your studying around your schedule — though California requires the full 12 hours of monitored seat time, so the 12-hour course itself cannot be shortened." : "JustInsurance's self-paced format lets you move as fast or as steady as your schedule allows."}`,
+      answer: `Most focused candidates complete the ${data.name} insurance licensing process in ${data.totalLicensingTime}. That timeframe covers${prelicensingRequired ? ` finishing your prelicensing course (you get ${data.courseAccessDays} days of access; most students finish in 5–10 days),` : ""} scheduling and passing the ${data.examProvider} state exam, ${backgroundStepRequired ? "clearing your background check, " : ""}and waiting for the ${data.doiName} to process your application. The ${data.examProvider} exam delivers results quickly — most candidates receive their score before leaving the testing center. ${data.name === "California" ? "JustInsurance's flexible online format lets you fit your studying around your schedule — though California requires the full 12 hours of monitored seat time, so the 12-hour course itself cannot be shortened." : "JustInsurance's self-paced format lets you move as fast or as steady as your schedule allows."}`,
     },
     {
       question: `What is the pass rate for JustInsurance students on the ${data.name} insurance exam?`,
@@ -396,15 +473,15 @@ export function getCEHubFAQs(data: StateDataForFAQ): FAQ[] {
   return [
     {
       question: `How many CE hours does ${data.name} require for insurance license renewal?`,
-      answer: `${data.name} requires ${data.ceTotalHours} hours of continuing education (CE) every ${data.ceRenewalPeriod} to maintain an active insurance producer license.${data.ceEthicsHours > 0 ? ` Of those ${data.ceTotalHours} hours, ${data.ceEthicsHours} must specifically cover ethics and professional conduct — this is a mandatory component, not optional.` : ``}${firstTerm ? ` Your first renewal is different: if you are newly licensed, ${data.name} requires ${firstTerm} CE hours before your FIRST renewal (${data.ceEthicsHours > 0 ? `still including the ${data.ceEthicsHours} ethics hours; ` : ``}not ${data.ceTotalHours}), then ${data.ceTotalHours} hours every ${data.ceRenewalPeriod} for each renewal after that.` : ``} All CE must be completed through a ${data.doiName}-approved provider before your license renewal deadline. ${data.providerApproved ? `JustInsurance is an approved provider and offers` : `JustInsurance offers`} a complete ${data.ceTotalHours}-hour CE package for ${data.cePackagePrice}${data.ceEthicsHours > 0 ? `, including the required ethics hours` : ``}.${firstTerm ? ` That package covers the ${data.ceTotalHours} hours required for a standard renewal cycle, so if you are heading into your first renewal you need ${firstTermExtra} additional CE hours to reach ${firstTerm}. Confirm your own requirement with the ${data.doiName}.` : ``}`,
+      answer: `${data.name} requires ${data.ceTotalHours} hours of continuing education (CE) every ${data.ceRenewalPeriod} to maintain an active insurance producer license.${data.ceEthicsHours > 0 ? ` Of those ${data.ceTotalHours} hours, ${data.ceEthicsHours} must specifically cover ethics and professional conduct — this is a mandatory component, not optional.` : ``}${data.ceMandatedTopicHours ? ` ${data.ceMandatedTopicHours}` : ``}${data.ceLawChangeHours && !data.ceMandatedTopicHours ? ` ${data.name} also requires at least ${data.ceLawChangeHours} of those ${data.ceTotalHours} hours to cover changes in ${data.name} insurance statutes and administrative rules — a distinct mandatory topic, separate from ethics.` : ``}${firstTerm ? ` Your first renewal is different: if you are newly licensed, ${data.name} requires ${firstTerm} CE hours before your FIRST renewal (${data.ceEthicsHours > 0 ? `still including the ${data.ceEthicsHours} ethics hours; ` : ``}not ${data.ceTotalHours}), then ${data.ceTotalHours} hours every ${data.ceRenewalPeriod} for each renewal after that.` : ``} All CE must be completed through a ${data.doiName}-approved provider before your license renewal deadline. ${data.providerApproved ? `JustInsurance is an approved provider and offers` : `JustInsurance offers`} a complete ${data.ceTotalHours}-hour CE package for ${data.cePackagePrice}${data.ceEthicsHours > 0 ? `, including the required ethics hours` : ``}.${firstTerm ? ` That package covers the ${data.ceTotalHours} hours required for a standard renewal cycle, so if you are heading into your first renewal you need ${firstTermExtra} additional CE hours to reach ${firstTerm}. Confirm your own requirement with the ${data.doiName}.` : ``}${data.ceLiveInstructorHours ? ` Separately, at least ${data.ceLiveInstructorHours} of the ${data.ceTotalHours} hours must be earned through a formal classroom or another format that lets you interact with a live instructor (13.4.7 NMAC); a fully self-paced package does not satisfy that live-instructor component on its own.` : ``}`,
     },
     {
       question: `How much does ${data.name} insurance CE cost?`,
-      answer: `JustInsurance offers a complete ${data.name} CE package — covering ${firstTerm ? `the ${data.ceTotalHours} hours required for a standard renewal cycle` : `all ${data.ceTotalHours} required hours`}${data.ceEthicsHours > 0 ? ` including the ${data.ceEthicsHours}-hour ethics requirement` : ``} — for ${data.cePackagePrice}. This is a flat-fee bundle with no per-course upsells or surprise charges. Individual CE courses are also available for agents who need only specific topics to round out their renewal hours${firstTerm ? `, including the ${firstTermExtra} extra hours a newly licensed producer needs to reach the ${firstTerm}-hour first-renewal requirement` : ``}. Every purchase includes immediate online access, self-paced completion${data.providerApproved ? `, and automatic CE credit reporting to the ${data.doiName} on your behalf` : ``}.`,
+      answer: `JustInsurance offers a complete ${data.name} CE package — covering ${firstTerm ? `the ${data.ceTotalHours} hours required for a standard renewal cycle` : data.ceLiveInstructorHours ? `the self-paced portion of your ${data.ceTotalHours}-hour requirement` : `all ${data.ceTotalHours} required hours`}${data.ceEthicsHours > 0 ? ` including the ${data.ceEthicsHours}-hour ethics requirement` : ``} — for ${data.cePackagePrice}. This is a flat-fee bundle with no per-course upsells or surprise charges. Individual CE courses are also available for agents who need only specific topics to round out their renewal hours${firstTerm ? `, including the ${firstTermExtra} extra hours a newly licensed producer needs to reach the ${firstTerm}-hour first-renewal requirement` : ``}. Every purchase includes immediate online access, self-paced completion${data.providerApproved ? `, and automatic CE credit reporting to the ${data.doiName} on your behalf` : ``}.`,
     },
     {
       question: `Can I complete my ${data.name} insurance CE online?`,
-      answer: `Yes. ${data.name} approves online CE courses, and JustInsurance provides a full catalog of self-paced courses ${data.providerApproved ? `that meet all ${data.doiName} requirements` : `aligned to ${data.doiName} requirements`}. You can study on any device, pause and resume whenever you need to, and complete your ${firstTerm ? `${data.ceTotalHours}-hour renewal-cycle requirement (${firstTerm} hours before your first renewal)` : `${data.ceTotalHours}-hour requirement`} in a single sitting or spread across multiple sessions. ${data.providerApproved ? `Once you finish each course, JustInsurance reports your completion electronically to the ${data.doiName} — you do not need to mail certificates or manually update your license record.` : `Once ${data.name} finalizes our CE provider approval, JustInsurance will report your completions electronically to the ${data.doiName}; until then you receive a certificate of completion for your records.`}`,
+      answer: `Yes. ${data.name} approves online CE courses, and JustInsurance provides a full catalog of self-paced courses ${data.providerApproved ? `that meet all ${data.doiName} requirements` : `aligned to ${data.doiName} requirements`}. You can study on any device, pause and resume whenever you need to,${data.name === "Illinois" ? ` and work through the self-paced portion of your ${data.ceTotalHours}-hour requirement in a single sitting or across multiple sessions; note that Illinois requires the ${data.ceEthicsHours} mandatory ethics hours to be completed in a live classroom or webinar (synchronous) session with verified attendance — self-paced online study does not satisfy the ethics requirement, so those hours must be a scheduled live session (215 ILCS 5/500-35(b)(1)).` : ` and complete your ${firstTerm ? `${data.ceTotalHours}-hour renewal-cycle requirement (${firstTerm} hours before your first renewal)` : `${data.ceTotalHours}-hour requirement`} in a single sitting or spread across multiple sessions.`}${data.slug === "utah" ? ` One Utah limit to plan around: only 12 of the 24 hours may be self-study — at least 12 must be classroom or classroom-equivalent courses, which in Utah includes live webinars and timed courses (${data.doiName} CE requirements; Utah Admin. Code R590-142 defines the instruction methods).` : ``} ${data.providerApproved ? `Once you finish each course, JustInsurance reports your completion electronically to the ${data.doiName} — you do not need to mail certificates or manually update your license record.` : `Once ${data.name} finalizes our CE provider approval, JustInsurance will report your completions electronically to the ${data.doiName}; until then you receive a certificate of completion for your records.`}`,
     },
     {
       question: `What happens if I don't complete my ${data.name} CE on time?`,
@@ -431,7 +508,7 @@ export function getCEHubFAQs(data: StateDataForFAQ): FAQ[] {
     {
       question: `Does ${data.name} require ethics CE hours?`,
       answer: data.ceEthicsHours > 0
-        ? `Yes. ${data.name} mandates that ${data.ceEthicsHours} of your ${firstTerm ? `required CE hours (${data.ceTotalHours} per renewal cycle, ${firstTerm} before your first renewal)` : `${data.ceTotalHours} required CE hours`} specifically cover ethics and professional conduct. This is not optional — you must satisfy the ethics component separately from general CE hours, and the ${data.doiName} tracks it independently. Failing to complete the ethics hours is treated the same as failing to complete your total CE requirement. JustInsurance's ${data.cePackagePrice} CE package includes ${data.providerApproved ? `a fully approved ${data.ceEthicsHours}-hour ethics course` : `a ${data.ceEthicsHours}-hour ethics course built to the ${data.doiName} topic list (our ${data.name} provider approval is pending)`}, so ${firstTerm ? `your ethics requirement is covered in the same purchase — add ${firstTermExtra} more hours if you are completing your ${firstTerm}-hour first renewal` : `your entire renewal requirement is covered in one purchase`}.`
+        ? `Yes. ${data.name} mandates that ${data.ceEthicsHours} of your ${firstTerm ? `required CE hours (${data.ceTotalHours} per renewal cycle, ${firstTerm} before your first renewal)` : `${data.ceTotalHours} required CE hours`} specifically cover ethics and professional conduct. This is not optional — you must satisfy the ethics component separately from general CE hours, and the ${data.doiName} tracks it independently.${data.ceMandatedTopicHours ? ` Ethics is not the only subject ${data.name} mandates: ${data.ceMandatedTopicHours}` : ``}${data.ceLawChangeHours && !data.ceMandatedTopicHours ? ` This is separate from ${data.name}'s requirement that at least ${data.ceLawChangeHours} of your ${data.ceTotalHours} hours cover changes in ${data.name} insurance statutes and administrative rules.` : ``} Failing to complete the ethics hours is treated the same as failing to complete your total CE requirement. JustInsurance's ${data.cePackagePrice} CE package includes ${data.providerApproved ? `a fully approved ${data.ceEthicsHours}-hour ethics course` : `a ${data.ceEthicsHours}-hour ethics course built to the ${data.doiName} topic list (our ${data.name} provider approval is pending)`}, so ${firstTerm ? `your ethics requirement is covered in the same purchase — add ${firstTermExtra} more hours if you are completing your ${firstTerm}-hour first renewal` : data.ceLiveInstructorHours ? `your ethics requirement is covered in the same purchase — note ${data.name} also requires at least ${data.ceLiveInstructorHours} of the ${data.ceTotalHours} hours through a formal classroom or live-instructor format (13.4.7 NMAC), which a self-paced package does not include` : `your entire renewal requirement is covered in one purchase`}.`
         : `No. ${data.name} does not set aside a dedicated ethics-hours requirement — none of your ${data.ceTotalHours} CE hours per ${data.ceRenewalPeriod} have to be ethics-specific, though ethics and professional-conduct courses still count toward your total. JustInsurance's ${data.cePackagePrice} CE package covers your ${firstTerm ? `${data.ceTotalHours}-hour standard renewal requirement (a first renewal takes ${firstTerm} hours)` : `full ${data.ceTotalHours}-hour renewal requirement`}, with ethics and professional-responsibility material included as part of the curriculum.`,
     },
   ];
@@ -527,9 +604,11 @@ export function getCECourseFAQs(
   return [
     {
       question: `How many ${loaName} CE hours does ${data.name} require?`,
-      answer: `${data.name} requires ${data.ceTotalHours} total CE hours every ${data.ceRenewalPeriod} to renew any active insurance producer license, including the ${loaName} line.${data.ceEthicsHours > 0 ? ` Of those ${data.ceTotalHours} hours, ${data.ceEthicsHours} must specifically cover ethics and professional conduct.` : ``}${firstTerm ? ` One exception matters if you were licensed recently: ${data.name} requires ${firstTerm} CE hours before your FIRST renewal (${data.ceEthicsHours > 0 ? `still including the ${data.ceEthicsHours} ethics hours; ` : ``}not ${data.ceTotalHours}), and ${data.ceTotalHours} hours for every renewal after that.` : ``} The JustInsurance ${data.name} ${loaName} CE course covers ${hours} hours toward that total. ${
+      answer: `${data.name} requires ${data.ceTotalHours} total CE hours every ${data.ceRenewalPeriod} to renew any active insurance producer license, including the ${loaName} line.${data.ceEthicsHours > 0 ? ` Of those ${data.ceTotalHours} hours, ${data.ceEthicsHours} must specifically cover ethics and professional conduct.` : ``}${data.ceMandatedTopicHours ? ` ${data.ceMandatedTopicHours}` : ``}${data.ceLawChangeHours && !data.ceMandatedTopicHours ? ` ${data.name} also requires at least ${data.ceLawChangeHours} of those ${data.ceTotalHours} hours to cover changes in ${data.name} insurance statutes and administrative rules — a distinct mandatory topic, separate from ethics.` : ``}${firstTerm ? ` One exception matters if you were licensed recently: ${data.name} requires ${firstTerm} CE hours before your FIRST renewal (${data.ceEthicsHours > 0 ? `still including the ${data.ceEthicsHours} ethics hours; ` : ``}not ${data.ceTotalHours}), and ${data.ceTotalHours} hours for every renewal after that.` : ``} The JustInsurance ${data.name} ${loaName} CE course covers ${hours} hours toward that total. ${
         firstTerm
           ? `If you want to satisfy the ${data.ceTotalHours}-hour standard renewal requirement in one purchase, JustInsurance's complete CE package at ${data.cePackagePrice} bundles those hours${data.ceEthicsHours > 0 ? ` — including the mandatory ethics component` : ``}. Because a first renewal takes ${firstTerm} hours, a newly licensed producer needs ${firstTermExtra} additional CE hours on top of the package. Confirm your own requirement with the ${data.doiName} before you enroll.`
+          : data.ceLiveInstructorHours
+          ? `In one purchase, JustInsurance's complete self-paced CE package at ${data.cePackagePrice} covers your self-study hours${data.ceEthicsHours > 0 ? `, including the mandatory ${data.ceEthicsHours}-hour ethics component` : ``}. Note that ${data.name} additionally requires at least ${data.ceLiveInstructorHours} of the ${data.ceTotalHours} hours to be earned through a formal classroom or another format that lets you interact with a live instructor (13.4.7 NMAC); a fully self-paced course does not satisfy that live-instructor component on its own, so plan to complete those ${data.ceLiveInstructorHours} hours in a live or classroom setting and confirm your requirement with the ${data.doiName}.`
           : `If you want to satisfy your full ${data.ceTotalHours}-hour renewal requirement in one purchase, JustInsurance's complete CE package at ${data.cePackagePrice} bundles all required hours${data.ceEthicsHours > 0 ? ` — including the mandatory ethics component` : ``}.`
       }`,
     },

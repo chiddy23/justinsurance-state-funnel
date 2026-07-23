@@ -24,7 +24,7 @@ Eli Lilly and Company (Indianapolis) is one of the world's most significant phar
 
 Fortune 500; revenue exceeding $34 billion (2023); one of the strongest-performing S&P 500 stocks over the past decade
 
-Global pharmaceutical leader in insulin (discovered at U of T; Lilly first manufacturer; global insulin leader); oncology (Verzenio breast cancer; Jaypirca); immunology (Taltz, Olumiant); and Alzheimer's (Leqembi partnership; donanemab pipeline)
+Global pharmaceutical leader in insulin (discovered at U of T; Lilly first manufacturer; global insulin leader); oncology (Verzenio breast cancer; Jaypirca); immunology (Taltz, Olumiant); and Alzheimer's (donanemab, approved as Kisunla in 2024)
 
 Indianapolis headquarters campus employs tens of thousands
 

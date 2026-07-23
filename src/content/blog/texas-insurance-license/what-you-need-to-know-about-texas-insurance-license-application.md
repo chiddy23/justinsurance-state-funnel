@@ -34,7 +34,7 @@ If you have any concerns about prior criminal history, it’s wise to contact TD
 
 ## Consider pre-licensing education (optional)
 
-Formal coursework is optional in Texas — the state does not require pre-licensing hours before you can sit for the exam. Even so, many candidates choose a structured course, often around 40 hours for Life and Health or Property and Casualty, to prepare. If you do enroll, select a state-approved provider so your course certificate comes from an officially recognized institution.
+Formal coursework is optional in Texas — the state does not require pre-licensing hours before you can sit for the exam. Even so, many candidates choose a structured course, often around 40 hours for Life and Health or Property and Casualty, to prepare. If you do enroll, pick a reputable provider whose material is built to the current Texas exam outline — TDI won’t collect a certificate from you either way, so the only thing the course has to do is get you ready for test day.
 
 While you might see in-person classes offered, most people choose the convenience of online learning. These courses walk you through essential insurance concepts like policy types, coverage details, and state regulations. Take your time, study the material thoroughly, and ask questions whenever you’re unsure of something. You’re building a foundation of knowledge that will serve you on exam day and in your future career.
 
@@ -60,7 +60,7 @@ Policy basics, state laws, ethics, coverage options
 
 Course completion certificate
 
-Not required to schedule the exam in Texas
+Not required by TDI — not to schedule the exam, and not with your license application
 
 Aim to use these structured lessons to cement your understanding of Texas rules and regulations. You’ll still need independent study time, but pre-licensing courses give you a clear roadmap that can cut down on guesswork.
 
@@ -76,17 +76,17 @@ Try not to cram the night before. Instead, review your notes or practice quizzes
 
 ## Submit the official application
 
-Once you pass the exam, it’s time for the formalities of the texas insurance license application. You’ll submit this paperwork (or online form) to TDI. Be prepared to pay the $50 application fee for a standard producer license. You’ll also need to provide proof of your exam results (and your pre-licensing certificate, if you completed a course).
+Once you pass the exam, it’s time for the formalities of the texas insurance license application. You’ll submit this application electronically through NIPR (or Sircon) to TDI, and pay the $50 application fee for a standard producer license. You do *not* attach proof of your exam results — Pearson VUE transmits your passing score to TDI electronically. And because Texas does not require pre-licensing education, TDI does not ask for (or accept) a course completion certificate with your application. The only supporting item that has to reach TDI separately is your IdentoGO fingerprint submission.
 
-Double-check that every section of your application is accurate, from your personal contact details to your license class information. Simple typos can slow the process, potentially resulting in additional fees if corrections are needed. After submission, follow up with TDI’s online portal or help desk if you haven’t received any updates within a few weeks.
+Double-check that every section of your application is accurate, from your personal contact details to your license class information. Simple typos can slow the process, potentially resulting in additional fees if corrections are needed. After submission, you can watch your status in TDI’s online portal, and contact the licensing help desk if your fingerprints or exam result don’t appear to have posted.
 
 ### Application costs and timelines
 
-In most cases, approval happens within two to three weeks, assuming your background check doesn’t raise flags. If anything is missing or incorrect, TDI may request more paperwork. Getting everything right the first time speeds up your path to licensure. Once TDI approves, your license certificate is typically delivered electronically, and you’re officially allowed to conduct insurance business in Texas.
+TDI moves fast on the application itself. Its published processing dates typically show electronic resident applications being worked within about one to two business days of filing, and a complete application with no background or qualification issues can produce a license as soon as the next business day. If anything is missing or incorrect — or your background check raises a question — TDI may request more paperwork and your file will sit until you respond. Realistically, plan on **two to four weeks from start to license**, since fingerprint results and exam scheduling, not TDI’s review, are what set the pace. Once TDI approves, your license is issued electronically and you’re officially allowed to conduct insurance business in Texas.
 
 ## Keep these tips in mind
 
-Navigating a professional licensing process can sometimes feel overwhelming, but a few conscious steps will help you stay on track. First, maintain well-organized records of your coursework and exam documentation. You might need them not just for your application, but for any future renewals and [Texas continuing education](/texas/continuing-education) cycles.
+Navigating a professional licensing process can sometimes feel overwhelming, but a few conscious steps will help you stay on track. First, maintain well-organized records of your coursework and exam documentation. TDI won’t ask for them at application time, but they’re useful for your own reference and for future renewals and [Texas continuing education](/texas/continuing-education) cycles, where completion records do matter.
 
 Second, set aside a realistic budget for fees, study materials, and potential retests, just in case you don’t pass on your first try (and that’s okay, it happens). Having a little financial cushion can alleviate extra stress. Finally, consider getting acquainted with relevant insurance associations or mentors in your area. They can provide up-to-date insights on the industry, plus tips on growing your career.
 
@@ -94,4 +94,4 @@ Second, set aside a realistic budget for fees, study materials, and potential re
 
 Now that you understand the texas insurance license application process, you’re already ahead of the curve. It’s a detailed journey, but each step—meeting prerequisites, completing coursework, passing the exam, and submitting documents—pushes you closer to a rewarding career. Once you’re certified, you’ll have the opportunity to guide people toward financial security, whether that means handling life claims or helping families insure their first home.
 
-If you’re ready to get started, reach out to JustInsurance for personalized advice and recommendations on the best study resources. They’re equipped to help you choose the right pre-licensing course, zero in on effective exam prep, and even connect you with job possibilities once you’re licensed. By taking action today, you’ll be one step closer to making a meaningful impact on people’s lives, all while building a career you can be proud of.
+If you’re ready to get started and you’re going after a Life, Health, or Life & Health license, JustInsurance offers self-paced [pre-licensing courses](/texas/prelicensing) built to the Texas exam content outline, plus full-length practice exams so you can pressure-test your knowledge before you sit for the real thing. By taking action today, you’ll be one step closer to making a meaningful impact on people’s lives, all while building a career you can be proud of.

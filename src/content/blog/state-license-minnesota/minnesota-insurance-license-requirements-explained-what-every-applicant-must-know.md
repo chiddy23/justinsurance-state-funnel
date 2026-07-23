@@ -102,7 +102,7 @@ Retakes: No limit on attempts. A 24-hour waiting period is required between atte
 
 ## Application and Appointment Requirements
 
-Application: Submitted electronically through NIPR (nipr.com) or Sircon. Application fee is $50 per line of authority plus a technology fee ($10–$20) and NIPR transaction fee ($5.60). A combined P&C application costs $100 for both lines. Processing takes approximately 10 business days from submission.
+Application: Submitted electronically through NIPR (nipr.com) or Sircon. Application fee is $50 per line of authority plus a $10 technology surcharge and NIPR transaction fee ($5.60). A combined P&C application costs $100 for both lines. Processing takes approximately 10 business days from submission.
 
 License before appointment: Minnesota allows a producer to obtain a license before being appointed by any insurance company. This means you can get licensed, put the license on your resume, and pursue agency or carrier relationships before you have an appointment in place. However, under Minn. Stat. §60K.49, an appointment is required before you can legally transact insurance business — sell, solicit, or negotiate. Operating without an appointment after obtaining a license violates this statute.
 
@@ -122,11 +122,11 @@ Adding lines after initial licensure: After receiving a license, a producer can 
 
 ## Ongoing License Requirements
 
-Renewal: Minnesota producer licenses renew every two years on the last day of the licensee's birth month. Business entity licenses renew on October 31 biennially. Renewal is submitted through NIPR with a $50 fee plus a $30 technology surcharge.
+Renewal: Minnesota producer licenses renew every two years on the last day of the licensee's birth month. Business entity licenses renew on October 31 biennially. Renewal is submitted through NIPR with a $50 fee per line of authority plus a single $10 technology surcharge — roughly $60 for a single-line license, and $50 more for each additional line.
 
 [Continuing education](/minnesota/continuing-education): 24 hours of CE are required every two years, including 3 hours of ethics. At least 12 of the 24 hours must not be sponsored by or affiliated with an insurance company. Minnesota does not impose a classroom or live-instruction requirement — all 24 hours can be completed through self-paced online courses. CE hours must be completed before the renewal deadline, not after — submitting the renewal application without completing CE does not preserve the license.
 
-Lapsed license: A license that expires without renewal can be reinstated within 12 months by paying double the unpaid renewal fee. After 12 months, the producer must reapply as if applying for the first time — completing prelicensing, passing the state exam, completing fingerprinting, and paying the full application fee.
+Lapsed license: A license that expires without renewal can be reinstated within 12 months by completing any outstanding CE and paying the overdue renewal fee plus a penalty of double that fee under Minn. Stat. §60K.38 — for a single line, the $50 renewal fee plus a $100 penalty, or roughly $160 all-in once the $10 technology surcharge is added. After 12 months, the producer must reapply as if applying for the first time — completing prelicensing, passing the state exam, completing fingerprinting, and paying the full application fee.
 
 ## Frequently Asked Questions
 

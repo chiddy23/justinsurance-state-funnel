@@ -33,7 +33,7 @@ As a licensed health insurance agent, you become a helpful resource for individu
 
 Tennessee eliminated its mandatory prelicensing requirement in March 2023, so you can register for the health insurance exam directly through Pearson VUE without completing any prescribed course first. That said, a voluntary [Tennessee prelicensing course](/tennessee/prelicensing) covering state insurance regulations, policy provisions, ethics, and the fundamentals of health coverage is still worth considering — first-time pass rates reflect the real difficulty of the material, and most candidates who pass on the first attempt completed structured prep even though it was not required.
 
-If you choose a prep course, check that it's officially approved by the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Whether you prefer in-person learning, live webinars, or online modules, flexibility is usually available. Focus on staying consistent with your study schedule—treat each lesson as a building block toward exam success.
+If you choose a prep course, keep in mind that Tennessee no longer mandates or approves prelicensing courses — so there's no state approval to look for. Pick a course on quality and fit instead: choose one built to the current Pearson VUE Tennessee content outline, and review the licensing steps published by the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Whether you prefer in-person learning, live webinars, or online modules, flexibility is usually available. Focus on staying consistent with your study schedule—treat each lesson as a building block toward exam success.
 
 ## Schedule and pass the exam
 
@@ -65,7 +65,7 @@ Neglecting CE requirements could lead to a lapsed license, which disrupts your c
 1.  What does the Tennessee health insurance exam cover?  
     The exam tests your knowledge of state regulations, ethical practices, health policy basics, and more. Expect multiple-choice questions on key terms, coverage options, and relevant insurance laws.
 2.  Can I combine a health insurance license with other lines?  
-    Yes. Many agents also pursue qualifications for life insurance or property and casualty. Combining lines can expand your expertise and offer more value to clients.
+    Yes. Many agents also pursue qualifications for life insurance or property and casualty. Combining lines can expand your expertise and offer more value to clients. If Life is the line you add, Pearson VUE will let you book Life and Accident &amp; Health as a single combined OnVUE reservation for $80 rather than $55 apiece — two separately scored exams, one appointment.
 3.  Do I need to complete a prelicensing course to renew?  
     No. Tennessee does not require a prelicensing course for initial licensing or renewal — you only need to fulfill your [continuing education](/tennessee/continuing-education) credits by each renewal deadline.
 4.  Is there support for first-time test takers?  

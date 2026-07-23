@@ -236,7 +236,7 @@ Geographic concentration. Concentrated retirement markets support efficient prac
 
 Service intensity. Senior practice involves substantial ongoing service.
 
-Established South Carolina retirement practices commonly produce $110,000-$220,000+ in annual income, with top HNW retiree practices substantially higher. This reflects commission-based earning potential for an established, specialized book of business — distinct from broader statewide labor-statistics averages for insurance sales agents.
+South Carolina insurance sales agents earn roughly $69,480 per year on average, with experienced producers generally in the $51,550–$78,390 range and top producers near $121,770 (U.S. Bureau of Labor Statistics, Occupational Employment Statistics, South Carolina). Because retirement practice is commission-based, an established book built on strong senior-client retention and a mix of higher-commission products — long-term care, annuities, and legacy life insurance alongside Medicare — can push earnings toward the upper end of that range. What you actually earn depends entirely on the size and quality of the book you build, not on any guaranteed figure.
 
 *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 

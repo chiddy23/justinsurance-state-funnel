@@ -18,9 +18,6 @@ imageAlt: >-
 imageCredit: Photo by Gustavo Fring on Pexels
 ---
 
-Master Description: Compare your license options with our friendly [Illinois insurance license](/illinois) comparison guide and get licensed
-
-  
 Whether you are just getting started or exploring options to switch specialties, this Illinois insurance license comparison can help you figure out which path suits your needs best. By examining the different license types, the course requirements, and the costs, you will have a clear picture of how to move forward. Plus, understanding the process upfront saves you from surprises later on and keeps you focused on your goals.
 
 Some people want to specialize in a single license to keep it simple, while others prefer combining types such as Life and Health or Property and Casualty. Each route has distinct advantages, depending on your career plan. In this guide, you will discover the main license categories in Illinois, the exact [pre-licensing](/illinois/prelicensing) coursework you will need, and how to ace the state exam on your first attempt.
@@ -67,7 +64,7 @@ Note that taking a combined Life & Health or Property & Casualty license typical
 
 ## Review the [pre-licensing requirements](/illinois/prelicensing)
 
-Once you have pinned down the license or combination you want, the official next step is to complete your mandatory pre-licensing coursework. In Illinois, this typically involves 20 hours of training per insurance line, with at least 7.5 of those hours delivered through a live or interactive format. That means you can study online through self-study modules, but you also need something more hands-on, like webinars or in-person classes.
+Once you have pinned down the license or combination you want, the official next step is to complete your mandatory pre-licensing coursework. In Illinois, this typically involves 20 hours of training per insurance line, with at least 7.5 of those hours delivered through a live or interactive format. That means you can study online through self-study modules, but you also need something more hands-on, like webinars or in-person classes. JustInsurance offers the Life and Health prelicensing courses; property and casualty prelicensing is completed through a state-approved P&C provider.
 
 It is critical to look for reputable programs that are authorized by the state. Valid pre-licensing courses provide a certificate of completion, which you will need to show when you register for the final licensing exam. On top of meeting the formal hour requirement, aim to pick a course that fits your learning style. Some providers offer extra practice quizzes, flashcards, and instructor support, which can make a big difference in your overall comfort on test day.
 

@@ -34,23 +34,23 @@ Significant hurricane risk extending well inland through wind and flooding
 
 This exposure has shaped South Carolina's insurance regulatory framework around specific programs to ensure coastal property owners can obtain coverage.
 
-## The South Carolina Wind and Hail Association (SCWHA)
+## The South Carolina Wind and Hail Underwriting Association (SCWHUA)
 
-The South Carolina Wind and Hail Association (SCWHA) — sometimes called the "Beach Plan" — is South Carolina's residual market mechanism providing windstorm and hail coverage for properties in coastal areas where private market coverage may be limited or unavailable.
+The South Carolina Wind and Hail Underwriting Association (SCWHUA) — also referred to as the Joint Underwriting Association and known informally as the "wind pool" or "Beach Plan" — is South Carolina's residual market mechanism providing windstorm and hail coverage for properties in coastal areas where private market coverage may be limited or unavailable.
 
-Key SCWHA features:
+Key SCWHUA features:
 
-Coverage area. SCWHA provides coverage in designated coastal areas, including specific territories in Horry, Georgetown, Charleston, Colleton, Beaufort, and Jasper counties. Territories are defined by specific boundaries.
+Coverage area. SCWHUA writes wind and hail coverage in designated territories within South Carolina's five coastal counties — Beaufort, Charleston, Colleton, Georgetown, and Horry. Territories are defined by specific boundaries.
 
-Coverage scope. SCWHA provides wind and hail coverage only — not comprehensive homeowners or dwelling coverage. Policyholders typically maintain a standard homeowners policy (which excludes wind in coastal areas) alongside SCWHA wind coverage.
+Coverage scope. SCWHUA provides wind and hail coverage only — not comprehensive homeowners or dwelling coverage. Policyholders typically maintain a standard homeowners policy (which excludes wind in coastal areas) alongside SCWHUA wind coverage.
 
-Eligibility. Properties in designated coastal areas that cannot obtain wind coverage in the private market may obtain SCWHA coverage.
+Eligibility. Properties in designated coastal areas that cannot obtain wind coverage in the private market may obtain SCWHUA coverage.
 
-Premium and claims. SCWHA operates with its own rate structure, underwriting guidelines, and claims handling. Premiums often exceed standard wind coverage rates due to the high-risk nature of covered properties.
+Premium and claims. SCWHUA operates with its own rate structure, underwriting guidelines, and claims handling. Premiums often exceed standard wind coverage rates due to the high-risk nature of covered properties.
 
-Market mechanism. All insurers writing property insurance in South Carolina participate in supporting SCWHA, sharing in both premiums and losses.
+Market mechanism. All insurers writing property insurance in South Carolina participate in supporting SCWHUA, sharing in both premiums and losses.
 
-Understanding how SCWHA works is essential for agents serving coastal clients.
+Understanding how SCWHUA works is essential for agents serving coastal clients.
 
 ## The Coastal Insurance Landscape
 
@@ -58,7 +58,7 @@ For South Carolina coastal properties, insurance typically involves multiple cov
 
 Standard Homeowners Policy. Covers most perils, but in coastal areas typically excludes wind/hurricane coverage.
 
-Windstorm Coverage. Obtained through SCWHA or, where available, through private carriers. Covers damage from wind, hurricanes, and related perils.
+Windstorm Coverage. Obtained through SCWHUA or, where available, through private carriers. Covers damage from wind, hurricanes, and related perils.
 
 Flood Insurance. Separate policy through the National Flood Insurance Program (NFIP) or private flood market. Required for mortgaged properties in Special Flood Hazard Areas.
 
@@ -164,8 +164,8 @@ Referral networks. Real estate agents, property managers, and community associat
 
 ## 5 Frequently Asked Questions
 
-- What is the South Carolina Wind and Hail Association (SCWHA)? SCWHA is South Carolina's residual market for wind and hail coverage in designated coastal areas. It provides wind coverage for properties that cannot obtain it in the private market.
-- Do standard homeowners policies cover hurricane damage in South Carolina? In coastal areas, standard homeowners policies typically exclude wind/hurricane damage. Separate wind coverage through SCWHA or private carriers is typically required.
+- What is the South Carolina Wind and Hail Underwriting Association (SCWHUA)? SCWHUA — also called the Joint Underwriting Association, and known as the "wind pool" or "Beach Plan" — is South Carolina's residual market for wind and hail coverage in designated coastal areas. It provides wind coverage for properties that cannot obtain it in the private market.
+- Do standard homeowners policies cover hurricane damage in South Carolina? In coastal areas, standard homeowners policies typically exclude wind/hurricane damage. Separate wind coverage through SCWHUA or private carriers is typically required.
 - What is a hurricane deductible? A percentage-based deductible (often 1-5% of dwelling value) that applies specifically to losses from named hurricanes. It's separate from and typically higher than the standard policy deductible.
 - When must flood insurance be in place to cover a hurricane? Flood insurance typically has a 30-day waiting period before coverage begins. You cannot purchase flood insurance as a storm approaches and have it cover that storm's damage.
 - What wind mitigation features qualify for premium discounts? Qualifying features typically include impact-resistant windows, storm shutters, hurricane straps, reinforced roof-deck attachment, and secondary water resistance. Documentation is required to obtain credits.

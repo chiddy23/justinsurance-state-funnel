@@ -50,13 +50,13 @@ Combined-line exams:
 
 2 hours 50 minutes (170 minutes)
 
-Example: Producer's Property and Casualty Insurance
+Examples: Producer's Life, Accident and Health Insurance (16-03), Producer's Property and Casualty Insurance (16-06)
 
 Common Pennsylvania Exam Codes:
 
 The specific exam codes and details are published in the PSI Pennsylvania Candidate Information Bulletin — review this before scheduling your exam.
 
-Exam fee: $43 per exam, paid to PSI at registration.
+Exam fee: $45 for a single-line exam (16-01 Life, 16-02 Accident and Health) and $55 for the combined Life, Accident and Health exam (16-03), paid to PSI at registration. Exam fees are not refundable or transferable.
 
 Exam validity: Your passing score is valid for 12 months — you must apply for licensure within this window.
 
@@ -124,7 +124,7 @@ Life insurance policies and provisions
 
 Accident and Health policies and provisions
 
-Pennsylvania-specific laws (typically 15-25% of exam)
+Pennsylvania insurance law — the PSI content outline does not carve it out as a single "state law" percentage. Most of it sits in the "Insurance Regulation" domain, which at about 21% is the largest single section of the combined Life & Health exam (though that domain also folds in a few federal-law topics), with more Pennsylvania rules threaded through the replacement, mandated-benefit, annuity-suitability, and Medicare-supplement material
 
 Annuities
 
@@ -150,18 +150,18 @@ Results appear within 24 hours, with most candidates receiving results within mi
 
 If you pass: Your result reports electronically to the Pennsylvania Insurance Department. You can apply for your license immediately at the testing center kiosk through Sircon or NIPR (bring a credit card!).
 
-If you fail: You receive a score report showing performance areas. You can retake the exam — pay another $43 fee and reschedule. There's no required wait between attempts in Pennsylvania, though scheduling availability is typically a few days minimum.
+If you fail: You receive a score report with a diagnostic breakdown of your strengths and weaknesses by content area. Pennsylvania places no limit on how many times you can retake the exam, but you cannot book a new appointment on the same day you tested — PSI needs that time to process and report your score. PSI's own example: a candidate who tests unsuccessfully on a Wednesday can call Thursday and retest as soon as Friday, subject to seat availability. Each attempt requires paying the full exam fee again.
 
 ## 5 Frequently Asked Questions
 
-- How many questions are on the Pennsylvania Life and Health combined exam? 100 questions for combined Life and Health, with 2 hours to complete them. Single-line exams (Life only or Health only) also have 100 questions and 2 hours.
+- How many questions are on the Pennsylvania Life and Health combined exam? The combined Life, Accident and Health exam (Series 16-03) has 150 questions and a 170-minute time limit. The single-line exams — Life (16-01) and Accident and Health (16-02) — have 100 questions and 120 minutes.
 - What's the passing score? 70% on Pennsylvania insurance license exams.
-- How much does the Pennsylvania insurance exam cost? $43 per exam, paid to PSI at registration.
+- How much does the Pennsylvania insurance exam cost? $45 for a single-line exam (16-01 or 16-02) and $55 for the combined Life, Accident and Health exam (16-03), paid to PSI at registration. Fees are non-refundable.
 - What identification do I need at the testing center? A valid form of government-issued identification — passport, state-issued driver's license, or state-issued ID card. Names must exactly match your registration.
-- Can I retake the Pennsylvania exam if I fail? Yes. Pennsylvania doesn't impose a required waiting period between attempts (though scheduling availability typically requires a few days). Each attempt requires another $43 exam fee.
+- Can I retake the Pennsylvania exam if I fail? Yes — there is no limit on the number of attempts. You cannot, however, schedule a new appointment on the same day you tested; PSI needs that time to process and report your score, so the earliest you can sit again is the following day at the soonest, subject to seat availability. Each attempt requires paying the exam fee again.
 
 ## Walk Into the Pennsylvania Exam Prepared
 
-Knowing what to expect removes half the stress. At JustInsurance, our Pennsylvania [prelicense](/pennsylvania/prelicensing) course (Provider Approval #147815) is built around the Pennsylvania exam content outline — including the Pennsylvania-specific laws and recent regulatory updates.
+Knowing what to expect removes half the stress. At JustInsurance, our Pennsylvania [exam-prep](/pennsylvania/prelicensing) course is built around the PSI Pennsylvania content outline — including the Pennsylvania-specific laws and recent regulatory updates. Since Act 142 took effect, Pennsylvania no longer approves prelicensing courses, so how tightly a course tracks that outline is the only real measure of it. (JustInsurance is also an approved Pennsylvania continuing education provider, #147815, for the CE you'll owe once you're licensed.)
 
 Enroll today and prepare for the Pennsylvania exam the right way.

@@ -28,7 +28,7 @@ If you are relocating from another state, you can often transfer part of your kn
 
 ## Complete pre-licensing education
 
-Once you confirm your exam requirements, the next logical move is to enroll in an approved [Arizona insurance prelicensing](/arizona/prelicensing) course. Quality coursework goes beyond memorizing vocabulary, giving you a deeper look into Arizona’s unique regulations. More importantly, these classes help you feel prepared for the state exam without needing endless retakes.
+Once you confirm your exam requirements, the next logical move is to enroll in an [Arizona insurance prelicensing](/arizona/prelicensing) course built to the current PSI Arizona content outline (the state does not approve prelicensing courses). Quality coursework goes beyond memorizing vocabulary, giving you a deeper look into Arizona’s unique regulations. More importantly, these classes help you feel prepared for the state exam without needing endless retakes.
 
 While you can choose from in-person or online programs, figure out what best fits your learning style. Many find that flexible online options let them set a pace that keeps momentum without overwhelming their schedule. This also helps you finish your optional coursework quickly, so you can sign up for your exam sooner.
 
@@ -63,10 +63,10 @@ During your final prep, take practice quizzes to identify weak spots. Some peopl
 4.  Can I apply if I recently moved from another state?  
     Yes, but you may need to show proof of residency and potentially retake the Arizona-specific exam. You should also verify whether any prior exam or license credits can transfer. The Arizona Department of Insurance can help clarify these details.
 5.  Where can I find reliable support and study materials?  
-    Many third-party training providers offer courses tailored to Arizona regulations. Look for programs that include exam practice tests and clear, concise lessons. You might also connect with JustInsurance, which can guide you to the right resources for a faster, smoother application.
+    Many third-party training providers offer courses tailored to Arizona regulations. Look for programs that include exam practice tests and clear, concise lessons. JustInsurance offers optional self-paced Life and Health prelicensing courses along with full-length Arizona practice exams, and its support team can answer questions about them.
 
 ## Wrap up your licensing journey
 
 Successfully completing your Arizona insurance license application opens the door to a rewarding career in helping individuals and businesses protect what matters most. By planning each step, staying organized, and taking care of the little details, you set yourself up for success without unnecessary snags.
 
-When you are ready to take further action, consider partnering with JustInsurance for tailored exam prep and personalized support. With the right approach, your Arizona insurance license will be in your hands sooner than you might think.
+When you are ready to take further action, consider JustInsurance's self-paced Arizona Life and Health prelicensing courses and full-length practice exams. With the right approach, your Arizona insurance license will be in your hands sooner than you might think.

@@ -34,7 +34,7 @@ By getting familiar with the exam’s breakdown, you reduce the chance of surpri
 
 Once you know how your exam is structured, the next task is creating a solid study plan. You will want to map out daily or weekly goals so that you can keep track of your progress and avoid last-minute cramming. Small, consistent study sessions often work best because they let you absorb information in manageable chunks.
 
-Try to prioritize the most heavily tested areas. If you notice you are struggling with certain concepts, schedule extra review time or seek additional resources. Flashcards and study groups can help break up the monotony of reading text-heavy materials and keep you engaged. If you are taking a [pre-licensing course](/prelicensing), follow along diligently and ask questions when something is unclear.
+Try to prioritize the most heavily tested areas. If you notice you are struggling with certain concepts, schedule extra review time or seek additional resources. Flashcards and study groups can help break up the monotony of reading text-heavy materials and keep you engaged. If you are taking a pre-licensing course, follow along diligently and ask questions when something is unclear.
 
 A schedule also helps reduce stress. By planning ahead, you will know exactly where you stand and when it is time to shift your focus to new material. Steady progress, rather than frantic late-night sessions, tends to yield better results.
 
@@ -107,10 +107,10 @@ Below are some common queries about the property and casualty insurance exam. Re
 4.  “How do I manage my time during the test?”  
     Glance at the clock periodically but do not obsess over it. If you find yourself stumped on a question, mark it, move on, and circle back after finishing the rest. This approach ensures you do not get stuck too long on one item.
 5.  “Where can I get reliable course materials and support?”  
-    You can find study guides, practice tests, and further assistance from providers like JustInsurance. They offer resources focused on pre-licensing education, which can be especially helpful if you want structured learning or extra practice questions.
+    Start with your state’s official exam content outline, then choose a study program built specifically for the property and casualty exam — P&C and life and health prep cover almost entirely different material, so a general “insurance exam” package will leave gaps. To be clear about our own catalog: JustInsurance’s prelicensing courses, free study guide, and $59 state practice exams cover the Life, Health, and Life & Health lines, so for P&C exam prep you will want a dedicated P&C provider. What we offer on the property and casualty side is state-approved [continuing education](/property-and-casualty-ce), which is for producers who already hold the license rather than candidates studying for the exam.
 
 ## Take your next step
 
 Earning your property and casualty insurance license is an important milestone that can lead to a rewarding career. By understanding the exam structure, sticking to a well-thought-out study plan, and practicing with relevant questions, you will be well on your way to passing with confidence. On test day, remember to keep your mindset positive, stay calm, and read each question carefully.
 
-If you are looking for additional practice materials or professional guidance, consider exploring the offerings at JustInsurance to round out your study efforts. With the right combination of preparation and optimism, you can unlock success and take your first big step into the world of property and casualty insurance. Good luck, and stay focused on the finish line—you have got this!
+If you are looking for additional practice materials, pick a provider whose question bank is written to your state’s P&C exam outline rather than to insurance concepts in general. And once you are licensed, our state-approved [property and casualty CE](/property-and-casualty-ce) can carry your renewal credits from there. With the right combination of preparation and optimism, you can unlock success and take your first big step into the world of property and casualty insurance. Good luck, and stay focused on the finish line—you have got this!

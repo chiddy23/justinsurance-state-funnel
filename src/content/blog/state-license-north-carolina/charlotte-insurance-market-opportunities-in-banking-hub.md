@@ -141,7 +141,7 @@ Lake Norman HNW practice. Charlotte's Lake Norman area hosts substantial high-ne
 
 *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
-Military-adjacent. Charlotte is within reasonable proximity of Fort Liberty (Fayetteville) for producers willing to serve military families.
+Military-adjacent. Charlotte is within reasonable proximity of Fort Bragg (Fayetteville) — the installation reverted to the Fort Bragg name in 2025 after a period as Fort Liberty — for producers willing to serve military families.
 
 Multilingual communities. Charlotte's substantial growth includes significant Hispanic and Latino, Asian-American, and other linguistic communities creating multilingual practice opportunities.
 

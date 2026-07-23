@@ -13,13 +13,13 @@ image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
 imageAlt: "In-Person vs. Remote: Choosing Your Prometric Format for the Virginia Insurance Exam"
 ---
 
-Virginia candidates have two formats for the Prometric insurance licensing exam: in-person at a Prometric test center, or remote via Prometric's ProProctor platform from your own computer. Both cost the same ($35), deliver the same exam content, use the same scoring standard (70% each section), and produce the same score report. The difference is logistics — and the right choice depends entirely on your situation. This post covers every relevant detail about both formats so you can make the decision before you schedule.
+Virginia candidates have two formats for the Prometric insurance licensing exam: in-person at a Prometric test center, or remote via Prometric's ProProctor platform from your own computer. Both cost the same ($35), deliver the same exam content, use the same scoring standard (70% overall — Virginia scores the exam as a single total, not section by section), and produce the same score report. The difference is logistics — and the right choice depends entirely on your situation. This post covers every relevant detail about both formats so you can make the decision before you schedule.
 
 ## In-Person at a Prometric Test Center
 
-Virginia has six Prometric test center locations within the Commonwealth. You can also test at any of the 300+ Prometric centers nationwide — Virginia does not require you to test in-state.
+Prometric operates test centers in several Virginia metros, and the roster changes without notice — the Bureau's own bulletin says only that "test center locations are subject to change," so treat the live seat search as the authority rather than any published list. You are also not confined to the Commonwealth: the bulletin states you may take the exam at any Prometric test center in the United States.
 
-How to find and schedule: Go to prometric.com/virginia/insurance, click "Schedule Your Test," and enter your preferred location and dates. Centers in Virginia and neighboring states typically have available appointments within a few days of scheduling during normal demand periods.
+How to find and schedule: Go to prometric.com/virginia/insurance, click "Schedule Your Test," and enter your preferred location and dates. Verify the address and directions before you leave for the exam. Centers in Virginia and neighboring states typically have available appointments within a few days of scheduling during normal demand periods.
 
 What to bring:
 
@@ -99,7 +99,7 @@ The proctor monitors you throughout via webcam and screen recording
 
 Technical issues: If you experience technical difficulties during the exam, Prometric has technical support available via live chat. Contact information is in the ProProctor user guide. If the exam is interrupted through no fault of yours (connectivity issue, platform failure), Prometric will work with you to reschedule without additional charge.
 
-Cancellation rule for remote exams: You must cancel at least three calendar days before your scheduled appointment to avoid forfeiting $40 of your exam fee. The same rule applies to in-person exams.
+Reschedule and cancellation rule: You must change or cancel at least 24 hours before your appointment, using the Reschedule/Cancel option on the Prometric site or the automated phone system at (866) 891-6396. There is no charge to move an appointment within the same testing window if you give that 24 hours' notice. Change or cancel without proper notice — or miss the appointment, or arrive too late to be admitted — and you forfeit the full $35 exam fee, not a portion of it. The same rule applies to both formats.
 
 ## The Decision Framework
 
@@ -147,8 +147,8 @@ Prometric's standard policy is that candidates who arrive late may be denied tes
 
 Does Prometric offer any accessibility accommodations for the Virginia insurance exam?
 
-Yes. Prometric provides testing accommodations for candidates with documented disabilities under the Americans with Disabilities Act. Common accommodations include extended time (typically 1.5× the standard time), a private testing room, large-print materials, and a reader. To request an ADA accommodation, submit documentation to Prometric before scheduling your exam — the processing time is several days, and your exam appointment cannot be scheduled until the accommodation is approved. Prometric also offers English as a Second Language (ESL) extended time (also typically 1.5×) for candidates whose primary language is not English, subject to documentation from an instructor or employer on official letterhead. Request ESL time before scheduling, as it must be pre-approved before your appointment is made.
+Yes. Prometric provides testing accommodations for candidates with documented disabilities under the Americans with Disabilities Act. Common accommodations include extended time (typically 1.5× the standard time), a private testing room, large-print materials, and a reader. To request an ADA accommodation, complete the Testing Accommodation Request Form and submit professional documentation of the disability to Prometric before scheduling your exam. Build in real lead time: the Virginia bulletin requires thirty days' advance notice for all testing arrangements, and your appointment cannot be scheduled until the accommodation is approved. There is no additional charge for the accommodation. Prometric also offers English as a Second Language (ESL) extended time (also typically 1.5×) for candidates whose primary language is not English, subject to a personal request letter plus a letter from an English instructor or sponsoring company on official letterhead; allow three days for ESL processing. Request either accommodation before scheduling — an exam booked before approval will not include the extra time.
 
 In-person and remote Prometric exams deliver identical content under identical standards. Choose the format that fits your environment, technology, and temperament — then prepare the same way regardless of how you plan to test.
 
-Visit JustInsurance to enroll today and be ready for either Prometric format with a state-approved Virginia course.
+Visit JustInsurance to enroll today and be ready for either Prometric format with a Virginia course built to the current Prometric content outline. (No provider can honestly sell you a "state-approved" Virginia exam-prep course: the Bureau's bulletin states that neither the Bureau nor Prometric reviews or approves study materials or pre-licensing schools.)

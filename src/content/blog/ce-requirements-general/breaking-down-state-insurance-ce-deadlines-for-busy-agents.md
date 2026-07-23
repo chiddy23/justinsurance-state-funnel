@@ -26,16 +26,15 @@ By understanding key deadlines and setting up systems to track them, you’ll sa
 
 Your CE timeline starts the moment you sit for your [licensing exam](/prelicensing). In most cases, once you’ve passed and received your license, the clock begins ticking toward your first renewal. From then on, you’ll typically have a set number of months or years to complete your continuing education credits before your license expires.
 
-A common mistake is focusing solely on the total hours required while overlooking the renewal date. Some states have specific cycles like biennial or triennial deadlines, and others follow your birth month. The final due date might also shift if it falls on a weekend or holiday, so it’s essential to confirm the exact cutoff in your home state.
+A common mistake is focusing solely on the total hours required while overlooking the renewal date. A second, more expensive mistake is assuming that date is tied to the day your license was issued. In the large majority of states it is not: your expiration is anchored to the last day of your birth month, and in a handful of states — New York among them — to your actual birthday. Get the anchor wrong and you can miss the real deadline by up to eleven months. The final due date might also shift if it falls on a weekend or holiday, so it’s essential to confirm the exact cutoff in your home state.
 
 ## Different renewal cycles
 
-Not every state takes the same approach to CE scheduling. You may encounter one or more of the following cycles:
+Cycle length is more uniform than most agents expect. Across the 50 states, resident producer CE runs on a two-year cycle in 46 states, a three-year cycle in three (Iowa, Massachusetts, and Nevada), and a four-year cycle in Arizona. No state requires you to complete CE every single year, so if you have heard someone describe an annual insurance CE requirement, they were almost certainly describing a different license — securities, real estate, or an employer's internal training schedule.
 
--   Annual renewal: You’ll need to complete your CE hours once every year. This can feel frequent, but it helps you stay updated on fresh industry insights.
--   Biennial renewal: A two-year cycle is one of the most common. You'll often be required to finish a set number of hours within that period, with specific deadlines based on your license date.
--   Triennial or longer cycles: Some states extend the renewal window to three or more years, giving you more time but also increasing the risk of forgetting a distant due date.
--   Birth-month or birth-year renewal: A few states designate your actual birthday as a marker, making it easy to remember—but also easy to let slip if you associate your birthday with anything but paperwork.
+-   Biennial renewal: The overwhelming norm, covering 46 states. You finish a set number of hours — most commonly 24 — inside each two-year window.
+-   Triennial or longer cycles: Iowa, Massachusetts, and Nevada run three-year cycles, and Arizona runs four. More runway is not automatically easier. A distant due date is the easiest one to forget.
+-   The anchor date is what actually varies: Cycle length tells you *how often*; the anchor tells you *when*. Most states hang your expiration on the last day of your birth month. A few, including New York, use your actual birthday. Your license issue date is usually irrelevant — several states deliberately prorate your first license term precisely so the recurring deadline lands on your birth month instead.
 
 No matter which cycle your state uses, mark your calendar with an alert at least 90 days in advance. Early reminders leave you enough time to find and enroll in courses, complete them, and submit all the necessary paperwork without that last-minute scramble.
 
@@ -52,7 +51,7 @@ Spreading out your CE coursework throughout the cycle also helps you absorb the 
 
 ## State-by-state deadlines
 
-Each state sets its own requirements for total hours, renewal cycles, and submission rules. Below is a sample table covering a few typical scenarios. Always confirm the specifics through your state’s insurance department so you’re following the most accurate and up-to-date guidelines.
+Each state sets its own requirements for total hours, renewal cycles, and submission rules. Below is a sample table covering six of the largest producer states. Always confirm the specifics through your state’s insurance department so you’re following the most accurate and up-to-date guidelines.
 
 State
 
@@ -66,7 +65,7 @@ California
 
 Biennial
 
-License issue date
+Last day of birth month
 
 24 hours every 2 years
 
@@ -74,7 +73,7 @@ Texas
 
 Biennial
 
-License anniversary
+Last day of birth month
 
 24 hours every 2 years
 
@@ -82,7 +81,7 @@ Florida
 
 Biennial
 
-Birth month
+Last day of birth month
 
 24 hours every 2 years
 
@@ -90,7 +89,7 @@ New York
 
 Biennial
 
-License anniversary
+Licensee’s birthday
 
 15 hours every 2 years
 
@@ -98,7 +97,7 @@ Illinois
 
 Biennial
 
-License issue date
+Last day of birth month
 
 24 hours every 2 years
 
@@ -106,9 +105,13 @@ Georgia
 
 Biennial
 
-Birth month
+Last day of birth month
 
 24 hours every 2 years
+
+Notice the pattern: not one of these six ties your CE deadline to your license issue date. Five run to the last day of your birth month, and New York runs to the birthday itself.
+
+Two of them deserve a specific warning. Illinois has no grace period — the license lapses the moment it expires with CE incomplete, and getting it back costs a $215 reinstatement plus a $215 renewal. New York is harsher still: an expired New York license cannot be renewed at all. You have to file a relicensing application, which is why DFS advises finishing your 15 credits well before your birthday rather than on it.
 
 Should you hold multi-state licenses, pay special attention to any overlapping requirements. Some states allow reciprocity for CE credits, while others demand state-specific coursework.
 

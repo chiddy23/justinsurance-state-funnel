@@ -16,7 +16,7 @@ imageAlt: >-
   insurance laws: complete producer guide.
 ---
 
-Missouri's auto insurance system is at-fault with pure comparative negligence — no fault bar, any fault level results in proportional recovery reduction. Combined with a $10,000 statutory property damage minimum (RSMo § 303.190), required UM at 25/50 (RSMo § 379.203), and the distinctive "highest degree of care" standard, Missouri's auto insurance framework creates specific advisory obligations. For Missouri P&C producers, explaining why the $10,000 PD minimum is inadequate for modern vehicle values, and why pure comparative negligence makes adequate UM/UIM critical for protecting against the ~16% of uninsured Missouri drivers, is genuine client value.
+Missouri's auto insurance system is at-fault with pure comparative negligence — no fault bar, any fault level results in proportional recovery reduction. Combined with a 25/50/25 statutory liability minimum (RSMo § 303.190), required UM at 25/50 (RSMo § 379.203), and the distinctive "highest degree of care" standard, Missouri's auto insurance framework creates specific advisory obligations. For Missouri P&C producers, explaining why even the $25,000 PD minimum is thin against modern vehicle values, and why pure comparative negligence makes adequate UM/UIM critical for protecting against the ~16% of uninsured Missouri drivers, is genuine client value.
 
 ## Missouri is an At-Fault State
 
@@ -32,19 +32,21 @@ $25,000 bodily injury per person
 
 $50,000 bodily injury per accident
 
-$10,000 property damage per accident
+$25,000 property damage per accident
 
-= 25/50/10 statutory minimum
+= 25/50/25 statutory minimum
 
-The $10,000 PD gap: Missouri's $10,000 statutory PD minimum is among the lowest in the country — equal to Minnesota's (also $10,000). Consider:
+Watch for stale sources on the PD number: Missouri's property damage floor was $10,000 for decades. A 2018 amendment (S.B. 708) raised it to $25,000 with a delayed effective date of July 1, 2019, and the Revisor still prints both versions of the section. As a result, plenty of study guides, comparison sites, and even carrier collateral continue to list Missouri as "25/50/10." That is the pre-2019 figure. For the Pearson VUE exam, the testable answer is $25,000 PD per RSMo § 303.190.
+
+The PD gap is smaller but still real: $25,000 is the floor, not adequate coverage. Consider:
 
 Average new vehicle: $48,000+
 
 Average 3-year-old vehicle: $25,000-$35,000
 
-A Missouri driver with minimum $10,000 PD who totals a $50,000 vehicle faces $40,000+ personal exposure
+A Missouri driver with minimum $25,000 PD who totals a $50,000 vehicle still faces roughly $25,000 of personal exposure
 
-Why many Missouri insurers quote $25,000 PD as "minimum": Many Missouri auto insurers offer $25,000 PD as their standard minimum policy — above the $10,000 statutory floor. This creates confusion about what Missouri's actual minimum is. For the Pearson VUE exam, the testable answer is $10,000 PD per RSMo § 303.190. For client advisory, recommend at least $100,000 PD regardless of the $10,000 statutory floor.
+For client advisory, recommend at least $100,000 PD regardless of the $25,000 statutory floor.
 
 ## Pure Comparative Negligence — Missouri's Most Distinctive Auto Law
 
@@ -96,13 +98,13 @@ Government entity involvement: 90-day notice requirement
 
 Explain pure comparative negligence. Missouri's no-bar standard means clients who may have ANY shared fault in an accident can still sue and recover. This creates liability exposure on both sides of every accident — the more significant the other driver's negligence, the more they must compensate regardless of any shared fault by your client.
 
-Recommend adequate PD coverage beyond the $10,000 minimum. The $10,000 PD statutory floor is dangerously low for modern vehicle values. Every Missouri auto advisory should include a clear explanation of why PD coverage at $100,000+ (vs. $10,000) costs only marginally more but provides dramatically more protection.
+Recommend adequate PD coverage beyond the $25,000 minimum. The $25,000 PD statutory floor is still low for modern vehicle values — a single late-model total loss can exhaust it. Every Missouri auto advisory should include a clear explanation of why PD coverage at $100,000+ (vs. $25,000) costs only marginally more but provides dramatically more protection.
 
 Stress UM at meaningful limits. Missouri's 16% uninsured driver rate and pure comparative negligence (where even at-fault drivers can face liability claims) make UM/UIM at 100/300+ limits practically important for most Missouri clients.
 
 ## 5 Frequently Asked Questions
 
-- What are Missouri's current auto insurance minimums? Per RSMo § 303.190: $25,000 bodily injury per person, $50,000 per accident, and $10,000 property damage. The $10,000 PD minimum is the statutory floor; many insurers offer $25,000 PD as their standard minimum product but the legal requirement is $10,000.
+- What are Missouri's current auto insurance minimums? Per RSMo § 303.190: $25,000 bodily injury per person, $50,000 per accident, and $25,000 property damage — 25/50/25. If you see "25/50/10" cited for Missouri, that is the pre-July-2019 property damage figure and it is out of date.
 - How does pure comparative negligence affect advisory for Missouri P&C clients? Pure comparative negligence means every Missouri accident involves potential liability regardless of fault allocation. Even Missouri drivers who are 60% at fault can recover 40% of their damages from the other driver — and the other driver's insurer will pursue the at-fault driver for liability. Adequate liability coverage and UM/UIM coverage are essential because Missouri's no-bar standard means more accident scenarios involve insurance claims than in modified comparative states.
 - What is the practical difference between Missouri's pure comparative negligence and Indiana's 51% bar? In Indiana (51% bar), a plaintiff who is 55% at fault recovers nothing from the other driver. In Missouri (pure comparative, no bar), a plaintiff who is 55% at fault recovers 45% of their damages. Missouri's standard maximizes recovery opportunities for plaintiffs — and liability exposure for defendants — compared to modified comparative systems. Missouri attorneys pursue liability claims more aggressively because pure comparative negligence creates recovery opportunities even in cases where the plaintiff bears significant fault.
 - Is Missouri's 5-year personal injury statute of limitations the longest of comparison states? Missouri's 5-year personal injury SOL is among the longer windows — Indiana requires 2 years, Maryland requires 3 years, Minnesota requires 6 years (slightly longer). Missouri's 5-year window gives injured parties significant time to file claims, which has implications for how long Missouri auto insurers must maintain reserves for open claims.
@@ -110,6 +112,6 @@ Stress UM at meaningful limits. Missouri's 16% uninsured driver rate and pure co
 
 ## Serve Missouri Auto Clients With Current Knowledge
 
-Missouri's pure comparative negligence, $10,000 statutory PD minimum, required UM, and highest degree of care all create advisory opportunities that reward producers who understand Missouri law. JustInsurance's DCI-approved Missouri courses cover current Missouri auto law in depth.
+Missouri's pure comparative negligence, 25/50/25 statutory minimums, required UM, and highest degree of care all create advisory opportunities that reward producers who understand Missouri law. If you're already a licensed Missouri producer, JustInsurance's DCI-approved Missouri property & casualty continuing education helps you keep this knowledge current and satisfy your renewal hours.
 
-Enroll today and build the Missouri auto insurance expertise your clients need.
+Enroll in JustInsurance's Missouri P&C continuing education and keep serving your auto clients with confidence.

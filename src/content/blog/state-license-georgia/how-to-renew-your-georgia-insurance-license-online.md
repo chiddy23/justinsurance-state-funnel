@@ -22,7 +22,7 @@ Here's exactly how to renew your Georgia insurance license online.
 
 ## Georgia's Renewal Cycle
 
-Georgia insurance licenses renew on a 2-year cycle. Your specific renewal date is tied to your license's original issuance — OCI lists your renewal date in your online profile.
+Georgia insurance licenses renew on a 2-year cycle, and your expiration date is set by your birth month — not by when your license was originally issued. Under O.C.G.A. § 33-23-18, resident agent, subagent, adjuster, and counselor licenses are issued on a biennial basis and expire on the last day of the licensee's birth month. OCI also lists your exact renewal date in your online profile, so confirm it there before you plan around it.
 
 Renewal applies to all Georgia insurance license types:
 
@@ -124,7 +124,7 @@ For most straightforward renewals, processing is quick — often same-day or wit
 
 Don't wait until the deadline. Renew at least 30 days before your expiration date to give yourself buffer for any issues that arise (CE reporting gaps, disclosure questions, processing delays).
 
-Early renewal is fine. Georgia generally allows renewal starting several weeks before the deadline. Early renewal doesn't shorten your new cycle — it starts from your original renewal date.
+Early renewal is fine. Georgia generally allows renewal starting several weeks before the deadline. Early renewal doesn't shorten your new cycle — your next expiration is still the last day of your birth month two years out.
 
 ## What Happens If You Miss the Renewal Deadline
 
@@ -168,7 +168,7 @@ Keep documentation. Save every CE completion certificate indefinitely.
 
 ## 5 Frequently Asked Questions
 
-1. How often do I have to renew my Georgia insurance license? Every 2 years. Your specific renewal date is tied to your license's original issuance — check OCI's portal for your exact date.
+1. How often do I have to renew my Georgia insurance license? Every 2 years, and your license expires on the last day of your birth month (O.C.G.A. § 33-23-18). Your deadline follows your birth month, not the date your license was originally issued — check OCI's portal to confirm your exact date.
 
 2. Can I renew my license online? Yes. Renewal is completed online through NIPR, Sircon, or OCI's portal. Paper renewals are uncommon.
 

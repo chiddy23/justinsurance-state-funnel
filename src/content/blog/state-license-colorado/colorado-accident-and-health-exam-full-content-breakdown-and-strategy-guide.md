@@ -1,6 +1,6 @@
 ---
 title: "Colorado Accident and Health Exam: Full Content Breakdown and Strategy Guide"
-description: The Colorado Accident and Health insurance licensing exam is 96 questions total — 80 scored and 16 pretest — administered by Pearson VUE in 120 minutes.
+description: The Colorado Accident and Health insurance licensing exam is 91 questions total — 80 scored and 11 pretest — administered by Pearson VUE in 120 minutes.
 keyword: colorado accident and health exam full content breakdown
 targetKeywords: colorado accident and health exam full content breakdown
 cluster: state-license-colorado
@@ -12,13 +12,13 @@ image: /blog/images/easy-steps-to-meet-colorado-insurance-license-requirements.j
 imageAlt: "Colorado Accident and Health Exam: Full Content Breakdown and Strategy Guide"
 ---
 
-The Colorado Accident and Health insurance licensing exam is 96 questions total — 80 scored and 16 pretest — administered by Pearson VUE in 120 minutes. Like the Life exam, it splits into two sections: a general knowledge section of 50 scored questions covering health insurance products, provisions, and concepts, and a Colorado-specific state section of 30 scored questions covering Title 10 of the Colorado Revised Statutes. The content outline published by Pearson VUE (effective January 1, 2024) maps every topic and assigns question counts to each. This post covers every content area in full, explains what the exam actually tests within each subsection, and gives you the specific strategy for the state section topics that determine whether most A&H candidates pass or fail.
+The Colorado Accident and Health insurance licensing exam is 91 questions total — 80 scored and 11 pretest — administered by Pearson VUE in 120 minutes. Like the Life exam, it splits into two sections: a general knowledge section of 50 scored questions covering health insurance products, provisions, and concepts, and a Colorado-specific state section of 30 scored questions covering Title 10 of the Colorado Revised Statutes. The content outline published by Pearson VUE (effective January 1, 2024) maps every topic and assigns question counts to each. This post covers every content area in full, explains what the exam actually tests within each subsection, and gives you the specific strategy for the state section topics that determine whether most A&H candidates pass or fail.
 
 ## The Exam at a Glance
 
-Passing score: 70% — at least 56 correct scored answers across both sections. The 16 pretest questions are indistinguishable from scored questions and do not affect your score. Answer every question as if it counts.
+Passing score: a scaled score of 70 on a 0–100 scale. Colorado does not report a raw percentage or a fixed number of correct answers — Pearson VUE converts your raw score to a scaled score through a statistical equating process so that forms of differing difficulty are held to the same standard. As the Pearson VUE Colorado candidate handbook states, the scaled score reported to you "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." A score of 70 or higher passes. The 11 pretest questions are indistinguishable from scored questions and do not affect your score. Answer every question as if it counts.
 
-One structural note before diving in: the A&H exam has 16 pretest questions — one more than the Life exam's 15. This means the A&H exam has a slightly higher ratio of non-scored questions (16.7%) than the Life exam (15.8%). The practical impact is negligible, but it means you should treat unusual or highly technical questions with particular equanimity — they may very well be pretest items.
+One structural note before diving in: the A&H exam carries 11 pretest questions — one more than the Life exam's 10, because the A&H state section includes 6 pretest items to the Life state section's 5. This means the A&H exam has a slightly higher ratio of non-scored questions (about 12.1%) than the Life exam (about 11.1%). The practical impact is negligible, but it means you should treat unusual or highly technical questions with particular equanimity — they may very well be pretest items.
 
 ## PART 1: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
 
@@ -250,6 +250,6 @@ If I hold the Life license and want to add Accident & Health, do I retake the en
 
 Yes. Accident & Health is a separate line of authority in Colorado requiring its own 50-hour prelicensing course and separate Pearson VUE exam. There is no partial credit for the Life prelicensing course, and Colorado has no combined Life/A&H course or combined exam — candidates wanting both lines simultaneously still complete the full 50-hour Life course and the full 50-hour Health course as two separate enrollments (100 hours total) and pass both exams separately. Candidates who already hold the Life license and want to add A&H must complete the full 50-hour A&H course and pass the A&H Pearson VUE exam separately — there is no expedited path based on prior Life licensing, unless the professional designation exemption applies (RHU, CEBS, REBC, or HIA designations exempt from A&H prelicensing).
 
-The Colorado Accident and Health exam rewards candidates who understand both the product mechanics tested in the general section and the specific regulatory framework Colorado has built around health insurance access, affordability, and coverage mandates. Candidates who treat the state section as a secondary priority consistently fall short of the 56-question passing threshold despite strong general knowledge preparation.
+The Colorado Accident and Health exam rewards candidates who understand both the product mechanics tested in the general section and the specific regulatory framework Colorado has built around health insurance access, affordability, and coverage mandates. Candidates who treat the state section as a secondary priority consistently fall short of the scaled passing score despite strong general knowledge preparation.
 
 Visit JustInsurance to enroll today and prepare for the Colorado A&H exam with a state-approved prelicensing course built to the current Pearson VUE content outline.

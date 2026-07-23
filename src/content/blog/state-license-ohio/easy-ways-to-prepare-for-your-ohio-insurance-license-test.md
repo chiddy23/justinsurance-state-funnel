@@ -36,13 +36,13 @@ Ohio requires you to complete a set number of [Ohio prelicensing](/ohio/prelicen
 -   Property insurance
 -   Casualty insurance
 
-Your [pre-licensing](/ohio/prelicensing) education will likely focus on state laws, product knowledge, and ethical standards. While the courses can feel dense at times, they provide an important foundation for your career. Make the most of these learning materials by taking notes, working through practice quizzes, and asking questions whenever you feel stuck.
+JustInsurance’s [Ohio prelicensing](/ohio/prelicensing) courses cover the Life and Health lines; if you’re pursuing Property or Casualty, you’ll complete those hours through a separate ODI-approved property and casualty course. Whichever line you choose, your pre-licensing education will focus on state laws, product knowledge, and ethical standards. While the courses can feel dense at times, they provide an important foundation for your career. Make the most of these learning materials by taking notes, working through practice quizzes, and asking questions whenever you feel stuck.
 
 ## Create your study plan
 
 A solid study plan is your best asset during this process. Many new students underestimate how much time they’ll need, but spacing out your review sessions is often more effective than cramming at the last minute. Here’s a balanced approach you might consider:
 
-1.  Divide your topics: Break your main subject areas into manageable chunks. Focus on concepts of life insurance one week, then shift to health or property the next.
+1.  Divide your topics: Break your main subject areas into manageable chunks. Focus on concepts of life insurance one week, then shift to health topics the next.
 2.  Use different resources: Read your course textbook, watch any included lecture videos, and try practice exams so you’re learning in multiple ways.
 3.  Adapt as needed: If you find a certain area takes more time to understand, adjust your schedule and spend an additional day or two on that material.
 4.  Track your progress: Keep a checklist of topics you feel comfortable with versus areas you need to revisit.

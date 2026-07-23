@@ -1,8 +1,9 @@
 ---
 title: How to Easily Get Your Maryland Life and Health Insurance License
 description: >-
-  Maryland life and health insurance license — prelicensing hours, exam costs,
-  application steps, background check, and timeline explained by licensed
+  Maryland life and health insurance license — exam costs, application steps,
+  background check, and timeline (Maryland dropped its prelicensing education
+  requirement in 2024) explained by a licensed agent.
 keyword: maryland life and health insurance license
 targetKeywords: maryland life and health insurance license
 cluster: state-license-maryland
@@ -32,7 +33,7 @@ While the Maryland Insurance Administration enforces its eligibility rules, it�
 
 Once you understand the basic requirements, many candidates choose to enroll in an optional [Maryland prelicensing course](/maryland/prelicensing), even though Maryland doesn't require it. This type of program focuses on Maryland insurance regulations and the fundamentals of life and health policies. You’ll explore topics like term and whole life insurance, health maintenance organizations, claims processes, and more.
 
-• Look for approved providers who align with your schedule.  
+• Look for a reputable provider whose course fits your schedule — Maryland doesn't approve or require prelicensing courses, so compare on quality and fit, not any "state approval."  
 • Dedicate adequate study time each week, so you stay on track.  
 • Practice with quizzes and sample exams that mirror the actual test format.
 
@@ -69,16 +70,16 @@ It’s natural to feel excited and maybe a bit restless while you wait. Stay pro
 3.  What happens if I fail the exam on the first try?  
     You can typically retake the exam after paying the necessary fee and rescheduling. It’s best to use the gap between attempts to review areas where you struggled.
 4.  Are online pre-licensing courses acceptable in Maryland?  
-    Absolutely. Many approved providers offer online options that let you learn at your own pace. Just make sure you select a program recognized by the Maryland Insurance Administration.
+    Absolutely. Many providers offer online options that let you learn at your own pace. Because Maryland eliminated its prelicensing requirement in October 2024 and the Insurance Administration doesn't approve or endorse prelicensing or exam-prep courses, choose a program built to the current Prometric Maryland content outline rather than looking for a "state-recognized" label.
 5.  Why do I need both a life and health license?  
     A combined license allows you to offer comprehensive coverage to clients, from term and whole life insurance to health and disability policies. It’s a smart way to increase your marketability, especially if you plan to work with a broad range of customers.
 
 ## Where JustInsurance fits in
 
-Finding a supportive environment as you begin your new career can make all the difference. At JustInsurance, you’ll find practical resources, mentorship opportunities, and a professional community that wants to see you succeed. Whether you have questions about choosing the right classes or you’re ready to brainstorm career moves, tapping into a trusted network can give you an edge.
+Because Maryland leaves the coursework up to you, the quality of what you study matters more than any requirement does. JustInsurance offers self-paced online Life and Health courses built to the current Prometric Maryland content outline, along with practice questions you can retake as often as you like. Everything is on demand, so you can work through the material around your existing schedule and gauge your own readiness before you book the exam.
 
 ## Final thoughts and next steps
 
 Your Maryland life and health insurance license is more than a piece of paper, it’s your ticket to helping families safeguard their future. With the right training, thorough exam preparation, and a supportive network, you’ll be well on your way to a successful career in this rewarding industry.
 
-Ready to start? Begin your pre-licensing course, make a study schedule, and prepare confidently for your exam. If you’re looking for a boost of guidance, consider reaching out to JustInsurance for insights and resources. Your new professional venture awaits—make it happen one step at a time.
+Ready to start? Begin your pre-licensing course, make a study schedule, and prepare confidently for your exam. If you’d rather work from structured material than assemble your own, the JustInsurance Maryland Life and Health course and practice questions are ready whenever you are. Your new professional venture awaits—make it happen one step at a time.

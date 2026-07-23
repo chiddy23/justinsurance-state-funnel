@@ -41,7 +41,7 @@ Selecting courses from a range of categories helps you gain expertise in the are
 
 ## Stay on top of deadlines and renewal cycles
 
-Each state imposes its own renewal cycle. Some states run on an annual basis, whereas others might use a two- or even three-year cycle. Determining your exact renewal window is essential because you won’t get extra time for missed deadlines.
+Each state imposes its own renewal cycle. Most states run continuing education on a two-year cycle, a few use a three-year cycle, and Arizona alone runs a four-year cycle (48 hours, including 6 ethics hours). No state uses an annual CE cycle. Determining your exact renewal window is essential because you won’t get extra time for missed deadlines.
 
 Mark important deadlines on your calendar or set alerts on your phone to remind you. Keeping everything scheduled gives you a better perspective on when to take certain classes—like saving ethics courses for closer to the renewal date, or completing mandatory updates as soon as new regulations go into effect.
 

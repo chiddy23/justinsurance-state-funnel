@@ -17,7 +17,7 @@ imageAlt: >-
   your massachusetts insurance producer license.
 ---
 
-Getting your Massachusetts insurance producer license opens the door to one of the most sophisticated insurance markets in the Northeast. Boston's financial services concentration, the substantial healthcare sector, and Massachusetts's distinctive Health Connector marketplace create real opportunity for licensed producers. Massachusetts's licensing process is also distinctive — notably, the state does not require [pre-licensing](/massachusetts/prelicensing) education, making it one of the few states with this approach.
+Getting your Massachusetts insurance producer license opens the door to one of the most sophisticated insurance markets in the Northeast. Boston's financial services concentration, the substantial healthcare sector, and Massachusetts's distinctive Health Connector marketplace create real opportunity for licensed producers. Massachusetts's licensing process is also distinctive — notably, the state does not require [pre-licensing](/massachusetts/prelicensing) education, an approach now shared by roughly half the states.
 
 Here's exactly how to get your Massachusetts insurance producer license.
 
@@ -55,25 +55,35 @@ So while you can technically skip prelicense and go straight to the exam, doing 
 
 ## Step 3: Schedule Your State Exam
 
-Massachusetts is in the middle of an exam vendor transition. Prometric administered the exam through July 16, 2026; there is a testing blackout July 17–21, 2026; and Pearson VUE becomes the official vendor starting July 22, 2026 (Pearson scheduling is open now). Schedule through:
+Massachusetts changed exam vendors in July 2026. Prometric administered the exam through July 16, 2026, testing was blacked out July 17–21, and Pearson VUE became the official vendor for all Massachusetts insurance licensing exams on July 22, 2026. Schedule through:
 
 Pearson VUE's website at pearsonvue.com/us/en/ma/insurance.html
 
-Pay the $39 exam fee at registration (lower than most states) — confirm the current fee in the Pearson VUE candidate handbook before scheduling
+Pay the exam fee at registration — Pearson charges $37 per producer exam (Life, Accident & Health, Property, Casualty, or Personal Lines), well below most states. Verify the current amount in the Pearson VUE Massachusetts candidate handbook before you book
 
-Pearson VUE requires in-person testing at an authorized test center; the remote/online-proctored option is being phased out with the vendor switch
+Pearson VUE requires in-person testing at an authorized test center — remote/online-proctored testing is no longer offered for Massachusetts insurance exams
 
 Bring two valid forms of identification on test day
 
 ## Massachusetts Exam Structure
 
-Massachusetts offers exams for various lines of authority:
+Massachusetts tests one line of authority per exam. There is no single combined Life and Health exam — if you want both lines, you sit the Life exam and the Accident, Health, or Sickness exam separately. You can book them back to back on the same day, but they remain two exams, two fees, and two score reports.
 
-Question counts and time limits range from approximately 100-150 questions and 2-2.5 hours.
+Every producer exam is built from two published content outlines: a General Knowledge section (insurance principles that apply in any state) and a Massachusetts-specific section (state statutes, rules, and regulations). Per the Pearson VUE Massachusetts content outlines effective July 22, 2026:
 
-Passing score: 70% on every Massachusetts insurance license exam.
+Life — 50 scored general-knowledge questions plus 30 scored Massachusetts-law questions (80 scored, plus 10 unscored pretest questions)
 
-The exam covers two sections: General (insurance principles applicable in any state) and State Law (Massachusetts-specific laws, rules, and regulations).
+Accident, Health, or Sickness — 50 scored general plus 30 scored Massachusetts law (80 scored, plus 10 pretest)
+
+Property — 50 scored general plus 30 scored Massachusetts law (80 scored, plus 10 pretest)
+
+Casualty — 50 scored general plus 30 scored Massachusetts law (80 scored, plus 10 pretest)
+
+Personal Lines — 75 scored general plus 30 scored Massachusetts law (105 scored, plus 10 pretest)
+
+Passing score: 70 on the converted (scaled) score set by the Massachusetts DOI. That is a scaled score, not a raw percentage of questions answered correctly.
+
+Pearson does not publish a fixed time limit in the Massachusetts candidate handbook — your appointment length is shown when you schedule, so confirm it at booking.
 
 Note: No exam is required for Variable Life and Variable Annuity, or Travel licenses.
 
@@ -91,7 +101,7 @@ If you answer "yes" to any background question on the application, submit a writ
 
 ## Step 5: Submit Your License Application
 
-Massachusetts license applications are submitted electronically through the National Insurance Producer Registry (NIPR) at nipr.com. Note: paper applications submitted via postal mail were discontinued after September 15, 2025.
+Massachusetts license applications are submitted electronically through the National Insurance Producer Registry (NIPR) at nipr.com. Producer applications have been electronic-only since Massachusetts converted to NIPR and NAIC's State Based Systems (SBS) in March 2022 — there is no paper-application option for producer licensing.
 
 Application requirements:
 
@@ -171,13 +181,13 @@ Travel — limited travel insurance (no exam required)
 
 ## Massachusetts Division of Insurance Contact Information
 
-Address: 1000 Washington Street, Suite 810, Boston, MA 02118-6200
+Address: One Federal Street, Suite 700, Boston, MA 02110-2012
 
 Phone: 617-521-7794
 
 Toll-Free: (877) 563-4467
 
-Email: producerupdate.mailbox@state.ma.us
+Email: producerupdate.mailbox@mass.gov
 
 Website: mass.gov/orgs/division-of-insurance
 
@@ -185,11 +195,11 @@ Hours: Monday to Friday, 8:45 AM - 5:00 PM
 
 ## 5 Frequently Asked Questions
 
-- Does Massachusetts require pre-licensing education? No. Massachusetts is one of the few states that does NOT require pre-licensing education for insurance producer licensure (per M.G.L. c. 175, §162L). However, prelicense education is strongly recommended given the exam's difficulty.
+- Does Massachusetts require pre-licensing education? No. Massachusetts is among the roughly half of states that do NOT require pre-licensing education for insurance producer licensure (per M.G.L. c. 175, §162L). However, prelicense education is strongly recommended given the exam's difficulty.
 - Does Massachusetts require fingerprinting for insurance producers? No. Massachusetts doesn't require fingerprinting for individual producer licenses, though a background check is still conducted.
-- How much does a Massachusetts insurance license cost? Total typically $350-500 including any prelicense study materials, $39 exam fee, $225 state application fee, and $75 additional lead paint surcharge for P&C/Personal Lines applicants.
+- How much does a Massachusetts insurance license cost? Total typically $350-500 including any prelicense study materials, a $37 fee per exam, the $225 state application fee, and the $75 additional lead paint surcharge for P&C/Personal Lines applicants. Budget for two $37 fees if you want both the Life and the Accident & Health lines, since Massachusetts gives a separate exam for each.
 - How long is my Massachusetts insurance license valid? Massachusetts producer licenses renew every 3 years (triennial cycle), with renewal due before your birth date.
-- What's the difference between Massachusetts and other states' licensing process? The most distinctive features are: no pre-licensing education required, lower exam fee ($39), a 3-year renewal cycle (not 2-year), and the additional $75 lead paint surcharge for P&C applicants. Massachusetts is also transitioning exam vendors from Prometric to Pearson VUE, effective July 22, 2026.
+- What's the difference between Massachusetts and other states' licensing process? The most distinctive features are: no pre-licensing education required, a low $37-per-exam fee, one exam per line of authority (there is no combined Life and Health exam), a 3-year renewal cycle instead of the usual 2-year cycle, and the additional $75 lead paint surcharge for P&C applicants. Massachusetts also moved its licensing exams from Prometric to Pearson VUE effective July 22, 2026.
 
 ## Start Your Massachusetts Insurance Career Right
 

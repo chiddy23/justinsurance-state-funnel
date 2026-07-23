@@ -48,21 +48,15 @@ Most candidates complete prelicense education online for flexibility. You'll rec
 
 The content covers everything on the state exam: insurance concepts, life insurance products and provisions, health insurance products and provisions, annuities, Medicare, and Georgia-specific law.
 
-## Step 3: Get Fingerprinted
+## Step 3: Know Where Fingerprinting Fits in the Order
 
-Georgia requires fingerprinting as part of its background check for insurance license applicants. Fingerprints are processed electronically through IdentoGO or other OCI-approved providers.
+Georgia requires fingerprinting as part of its background check for new resident license applicants. Fingerprints are processed electronically through IdentoGO.
 
-To complete fingerprinting:
+The sequencing matters here, and it trips people up: Georgia requires you to submit your license application at sircon.com/georgia **before** you register to be fingerprinted. Once the application is in, you register at ga.state.identogo.com/ata, wait for the registration approval email, and take that approval to a fingerprint site.
 
-- Schedule an appointment with an approved provider
+So the practical order is: finish prelicense education → pass the exam → submit the application → register and get fingerprinted.
 
-- Bring valid government-issued ID
-
-- Pay the fingerprinting fee (typically $50–$75)
-
-- Results are submitted electronically to OCI within days
-
-You can complete fingerprinting before or after your exam, but it must be done before your license will be issued.
+When you do go, bring valid government-issued ID, expect to pay the fingerprinting fee yourself (roughly $50–$75), and results are transmitted electronically to OCI within days.
 
 ## Step 4: Schedule and Pass the State Exam
 
@@ -76,29 +70,31 @@ Georgia insurance exams are administered by Pearson VUE. Once your prelicense ed
 
 - Bring two forms of ID to your appointment — one must be government-issued with photo
 
-The Georgia Life, Accident, and Sickness exam has:
+The Georgia Life, Accident, and Sickness combination exam (exam code 12-GA-05) has:
 
-- 150 scored questions (plus a small number of unscored pilot questions)
+- 125 scored questions, plus 10 unscored pretest questions — 135 items total
 
 - 2 hours and 30 minutes to complete
 
-- 70% passing score required
+- 70% passing score required — Georgia reports a percent score on a 0%–100% scale, and it is the percentage of questions you answered correctly
 
 You'll receive your pass/fail result immediately after finishing. Failed candidates receive a breakdown of their performance by topic area.
 
-## Step 5: Submit Your License Application
+## Step 5: Submit Your License Application Through the Georgia Producer Portal
 
-After passing your exam and completing fingerprinting, submit your license application through the National Insurance Producer Registry (NIPR) at nipr.com or through Sircon.
+After you pass your exam, apply online at the Georgia Producer Portal — sircon.com/georgia. This is the resident application path: Georgia's own procedure directs resident agent applicants to complete their application at sircon.com/georgia. NIPR (nipr.com) is the route non-resident applicants use, so don't start there if you live in Georgia.
 
 Your application will include:
 
 - Confirmation of exam completion
 
-- Background check clearance
+- A notarized Citizenship Affidavit (Form GID-276-EN) plus a copy of a secure and verifiable ID, uploaded to the Sircon portal where you applied
 
 - Disclosure of any criminal history, regulatory actions, or bankruptcies
 
-- License application fee (approximately $100)
+- License application fee (approximately $100, plus a processing fee)
+
+Two practical notes. Your affidavit and ID have to be uploaded in the same system where you filed the application — the documents cannot be uploaded somewhere else. And if OCI sends a deficiency notice, you have 60 days to cure it; after that the application closes and the fee is forfeited.
 
 ## Step 6: Wait for License Approval
 
@@ -116,7 +112,7 @@ Your license alone doesn't authorize you to sell insurance. You must be appointe
 
 ## Total Timeline
 
-From starting your prelicense course to holding your license, most Georgia candidates finish in 4 to 10 weeks. Moving through each step promptly — booking your exam early, scheduling fingerprinting during your study period — keeps you on the faster end.
+From starting your prelicense course to holding your license, most Georgia candidates finish in 4 to 10 weeks. Moving through each step promptly — booking your exam date the day your course certificate posts, then filing the Sircon application and registering for fingerprints the same week you pass — keeps you on the faster end.
 
 ## 5 Frequently Asked Questions
 

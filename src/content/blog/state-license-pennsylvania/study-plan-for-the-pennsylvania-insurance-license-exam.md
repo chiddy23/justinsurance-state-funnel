@@ -264,7 +264,7 @@ Mental preparation
 
 ## Pennsylvania-Specific Study Time Allocation
 
-Approximately 20-25% of your study time should focus on Pennsylvania-specific content:
+Pennsylvania's "Insurance Regulation" section is the single most heavily weighted domain on the exam — about 20-21% — and is built almost entirely on Pennsylvania statutes, with more Pennsylvania rules woven through the replacement, mandated-benefit, auto (Tort Choice), workers'-compensation, and Medicare-supplement topics. Because Pennsylvania material is both the largest single block and scattered across other sections, plan to spend a meaningful share of your study time — on the order of a fifth to a quarter — on it:
 
 For 6-week plan: ~10-15 hours focused on Pennsylvania content For 10-week plan: ~20-25 hours focused on Pennsylvania content
 
@@ -352,7 +352,7 @@ Federal Regulation (10-15%):
 
 HIPAA, ERISA, ACA, COBRA
 
-Pennsylvania-Specific (15-25%):
+Pennsylvania-Specific (no single published percentage — most is in the ~21% "Insurance Regulation" domain, with the rest woven through other topics):
 
 Pennie
 
@@ -404,7 +404,7 @@ Federal Regulation (5-10%):
 
 NFIP, federal regulations affecting P&C
 
-Pennsylvania-Specific (15-25%):
+Pennsylvania-Specific (no single published percentage — chiefly the ~20% "Insurance Regulation" domain, plus Pennsylvania auto (Tort Choice), workers' compensation, and guaranty-association rules built into the product sections):
 
 Pennsylvania auto Tort Choice
 
@@ -422,7 +422,7 @@ When NOT to schedule:
 
 ❌ Practice scores below 75% ❌ Significant weak content areas ❌ Insufficient Pennsylvania content preparation ❌ Limited practice exam experience
 
-Don't schedule before you're ready. Each retake costs $43.
+Don't schedule before you're ready. Each retake means paying the PSI exam fee again — $45 for a single-line exam (Life, Health, Property, or Casualty) or $55 for a combined Life and Health or Property and Casualty exam.
 
 ## Final Week Strategy
 
@@ -462,7 +462,7 @@ Insufficient practice questions. Reading isn't practice. You need substantial vo
 
 Skipping practice exams. Practice exams test endurance and calibration.
 
-Ignoring Pennsylvania content. 15-25% of the exam.
+Ignoring Pennsylvania content. Pennsylvania law is the exam's largest single domain (the ~20-21% "Insurance Regulation" section) and shows up across other topics too.
 
 Cramming the final week. Cramming creates fatigue without producing retention.
 
@@ -492,10 +492,10 @@ Reschedule your exam if needed. Better to delay than to fail.
 - How many practice questions should I work through? Minimum 500 practice questions. Strong preparation involves 1,000+ practice questions across all content areas.
 - How many full-length practice exams should I take? At least 2-3 full-length practice exams under timed conditions before scheduling real exam.
 - Should I take a prelicense course even though it's not required? Yes — most successful candidates do, and [pass rates](/pass-rates) are substantially higher with structured preparation. While Pennsylvania eliminated PLE requirements (Act 142 of 2024), structured study still maximizes first-attempt pass rates.
-- When should I take Pennsylvania-specific content? Throughout your study period, not just the final week. Approximately 20-25% of your study time should focus on Pennsylvania content.
+- When should I take Pennsylvania-specific content? Throughout your study period, not just the final week. Pennsylvania law is the exam's largest single domain — the "Insurance Regulation" section is about 20-21% — and it also runs through other topics, so give it a meaningful share of your study time (roughly a fifth to a quarter).
 
 ## Build a Pennsylvania Study Plan That Works
 
-A structured plan transforms exam preparation from overwhelming to manageable. At JustInsurance, our Pennsylvania prelicense course (Provider Approval #147815) is structured to support an effective study plan — providing the foundation, practice questions, and Pennsylvania-specific content you need for first-attempt success.
+A structured plan transforms exam preparation from overwhelming to manageable. At JustInsurance, our Pennsylvania exam-prep course is structured to support an effective study plan — providing the foundation, practice questions, and Pennsylvania-specific content you need for first-attempt success.
 
 Enroll today and prepare for the Pennsylvania insurance exam with a plan.

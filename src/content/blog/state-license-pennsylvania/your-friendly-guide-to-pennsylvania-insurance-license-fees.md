@@ -21,7 +21,7 @@ You’ve probably heard that getting an insurance license in Pennsylvania can op
 
 ## Get to know the basics
 
-Understanding your path toward a Pennsylvania insurance license is the first step. Essentially, you’ll need to complete state-approved coursework, register for the licensing exam, and then apply for your license. Depending on the types of insurance you’d like to sell—such as life, health, or property and casualty—the requirements can vary slightly.
+Understanding your path toward a Pennsylvania insurance license is the first step. Essentially, you’ll prepare for the licensing exam, register for it, and then apply for your license. Pennsylvania no longer requires prelicensing coursework — and the state does not approve or endorse prelicensing courses — so any study program you choose is optional prep. Depending on the types of insurance you’d like to sell—such as life, health, or property and casualty—the requirements can vary slightly.
 
 In Pennsylvania, each line of authority (like life or property) you want covered on your license carries its own exam and often its own fees. To avoid sticker shock, do a bit of advance planning to identify which lines you plan to pursue. You don’t have to tackle every line of authority at once. Start with what you need immediately, and consider adding additional lines later if you discover a need for them in your career.
 
@@ -29,7 +29,7 @@ In Pennsylvania, each line of authority (like life or property) you want covered
 
 Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) education hours are optional rather than mandatory. Courses that cover Life or Health typically run around 20 hours each. If you choose to take one, it gives you a thorough overview of essential insurance concepts, policy structures, and legal requirements, and the coursework typically includes reading assignments, quizzes, and practice exams that simulate the real test environment.
 
-Choosing a state-approved pre-licensing provider matters. The course cost can vary, often landing between $100 and $300 depending on the provider, the course format (online or in-person), and any additional materials included. You might see some packages that integrate practice tests or supplemental study resources. Whichever option you pick, make sure it fits your learning style. After all, you want to enter the exam feeling confident and well-prepared.
+Choosing a course built to the current PSI Pennsylvania content outline matters — Pennsylvania does not approve or endorse prelicensing courses, so look for one aligned to the exam blueprint rather than a state seal. The course cost can vary, often landing between $100 and $300 depending on the provider, the course format (online or in-person), and any additional materials included. You might see some packages that integrate practice tests or supplemental study resources. Whichever option you pick, make sure it fits your learning style. After all, you want to enter the exam feeling confident and well-prepared.
 
 ## Plan your exam preparation
 
@@ -39,7 +39,7 @@ Keep a realistic study schedule that accounts for work, family, or other respons
 
 ## Understand the exam fees
 
-Exam fees are likely the largest part of pennsylvania insurance license fees, so it’s important to set aside a portion of your budget for them. Pennsylvania's exam fee is $43 per attempt, paid to PSI Services at registration. You’ll also be responsible for any fees related to scheduling changes, should you need to reschedule your exam date.
+The exam fee is one of several costs to budget for — though for most candidates it is smaller than an optional pre-licensing course, so it’s important to set aside a portion of your budget for them. Pennsylvania's exam fee is $45 per attempt for a single-line exam — Life (16-01), Accident and Health (16-02), Property (16-04), or Casualty (16-05) — and $55 for a joint-line exam, meaning Life, Accident and Health (16-03) or Property and Casualty (16-06). Either way you pay PSI Services at registration, and exam fees are not refundable or transferable, so a missed or failed attempt means paying again. You’ll also be responsible for any fees related to scheduling changes, should you need to reschedule your exam date.
 
 Below is a quick reference table to give you a sense of what to expect. Actual fees can change, so always confirm with the official testing provider:
 
@@ -57,7 +57,7 @@ Optional education hours
 
 Insurance exam (per line)
 
-$43
+$45 single line (16-01, 16-02, 16-04, 16-05); $55 joint line (16-03, 16-06)
 
 Measures your knowledge of insurance concepts
 
@@ -75,7 +75,7 @@ Required for confirming your eligibility
 
 [Continuing education](/pennsylvania/continuing-education) courses
 
-Varies (annual)
+Varies (every 2 years)
 
 Ongoing requirement to keep your license active
 
@@ -89,7 +89,7 @@ Soon after submitting your application, you’ll receive instructions for additi
 
 ## Factor in continuing education
 
-After you secure your license, your journey isn’t officially over. To maintain your license year after year, Pennsylvania requires you to complete [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) credits. CE fees can vary, depending on the courses you take and whether they’re part of a package deal. For example, some providers might combine courses into a discount bundle if you need multiple credits.
+After you secure your license, your journey isn’t officially over. To keep your license in good standing, Pennsylvania requires you to complete [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) credits — 24 hours, including 3 ethics hours, every two-year renewal cycle. CE fees can vary, depending on the courses you take and whether they’re part of a package deal. For example, some providers might combine courses into a discount bundle if you need multiple credits.
 
 Each renewal cycle requires you to meet a set number of CE hours, which helps you stay updated on new insurance laws and best practices. Plan for these costs ahead of time, so they don’t catch you off-guard when your renewal date comes around. Keeping your license in good standing also means you’ll have more credibility with clients. They’ll appreciate knowing you’re always learning and staying on top of industry updates.
 

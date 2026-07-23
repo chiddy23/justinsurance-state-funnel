@@ -86,19 +86,21 @@ The non-resident CE exemption applies when the home state offers equivalent reci
 
 Tennessee issues limited lines licenses for specific, narrow categories of insurance products that do not require the full knowledge base tested by the major lines licensing exams. Producers holding only limited lines licenses — without any major lines authority — may have different or reduced CE obligations compared to major lines producers.
 
-Common limited lines categories in Tennessee:
+Common limited lines categories Tennessee recognizes under Tenn. Code Ann. §56-6-110:
 
-Credit insurance
+Travel insurance — including the limited travel accident and baggage coverage sold in connection with common-carrier travel
 
-Travel insurance and travel accident
+Credit insurance — credit life, credit accident and health, and involuntary unemployment credit
 
-Rental car coverage
+Crop insurance
 
-Pet insurance
+Title insurance (limited to licensed attorneys acting as title insurance agents)
 
-Title insurance (has its own separate framework)
+Portable electronics insurance
 
-Crop hail (limited scope)
+Self-service storage insurance
+
+The list above is defined by statute, and the commissioner may recognize additional limited lines by rule — so verify the exact category and its CE treatment with the TDCI rather than assuming a given product falls within the limited lines framework.
 
 ### CE Obligations for Limited Lines Holders
 
@@ -118,11 +120,11 @@ A public adjuster who has been licensed for less than one full year before their
 
 This exemption mirrors the logic of similar exemptions in other states — a newly licensed adjuster who obtained their license recently has limited benefit from completing CE before their first renewal when they have been licensed for such a short period.
 
-## CE Carryover — Not Publicly Posted, and Not an Exemption Even Where It Applies
+## CE Carryover — Published, but Not an Exemption
 
-Some states allow producers to carry a limited number of excess CE hours forward into the next biennial period. Tennessee's specific treatment of excess CE hours is not publicly posted by the TDCI — there is no confirmed hour limit or carryover mechanism published on the agency's site. Producers who complete more than 24 hours in a period should not assume any specific carryover figure applies; contact the TDCI directly at (615) 741-2241 or ce.agent.licensing@tn.gov to confirm whether — and how much — excess credit carries forward before relying on it in renewal planning.
+Some states allow producers to carry a limited number of excess CE hours forward into the next biennial period, and Tennessee is one of them. Under Tenn. Comp. R. & Regs. 0780-01-56-.08, a producer may carry over a maximum of 12 continuing education credit hours to the next renewal cycle for additional hours obtained during the biennium. A producer who completes 36 approved hours in a period, for example, can carry the 12 excess general hours forward and reduce the following cycle's general CE load to 12 hours.
 
-Even if some carryover is confirmed for a producer's specific situation, it would not function as an exemption. Carryover, where it exists in any state's framework, is a partial-credit mechanism for over-completion, not a waiver — it can reduce a future period's hour count but does not eliminate the ethics-hour requirement, which must generally be satisfied with newly completed, ethics-designated CE regardless of any carried-forward general credit. Do not plan a renewal around an assumed carryover allowance until the TDCI has confirmed it in writing for your specific circumstances.
+Carryover is not an exemption, and it comes with one hard limit that trips producers up: it does not apply to the ethics requirement. The same rule provides that carry over shall not apply to ethics continuing education credit requirements. So even a producer who completed extra ethics hours in one biennium must still complete a fresh 3 hours of TDCI-designated ethics CE in the next biennium — the ethics obligation resets every renewal period regardless of any carried-forward general credit. Carryover can reduce a future period's general hour count; it can never eliminate the 3-hour ethics requirement or waive CE altogether. When in doubt about how much excess credit is on file for your specific record, confirm the figure with the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov before relying on it in your renewal planning.
 
 ## Confirming Your Exemption Status
 
@@ -156,10 +158,10 @@ I am a non-resident producer from Florida. Florida has its own CE requirement th
 
 Florida has adopted the NAIC Producer Licensing Model Act and offers non-resident licenses to Tennessee producers on equivalent terms. Tennessee recognizes Florida's CE compliance as satisfaction of Tennessee's non-resident CE requirement. As long as your Florida resident license is active and your Florida CE is current — meaning you have satisfied Florida's biennial CE requirement — your Tennessee non-resident CE obligation is simultaneously satisfied. You do not need to complete any Tennessee-specific CE courses. Your Tennessee non-resident renewal is submitted through NIPR's NRR path with the standard renewal fee, and CE compliance is demonstrated through the active status of your Florida license rather than through Tennessee CE records. The exception: if you sell LTC products in Tennessee, confirm whether your Florida LTC training completion satisfies Tennessee's LTC training requirement, or whether a Tennessee-specific LTC training completion is needed.
 
-I hold both a Personal Lines license and a credit insurance limited lines license in Tennessee. Do I need to complete CE for both licenses or just one?
+I hold both the Personal Lines line of authority and a credit insurance limited line in Tennessee. Do I need to complete CE for both, or just once?
 
-You need to complete CE for the Personal Lines license — the standard 24-hour biennial requirement including 3 ethics hours. The credit insurance limited lines license does not create an additional or separate CE obligation. Tennessee CE requirements apply to the major lines license you hold — adding a limited lines license does not multiply the CE obligation. Complete 24 hours including 3 ethics for the Personal Lines license; that single completion satisfies both the Personal Lines and credit insurance CE obligations simultaneously for your renewal. The one practical consideration: verify that your credit insurance limited lines license has no independent CE requirement under the specific rules governing that license type. Contact the TDCI to confirm that credit insurance falls within the limited lines framework where no independent CE is required rather than a category that carries its own separate CE structure.
+You complete CE for the Personal Lines authority — the standard 24-hour biennial requirement including 3 ethics hours. The credit insurance limited line does not create an additional or separate CE obligation. Tennessee's CE requirement attaches to the producer, not to each line — adding a limited line does not multiply the CE obligation. Complete 24 hours including 3 ethics; that single completion satisfies both the Personal Lines and credit insurance CE obligations simultaneously for your renewal. The one practical consideration: verify that your credit insurance limited line has no independent CE requirement under the specific rules governing that line. Contact the TDCI to confirm that credit insurance falls within the limited lines framework where no independent CE is required rather than a category that carries its own separate CE structure.
 
-Tennessee's CE exemption framework is narrower than many producers assume — the vast majority of Tennessee resident producers holding major lines licenses are subject to the full 24-hour biennial requirement with no exemption available. The exemptions that do apply — continuous licensure, non-resident status, and limited lines — each have precise conditions and precise scope that must be verified against the producer's actual situation rather than assumed from general familiarity. Producers who confirm their exemption status through the TDCI, document that confirmation, and understand exactly what each exemption covers and does not cover maintain the compliance certainty that prevents unexpected CE obligations from arising at renewal.
+Tennessee's CE exemption framework is narrower than many producers assume — the vast majority of Tennessee resident producers holding major lines of authority are subject to the full 24-hour biennial requirement with no exemption available. The exemptions that do apply — continuous licensure, non-resident status, and limited lines — each have precise conditions and precise scope that must be verified against the producer's actual situation rather than assumed from general familiarity. Producers who confirm their exemption status through the TDCI, document that confirmation, and understand exactly what each exemption covers and does not cover maintain the compliance certainty that prevents unexpected CE obligations from arising at renewal.
 
 Visit JustInsurance to enroll today and complete your Tennessee CE requirements with a state-approved provider — or confirm your exemption status with the TDCI and maintain your license through the renewal process that applies to your specific situation.

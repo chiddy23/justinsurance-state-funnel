@@ -200,7 +200,7 @@ Don't leave state law for the final week. State-specific content is dense. Integ
 
 ## 5 Frequently Asked Questions
 
-1. How much of the Georgia exam is state-specific law? Typically 15–25% of the exam focuses on Georgia-specific content. That's substantial enough to fail the exam on its own if you skip it.
+1. How much of the Georgia exam is state-specific law? On the combined Life, Accident, and Sickness exam, Georgia-specific law accounts for 25 of the 125 scored questions — about a fifth of the exam, and the single largest content block on the outline. That's substantial enough to fail the exam on its own if you skip it.
 
 2. Can national study materials cover Georgia law? Partially. National materials cover general insurance concepts well but rarely go deep on Georgia-specific rules. Use Georgia-specific prelicense courses to cover this portion.
 

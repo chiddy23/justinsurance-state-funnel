@@ -22,7 +22,7 @@ Here's exactly how to renew your South Carolina insurance license.
 
 ## South Carolina's Renewal Cycle
 
-South Carolina insurance licenses renew on a biennial (2-year) cycle. Your specific renewal date is tied to your license's original issuance — the SCDOI lists your renewal date in your online profile.
+South Carolina insurance licenses renew on a biennial (2-year) cycle. Your license expires on the last day of your birth month, and which year you renew is keyed to your birth year — producers born in an even-numbered year renew in even-numbered years, and those born in an odd-numbered year renew in odd-numbered years. The SCDOI lists your exact expiration date in your online profile.
 
 Renewal applies to all South Carolina insurance license types:
 
@@ -114,7 +114,7 @@ You'll receive email confirmation
 
 Your license status updates to "active" for the new 2-year cycle
 
-Your renewal date resets based on the new cycle
+Your license is active through the last day of your birth month two years out
 
 For most straightforward renewals, processing is quick — often same-day or within a few business days.
 
@@ -178,7 +178,7 @@ Verify specific state-by-state rules for any specialty training requirements
 
 ## 5 Frequently Asked Questions
 
-- How often do I have to renew my South Carolina insurance license? Every 2 years. Your specific renewal date is tied to your license's original issuance — check the SCDOI's portal for your exact date.
+- How often do I have to renew my South Carolina insurance license? Every 2 years. Your license expires on the last day of your birth month — in even-numbered years if you were born in an even year, odd-numbered years if you were born in an odd year. Check the SCDOI's portal for your exact date.
 - Can I renew my license online? Yes. Renewal is completed online through NIPR, Sircon, or the SCDOI portal. Paper renewals are uncommon.
 - What happens if I don't complete my CE before renewal? Renewal will be rejected. Complete your CE, have it reported to the SCDOI, then attempt renewal. This may cost you time and possibly late fees.
 - Do I have to pay a renewal fee even if I didn't sell any insurance during the cycle? Yes. Renewal fees apply regardless of production. The fee maintains your license as active.

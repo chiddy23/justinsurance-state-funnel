@@ -17,7 +17,7 @@ imageAlt: >-
   massachusetts insurance prelicense education: optional but r.
 ---
 
-Massachusetts is one of the few states in the country where insurance producer [prelicense](/massachusetts/prelicensing) education is optional rather than required. Pursuant to Massachusetts General Laws Chapter 175, §162L, pre-licensing education is no longer required for individuals seeking licensure as insurance producers. But here's the catch — Massachusetts has one of the more difficult state exams in the country, and most candidates who skip prelicense end up failing the exam.
+Massachusetts is one of roughly half the states where insurance producer [prelicense](/massachusetts/prelicensing) education is optional rather than required — a group that has grown steadily as state after state has dropped the mandate. Pursuant to Massachusetts General Laws Chapter 175, §162L, pre-licensing education is no longer required for individuals seeking licensure as insurance producers. But here's the catch — Massachusetts has one of the more difficult state exams in the country, and most candidates who skip prelicense end up failing the exam.
 
 Here's everything you need to know about Massachusetts insurance prelicense education.
 
@@ -39,17 +39,17 @@ The state still requires you to pass the licensing exam — it just doesn't requ
 
 While prelicense isn't required, the Massachusetts state exam is widely considered difficult:
 
-Question counts of 100-150 questions per exam
+80 scored questions per producer line exam — 50 general knowledge plus 30 Massachusetts-specific — with 5 unscored pretest items in each section (Personal Lines is larger, at 75 plus 30)
 
-2-2.5 hour time limits
+A single timed session; Pearson VUE shows the exact time limit for your exam when you register
 
-70% passing score required
+A scaled score of 70 to pass — scores are equated across forms, not reported as a raw percentage
 
 Substantial Massachusetts-specific content (Health Connector, MassHealth, MA-specific laws)
 
 Sophisticated general insurance content
 
-Most candidates who pass on the first attempt completed structured prelicense study even though it wasn't legally required. Skipping prelicense to save time and money often results in failing the exam, paying another $39 exam fee, and waiting to retake — a worse outcome than just doing the prelicense in the first place.
+Most candidates who pass on the first attempt completed structured prelicense study even though it wasn't legally required. Skipping prelicense to save time and money often results in failing the exam, paying another $37 exam fee, and waiting to retake — a worse outcome than just doing the prelicense in the first place.
 
 ## Who Should Take Prelicense in Massachusetts
 
@@ -201,7 +201,7 @@ Quality prelicense is a worthwhile investment:
 
 Course cost: Typically $150-400 depending on provider and format
 
-Comparison to failure cost: Each exam retake costs another $39 plus your time. Multiple failures add up.
+Comparison to failure cost: Each exam retake costs another $37 plus your time. Multiple failures add up.
 
 Time savings: Structured prelicense often takes less total time than disorganized self-study.
 
@@ -229,21 +229,21 @@ For most candidates, formal prelicense is more efficient than self-study.
 
 Once you're prepared:
 
-Schedule your state exam. Massachusetts is transitioning exam vendors: Prometric administered the exam through July 16, 2026, and Pearson VUE becomes the official vendor starting July 22, 2026.
+Schedule your state exam. Massachusetts changed exam vendors in July 2026: Prometric administered the exam through July 16, 2026, and Pearson VUE has been the official vendor since July 22, 2026.
 
 Visit pearsonvue.com/us/en/ma/insurance.html
 
-Pay $39 exam fee (confirm the current fee in the Pearson VUE candidate handbook before scheduling)
+Pay the $37 exam fee — each producer line exam is $37 under the Pearson VUE fee schedule, due at the time you reserve your seat and non-refundable
 
-Schedule at an in-person Pearson VUE testing center — remote/online-proctored testing is being phased out with the vendor switch
+Schedule at an in-person Pearson VUE testing center — remote/online-proctored testing was eliminated with the vendor switch
 
 Pass the state exam.
 
-70% passing score
+A scaled score of 70 to pass
 
-2-2.5 hours
+One timed session; Pearson VUE displays the time limit for your exam at registration
 
-100-150 questions depending on exam
+80 scored questions — 50 general knowledge plus 30 Massachusetts-specific — with 5 unscored pretest items in each section
 
 Apply for license through NIPR.
 

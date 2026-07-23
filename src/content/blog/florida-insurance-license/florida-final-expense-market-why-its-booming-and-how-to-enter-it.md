@@ -90,19 +90,15 @@ Step 4 — Learn the sales process. Final expense sales follow a defined rhythm:
 
 Step 5 — Show up consistently. Final expense success is built on door-to-door or appointment-based activity. Agents who work consistently earn consistently. The agents who struggle are almost always the ones who show up inconsistently.
 
-## Realistic Income Expectations in Final Expense
+## What You Can Actually Say About Final Expense Income
 
-New final expense agents who work the business seriously often earn:
+Be skeptical of anyone who hands you a dollar figure for this niche — including anyone selling you a course. Nobody publishes verified earnings data for Florida final expense agents specifically, so any first-year range you see quoted is somebody's estimate dressed up as a statistic.
 
-- First 90 days: $4,000 – $8,000 per month once in production
+What *is* published is the occupation as a whole. The Bureau of Labor Statistics Occupational Employment and Wage Statistics program (SOC 41-3021, Insurance Sales Agents, May 2024 release) counts about 47,930 insurance sales agents in Florida, with a median annual wage of $56,880. The top 10 percent earn $132,640 or more. That covers every insurance sales agent in the state — captive and independent, personal lines and life — not final expense specialists.
 
-- First year: $60,000 – $100,000
+More useful than a target number is understanding how the money actually works. Final expense pays commission, not salary. First-year commissions typically run 80% to 130% of the first year's premium depending on the carrier and your contract level, with smaller renewals for several years after. Your income is therefore a direct function of three things you control — how many appointments you sit, what percentage you close, and how well your business persists — minus one real and recurring cost, lead spend, which comes out of your pocket before any commission arrives. Two agents holding identical contracts routinely earn very different incomes for exactly this reason.
 
-- Established agents: $120,000 – $250,000+
-
-*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
-
-These numbers assume consistent appointment-setting, lead spend, and follow-through. Final expense is a high-activity niche — income follows activity closely.
+*No income is promised or implied. The BLS figures above describe all Florida insurance sales agents, not final expense producers, and are not a projection of what any individual agent will earn. Commission income depends entirely on individual activity, lead investment, policy persistency, and carrier contract level. Individual results vary.*
 
 ## Common Mistakes New Final Expense Agents Make
 

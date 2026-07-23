@@ -109,6 +109,6 @@ Working with a reputable provider, like JustInsurance, can give you structured s
 
 ## Take the next step
 
-Success on the Washington insurance license exam is within reach once you zero in on proven study strategies and reliable resources. Stay disciplined, track your progress, and focus on improving any weaker areas. Joining a structured program such as those offered by JustInsurance can help you move through optional exam prep with confidence and accountability, then stay ahead on [Washington continuing education](/washington/continuing-education) once you are licensed.
+Success on the Washington insurance license exam is within reach once you zero in on proven study strategies and reliable resources. Stay disciplined, track your progress, and focus on improving any weaker areas. Joining a structured program such as those offered by JustInsurance can help you move through optional exam prep with confidence and accountability.
 
 You’ve invested the time to learn what it takes to pass the exam. Turn that motivation into action by scheduling your test and finalizing your study plan. The moment you earn your license is the moment you step into a field that offers professional growth and the chance to help others safeguard their future. Take a deep breath, trust your preparation, and get ready to excel in your new career. Good luck!

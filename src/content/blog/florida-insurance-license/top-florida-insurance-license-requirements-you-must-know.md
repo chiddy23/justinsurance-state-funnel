@@ -65,7 +65,7 @@ Florida charges an application fee, which may vary depending on the type of lice
 
 After your application is processed, you can schedule your licensing exam. Florida typically partners with third-party exam administrators who offer multiple testing sites statewide. When you book your date, consider what time of day you perform best to give yourself the greatest chance of passing on the first try.
 
-Each exam focuses on your knowledge of insurance laws, ethics, and product details for the line of insurance you intend to sell. You can expect anywhere from 50 to 150 multiple-choice questions depending on the license type. To prepare effectively, review your pre-licensing course materials, use practice exams, and create a study schedule that begins at least a few weeks ahead of your test date. Once you pass, you will receive an official exam score, which you will use to complete your licensing requirements.
+Each exam focuses on your knowledge of insurance laws, ethics, and product details for the line of insurance you intend to sell. The number of multiple-choice questions depends on the license type: a single-line Life (2-14) or Health (2-40) exam has 95 questions with a two-hour limit, the combined Life, Health & Annuity (2-15) exam has 165 questions over two hours and forty-five minutes, and the 2-20 General Lines property and casualty exam has 175 questions over three hours. Every exam mixes in a set of unscored pretest questions that do not count toward your result — 10 on each single-line exam (85 scored out of 95) and 15 on the 2-15 and 2-20 exams (150 and 160 scored, respectively). To prepare effectively, review your pre-licensing course materials, use practice exams, and create a study schedule that begins at least a few weeks ahead of your test date. Once you pass, you will receive an official exam score, which you will use to complete your licensing requirements.
 
 ## Expect a background check
 
@@ -77,7 +77,7 @@ If you have any past legal issues, do not panic. Being transparent and submittin
 
 Getting your [Florida insurance license](/florida) is only the beginning of your professional journey. To stay in good standing with the state, you need to meet [continuing education](/florida/continuing-education) (CE) requirements. CE courses ensure that your knowledge remains current and that you are aware of changes in insurance laws, rules, and industry trends.
 
-You may be required to complete a certain number of CE hours every two years. For instance, life and health license holders might take a short course on emerging medical coverage options, while property and casualty licensees might have to study updated flood insurance regulations. Keeping your license active is simpler if you plan your [continuing education](/florida/continuing-education) throughout the renewal cycle, rather than rushing toward the deadline.
+You may be required to complete a certain number of CE hours every two years. For instance, life and health license holders might take a short course on emerging medical coverage options, while property and casualty licensees might have to study updated flood insurance regulations. Keeping your license active is simpler if you plan your [continuing education](/florida/continuing-education) throughout the two-year compliance cycle, rather than rushing toward the deadline.
 
 ## Take the next step with JustInsurance
 

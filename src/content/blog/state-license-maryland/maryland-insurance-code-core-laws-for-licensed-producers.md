@@ -48,7 +48,7 @@ Rate and form review (File and Use system — insurers may implement rates immed
 
 PLE: NOT required (eliminated Oct 1, 2024; Bulletin 24-19)
 
-Prometric exam: $60; 70%; 6-month score validity; 4-day retake wait
+Prometric exam: $62; 70%; 6-month score validity; 4-day retake wait
 
 No fingerprinting; ITIN accepted; $54 NIPR application
 
@@ -138,7 +138,7 @@ Homeowners underwriting, rating, AND payment plans: all prohibited (COMAR 31.15.
 
 Electronic verification system: Maryland monitors auto insurance compliance electronically. Gaps trigger Notice of Non-Compliance requiring response within 30 days; non-response results in registration suspension.
 
-MAIF (Maryland Automobile Insurance Fund): Assigned risk pool; also competes on voluntary market.
+MAIF (Maryland Automobile Insurance Fund): Residual-market insurer of last resort for high-risk drivers who cannot obtain coverage in the voluntary market. Unlike Chesapeake Employers (the workers' compensation fund below), MAIF does NOT compete in the voluntary market — it writes only the drivers the voluntary market rejects.
 
 ## Maryland Workers' Compensation
 
@@ -184,6 +184,6 @@ LTC tax credit: Maryland provides state income tax credit for qualifying LTC ins
 
 ## Build Your Career on Strong Maryland Compliance Knowledge
 
-The Maryland Insurance Article, contributory negligence, EUIM, credit history prohibitions, and Maryland Health Connection form the foundation of Maryland insurance practice. JustInsurance's MIA-approved Maryland courses cover the Insurance Code in depth.
+The Maryland Insurance Article, contributory negligence, EUIM, credit history prohibitions, and Maryland Health Connection form the foundation of Maryland insurance practice. JustInsurance's MIA-approved Maryland CE courses cover the Insurance Code in depth.
 
 Enroll today and build your Maryland insurance career on solid compliance ground.

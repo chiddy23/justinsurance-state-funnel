@@ -42,7 +42,7 @@ Start the 6-month clock intentionally: Once the Certificate of Completion is iss
 
 Priority 1 — IDOI and IC 27-1-15.6 (all exams; ~10-12 questions):
 
-IDOI: Commissioner Amy L. Beard; 311 W. Washington Street, Suite 103, Indianapolis, IN 46204-2787; 317-232-2389; [email protected]; in.gov/idoi
+IDOI: Commissioner Holly W. Lambert; 311 W. Washington Street, Suite 103, Indianapolis, IN 46204-2787; 317-232-2389; AgentLicensing@idoi.in.gov; in.gov/idoi
 
 PLE: 20 hours; 6-month validity; bring Certificate to exam; 70% PLE exam; $4 roster
 
@@ -52,11 +52,11 @@ Fingerprinting: Not required — self-disclosure on the NIPR application only
 
 Application: $40 + $5.60 NIPR; 5-7 days; 6-month apply window
 
-Designation exemptions: CLU, CFP, CFC, CPCU, CIC, AAI; bachelor's in insurance; email IDOI; exam still required
+Designation exemptions (waive PLE only, not the assessment): CLU, CFP, or ChFC — IDOI's published list prints this one as "CFC" — for Life and A&H; CPCU, CIC, or AAI for Property, Casualty, and Personal Lines; a bachelor's degree in insurance for any line. Email IDOI with the qualification you are applying for plus a copy of the certificate or degree; you still sit the Indiana Laws and Regulations assessment for that qualification
 
 180-day temp license
 
-Renewal: 2 years; last day birth month; $40; late $160
+Renewal: 2 years; last day birth month; $40 renewal; $120 late/reinstatement penalty ($160 total to reinstate)
 
 CE: 24 hours (3 Ethics); professional org up to 2 hours (IC 27-1-15.7-2.4)
 
@@ -64,7 +64,7 @@ Unfair practices: misrepresentation, twisting, churning, rebating, defamation, u
 
 Priority 2 — Life/A&H Indiana specifics:
 
-Annuity Best Interest (760 IAC 1-72-4.5; July 1, 2024): 4-hour one-time; life line holders before selling annuities; within 6 months of July 1, 2024 or obtaining life line
+Annuity Best Interest (760 IAC 1-72-4.5; July 1, 2024): one-time 4-hour training before selling annuities for producers licensed on/after July 1, 2024; producers licensed earlier who completed the prior annuity training took a one-time 1-hour update by Jan 2, 2025
 
 Healthcare.gov — Indiana's ACA exchange; NOT state-based
 
@@ -86,7 +86,7 @@ Diminished value: Indiana allows claims; 6-year SOL
 
 INAIP: Indiana Auto Insurance Plan = assigned risk pool
 
-Workers' comp (IC 22-3-2-2): 1+ employee; ICRB (not NCCI); 4th lowest rates nationally; exclusive remedy IC 22-3-2-6; non-compliance: Class A infraction, $100/day, misdemeanor
+Workers' comp (IC 22-3-2-2): 1+ employee; ICRB (not NCCI); among the nation's lowest rates (7th-lowest, ~65% of the U.S. median in the 2024 Oregon DCBS ranking); exclusive remedy IC 22-3-2-6; non-compliance: Class A infraction, $100/day, misdemeanor
 
 ## Indiana State Law Quick Reference — Numbers to Memorize
 
@@ -100,7 +100,7 @@ Underestimating the 51% bar rule. Many candidates know "modified comparative fau
 
 Forgetting that UM/UIM is auto-included (not mandatory). Indiana automatically includes UM/UIM in every policy — but it CAN be rejected in writing. This is different from Maryland (UM cannot be waived) and different from states where UM is entirely optional. On exam questions about Indiana UM: automatically included in all policies unless rejected in writing.
 
-Not knowing the July 1, 2024 Annuity Best Interest rule. This recent IDOI rule (760 IAC 1-72-4.5) requiring 4-hour one-time training before selling annuities is a testable current regulatory development. Know the effective date (July 1, 2024) and the requirement (4-hour one-time; within 6 months of rule date or obtaining life line).
+Not knowing the July 1, 2024 Annuity Best Interest rule. This recent IDOI rule (760 IAC 1-72-4.5) is a testable current regulatory development. Know the effective date (July 1, 2024) and the split: producers licensed on/after July 1, 2024 take a one-time 4-hour training before selling annuities, while producers licensed earlier who had completed the prior annuity training took a one-time 1-hour update by January 2, 2025.
 
 Ignoring the ICRB. Generic study materials use "NCCI" for workers' comp rating administration. Indiana uses ICRB. On IN exam questions about workers' comp rating, the correct answer is ICRB.
 
@@ -133,7 +133,7 @@ Spanish not available via OnVUE
 - How long to study for Indiana after completing PLE? 1-2 weeks for individual single-line exams; 2-3 weeks for combined. Indiana's state section (HIP 2.0, Healthcare.gov, Annuity Best Interest, ICRB, 51% comparative fault) requires specific targeted study beyond PLE content.
 - Should I take the combined LA&H or separate Life and A&H exams? Combined LA&H (150 questions, 180 min, $69) covers both lines at the same price as one individual exam — saves $69 and one exam sitting. For candidates pursuing both Life and Health lines, the combined exam is almost always the better choice. Only candidates who want to stagger their preparation should take separate exams.
 - What is the #1 Indiana-specific state law topic to master? For L&H: HIP 2.0's POWER account structure (HIP Plus for contributors; HIP Basic for non-contributors) — this is uniquely Indiana and the most likely state section topic to catch candidates who studied only national content. For P&C: the 51% modified comparative fault bar — know the specific threshold and how it differs from contributory negligence and MN/CO's 50% bar.
-- Does the Annuity Best Interest training (July 1, 2024) affect exam questions? Yes — recent regulatory changes are commonly tested on state licensing exams. The IDOI's July 1, 2024 Annuity Best Interest rule (760 IAC 1-72-4.5) requiring 4-hour one-time training for life producers before selling annuities is a testable current development. Know the rule number, effective date, and requirement.
+- Does the Annuity Best Interest training (July 1, 2024) affect exam questions? Yes — recent regulatory changes are commonly tested on state licensing exams. The IDOI's July 1, 2024 Annuity Best Interest rule (760 IAC 1-72-4.5) is a testable current development: producers licensed on/after that date take a one-time 4-hour training before selling annuities, while those licensed earlier who had completed the prior annuity training took a one-time 1-hour update by January 2, 2025. Know the rule number, effective date, and this split.
 - How many Indiana-specific questions should I expect on the Life exam? Approximately 20-25 of the ~95-100 questions on the Life exam are Indiana state section questions — approximately 20-25%. This is the margin that distinguishes first-attempt passes from fails for well-prepared national content students. Target at least 85%+ on Indiana state law [practice questions](/indiana/practice-exam) specifically.
 
 ## Build Your Indiana Study Plan Right

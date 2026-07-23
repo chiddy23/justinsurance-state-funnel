@@ -58,7 +58,7 @@ Below are some common questions about Colorado insurance continuing education.
 3.  What happens if I miss my CE deadline?  
     If you fail to complete the required hours on time, your license could become inactive. You might need to pay reinstatement fees or even retake certain steps to regain active status.
 4.  Can I carry over extra CE hours to the next renewal cycle?  
-    In many states, including Colorado, carryover is not typically allowed. Check Colorado’s Department of Regulatory Agencies (DORA) guidelines for the most up-to-date policy on this topic.
+    Yes, within limits. Colorado lets you carry over up to 12 excess CE credit hours into the next renewal cycle — but only hours you earn during the 120 days immediately before your continuation (renewal) date. Hours beyond that 12-credit cap, or earned earlier in the cycle, do not carry. Check the Colorado Division of Insurance (part of the Department of Regulatory Agencies, DORA) guidelines for the most up-to-date policy on this topic.
 5.  Does online coursework count toward my CE requirements?  
     Absolutely, as long as the provider is state-approved. You can choose self-paced or webinar-style formats to accommodate your learning preferences.
 

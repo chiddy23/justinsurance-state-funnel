@@ -1,8 +1,9 @@
 ---
 title: Maximize Success with Maryland Insurance License Renewal Tips
 description: >-
-  Maryland insurance license renewal tips: required prelicensing hours, exam
-  registration, state fees, application steps, and tips from licensed insurance
+  Maryland insurance license renewal tips: the 90-day renewal window, continuing
+  education deadlines, state renewal fees, late-renewal rules, and practical tips
+  from a licensed insurance agent
 keyword: maryland insurance license renewal tips
 targetKeywords: maryland insurance license renewal
 cluster: state-license-maryland
@@ -29,17 +30,17 @@ The first step in Maryland insurance license renewal is to get an accurate view 
 
 ## Complete your continuing education requirements
 
-[Continuing education](/maryland/continuing-education) (CE) ensures you stay current with industry trends, legal changes, and best practices. In Maryland, [continuing education](/maryland/continuing-education) requirements vary depending on the type of license you hold, such as life & health or property & casualty. For example, you may be required to complete a set number of course hours covering ethics, laws, and your specific insurance lines.
+[Continuing education](/maryland/continuing-education) (CE) ensures you stay current with industry trends, legal changes, and best practices. Maryland major-lines producers — life & health, property & casualty — owe 24 CE hours per two-year renewal cycle, and 3 of those hours must specifically cover ethics. Specialty lines and adjuster licenses can carry their own requirements, so confirm your exact obligation against your own license record before you buy courses.
 
-It’s best to start fulfilling CE credits well before your renewal deadline to avoid any end-of-cycle rush. Look for approved providers that fit your schedule, whether you prefer online courses or in-person training. Some licensees plan out the year to tackle certain topics periodically, rather than cramming them all into one go. Remember that you’ll need to maintain proof of completion in case of an audit. Most CE providers will send your completion records directly to the MIA, but always keep a personal copy for extra peace of mind.
+It’s best to start fulfilling CE credits well before your renewal deadline to avoid any end-of-cycle rush. Maryland also expects your CE to be finished and reported no later than 15 days before your expiration date, which quietly moves your real deadline two weeks earlier than most agents assume. Look for approved providers that fit your schedule, whether you prefer online courses or in-person training. Some licensees plan out the year to tackle certain topics periodically, rather than cramming them all into one go. Remember that you’ll need to maintain proof of completion in case of an audit. Most CE providers will send your completion records directly to the MIA, but always keep a personal copy for extra peace of mind.
 
 ## Pay attention to important deadlines
 
-Maryland typically operates on a two-year license renewal cycle, though the exact renewal window can depend on your birthday or your initial licensing date. It’s easy to lose track of these details, so it’s wise to mark them in a calendar or set reminders on your phone. Give yourself enough time to complete CE requirements, gather necessary documents, and process any fees. The renewal process should ideally start at least a month ahead of your expiration date to handle any unforeseen hurdles.
+Maryland operates on a two-year license renewal cycle, and your renewal window opens 90 days before your expiration date and closes on that date. It’s easy to lose track of these details, so it’s wise to mark them in a calendar or set reminders on your phone. Give yourself enough time to complete CE requirements, gather necessary documents, and process any fees. Treat the day your 90-day window opens as your start date rather than your last-chance date — that leaves room for CE reporting to post and for any unforeseen hurdles.
 
 ## Avoid common renewal pitfalls
 
-One serious pitfall is waiting until the last minute to complete your CE. If you run out of time before meeting all the requirements, you might face late fees or even a temporary suspension of your authority to sell insurance. Another common mistake is failing to update personal information, such as your name or address, which can cause discrepancies and possible delays in your renewal.
+One serious pitfall is waiting until the last minute to complete your CE. Maryland will not let you submit a renewal until your CE compliance shows as satisfied, so unfinished hours at the deadline mean your license simply expires — and you are back in reinstatement territory with the $100 fee, not in a brief grace period. Another common mistake is failing to update personal information, such as your name or address, which can cause discrepancies and possible delays in your renewal.
 
 Also, don’t forget to pay attention to any changes in local regulations, since new laws or updated rules may mean additional steps. If you move into a new line of insurance or expand your product offerings, you might need supplemental training or extra CE credits. And keep your technology in mind as well. If you plan to renew online, make sure your portal account is up to date and your data is accurate before you submit anything.
 
@@ -48,10 +49,10 @@ Also, don’t forget to pay attention to any changes in local regulations, since
 Below are answers to five frequently asked questions that often come up during the renewal process.
 
 Q1: How soon can I start my renewal process?  
-A1: You can typically begin your Maryland insurance license renewal once you’re within 60 days of your license expiration. However, it’s never too early to complete your CE and gather necessary materials, especially if your schedule is packed.
+A1: You can typically begin your Maryland insurance license renewal once you’re within 90 days of your license expiration. However, it’s never too early to complete your CE and gather necessary materials, especially if your schedule is packed.
 
 Q2: What should I do if I miss my renewal deadline?  
-A2: If you miss your renewal deadline, you may still be able to renew by paying a late fee, but your license could become inactive temporarily. In some cases, you might need to reapply and meet all the licensing requirements again, which is both time-consuming and costly.
+A2: Your license expires on the expiration date — there is no grace period that keeps you active. For up to one year after that date you can reinstate it by submitting the application with your completed CE, the $54 renewal fee, the $15 fraud prevention fee, and a $100 reinstatement fee. Once that one-year window closes, reinstatement is off the table and you must apply as a new licensee, which means retaking the Prometric exam for every line you want back.
 
 Q3: Are online CE courses acceptable in Maryland?  
 A3: Yes. Maryland allows online CE courses through approved providers, making it easier to earn your credits according to your own schedule. Just verify that the courses align with your license type and meet state guidelines.
@@ -60,7 +61,7 @@ Q4: How do I prove to the state that I completed my CE?
 A4: Most approved course providers automatically report your credits to the state. It’s smart, however, to keep your own records and completion certificates in case any discrepancies should arise.
 
 Q5: Do I have to take an exam for renewal?  
-A5: Generally, you don’t need to retake the initial licensing exam during renewal if you keep your license active and fulfill all CE requirements. If your license expires or if you shift into a new coverage line that you weren’t previously licensed for, there may be additional testing and a fresh [Maryland prelicensing course](/maryland/prelicensing) involved.
+A5: Generally, you don’t need to retake the initial licensing exam during renewal if you keep your license active and fulfill all CE requirements. If your license expires or if you shift into a new coverage line that you weren’t previously licensed for, you may need to pass the state licensing exam for that line. Maryland doesn’t require prelicensing education, but many candidates still use an [exam prep course](/maryland/prelicensing) to get ready.
 
 ## Achieve renewal with confidence
 

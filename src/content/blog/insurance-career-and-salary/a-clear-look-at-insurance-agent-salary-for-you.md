@@ -59,9 +59,11 @@ By consistently applying these learned skills, you can elevate the client experi
 
 ## Partner with a reputable company
 
-You also benefit greatly from partnering with a strong insurance company, such as JustInsurance. Established insurers are well-known for providing their agents with solid support, clear commission plans, and recognizable products. When you work with a company that people trust, you’re more likely to close deals smoothly. Potential customers often feel more comfortable with a brand they recognize, especially when it comes to protecting their homes, families, and businesses.
+You also benefit greatly from choosing the right carrier or agency to contract with. Established insurers and well-run agencies are the ones that tend to provide solid support, clear commission schedules, and recognizable products. When you represent a company that people trust, you’re more likely to close deals smoothly. Potential customers often feel more comfortable with a brand they recognize, especially when it comes to protecting their homes, families, and businesses.
 
-You’ll want to explore what kind of marketing materials, lead generation programs, and technology platforms a company offers. A well-organized system that provides a steady pipeline of interested clients saves you time and lets you concentrate on explaining policies and processing paperwork. Align yourself with a supportive organization, and you increase your chances of meeting and even surpassing your financial goals.
+Before you sign a contract, explore what kind of marketing materials, lead generation programs, and technology platforms the carrier or agency offers. A well-organized system that provides a steady pipeline of interested clients saves you time and lets you concentrate on explaining policies and processing paperwork. Align yourself with a supportive organization, and you increase your chances of meeting and even surpassing your financial goals.
+
+One clarification, since we’re the ones publishing this: JustInsurance is not an insurance carrier. We’re an online insurance education provider — prelicensing courses, continuing education, and licensing support. We don’t issue policies, appoint agents, or pay commissions. Getting licensed is the step we handle; the appointment and the commission schedule come from whichever carrier or agency you contract with afterward.
 
 ## FAQs about insurance agent salary
 

@@ -114,7 +114,7 @@ Step 2 — Contact the DFR. Reach out to Oregon Producer Licensing:
 
 Phone: (503) 947-7981
 
-Email: web.insagent@oregon.gov
+Email: web.insagent@dcbs.oregon.gov
 
 Address: 350 Winter St NE, Salem, OR 97301-3883
 
@@ -227,7 +227,7 @@ Reporting timing. Even with extensions, providers still need 1-15 business days 
 ## 5 Frequently Asked Questions
 
 - When can I qualify for an Oregon CE deadline extension? Active military duty and other extenuating circumstances (serious illness, caregiving responsibilities, natural disasters) may qualify. Routine reasons like forgetting or being busy don't qualify.
-- How do I apply for an Oregon CE extension? Contact Oregon Producer Licensing at (503) 947-7981 or web.insagent@oregon.gov with a written request, your specific circumstances, and supporting documentation.
+- How do I apply for an Oregon CE extension? Contact Oregon Producer Licensing at (503) 947-7981 or web.insagent@dcbs.oregon.gov with a written request, your specific circumstances, and supporting documentation.
 - Should I apply before or after my deadline passes? Before. Apply as soon as you recognize you may not be able to complete CE on time. Waiting until after your deadline complicates the situation.
 - What's the difference between an extension and reinstatement? Extensions give you more time before your license expires. Reinstatement is what you do after your license has already expired. Extensions are better when possible.
 - Will the DFR grant me an extension if I just forgot my deadline? Generally no. Extensions are for genuine extenuating circumstances, not normal deadline misses. Forgetting your deadline typically requires reinstatement procedures, not extensions.

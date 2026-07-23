@@ -119,7 +119,7 @@ Address: 1209 Strawberry Square, Harrisburg, PA 17120
 
 Phone: (717) 787-3840
 
-Consumer Hotline: 1-866-PA-COMPLAINT
+Consumer Hotline: 1-877-881-6388
 
 Email: ra-in-producer@pa.gov
 

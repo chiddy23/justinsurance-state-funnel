@@ -17,7 +17,7 @@ imageAlt: >-
   your wisconsin insurance producer license.
 ---
 
-Wisconsin's insurance licensing process has several features that make it genuinely distinctive among all comparison states. The Office of the Commissioner of Insurance (OCI) requires 20 hours of [prelicensing](/wisconsin/prelicensing) education per line of authority, structured as an 8-hour common section (principles, WI laws, ethics — shareable across lines within 12 months) and a 12-hour line-specific section. PSI Services LLC administers the exam — the only comparison state using PSI alongside Minnesota and New Jersey. Fingerprinting is required through Fieldprint Wisconsin ($34.75). The application fee is $75 per line of authority, processing takes 1-3 business days, and a failed exam carries approximately a 2-calendar-day mandatory waiting period before you can retake it. Wisconsin's economy anchors on Northwestern Mutual (Fortune 500 life insurer; Milwaukee), Epic Systems (world's largest EHR company; Madison), American Family Insurance (Madison), and a manufacturing-and-dairy heritage that creates commercial insurance advisory need throughout the state. Here's the complete guide.
+Wisconsin's insurance licensing process has several features that make it genuinely distinctive among all comparison states. The Office of the Commissioner of Insurance (OCI) requires 20 hours of [prelicensing](/wisconsin/prelicensing) education per line of authority, structured as an 8-hour common section (principles, WI laws, ethics — shareable across lines within 12 months) and a 12-hour line-specific section. PSI Services LLC administers the exam — one of many states that route insurance licensing exams through PSI. Fingerprinting is required through Fieldprint Wisconsin ($36.00). The resident license application fee is a flat $10 per application for the exam-based lines (Life, Accident & Health, Property, Casualty) — it is charged per application, not per line of authority — processing takes 1-3 business days, and a failed exam carries approximately a 2-calendar-day mandatory waiting period before you can retake it. Wisconsin's economy anchors on Northwestern Mutual (Fortune 500 life insurer; Milwaukee), Epic Systems (world's largest EHR company; Madison), American Family Insurance (Madison), and a manufacturing-and-dairy heritage that creates commercial insurance advisory need throughout the state. Here's the complete guide.
 
 ## Who Regulates Wisconsin Insurance
 
@@ -81,7 +81,7 @@ Submit Prelicensing Exemption Form OCI 11-026 to OCI
 
 OCI study resource: "Intermediary's Guide to Wisconsin Insurance Law" — developed by OCI as a study guide for the WI laws section; available online at oci.wi.gov (no hard copies available)
 
-JustInsurance's OCI-approved Wisconsin prelicensing courses are fully online and self-paced.
+JustInsurance's OCI-approved Wisconsin prelicensing courses — Life and Accident & Health — are fully online and self-paced.
 
 ## Step 2: Complete Fieldprint Fingerprinting
 
@@ -93,7 +93,7 @@ Website: fieldprintwisconsin.com
 
 Fieldprint code: FPWIOCIInsurance (not case sensitive)
 
-Fee: $34.75 for digital fingerprinting
+Fee: $36.00 for digital fingerprinting, per the current Wisconsin Candidate Information Bulletin (rev. December 10, 2025) — OCI's own fingerprinting webpage still shows an older $34.75 figure, so confirm the price at fieldprintwisconsin.com when you book
 
 Two forms of current signature identification required at appointment (primary must be government-issued with photo)
 
@@ -139,7 +139,7 @@ After passing exam and completing fingerprinting:
 
 Apply through NIPR (nipr.com):
 
-Application fee: $75 per line of authority
+Application fee: $10 per application — the statutory fee under Wis. Stat. § 601.31(1)(Lg) for filing an original electronic resident application after you complete the required prelicensing education and exam. It covers the exam-based lines (Life, Accident & Health or Sickness, Property, Casualty, Personal Lines, Credit, Title) and is charged per application, not per line of authority
 
 NIPR transaction fee: $5.60
 
@@ -159,7 +159,7 @@ Veterans: Exam fee reimbursement available; initial license fee waiver available
 
 ## Step 5: Maintain Your License
 
-Renewal: 2 years; last day of birth month. Renewal fee: $35 (resident); $75 (nonresident). CE: 24 hours (3 Ethics); no carryover of excess hours. Renewal notifications: Email only (eff. February 1, 2021) to business email on file within 60 days of expiration.
+Renewal: 2 years; last day of birth month. Renewal fee: $35 (resident biennial); $70 (nonresident biennial) — separate from the one-time $10 resident application filing fee and from the $75 you pay PSI per exam. One point of confusion worth clearing up: OCI's published fee table also lists a "$75 initial license fee per line of authority." That figure is the nonresident and non-exam-line path — nonresident individual intermediaries do pay $75 per line through NIPR. A Wisconsin resident who completes prelicensing education and passes the exam pays the $10 statutory application fee instead. CE: 24 hours (3 Ethics); no carryover of excess hours (Wis. Admin. Code § Ins 28.04(1)(d)). Renewal notifications: Email only (eff. February 1, 2021) to the business email on file, sent at least 60 days before the fee due date (Wis. Admin. Code § Ins 28.04(1)(f)).
 
 ## Wisconsin vs. Comparison States
 
@@ -173,6 +173,6 @@ Renewal: 2 years; last day of birth month. Renewal fee: $35 (resident); $75 (non
 
 ## Start Your Wisconsin License Process
 
-Wisconsin's OCI framework, PSI exam network, and predictable ~2-day retake window create a clear and achievable licensing timeline. JustInsurance's OCI-approved Wisconsin prelicensing courses cover all four major lines with the 8-hour shared section built in.
+Wisconsin's OCI framework, PSI exam network, and predictable ~2-day retake window create a clear and achievable licensing timeline. JustInsurance's OCI-approved Wisconsin prelicensing courses cover the Life and Accident & Health lines — offered as Life, Health, or both — with the 8-hour shared section built in. We do not offer Property or Casualty prelicensing; if those are your lines, you'll need another OCI-approved provider.
 
 Enroll today and start your Wisconsin insurance career.

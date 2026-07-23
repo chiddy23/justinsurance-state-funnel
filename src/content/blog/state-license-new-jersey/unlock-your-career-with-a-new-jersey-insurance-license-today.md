@@ -48,7 +48,7 @@ Once you finish, your course provider will often administer a certificate of com
 
 ## Schedule and pass the exam
 
-With your pre-licensing completed, you are ready to take the next big step: scheduling your insurance licensing exam. New Jersey’s exam is overseen by a designated third-party testing service, so you will register and pay the exam fee through them. While the cost can vary, budgeting around $40 to $50 per line of authority you plan to test for is a good guideline. Make sure you keep your proof of pre-licensing completion handy because you will likely need it when booking your exam date.
+With your pre-licensing completed, you are ready to take the next big step: scheduling your insurance licensing exam. New Jersey’s exam is administered by PSI, the state’s designated testing service, so you will register and pay the exam fee through them. PSI charges a $38 examination fee for each line of authority you test for, so plan for that cost per exam if you intend to sit for more than one. Make sure you keep your proof of pre-licensing completion handy because you will likely need it when booking your exam date.
 
 To maximize your chances of passing on the first try, dedicate time each day to study. Use practice exams and online modules to pinpoint the areas that might need extra attention—these could be insurance laws, policy details, or industry terminology. Taking the time to address your weaknesses early helps you feel far more comfortable on exam day.
 

@@ -53,28 +53,35 @@ The Ethics course covers topics like fiduciary duty, fair dealing, agent conduct
 
 ## Long-Term Care CE Requirement
 
-If you sell Long-Term Care insurance in California, there are additional specific CE requirements on top of the standard 24 hours:
+If you sell Long-Term Care insurance in California, you have a separate LTC training schedule on top of the general CE topics — and the schedule is front-loaded, which catches new agents out. Under Cal. Ins. Code § 10234.93(a)(4), for licensees issued a license after January 1, 1992:
 
-- 8-hour initial LTC training before your first LTC sale
-- 4-hour LTC refresher CE every 2 years thereafter
-- For California Partnership for LTC products, an additional 8-hour initial Partnership training and 4-hour Partnership refresher every 2 years
+- 8 hours of LTC training in **each** of the first four 12-month periods, measured from the date your original license was issued — that is annual, not biennial, for your first four years
+- 8 hours of LTC training prior to **each** license renewal after that
+- For California Partnership for LTC products: 8 hours of general LTC CE plus 8 hours of **classroom-only** CE specifically on the Partnership before you market any Partnership-certified policy, then 8 hours of classroom Partnership training in each two-year license approval period
 
-These LTC hours are in addition to — not part of — your standard 24-hour CE requirement. Agents selling LTC need to plan for the extra hours accordingly.
+Note the two things most often gotten wrong here. The ongoing requirement is 8 hours, not 4 — there is no shortened LTC refresher in California. And these hours are not bolted on outside your CE total: the statute provides that for resident licensees the LTC training "shall count toward the licensee's continuing education requirement," though it also warns that satisfying it "may still result in completing more than the minimum number of continuing education hours." In practice, an LTC-selling agent may finish a cycle above 24 hours — but the LTC hours themselves are credited, not duplicated.
 
 ## Annuity Training CE Requirement
 
 Agents selling annuities in California must complete annuity-specific training:
 
-- 8-hour initial annuity training before the first annuity sale
-- 4-hour annuity refresher CE every 2 years
+- An initial 8-hour California-specific annuity course before soliciting any individual customer to sell annuities
+- A 4-hour California-specific annuity course before your license expires, for any term in which you sold annuities
 
-These hours can count toward your 24-hour CE requirement, but the training specifically must be approved annuity content. This reflects California's enhanced focus on annuity suitability under SB 263.
+Watch the second one. CDI is explicit that completing an 8-hour course in a later renewal period does not satisfy the 4-hour requirement — they are distinct courses, and the 8-hour version does not substitute for the ongoing 4-hour training. Unlike the front-loaded LTC schedule, the annuity hours are straightforwardly part of your total: CDI states the annuity and variable life training hours "are part of, and not in addition to, the 24-hour continuing education requirements." The training must still be approved annuity content. This reflects California's enhanced focus on annuity suitability under SB 263.
 
-## The 20-Year Exemption
+## The 30-Year / Age 70 CE Exemption
 
-California offers a reduced CE schedule for long-tenured agents. If you've held your California resident producer license continuously for 30 years or more AND have been designated with specific professional designations (CLU, ChFC, CPCU, or similar), you may qualify for a reduced CE requirement.
+California does offer long-tenured agents a way out of CE, but it has nothing to do with professional designations. Holding a CLU, ChFC or CPCU does not exempt you from California CE, and it never has.
 
-This is a narrow exemption. Most agents don't qualify, and even those who do still have some ongoing CE obligations. Confirm with CDI whether you're eligible.
+Under Cal. Ins. Code § 1749.3, CDI grants the exemption only to a licensee who is:
+
+- 70 years of age or older, **and**
+- a licensee in good standing for 30 continuous years in the State of California
+
+Both conditions, not either one. There is also a hard cutoff that surprises people: the exemption does not apply to anyone licensed for the first time on or after January 1, 2010.
+
+When it applies, it is a full exemption from the 24-hour CE requirement — not a reduced schedule. But it does not clear the product-specific training: an exempt licensee who markets long-term care contracts or offers to sell annuity products must still meet the training required for those products under Cal. Ins. Code §§ 1749.8 and 10234.93. Confirm eligibility with CDI before you stop completing CE.
 
 ## What Counts as Approved CE
 
@@ -94,9 +101,9 @@ Before enrolling in any CE course, confirm it's on CDI's approved provider and c
 
 ## When Your CE Is Due
 
-Your CE requirement is tied to your license renewal date. In California, resident producer licenses are generally issued as non-expiring once initial licensing is complete — but you must still complete CE and pay renewal fees every 2 years.
+Your CE requirement is tied to your license expiration date. California resident producer licenses are not non-expiring — they are issued for two-year terms and they do expire. Under Cal. Ins. Code § 1630, the term of your first license begins the date the license is issued and expires on the last day of that same calendar month two years later. Any additional licenses issued later expire at the same time as that first one.
 
-Your renewal date is fixed based on your original licensing date. CDI sends renewal reminders, but you're responsible for tracking your own deadline.
+So your renewal date is fixed by your original licensing date, and CE plus the renewal fee must be completed before it. CDI sends renewal reminders, but you're responsible for tracking your own deadline — an expired license is an expired license, and the cost of fixing one is materially higher than renewing on time.
 
 ## Consequences of Missing CE
 
@@ -112,7 +119,7 @@ If you don't complete CE by your renewal deadline:
 
 1. When exactly is my CE due? California ties CE to your 2-year renewal cycle, which is based on your original license date. Confirm your specific deadline in CDI's online producer portal.
 
-2. Can I carry over extra CE hours to the next renewal cycle? No. Hours completed in one cycle only apply to that cycle. Excess hours don't roll forward.
+2. Can I carry over extra CE hours to the next renewal cycle? Yes — California credits excess hours forward. CDI's guidance is that a new CE cycle begins the day after the expiration date listed on your renewal form, and once the new cycle begins the excess hours should be reflected in the new license term. Hours completed while a license is expired or inactive are likewise credited toward the appropriate license term. If excess hours you completed on time aren't showing, check your CDI education record before you buy more coursework.
 
 3. If I hold multiple lines (Life/Health + P&C), do I need separate 24 hours for each? Generally no — the 24-hour requirement covers multiple lines for most holders. However, specific line-based content and training requirements (like LTC and annuity training) apply separately.
 

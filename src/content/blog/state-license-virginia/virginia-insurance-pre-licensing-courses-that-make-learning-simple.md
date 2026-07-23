@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by itay verchik on Pexels
 ---
 
-Whether you want to become a life, health, or property and casualty insurance agent, [Virginia insurance pre-licensing courses](/virginia/prelicensing) can make your entire learning experience straightforward. You might feel overwhelmed by the state requirements and exam prep steps, but having a clear roadmap can save you huge amounts of time. Below, you will find everything you need to know about getting your [Virginia insurance license](/virginia), from who qualifies, to how soon you can get started, and the best ways to stay on top of your [continuing education](/virginia/continuing-education).
+Whether you want to become a life, health, or property and casualty insurance agent, a clear study roadmap can make the whole process straightforward and save you huge amounts of time. One scope note up front: JustInsurance's [Virginia pre-licensing courses](/virginia/prelicensing) prepare you for the life and health lines; property and casualty candidates study directly to the Prometric P&C content outline, since Virginia does not require — or offer — a prelicensing course for that line. Below, you will find everything you need to know about getting your [Virginia insurance license](/virginia), from who qualifies, to how soon you can get started, and the best ways to stay on top of your [continuing education](/virginia/continuing-education).
 
 ## Start your journey
 
@@ -58,7 +58,7 @@ Once you have completed any optional pre-licensing hours you chose to take, it i
 
 On exam day, do not forget to bring the proper identification. You will usually have a certain time limit to complete the test, so factor in any breaks you might need. Stay calm and methodical. If you stumble on a difficult question, mark it and move on, then come back at the end with a fresh perspective.
 
-Each license line has its own passing score. You will receive your results immediately after completing the exam. Should you not pass the first time, do not lose heart. You can retake it, though you may have to wait a certain period or pay another exam fee. Use the interval to fortify your weaker areas, and you will likely do better on the next round.
+Virginia uses the same passing standard for every line — 70% — so you can set one target and hold to it whether you are sitting for Life and Annuities, Health, the combined Life, Annuities and Health exam, Property and Casualty, or Personal Lines. You will receive your results immediately after completing the exam, with a score report showing your overall percentage plus your percentage in each content section. Should you not pass the first time, do not lose heart. You can retake it, though you may have to wait a certain period or pay another exam fee. Use the interval to fortify your weaker areas, and you will likely do better on the next round.
 
 ## Submit your application
 

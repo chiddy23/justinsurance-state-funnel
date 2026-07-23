@@ -10,7 +10,7 @@ import StudyGuideStateGrid from "@/components/StudyGuideStateGrid";
 import PracticeQuestionCard from "@/components/PracticeQuestionCard";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 import { ALL_STATE_SLUGS, STATES, type StateData } from "@/lib/states";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, stateClaims } from "@/lib/prelicensing-status";
 import { formatPassingScore } from "@/lib/exam-score";
 import studyGuideStates from "@/lib/study-guide-states.json";
 import {
@@ -88,6 +88,42 @@ const videoSchema = {
 };
 
 const VALID_SLUGS = new Set(ALL_STATE_SLUGS);
+
+// This is a NATIONAL page, so an unqualified "state-approved prelicensing
+// provider" would assert a credential in states that do not issue one. A state
+// prelicensing-provider approval only exists where prelicensing is MANDATED, and
+// only counts once our approval has actually issued — exactly what
+// stateClaims().canClaimPrelicensingApproval encodes (elsewhere the credential is
+// a continuing-education approval). Derived from STATES so the number can never
+// drift from src/lib/states.ts.
+const PRELICENSING_APPROVED_COUNT = Object.values(STATES).filter(
+  (s) => stateClaims(s).canClaimPrelicensingApproval,
+).length;
+
+// The companion figure. The page previously said we were a state-approved CE
+// provider "elsewhere" — an unbounded claim covering every jurisdiction this
+// guide names (51, D.C. included). states.ts records 50 states and no D.C. row,
+// and two of those 50 carry providerApprovalNumber: "PENDING", so "elsewhere"
+// asserted a credential we do not hold in three of them. Publish the number of
+// approvals we actually hold outside the prelicensing states, and name the
+// pending ones, instead of an "everywhere else" claim.
+const CE_APPROVED_ELSEWHERE_COUNT = Object.values(STATES).filter((s) => {
+  const c = stateClaims(s);
+  return c.canClaimCeApproval && !c.canClaimPrelicensingApproval;
+}).length;
+
+// "Washington" alone is ambiguous on a page whose state list also contains
+// Washington D.C., so the state is spelled out.
+const PENDING_APPROVAL_STATES = Object.values(STATES)
+  .filter((s) => stateClaims(s).approvalPending)
+  .map((s) => (s.name === "Washington" ? "Washington State" : s.name));
+
+const formatList = (items: string[]) =>
+  items.length <= 1
+    ? items.join("")
+    : items.length === 2
+      ? `${items[0]} and ${items[1]}`
+      : `${items.slice(0, -1).join(", ")}, and ${items[items.length - 1]}`;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Part 4 state table — exam provider and prelicensing hours are DERIVED AT BUILD
@@ -168,12 +204,129 @@ function contradictsStateFacts(text: string, facts: StateData): boolean {
   );
 }
 
+/**
+ * One-line retake summary built from states.ts, replacing the JSON's generic
+ * "24-hour wait; unlimited". Prefers the explicit cap sentence when the state
+ * records one, because "unlimited" is the specific claim that was wrong.
+ */
+function retakeSummary(facts: StateData): string {
+  const limit = (facts.examInfo.retakeLimitInfo || "").trim();
+  const wait = (facts.examInfo.retakeWaitingPeriod || "").trim();
+  if (limit) {
+    // Trim to the first sentence so the table cell stays readable.
+    const first = limit.split(/(?<=\.)\s/)[0];
+    return first.length > 180 ? first.slice(0, 177) + "..." : first;
+  }
+  if (wait) return `Retake after ${wait}`.slice(0, 180);
+  return "See your state page for retake rules";
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Vendor-verified corrections to the fields states.ts cannot supply.
+//
+// study-guide-states.json hard-codes questions: 150 for 50 of the 51 rows (160
+// for Florida) and a 2.5-hour or 3-hour time limit for every row, and states.ts
+// carries neither a question-count nor a time-limit field — so the derivation
+// below cannot catch a wrong count. Washington D.C. has no states.ts record at
+// all, so NOTHING is derived for it and every one of its values is
+// hand-authored. Each row here was verified against the exam vendor's or the
+// state's own current publication, cited inline.
+//
+// OPEN: the remaining rows still carry the hand-authored 150 / 2.5-3 hours. Two
+// have since been confirmed accurate and need no correction — California (CDI's
+// own "Examinations: Time Limit and Number of Questions" table: Life, Accident &
+// Health or Sickness, 150 questions, 3 hours) and Texas (below) — but the rest
+// are unverified, and 15 states carry noCombinedExam: true in states.ts, where a
+// single question count and time limit cannot describe two separate exams.
+// ─────────────────────────────────────────────────────────────────────────────
+const ROW_CORRECTIONS: Record<string, Partial<StudyGuideState>> = {
+  // Florida DFS / Pearson VUE, Florida Insurance Examination Content Outlines
+  // #121003 (eff. 01/01/2026), "Florida Agent's Health & Life (including
+  // Annuities & Variable Contracts)" — the 2-15:
+  //  • "150 scored questions plus 15 pretest questions" = 165 items. The row
+  //    said 160, states.ts records "approximately 150" (that is the SCORED
+  //    count). This page counts total items presented, the same convention as
+  //    the Texas and D.C. rows below, so the corrected figure is 165.
+  //  • "Time limit: 2.75 hours" — 2 hours 45 minutes, confirmed independently by
+  //    the Pearson VUE Florida Insurance Licensing Candidate Handbook #121000
+  //    back cover ("InsFL-LHA05 … 2 hours, 45 minutes"). The row said 2.5 hours.
+  //  • Weights, verbatim from the outline: general knowledge 10 + 10 + 8 + 5
+  //    (life) + 11 + 10 + 4 + 4 (health) + 5 (field underwriting) = 67%; Florida
+  //    statutes 13% common to all lines + 10% including variable products + 10%
+  //    pertinent to health insurance = 33%. The row's "FL Laws 27%" understated
+  //    the state-law load by six points.
+  //  • Handbook, Score Reporting: "The passing score for all examinations is
+  //    70%. This score is computed by dividing the number of questions answered
+  //    correctly by the total number of examination questions." Raw percentage,
+  //    which is what the derived `pass` already renders — left alone.
+  //  • The row's failure points listed Florida No-Fault/PIP auto insurance and
+  //    Citizens Property Insurance Corporation. Neither appears anywhere in the
+  //    2-15 outline — both are General Lines (2-20) property-casualty topics —
+  //    so they are replaced with the outline's own heaviest blocks.
+  //  • "Florida has a 40-hour pre-licensing requirement" was a blanket claim.
+  //    states.ts records 30 hours (life), 40 (health) and 60 (combined), which
+  //    is what the card's own Pre-Licensing field displays.
+  Florida: {
+    questions: 165,
+    time: "2 hours 45 minutes",
+    topics: [
+      "Life general knowledge 33%",
+      "Health general knowledge 29%",
+      "Field underwriting 5%",
+      "FL law — all lines 13%",
+      "FL law — life & variable products 10%",
+      "FL law — health insurance 10%",
+    ],
+    fails: [
+      "Florida law is the heaviest single block on the 2-15 — 33% of the scored questions, split into an all-lines section (13%), a life and variable products section (10%), and a health insurance section (10%).",
+      "Variable contracts, which Florida tests twice over: inside the life product sections and again in the 10% Florida-law block that covers variable products.",
+      "The health half of the exam, which carries the same weight as the life half — types of health policies (11%) plus health policy provisions, clauses and riders (10%).",
+    ],
+    law: "Florida sets prelicensing hours by line: 30 hours for the 2-14 Life (including Annuities & Variable Contracts) license, 40 hours for the 2-40 Health license, and 60 hours for the combined 2-15 Health & Life license. State law is also the heaviest part of the 2-15 exam — Florida statutes, rules and regulations account for 33% of the scored questions across three separate blocks (all lines, life and variable products, and health insurance).",
+    tip: "The Florida 2-15 Health & Life exam is 165 questions — 150 scored plus 15 unscored pretest questions mixed in among them — with a 2-hour, 45-minute limit. Passing is 70%, computed as the number of questions you answer correctly divided by the total number of questions on the exam. Every Florida licensing exam is taken in person at a Pearson VUE test center; Florida discontinued remote proctoring on February 16, 2024.",
+  },
+
+  // Pearson VUE, Texas Insurance Content Outlines #124401 (eff. 12/01/2025):
+  // "LIFE AND HEALTH-GENERAL KNOWLEDGE … (100 scoreable questions plus 10
+  // pretest questions)" + "LIFE and HEALTH AGENT STATE SPECIFIC … (30 scoreable
+  // questions plus 5 pretest questions)" = 145 items, 130 of them scored.
+  // The 2.5-hour (150-minute) limit in the row is correct and is left alone.
+  Texas: { questions: 145 },
+
+  // Pearson VUE, District of Columbia Insurance Licensing Candidate Handbook
+  // #120900 and DC Insurance Content Outlines #120901 (eff. 09/02/2025):
+  //  • "All examinations are now offered individually. Combination examinations
+  //    are no longer available." D.C. has no combined Life & Health exam, so the
+  //    single-exam framing is carried by the tip below.
+  //  • Life = (50 + 5 general) + (30 + 5 D.C.-specific) = 90 items, 80 scored.
+  //    Accident & Health = (50 + 5) + (25 + 5) = 85 items, 75 scored.
+  //  • Back cover "AVAILABLE EXAMINATIONS": Life 2 hours, Health 2 hours — not
+  //    the 2.5 hours the JSON applied to every row.
+  //  • "REQUIRED SCALED PASSING SCORES — Producer 70" is a SCALED cut, not a
+  //    percentage of questions answered correctly.
+  //  • "A mandatory course of at least forty (40) hours of Pre-Licensing is not
+  //    mandated by the Commissioner of Insurance for the District of Columbia";
+  //    candidates show proof of a course of study, with no hour mandate. The
+  //    previous "20 hours" was hand-authored and no source supports it.
+  //  • The handbook sets a 24-hour wait before rebooking and states no attempt
+  //    cap either way, so the unsupported "unlimited" claim is dropped.
+  "Washington D.C.": {
+    questions: 90,
+    time: "2 hours per exam",
+    pass: "70 (scaled score)",
+    hours: "No hour mandate — proof of a course of study",
+    retake: "Must wait 24 hours before booking a retake",
+    tip: "D.C. gives every line its own exam — combination examinations are no longer offered — so a Life & Health candidate sits two separate tests. Life is 90 questions (80 scored) in 2 hours; Accident & Health is 85 questions (75 scored) in 2 hours. Both are graded against a scaled 70. Pearson VUE test centers serving D.C. include three in the District plus sites in Vienna, VA and Baltimore, MD.",
+  },
+};
+
 const tableStates: StudyGuideState[] = studyGuideStates.map((row) => {
   const facts: StateData | undefined = STATES[toSlug(row.name)];
+  const correction = ROW_CORRECTIONS[row.name] ?? {};
 
-  // Washington D.C. has no row in states.ts, so nothing can be derived for it.
-  // Its hand-authored values pass through untouched rather than be guessed at.
-  if (!facts) return row;
+  // Washington D.C. has no row in states.ts, so nothing can be derived for it —
+  // only the vendor-verified corrections above are applied.
+  if (!facts) return { ...row, ...correction };
 
   const admin = shortProvider(facts.examInfo.examProvider);
   return {
@@ -186,12 +339,23 @@ const tableStates: StudyGuideState[] = studyGuideStates.map((row) => {
     // Derive it from the same helper the state pages use so this table cannot
     // drift again — exactly like admin/hours above.
     pass: formatPassingScore(toSlug(row.name), facts.examInfo.passingScore),
+    // The JSON carried five generic retake strings across all 51 rows — mostly
+    // "24-hour wait; unlimited" — which is wrong for at least a dozen states that
+    // states.ts records as capped or escalating: Arizona (4 attempts / 12 months),
+    // Florida (5), New Mexico (4 + 6-month lockout), South Carolina (6), West
+    // Virginia (8), Alabama (90/180-day escalations), Kansas (6-month wait after
+    // the 3rd), Oklahoma (30-day), Tennessee (10/30-day), Georgia (14/60-day).
+    // Telling a candidate retakes are unlimited when their state locks them out is
+    // a material error, so derive it from the same source the state pages use.
+    retake: retakeSummary(facts),
     law: contradictsStateFacts(row.law, facts)
       ? `We're re-verifying our ${row.name} law summary against primary sources. The current, source-verified ${row.name} requirements are on the ${row.name} state page linked below.`
       : row.law,
     tip: contradictsStateFacts(row.tip, facts)
       ? `Exam-day logistics for ${row.name} — test-center options and on-screen tools — are confirmed by ${admin} when you schedule.`
       : row.tip,
+    // Vendor-verified overrides last: they correct fields states.ts cannot supply.
+    ...correction,
   };
 });
 
@@ -264,7 +428,7 @@ function Callout({ kind, label, children }: { kind: "tip" | "example"; label: st
 const articleSchema = generateArticleSchemaWithReviewer({
   headline: "The Ultimate Insurance Exam Study Guide",
   description:
-    "Everything you need to pass the Life & Health insurance licensing exam on your first try — universal concepts, state-by-state breakdowns, practice questions, and a 7-day study plan.",
+    "A free Life & Health insurance exam study framework — universal concepts, state-by-state breakdowns, practice questions, and a 7-day study plan.",
   datePublished: "2026-04-15",
   url: "https://justinsuranceco.com/study-guide",
 });
@@ -290,9 +454,9 @@ export default function StudyGuidePage() {
             The <em className="text-gold not-italic">Ultimate</em> Insurance Exam Study Guide
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Everything you need to pass the Life &amp; Health insurance licensing exam on your
-            first try — universal concepts, state-by-state breakdowns, 10 practice questions, and
-            a 7-day study plan. Nationwide coverage.
+            A free, comprehensive Life &amp; Health exam study framework — universal concepts,
+            state-by-state breakdowns, 10 practice questions, and a 7-day study plan.
+            Nationwide coverage.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <a href="#states" className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors">
@@ -376,7 +540,7 @@ export default function StudyGuidePage() {
             Start with Part 2 to build your universal foundation. Work through the Part 3 glossary. Then jump directly to your state in Part 4. Use Parts 5–9 to test yourself, memorize key concepts, and prepare for exam day.
           </Callout>
           <p className="text-gray-700 leading-relaxed">
-            This guide covers nationwide for Life &amp; Health licenses, and is maintained by the team at JustInsurance — a state-approved prelicensing provider that&apos;s helped 20,000+ students earn their licenses.
+            This guide covers all 51 jurisdictions for Life &amp; Health licenses, and is maintained by the team at JustInsurance — a state-approved prelicensing provider in the {PRELICENSING_APPROVED_COUNT} states where prelicensing education is mandated and our approval has issued, and a state-approved continuing-education provider in {CE_APPROVED_ELSEWHERE_COUNT} more states. Our provider approvals in {formatList(PENDING_APPROVAL_STATES)} are still pending. We&apos;ve helped 20,000+ students earn their licenses.
           </p>
         </div>
       </section>
@@ -390,7 +554,7 @@ export default function StudyGuidePage() {
           <p className="text-gray-700 mb-4 leading-relaxed">Life insurance pays a death benefit to your beneficiaries when you die. The exam tests every variation of how that works — focusing on the balance between cost of protection and cash value accumulation.</p>
           <ConceptList title="Life Insurance Types at a Glance" items={LIFE_INSURANCE_TYPES} />
           <Callout kind="tip" label="Insider Tip — How It's Tested">
-            Variable products <strong>ALWAYS</strong> require a securities registration (FINRA Series 6 or 63). If a question describes an agent selling variable products without a securities license — the answer involving a violation is almost always correct.
+            Variable products <strong>ALWAYS</strong> require a FINRA securities registration on top of the insurance license — the Series 6 or Series 7, taken after the SIE and held through a member broker-dealer. Most states also require the Series 63 as a state securities registration, but a Series 63 by itself never authorizes variable product sales. If a question describes an agent selling variable products without a securities license — the answer involving a violation is almost always correct.
           </Callout>
 
           <h3 className="text-xl font-bold text-navy mt-8 mb-4">Annuities</h3>
@@ -607,8 +771,8 @@ export default function StudyGuidePage() {
           <div className="bg-navy rounded-2xl p-8 text-center text-white mt-8">
             <h3 className="text-2xl font-bold mb-3">🎯 Your Two Best Tools for Final Exam Prep</h3>
             <p className="text-blue-100 mb-6">
-              The single biggest predictor of first-time passing is how many practice questions
-              you&apos;ve done. Pair this guide with a state-specific practice exam (or the full
+              Working through practice questions is one of the most useful ways to find your gaps
+              before exam day. Pair this guide with a state-specific practice exam (or the full
               prelicensing course if you haven&apos;t started yet) and you&apos;ll walk in confident.
             </p>
             <div className="flex flex-wrap justify-center gap-3">

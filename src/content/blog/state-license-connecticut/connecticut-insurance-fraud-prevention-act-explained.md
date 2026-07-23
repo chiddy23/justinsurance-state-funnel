@@ -46,7 +46,7 @@ Specific anti-fraud statutes. Various sections address particular types of fraud
 
 Connecticut Insurance Department enforcement. CID has authority to investigate fraud-related licensing violations and impose disciplinary penalties.
 
-Connecticut Insurance Fraud Bureau. Specialized unit focused on insurance fraud investigation.
+CID Fraud Investigations Unit. Connecticut has no separately named state "Insurance Fraud Bureau" — insurance and arson fraud are investigated inside the Connecticut Insurance Department by its Fraud Investigations Unit, which also supports insurers' anti-fraud programs and refers criminal matters for prosecution.
 
 Criminal prosecution. Insurance fraud can be prosecuted criminally by Connecticut prosecutors.
 
@@ -144,9 +144,9 @@ Connecticut producers have specific anti-fraud obligations:
 
 Accurate Application Information. Producers must take reasonable steps to ensure information on applications is accurate. This means asking questions clearly, recording answers accurately, and not encouraging or facilitating misrepresentation.
 
-Reporting Suspected Fraud. Producers who suspect insurance fraud have obligations to report it. Specific reporting channels apply depending on the type of fraud.
+Reporting Suspected Fraud. Connecticut law imposes a mandatory duty on any person — including producers — to report suspected health insurance fraud to the Insurance Commissioner (Conn. Gen. Stat. § 53-445, part of the Health Insurance Fraud Act). For other lines, no single statute compels an individual producer to report, though reporting is legally protected, strongly encouraged, and typically required under your carrier contracts. Use the reporting channel that fits the type of fraud.
 
-Cooperation with Investigations. When the CID, Connecticut Insurance Fraud Bureau, or carriers investigate potential fraud, licensed producers must cooperate fully.
+Cooperation with Investigations. When the CID (through its Fraud Investigations Unit) or carriers investigate potential fraud, licensed producers must cooperate fully.
 
 Avoiding Inducements to Fraud. Producers cannot encourage clients to misrepresent information, file false claims, or otherwise participate in fraudulent activities.
 
@@ -156,13 +156,13 @@ Premium Handling. Premiums collected from clients must be remitted to insurers p
 
 If you suspect insurance fraud:
 
-Connecticut Insurance Fraud Bureau. Connecticut maintains a specialized fraud investigation unit. Reports can typically be made:
+CID Fraud Investigations Unit. The Connecticut Insurance Department's Fraud Investigations Unit handles insurance and arson fraud. You can report:
 
-Online through state portals
+By phone at (860) 297-3933
 
-By phone
+By email to ctinsdept.fraudunit@ct.gov
 
-In writing
+Online by filing a complaint at portal.ct.gov/cid/file-a-complaint
 
 Your insurance carrier. For fraud schemes involving their policies. Carriers have dedicated fraud investigation units.
 
@@ -290,7 +290,7 @@ Senior fraud. Schemes targeting Connecticut's substantial senior population, inc
 
 ## Recent Connecticut Fraud Enforcement
 
-Connecticut's Insurance Fraud Bureau and CID actively investigate and pursue fraud cases. Producers should:
+The Connecticut Insurance Department, through its Fraud Investigations Unit, actively investigates and pursues fraud cases. Producers should:
 
 Stay informed about active enforcement priorities
 
@@ -306,9 +306,9 @@ Consult with attorneys for complex situations
 
 - What constitutes insurance fraud in Connecticut? Insurance fraud includes any intentional misrepresentation, concealment, or false statement made to obtain insurance benefits, lower premiums, or otherwise gain advantage in insurance transactions. Both producers and consumers can commit insurance fraud.
 - What are the penalties for insurance fraud in Connecticut? Penalties depend on the severity and amount involved, ranging from misdemeanor charges with fines and probation to felony charges with imprisonment. Producers convicted of fraud almost always lose their licenses.
-- Am I obligated to report suspected fraud as a producer? Yes. Connecticut producers have obligations to report suspected fraud through appropriate channels (carriers, CID, Connecticut Insurance Fraud Bureau, or law enforcement depending on the type of fraud).
+- Am I obligated to report suspected fraud as a producer? For suspected health insurance fraud, yes — Connecticut law (Conn. Gen. Stat. § 53-445) requires any person, including producers, to report it to the Insurance Commissioner. For other lines, no single statute compels an individual producer to report, but reporting is legally protected and strongly encouraged, and carrier contracts typically require it — so report suspected fraud through the appropriate channel (your carrier or the Connecticut Insurance Department's Fraud Investigations Unit).
 - What happens if a client asks me to misrepresent something on an application? You must refuse. Helping clients misrepresent information on applications is fraud and will result in loss of your license. Document the conversation if necessary.
-- How do I report insurance fraud in Connecticut? Contact your carrier first for fraud involving their policies. For broader concerns, report to the CID at (860) 297-3845, the Connecticut Insurance Fraud Bureau, or law enforcement for criminal matters.
+- How do I report insurance fraud in Connecticut? Contact your carrier first for fraud involving their policies. For broader concerns, report to the Connecticut Insurance Department's Fraud Investigations Unit at (860) 297-3933 (or ctinsdept.fraudunit@ct.gov), or law enforcement for criminal matters.
 
 ## Build Anti-Fraud Awareness Into Your Practice
 

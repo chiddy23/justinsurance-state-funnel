@@ -12,13 +12,13 @@ image: /blog/images/why-getting-a-colorado-life-insurance-license-is-worth-it.jp
 imageAlt: "Colorado Annuity Best Interest Training: The One-Time 4-Hour Course Producers Must Complete"
 ---
 
-Colorado requires every insurance producer who sells, solicits, or negotiates annuity products to complete a one-time 4-hour Annuity Best Interest training course before transacting any annuity business. This requirement has been in effect since November 1, 2022 under Colorado Regulation 4-1-8 and implementing guidance under the NAIC Suitability in Annuity Transactions Model Regulation (2020 revision). It is not a recurring CE obligation — complete it once and the training prerequisite is permanently satisfied for Colorado. But it is a hard prerequisite: a producer who sells an annuity product without completing the training has violated Colorado insurance law, regardless of how long they have been licensed or how experienced they are with annuity products.
+Colorado requires every insurance producer who sells, solicits, or negotiates annuity products to complete a one-time 4-hour Annuity Best Interest training course before transacting any annuity business. This requirement has been in effect since November 1, 2022 under Colorado Regulation 4-1-11 (3 CCR 702-4) and implementing guidance under the NAIC Suitability in Annuity Transactions Model Regulation (2020 revision). It is not a recurring CE obligation — complete it once and the training prerequisite is permanently satisfied for Colorado. But it is a hard prerequisite: a producer who sells an annuity product without completing the training has violated Colorado insurance law, regardless of how long they have been licensed or how experienced they are with annuity products.
 
 This post covers exactly what the requirement is, what the training covers, how it fits into your overall CE obligations, how reciprocity works across states, what your carrier requires separately from the state, and the specific rule that catches producers off guard — the distinction between the state's training requirement and the carrier's product-specific training requirement.
 
 ## The Legal Basis and Effective Date
 
-Colorado's annuity best interest training requirement flows from Colorado Regulation 4-1-8 and CRS § 10-16-133, implementing the NAIC's 2020 revision to the Suitability in Annuity Transactions Model Regulation (#275). The NAIC model elevated the standard of conduct for annuity recommendations from suitability (a reasonable basis that the product is appropriate) to best interest (the producer must place the consumer's interests above the producer's own financial interests when recommending an annuity). Colorado adopted the revised standard effective November 1, 2022.
+Colorado's annuity best interest training requirement flows from Colorado Regulation 4-1-11 (3 CCR 702-4), implementing the NAIC's 2020 revision to the Suitability in Annuity Transactions Model Regulation (#275). The NAIC model elevated the standard of conduct for annuity recommendations from suitability (a reasonable basis that the product is appropriate) to best interest (the producer must place the consumer's interests above the producer's own financial interests when recommending an annuity). Colorado adopted the revised standard effective November 1, 2022.
 
 The training requirement is the mechanism by which the state ensures producers understand the elevated standard before acting under it. You cannot sell annuities in Colorado without demonstrating — through course completion — that you know what the best interest standard requires of you.
 
@@ -82,7 +82,7 @@ In subsequent cycles: The annuity training does not apply toward CE totals again
 
 This is the distinction that catches the most producers off guard. Colorado's state training requirement (the 4-hour DOI-approved course) and the carrier's product-specific training requirement are two separate, independently required obligations. Completing one does not satisfy the other.
 
-State training (Regulation 4-1-8): Completed once through a Colorado DOI-approved CE provider. Covers general best interest standards, annuity concepts, documentation obligations, and disclosure requirements. Proves to the state that the producer understands the regulatory framework for annuity sales. Required before any annuity sale with any carrier.
+State training (Regulation 4-1-11): Completed once through a Colorado DOI-approved CE provider. Covers general best interest standards, annuity concepts, documentation obligations, and disclosure requirements. Proves to the state that the producer understands the regulatory framework for annuity sales. Required before any annuity sale with any carrier.
 
 Carrier product-specific training: Required by each insurer whose annuity products the producer wants to sell. Covers the specific features, benefits, limitations, and sales procedures for that carrier's specific annuity products. Not transferable between carriers — training completed for Carrier A's indexed annuity product does not satisfy Carrier B's product training requirement. Carriers are responsible under the NAIC model regulation for verifying that producers have completed both the state general training and the carrier's own product training before allowing a producer to sell their annuity products.
 
@@ -110,7 +110,7 @@ Steps to verify:
 
 Check the Colorado DOI's approved CE course list at doi.colorado.gov and confirm the course carries Colorado approval and is designated as annuity training
 
-Confirm the provider's course description explicitly states it satisfies Colorado's Regulation 4-1-8 / NAIC Model 275 best interest training requirement
+Confirm the provider's course description explicitly states it satisfies Colorado's Regulation 4-1-11 / NAIC Model 275 best interest training requirement
 
 After completion, verify that your Sircon transcript reflects the 4-hour completion under the annuity training category
 
@@ -118,7 +118,7 @@ Most major national CE providers — including those whose courses are available
 
 ## What Happens If You Sell an Annuity Without Completing the Training
 
-Selling, soliciting, or negotiating an annuity product in Colorado without completing the required 4-hour best interest training is a violation of Regulation 4-1-8. Potential consequences include:
+Selling, soliciting, or negotiating an annuity product in Colorado without completing the required 4-hour best interest training is a violation of Regulation 4-1-11. Potential consequences include:
 
 License suspension or revocation — the Commissioner has authority to suspend or revoke a producer's license for violations of Title 10 and implementing regulations
 
@@ -146,7 +146,7 @@ Colorado's annuity best interest training is a one-time requirement. Complete it
 
 My carrier is requiring product-specific training in addition to the state course. Are these the same thing or different?
 
-They are different and both are required. The state 4-hour course (completed through a DOI-approved CE provider) satisfies Colorado Regulation 4-1-8 and proves to the state and all carriers that you understand the best interest regulatory framework. The carrier product-specific training (completed through the carrier's own training platform or through RegEd's ATP) covers the specific features of that carrier's annuity products and is required by each carrier before they permit you to sell their products. Completing the state course does not satisfy the carrier's product training, and completing a carrier's product training does not satisfy the state's regulatory course requirement. You need both — and you need carrier product training separately for each carrier whose annuity products you want to sell. Most producers complete the state 4-hour course first, then complete carrier product training for each carrier as they pursue appointments.
+They are different and both are required. The state 4-hour course (completed through a DOI-approved CE provider) satisfies Colorado Regulation 4-1-11 and proves to the state and all carriers that you understand the best interest regulatory framework. The carrier product-specific training (completed through the carrier's own training platform or through RegEd's ATP) covers the specific features of that carrier's annuity products and is required by each carrier before they permit you to sell their products. Completing the state course does not satisfy the carrier's product training, and completing a carrier's product training does not satisfy the state's regulatory course requirement. You need both — and you need carrier product training separately for each carrier whose annuity products you want to sell. Most producers complete the state 4-hour course first, then complete carrier product training for each carrier as they pursue appointments.
 
 I hold Life authority in Colorado but have never sold annuities and have no current plans to do so. Do I still need to complete the training?
 

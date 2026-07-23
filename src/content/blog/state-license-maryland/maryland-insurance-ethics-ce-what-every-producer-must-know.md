@@ -48,7 +48,7 @@ FEHB-to-individual transition counseling at separation or retirement
 
 TSP rollover advisory — requires Annuity Best Interest training; ethics reinforces best-interest documentation obligations
 
-Annuity advisory for federal retirees — Maryland's LTC tax credit context
+Long-term care insurance advisory — accurately representing Maryland's long-term care tax credit, a one-time credit of up to $500 per insured (Md. Tax-General § 10-718) that carries eligibility limits, without overstating it as a recurring or larger tax benefit
 
 Maryland Health Connection marketplace ethics: The complexity of Maryland's marketplace — state Premium Assistance subsidies, 400% FPL eligibility, Medicaid routing for clients below 138% FPL — creates specific ethics advisory obligations. Accurately routing clients between Medicaid, marketplace plans, and employer coverage requires precise knowledge and documentation.
 

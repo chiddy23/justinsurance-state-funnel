@@ -72,7 +72,7 @@ License suspension and revocation (CRS §§ 10-2-801 through 10-2-804): The Comm
 
 Civil money penalties (CRS § 10-3-1107): The Commissioner may impose civil penalties for violations of Title 10. Penalty amounts are specified by statute and can be assessed per violation. Willful violations carry higher maximum penalties.
 
-Criminal referral: For violations that constitute criminal offenses under Colorado law — including insurance fraud (CRS §§ 10-1-128 and 10-1-129) — the Commissioner may refer matters to the appropriate district attorney or the Colorado Attorney General for criminal prosecution.
+Criminal referral: For violations that constitute criminal offenses under Colorado law — insurance fraud is charged under CRS § 18-5-211 in the criminal code, while CRS §§ 10-1-128 and 10-1-129 govern the Title 10 reporting, immunity, and anti-fraud-plan side — the Commissioner may refer matters to the appropriate district attorney or the Colorado Attorney General for criminal prosecution.
 
 Hearings and due process (CRS §§ 10-1-108 and 10-1-109): Before the Commissioner may take adverse action — revoke a license, impose significant penalties, or issue a non-summary cease and desist — the affected party is entitled to notice and an opportunity for a hearing. The hearing is conducted under the Colorado Administrative Procedure Act. After the hearing, the Commissioner issues a final order. Final orders may be appealed to the Colorado Court of Appeals.
 
@@ -82,7 +82,7 @@ The summary cease and desist exception: In cases where the Commissioner determin
 
 The Commissioner implements Title 10 through two primary instruments below the statutory level:
 
-Division of Insurance Regulations (3 CCR 702): Formal regulations adopted through the Colorado Administrative Procedure Act rulemaking process. They have the force of law. Each regulation is numbered and organized under the 3 CCR 702 designation (Title 3 of the Colorado Code of Regulations, Chapter 702). Producers encounter DOI regulations constantly — Regulation 4-1-4 governs life insurance replacement, Regulation 4-1-8 governs annuity best interest, Regulation 1-2-1 governs producer fiduciary obligations, and dozens of others govern specific products, markets, and practices.
+Division of Insurance Regulations (3 CCR 702): Formal regulations adopted through the Colorado Administrative Procedure Act rulemaking process. They have the force of law. Each regulation is numbered and organized under the 3 CCR 702 designation (Title 3 of the Colorado Code of Regulations, Chapter 702). Producers encounter DOI regulations constantly — Regulation 4-1-4 governs life insurance replacement, Regulation 4-1-11 governs annuity best interest (Regulation 4-1-8 governs life insurance illustration disclosures), Regulation 1-2-1 governs producer fiduciary obligations, and dozens of others govern specific products, markets, and practices.
 
 Division Bulletins: The Division's interpretation of existing law or general statements of Division policy. Bulletins do not have the force of law — they are not binding in the way regulations are — but they represent the Division's position on how it will interpret and enforce specific statutory or regulatory provisions. The NFIP training bulletin and the LTC Partnership training bulletin are examples producers encounter in their practice. The DOI's website at doi.colorado.gov lists current regulations and bulletins.
 
@@ -94,11 +94,13 @@ CRS § 10-2-701 through 10-2-704 — Financial obligations of producers: The pro
 
 CRS § 10-3-1104 — Unfair methods of competition and deceptive practices: The eight prohibited acts — misrepresentation, coercion, defamation, unfair discrimination, controlled business, rebating, unfair claims practices, and fraud — that constitute actionable violations enforceable by the Commissioner. This is the most tested Title 10 provision on the Colorado insurance licensing exam.
 
-CRS § 10-1-128 and 10-1-129 — Colorado Insurance Fraud Statute: Makes willful false statements in insurance applications, policies, or claims a criminal offense. Class 5 felony for amounts over $1,000. Applies to producers who knowingly assist in fraud as well as to applicants and claimants who directly commit it.
+CRS §§ 10-1-128 and 10-1-129 — Fraudulent insurance acts (Title 10 side): Section 10-1-128 defines what a fraudulent insurance act is, requires insurers to maintain anti-fraud plans and to print the fraud warning on applications and claim forms, and grants immunity to those who report suspected fraud in good faith. Section 10-1-129 addresses enforcement. These are regulatory provisions — they do not themselves set criminal penalties.
+
+CRS § 18-5-211 — Insurance fraud (the criminal statute): The criminal exposure lives in Title 18, not Title 10, and it classifies by the type of act rather than by any dollar amount. Presenting an application or renewal request containing false material information, with intent to defraud, is a class 2 misdemeanor. Presenting a fraudulent claim — including staging a collision or claiming a loss outside the coverage period — is a class 6 felony, as is creating false evidence of insurance. Knowingly moving, diverting, or misappropriating premium or unearned premium funds belonging to an insurer is a class 5 felony. There is no dollar threshold anywhere in the statute. All of it applies to producers who knowingly assist in fraud as well as to the applicants and claimants who directly commit it — and premium misappropriation, the felony most likely to catch a producer, turns on the handling of trust funds covered by CRS §§ 10-2-701 through 10-2-704 above.
 
 CRS § 10-2-801 — Grounds for license denial, suspension, or revocation: The specific grounds on which the Commissioner may take adverse action against a producer license. Includes false applications, Title 10 violations, misappropriation, misrepresentation, felony conviction, and engaging in the business of insurance in violation of state law.
 
-CRS § 10-7-109 — Suicide clause (Life): Two-year period; return of premiums if suicide within two years.
+CRS § 10-7-109 — Suicide clause (Life): Colorado uses a one-year period, not the two years common in other states. After the first policy year, suicide is not a defense against payment of a life insurance policy — voluntary or involuntary, sane or insane. The section does not apply to accident policies or accidental death provisions.
 
 CRS § 10-16-104 — Mandated health benefits: Colorado's required health insurance coverage mandates including maternity, mammography, diabetes, mental health parity, and essential health benefits.
 
@@ -110,7 +112,7 @@ CRS § 10-19-101 through 10-19-115 — Long-Term Care Insurance: LTC policy stan
 
 Title 10 establishes the framework and the Commissioner's authority. DOI regulations implement the framework in operational detail. Together they govern virtually every aspect of a producer's compliance obligations.
 
-When a producer sells an annuity, three layers of law apply simultaneously: CRS § 10-2-401 (the producer must be licensed for the Life line), CRS § 10-16-133 and Regulation 4-1-8 (the annuity best interest training must be complete and the best interest standard must be met), and CRS § 10-3-1104 (the producer must not misrepresent the product, offer a rebate, or engage in any unfair trade practice in the course of the sale). A disclosure obligation, a training obligation, and a conduct obligation all arise from the same transaction.
+When a producer sells an annuity, three layers of law apply simultaneously: CRS § 10-2-401 (the producer must be licensed for the Life line), CRS § 10-16-133 and Regulation 4-1-11 (the annuity best interest training must be complete and the best interest standard must be met), and CRS § 10-3-1104 (the producer must not misrepresent the product, offer a rebate, or engage in any unfair trade practice in the course of the sale). A disclosure obligation, a training obligation, and a conduct obligation all arise from the same transaction.
 
 When a producer's license is threatened, Title 10's procedural provisions (notice, hearing, appeal rights) are the tools that protect the producer from arbitrary action. When a consumer files a complaint against a producer, Title 10's enforcement provisions are the mechanism by which the Division investigates and resolves it. Title 10 is not background law — it is the operating framework within which every Colorado insurance transaction takes place.
 

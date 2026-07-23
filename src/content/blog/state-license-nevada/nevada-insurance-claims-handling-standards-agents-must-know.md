@@ -333,5 +333,3 @@ Help clients understand these consequences when relevant.
 Even though you typically don't handle claims directly, claims knowledge makes you a better advocate for clients. At JustInsurance, our Nevada CE courses cover claims handling considerations relevant to producer practice.
 
 Enroll today and strengthen your Nevada insurance compliance foundation.
-
-There are your 4 NV State Laws & Regulations posts. Each covers a distinct angle — the Insurance Code broadly, senior protection laws, annuity suitability/Best Interest specifically, and claims handling standards — so they complement each other without overlap.

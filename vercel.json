@@ -47,16 +47,6 @@
       "statusCode": 301
     },
     {
-      "source": "/new-york",
-      "destination": "/",
-      "statusCode": 301
-    },
-    {
-      "source": "/new-york/:path*",
-      "destination": "/",
-      "statusCode": 301
-    },
-    {
       "source": "/refund-policy",
       "destination": "/terms#payment-refunds",
       "statusCode": 301

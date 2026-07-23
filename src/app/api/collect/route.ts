@@ -115,14 +115,15 @@ export async function POST(req: NextRequest) {
       ? Math.trunc(body.status)
       : null;
 
-  // Monitor-only scraper-signal bitmask (0..255) computed in the middleware
-  // (see computeSigBits). Nullable INT64, coerced exactly like status; older
-  // callers that omit it write NULL.
+  // Monitor-only scraper-signal bitmask computed in the middleware (see
+  // computeSigBits). Nullable INT64, coerced exactly like status; older callers
+  // that omit it write NULL. Upper bound is 511 (9 bits: bit8 = injected/fake-
+  // referrer observability was added 2026-07-23); widen again if more bits land.
   const sig_bits =
     typeof body.sig_bits === "number" &&
     Number.isFinite(body.sig_bits) &&
     body.sig_bits >= 0 &&
-    body.sig_bits <= 255
+    body.sig_bits <= 511
       ? Math.trunc(body.sig_bits)
       : null;
 

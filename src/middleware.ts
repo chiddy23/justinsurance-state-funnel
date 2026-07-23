@@ -52,13 +52,28 @@ const GONE_BODY =
 //   4 (16)  sec-fetch-mode present
 //   5 (32)  accept-language present & non-empty
 //   6 (64)  UA claims desktop Safari (Version/ + Safari, no Chrome)
-//   7 (128) CANDIDATE scraper verdict (composite — see below)
+//   7 (128) CANDIDATE scraper verdict — CLIENT-HINTS-CENTRIC composite (below).
+//           A genuine modern Chrome ALWAYS sends sec-ch-ua; a request claiming
+//           "Chrome/" with NO sec-ch-ua is the scraper tell. This no longer
+//           requires an empty referer (bit0), so it also catches the
+//           injected-referrer variant that started 2026-07-19.
+//   8 (256) Injected/fake-referrer tell — referer host is baidu/yandex, or a
+//           self-referrer with no client hints. OBSERVABILITY ONLY; NOT part of
+//           the bit7 verdict and NEVER used for enforcement.
 const KNOWN_SCRAPER_UAS: ReadonlyArray<string> = [
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
 ];
 
-function computeSigBits(req: NextRequest): number {
+// Sig-bits-only bot allow-list. USED EXCLUSIVELY inside computeSigBits to exempt
+// known search/social crawlers (plus HubSpot, which presents a plain Chrome UA)
+// from the bit7 verdict. This is intentionally SEPARATE from the geo-fence's
+// ALLOWED_BOT_UA: adding "hubspot" here must NOT widen what the geo-fence lets
+// through the region wall. Keep the two lists independent.
+const SIGBITS_UA_ALLOW =
+  /(googlebot|bingbot|applebot|duckduckbot|facebookexternalhit|linkedinbot|twitterbot|slackbot|google-inspectiontool|hubspot)/i;
+
+function computeSigBits(req: NextRequest, verifiedCrawler: boolean): number {
   try {
     const h = req.headers;
     const ua = h.get("user-agent") ?? "";
@@ -88,15 +103,61 @@ function computeSigBits(req: NextRequest): number {
       hasAdParam = false; // uncertain → treat as "no ad param" won't force bit7
     }
 
-    // Reuse the site's existing allowed-bot regex so Googlebot/Bingbot/etc.
-    // never get flagged as candidate scrapers.
-    const notAllowedBot = !ALLOWED_BOT_UA.test(ua);
+    // Sig-bits-only allow-list so Googlebot/Bingbot/HubSpot/etc. never get
+    // flagged as candidate scrapers. This is a belt on top of the spoof-proof IP
+    // check (verifiedCrawler): it also spares social/link-preview crawlers whose
+    // IPs we do not verify (applebot, facebookexternalhit, ...). It is DELIBERATELY
+    // separate from the geo-fence's ALLOWED_BOT_UA — HubSpot is exempt here but
+    // must not thereby be waved through the region wall.
+    const notAllowedBot = !SIGBITS_UA_ALLOW.test(ua);
 
+    // First-party returning-visitor exemption. A visitor carrying our own ji_vid
+    // (set on a prior real visit — read from BOTH the cookie and the query string,
+    // matching how logRequest / the collect route resolve it) is a returning human,
+    // never the cookieless scraper (which sends 0 ji_vid in the data). Exempt them
+    // from the bit7 verdict as defense-in-depth for when enforcement is enabled.
+    let hasJiVid = false;
+    try {
+      hasJiVid = !!(
+        req.cookies.get("ji_vid")?.value ||
+        req.nextUrl.searchParams.get("ji_vid")
+      );
+    } catch {
+      hasJiVid = false; // uncertain → never forces the verdict either way
+    }
+
+    // CLIENT-HINTS-CENTRIC verdict. The empty-referer requirement (bit0) is
+    // DROPPED so this catches BOTH the original no-referer scraper AND the
+    // 2026-07-19 injected-referrer variant (both omit sec-ch-ua). It stays
+    // clean of real customers: a genuine modern Chrome always sends sec-ch-ua
+    // (so bit3 clears BOTH branches); real non-Chrome browsers fail the Chrome-
+    // claim; the Safari branch is guarded by accept-language AND sec-ch-ua; any
+    // ad click (gclid/fbclid/utm) is exempt; returning visitors (ji_vid) are
+    // exempt; and verified Googlebot/Bingbot IPs are exempt.
     const bit7 =
-      bit0 &&
-      ((bit2 && !bit3) || (bit6 && !bit5)) &&
+      ((bit2 && !bit3) || (bit6 && !bit5 && !bit3)) &&
       notAllowedBot &&
-      !hasAdParam;
+      !hasAdParam &&
+      !hasJiVid &&
+      !verifiedCrawler;
+
+    // OBSERVABILITY-ONLY (bit8): injected/fake-referrer tell. A US/CA-only site
+    // seeing a baidu/yandex referer, or a self-referrer with no client hints,
+    // matches the injected-referrer scraper. NOT part of bit7, never enforced.
+    let bit8 = false;
+    try {
+      if (referer) {
+        const refHost = new URL(referer).hostname.toLowerCase();
+        const fakeSearchRef = /(?:^|\.)(?:baidu\.com|yandex\.(?:com|ru))$/.test(
+          refHost
+        );
+        const selfRefNoHints =
+          (refHost === APEX_HOST || refHost === WWW_HOST) && !bit3;
+        bit8 = fakeSearchRef || selfRefNoHints;
+      }
+    } catch {
+      bit8 = false; // unparseable referer → no signal
+    }
 
     return (
       (bit0 ? 1 : 0) |
@@ -106,7 +167,8 @@ function computeSigBits(req: NextRequest): number {
       (bit4 ? 16 : 0) |
       (bit5 ? 32 : 0) |
       (bit6 ? 64 : 0) |
-      (bit7 ? 128 : 0)
+      (bit7 ? 128 : 0) |
+      (bit8 ? 256 : 0)
     );
   } catch {
     // Any unexpected failure → emit a neutral 0 rather than risk a throw.
@@ -132,7 +194,10 @@ function logRequest(
   // HTTP status this request is being served (200 pass-through, 503 maintenance,
   // 403 geo-block). Warehoused so we can see whether scrapers are actually
   // getting content (200) or just harvesting the maintenance page (503).
-  served = 200
+  served = 200,
+  // Whether the client IP is in a published Googlebot/Bingbot range. Threaded
+  // in so sig_bits exempts verified crawlers (spoof-proof — see computeSigBits).
+  verifiedCrawler = false
 ): void {
   try {
     const { pathname, searchParams, origin } = req.nextUrl;
@@ -230,7 +295,7 @@ function logRequest(
       status: served,
       // Monitor-only scraper-signal bitmask (0..255). Purely a logged field —
       // computed defensively, never affects the response. See computeSigBits.
-      sig_bits: computeSigBits(req),
+      sig_bits: computeSigBits(req, verifiedCrawler),
     };
 
     event.waitUntil(
@@ -351,6 +416,171 @@ function isBlockedIp(ip: string): boolean {
   return false;
 }
 
+// ---------------------------------------------------------------------------
+// Verified-crawler exemption by PUBLISHED IP RANGE (spoof-proof).
+//
+// A scraper can fake a Googlebot/Bingbot user-agent but it cannot source
+// traffic from Google's or Microsoft's published crawler netblocks. We exempt
+// those IPs from the bit7 verdict AND from any gated enforcement. This is the
+// durable fix for the two legit crawlers the UA allow-list missed (a Google
+// fetcher from 66.249.90.205 whose UA lacked the "Googlebot" token, and
+// HubSpot presenting a plain Chrome UA).
+//
+// Ranges captured LIVE (do not hand-edit — refresh from source):
+//   Google:  https://developers.google.com/search/apis/ipranges/googlebot.json
+//            (creationTime 2026-07-22)
+//   Bing:    https://www.bing.com/toolbox/bingbot.json
+//
+// The dense, contiguous Google blocks are stored as their parent aggregates.
+// Each aggregate is wholly Google-owned crawler space (no third party sources
+// from it), so this stays spoof-proof while keeping the list small. Critically,
+// 66.249.64.0/19 also covers the observed real Googlebot-smartphone
+// 66.249.90.205 — which the granular published file does NOT list (it currently
+// stops at 66.249.79.x), so an exemption built from the raw /27s alone would
+// STILL have missed it.
+const VERIFIED_CRAWLER_CIDRS: ReadonlyArray<string> = [
+  // --- Google (googlebot.json) ---
+  "66.249.64.0/19", //  aggregate: published 66.249.64–79 /27s + covers 66.249.90.205
+  "192.178.4.0/22", //  aggregate: published 192.178.4–7 /27s
+  "2001:4860:4801::/48", // aggregate: published 2001:4860:4801:xx::/64 blocks
+  "34.100.182.96/28", "34.101.50.144/28", "34.118.66.0/28", "34.118.254.0/28",
+  "34.126.178.96/28", "34.146.150.144/28", "34.147.110.144/28", "34.151.74.144/28",
+  "34.152.50.64/28", "34.154.114.144/28", "34.155.98.32/28", "34.165.18.176/28",
+  "34.175.160.64/28", "34.176.130.16/28", "34.22.85.0/27", "34.64.82.64/28",
+  "34.65.242.112/28", "34.80.50.80/28", "34.88.194.0/28", "34.89.10.80/28",
+  "34.89.198.80/28", "34.96.162.48/28", "35.247.243.240/28",
+  // --- Bing (bingbot.json) ---
+  "157.55.39.0/24", "207.46.13.0/24", "40.77.167.0/24", "13.66.139.0/24",
+  "13.66.144.0/24", "52.167.144.0/24", "13.67.10.16/28", "13.69.66.240/28",
+  "13.71.172.224/28", "139.217.52.0/28", "191.233.204.224/28", "20.36.108.32/28",
+  "20.43.120.16/28", "40.79.131.208/28", "40.79.186.176/28", "52.231.148.0/28",
+  "20.79.107.240/28", "51.105.67.0/28", "20.125.163.80/28", "40.77.188.0/22",
+  "65.55.210.0/24", "199.30.24.0/23", "40.77.202.0/24", "40.77.139.0/25",
+  "20.74.197.0/28", "20.15.133.160/27", "40.77.177.0/24", "40.77.178.0/23",
+];
+
+// NOTE: no BigInt — this file's tsconfig target is < ES2020, so IPv6 addresses
+// are represented as an array of eight 16-bit group numbers and matched group
+// by group. IPv4 reuses the existing 32-bit ipToInt path. Edge-safe, no Node
+// APIs, never throws.
+
+/** Expand an IPv6 literal to eight 16-bit group numbers. Handles "::" and an
+ *  embedded IPv4 tail (e.g. ::ffff:1.2.3.4). Returns null for malformed input. */
+function ipv6ToGroups(ip: string): number[] | null {
+  let s = ip.trim();
+  const pct = s.indexOf("%"); // strip zone id
+  if (pct !== -1) s = s.slice(0, pct);
+  if (s.startsWith("[") && s.endsWith("]")) s = s.slice(1, -1);
+  if (!s.includes(":")) return null;
+  const halves = s.split("::");
+  if (halves.length > 2) return null;
+  const toGroups = (part: string): number[] | null => {
+    if (part === "") return [];
+    const gs = part.split(":");
+    const out: number[] = [];
+    for (const g of gs) {
+      if (g.includes(".")) {
+        const v4 = ipToInt(g); // embedded IPv4 → two 16-bit groups
+        if (v4 === null) return null;
+        out.push((v4 >>> 16) & 0xffff);
+        out.push(v4 & 0xffff);
+      } else {
+        if (g.length === 0 || g.length > 4 || /[^0-9a-fA-F]/.test(g)) return null;
+        out.push(parseInt(g, 16) & 0xffff);
+      }
+    }
+    return out;
+  };
+  const head = toGroups(halves[0]);
+  if (head === null) return null;
+  let groups: number[];
+  if (halves.length === 2) {
+    const tail = toGroups(halves[1]);
+    if (tail === null) return null;
+    const missing = 8 - head.length - tail.length;
+    if (missing < 0) return null;
+    groups = head.concat(new Array<number>(missing).fill(0), tail);
+  } else {
+    groups = head;
+  }
+  return groups.length === 8 ? groups : null;
+}
+
+type VCidr =
+  | { family: 4; base: number; mask: number }
+  | { family: 6; groups: number[]; prefix: number };
+
+/** Parse a CIDR string ("1.2.3.0/24" or "2001:db8::/32") into a match spec. */
+function parseVCidr(c: string): VCidr | null {
+  const slash = c.lastIndexOf("/");
+  if (slash === -1) return null;
+  const addr = c.slice(0, slash);
+  const prefix = Number(c.slice(slash + 1));
+  if (!Number.isInteger(prefix) || prefix < 0) return null;
+  if (addr.includes(":")) {
+    if (prefix > 128) return null;
+    const g = ipv6ToGroups(addr);
+    return g === null ? null : { family: 6, groups: g, prefix };
+  }
+  if (prefix > 32) return null;
+  const n = ipToInt(addr);
+  if (n === null) return null;
+  const mask = prefix === 0 ? 0 : (0xffffffff << (32 - prefix)) >>> 0;
+  return { family: 4, base: (n & mask) >>> 0, mask };
+}
+
+const VERIFIED_CRAWLER_PARSED: ReadonlyArray<VCidr> = VERIFIED_CRAWLER_CIDRS
+  .map(parseVCidr)
+  .filter((c): c is VCidr => c !== null);
+
+/** Prefix-match two IPv6 group arrays over `prefix` bits. */
+function v6Match(ip: number[], net: number[], prefix: number): boolean {
+  let bits = prefix;
+  for (let i = 0; i < 8 && bits > 0; i++) {
+    if (bits >= 16) {
+      if (ip[i] !== net[i]) return false;
+      bits -= 16;
+    } else {
+      const m = (0xffff << (16 - bits)) & 0xffff;
+      if ((ip[i] & m) !== (net[i] & m)) return false;
+      bits = 0;
+    }
+  }
+  return true;
+}
+
+/** True when the client IP falls in a published Googlebot/Bingbot range.
+ *  Edge-safe: pure integer/array math, no Node APIs. Never throws. */
+function isVerifiedCrawler(ip: string): boolean {
+  try {
+    if (!ip) return false;
+    let v4: number | null = null;
+    if (ip.includes(":")) {
+      const g = ipv6ToGroups(ip);
+      if (g === null) return false;
+      // IPv4-mapped/compatible (::ffff:a.b.c.d or ::a.b.c.d) → match as IPv4.
+      if (g[0] === 0 && g[1] === 0 && g[2] === 0 && g[3] === 0 && g[4] === 0 &&
+          (g[5] === 0xffff || g[5] === 0)) {
+        v4 = (((g[6] << 16) | g[7]) >>> 0);
+      } else {
+        for (const c of VERIFIED_CRAWLER_PARSED) {
+          if (c.family === 6 && v6Match(g, c.groups, c.prefix)) return true;
+        }
+        return false;
+      }
+    } else {
+      v4 = ipToInt(ip);
+    }
+    if (v4 === null) return false;
+    for (const c of VERIFIED_CRAWLER_PARSED) {
+      if (c.family === 4 && ((v4 & c.mask) >>> 0) === c.base) return true;
+    }
+    return false;
+  } catch {
+    return false;
+  }
+}
+
 // Served to blocked scraper networks instead of a bare 403 — a self-contained
 // taunt page that names the offender. Delivered with HTTP 200 ON PURPOSE:
 // undiscerning scrapers store the body AS "content", so their dataset fills
@@ -437,6 +667,11 @@ export function middleware(req: NextRequest, event: NextFetchEvent) {
     });
   }
 
+  // Spoof-proof verified-crawler flag (published Googlebot/Bingbot IP ranges).
+  // Computed once; threaded into every logRequest (so sig_bits exempts verified
+  // crawlers) and consulted by the gated enforcement branch below.
+  const verifiedCrawler = isVerifiedCrawler(clientIp);
+
   // Geo-fence to US/CA. Runs after the IP blocklist (known bad actors still get
   // the poison page) and before maintenance/410 so out-of-region traffic is
   // denied regardless of site state. Fail open when the country header is missing;
@@ -450,7 +685,7 @@ export function middleware(req: NextRequest, event: NextFetchEvent) {
     // so the privacy policy must remain reachable for them.
     pathname !== "/privacy-policy"
   ) {
-    logRequest(req, event, 403);
+    logRequest(req, event, 403, verifiedCrawler);
     return new NextResponse(GEO_BLOCK_BODY, {
       status: 403,
       headers: {
@@ -490,7 +725,7 @@ export function middleware(req: NextRequest, event: NextFetchEvent) {
     // reachable while collection continues during maintenance (CCPA
     // notice-at-or-before-collection). Everything else still 503s.
     if (pathname === "/privacy-policy" || pathname === "/terms") {
-      logRequest(req, event, 200);
+      logRequest(req, event, 200, verifiedCrawler);
       return NextResponse.next();
     }
     // Surveillance while the site is dark: keep logging every request to
@@ -499,7 +734,7 @@ export function middleware(req: NextRequest, event: NextFetchEvent) {
     // AS18712, ExamFX, masked/rotating-IP crawlers). logRequest self-skips
     // /certificate/, /api, prefetches, and empty-UA traffic, so this adds no
     // PII and no self-logging loop — and it honors GPC/opt-out (see logRequest).
-    logRequest(req, event, 503);
+    logRequest(req, event, 503, verifiedCrawler);
     return new NextResponse(MAINTENANCE_PAGE, {
       status: 503,
       headers: {
@@ -515,9 +750,34 @@ export function middleware(req: NextRequest, event: NextFetchEvent) {
   const needsSlashFix = pathname !== "/" && pathname.endsWith("/");
 
   if (!needsHostFix && !needsSlashFix) {
+    // GATED header-fingerprint enforcement (DEFAULT OFF — monitor-only).
+    // Only when SCRAPER_ENFORCE === "1" AND this request carries the composite
+    // scraper verdict (sig_bits bit7) AND is NOT a verified crawler do we serve
+    // the SAME poison page the IP blocklist uses (poison-the-well, HTTP 200).
+    // When the env is unset/anything-else the env check short-circuits FIRST —
+    // computeSigBits is not even called here — so behavior is UNCHANGED and this
+    // deploy alters ZERO visitor behavior. The verdict itself remains logged via
+    // logRequest below regardless, so monitoring continues either way.
+    if (
+      process.env.SCRAPER_ENFORCE === "1" &&
+      !verifiedCrawler &&
+      (computeSigBits(req, verifiedCrawler) & 128) !== 0
+    ) {
+      logRequest(req, event, 200, verifiedCrawler);
+      return new NextResponse(TROLL_PAGE, {
+        // 200 (not 403) on purpose — see TROLL_PAGE note (poison-the-well).
+        status: 200,
+        headers: {
+          "Content-Type": "text/html; charset=utf-8",
+          "X-Robots-Tag": "noindex, nofollow, noarchive",
+          "Cache-Control": "no-store",
+        },
+      });
+    }
+
     // Pass-through: the ONLY branch that logs. 410s and redirects are not
     // visits (the redirected request re-enters middleware and logs then).
-    logRequest(req, event, 200);
+    logRequest(req, event, 200, verifiedCrawler);
     return NextResponse.next();
   }
 

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
-import { stateClaims } from "@/lib/prelicensing-status";
+import { stateClaims, isPrelicensingHeld } from "@/lib/prelicensing-status";
 import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import CTABanner from "@/components/CTABanner";
@@ -112,7 +112,13 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  const states = [...SERVED_STATES].sort((a, b) => a.name.localeCompare(b.name));
+  // `states` drives the DISCOVERY GRID, which lists EVERY state so each tile is
+  // navigable — including New York, whose /new-york hub renders a held "opening
+  // soon" notice while its provider approval is PENDING. This list is
+  // intentionally BROADER than SERVED_STATES: SERVED_STATES excludes New York and
+  // remains the single source of truth for the served/approved COUNTS above, so
+  // adding a state to the grid never changes a rendered count or claim.
+  const states = Object.values(STATES).sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <>
@@ -267,6 +273,11 @@ export default function HomePage() {
                 <span className="text-sm font-medium text-navy group-hover:text-white leading-tight">
                   {state.name}
                 </span>
+                {isPrelicensingHeld(state) && (
+                  <span className="ml-auto flex-shrink-0 whitespace-nowrap bg-gold text-gray-dark text-[10px] font-bold uppercase tracking-wide px-1.5 py-0.5 rounded">
+                    Opening soon
+                  </span>
+                )}
               </Link>
             ))}
           </div>

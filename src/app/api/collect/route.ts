@@ -115,6 +115,17 @@ export async function POST(req: NextRequest) {
       ? Math.trunc(body.status)
       : null;
 
+  // Monitor-only scraper-signal bitmask (0..255) computed in the middleware
+  // (see computeSigBits). Nullable INT64, coerced exactly like status; older
+  // callers that omit it write NULL.
+  const sig_bits =
+    typeof body.sig_bits === "number" &&
+    Number.isFinite(body.sig_bits) &&
+    body.sig_bits >= 0 &&
+    body.sig_bits <= 255
+      ? Math.trunc(body.sig_bits)
+      : null;
+
   // Row shaped EXACTLY to the site_requests schema (ts REQUIRED, rest nullable).
   const row = {
     ts: tsOrNow(body.ts),
@@ -135,6 +146,7 @@ export async function POST(req: NextRequest) {
     user_agent,
     is_bot: BOT_REGEX.test(user_agent),
     status,
+    sig_bits,
   };
 
   try {

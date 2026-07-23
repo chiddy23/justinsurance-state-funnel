@@ -34,6 +34,87 @@ const GONE_BODY =
   "Gone — this URL has been permanently removed.\n\nThis legacy WordPress path no longer exists on justinsuranceco.com.\n";
 
 // ---------------------------------------------------------------------------
+// Scraper-signal bitmask (MONITOR-ONLY — this NEVER affects the response).
+//
+// Computes an integer bitmask of per-request header fingerprints from the
+// ORIGINAL request and logs it (sig_bits) alongside the visit record. This
+// records which requests a FUTURE header-based defense WOULD flag, so we can
+// prove it hits only scrapers before ever enforcing anything. It changes
+// NOTHING about what a visitor is served — sig_bits is purely a logged field.
+// Every header read is null-safe and the whole computation is wrapped so it can
+// never throw; any uncertainty defaults a bit to 0.
+//
+// Bit map (value = 1 << bit):
+//   0 (1)   Referer missing or empty
+//   1 (2)   UA exactly matches a known scraper UA string
+//   2 (4)   UA contains "Chrome/"
+//   3 (8)   sec-ch-ua present & non-empty (real Chrome always sends it)
+//   4 (16)  sec-fetch-mode present
+//   5 (32)  accept-language present & non-empty
+//   6 (64)  UA claims desktop Safari (Version/ + Safari, no Chrome)
+//   7 (128) CANDIDATE scraper verdict (composite — see below)
+const KNOWN_SCRAPER_UAS: ReadonlyArray<string> = [
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+];
+
+function computeSigBits(req: NextRequest): number {
+  try {
+    const h = req.headers;
+    const ua = h.get("user-agent") ?? "";
+    const referer = h.get("referer") ?? "";
+    const secChUa = (h.get("sec-ch-ua") ?? "").trim();
+    const acceptLang = (h.get("accept-language") ?? "").trim();
+
+    const bit0 = referer.trim() === ""; // Referer missing or empty
+    const bit1 = KNOWN_SCRAPER_UAS.includes(ua); // exact known scraper UA
+    const bit2 = ua.includes("Chrome/"); // Chrome-family UA
+    const bit3 = secChUa !== ""; // sec-ch-ua present & non-empty
+    const bit4 = h.get("sec-fetch-mode") !== null; // sec-fetch-mode present
+    const bit5 = acceptLang !== ""; // accept-language present & non-empty
+    const bit6 = // desktop Safari claim
+      ua.includes("Version/") && ua.includes("Safari") && !ua.includes("Chrome");
+
+    // No ad-attribution query params on the ORIGINAL request URL (a real ad
+    // click almost always carries gclid/fbclid/utm_*).
+    let hasAdParam = false;
+    try {
+      const sp = req.nextUrl.searchParams;
+      hasAdParam =
+        sp.has("gclid") ||
+        sp.has("fbclid") ||
+        Array.from(sp.keys()).some((k) => k.toLowerCase().startsWith("utm_"));
+    } catch {
+      hasAdParam = false; // uncertain → treat as "no ad param" won't force bit7
+    }
+
+    // Reuse the site's existing allowed-bot regex so Googlebot/Bingbot/etc.
+    // never get flagged as candidate scrapers.
+    const notAllowedBot = !ALLOWED_BOT_UA.test(ua);
+
+    const bit7 =
+      bit0 &&
+      ((bit2 && !bit3) || (bit6 && !bit5)) &&
+      notAllowedBot &&
+      !hasAdParam;
+
+    return (
+      (bit0 ? 1 : 0) |
+      (bit1 ? 2 : 0) |
+      (bit2 ? 4 : 0) |
+      (bit3 ? 8 : 0) |
+      (bit4 ? 16 : 0) |
+      (bit5 ? 32 : 0) |
+      (bit6 ? 64 : 0) |
+      (bit7 ? 128 : 0)
+    );
+  } catch {
+    // Any unexpected failure → emit a neutral 0 rather than risk a throw.
+    return 0;
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Attribution request logging (fire-and-forget).
 //
 // On the PASS-THROUGH path only (never the 410 or redirect branches) we POST a
@@ -147,6 +228,9 @@ function logRequest(
       postal: gpcOptOut ? "" : req.headers.get("x-vercel-ip-postal-code") ?? "",
       user_agent: userAgent.slice(0, 400),
       status: served,
+      // Monitor-only scraper-signal bitmask (0..255). Purely a logged field —
+      // computed defensively, never affects the response. See computeSigBits.
+      sig_bits: computeSigBits(req),
     };
 
     event.waitUntil(

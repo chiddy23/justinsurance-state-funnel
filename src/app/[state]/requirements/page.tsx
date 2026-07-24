@@ -75,6 +75,15 @@ const REQUIREMENTS_VIDEOS: Record<string, RequirementsVideo> = {
       "Step-by-step walkthrough of the North Carolina Life & Health insurance license process: North Carolina no longer requires prelicensing education hours (HB 737 / S.L. 2025-45, eff. 10/1/2025), but the Pearson VUE state exam still tests the full body of insurance knowledge — this video covers the steps to get licensed, what it costs, and the exam-prep mistakes that cause first-attempt failures. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
     thumbnailUrl: "https://i.ytimg.com/vi/jKVMGguG_UI/maxresdefault.jpg",
   },
+  arizona: {
+    videoId: "hH2xmNwnHPc",
+    title: "How To Get Your Arizona Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-07-16",
+    duration: "PT6M45S",
+    description:
+      "Step-by-step walkthrough of the Arizona Life & Health insurance license process: Arizona does not require prelicensing education hours, but limits candidates to 4 exam attempts per line of authority within a 12-month period, so real prep for the PSI state exam still matters — this video covers the 4 steps to get licensed, what it costs, and the mistakes that trip people up. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+    thumbnailUrl: "https://i.ytimg.com/vi/hH2xmNwnHPc/maxresdefault.jpg",
+  },
 };
 
 function buildRequirementsVideoSchema(v: RequirementsVideo) {
@@ -423,6 +432,24 @@ export default async function RequirementsPage({
               Pearson VUE state exam and filing your NIPR application. Watch the
               full walkthrough, then follow the detailed North Carolina license
               requirements below to start your L&amp;H licensing process.
+            </p>
+          </div>
+        </section>
+      )}
+      {stateData.slug === "arizona" && (
+        <section className="bg-gray-bg pt-12 px-4">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
+              Watch: How to Get Your Arizona Life &amp; Health Insurance License
+            </h2>
+            <p className="text-gray-700 leading-relaxed">
+              In this step-by-step video, JustInsurance founder Justin vom Eigen
+              walks through exactly how to get your Arizona Life &amp; Health
+              insurance license — from the state&rsquo;s no-prelicensing-hours
+              rule and 4-attempts-per-12-months exam limit to passing the PSI
+              state exam and filing your NIPR application. Watch the full
+              walkthrough, then follow the detailed Arizona license requirements
+              below to start your L&amp;H licensing process.
             </p>
           </div>
         </section>

@@ -37,6 +37,9 @@ type RequirementsVideo = {
   uploadDate: string;
   duration: string;
   description: string;
+  // Optional canonical thumbnail override. Defaults to hqdefault (below) when
+  // omitted so FL/CA/TX are unchanged; NC supplies maxresdefault (verified live).
+  thumbnailUrl?: string;
 };
 const REQUIREMENTS_VIDEOS: Record<string, RequirementsVideo> = {
   florida: {
@@ -63,6 +66,15 @@ const REQUIREMENTS_VIDEOS: Record<string, RequirementsVideo> = {
     description:
       "Step-by-step walkthrough of the Texas General Lines Life, Accident & Health license process: optional prelicensing, $39 Pearson VUE InsTX-LAH05 exam, IdentoGO fingerprinting, and TDI application via Sircon/NIPR. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
   },
+  "north-carolina": {
+    videoId: "jKVMGguG_UI",
+    title: "How To Get Your North Carolina Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-07-23",
+    duration: "PT6M18S",
+    description:
+      "Step-by-step walkthrough of the North Carolina Life & Health insurance license process: North Carolina no longer requires prelicensing education hours (HB 737 / S.L. 2025-45, eff. 10/1/2025), but the Pearson VUE state exam still tests the full body of insurance knowledge — this video covers the steps to get licensed, what it costs, and the exam-prep mistakes that cause first-attempt failures. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+    thumbnailUrl: "https://i.ytimg.com/vi/jKVMGguG_UI/maxresdefault.jpg",
+  },
 };
 
 function buildRequirementsVideoSchema(v: RequirementsVideo) {
@@ -71,7 +83,7 @@ function buildRequirementsVideoSchema(v: RequirementsVideo) {
     "@type": "VideoObject",
     name: v.title,
     description: v.description,
-    thumbnailUrl: `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`,
+    thumbnailUrl: v.thumbnailUrl ?? `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`,
     uploadDate: v.uploadDate,
     duration: v.duration,
     contentUrl: `https://www.youtube.com/watch?v=${v.videoId}`,
@@ -392,6 +404,29 @@ export default async function RequirementsPage({
           tight: each video's YouTube description points buyers to THIS
           URL, and they immediately see the same step-by-step they just
           watched. VideoObject schema emitted above. */}
+      {/* NC-only descriptive intro above the embed (SEO): the shared
+          YouTubeEmbed hardcodes its own "Video: {title}" h2, so the
+          keyword-rich heading + supporting copy live here, gated to NC so no
+          other state renders it. Stays factually aligned with the HB 737 /
+          S.L. 2025-45 no-prelicensing copy already on this page. */}
+      {stateData.slug === "north-carolina" && (
+        <section className="bg-gray-bg pt-12 px-4">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
+              Watch: How to Get Your North Carolina Life &amp; Health Insurance License
+            </h2>
+            <p className="text-gray-700 leading-relaxed">
+              In this step-by-step video, JustInsurance founder Justin vom Eigen
+              walks through exactly how to get your North Carolina Life &amp;
+              Health insurance license — from the state&rsquo;s
+              no-prelicensing-hours rule (HB 737 / S.L. 2025-45) to passing the
+              Pearson VUE state exam and filing your NIPR application. Watch the
+              full walkthrough, then follow the detailed North Carolina license
+              requirements below to start your L&amp;H licensing process.
+            </p>
+          </div>
+        </section>
+      )}
       {REQUIREMENTS_VIDEOS[stateData.slug] && (
         <YouTubeEmbed
           videoId={REQUIREMENTS_VIDEOS[stateData.slug].videoId}
@@ -608,6 +643,19 @@ export default async function RequirementsPage({
                       JustInsurance&apos;s online courses let you study at your own
                       pace on any device. You&apos;ll receive an official
                       certificate of completion once you finish.
+                    </p>
+                  ) : stateData.slug === "north-carolina" ? (
+                    // HB 737 / S.L. 2025-45 (eff. 10/1/2025) repealed North
+                    // Carolina's mandatory prelicensing-education requirement for
+                    // all producer lines. Drop the "check with the NC DOI"
+                    // send-away and state the verified fact with its citation.
+                    <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                      North Carolina no longer requires a prelicensing course to
+                      sit for the state exam (HB 737 / S.L. 2025-45, effective
+                      October 1, 2025) — you just need to pass the Pearson VUE
+                      exam. JustInsurance&apos;s North Carolina course is built to
+                      get you exam-ready and through the state test on your first
+                      try.
                     </p>
                   ) : (
                     <p className="text-gray-600 text-sm leading-relaxed mb-3">

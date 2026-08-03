@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Preparing for your property and casualty [insurance licensing exam](/prelicensing) can feel overwhelming at first. Luckily, you have a wealth of property and casualty insurance study material at your fingertips—once you get to know where to look and how to use it.
+Preparing for your property and casualty insurance licensing exam can feel overwhelming at first. Luckily, you have a wealth of property and casualty insurance study material at your fingertips—once you get to know where to look and how to use it.
 
 You might be juggling your current job, family commitments, or simply trying to fit studying into a busy schedule. That’s why focusing on the right guidance, covering the right material, and practicing under realistic conditions can help you feel confident when test day arrives.
 

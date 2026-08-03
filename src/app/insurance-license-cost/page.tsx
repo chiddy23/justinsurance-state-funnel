@@ -316,7 +316,7 @@ export default function InsuranceLicenseCostPage() {
               A resident life, health, or property &amp; casualty insurance license in most US states costs <strong className="text-navy">$300 to $600</strong> out of pocket when you add up every required fee. That total breaks down roughly as:
             </p>
             <ul className="space-y-2 text-gray-700 text-base">
-              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Prelicensing course:</strong> $150 to $400 depending on provider. JustInsurance is a flat $199 per line.</span></li>
+              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Prelicensing course:</strong> $150 to $400 depending on provider. JustInsurance is a flat $199 per line for Life and Health prelicensing; P&amp;C prelicensing is completed through a state-approved property and casualty provider.</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State exam fee:</strong> $32 in Missouri and Utah to $98 in California (paid per attempt).</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State application fee:</strong> $0 in Montana and $10 in Michigan, Ohio and Wisconsin, up to $225 in Massachusetts.</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Fingerprinting or background check:</strong> $0 to $85 depending on the state, through IdentoGO, Fieldprint, or an equivalent vendor.</span></li>
@@ -366,7 +366,7 @@ export default function InsuranceLicenseCostPage() {
             <div id="pc-cost">
               <h3 className="text-xl font-bold text-navy mb-3">How much does a Property &amp; Casualty license cost? <span className="text-gold">$325–$650</span></h3>
               <p className="text-gray-700 leading-relaxed">
-                A resident P&amp;C insurance license runs <strong className="text-navy">$325 to $650 all-in</strong>. In most states the exam fee is the same for every line of authority, so the P&amp;C exam fee matches the Life/Health exam fee in your state, and application fees mirror Life/Health. JustInsurance&apos;s prelicensing course is $199 per line; combined Personal Lines + Commercial Lines candidates should expect closer to the $650 ceiling.
+                A resident P&amp;C insurance license runs <strong className="text-navy">$325 to $650 all-in</strong>. In most states the exam fee is the same for every line of authority, so the P&amp;C exam fee matches the Life/Health exam fee in your state, and application fees mirror Life/Health. JustInsurance&apos;s $199 prelicensing course covers the Life, Health, and Life &amp; Health lines only — JustInsurance does not sell P&amp;C prelicensing, so where your state requires a P&amp;C prelicensing course you complete it through a property and casualty provider approved in your state. Combined Personal Lines + Commercial Lines candidates should expect closer to the $650 ceiling.
               </p>
             </div>
 

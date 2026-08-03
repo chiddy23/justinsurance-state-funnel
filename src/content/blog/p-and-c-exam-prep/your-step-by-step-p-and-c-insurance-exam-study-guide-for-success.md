@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
-If you are looking for a friendly yet comprehensive p&c insurance exam study guide, you have come to the right place. Preparing for the Property and Casualty (P&C) [insurance licensing exam](/prelicensing) involves more than just memorizing key terms and definitions. You want to feel confident, resourceful, and ready when you walk into the exam room. Below, you will find a clear path to help you stay organized, maintain motivation, and conquer any test anxieties. Let’s dive in.
+If you are looking for a friendly yet comprehensive p&c insurance exam study guide, you have come to the right place. Preparing for the Property and Casualty (P&C) insurance licensing exam involves more than just memorizing key terms and definitions. You want to feel confident, resourceful, and ready when you walk into the exam room. Below, you will find a clear path to help you stay organized, maintain motivation, and conquer any test anxieties. Let’s dive in.
 
 ## Recognize what the exam covers
 

@@ -628,7 +628,7 @@ export default async function StateHubPage({
               <p className="text-2xl mb-2" aria-hidden="true">🎓</p>
               <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Prelicensing</h3>
               <p className="text-gray-500 text-xs leading-relaxed">
-                {prelicensingApproved ? "State-approved prelicensing courses, all lines of authority." : "Prelicensing courses for all lines of authority."}
+                {prelicensingApproved ? "State-approved prelicensing courses for Life, Health, and Life & Health lines." : "Prelicensing courses for Life, Health, and Life & Health lines."}
               </p>
             </Link>
             {!ilWebinar && (

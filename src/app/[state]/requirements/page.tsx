@@ -1203,8 +1203,8 @@ export default async function RequirementsPage({
               <div className="font-semibold text-navy mb-1">{stateData.name} Prelicensing</div>
               <div className="text-sm text-gray-600">
                 {prelicensingApproved
-                  ? "State-approved prelicensing courses for every line of authority."
-                  : "Prelicensing courses for every line of authority."}
+                  ? "State-approved prelicensing courses for Life, Health, and Life & Health lines."
+                  : "Prelicensing courses for Life, Health, and Life & Health lines."}
               </div>
             </Link>
             {!ilWebinar && (

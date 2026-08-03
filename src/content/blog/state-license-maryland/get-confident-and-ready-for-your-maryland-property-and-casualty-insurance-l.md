@@ -55,7 +55,7 @@ The Maryland property and casualty insurance exam consists of multiple-choice qu
 Below are five common questions as you navigate the journey toward your Maryland property and casualty insurance license.
 
 1.  Do I need prior insurance experience to start?  
-    You do not need any background in insurance to begin your P&C license training. The pre-licensing courses and study materials will cover everything you need.
+    You do not need any background in insurance to begin studying for your P&C license — a good study course starts with the fundamentals and builds from there. Note that any Property and Casualty prelicensing course or practice exam you use comes from a state-approved P&C provider, not from JustInsurance; our own prelicensing courses and practice exams cover Life, Health, and Life & Health only.
 2.  Do I need to take a pre-licensing course, and how long does it take?  
     No — Maryland doesn't require pre-licensing coursework for the P&C exam. If you choose to work through optional self-study materials anyway, expect to spend roughly 20 to 40 hours depending on the resources you use. You can usually pace this around weekends or weekdays, depending on your schedule.
 3.  What happens after I pass the exam?  

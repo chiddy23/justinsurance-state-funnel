@@ -95,3 +95,11 @@ Completing your pre-licensing hours and passing the licensing exam might feel li
 Take a moment to set up your study schedule and gather your resources. Double-check that you meet all California insurance license requirements, and don’t hesitate to reach out to a helpful partner if you need extra clarity. Every moment you invest in learning and preparing lays the groundwork for a successful career.
 
 If you’re excited to move forward, JustInsurance’s [California prelicensing course](/california/prelicensing) and practice exams are a straightforward place to start, and its [continuing education](/california/continuing-education) courses cover the hours you will owe at each renewal. Tracking that renewal deadline is your own responsibility — the California Department of Insurance is where to confirm your license status and expiration date. It’s never been easier to begin your insurance journey—just start with the first step and build from there. Good luck!
+
+## Frequently Asked Questions
+
+1. What are the basic requirements to get a California insurance license? You must be at least 18 years old, complete the required 12-hour Code and Ethics prelicensing course, pass the state licensing exam, and submit your application with fingerprints to the California Department of Insurance (CDI). You can review the full checklist on the [California insurance license requirements](/california/requirements) page.
+
+2. Who administers the California insurance exam and what score do I need to pass? The California Department of Insurance uses PSI Services to deliver the licensing exam, and you need a passing score of 60% or higher. Your result is provided immediately at the test center, so you will know the outcome before you leave.
+
+3. How many continuing education hours does California require after I am licensed? California producers must complete 24 hours of continuing education every two years, including at least 3 hours of ethics. Staying current with these credits keeps your license in good standing through each renewal cycle.

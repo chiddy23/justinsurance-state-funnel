@@ -74,3 +74,11 @@ Securing your Florida life insurance license is a major step forward in your car
 If you want a structured path through those steps, JustInsurance offers a self-paced [Florida prelicensing course](/florida/prelicensing) with full-length [practice exams](/florida/practice-exam), along with exam scheduling guidance, background-check walkthroughs, and NIPR application walkthroughs. The sooner you start, the faster you will have that license in hand, ready to serve your community and grow professionally.
 
 When you feel prepared, take the leap. It all begins with one decision to move forward, and your exciting future in insurance can be closer than you think.
+
+## Frequently Asked Questions
+
+1. How many prelicensing hours does a Florida life insurance license require? Florida requires a 30-hour state-approved prelicensing course for the 2-14 Resident Life (including Annuities & Variable Contracts) license before you can register for the exam. You can review the full sequence of steps on the [Florida insurance license requirements](/florida/requirements) page.
+
+2. What score do I need on the Florida life insurance exam, and who administers it? The Florida life insurance licensing exam is administered by Pearson VUE, and you need a score of 70% or higher to pass. The exam must be taken in person at a Pearson VUE testing center, and you leave with a printed pass/fail score report before you go.
+
+3. How much does the Florida insurance license exam cost, and can I retake it? The state exam fee is $44 per attempt through Pearson VUE. If you do not pass, you can reapply and schedule another attempt after paying the exam fee again, though you are limited to five attempts for the same exam type within any 12-month period.

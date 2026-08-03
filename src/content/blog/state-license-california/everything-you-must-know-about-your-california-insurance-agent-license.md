@@ -68,3 +68,11 @@ Once you have your California insurance agent license, your career opportunities
 If you want organized support and ongoing training, consider connecting with providers like JustInsurance, where you can find additional resources that align with your career goals. A supportive environment, whether it’s a team or an online network, can make it far easier to flourish in your new role. This sense of community also gives you a place to ask questions and learn about industry trends without feeling overwhelmed.
 
 By investing time in careful preparation, you’ll set yourself up to excel as an insurance professional. From day one, your knowledge will help you serve your clients effectively, which can build long-term trust and success. Take that first step today by researching approved pre-licensing courses or scheduling your exam, and you’ll soon enjoy the rewards of your new career.
+
+## Frequently Asked Questions
+
+1. Who administers the California insurance license exam and what score do I need to pass? The exam is administered by PSI Services LLC, and California candidates can test at a PSI test center or online through PSI Bridge remote proctoring. You need a score of 60% to pass, and the total fee to sit for the exam at a PSI location is $98 — the state's $55 examination fee plus the $43 PSI convenience fee. You can review the exam topics and format on the [California insurance license requirements](/california/requirements) page.
+
+2. How many prelicensing hours does California require? Effective January 1, 2026, Assembly Bill 943 eliminated the 20-hour line-specific prelicensing education requirement for most producer lines, and California now requires only the 12-hour Insurance Code and Ethics (C&E) course before you apply. The state licensing exam requirement remains unchanged.
+
+3. How often do I renew my California insurance license, and what are the main fees? California insurance licenses run on a two-year renewal cycle, and each renewal requires 24 hours of continuing education, including 3 hours of ethics. The initial license application fee is $188, and you will also pay a separate Live Scan fingerprinting fee for the required DOJ and FBI background check — that amount is set by the state and its approved fingerprint vendor, so confirm the current figure before you pay.

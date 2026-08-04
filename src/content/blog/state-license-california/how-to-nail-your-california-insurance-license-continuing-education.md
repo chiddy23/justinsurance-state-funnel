@@ -97,3 +97,11 @@ If you’re feeling uncertain about next steps, consider talking with other expe
 When you’re ready to move forward, block out your calendar, gather your materials, and focus on one task at a time. Before you know it, you’ll be celebrating another license renewal and a stronger professional foundation.
 
 Make the most of each lesson and see your continuing education as an investment for your future. Now is the perfect time to enroll in that course or schedule that exam. With a bit of planning and the right support, you’ll pass with confidence and keep your career on track. Then, your clients and colleagues alike will know you’re committed to doing your very best in all areas of insurance practice.
+
+## Frequently Asked Questions
+
+1. How many continuing education hours does California require to renew an insurance license? California resident life, accident and health, and property and casualty agents must complete 24 hours of California Department of Insurance-approved [continuing education](/california/continuing-education) during each two-year license term, and at least 3 of those hours must cover ethics — a block that now includes the CDI's mandated one-hour study on insurance fraud.
+
+2. When does my California insurance license expire, and when should I finish my CE? Your resident license runs on a two-year term and expires on the last day of the calendar month it was originally issued (not your birthday month), so confirm the exact date listed on your [renewal requirements](/california/requirements). The CDI recommends completing your continuing education at least 60 days before that expiration date so your credits have time to post.
+
+3. Is California continuing education the same as the prelicensing course? No. Prelicensing is the education you finish before your first license — since AB 943 took effect on January 1, 2026, that is a single 12-hour Ethics and California Insurance Code course (which includes one hour on insurance fraud), after the older 20-hour line-specific [prelicensing](/california/prelicensing) requirement was repealed. Continuing education is the ongoing 24 hours every two years that you complete to renew a license you already hold.

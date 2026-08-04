@@ -93,3 +93,11 @@ Many providers offer bundles that include books, online resources, and exam prep
 ### Study schedule
 
 Depending on your other commitments, you might finish your required coursework in less than a week, or you may stretch it out over a month. However, rushing through materials can leave you with gaps in knowledge. Aim for a balanced pace: plan a set number of study hours every day or week, and stick to it. This approach may save you time in the long run, because you’re less likely to retake the exam if you’re fully prepared. Once licensed, you'll maintain your credential with ongoing [California continuing education](/california/continuing-education).
+
+## Frequently Asked Questions
+
+1. What insurance pre-licensing courses do I need in California in 2026? Under Assembly Bill 943 (effective January 1, 2026), California removed the 20-hour line-specific pre-licensing education requirement for producer applicants, so the single [12-hour Ethics and California Insurance Code course](/california/prelicensing) is now the only mandatory pre-licensing education, and it must be completed before your license can be issued.
+
+2. Do I have to finish my pre-licensing coursework before I take the state exam? Since January 1, 2026, California no longer requires producer applicants to complete line-specific pre-licensing education before sitting for the exam, but the 12-hour Ethics and California Insurance Code course must still be finished before the Department of Insurance can issue your license, so review the current [California license requirements](/california/requirements) before you schedule.
+
+3. Who administers the California insurance license exam and what score do I need to pass? The exam is administered by PSI at test centers across California, and producer license exams such as Life and Accident and Health or Sickness require a score of at least 60% to pass.

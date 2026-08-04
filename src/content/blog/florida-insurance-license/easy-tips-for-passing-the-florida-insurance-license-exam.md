@@ -46,7 +46,7 @@ Be sure to keep track of your daily or weekly progress. Break down your schedule
 
 Florida’s insurance license exams are administered by a state-approved vendor, so be prepared to follow their rules for registration and scheduling. You will likely take the test at a designated exam center, and it is typically a computer-based exam. In most cases, you will receive a pass or fail score immediately.
 
-Exact exam costs can range, so check the official site for the current fees associated with your particular license. Make sure you also factor in the time it takes to drive to the testing location, any parking fees, and the ID requirements. Commonly, you will need to bring at least two forms of identification, one of which should be a government-issued photo ID.
+Exact exam costs can range, so check the official site for the current fees associated with your particular license. Make sure you also factor in the time it takes to drive to the testing location, any parking fees, and the ID requirements. You will need to bring one current, unexpired, government-issued photo ID that shows your signature.
 
 The exam format usually consists of multiple-choice questions, covering both general insurance knowledge and Florida-specific laws. Expect to see scenario-based questions that test practical understanding of what an agent should do in real-life situations. You will need to reach a minimum passing score—a flat 70% across all Florida license types.
 

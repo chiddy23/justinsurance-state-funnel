@@ -99,3 +99,11 @@ Handle those two things and your license simply continues. Let either slip and t
 Keeping your Florida insurance license active comes down to a single date and a single relationship: your CE hours completed by the last day of your birth month every two years, and an active appointment with a carrier or agency. Everything else people describe as "renewal" is either a different state's process or a misunderstanding of Florida's perpetual licensing model.
 
 If you need straightforward explanations of Florida licensing rules or help selecting CE that counts, connect with JustInsurance. Staying proactive keeps you in good standing and ensures you're always able to help your clients with confidence.
+
+## Frequently Asked Questions
+
+1. How do I renew my Florida insurance license? You don't file a renewal — Florida resident agent and adjuster licenses are perpetual, with no renewal application and no renewal fee, so you keep the license active by completing your continuing education by the last day of your birth month every two years and maintaining at least one active carrier or agency appointment, as outlined on our [Florida license requirements](/florida/requirements) page.
+
+2. When is my Florida insurance continuing education due? Your CE compliance date is the last day of your own birth month, first due after you have been licensed 24 months and every two years after that, so the deadline is personal to you rather than tied to your license issue date — you can review which DFS-approved courses count toward your hours on our [Florida continuing education](/florida/continuing-education) page.
+
+3. Can my Florida insurance license actually expire? Yes, but only one way: if it goes 48 consecutive months without an active appointment it expires, and you would then have to re-qualify as a first-time applicant, which can include prelicensing coursework and passing the state exam again; short of that, missing your birth-month CE deadline does not void the license itself — it leads to your appointments being cancelled so you cannot write business until you complete the hours and the appointment is reinstated, and you can see how a first license is earned on our [Florida prelicensing](/florida/prelicensing) page.

@@ -84,3 +84,11 @@ You may be required to complete a certain number of CE hours every two years. Fo
 If you feel ready to begin your journey, consider reaching out to specialists who can help you smooth the path to licensure. JustInsurance offers guidance on Florida insurance license requirements, helping you pick the right pre-licensing course and study plan. They can also inform you about any changes in state laws and walk you through exam preparation so you feel confident on test day.
 
 The process may seem detailed, but with the right approach and a strong support system, you could be closer than you think to enjoying a rewarding career in insurance. By checking each requirement off your list and staying organized, you will be that much closer to the finish line. Good luck in your licensing journey, and remember to keep your end goal in sight: helping Florida residents protect what matters most.
+
+## Frequently Asked Questions
+
+1. How many prelicensing course hours does Florida require for a life and health insurance license? Florida sets prelicensing hours by license line, and the combined 2-15 Life, Health & Variable Annuity line requires 60 hours; you must also pass your course's final exam with a score of at least 70% before you can sit for the state exam, as outlined in the [Florida prelicensing](/florida/prelicensing) guide.
+
+2. What does it cost to apply, and are fingerprints required? You pay a state application filing fee (currently about $50 for most resident agent licenses) to the Florida Department of Financial Services when you submit, and every applicant must also complete an electronic fingerprint background screening through a state-approved vendor for a separate fee before a license can be issued, as detailed in the full [Florida license requirements](/florida/requirements).
+
+3. Who administers the Florida licensing exam and how do I schedule it? Once the Department of Financial Services processes your application, you schedule your exam with Pearson VUE, Florida's testing vendor, online or by phone, then take it in person at a Pearson VUE test center, where a score of 70% or higher is a passing result.

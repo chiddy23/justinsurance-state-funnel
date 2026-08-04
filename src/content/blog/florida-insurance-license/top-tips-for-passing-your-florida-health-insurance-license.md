@@ -79,3 +79,11 @@ To keep your license in good standing, pay attention to any updates in Florida�
 Securing your Florida health insurance license might feel overwhelming at first, but it becomes much simpler once you create a clear plan for each step. Make sure you check eligibility requirements well in advance, complete your pre-licensing course thoroughly, and prepare for the state exam with a steady study schedule. After passing the exam, promptly file the final paperwork so you can start your career journey in the insurance world.
 
 If you’re not sure where to begin or you’d like an extra boost of guidance, consider reaching out to a trusted resource like JustInsurance. Finding personalized support can help you cut through the clutter and focus on what truly matters—helping people find the right health coverage for their needs. You’ve worked hard to earn this license, so take pride in your accomplishment and make the most of your new opportunity to serve Florida residents.
+
+## Frequently Asked Questions
+
+1. How many prelicensing hours does the Florida 2-40 Health license require? The Florida Department of Financial Services requires a 40-hour Department-approved health insurance prelicensing course, completed within four years of your application date, and a study manual is required for every course attendee — you can review the full breakdown on our [Florida prelicensing](/florida/prelicensing) page.
+
+2. Who administers the 2-40 Health exam and what score do I need to pass? The state exam is delivered by Pearson VUE, costs $44 per attempt, and requires a score of 70% or higher to pass; once the Department approves you to test, it posts your exam authorization to your MyProfile account, and you then register and schedule the exam on the Pearson VUE website — you can see how the exam fits the overall licensing path on our [Florida requirements](/florida/requirements) page.
+
+3. How much continuing education does the 2-40 Health license require after I pass? Florida requires 24 hours of continuing education every two years, due by the end of your birth month, and your license also needs an active appointment to stay in force — you can find the current CE breakdown on our [Florida continuing education](/florida/continuing-education) page.

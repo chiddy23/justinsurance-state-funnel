@@ -78,3 +78,11 @@ Becoming a licensed insurance agent in Florida is a process that rewards thoroug
 To make your journey smoother, consider teaming up with JustInsurance. Our Florida prelicensing courses and practice exams cover the material the state actually tests, and once you are licensed our DFS-approved [continuing education](/florida/continuing-education) catalog keeps you compliant — when you finish a CE course we typically report the hours to Florida’s Department of Financial Services the same business day, so there is nothing for you to mail in. If you ever feel uncertain about your next steps, support is always available.
 
 Now is a perfect time to begin. Organize your study materials, set up your schedule, and plan ahead for the exam day. Before you know it, you will hold a Florida insurance license in your hands, opening the door to a fulfilling career helping people protect what matters most.
+
+## Frequently Asked Questions
+
+1. Who administers the Florida insurance license exam, and can I take it from home? The Florida Department of Financial Services uses Pearson VUE as its testing vendor, and every attempt must be scheduled and taken in person at a physical Pearson VUE test center in Florida rather than online; you can review the full exam and licensing steps on our [Florida requirements](/florida/requirements) page.
+
+2. What score do I need to pass, and how much does the Florida exam cost? You must score at least 70% to pass — the same threshold applies to every Florida insurance license type — and Pearson VUE charges a $44 examination fee for each attempt, so completing your DFS-approved [pre-licensing](/florida/prelicensing) course and practice exams is how you prepare for that standard.
+
+3. Can I retake the Florida exam if I don't pass, and what should I bring on test day? Yes — Florida permits up to five attempts at the same exam type within any 12-month period, and you pay the $44 Pearson VUE fee for each attempt; on test day bring one current, unexpired, government-issued photo ID that shows your signature, and reviewing your [pre-licensing](/florida/prelicensing) materials before rebooking can help you shore up weak areas.

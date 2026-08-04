@@ -22,7 +22,7 @@ Here's the full breakdown of what the Florida Life & Health exam actually tests.
 
 ## Who Administers the Exam?
 
-The Florida Department of Financial Services (DFS) contracts with Pearson VUE to administer the state's insurance licensing exams. You'll register and schedule through Pearson VUE, and you'll take the exam at an approved testing center in Florida.
+The Florida Department of Financial Services (DFS) [contracts with Pearson VUE](https://www.pearsonvue.com/us/en/fl/insurance.html) to administer the state's insurance licensing exams. You'll register and schedule through Pearson VUE, and you'll take the exam at an approved testing center in Florida.
 
 ## Exam Structure for the 2-15
 
@@ -32,7 +32,7 @@ The Florida 2-15 Life, Health, and Variable Annuity Agent exam includes:
 
 - 2 hours and 45 minutes to complete
 
-- 70% passing score required
+- [70% passing score required](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
 
 You won't know which questions are pilot (unscored) questions — they're mixed in with the scored ones. Answer every question as if it counts.
 
@@ -46,7 +46,7 @@ Life Insurance Basics. Types of life insurance (term, whole, universal, variable
 
 Life Insurance Policies and Provisions. The contractual details — grace periods, reinstatement, incontestability, misstatement of age, beneficiaries, policy loans, settlement options, and riders.
 
-Annuities. Single-premium and flexible-premium, immediate and deferred, fixed, variable, and indexed annuities. Accumulation and annuity periods. Payout options. Suitability and best-interest requirements for annuity sales — the outline lists that topic as "Suitability/Best Interest," which is exactly how Fla. Stat. § 627.4554 now reads.
+Annuities. Single-premium and flexible-premium, immediate and deferred, fixed, variable, and indexed annuities. Accumulation and annuity periods. Payout options. Suitability and best-interest requirements for annuity sales — the outline lists that topic as "Suitability/Best Interest," which is exactly how [Fla. Stat. § 627.4554](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html) now reads.
 
 Health Insurance Basics. Types of health plans (HMO, PPO, POS, EPO), the structure of individual and group coverage, and how health plans are funded.
 
@@ -119,6 +119,12 @@ No life or annuity content appears on the 2-40 exam. And the Florida portion is 
 4. Are calculators provided during the exam? The Pearson VUE candidate handbook says the exams don't require a calculator, but you may request one from test center staff if you want it. Personal calculators are not permitted. The math is straightforward — no complex calculations required.
 
 5. When do I get my results? Immediately. When you finish, you receive a photo-bearing score report marked "pass" or "fail," with a numeric score and diagnostic information showing how you performed by content area. Passing score is 70% across all Florida insurance exams.
+
+**Sources cited:**
+
+- [Pearson VUE — Florida Insurance Licensing Exams](https://www.pearsonvue.com/us/en/fl/insurance.html)
+- [Pearson VUE — Florida Insurance Candidate Handbook (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
+- [Fla. Stat. § 627.4554 — Suitability in annuity transactions](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html)
 
 ## Walk Into Your Exam Fully Prepared
 

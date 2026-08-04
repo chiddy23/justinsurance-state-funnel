@@ -70,7 +70,7 @@ Strong carrier appointments available. Many carriers are actively seeking final 
 
 ## How to Enter the Florida Final Expense Market
 
-Step 1 — Get licensed. You need a Florida 2-15 or 2-14 license to sell life insurance in Florida. Most final expense agents hold the 2-15.
+Step 1 — Get licensed. You need a Florida [2-15](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf) or [2-14](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf) license to sell life insurance in Florida. Most final expense agents hold the 2-15.
 
 Step 2 — Get appointed with final expense carriers. Major final expense carriers include Mutual of Omaha, Gerber Life, Liberty Bankers, AIG, Royal Neighbors, and many others. Most new agents get appointed through an IMO (Independent Marketing Organization) that handles the contracting with multiple carriers.
 
@@ -121,6 +121,11 @@ Neglecting service after the sale. Final expense clients have friends and family
 4. Can I build a final expense book without purchasing leads? Eventually, yes — through referrals and community presence. In the early years, most agents supplement with purchased leads to maintain steady activity.
 
 5. Is the Florida final expense market saturated? No. The senior population keeps growing, and demand consistently outpaces supply of well-trained, active agents. Saturation isn't a realistic concern in the near term.
+
+**Sources cited:**
+
+- [Florida DFS — 2-15 Resident Life, Health and Variable Annuity Agent license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf)
+- [Florida DFS — 2-14 Resident Life Agent license (including Annuities and Variable Contracts)](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf)
 
 ## Enter the Florida Final Expense Market the Right Way
 

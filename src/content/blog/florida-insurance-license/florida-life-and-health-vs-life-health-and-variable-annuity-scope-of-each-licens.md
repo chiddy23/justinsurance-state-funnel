@@ -24,11 +24,11 @@ Here's the full scope of each license.
 
 Florida doesn't have a generic "life and health" license. Instead, it breaks the life and health space into three distinct licenses:
 
-- 2-14 — Life, Including Variable Annuity Agent (life products only, including variable life and variable annuities)
+- 2-14 — [Life, Including Variable Annuity Agent](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf) (life products only, including variable life and variable annuities)
 
-- 2-15 — Life, Health, and Variable Annuity Agent (life, health, and variable annuities combined)
+- 2-15 — [Life, Health, and Variable Annuity Agent](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf) (life, health, and variable annuities combined)
 
-- 2-40 — Health Agent (health products only)
+- 2-40 — [Health Agent](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-40-resident-health-agent-license.pdf) (health products only)
 
 Each serves a different purpose. Let's break down the scope of each.
 
@@ -99,7 +99,7 @@ Choose the 2-40 if you only plan to sell health insurance or Medicare. This is t
 
 ## The Variable Annuity Consideration
 
-Both the 2-14 and 2-15 include variable annuity authority in their names — but holding the license isn't enough to actually sell variable products. Variable annuities and variable life insurance are classified as securities, which means you also need FINRA registration:
+Both the 2-14 and 2-15 include variable annuity authority in their names — but holding the license isn't enough to actually sell variable products. Variable annuities and variable life insurance are classified as securities, which means you also need [FINRA registration](https://www.finra.org/registration-exams-ce/qualification-exams):
 
 - Series 6 or Series 7 — for the securities portion
 
@@ -118,6 +118,13 @@ You can hold a 2-14 or 2-15 without these FINRA registrations, but you're limite
 4. If I only want to sell term life, is the 2-14 enough? Yes. The 2-14 covers all life insurance including term. You don't need the 2-15 unless you also want health authority.
 
 5. Can I hold the 2-14 and 2-40 instead of the 2-15? Technically yes, but it's less efficient. The 2-15 covers the same scope as holding both and only requires one exam and one ongoing renewal process.
+
+**Sources cited:**
+
+- [Florida DFS — 2-14 Life (Including Variable Annuity) Agent license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf)
+- [Florida DFS — 2-15 Life, Health & Variable Annuity Agent license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf)
+- [Florida DFS — 2-40 Health Agent license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-40-resident-health-agent-license.pdf)
+- [FINRA — Qualification Exams (Series 6, 7, and 63)](https://www.finra.org/registration-exams-ce/qualification-exams)
 
 ## Pick the Florida License That Matches Your Career Goals
 

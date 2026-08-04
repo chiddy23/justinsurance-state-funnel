@@ -60,7 +60,7 @@ You cannot sell life insurance or annuities with a 2-40 license.
 | Life insurance sales | Yes | No |
 | Health insurance sales | Yes | Yes |
 | Annuity sales | Yes | No |
-| Prelicense education | 60 hours required | 40 hours required |
+| Prelicense education | [60 hours required](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf) | [40 hours required](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-40-resident-health-agent-license.pdf) |
 | Best for | Agents wanting full life and health product range | Agents focused exclusively on health/Medicare |
 
 ## Which License Should You Get?
@@ -85,8 +85,14 @@ For most new Florida agents, the 2-15 is the better choice because it keeps opti
 
 5. Which license earns more? There's no inherent income difference — it depends on what you sell and how you build your book. Life and annuity products tend to carry higher per-sale commissions, which gives 2-15 holders a wider earning range.
 
+**Sources cited:**
+
+- [Florida DFS — 2-15 Life, Health & Variable Annuity Agent license requirements](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf)
+- [Florida DFS — 2-40 Health Agent license requirements](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-40-resident-health-agent-license.pdf)
+- [Florida Department of Financial Services — Agent and Agency Services](https://www.myfloridacfo.com/division/agents)
+
 ## Choose the Right Florida License for Your Career
 
-At JustInsurance, our Florida prelicense courses are available for both the 2-15 and the 2-40 — built specifically for the Florida Department of Financial Services exam. Pick the path that fits your career goals and we'll get you exam-ready.
+At JustInsurance, our Florida prelicense courses are available for both the 2-15 and the 2-40 — built specifically for the [Florida Department of Financial Services](https://www.myfloridacfo.com/division/agents) exam. Pick the path that fits your career goals and we'll get you exam-ready.
 
 Enroll today and start your Florida insurance career.

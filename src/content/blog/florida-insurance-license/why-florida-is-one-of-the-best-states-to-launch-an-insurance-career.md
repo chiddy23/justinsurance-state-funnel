@@ -98,7 +98,7 @@ Demand outpaces supply of experienced agents in many Florida markets — meaning
 
 Florida has a deep ecosystem of insurance professionals, IMOs (Independent Marketing Organizations), agencies, and training resources. New agents can plug into mentorship, training, and carrier appointments relatively easily compared to smaller state markets.
 
-The Florida Department of Financial Services provides clear licensing guidance, MyProfile tools for tracking compliance, and accessible resources. The infrastructure supports agents who want to do things the right way.
+The [Florida Department of Financial Services](https://myfloridacfo.com/division/agents/licensing/faq) provides clear licensing guidance, MyProfile tools for tracking compliance, and accessible resources. The infrastructure supports agents who want to do things the right way.
 
 ## Multiple Paths to Build a Career
 
@@ -120,9 +120,15 @@ But these challenges are navigable. Agents who specialize, focus, and serve clie
 
 3. How does Florida compare to Texas or California for insurance agents? All three are strong markets. Florida's demographic weighting toward seniors and retirees creates particular opportunity in Medicare, final expense, and retirement products. Texas and California have different economic drivers.
 
-4. Is it harder to get licensed in Florida than other states? Florida's licensing process is more specific than most states due to the numbered license structure (2-15, 2-20, etc.), but it's not harder — it just requires understanding which license fits your career plan.
+4. Is it harder to get licensed in Florida than other states? Florida's licensing process is more specific than most states due to the numbered license structure ([2-15](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf), [2-20](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-20-resident-general-lines.pdf), etc.), but it's not harder — it just requires understanding which license fits your career plan.
 
 5. Are there niches that are oversaturated in Florida? Competition in Miami's high-net-worth life insurance space is significant. Medicare sales in major metros are competitive but still growing. Most niches have room for well-positioned new agents.
+
+**Sources cited:**
+
+- [Florida DFS 2-15 Resident Life, Health and Variable Annuity Agent license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf)
+- [Florida DFS 2-20 General Lines (Property and Casualty) Agent license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-20-resident-general-lines.pdf)
+- [Florida DFS Agent and Adjuster Licensing FAQ](https://myfloridacfo.com/division/agents/licensing/faq)
 
 ## Start Your Florida Insurance Career with Confidence
 

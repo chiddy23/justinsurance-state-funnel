@@ -52,7 +52,7 @@ Expect multiple exam questions on replacement — what triggers the rule, what f
 
 ## The Florida Free-Look Period
 
-Florida requires a free-look period on life insurance policies — 14 days under Fla. Stat. §626.99(4)(a). Fixed and variable annuities get a longer window: 21 days under §626.99(4)(b). During that period, the owner can cancel and receive an unconditional refund.
+Florida requires a free-look period on life insurance policies — 14 days under [Fla. Stat. §626.99(4)(a)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.99.html). Fixed and variable annuities get a longer window: 21 days under §626.99(4)(b). During that period, the owner can cancel and receive an unconditional refund.
 
 One point candidates routinely get wrong: replacement does **not** extend the free-look period. A replacement life policy still carries the same free-look the policy would otherwise have — Florida's replacement rules govern notices and comparative disclosures, not the length of the refund window.
 
@@ -68,7 +68,7 @@ Expect questions on:
 
 ## Florida Unfair Trade Practices
 
-Florida law prohibits specific practices that are considered unfair or deceptive. The exam tests whether you can recognize these when presented in scenario questions:
+Florida law prohibits specific practices that are considered [unfair or deceptive](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9541.html). The exam tests whether you can recognize these when presented in scenario questions:
 
 - Misrepresentation — making false statements about a policy
 
@@ -112,7 +112,7 @@ Exam questions also cover:
 
 ## Florida Annuity Rules: Best Interest, Not Just Suitability
 
-This is the item most likely to be outdated in older study material, so read it carefully. Fla. Stat. § 627.4554 is still titled "Suitability in annuity transactions," but since the 2024 amendments the operative standard is higher than suitability. Under § 627.4554(5)(a), an agent making an annuity recommendation must act in the **best interest** of the consumer under the circumstances known at the time the recommendation is made, without placing the financial interest of the agent or insurer ahead of the consumer's interest.
+This is the item most likely to be outdated in older study material, so read it carefully. [Fla. Stat. § 627.4554](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html) is still titled "Suitability in annuity transactions," but since the 2024 amendments the operative standard is higher than suitability. Under § 627.4554(5)(a), an agent making an annuity recommendation must act in the **best interest** of the consumer under the circumstances known at the time the recommendation is made, without placing the financial interest of the agent or insurer ahead of the consumer's interest.
 
 "Reasonable grounds to believe the product is suitable" is the old standard. If an answer choice is phrased that way, it is describing the law Florida replaced.
 
@@ -128,7 +128,7 @@ The statute spells out exactly how an agent satisfies the duty — four separate
 
 Two more points the exam likes. First, this is not a seniors-only rule: the best-interest standard applies to every annuity recommendation regardless of the consumer's age. Second, seniors do get one hard statutory add-on — under § 627.4554(9), an annuity contract issued to a consumer age 65 or older may not carry a surrender or deferred sales charge exceeding 10 percent of the amount withdrawn, and the charge must disappear entirely after the tenth policy year (or ten years from each premium payment, whichever is later).
 
-Also know the training rule: § 627.4554(6) requires agents who sell annuities to complete a **one-time** 4-hour annuity training course. It is not a recurring requirement, and the statute states it is not part of the continuing education requirement in s. 626.2815 unless the provider separately obtains CE approval for the course.
+Also know the training rule: § 627.4554(6) requires agents who sell annuities to complete a **one-time** 4-hour annuity training course. It is not a recurring requirement, and the statute states it is not part of the continuing education requirement in [s. 626.2815](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html) unless the provider separately obtains CE approval for the course.
 
 ## Other Florida-Specific Topics
 
@@ -155,6 +155,13 @@ Additional areas worth studying:
 4. Which Florida law topic is most heavily tested? Replacement rules and unfair trade practices are consistently among the most tested areas, along with Florida licensing requirements.
 
 5. Does the Florida exam cover federal laws too? Yes, but not as a separate federal section. The content outline folds federal material into the general-knowledge topics: HIPAA privacy and point-of-sale disclosures, the USA PATRIOT Act and anti-money-laundering rules, Gramm-Leach-Bliley privacy, and the Fair Credit Reporting Act sit inside the application and underwriting material, while Medicare, Medicaid, and Social Security sit under Social Insurance. The distinctly state-specific content is still what trips up the most candidates.
+
+**Sources cited:**
+
+- [Fla. Stat. §626.99 — Life insurance solicitation (free-look periods)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.99.html)
+- [Fla. Stat. §626.9541 — Unfair methods of competition and unfair or deceptive acts or practices defined](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9541.html)
+- [Fla. Stat. §627.4554 — Suitability in annuity transactions](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html)
+- [Fla. Stat. §626.2815 — Continuing education for licensees](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
 
 ## Master the Florida-Specific Material
 

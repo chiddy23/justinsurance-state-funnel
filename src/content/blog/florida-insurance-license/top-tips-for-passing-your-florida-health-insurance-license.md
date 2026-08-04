@@ -32,7 +32,7 @@ Plan ahead for both the schedule and cost of filing your application. In Florida
 
 ## Complete your pre-licensing course
 
-Once you confirm your eligibility, you’ll need to sign up for a state-approved [Florida pre-licensing course](/florida/prelicensing). Florida often requires a certain number of study hours—commonly around 40 hours for a health insurance license. This coursework covers important insurance topics such as policy provisions, underwriting, and state regulations.
+Once you confirm your eligibility, you’ll need to sign up for a state-approved [Florida pre-licensing course](/florida/prelicensing). Florida often requires a certain number of study hours—commonly [around 40 hours for a health insurance license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-40-resident-health-agent-license.pdf). This coursework covers important insurance topics such as policy provisions, underwriting, and state regulations.
 
 You can choose between in-person classes and online programs, depending on your schedule and learning style. In-person classes offer face-to-face interaction, while online courses let you learn at your own pace. Whichever path you pick, focus diligently on understanding the material, not just memorizing it for an exam.
 
@@ -68,7 +68,7 @@ If you encounter an especially tough question, avoid rushing to guess under pres
 
 After you pass your exam, you’re not quite done. You’ll still need to submit final documents, such as your exam completion certificate and any remaining paperwork required by the Florida Department of Financial Services. Once they approve your application, you’ll receive your official license in the mail or via email, depending on the system Florida has in place at that time.
 
-Your newly acquired license will open the door to a range of career opportunities. Some new license holders begin by working with established insurance agencies, while others prefer to start as independent agents. Whichever path you choose, understand how Florida keeps a license alive, because it surprises people: agent licenses in Florida are perpetual and there is no renewal to file. What actually keeps yours in force is an active appointment from an appointing insurer or agency — a license that goes 48 months without one expires — plus your [continuing education](/florida/continuing-education) (CE) hours, completed inside each 24-month compliance cycle. These CE courses help you stay current with changes in state regulations and insurance products.
+Your newly acquired license will open the door to a range of career opportunities. Some new license holders begin by working with established insurance agencies, while others prefer to start as independent agents. Whichever path you choose, understand how Florida keeps a license alive, because it surprises people: [agent licenses in Florida are perpetual and there is no renewal to file](https://myfloridacfo.com/division/agents/licensing/faq). What actually keeps yours in force is an active appointment from an appointing insurer or agency — a license that goes 48 months without one expires — plus your [continuing education](/florida/continuing-education) (CE) hours, completed inside each 24-month compliance cycle. These CE courses help you stay current with changes in state regulations and insurance products.
 
 ### Explore ways to stay on track
 
@@ -84,6 +84,13 @@ If you’re not sure where to begin or you’d like an extra boost of guidance, 
 
 1. How many prelicensing hours does the Florida 2-40 Health license require? The Florida Department of Financial Services requires a 40-hour Department-approved health insurance prelicensing course, completed within four years of your application date, and a study manual is required for every course attendee — you can review the full breakdown on our [Florida prelicensing](/florida/prelicensing) page.
 
-2. Who administers the 2-40 Health exam and what score do I need to pass? The state exam is delivered by Pearson VUE, costs $44 per attempt, and requires a score of 70% or higher to pass; once the Department approves you to test, it posts your exam authorization to your MyProfile account, and you then register and schedule the exam on the Pearson VUE website — you can see how the exam fits the overall licensing path on our [Florida requirements](/florida/requirements) page.
+2. Who administers the 2-40 Health exam and what score do I need to pass? The state exam is delivered by Pearson VUE, costs $44 per attempt, and requires [a score of 70% or higher to pass](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf); once the Department approves you to test, it posts your exam authorization to your MyProfile account, and you then register and schedule the exam on the Pearson VUE website — you can see how the exam fits the overall licensing path on our [Florida requirements](/florida/requirements) page.
 
-3. How much continuing education does the 2-40 Health license require after I pass? Florida requires 24 hours of continuing education every two years, due by the end of your birth month, and your license also needs an active appointment to stay in force — you can find the current CE breakdown on our [Florida continuing education](/florida/continuing-education) page.
+3. How much continuing education does the 2-40 Health license require after I pass? Florida requires [24 hours of continuing education every two years, due by the end of your birth month](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html), and your license also needs an active appointment to stay in force — you can find the current CE breakdown on our [Florida continuing education](/florida/continuing-education) page.
+
+**Sources cited:**
+
+- [Florida DFS — 2-40 Resident Health Agent license requirements](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-40-resident-health-agent-license.pdf)
+- [Pearson VUE — Florida Insurance Licensure Candidate Handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
+- [Section 626.2815, Florida Statutes — Continuing education requirements](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Florida DFS — Agent & Adjuster Licensing FAQ (perpetual license)](https://myfloridacfo.com/division/agents/licensing/faq)

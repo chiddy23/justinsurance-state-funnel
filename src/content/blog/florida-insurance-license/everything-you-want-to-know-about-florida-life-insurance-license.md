@@ -77,8 +77,14 @@ When you feel prepared, take the leap. It all begins with one decision to move f
 
 ## Frequently Asked Questions
 
-1. How many prelicensing hours does a Florida life insurance license require? Florida requires a 30-hour state-approved prelicensing course for the 2-14 Resident Life (including Annuities & Variable Contracts) license before you can register for the exam. You can review the full sequence of steps on the [Florida insurance license requirements](/florida/requirements) page.
+1. How many prelicensing hours does a Florida life insurance license require? Florida requires a [30-hour state-approved prelicensing course for the 2-14 Resident Life](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf) (including Annuities & Variable Contracts) license before you can register for the exam. You can review the full sequence of steps on the [Florida insurance license requirements](/florida/requirements) page.
 
-2. What score do I need on the Florida life insurance exam, and who administers it? The Florida life insurance licensing exam is administered by Pearson VUE, and you need a score of 70% or higher to pass. The exam must be taken in person at a Pearson VUE testing center, and you leave with a printed pass/fail score report before you go.
+2. What score do I need on the Florida life insurance exam, and who administers it? The Florida life insurance licensing exam is [administered by Pearson VUE, and you need a score of 70% or higher to pass](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf). The exam must be taken in person at a Pearson VUE testing center, and you leave with a printed pass/fail score report before you go.
 
-3. How much does the Florida insurance license exam cost, and can I retake it? The state exam fee is $44 per attempt through Pearson VUE. If you do not pass, you can reapply and schedule another attempt after paying the exam fee again, though you are limited to five attempts for the same exam type within any 12-month period.
+3. How much does the Florida insurance license exam cost, and can I retake it? The state exam fee is [$44 per attempt through Pearson VUE](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees). If you do not pass, you can reapply and schedule another attempt after paying the exam fee again, though you are [limited to five attempts for the same exam type within any 12-month period](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf).
+
+**Sources cited:**
+
+- [Florida DFS - 2-14 Resident Life Agent License requirements](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf)
+- [Pearson VUE - Florida Insurance Licensing Candidate Handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
+- [Florida DFS - Agent and Adjuster Licensing Fees](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees)

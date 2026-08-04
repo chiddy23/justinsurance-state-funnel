@@ -22,7 +22,7 @@ Here's exactly what the 4-hour Law and Ethics requirement is and why it matters.
 
 ## What Is the 4-Hour Law and Ethics Update?
 
-The 4-hour Law and Ethics Update is a Florida DFS-mandated [continuing education](/florida/continuing-education) course that nearly every licensed resident insurance agent must complete every 2-year renewal cycle (Fla. Stat. §626.2815(3) exempts title insurance agents). It's a specific course — not just any ethics course — and it's tailored to the licensee's specific line of authority.
+The 4-hour Law and Ethics Update is a Florida DFS-mandated [continuing education](/florida/continuing-education) course that nearly every licensed resident insurance agent must complete every 2-year renewal cycle (Fla. Stat. [§626.2815(3) exempts title insurance agents](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)). It's a specific course — not just any ethics course — and it's tailored to the licensee's specific line of authority.
 
 There are separate 4-hour updates for:
 
@@ -72,7 +72,7 @@ License maintenance. Current CE requirements, renewal procedures, and license st
 
 ## Where the 4-Hour Fits Into Your Overall CE
 
-For most license types (2-15, 2-14, 2-40, 2-20), the 4-hour Law and Ethics Update is part of your total CE requirement — not in addition to it. What changes with tenure is the number of *elective* hours you add on top of it. Fla. Stat. §626.2815(3) sets three tiers:
+For most license types (2-15, 2-14, 2-40, 2-20), the 4-hour Law and Ethics Update is part of your total CE requirement — not in addition to it. What changes with tenure is the number of *elective* hours you add on top of it. Fla. Stat. [§626.2815(3) sets three tiers](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html):
 
 - Licensed fewer than 6 years: 4-hour update + 20 elective hours = **24 hours total**
 
@@ -113,6 +113,11 @@ Taking an outdated version of the course — or a version for the wrong license 
 4. Does the 4-hour update need to be taken early in the cycle or late? Any time during your 2-year renewal cycle works. Many agents schedule it early to get it out of the way, then complete elective CE throughout the cycle.
 
 5. Is the 4-hour Law and Ethics course the same as general ethics CE? No. Generic ethics courses don't substitute for the Florida-specific 4-hour Law and Ethics Update. You must take the DFS-approved course designed for your license.
+
+**Sources cited:**
+
+- [Section 626.2815, Florida Statutes — Continuing education requirements](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Florida DFS — Agent and adjuster licensing FAQ](https://myfloridacfo.com/division/agents/licensing/faq)
 
 ## Knock Out the 4-Hour Update the Right Way
 

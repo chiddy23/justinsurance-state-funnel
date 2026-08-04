@@ -56,15 +56,15 @@ Each Florida license requires:
 
 - Keeping active appointments so the license stays in force
 
-Your [continuing education](/florida/continuing-education), on the other hand, does not multiply. Florida CE is a per-licensee obligation, not a per-license one: Fla. Admin. Code R. 69B-228.220 keeps "the total 2 year requirement… in that same yearly sequence for all license types combined," so adding a second license does not add hours to your cycle. You complete one consolidated requirement — 24 hours for your first six years licensed, 20 hours after that — on a single birth-month schedule, and Florida DFS asks for just one 4-hour Law & Ethics Update "specific to at least one license type held."
+Your [continuing education](/florida/continuing-education), on the other hand, does not multiply. Florida CE is a per-licensee obligation, not a per-license one: [Fla. Admin. Code R. 69B-228.220](https://www.flrules.org/gateway/RuleNo.asp?ID=69B-228.220) keeps "the total 2 year requirement… in that same yearly sequence for all license types combined," so adding a second license does not add hours to your cycle. You complete one consolidated requirement — [24 hours for your first six years licensed, 20 hours after that](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html) — on a single birth-month schedule, and Florida DFS asks for just one 4-hour Law & Ethics Update "specific to at least one license type held."
 
 ## Is More Always Better?
 
-Not necessarily. Holding multiple licenses comes with real responsibilities — though not the ones agents usually assume. Your CE hours do not stack, and Florida licenses are perpetual, so there is no per-license renewal bill. What does add up:
+Not necessarily. Holding multiple licenses comes with real responsibilities — though not the ones agents usually assume. Your CE hours do not stack, and [Florida licenses are perpetual](https://myfloridacfo.com/division/agents/licensing/faq), so there is no per-license renewal bill. What does add up:
 
 More upfront cost and study time. Each license means its own prelicense course, its own state exam, and its own application and licensing fees.
 
-More appointments to maintain. Every license you actually write business on needs an active appointment, renewed every 24 months, and a license that goes 48 months without one expires.
+More appointments to maintain. Every license you actually write business on needs an active appointment, [renewed every 24 months](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.381.html), and a license that goes 48 months without one expires.
 
 More complexity. Being genuinely competent across multiple product lines takes years of study and practice.
 
@@ -105,6 +105,16 @@ This approach builds real expertise at each stage rather than spreading yourself
 4. Does Florida offer any combined license that covers all product lines? No. Florida's licensing is designed around specific product categories, not a single combined license. To cover life, health, annuities, and P&C, you need multiple licenses.
 
 5. Will my CE requirements overlap if I hold multiple licenses? They more than overlap — they merge. Florida CE is measured per licensee, not per license, so all your license types share one consolidated requirement on one birth-month compliance cycle: 24 hours for your first six years licensed, 20 hours after that. Only one 4-hour Law & Ethics Update is required, and it need only be specific to at least one license type you hold. The remaining hours are DFS-approved electives with no per-license partition, so there is no separate product-specific CE stack to complete for each credential.
+
+**Sources cited:**
+
+- [Fla. Admin. Code R. 69B-228.220 — Licensee Compliance; Requirements; Penalties for Non-Compliance](https://www.flrules.org/gateway/RuleNo.asp?ID=69B-228.220)
+
+- [Section 626.2815, Florida Statutes — Continuing education requirements](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+
+- [Section 626.381, Florida Statutes — Renewal, continuation of appointment](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.381.html)
+
+- [Florida DFS Agent Licensing FAQ](https://myfloridacfo.com/division/agents/licensing/faq)
 
 ## Build Your Florida Licensing Strategy the Right Way
 

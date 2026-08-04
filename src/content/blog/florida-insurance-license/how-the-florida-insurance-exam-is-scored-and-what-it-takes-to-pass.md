@@ -22,9 +22,9 @@ Here's how the scoring works and what it takes to pass.
 
 ## The Passing Score
 
-The passing score for every Florida insurance licensing exam — including the 2-15, 2-14, 2-40, and 2-20 — is 70%. You need to answer 70% of the scored questions correctly to pass.
+[The passing score for every Florida insurance licensing exam](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf) — including the 2-15, 2-14, 2-40, and 2-20 — is 70%. You need to answer 70% of the scored questions correctly to pass.
 
-One clarification worth making up front, because candidates ask about it constantly: **the 4-40 Customer Representative license has no state exam.** Fla. Stat. §626.7351 sets the 4-40 qualifications by designation rather than examination — you qualify by holding a department-approved designation earned within the previous four years, such as the 40-hour RCSR, or a degree that includes at least nine credit hours of insurance instruction. Pearson VUE's Florida examination content outlines list no Customer Representative exam at all. If the 4-40 is your goal, there is no passing score to chase — there is a course to complete.
+One clarification worth making up front, because candidates ask about it constantly: **the 4-40 Customer Representative license has no state exam.** Fla. Stat. §626.7351 [sets the 4-40 qualifications by designation rather than examination](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.7351.html) — you qualify by holding a department-approved designation earned within the previous four years, such as the 40-hour RCSR, or a degree that includes at least nine credit hours of insurance instruction. Pearson VUE's Florida examination content outlines list no Customer Representative exam at all. If the 4-40 is your goal, there is no passing score to chase — there is a course to complete.
 
 70% sounds forgiving on the surface. But the exam is specifically designed to separate candidates who genuinely understand the material from those who memorized surface-level definitions. Getting to 70% consistently on real exam-style questions takes real preparation.
 
@@ -60,7 +60,7 @@ Scenario questions dominate. Most questions aren't simple definitions — they'r
 
 The Florida-specific section is unforgiving. Candidates who study generic material tend to underperform on state-law questions, which can drag their overall score below the passing threshold.
 
-Time pressure adds stress. With 2 hours and 45 minutes for the 2-15 exam's 165 questions, time usually isn't the biggest issue — but test anxiety can cause rushed answers and silly mistakes.
+Time pressure adds stress. With [2 hours and 45 minutes for the 2-15 exam](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)'s 165 questions, time usually isn't the biggest issue — but test anxiety can cause rushed answers and silly mistakes.
 
 ## What Score Should You Aim for in Practice?
 
@@ -70,7 +70,7 @@ Here's why: practice exams are usually slightly easier than the actual exam, and
 
 ## Can You Fail and Still Retake?
 
-Yes. Florida limits candidates to 5 exam attempts per exam type within a rolling 12-month period. If you reach that limit, you must wait until the 12-month window resets before testing again. Each attempt requires a new Pearson VUE registration and fee, but there is no mandatory waiting period between attempts — you can schedule your next available test date right away.
+Yes. [Florida limits candidates to 5 exam attempts per exam type within a rolling 12-month period](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf). If you reach that limit, you must wait until the 12-month window resets before testing again. Each attempt requires a new Pearson VUE registration and fee, but there is no mandatory waiting period between attempts — you can schedule your next available test date right away.
 
 More attempts also means more time and money invested. Passing on the first or second try is dramatically more efficient than taking it five or six times.
 
@@ -85,6 +85,12 @@ More attempts also means more time and money invested. Passing on the first or s
 4. Does the exam round my score up or down? The score is a percentage of correct answers among scored questions. You need to meet or exceed 70% — anything below, even by a fraction, is a fail.
 
 5. Can I see which specific questions I missed? No. For exam security reasons, you don't see individual question-level feedback. You only see aggregate performance by content area if you fail.
+
+**Sources cited:**
+
+- [Pearson VUE — Florida Insurance Licensing (candidate overview)](https://www.pearsonvue.com/us/en/fl/insurance.html)
+- [Pearson VUE — Florida Insurance Licensing Candidate Handbook (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
+- [Fla. Stat. §626.7351 — Customer Representative license qualifications](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.7351.html)
 
 ## Score Higher Than 70% in Practice
 

@@ -30,7 +30,7 @@ The rule requires agents to act as informed advisors, not just salespeople.
 
 ## What the Standard Actually Requires: Best Interest, Not Just Suitability
 
-This is the single most important thing to get right. Florida's old standard asked whether an agent had reasonable grounds to believe a product was suitable. The current statute asks more. Fla. Stat. § 627.4554(5)(a) provides:
+This is the single most important thing to get right. Florida's old standard asked whether an agent had reasonable grounds to believe a product was suitable. The current statute asks more. [Fla. Stat. § 627.4554(5)(a) provides](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html):
 
 > An agent, when making a recommendation of an annuity, shall act in the best interest of the consumer under the circumstances known at the time the recommendation is made, without placing the financial interest of the agent or insurer ahead of the consumer's interest.
 
@@ -110,7 +110,7 @@ Agents should treat suitability documentation as seriously as the sale itself. I
 
 The best-interest standard applies to every client. On top of it, Florida adds one hard statutory protection for consumers age 65 and older, plus several practical ones:
 
-- **A statutory surrender-charge cap.** Fla. Stat. § 627.4554(9) provides that an annuity contract issued to a senior consumer age 65 or older "may not contain a surrender or deferred sales charge for a withdrawal of money from an annuity exceeding 10 percent of the amount withdrawn," and the charge must be eliminated entirely after the tenth policy year. This is the provision that genuinely changes the deal for an older client — lead with it.
+- **A statutory surrender-charge cap.** [Fla. Stat. § 627.4554(9) provides](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html) that an annuity contract issued to a senior consumer age 65 or older "may not contain a surrender or deferred sales charge for a withdrawal of money from an annuity exceeding 10 percent of the amount withdrawn," and the charge must be eliminated entirely after the tenth policy year. This is the provision that genuinely changes the deal for an older client — lead with it.
 
 - Additional supervisory review, often imposed by the insurer's own § 627.4554(7) supervision system
 
@@ -136,9 +136,9 @@ Florida requires agents selling annuities to complete a **one-time, 4-hour train
 
 Two details agents routinely get wrong:
 
-- **It is one-time, not recurring.** Fla. Stat. § 627.4554(6)(b)1.a states that "an agent who engages in the sale of annuity products shall complete a one-time, 4-hour training course." There is no periodic annuity-training refresher in Florida. (Agents who already held a life line of authority on January 1, 2024 had a one-time transition requirement — a new 4-hour course or an additional 1-hour course on sales practices, replacement, and disclosure, due by July 1, 2024. That window has closed.)
+- **It is one-time, not recurring.** [Fla. Stat. § 627.4554(6)(b)1.a states that](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html) "an agent who engages in the sale of annuity products shall complete a one-time, 4-hour training course." There is no periodic annuity-training refresher in Florida. (Agents who already held a life line of authority on January 1, 2024 had a one-time transition requirement — a new 4-hour course or an additional 1-hour course on sales practices, replacement, and disclosure, due by July 1, 2024. That window has closed.)
 
-- **It does not count as CE by default.** The same subsection provides that the requirement "is not part of an agent's continuing education requirement in s. 626.2815." It only counts toward your 24-hour (or 20-hour) CE obligation if the provider separately obtained CE approval for that course.
+- **It does not count as CE by default.** The same subsection provides that the requirement "is not part of an agent's [continuing education requirement in s. 626.2815](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)." It only counts toward your 24-hour (or 20-hour) CE obligation if the provider separately obtained CE approval for that course.
 
 ## Product-Specific Suitability: Indexed Annuities
 
@@ -195,6 +195,11 @@ Follow your training. If your insurer or IMO has suitability processes, follow t
 4. How long should I keep suitability documentation? Retention requirements vary, but a good practice is indefinite retention in your own records. Document everything and never dispose of it early.
 
 5. What happens if a client later claims an annuity was unsuitable? DFS will investigate. Strong documentation of the suitability analysis — the information collected, the reasoning applied, the alternatives considered — is your primary defense. Without it, complaints become much harder to defend against.
+
+**Sources cited:**
+
+- [Fla. Stat. § 627.4554, Suitability in annuity transactions (Florida Legislature)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0627/Sections/0627.4554.html)
+- [Fla. Stat. § 626.2815, Continuing education requirements (Florida Legislature)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
 
 ## Sell Annuities the Right Way
 

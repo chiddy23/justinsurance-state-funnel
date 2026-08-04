@@ -30,7 +30,7 @@ You’ll go through [Florida pre-licensing courses](/florida/prelicensing), fing
 
 The [Florida Department of Financial Services](/florida/requirements) (DFS) wants to ensure you’re properly educated and prepared to serve clients. Their requirements typically include:
 
--   Being 18 years or older and a legal resident of Florida.
+-   Being [18 years or older and a legal resident of Florida](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf).
 -   Completing a state-approved [pre-licensing](/florida/prelicensing) course (the number of hours depends on the license type).
 -   Passing the licensing exam and a background check.
 -   Submitting an application with all necessary fees.
@@ -51,7 +51,7 @@ You’ll want to schedule an appointment through a state-approved vendor to ensu
 
 ## Exam fees and scheduling
 
-After finishing your pre-licensing course, you’ll be ready to take the state exam, which is administered by Pearson VUE. Plan to spend approximately $44 for the exam fee. These fees go directly to the testing center, and you’ll likely pay them when scheduling online.
+After finishing your pre-licensing course, you’ll be ready to take the state exam, which is [administered by Pearson VUE](https://www.pearsonvue.com/us/en/fl/insurance.html). Plan to spend approximately [$44 for the exam fee](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees). These fees go directly to the testing center, and you’ll likely pay them when scheduling online.
 
 Give yourself enough time to study before picking a test date. As of February 2024, Florida no longer offers remote or online-proctored exams — all Florida insurance licensing exams must be taken in person at a Pearson VUE testing center, so plan to choose a testing location near you. The exam itself usually includes multiple-choice questions on topics like Florida insurance laws, ethics, and the specific lines of insurance you intend to sell. Passing requires a solid understanding of these areas, so consider brushing up with practice tests and review sessions before test day.
 
@@ -93,7 +93,7 @@ When you add up each line, the grand total might land around $350 to $500 or mor
 
 ## Plan for future fees
 
-Obtaining your Florida insurance license is only the beginning. Throughout your career, you’ll need to maintain your license by completing [Florida continuing education](/florida/continuing-education) (CE) credits. Florida agent licenses are actually perpetual — there’s no license-renewal application and no renewal fee. What recurs is your CE obligation: you must complete your credits every two years, by the end of your birth month, to keep the license active. New agents complete 24 CE hours per two-year cycle, which drops to 20 hours once you’ve been licensed more than six years, and each cycle must include the state’s required Law & Ethics update course. CE courses often come with fees to cover instruction and any materials, so be sure to budget for this recurring cost.
+Obtaining your Florida insurance license is only the beginning. Throughout your career, you’ll need to maintain your license by completing [Florida continuing education](/florida/continuing-education) (CE) credits. Florida agent licenses are actually perpetual — there’s no license-renewal application and no renewal fee. What recurs is your CE obligation: you must [complete your credits every two years, by the end of your birth month](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf), to keep the license active. New agents complete 24 CE hours per two-year cycle, which drops to 20 hours once you’ve been licensed more than six years, and each cycle must include the state’s required Law & Ethics update course. CE courses often come with fees to cover instruction and any materials, so be sure to budget for this recurring cost.
 
 Another cost you might encounter is Errors & Omissions (E&O) insurance, especially if you open an independent agency or transition into a role that requires personal liability coverage. E&O insurance premiums can range widely, so it’s always good to review your options and speak with a trusted insurance provider or consult your employer for group rate discounts.
 
@@ -114,3 +114,9 @@ Ready to start your journey? Reach out to JustInsurance or research reputable pr
 2. Does the total cost change depending on which Florida license I choose? Your $44 exam fee and fingerprinting cost don't change based on the license you pick, and the resident agent application fee is a flat $50; the biggest variable is pre-licensing education, because the required hours differ by license — the 2-15 Life, Health and Variable Annuity license, for example, calls for a 60-hour state-approved course — so check what applies to you on the [Florida requirements](/florida/requirements) page.
 
 3. After I pass, is there a deadline to finish my license before that money is at risk? Yes — Florida keeps your passing exam score valid for one year, so if you don't complete your application and licensing within that window you would need to retake the exam and pay the $44 fee again; submitting your application to the Florida Department of Financial Services (DFS) promptly after passing protects what you've already spent, and your [Florida pre-licensing course](/florida/prelicensing) provider can walk you through the remaining steps.
+
+**Sources cited:**
+
+- [Pearson VUE — Florida Insurance Licensure](https://www.pearsonvue.com/us/en/fl/insurance.html)
+- [Florida DFS — Agent and Adjuster License Fees](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees)
+- [Florida DFS — 2-15 Resident Life, Health and Variable Annuity License Requirements (eligibility and CE)](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf)

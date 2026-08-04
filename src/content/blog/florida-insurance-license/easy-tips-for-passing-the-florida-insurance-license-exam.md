@@ -28,7 +28,7 @@ Florida has its own guidelines for insurance licensing, so be sure you are fully
 
 ## Meet [pre-licensing requirements](/florida/prelicensing)
 
-Florida requires you to complete a pre-licensing course approved by the Department of Financial Services. These courses vary in length depending on the license you want—commonly 30 hours for life-only, 40 hours for health-only, and 60 hours for combined life and health insurance. Most instruction is available online, making it convenient to schedule around your other commitments.
+Florida requires you to complete a pre-licensing course approved by the Department of Financial Services. These courses vary in length depending on the license you want—commonly [30 hours for life-only](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf), 40 hours for health-only, and 60 hours for combined life and health insurance. Most instruction is available online, making it convenient to schedule around your other commitments.
 
 Once you complete the course, you will typically receive a certificate of completion. Hold onto this document, because you will need to present it when you register for your exam. If you lose it, you might have to request a new copy or retake the course, which can cost extra time and money. Confirm that you have the current version of the certificate, as older certificates might not be accepted.
 
@@ -48,7 +48,7 @@ Florida’s insurance license exams are administered by a state-approved vendor,
 
 Exact exam costs can range, so check the official site for the current fees associated with your particular license. Make sure you also factor in the time it takes to drive to the testing location, any parking fees, and the ID requirements. You will need to bring one current, unexpired, government-issued photo ID that shows your signature.
 
-The exam format usually consists of multiple-choice questions, covering both general insurance knowledge and Florida-specific laws. Expect to see scenario-based questions that test practical understanding of what an agent should do in real-life situations. You will need to reach a minimum passing score—a flat 70% across all Florida license types.
+The exam format usually consists of multiple-choice questions, covering both general insurance knowledge and Florida-specific laws. Expect to see scenario-based questions that test practical understanding of what an agent should do in real-life situations. You will need to reach a minimum passing score—[a flat 70% across all Florida license types](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf).
 
 ## Prepare with proven tips
 
@@ -81,8 +81,15 @@ Now is a perfect time to begin. Organize your study materials, set up your sched
 
 ## Frequently Asked Questions
 
-1. Who administers the Florida insurance license exam, and can I take it from home? The Florida Department of Financial Services uses Pearson VUE as its testing vendor, and every attempt must be scheduled and taken in person at a physical Pearson VUE test center in Florida rather than online; you can review the full exam and licensing steps on our [Florida requirements](/florida/requirements) page.
+1. Who administers the Florida insurance license exam, and can I take it from home? The Florida Department of Financial Services uses [Pearson VUE as its testing vendor](https://nipr.com/licensing-center/state-information/florida), and every attempt must be scheduled and taken in person at a physical Pearson VUE test center in Florida rather than online; you can review the full exam and licensing steps on our [Florida requirements](/florida/requirements) page.
 
-2. What score do I need to pass, and how much does the Florida exam cost? You must score at least 70% to pass — the same threshold applies to every Florida insurance license type — and Pearson VUE charges a $44 examination fee for each attempt, so completing your DFS-approved [pre-licensing](/florida/prelicensing) course and practice exams is how you prepare for that standard.
+2. What score do I need to pass, and how much does the Florida exam cost? You must score at least 70% to pass — the same threshold applies to every Florida insurance license type — and Pearson VUE charges a [$44 examination fee](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees) for each attempt, so completing your DFS-approved [pre-licensing](/florida/prelicensing) course and practice exams is how you prepare for that standard.
 
-3. Can I retake the Florida exam if I don't pass, and what should I bring on test day? Yes — Florida permits up to five attempts at the same exam type within any 12-month period, and you pay the $44 Pearson VUE fee for each attempt; on test day bring one current, unexpired, government-issued photo ID that shows your signature, and reviewing your [pre-licensing](/florida/prelicensing) materials before rebooking can help you shore up weak areas.
+3. Can I retake the Florida exam if I don't pass, and what should I bring on test day? Yes — Florida permits [up to five attempts at the same exam type within any 12-month period](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf), and you pay the $44 Pearson VUE fee for each attempt; on test day bring one current, unexpired, government-issued photo ID that shows your signature, and reviewing your [pre-licensing](/florida/prelicensing) materials before rebooking can help you shore up weak areas.
+
+**Sources cited:**
+
+- [Florida DFS — 2-14 Resident Life Agent license requirements](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf)
+- [Pearson VUE — Florida Insurance Licensing Candidate Handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
+- [NIPR — Florida licensing information](https://nipr.com/licensing-center/state-information/florida)
+- [Florida DFS — Agent and adjuster fees](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees)

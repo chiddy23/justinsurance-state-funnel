@@ -28,11 +28,11 @@ Independent agencies are contrasted with captive agencies, which represent a sin
 
 ## What You Need to Start
 
-A valid Florida license. At minimum, you need the appropriate license for the products you plan to sell — typically a 2-15 for life and health, a 2-20 for property and casualty, or both.
+A valid Florida license. At minimum, you need the appropriate license for the products you plan to sell — typically a [2-15 for life and health](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf), a [2-20 for property and casualty](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-20-resident-general-lines.pdf), or both.
 
 A legal business entity. Most independent agencies are formed as LLCs or corporations. Forming the entity properly protects your personal assets and establishes the agency as a legitimate business. Work with a Florida business attorney or use a reputable formation service.
 
-An agency license from DFS. Florida requires separate licensing for the business entity, not just the individuals within it. Your agency needs its own DFS license, appointed officers, and compliance framework.
+An agency license from DFS. [Florida requires separate licensing for the business entity](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.172.html), not just the individuals within it. Your agency needs its own DFS license, appointed officers, and compliance framework.
 
 Errors and omissions (E&O) insurance. E&O covers your agency against client claims for mistakes in the sales or servicing process. It's typically required by carriers before they'll appoint your agency. Expect this to cost several hundred to several thousand dollars per year depending on volume and coverage.
 
@@ -140,7 +140,7 @@ Agency-level compliance matters. Florida DFS regulates agencies, not just indivi
 
 - Appointment filings with DFS
 
-- CE requirements for all licensed staff
+- [CE requirements for all licensed staff](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
 
 - Record retention obligations
 
@@ -159,6 +159,13 @@ Compliance mistakes at the agency level can affect every producer in the agency.
 4. What's the hardest part of starting an independent agency in Florida? Usually getting carrier appointments for preferred products. This is why joining an MGA or cluster is the common entry point for new agencies.
 
 5. Should I start an independent agency or stay captive longer? Most successful independents spent 3–7 years at a captive or established agency before going independent. The experience, training, and initial book they built made the transition viable. Starting independent from zero without experience is significantly harder.
+
+**Sources cited:**
+
+- [Florida DFS - 2-15 Life, Health & Variable Annuity Agent License](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-15-resident-health-life-agent-license.pdf)
+- [Florida DFS - 2-20 General Lines (Property & Casualty) Agent License](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-20-resident-general-lines.pdf)
+- [Section 626.172, Florida Statutes - Application for insurance agency license](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.172.html)
+- [Section 626.2815, Florida Statutes - Continuing education requirements](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
 
 ## Build the Agency You Envision
 

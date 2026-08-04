@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Ketut Subiyanto on Pexels
 ---
 
-If you have been searching for how to renew your [Florida insurance license](/florida), here is the answer that surprises almost everyone: you don't. Florida agent and adjuster licenses are perpetual. The Department of Financial Services states it plainly — "Insurance agent and adjuster licenses are perpetual (no renewal required), provided that the licensee is properly appointed." There is no renewal application to file and no renewal fee to pay.
+If you have been searching for how to renew your [Florida insurance license](/florida), here is the answer that surprises almost everyone: you don't. Florida agent and adjuster licenses are perpetual. The Department of Financial Services states it plainly — "[Insurance agent and adjuster licenses are perpetual (no renewal required), provided that the licensee is properly appointed](https://myfloridacfo.com/division/agents/licensing/faq)." There is no renewal application to file and no renewal fee to pay.
 
 That does not mean there is nothing to do. It means the work sits somewhere other than where most agents expect it. Two obligations keep your license alive, and missing either one causes exactly the disruption people are trying to avoid when they go looking for a renewal button. Below, you'll find what those obligations actually are, when they fall due, and who is responsible for each one.
 
@@ -33,7 +33,7 @@ From that point onward, the license itself does not expire on a schedule. It sta
 
 Two things carry real dates. Neither of them is a license renewal.
 
-**Your continuing education compliance date is the last day of your birth month.** Florida Administrative Code Rule 69B-228.220 sets it out: you "must complete all required hours by the end of the licensee's birth month after being licensed 24 months and every 2 years thereafter." Not your license anniversary. Not your original issue date. Your birth month — which means your deadline is personal to you, and a colleague's due date tells you nothing about your own.
+**Your continuing education compliance date is the last day of your birth month.** [Florida Administrative Code Rule 69B-228.220](https://www.flrules.org/gateway/RuleNo.asp?ID=69B-228.220) sets it out: you "must complete all required hours by the end of the licensee's birth month after being licensed 24 months and every 2 years thereafter." Not your license anniversary. Not your original issue date. Your birth month — which means your deadline is personal to you, and a colleague's due date tells you nothing about your own.
 
 **Your appointment renews every 24 months, also during your birth month.** An appointment is a carrier's or agency's formal authorization for you to write business on their behalf, and it is what keeps a perpetual license from going dormant. If your license goes 48 consecutive months without any appointment, it expires — that is the only way a Florida license lapses on its own.
 
@@ -41,7 +41,7 @@ If you calendar one thing from this article, calendar your birth month. Both clo
 
 ## Fulfill continuing education requirements
 
-Your [Florida continuing education](/florida/continuing-education) obligation is the part you personally own, and the hour total is not a flat number — it scales down as you gain experience. Under Section 626.2815, Florida Statutes:
+Your [Florida continuing education](/florida/continuing-education) obligation is the part you personally own, and the hour total is not a flat number — it scales down as you gain experience. Under [Section 626.2815, Florida Statutes](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html):
 
 -   **Licensed fewer than 6 years:** a 4-hour law and ethics update course specific to your license type, plus 20 hours of electives — **24 hours total** every two years.
 -   **Licensed 6 years or more:** the same 4-hour update course, plus 16 hours of electives — **20 hours total** every two years.
@@ -107,3 +107,9 @@ If you need straightforward explanations of Florida licensing rules or help sele
 2. When is my Florida insurance continuing education due? Your CE compliance date is the last day of your own birth month, first due after you have been licensed 24 months and every two years after that, so the deadline is personal to you rather than tied to your license issue date — you can review which DFS-approved courses count toward your hours on our [Florida continuing education](/florida/continuing-education) page.
 
 3. Can my Florida insurance license actually expire? Yes, but only one way: if it goes 48 consecutive months without an active appointment it expires, and you would then have to re-qualify as a first-time applicant, which can include prelicensing coursework and passing the state exam again; short of that, missing your birth-month CE deadline does not void the license itself — it leads to your appointments being cancelled so you cannot write business until you complete the hours and the appointment is reinstated, and you can see how a first license is earned on our [Florida prelicensing](/florida/prelicensing) page.
+
+**Sources cited:**
+
+- [Florida DFS — Agent and Adjuster Licensing FAQ (perpetual licenses)](https://myfloridacfo.com/division/agents/licensing/faq)
+- [Section 626.2815, Florida Statutes (continuing education requirements)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Florida Administrative Code Rule 69B-228.220 (CE compliance and birth-month deadline)](https://www.flrules.org/gateway/RuleNo.asp?ID=69B-228.220)

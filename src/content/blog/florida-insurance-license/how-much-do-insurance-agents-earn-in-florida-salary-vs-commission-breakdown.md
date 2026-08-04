@@ -72,7 +72,7 @@ Agents who expect a slow first year and plan for it almost always break through 
 
 1. Can I make a full-time income in my first year as a Florida agent? Possible but not guaranteed. Agents with strong networks, good mentoring, or strong lead flow sometimes hit six figures year one. Most earn a modest full-time income in year one and grow from there.
 
-2. Are commissions consistent or seasonal in Florida? Some markets have seasonality. Medicare's Annual Enrollment Period (October 15 – December 7) drives heavy Medicare commissions in Q4. Hurricane season affects P&C placements. Life insurance tends to be more evenly distributed across the year.
+2. Are commissions consistent or seasonal in Florida? Some markets have seasonality. Medicare's [Annual Enrollment Period](https://www.govinfo.gov/content/pkg/CFR-2023-title42-vol3/xml/CFR-2023-title42-vol3-sec422-62.xml) (October 15 – December 7) drives heavy Medicare commissions in Q4. Hurricane season affects P&C placements. Life insurance tends to be more evenly distributed across the year.
 
 3. Do Florida agents get health benefits from their agency? Captive agencies often provide benefits. Independent agents typically secure their own — which, ironically, they're often well-positioned to do themselves.
 
@@ -85,3 +85,7 @@ Agents who expect a slow first year and plan for it almost always break through 
 Florida offers real earning potential for agents who commit to the career. At JustInsurance, our Florida [prelicense](/florida/prelicensing) course prepares you for the exam and for the real work of building income in this market.
 
 Enroll today and start building your Florida insurance income.
+
+**Sources cited:**
+
+- [42 CFR 422.62: Medicare annual coordinated election period (October 15 – December 7), U.S. Government Publishing Office](https://www.govinfo.gov/content/pkg/CFR-2023-title42-vol3/xml/CFR-2023-title42-vol3-sec422-62.xml)

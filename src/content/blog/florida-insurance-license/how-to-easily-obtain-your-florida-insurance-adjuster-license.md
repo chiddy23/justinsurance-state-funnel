@@ -26,7 +26,7 @@ For many adjusters, job variety is one of the biggest benefits. Each day can loo
 
 ## Check if you qualify
 
-Acquiring your Florida insurance adjuster license requires meeting a few key prerequisites. Per the DFS requirement sheet for the 6-20 Resident All-Lines Adjuster license, you must be a natural person at least 18 years of age, a resident of Florida, a United States citizen or a legal alien with work authorization, and you must not hold a resident license in another state. A clean criminal background matters too — prior offenses are reviewed case by case rather than automatically disqualifying. Verify the current eligibility rules directly with DFS so you know where you stand.
+Acquiring your Florida insurance adjuster license requires meeting a few key prerequisites. Per the [DFS requirement sheet for the 6-20 Resident All-Lines Adjuster license](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/6-20-resident-all-lines-adjuster-license.pdf), you must be a natural person at least 18 years of age, a resident of Florida, a United States citizen or a legal alien with work authorization, and you must not hold a resident license in another state. A clean criminal background matters too — prior offenses are reviewed case by case rather than automatically disqualifying. Verify the current eligibility rules directly with DFS so you know where you stand.
 
 From there, it is a matter of deciding which qualifying route fits you and making room in your schedule. The entire process can often be completed in just a few weeks, though exact timelines differ depending on which route you take and how quickly the department processes your application.
 
@@ -50,7 +50,7 @@ A note on what we do and do not offer: JustInsurance's Florida catalog covers ag
 
 ## Take the state exam
 
-If you do not hold one of the exemptions above, the state examination is your route. Florida's All-Lines Adjuster exam (Pearson VUE code InsFL-ALJ16, covering the 6-20, 7-20, and 70-20 licenses) is 110 questions — 100 scored plus 10 unscored pretest items — with a two-hour time limit. The passing score is 70%, and in Florida that is a true percentage: the handbook computes it by dividing the number of questions answered correctly by the total number of examination questions.
+If you do not hold one of the exemptions above, the state examination is your route. Florida's All-Lines Adjuster exam (Pearson VUE code InsFL-ALJ16, covering the 6-20, 7-20, and 70-20 licenses) is 110 questions — 100 scored plus 10 unscored pretest items — with a two-hour time limit. [The passing score is 70%](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf), and in Florida that is a true percentage: the handbook computes it by dividing the number of questions answered correctly by the total number of examination questions.
 
 You schedule online through Pearson VUE and test at a center in Florida. The examination fee is $44 per attempt, payable at the time of reservation and forfeited if you miss your appointment. Bring proper identification. There is a limit of five examination attempts for the same examination type in any twelve-month period, and a passing score stays valid for one year — if you have not finished the licensing process within that year, you have to retake and pass the exam again.
 
@@ -66,7 +66,7 @@ One thing that surprises new adjusters: the license needs an appointment to be a
 
 ## Maintain your license
 
-Earning your Florida insurance adjuster license is a major accomplishment, and you will want to keep it in good standing. Florida requires ongoing [continuing education](/florida/continuing-education) (CE) to ensure you stay current with any shifts in regulations or best practices. For the 6-20 license, DFS sets the requirement at 24 hours due every two years by the end of your birth month, under section 626.2815, Florida Statutes. Once the requirement generates, you can view it in your MyProfile account.
+Earning your Florida insurance adjuster license is a major accomplishment, and you will want to keep it in good standing. Florida requires ongoing [continuing education](/florida/continuing-education) (CE) to ensure you stay current with any shifts in regulations or best practices. For the 6-20 license, DFS sets the requirement at 24 hours due every two years by the end of your birth month, under [section 626.2815, Florida Statutes](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html). Once the requirement generates, you can view it in your MyProfile account.
 
 Often, you will focus part of your CE on specific topics such as law and ethics, and the rest can be on subjects that boost your professional development. Thankfully, many of these courses are offered online, so you can fit them around your schedule. Staying on top of CE not only keeps your license active, it also helps you deliver top-notch service to clients.
 
@@ -78,7 +78,7 @@ When it comes to expenses, here is a quick rundown of what you might expect:
 
 -   No mandatory course cost. A voluntary designation program is optional and priced by the provider, so shop it like any other purchase.
 -   The state examination fee is $44 per attempt, per the Pearson VUE Florida candidate handbook.
--   The DFS license application fee is $50, plus a $5 license identification fee.
+-   The DFS license application fee is [$50, plus a $5 license identification fee](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees).
 -   Fingerprinting is paid directly to the vendor and is not included in the application fee — DFS publishes the current rate on its fingerprinting information page.
 
 Fees change, so confirm all current costs through the DFS fee schedule and the Pearson VUE Florida handbook before you commit.
@@ -90,3 +90,10 @@ Now that you know the steps, you are one decision away from pursuing a career as
 Once you have your Florida insurance adjuster license, you open the door to a field that offers stability, opportunities for growth, and the gratification of assisting individuals in need. And if your plans eventually extend beyond claims into selling coverage, that is a different license with a different path — Florida's agent lines do require prelicensing hours, and our [Florida prelicensing courses](/florida/prelicensing) cover the 2-14, 2-40, and 2-15 Life and Health lines.
 
 Whether you want to learn at your own pace or jump in full force, the choice is yours. Take a confident step toward your future today. You can become the trusted professional people rely on to navigate insurance claims and rebuild what was lost.
+
+**Sources cited:**
+
+- [Florida DFS — 6-20 Resident All-Lines Adjuster License requirement sheet](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/6-20-resident-all-lines-adjuster-license.pdf)
+- [Section 626.2815, Florida Statutes — insurance agent and adjuster continuing education](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Pearson VUE — Florida Insurance Licensing Candidate Handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
+- [Florida DFS — Agent and Adjuster License Fees](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees)

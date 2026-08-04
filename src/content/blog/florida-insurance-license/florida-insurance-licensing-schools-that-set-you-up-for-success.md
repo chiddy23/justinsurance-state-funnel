@@ -20,7 +20,7 @@ imageCredit: Photo by Pavel Danilyuk on Pexels
 
 ## Know the [florida insurance licensing requirements](/florida/requirements)
 
-Florida sets clear guidelines for anyone hoping to become a licensed insurance agent. You usually need to be at least 18 years old, a US citizen or legal resident, and without any major criminal infractions on your record. One of your first steps is to pick which license type you want, such as life, health, or property and casualty. Each license comes with its own [pre-licensing](/florida/prelicensing) course requirement to ensure you know key concepts before you ever speak to a potential client.
+Florida sets clear guidelines for anyone hoping to become a licensed insurance agent. You usually need to be [at least 18 years old, a US citizen or legal resident](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf), and without any major criminal infractions on your record. One of your first steps is to pick which license type you want, such as life, health, or property and casualty. Each license comes with its own [pre-licensing](/florida/prelicensing) course requirement to ensure you know key concepts before you ever speak to a potential client.
 
 You might feel overwhelmed by all the rules at first, but you can think of them as a road map. By following each step, you know you are meeting state expectations and laying the groundwork for a successful career. If you are not sure which license is right for you, do a little research on the areas that interest you most. With each one, you will be helping communities protect themselves from financial risks.
 
@@ -60,7 +60,7 @@ Taking a deep breath and trusting your preparation can make a world of differenc
 
 ## Ace the application process
 
-Passing the exam is a major achievement, but you still need to complete your formal application to become a licensed agent. The Florida DFS typically asks for a background check that involves submitting fingerprints, which you can do through an authorized vendor. Once you have done that and passed, the department will review your application and exam results before issuing your license.
+Passing the exam is a major achievement, but you still need to complete your formal application to become a licensed agent. [The Florida DFS typically asks for a background check that involves submitting fingerprints](https://myfloridacfo.com/division/agents/licensing/faq), which you can do through an authorized vendor. Once you have done that and passed, the department will review your application and exam results before issuing your license.
 
 This application step also includes paying certain fees for your license issuance, and you will want to keep track of deadlines. You will often receive updates from the DFS about your status if there are any questions or hiccups. Once your license is approved, you will have official credentials allowing you to sell [insurance in Florida](/florida).
 
@@ -90,8 +90,14 @@ Take that next step toward your goal. You have a rewarding career waiting for yo
 
 ## Frequently Asked Questions
 
-1. How do you get a life insurance license in Florida? You complete the state-required prelicensing course for your line of authority, pass the Florida licensing exam at a Pearson VUE testing center, complete electronic fingerprinting through the state’s authorized vendor, and submit your application to the Florida Department of Financial Services (DFS). Our [Florida insurance license requirements](/florida/requirements) page walks through each step in order.
+1. How do you get a life insurance license in Florida? You complete the state-required prelicensing course for your line of authority, pass the Florida licensing exam at a [Pearson VUE testing center](https://www.pearsonvue.com/us/en/fl/insurance.html), complete electronic fingerprinting through the state’s authorized vendor, and submit your application to the Florida Department of Financial Services (DFS). Our [Florida insurance license requirements](/florida/requirements) page walks through each step in order.
 
 2. Do Florida insurance licensing schools include the state exam? No. A prelicensing school prepares you and issues the course-completion certificate the state requires, but the licensing exam itself is administered separately by the state’s testing vendor (Pearson VUE). Look for a school that includes full-length practice exams so you sit for the test well prepared.
 
 3. How long does it take to get a Florida insurance license? For most people it takes a few weeks — the time depends on how quickly you finish the coursework and schedule your exam and fingerprinting. See the current, step-by-step process on our [Florida insurance license requirements](/florida/requirements) page.
+
+**Sources cited:**
+
+- [Florida DFS — 2-14 Resident Life Agent license requirements](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-14-resident-life-agent-license.pdf)
+- [Florida DFS — Agent and Adjuster Licensing FAQ](https://myfloridacfo.com/division/agents/licensing/faq)
+- [Pearson VUE — Florida Insurance Licensing Exams](https://www.pearsonvue.com/us/en/fl/insurance.html)

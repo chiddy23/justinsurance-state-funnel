@@ -22,7 +22,7 @@ Here's a practical breakdown of what Florida's Unfair Trade Practices Act prohib
 
 ## What the Act Covers
 
-Florida's Unfair Insurance Trade Practices Act (part of the Florida Insurance Code) prohibits specific conduct considered unfair, deceptive, or harmful to consumers. The Act applies to insurers, agents, adjusters, and anyone else engaged in the business of insurance in Florida.
+Florida's Unfair Insurance Trade Practices Act (part of the Florida Insurance Code) [prohibits specific conduct considered unfair, deceptive, or harmful to consumers](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9541.html). The Act applies to insurers, agents, adjusters, and anyone else engaged in the business of insurance in Florida.
 
 The Department of Financial Services enforces these provisions. Violations can result in fines, license suspension, revocation, or — in severe cases — criminal liability.
 
@@ -46,7 +46,7 @@ Example: Telling a client that a universal life policy guarantees a specific cas
 
 ## Twisting
 
-Using misrepresentation to induce a policyholder to replace an existing policy. Twisting specifically targets replacement transactions — making false or misleading statements to convince a client to drop existing coverage in favor of new coverage.
+Using misrepresentation to induce a policyholder to replace an existing policy. [Twisting specifically targets replacement transactions](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9541.html) — making false or misleading statements to convince a client to drop existing coverage in favor of new coverage.
 
 Example: Telling a client their existing whole life policy "won't pay out" when it absolutely will, in order to sell a replacement.
 
@@ -108,7 +108,7 @@ Unfair discrimination in rates, underwriting, or policy terms — based on facto
 
 DFS has significant enforcement authority:
 
-- Civil fines that can reach substantial amounts per violation
+- [Civil fines that can reach substantial amounts per violation](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9521.html)
 
 - License suspension or revocation
 
@@ -143,6 +143,11 @@ Treat replacement with extreme care. Most unfair practices violations happen in 
 4. How does DFS find out about unfair trade practice violations? Complaints from clients, reports from carriers, patterns identified during audits, tips from other agents, and investigations triggered by compliance flags. Nothing stays hidden for long in a regulated industry.
 
 5. What should I do if I made an honest mistake? Correct it immediately, notify the affected parties, and document what happened. Honest mistakes handled promptly usually have far better outcomes than ones hidden or denied.
+
+**Sources cited:**
+
+- [Florida Statutes s. 626.9541 — Unfair methods of competition and unfair or deceptive acts or practices defined](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9541.html)
+- [Florida Statutes s. 626.9521 — Unfair trade practices prohibited; penalties](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9521.html)
 
 ## Stay on the Right Side of Florida Law
 

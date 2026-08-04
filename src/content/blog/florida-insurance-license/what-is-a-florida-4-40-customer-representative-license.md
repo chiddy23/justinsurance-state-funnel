@@ -64,7 +64,7 @@ Support professionals in larger agencies. Many successful Florida agencies have 
 
 ## Getting Your 4-40
 
-Here's the part that surprises almost everyone: the 4-40 is credentialed through **education, not a state exam**. Under Fla. Stat. 626.7351, the qualifying designation *is* the qualification, and the Florida Department of Financial Services says so directly — "Customer Representative applicants who hold the following professional designations are not required to sit for the customer representative examination."
+Here's the part that surprises almost everyone: the 4-40 is credentialed through **education, not a state exam**. Under [Fla. Stat. 626.7351](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.7351.html), the qualifying designation *is* the qualification, and the [Florida Department of Financial Services](https://myfloridacfo.com/division/agents/licensing/agents-and-adjusters/pro-designations) says so directly — "Customer Representative applicants who hold the following professional designations are not required to sit for the customer representative examination."
 
 To qualify for a Florida 4-40 license:
 
@@ -101,11 +101,18 @@ If you're thinking long-term about a career as an independent P&C agent or agenc
 
 2. Does the 4-40 let me sell life insurance? No. The 4-40 is strictly for general lines (property, casualty, health) business. Life insurance requires a 2-15 or equivalent.
 
-3. Is there a 4-40 state exam? No. The 4-40 is earned through an approved designation — most often the 40-hour RCSR — rather than by testing, and DFS does not require designation holders to sit for a customer representative examination. Pearson VUE publishes no 4-40 content outline. The 2-20 general lines license is different: that one does require a state exam, and it covers considerably more commercial lines material.
+3. Is there a 4-40 state exam? No. The 4-40 is earned through an approved designation — most often the 40-hour RCSR — rather than by testing, and DFS does not require designation holders to sit for a customer representative examination. [Pearson VUE publishes no 4-40 content outline](https://www.pearsonvue.com/us/en/fl/insurance.html). The 2-20 general lines license is different: that one does require a state exam, and it covers considerably more commercial lines material.
 
-4. Do 4-40 license holders have [continuing education](/florida/continuing-education) requirements? Yes. Florida requires customer representatives to complete continuing education to maintain the license — check with DFS for current hour requirements.
+4. Do 4-40 license holders have [continuing education](/florida/continuing-education) requirements? Yes. [Florida requires customer representatives to complete continuing education](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html) to maintain the license — check with DFS for current hour requirements.
 
 5. Is the 4-40 a good first license for someone new to insurance? Yes — especially if you're entering the industry through a P&C agency. It gets you into the work quickly and lets you build experience while deciding whether to go deeper as an agent.
+
+**Sources cited:**
+
+- [Fla. Stat. 626.7351 — Qualifications for customer representative's license](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.7351.html)
+- [Florida DFS — Professional Designations (customer representative examination exemption)](https://myfloridacfo.com/division/agents/licensing/agents-and-adjusters/pro-designations)
+- [Fla. Stat. 626.2815 — Continuing education requirements](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Pearson VUE — Florida insurance licensing exams](https://www.pearsonvue.com/us/en/fl/insurance.html)
 
 ## Start Your Florida Insurance Career with the Right License
 

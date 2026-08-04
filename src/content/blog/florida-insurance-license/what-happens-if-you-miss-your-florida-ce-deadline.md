@@ -24,7 +24,7 @@ Here's what happens when a Florida CE deadline gets missed and how to recover.
 
 ## The Real Consequence: Your Appointments, Not Your License
 
-Florida's Department of Financial Services takes CE compliance seriously, but the enforcement lever is spelled out in statute. Fla. Stat. § 626.2815(9) provides that the department "may immediately terminate or refuse to renew the appointment of an agent or adjuster who has been notified by the department that his or her continuing education requirements have not been certified, unless the agent or adjuster has been granted an extension or waiver by the department."
+Florida's Department of Financial Services takes CE compliance seriously, but the enforcement lever is spelled out in statute. Fla. Stat. § 626.2815(9) provides that the department "[may immediately terminate or refuse to renew the appointment of an agent or adjuster](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html) who has been notified by the department that his or her continuing education requirements have not been certified, unless the agent or adjuster has been granted an extension or waiver by the department."
 
 That's the whole mechanism: appointment termination, not license suspension.
 
@@ -60,7 +60,7 @@ Florida charges no renewal fee, because there is no renewal — but non-complian
 
 Settlement Stipulation fine. Signing the stipulation means agreeing to a negotiated fine. That's the real "late fee" in Florida, and it exists whether or not your appointments ever get cancelled.
 
-Appointment reinstatement costs. Getting a cancelled appointment back means a new appointment submission — roughly $25 in appointment reinstatement charges plus the $60 appointment fee. When the requested effective date is more than 45 days old, Florida law adds a $250 delinquent-appointment fee (Fla. Stat. §626.371) — but that one is billed to the appointing carrier, which by statute may not pass it on to you.
+Appointment reinstatement costs. Getting a cancelled appointment back means a new appointment submission — roughly $25 in appointment reinstatement charges plus the $60 appointment fee. When the requested effective date is more than 45 days old, Florida law adds a [$250 delinquent-appointment fee](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.371.html) (Fla. Stat. §626.371) — but that one is billed to the appointing carrier, which by statute may not pass it on to you.
 
 Completion of missed CE. You'll still need to complete the full CE requirement — the hours don't go away just because you're past your due date, and DFS will not clear the non-compliance until the hours are reported.
 
@@ -82,7 +82,7 @@ Moving quickly is almost always cheaper than waiting.
 
 Step 1 — Check MyProfile. Log into the DFS portal and see exactly where you stand. Your CE transcript, outstanding hours, appointment status, and any Preliminary Notice or Settlement Stipulation all live there.
 
-Step 2 — Complete your missing CE immediately. Enroll in DFS-approved courses to fulfill the outstanding hours, including the 4-hour Law and Ethics Update if you haven't completed it.
+Step 2 — Complete your missing CE immediately. Enroll in DFS-approved courses to fulfill the outstanding hours, including the [4-hour Law and Ethics Update](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html) if you haven't completed it.
 
 Step 3 — Respond to the notice. Either request a good-cause extension or waiver, or sign the Settlement Stipulation and pay the fine it specifies. Ignoring both is what triggers appointment cancellation.
 
@@ -115,6 +115,11 @@ Set reminders 90 and 60 days out. Plenty of time to complete any remaining hours
 4. Does missing CE suspend my Florida license? No. Florida licenses are perpetual and DFS does not suspend them for CE non-compliance. What DFS does under Fla. Stat. § 626.2815(9) is terminate or refuse to renew your appointments — and without an appointment you can't write business, which produces the same practical result. The license itself only expires after 48 consecutive months with no appointment.
 
 5. How long does it take to get back in good standing? Once your CE hours are reported and the notice or stipulation is resolved, your compliance record updates in MyProfile within days. Getting cancelled appointments back takes longer, because each appointing carrier has to submit a new appointment on your behalf.
+
+**Sources cited:**
+
+- [Florida Statutes 626.2815 (continuing education requirements; 4-hour update course; appointment termination for non-compliance)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Florida Statutes 626.371 ($250 delinquent appointment fee; paid by appointing entity, not charged to the appointee)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.371.html)
 
 ## Don't Let a Missed Deadline Derail Your Career
 

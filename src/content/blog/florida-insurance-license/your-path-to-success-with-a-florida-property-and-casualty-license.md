@@ -30,7 +30,7 @@ By securing this license, you position yourself as a trusted advisor who can gui
 
 ## Check your eligibility
 
-Before you get too deep into planning your steps, it’s important to ensure you meet the basic requirements set by the [Florida Department of Financial Services](/florida/requirements). Most importantly, you must be at least 18 years old, a resident of the state of Florida, and a U.S. citizen or a legal alien with work authorization. DFS also requires that you not hold a resident insurance license in another state. Residency is not paperwork you can supply after the fact — it is a condition of the resident 2-20 license itself.
+Before you get too deep into planning your steps, it’s important to ensure you meet the basic requirements set by the [Florida Department of Financial Services](/florida/requirements). Most importantly, you must be [at least 18 years old, a resident of the state of Florida, and a U.S. citizen or a legal alien with work authorization](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.731.html). DFS also requires that you not hold a resident insurance license in another state. Residency is not paperwork you can supply after the fact — it is a condition of the resident 2-20 license itself.
 
 If Florida is not your primary home state, the resident license described on this page is not the one you apply for. You would instead pursue the 9-20 non-resident general lines license, which is granted on the strength of an equivalent resident license you already hold in your home state and stays valid only for the lines of authority that home-state license carries. In that case, your first step is licensure at home, not a Florida pre-licensing course.
 
@@ -38,7 +38,7 @@ Meeting the character requirement is just as vital as meeting the age and reside
 
 ## Complete your pre-licensing
 
-Once you’ve confirmed your eligibility, you’ll need to complete the required Florida pre-licensing education. For the 2-20 license, the standard route is a department-approved 200-hour property and casualty course completed within four years of your application date. That is one of the longest pre-licensing requirements in the country, so plan your schedule accordingly. These classes cover core insurance terms, legal guidelines, policy structures, and ethical practices.
+Once you’ve confirmed your eligibility, you’ll need to complete the required Florida pre-licensing education. For the 2-20 license, the standard route is a [department-approved 200-hour property and casualty course completed within four years of your application date](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.732.html). That is one of the longest pre-licensing requirements in the country, so plan your schedule accordingly. These classes cover core insurance terms, legal guidelines, policy structures, and ethical practices.
 
 Florida does recognize a few alternatives to the 200-hour course — for example, a year of full-time responsible insurance duties in all property and casualty lines, or holding the CPCU designation — but most newcomers take the course.
 
@@ -52,7 +52,7 @@ Use practice exams and flashcards to handily review the trickiest parts of the m
 
 ## Take the state exam
 
-The next step is registering for your Florida property and casualty license exam through the approved testing vendor. Sequencing matters here: DFS issues an exam authorization to your MyProfile account once your application is approved, though the state will also accept an exam you passed within the year before you applied. Either way, map out the date and location well in advance so you can plan your final review time effectively.
+The next step is registering for your Florida property and casualty license exam through [the approved testing vendor](https://www.pearsonvue.com/us/en/fl/insurance.html). Sequencing matters here: DFS issues an exam authorization to your MyProfile account once your application is approved, though the state will also accept an exam you passed within the year before you applied. Either way, map out the date and location well in advance so you can plan your final review time effectively.
 
 On exam day, bring proper identification and arrive early to ensure a smooth check-in. The test itself typically includes multiple-choice questions, focusing on both state-specific and general industry knowledge. If you’ve covered the pre-licensing material carefully, stay calm and trust in your preparation. In just a couple of hours, you could be walking away one step closer to your new career.
 
@@ -99,3 +99,10 @@ The good news is that most CE courses are flexible and easily fit into a work sc
 Securing your Florida property and casualty license doesn’t have to feel overwhelming. Each phase, from preliminary research to acing your state exam, is manageable when you organize your efforts and trust in your preparation. You’re not just meeting state requirements, you’re crafting a strong foundation for a career that revolves around helping people safeguard what matters most.
 
 When you’re ready to begin, organize your coursework, schedule your exam, and take each step with confidence. A quick word on where JustInsurance fits your 2-20 journey: the 200-hour property and casualty pre-licensing course itself comes from a DFS-approved property and casualty provider, not from us — our pre-licensing catalog covers the Life and Health lines (2-14, 2-40, and the combined 2-15). Where we can help once you’re licensed is keeping your 2-20 current — our DFS-approved [property and casualty continuing education](/florida/continuing-education) is reported straight to Florida DFS every renewal cycle. And if you ever decide to add life and health lines to your practice, our pre-licensing courses are ready when you are. Your future clients are waiting — and with the right plan, you have everything you need to serve them with confidence.
+
+**Sources cited:**
+
+- [Section 626.731, Florida Statutes — Qualifications for general lines agent's license](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.731.html)
+- [Section 626.732, Florida Statutes — Knowledge, experience, or instruction requirements (200-hour course and alternatives)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.732.html)
+- [Florida Department of Financial Services — 2-20 Resident General Lines license requirements](https://myfloridacfo.com/docs-sf/insurance-agents-and-agency-services-libraries/agents-docs/licensure/agents-adjusters/2-20-resident-general-lines.pdf)
+- [Pearson VUE — Florida insurance licensing exams](https://www.pearsonvue.com/us/en/fl/insurance.html)

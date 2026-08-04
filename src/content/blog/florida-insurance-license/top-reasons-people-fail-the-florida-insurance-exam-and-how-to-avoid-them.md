@@ -22,9 +22,9 @@ Here are the top reasons people fail the Florida insurance exam and how to avoid
 
 ## Reason 1: Underestimating the Florida-Specific Section
 
-This is the single biggest cause of failure. Candidates study general insurance concepts extensively but treat the Florida-specific material as an afterthought. On exam day, Florida-specific statutes, rules, and regulations make up 33% of the 2-15 exam — roughly 50 of the 150 scored questions — and scoring poorly in that section often drops the overall score below 70%.
+This is the single biggest cause of failure. Candidates study general insurance concepts extensively but treat the Florida-specific material as an afterthought. On exam day, Florida-specific statutes, rules, and regulations make up 33% of the 2-15 exam — roughly 50 of the 150 scored questions — and scoring poorly in that section often drops the overall score [below 70%](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf).
 
-How to avoid it: Study Florida-specific content separately. Don't assume your national study materials cover it sufficiently. Use Florida-specific [prelicense](/florida/prelicensing) courses, and spend dedicated time on replacement rules, unfair trade practices, the free-look period, and the Florida Insurance Code.
+How to avoid it: Study Florida-specific content separately. Don't assume your national study materials cover it sufficiently. Use Florida-specific [prelicense](/florida/prelicensing) courses, and spend dedicated time on replacement rules, [unfair trade practices](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9541.html), the free-look period, and the [Florida Insurance Code](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.01.html).
 
 ## Reason 2: Relying on Reading Instead of Active Practice
 
@@ -91,6 +91,12 @@ How to avoid it: If you fail, use your score report to identify weak areas. Don'
 4. Does failing once make it harder to get licensed? No. Failed attempts don't affect your license application. DFS looks at your most recent passing result — not your attempt history.
 
 5. Is there anything specific about the Florida exam that's harder than other states? The Florida-specific law section is more detailed than the state-specific sections on many other state exams. Florida's replacement rules, free-look requirements, and unfair practices laws are all tested in depth.
+
+**Sources cited:**
+
+- [Florida Insurance Licensing Candidate Handbook (Pearson VUE) — 70% passing score for all exams](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
+- [Florida Statutes s. 626.9541 — Unfair methods of competition and unfair or deceptive acts or practices defined](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.9541.html)
+- [Florida Statutes s. 624.01 — Short title (the Florida Insurance Code)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0624/Sections/0624.01.html)
 
 ## Don't Join the Failure Statistics
 

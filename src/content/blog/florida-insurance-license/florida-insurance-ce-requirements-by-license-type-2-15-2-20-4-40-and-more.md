@@ -22,7 +22,7 @@ Here's a clear breakdown of Florida CE requirements by license type.
 
 ## The Basic Framework
 
-Florida CE requirements are set by the Department of Financial Services (DFS). One thing to get straight before the numbers: a Florida agent license is perpetual. There is no renewal application to file and no renewal fee for the license itself. What runs on a 24-month clock is your CE compliance cycle and your appointments — both keyed to your birth month, not your license issue date. The hours in each cycle break down into a few standard categories:
+Florida CE requirements are set by the [Department of Financial Services (DFS)](https://www.myfloridacfo.com/division/agents). One thing to get straight before the numbers: a Florida agent license is perpetual. There is no renewal application to file and no renewal fee for the license itself. What runs on a 24-month clock is your CE compliance cycle and your appointments — both keyed to your birth month, not your license issue date. The hours in each cycle break down into a few standard categories:
 
 - Total CE hours required per compliance cycle
 
@@ -54,11 +54,11 @@ That first cycle is an ordinary cycle. The total is whatever your license type r
 
 ## The 6-Year Step-Down
 
-Florida reduces the CE requirement for licensees once they've been licensed a while. Agents complete 24 CE hours per compliance cycle for their first 6 years of licensure. After that, the requirement drops to 20 CE hours per cycle — still including the 4-hour Law and Ethics Update.
+Florida reduces the CE requirement for licensees once they've been licensed a while. Agents complete [24 CE hours per compliance cycle for their first 6 years of licensure](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0626/Sections/0626.2815.html). After that, the requirement drops to 20 CE hours per cycle — still including the 4-hour Law and Ethics Update.
 
 This step-down doesn't eliminate CE entirely — it simply lowers the elective-hour total once you pass the 6-year mark.
 
-There's a second step-down most agents never hear about. Under Fla. Stat. §626.2815(3)(c), a licensee with 25 or more years of licensure who holds a CLU or CPCU designation — or a bachelor's degree or higher in risk management or insurance with evidence of 18 or more semester hours in insurance-related coursework — needs only 6 elective hours, for a total of 10 hours per cycle. If that's you, don't buy the full 20.
+There's a second step-down most agents never hear about. Under Fla. Stat. §626.2815(3)(c), a licensee with [25 or more years of licensure who holds a CLU or CPCU designation](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0626/Sections/0626.2815.html) — or a bachelor's degree or higher in risk management or insurance with evidence of 18 or more semester hours in insurance-related coursework — needs only 6 elective hours, for a total of 10 hours per cycle. If that's you, don't buy the full 20.
 
 ## What Counts Toward Your CE
 
@@ -78,7 +78,7 @@ Before enrolling in any CE course, confirm it's on the DFS-approved list. Non-ap
 
 ## The 4-Hour Law and Ethics Update
 
-Every 2-year cycle, most Florida agents must complete a specific 4-hour Law and Ethics Update course. This requirement is non-negotiable. The content is updated periodically to reflect legislative and regulatory changes, so the course you took last cycle won't count for this cycle.
+Every 2-year cycle, most Florida agents must [complete a specific 4-hour Law and Ethics Update course](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0626/Sections/0626.2815.html). This requirement is non-negotiable. The content is updated periodically to reflect legislative and regulatory changes, so the course you took last cycle won't count for this cycle.
 
 ## Consequences of Missing CE
 
@@ -105,6 +105,11 @@ Don't let this happen. DFS sends appointment renewal invoices, but the ultimate 
 4. Are there separate CE requirements if I hold multiple licenses? If your licenses are related (e.g., 2-15 and 2-20), some overlap is allowed. But you must meet the highest applicable total, and each license's specific requirements must be satisfied.
 
 5. Can I take all my CE online in Florida? Yes. Florida DFS accepts approved online courses. Most agents complete CE entirely online at their own pace.
+
+**Sources cited:**
+
+- [Section 626.2815, Florida Statutes - Continuing education requirements (Online Sunshine)](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Florida Department of Financial Services - Agents and Agency Services](https://www.myfloridacfo.com/division/agents)
 
 ## Stay Compliant the Easy Way
 

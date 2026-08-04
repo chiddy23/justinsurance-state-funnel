@@ -16,13 +16,13 @@ imageAlt: >-
   modern office.
 ---
 
-Completing 24 hours of [continuing education](/florida/continuing-education) doesn't matter if those hours aren't from a DFS-approved provider. In Florida, only courses approved by the Department of Financial Services count toward your CE requirement — and knowing how to verify approval protects you from wasting time and money on courses that won't credit toward renewal.
+Completing [24 hours](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html) of [continuing education](/florida/continuing-education) doesn't matter if those hours aren't from a DFS-approved provider. In Florida, only courses approved by the Department of Financial Services count toward your CE requirement — and knowing how to verify approval protects you from wasting time and money on courses that won't credit toward renewal.
 
 Here's exactly how to find DFS-approved CE courses in Florida.
 
 ## Why DFS Approval Matters
 
-Florida's Department of Financial Services regulates who can offer CE to licensed agents and adjusters. To be considered an approved provider:
+Florida's [Department of Financial Services](https://www.myfloridacfo.com/division/agents) regulates who can offer CE to licensed agents and adjusters. To be considered an approved provider:
 
 - The provider must be registered with DFS
 
@@ -74,7 +74,7 @@ Before paying for any CE course, confirm:
 
 3. The course matches your license type. A course approved for 2-20 agents won't count for 2-15 holders. Confirm the course is approved for your specific line.
 
-4. The course is current. The 4-hour Law and Ethics Update especially needs to reflect the current cycle's content. An outdated version won't satisfy the requirement.
+4. The course is current. The [4-hour Law and Ethics Update](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html) especially needs to reflect the current cycle's content. An outdated version won't satisfy the requirement.
 
 5. Reporting is included. Approved providers report your completion to DFS electronically — typically within days of completion. Ask the provider to confirm this before you enroll.
 
@@ -139,6 +139,11 @@ Step 3 — Contact DFS. If the provider reports correctly but DFS still doesn't 
 4. Are webinar and live-streamed courses accepted? Yes, if they're DFS-approved. Florida accepts online, self-paced, webinar, and live classroom formats — approval is what matters, not format.
 
 5. What's the best time to check for approved providers? Check before enrolling in any course, not after. Verifying approval after completing a non-approved course doesn't help — the hours won't count.
+
+**Sources cited:**
+
+- [Section 626.2815, Florida Statutes — Insurance continuing education requirements](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
+- [Florida Department of Financial Services — Agents and Adjusters](https://www.myfloridacfo.com/division/agents)
 
 ## Skip the Guesswork
 

@@ -306,8 +306,8 @@ export default async function StateHubPage({
             hrefLang="es-US"
             className="text-navy font-semibold hover:text-gold-deep transition-colors text-sm md:text-base inline-flex items-center gap-2"
           >
-            <span aria-hidden="true">🇪🇸</span>
-            <span>Curso de licencia de seguros disponible en español →</span>
+            <span aria-hidden="true">🌎</span>
+            <span>Curso de licencia de seguros en español — próximamente →</span>
           </a>
         </div>
       )}

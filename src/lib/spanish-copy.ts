@@ -23,7 +23,7 @@ export interface SpanishStateCopy {
 
 export const SPANISH_UI = {
   // Section headings
-  whatWeOffer: "Lo que ofrecemos",
+  whatWeOffer: "Lo que incluirá el curso en español",
   whyChooseUs: "Por qué elegir JustInsurance",
   requirementsHeading: "Requisitos para tu licencia",
   examInfoHeading: "Información del examen estatal",
@@ -31,7 +31,7 @@ export const SPANISH_UI = {
   testimonialsHeading: "Testimonios",
   faqHeading: "Preguntas frecuentes",
   prelicensingCtaHeading: "Comienza tu curso de prelicenciatura",
-  finalCtaHeading: "¿Listo para obtener tu licencia de seguros?",
+  finalCtaHeading: "El curso en español llegará muy pronto",
 
   // Buttons / CTAs
   startPrelicensing: "Comenzar prelicenciatura",
@@ -70,9 +70,9 @@ export const SPANISH_UI = {
       desc: "Accede a tu curso desde cualquier dispositivo: computadora, tableta o celular. Estudia en casa, en el descanso del trabajo o cuando quieras.",
     },
     {
-      icon: "✅",
-      title: "Garantía de aprobación",
-      desc: "Cumple con las horas de estudio recomendadas, obtén 80% o más en el examen de práctica tres veces y presenta tu examen estatal dentro de 30 días de inscribirte. Si no apruebas, te devolvemos el costo del curso.",
+      icon: "🗣️",
+      title: "Muy pronto en español",
+      desc: "Estamos preparando la versión completa del curso en español. Por ahora está disponible en inglés; regresa pronto para estudiar en tu idioma.",
     },
     {
       icon: "⚡",
@@ -96,23 +96,23 @@ export const SPANISH_UI = {
 
 export const FLORIDA_ES: SpanishStateCopy = {
   heroEyebrow: "Licencia de Seguros en Florida",
-  heroTitle: "Licencia 2-15 de Florida: Cursos de Prelicenciatura y CE en Línea",
+  heroTitle: "Curso de Licencia de Seguros de Florida (2-15) — Próximamente en Español",
   heroSubtitle:
     "Florida es el tercer mercado más grande del país para agentes de seguros, con uno de los entornos de seguros más activos y complejos. La licencia 2-15 (Vida, Salud y Anualidades) es la designación combinada exclusiva de Florida y cubre seguros de vida, anualidades y seguros de salud bajo un solo número de licencia. Con la exposición a huracanes, una gran población de adultos mayores y el corredor tecnológico del I-4 en pleno crecimiento, Florida es un mercado privilegiado tanto para agentes de propiedad y casualidad como para los de vida y salud.",
   courseDescription:
-    "Curso de prelicenciatura en línea aprobado por el estado para Florida (Vida y Salud). Prepárate para aprobar el examen estatal. 100% en línea, a tu propio ritmo, con exámenes de práctica y garantía de aprobación incluidos.",
+    "Curso de prelicenciatura en línea para Florida (Vida y Salud), próximamente disponible en español. 100% en línea y a tu propio ritmo, con exámenes de práctica. El curso ya está disponible en inglés.",
   metaDescription:
-    "Obtén tu licencia de seguros de Florida en línea — preparación para el examen de Pearson VUE, prelicenciatura aprobada por el estado, 93% de tasa de aprobación entre quienes completan el curso, garantía. Desde $199.",
+    "Curso de licencia de seguros de Florida (2-15), próximamente en español. Prepárate para el examen de Pearson VUE con prelicenciatura aprobada por el estado. Disponible ahora en inglés.",
   faqs: [
     {
       question: "¿Cómo obtengo mi licencia de seguros en Florida?",
       answer:
-        "Obtener tu licencia de seguros de Florida implica cuatro pasos. Primero, completa un curso de prelicenciatura aprobado por el estado (60 horas para la línea combinada de Vida y Salud, conocida como la licencia 2-15). Segundo, aprueba el examen estatal administrado por Pearson VUE — necesitas al menos 70% para aprobar. Tercero, completa una verificación de antecedentes con huellas digitales a través de IdentoGO (código DFS-1-FL921060Z). Cuarto, presenta tu solicitud por medio del National Insurance Producer Registry (NIPR) y paga la cuota de $50 al Departamento de Servicios Financieros de Florida. La mayoría de los candidatos completan todo el proceso en 2-4 semanas. JustInsurance ofrece cursos de prelicenciatura 100% en línea, a tu propio ritmo, aprobados para Florida.",
+        "Obtener tu licencia de seguros de Florida implica cuatro pasos. Primero, completa un curso de prelicenciatura aprobado por el estado (60 horas para la línea combinada de Vida y Salud, conocida como la licencia 2-15). Segundo, aprueba el examen estatal administrado por Pearson VUE — necesitas al menos 70% para aprobar. Tercero, completa una verificación de antecedentes con huellas digitales a través de IdentoGO (código DFS-1-FL921060Z). Cuarto, presenta tu solicitud por medio del National Insurance Producer Registry (NIPR) y paga la cuota de $50 al Departamento de Servicios Financieros de Florida. La mayoría de los candidatos completan todo el proceso en 2-4 semanas. El curso de prelicenciatura de JustInsurance para Florida está disponible en inglés y muy pronto en español.",
     },
     {
       question: "¿Cuánto cuesta obtener una licencia de seguros en Florida?",
       answer:
-        "El costo total para obtener tu licencia de seguros de Florida ronda los $343 (curso más cuotas estatales). El desglose es así: la cuota del examen de Pearson VUE es de $44, la cuota de solicitud al Departamento de Servicios Financieros de Florida es de $50, y la verificación de antecedentes con huellas digitales agrega aproximadamente $50 adicionales. Si necesitas un curso de prelicenciatura, el paquete combinado de Vida y Salud de JustInsurance cuesta $199 — eso es $199 menos que comprar los cursos de Vida y Salud por separado. Todo lo que necesitas para obtener tu licencia, sin cargos ocultos.",
+        "El costo total para obtener tu licencia de seguros de Florida, incluyendo el curso de prelicenciatura, ronda los $343. El desglose de las cuotas estatales es así: la cuota del examen de Pearson VUE es de $44, la cuota de solicitud al Departamento de Servicios Financieros de Florida es de $50, y la verificación de antecedentes con huellas digitales agrega aproximadamente $50 adicionales. El resto corresponde al curso de prelicenciatura combinado de 60 horas de Vida y Salud, disponible en inglés y muy pronto en español.",
     },
     {
       question: "¿Cuánto tiempo toma obtener la licencia en Florida?",
@@ -120,9 +120,9 @@ export const FLORIDA_ES: SpanishStateCopy = {
         "La mayoría de los candidatos enfocados completan el proceso de licencia de seguros en Florida en 2 a 4 semanas. Ese tiempo incluye terminar tu curso de prelicenciatura (tienes 30 días de acceso; la mayoría termina en 5-10 días), agendar y aprobar el examen estatal de Pearson VUE, completar la verificación de antecedentes y esperar a que el Departamento de Servicios Financieros de Florida procese tu solicitud. El examen de Pearson VUE entrega resultados rápidamente — la mayoría de los candidatos reciben su puntaje antes de salir del centro de pruebas. El formato a tu propio ritmo de JustInsurance te permite avanzar tan rápido o tan constante como tu horario lo permita.",
     },
     {
-      question: "¿Cuál es la tasa de aprobación de los estudiantes de JustInsurance en el examen de Florida?",
+      question: "¿Cuándo estará disponible el curso en español?",
       answer:
-        "Los estudiantes de JustInsurance a nivel nacional aprueban los exámenes de licencia de seguros con una tasa aproximada del 93% en su primer intento — medido entre los estudiantes que completan el curso completo, terminan las horas de estudio recomendadas y obtienen 80% o más tres veces seguidas en el examen de práctica antes de presentar el examen real. El examen de Florida lo administra Pearson VUE y requiere un puntaje mínimo del 70% para aprobar. Si no apruebas en tu primer intento, puedes volver a presentarlo agendando la siguiente fecha disponible — no hay un período de espera obligatorio. Estás limitado a 5 intentos por tipo de examen dentro de un período de 12 meses. Consulta nuestra metodología completa de tasa de aprobación en /pass-rates.",
+        "Estamos finalizando la versión en español de nuestro curso de prelicenciatura para Florida. Por ahora, el curso completo está disponible en inglés y puedes comenzar cuando quieras; regresa pronto para estudiar en español. El examen estatal de Florida lo administra Pearson VUE y requiere un puntaje mínimo del 70% para aprobar; estás limitado a 5 intentos por tipo de examen dentro de un período de 12 meses.",
     },
     {
       question: "¿Cuánto ganan los agentes de seguros en Florida?",
@@ -141,23 +141,23 @@ export const FLORIDA_ES: SpanishStateCopy = {
 
 export const TEXAS_ES: SpanishStateCopy = {
   heroEyebrow: "Licencia de Seguros en Texas",
-  heroTitle: "Obtén tu Licencia de Seguros en Texas — Sin Prelicenciatura Obligatoria",
+  heroTitle: "Curso de Licencia de Seguros de Texas — Próximamente en Español",
   heroSubtitle:
     "Texas es el segundo mercado más grande del país para empleo de agentes de seguros, y no requiere educación de prelicenciatura — lo que lo convierte en uno de los mercados grandes más accesibles del país. El Departamento de Seguros de Texas (TDI) supervisa uno de los entornos de licencia más activos de EE.UU., con Houston, Dallas-Fort Worth, San Antonio y Austin como mercados metropolitanos principales para profesionales de seguros. Texas no tiene impuesto estatal sobre la renta, una población enorme y una economía energética que generan una demanda excepcional en todas las líneas de cobertura.",
   courseDescription:
-    "Curso de preparación en línea para el examen de seguros de Texas (Vida y Salud). Texas no requiere prelicenciatura, pero la mayoría de los candidatos exitosos usan un curso estructurado. 100% en línea, a tu propio ritmo, con exámenes de práctica y garantía de aprobación incluidos.",
+    "Curso de preparación en línea para el examen de seguros de Texas (Vida y Salud), próximamente disponible en español. Texas no requiere prelicenciatura, pero la mayoría de los candidatos exitosos usan un curso estructurado. 100% en línea y a tu propio ritmo, con exámenes de práctica. El curso ya está disponible en inglés.",
   metaDescription:
-    "Obtén tu licencia de seguros de Texas en línea — sin prelicenciatura obligatoria, examen de Pearson VUE, 93% de tasa de aprobación entre quienes completan el curso, garantía. Desde $199.",
+    "Curso de preparación para el examen de seguros de Texas, próximamente en español. Sin prelicenciatura obligatoria; examen de Pearson VUE. Disponible ahora en inglés.",
   faqs: [
     {
       question: "¿Cómo obtengo mi licencia de seguros en Texas?",
       answer:
-        "Obtener tu licencia de seguros de Texas implica cuatro pasos. Primero, prepárate para tu examen — Texas no requiere un curso formal de prelicenciatura, pero la mayoría de los candidatos exitosos toman uno. Segundo, aprueba el examen estatal administrado por Pearson VUE — necesitas un puntaje escalado de al menos 70 para aprobar (es un puntaje escalado, no un porcentaje de respuestas correctas). Tercero, completa una verificación de antecedentes con huellas digitales a través de IdentoGO (Service Code 11G6QF). Cuarto, presenta tu solicitud por medio del National Insurance Producer Registry (NIPR) y paga la cuota de $50 al Departamento de Seguros de Texas. La mayoría de los candidatos completan todo el proceso en 2-4 semanas. JustInsurance ofrece cursos de preparación para Texas 100% en línea, a tu propio ritmo, que te llevan al día del examen con confianza.",
+        "Obtener tu licencia de seguros de Texas implica cuatro pasos. Primero, prepárate para tu examen — Texas no requiere un curso formal de prelicenciatura, pero la mayoría de los candidatos exitosos toman uno. Segundo, aprueba el examen estatal administrado por Pearson VUE — necesitas un puntaje escalado de al menos 70 para aprobar (es un puntaje escalado, no un porcentaje de respuestas correctas). Tercero, completa una verificación de antecedentes con huellas digitales a través de IdentoGO (Código de servicio 11G6QF). Cuarto, presenta tu solicitud por medio del National Insurance Producer Registry (NIPR) y paga la cuota de $50 al Departamento de Seguros de Texas. La mayoría de los candidatos completan todo el proceso en 2-4 semanas. El curso de preparación de JustInsurance para Texas está disponible en inglés y muy pronto en español.",
     },
     {
       question: "¿Cuánto cuesta obtener una licencia de seguros en Texas?",
       answer:
-        "El costo total para obtener tu licencia de seguros de Texas normalmente está entre $350 y $500. El desglose es así: la cuota del examen de Pearson VUE es de $39, la cuota de solicitud al Departamento de Seguros de Texas es de $50, y la verificación de antecedentes con huellas digitales agrega aproximadamente $39.70 adicionales. Aunque Texas no requiere un curso de prelicenciatura, el paquete combinado de Vida y Salud de JustInsurance cuesta $199 — eso es $199 menos que comprar los cursos de Vida y Salud por separado. Todo lo que necesitas para prepararte y obtener tu licencia, sin cargos ocultos.",
+        "El costo total para obtener tu licencia de seguros de Texas normalmente está entre $350 y $500, incluyendo un curso de preparación. El desglose de las cuotas estatales es así: la cuota del examen de Pearson VUE es de $39, la cuota de solicitud al Departamento de Seguros de Texas es de $50, y la verificación de antecedentes con huellas digitales agrega aproximadamente $39.70 adicionales. Aunque Texas no requiere un curso de prelicenciatura, la mayoría de los candidatos exitosos usan uno; nuestro curso de preparación está disponible en inglés y muy pronto en español.",
     },
     {
       question: "¿Cuánto tiempo toma obtener la licencia en Texas?",
@@ -165,9 +165,9 @@ export const TEXAS_ES: SpanishStateCopy = {
         "La mayoría de los candidatos enfocados completan el proceso de licencia de seguros en Texas en 2 a 4 semanas. Ese tiempo incluye prepararte para el examen (la mayoría de los estudiantes terminan el curso de preparación de JustInsurance en 5-10 días), agendar y aprobar el examen estatal de Pearson VUE, completar la verificación de antecedentes con huellas digitales y esperar a que el Departamento de Seguros de Texas procese tu solicitud. El TDI tiene uno de los tiempos de procesamiento más rápidos del país: 1-2 días hábiles. El examen de Pearson VUE entrega resultados rápidamente — la mayoría de los candidatos reciben su puntaje antes de salir del centro de pruebas.",
     },
     {
-      question: "¿Cuál es la tasa de aprobación de los estudiantes de JustInsurance en el examen de Texas?",
+      question: "¿Cuándo estará disponible el curso en español?",
       answer:
-        "Los estudiantes de JustInsurance a nivel nacional aprueban los exámenes de licencia de seguros con una tasa aproximada del 93% en su primer intento — medido entre los estudiantes que completan el curso completo, terminan las horas de estudio recomendadas y obtienen 80% o más tres veces seguidas en el examen de práctica antes de presentar el examen real. El examen de Texas lo administra Pearson VUE y requiere un puntaje escalado de al menos 70 para aprobar. Si no apruebas en tu primer intento, puedes volver a presentarlo agendando la siguiente fecha disponible — no hay un período de espera obligatorio ni un límite en el número de intentos. Consulta nuestra metodología completa de tasa de aprobación en /pass-rates.",
+        "Estamos finalizando la versión en español de nuestro curso de preparación para el examen de Texas. Por ahora, el curso completo está disponible en inglés y puedes comenzar cuando quieras; regresa pronto para estudiar en español. El examen de Texas lo administra Pearson VUE y requiere un puntaje escalado de al menos 70 para aprobar, sin límite en el número de intentos.",
     },
     {
       question: "¿Cuánto ganan los agentes de seguros en Texas?",

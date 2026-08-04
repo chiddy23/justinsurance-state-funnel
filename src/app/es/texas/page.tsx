@@ -18,7 +18,7 @@ const ES_PATH = `/es/${SLUG}`;
 const EN_PATH = `/${SLUG}`;
 
 export const metadata: Metadata = {
-  title: { absolute: "Texas Curso de Licencia de Seguros — $199 | JustInsurance" },
+  title: { absolute: "Curso de Seguros en Español en Texas — Próximamente | JustInsurance" },
   description: TEXAS_ES.metaDescription,
   robots: "index, follow",
   alternates: {
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Texas Curso de Licencia de Seguros — $199 | JustInsurance",
+    title: "Curso de Seguros en Español en Texas — Próximamente | JustInsurance",
     description: TEXAS_ES.metaDescription,
     url: `${BASE_URL}${ES_PATH}`,
     siteName: "JustInsurance",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Texas Curso de Licencia de Seguros — $199 | JustInsurance",
+    title: "Curso de Seguros en Español en Texas — Próximamente | JustInsurance",
     description: TEXAS_ES.metaDescription,
   },
 };
@@ -50,6 +50,16 @@ export default function TexasSpanishHubPage() {
   if (!stateData) {
     return null;
   }
+
+  const MESES_ES: Record<string, string> = {
+    January: "enero", February: "febrero", March: "marzo", April: "abril",
+    May: "mayo", June: "junio", July: "julio", August: "agosto",
+    September: "septiembre", October: "octubre", November: "noviembre", December: "diciembre",
+  };
+  const lastVerifiedEs = stateData.lastVerified.replace(
+    /^([A-Za-z]+)\s+(\d{4})$/,
+    (_m, mes: string, anio: string) => `${MESES_ES[mes] ?? mes} de ${anio}`,
+  );
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: `${BASE_URL}/` },
@@ -75,13 +85,6 @@ export default function TexasSpanishHubPage() {
     hasCourseInstance: {
       "@type": "CourseInstance",
       courseMode: "online",
-    },
-    offers: {
-      "@type": "Offer",
-      price: "199",
-      priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
-      url: `${BASE_URL}/${SLUG}/prelicensing`,
     },
     courseMode: "online",
     educationalCredentialAwarded: "Certificado de Preparación para Examen de Seguros de Texas",
@@ -129,7 +132,13 @@ export default function TexasSpanishHubPage() {
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
             {TEXAS_ES.heroTitle}
           </h1>
-          <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
+          <p className="inline-block bg-gold/20 text-gold font-semibold text-sm uppercase tracking-widest rounded-full px-4 py-1 mb-4">
+            Próximamente en español
+          </p>
+          <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-4 max-w-2xl mx-auto">
+            Estamos preparando nuestro curso de seguros completamente en español. Muy pronto podrás estudiar y prepararte en español. Mientras tanto, el curso ya está disponible en inglés.
+          </p>
+          <p className="text-base text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
             {TEXAS_ES.heroSubtitle}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -137,13 +146,13 @@ export default function TexasSpanishHubPage() {
               href={`/${SLUG}/prelicensing`}
               className="inline-block bg-gold text-navy font-bold text-lg px-8 py-4 rounded-lg hover:bg-gold-dark transition-all"
             >
-              {SPANISH_UI.startPrelicensing}
+              Ver el curso en inglés
             </Link>
             <Link
-              href={`/${SLUG}/continuing-education`}
+              href={`/${SLUG}/requirements`}
               className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-white hover:text-navy transition-all"
             >
-              {SPANISH_UI.renewWithCE}
+              {SPANISH_UI.viewRequirements}
             </Link>
           </div>
         </div>
@@ -164,9 +173,9 @@ export default function TexasSpanishHubPage() {
             {SPANISH_UI.whatWeOffer}
           </h2>
           <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
-            Cursos de preparación para el examen y educación continua aprobados para
-            Texas. Aunque el TDI no exige prelicenciatura, nuestros cursos te dan la
-            estructura necesaria para aprobar en el primer intento.
+            Esto es lo que incluirá nuestro curso en español para Texas. Por ahora, el
+            curso completo está disponible en inglés — muy pronto lo tendrás también en
+            español.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-white rounded-xl p-6 border border-gray-200">
@@ -177,12 +186,12 @@ export default function TexasSpanishHubPage() {
                 Curso combinado que cubre seguros de vida, salud y todas las áreas que
                 Pearson VUE evalúa en el examen estatal de Texas.
               </p>
-              <p className="text-2xl font-bold text-gold-deep mb-2">$199</p>
+              <p className="text-sm font-bold text-gold-deep mb-2">Próximamente en español</p>
               <Link
                 href={`/${SLUG}/prelicensing`}
                 className="text-navy underline text-sm hover:text-gold"
               >
-                Ver detalles del curso →
+                Ver el curso en inglés →
               </Link>
             </div>
             <div className="bg-white rounded-xl p-6 border border-gray-200">
@@ -193,12 +202,12 @@ export default function TexasSpanishHubPage() {
                 Las 24 horas de CE que Texas requiere cada 2 años, incluyendo las 3
                 horas obligatorias de ética. Reportamos al TDI el mismo día.
               </p>
-              <p className="text-2xl font-bold text-gold-deep mb-2">$39</p>
+              <p className="text-sm font-bold text-gold-deep mb-2">Próximamente en español</p>
               <Link
                 href={`/${SLUG}/continuing-education`}
                 className="text-navy underline text-sm hover:text-gold"
               >
-                Ver paquete de CE →
+                Ver la CE en inglés →
               </Link>
             </div>
           </div>
@@ -236,7 +245,7 @@ export default function TexasSpanishHubPage() {
               <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">
                 {SPANISH_UI.coursePriceLabel}
               </p>
-              <p className="text-sm font-bold text-navy">$199</p>
+              <p className="text-sm font-bold text-navy">Próximamente</p>
             </div>
           </div>
           <div className="mt-6 text-center">
@@ -257,7 +266,7 @@ export default function TexasSpanishHubPage() {
             {SPANISH_UI.whyChooseUs}
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            Hemos ayudado a más de 20,000 estudiantes a obtener su licencia en todo el país.
+            Ayudamos a estudiantes de todo el país a obtener su licencia de seguros.
             Estas son las razones por las que nos eligen.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -289,12 +298,6 @@ export default function TexasSpanishHubPage() {
               <strong className="text-navy">{SPANISH_UI.passingScoreLabel}:</strong>{" "}
               {stateData.examInfo.passingScore} (puntaje escalado) — la mayoría de los candidatos reciben
               su puntaje a los pocos minutos de terminar el examen.
-            </p>
-            <p>
-              <strong className="text-navy">{SPANISH_UI.passRateLabel}:</strong> 93% en
-              el primer intento (entre estudiantes que cumplieron las horas de estudio
-              recomendadas y obtuvieron 80%+ tres veces seguidas en el examen de
-              práctica)
             </p>
             <p>
               <strong className="text-navy">Sin límite de intentos:</strong> Texas no
@@ -390,14 +393,15 @@ export default function TexasSpanishHubPage() {
             {SPANISH_UI.finalCtaHeading}
           </h2>
           <p className="text-blue-100 mb-8">
-            Inscríbete hoy en un curso de preparación aprobado para Texas. 100% en
-            línea, a tu propio ritmo, respaldado por nuestra garantía de aprobación.
+            Mientras tanto, puedes comenzar hoy con el curso de preparación para el
+            examen de Texas en inglés — 100% en línea y a tu propio ritmo. Te avisaremos
+            cuando la versión en español esté lista.
           </p>
           <Link
             href={`/${SLUG}/prelicensing`}
             className="inline-block bg-gold text-navy font-bold text-lg px-8 py-4 rounded-lg hover:bg-gold-dark transition-all"
           >
-            {SPANISH_UI.browseCourses}
+            Ver el curso en inglés
           </Link>
         </div>
       </section>
@@ -405,7 +409,7 @@ export default function TexasSpanishHubPage() {
       {/* Last verified */}
       <section className="bg-white py-4 px-4 border-t border-gray-100">
         <div className="max-w-5xl mx-auto text-center text-xs text-gray-500">
-          {SPANISH_UI.lastVerifiedLabel}: {stateData.lastVerified}
+          {SPANISH_UI.lastVerifiedLabel}: {lastVerifiedEs}
         </div>
       </section>
     </div>

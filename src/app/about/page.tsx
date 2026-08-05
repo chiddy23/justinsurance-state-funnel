@@ -153,6 +153,7 @@ const orgPersonSchema = {
       },
       sameAs: [
         "https://www.youtube.com/@InsuranceExam",
+        "https://www.linkedin.com/company/justinsurance-llc",
         "https://finance.yahoo.com/news/justinsurance-unveils-93-pass-rate-160000549.html",
         "https://www.globenewswire.com/news-release/2025/12/10/3203363/0/en/JustInsurance-Unveils-93-Pass-Rate-Breakthrough-Offering-a-Scalable-Solution-to-the-U-S-Insurance-Agent-Shortage.html",
       ],

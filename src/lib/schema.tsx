@@ -361,7 +361,7 @@ export function generateOrganizationSchema(): object {
     areaServed: "US",
     sameAs: [
       "https://www.youtube.com/@InsuranceExam",
-      "https://www.linkedin.com/in/justin-vom-eigen-04198714a/",
+      "https://www.linkedin.com/company/justinsurance-llc",
       "https://finance.yahoo.com/news/justinsurance-unveils-93-pass-rate-160000549.html",
     ],
     description:

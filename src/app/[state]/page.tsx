@@ -94,33 +94,21 @@ export async function generateMetadata({
   const { state } = await params;
   const stateData = getStateBySlug(state);
   if (!stateData) return {};
+  // Availability gate centralized in generatePageMetadata (metadata.ts): a held
+  // prelicensing state (NY #80025) gets a coming-soon title + the description
+  // below instead of the default "$199 … instant online access" marketing. Live
+  // and exam-only states (WA is not held) are byte-identical.
   const meta = generatePageMetadata({
     pageType: "state-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
     stateAbbreviation: stateData.abbreviation,
     examProvider: stateData.examInfo?.examProvider,
+    available: !isPrelicensingHeld(stateData),
+    comingSoonDescription: isPrelicensingApprovedComingSoon(stateData)
+      ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing courses are opening for enrollment soon. See ${stateData.name} license requirements, exam info, and fees.`
+      : `Our ${stateData.name} prelicensing courses are opening for enrollment soon. See ${stateData.name} license requirements, exam info, and fees.`,
   });
-
-  // Held prelicensing state (New York today): the default state-hub metadata
-  // markets "$199 prelicensing / instant online access", which overstates a
-  // held/coming-soon course. Override title + description (and OG/Twitter) to a
-  // truthful coming-soon meta. Reverts automatically once the course goes live.
-  if (isPrelicensingHeld(stateData)) {
-    const csTitle = `${stateData.name} Insurance Licensing — Prelicensing & CE Coming Soon | JustInsurance`;
-    const csDesc = `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing courses are opening for enrollment soon. See ${stateData.name} license requirements, exam info, and fees.`;
-    return {
-      ...meta,
-      title: { absolute: csTitle },
-      description: csDesc,
-      openGraph: meta.openGraph
-        ? { ...meta.openGraph, title: csTitle, description: csDesc }
-        : { title: csTitle, description: csDesc },
-      twitter: meta.twitter
-        ? { ...meta.twitter, title: csTitle, description: csDesc }
-        : { title: csTitle, description: csDesc },
-    };
-  }
 
   // Spanish-language pilot — emit hreflang reciprocity ONLY for FL/TX.
   // Self-references "en-US" + "es-US" + "x-default" → English canonical.
@@ -261,6 +249,8 @@ export default async function StateHubPage({
     price: stateData.prelicensing?.lifeAndHealth?.price || "$199",
     hours: typeof lahHours === "number" ? lahHours : undefined,
     credentialKind: stateCredentialKind,
+    // Held prelicensing state (NY) → null: no InStock $199 prelicensing Offer.
+    available: !prelicensingHeld,
   });
   // 50 Ill. Adm. Code 3119 — the shared Course-schema generator's description
   // contains an unqualified "100% online, self-paced" claim. Override the

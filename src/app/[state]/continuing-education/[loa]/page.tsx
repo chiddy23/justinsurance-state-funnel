@@ -79,7 +79,11 @@ export async function generateMetadata({
   const stateData = getStateBySlug(state);
   const loaDef = LOA_DEFINITIONS[loa as LOASlug];
   if (!stateData || !loaDef) return {};
-  const meta = generatePageMetadata({
+  // Availability gate centralized in generatePageMetadata (metadata.ts): not-live
+  // CE (WA #300632 approved-but-coming-soon / NY pending) → coming-soon title +
+  // the description below, never "Same-Day Reporting / state-approved / From $39".
+  // Live states are byte-identical.
+  return generatePageMetadata({
     pageType: "ce-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
@@ -88,28 +92,11 @@ export async function generateMetadata({
     loaSlug: loaDef.slug,
     hours: stateData.ce.totalHours,
     price: stateData.ce.packagePrice,
-  });
-  // When CE is NOT live (WA #300632 approved-but-coming-soon, or NY whose CE
-  // approval is still pending), the shared "ce-course" title + description
-  // assert "Same-Day Reporting", "state-approved", and a purchasable "From $39"
-  // — all false before launch. Override the title/description and their
-  // OG + Twitter mirrors with truthful coming-soon copy (no same-day, no $39,
-  // no state-approved). Live states skip this branch and return `meta`
-  // unchanged, so their metadata is byte-identical.
-  if (!isCeAvailable(stateData)) {
-    const csTitle = `${stateData.name} ${loaDef.name} CE — Coming Soon | JustInsurance`;
-    const csDescription = isCeApprovedComingSoon(stateData)
+    available: isCeAvailable(stateData),
+    comingSoonDescription: isCeApprovedComingSoon(stateData)
       ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — ${stateData.name} ${loaDef.name} CE courses are coming soon.`
-      : `Our ${stateData.name} CE provider approval is pending; ${stateData.name} ${loaDef.name} CE courses are not yet available.`;
-    return {
-      ...meta,
-      title: { absolute: csTitle },
-      description: csDescription,
-      openGraph: { ...meta.openGraph, title: csTitle, description: csDescription },
-      twitter: { ...meta.twitter, title: csTitle, description: csDescription },
-    };
-  }
-  return meta;
+      : `Our ${stateData.name} CE provider approval is pending; ${stateData.name} ${loaDef.name} CE courses are not yet available.`,
+  });
 }
 
 export default async function CECoursePage({
@@ -213,6 +200,7 @@ export default async function CECoursePage({
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
     courseType: "continuing-education",
+    available: isCeAvailable(stateData),
     hours: ce.totalHours,
     price: ce.packagePrice,
     description: providerApproved

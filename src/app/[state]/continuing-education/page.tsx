@@ -33,7 +33,13 @@ export async function generateMetadata({
   const stateData = getStateBySlug(state);
   if (!stateData) return {};
 
-  const base = generatePageMetadata({
+  // Availability gate now lives INSIDE generatePageMetadata (see metadata.ts):
+  // when CE is not live — approved-but-coming-soon (WA #300632) or approval-
+  // pending (NY, where #80025 is a PRELICENSING approval and CE is not yet
+  // submitted) — it emits a coming-soon title and the coming-soon description
+  // below, and never "Same-Day Reporting / state-approved / From $39". Live CE
+  // states are byte-identical.
+  return generatePageMetadata({
     pageType: "ce-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
@@ -41,39 +47,11 @@ export async function generateMetadata({
     hours: stateData.ce.totalHours,
     ceHours: stateData.ce.totalHours,
     ceRenewalPeriod: stateData.ce.renewalPeriod,
-  });
-
-  // CE not live here — either approved-but-coming-soon (WA #300632) or
-  // approval-pending (NY, where #80025 is a PRELICENSING approval and CE is not
-  // yet submitted). The default ce-hub metadata advertises a purchasable product
-  // that is not open: title "…| Same-Day Reporting |…" and a meta/og/twitter
-  // description reading "State-approved, typically same-day DOI reporting … From
-  // $39." Override title + description (across meta, OpenGraph, and Twitter) with
-  // a truthful coming-soon variant — no "Same-Day Reporting", no "state-approved
-  // [available]", no "From $39". Live CE states return `base` byte-identically.
-  if (!isCeAvailable(stateData)) {
-    const comingSoonTitle = `${stateData.name} Insurance Continuing Education — Coming Soon | JustInsurance`;
-    const comingSoonDescription = isCeApprovedComingSoon(stateData)
+    available: isCeAvailable(stateData),
+    comingSoonDescription: isCeApprovedComingSoon(stateData)
       ? `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
-      : `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance's ${stateData.name} CE provider approval is pending — courses coming soon.`;
-    return {
-      ...base,
-      title: { absolute: comingSoonTitle },
-      description: comingSoonDescription,
-      openGraph: {
-        ...base.openGraph,
-        title: comingSoonTitle,
-        description: comingSoonDescription,
-      },
-      twitter: {
-        ...base.twitter,
-        title: comingSoonTitle,
-        description: comingSoonDescription,
-      },
-    };
-  }
-
-  return base;
+      : `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance's ${stateData.name} CE provider approval is pending — courses coming soon.`,
+  });
 }
 
 export default async function CEHubPage({
@@ -122,6 +100,10 @@ export default async function CEHubPage({
     stateSlug: stateData.slug,
     price: ce.packagePrice,
     hours: ce.totalHours,
+    // Availability gate — providerApproved === isCeAvailable(stateData). When CE
+    // is coming-soon/pending (WA #300632 / NY), the generator returns null so no
+    // InStock $39 Offer or "same-day reporting" Course schema is emitted.
+    available: providerApproved,
   });
 
   const crumbs = [

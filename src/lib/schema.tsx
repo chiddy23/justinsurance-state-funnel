@@ -39,8 +39,18 @@ export function generateCourseSchema(params: {
   hours?: number;
   price: string;
   description: string;
-}): object {
-  const { stateName, stateSlug, loaName, loaSlug, courseType, hours, price, description } = params;
+  /**
+   * Whether the course is LIVE and purchasable. REQUIRED so a caller cannot
+   * forget: when false (approved-but-coming-soon / pending), this returns null
+   * and NO Course/Offer (InStock/Paid price) is emitted for a product that
+   * cannot be bought — making the "InStock offer for a coming-soon course" leak
+   * unrepresentable rather than merely detectable. Consumers pass e.g.
+   * isCeAvailable(state) (CE) or !isPrelicensingHeld(state) (prelicensing).
+   */
+  available: boolean;
+}): object | null {
+  const { stateName, stateSlug, loaName, loaSlug, courseType, hours, price, description, available } = params;
+  if (!available) return null;
   const courseLabel =
     courseType === "prelicensing"
       ? "Prelicensing Course"
@@ -128,8 +138,12 @@ export function generateStateHubCourseSchema(params: {
    * — see StateProviderBadge, which this description must match.
    */
   credentialKind?: "prelicensing" | "ce";
-}): object {
-  const { stateName, stateSlug, price, hours, credentialKind } = params;
+  /** LIVE-and-purchasable gate (REQUIRED). false → returns null (no InStock
+   *  Offer) for a held/coming-soon prelicensing state (e.g. NY). */
+  available: boolean;
+}): object | null {
+  const { stateName, stateSlug, price, hours, credentialKind, available } = params;
+  if (!available) return null;
   const hoursNum = typeof hours === "number" ? hours : undefined;
   const prelicensingUrl = `${BASE_URL}/${stateSlug}/prelicensing`;
   const offer = {
@@ -207,8 +221,13 @@ export function generateCEHubCourseSchema(params: {
   stateSlug: string;
   price: string;
   hours?: number | string;
-}): object {
-  const { stateName, stateSlug, price, hours } = params;
+  /** CE LIVE-and-purchasable gate (REQUIRED). false → returns null (no InStock
+   *  $39 Offer, no "same business day reporting" description) for an
+   *  approved-but-coming-soon / pending CE state (WA #300632, NY CE). */
+  available: boolean;
+}): object | null {
+  const { stateName, stateSlug, price, hours, available } = params;
+  if (!available) return null;
   const hoursNum =
     typeof hours === "number"
       ? hours
@@ -486,8 +505,13 @@ export function generateArticleSchemaWithReviewer(params: {
 export function SchemaMarkup({
   schema,
 }: {
-  schema: object;
-}): React.ReactElement {
+  schema: object | null | undefined;
+}): React.ReactElement | null {
+  // A null/undefined schema renders nothing. This lets availability-gated
+  // generators (a coming-soon Course) return null and be dropped in
+  // UNCONDITIONALLY — the page cannot accidentally ship structured data (an
+  // InStock Offer) for a not-live product.
+  if (!schema) return null;
   // Escape "</script>" and HTML-significant sequences so the JSON-LD payload
   // cannot accidentally close the surrounding <script> tag, which would
   // produce a JSON parse error and invalidate the structured data.

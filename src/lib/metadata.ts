@@ -82,6 +82,28 @@ function buildTitle(
   const hours = params.hours;
   const hourStr = hours ? `${hours} Hours` : "";
 
+  // AVAILABILITY GATE: a not-live product — approved-but-coming-soon CE (WA
+  // #300632) or a held prelicensing state (NY #80025) — must NOT get a title
+  // advertising "Same-Day Reporting" / "$199" / "$39". Emit a coming-soon title
+  // instead. Live products (available undefined/true) are byte-identical.
+  if (params.available === false) {
+    const cs: string[] =
+      pageType === "ce-course"
+        ? [`${stateName} ${loaName} CE — Coming Soon | ${brand}`, `${stateName} CE — Coming Soon | ${brand}`, `${shortState} CE — Coming Soon | ${brand}`]
+        : pageType === "ce-hub"
+        ? [`${stateName} Insurance CE — Coming Soon | ${brand}`, `${shortState} Insurance CE — Coming Soon | ${brand}`]
+        : pageType === "prelicensing-course"
+        ? [`${stateName} ${loaName} Prelicensing — Coming Soon | ${brand}`, `${stateName} Prelicensing — Coming Soon | ${brand}`, `${shortState} Prelicensing — Coming Soon | ${brand}`]
+        : pageType === "prelicensing-hub"
+        ? [`${stateName} Prelicensing — Coming Soon | ${brand}`, `${shortState} Prelicensing — Coming Soon | ${brand}`]
+        : [`${stateName} Insurance Licensing — Coming Soon | ${brand}`, `${shortState} Insurance Licensing — Coming Soon | ${brand}`]; // state-hub + fallback
+    const csTitle =
+      cs.find((c) => c.length >= 45 && c.length <= 60) ||
+      cs.find((c) => c.length <= 60) ||
+      cs[cs.length - 1].slice(0, 57) + "...";
+    return { absolute: csTitle };
+  }
+
   const candidatesByType: Record<PageType, string[]> = {
     home: [
       `Insurance Prelicensing & CE Courses | ${brand}`,
@@ -169,6 +191,21 @@ function buildDescription(
 ): string {
   // All descriptions target ≤ 160 characters.
   const { stateName = "", loaName = "" } = params;
+
+  // AVAILABILITY GATE — mirror buildTitle: a not-live product gets a coming-soon
+  // description, NEVER "same-day DOI reporting / From $39 / $199 / state-approved
+  // [available]". Callers may pass a nuanced comingSoonDescription (e.g. naming
+  // the provider number); otherwise a safe generic is used.
+  if (params.available === false) {
+    if (params.comingSoonDescription) return params.comingSoonDescription;
+    switch (pageType) {
+      case "ce-hub":
+      case "ce-course":
+        return `JustInsurance ${stateName} continuing education courses are coming soon — check back to renew your ${stateName} insurance license online.`;
+      default:
+        return `Our ${stateName} prelicensing and CE courses are opening for enrollment soon. See ${stateName} license requirements, exam info, and fees.`;
+    }
+  }
 
   // Descriptions: 120-155 chars, include 2+ conversion signals (93% completer pass rate, $199, pass guarantee, state-approved, same-day reporting).
   const hours = params.hours;
@@ -290,6 +327,16 @@ export interface PageMetadataParams {
   ceHours?: number;
   ceRenewalPeriod?: string;
   totalCostRange?: string;
+  /**
+   * false → the product is not live (approved-but-coming-soon CE, or a held
+   * prelicensing state). buildTitle/buildDescription emit coming-soon copy and
+   * NEVER "Same-Day Reporting / From $X / $199 / state-approved-available".
+   * Undefined/true = live (byte-identical to before this flag existed).
+   */
+  available?: boolean;
+  /** Optional nuanced coming-soon description (e.g. naming the provider #),
+   *  used only when available === false; otherwise a generic coming-soon line. */
+  comingSoonDescription?: string;
 }
 
 export function generatePageMetadata(params: PageMetadataParams): Metadata {

@@ -767,6 +767,9 @@ export default async function PCStateHubPage({
         loaName: "Property & Casualty",
         loaSlug: "property-and-casualty",
         courseType: "continuing-education",
+        // P&C CE pages build only for PC_STATE_SLUGS (all live-CE; WA/NY are not
+        // P&C), so P&C CE is always live here.
+        available: true,
         hours: repPkg.totalHours,
         price: repPkg.price,
         description: `${stateData.name} Property & Casualty continuing education package — ${repPkg.totalHours} hours total (${repPkg.ethicsHours}-hr ${repPkg.ethicsLabel} + ${repPkg.pcHours}-hr P&C electives). Online, self-paced, same-day reporting to the ${stateData.doiName} in most cases. ${repPkg.price}.`,

@@ -510,6 +510,10 @@ export default async function PrelicensingCoursePage({
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
     courseType: "prelicensing",
+    // Prelicensing course pages are only reached when NOT held (held short-
+    // circuits to the notice earlier), so this is true here; passing the real
+    // signal keeps the InStock-offer gate correct if that ever changes.
+    available: !isPrelicensingHeld(stateData),
     hours: pricingHoursNum,
     price: pricing.price,
     // 50 Ill. Adm. Code 3119 — Illinois Course schema descriptions use the

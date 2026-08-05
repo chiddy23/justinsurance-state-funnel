@@ -113,6 +113,8 @@ export default async function PCPackagePage({
     loaName: "Property & Casualty",
     loaSlug: `property-and-casualty/${packageSlug}`,
     courseType: "continuing-education",
+    // P&C CE builds only for PC_STATE_SLUGS (all live-CE; WA/NY are not P&C).
+    available: true,
     hours: pkg.totalHours,
     price: pkg.price,
     description: `${pkg.packageName}. Online, self-paced, same-day reporting to the ${stateData.doiName} in most cases. ${pkg.price}.`,

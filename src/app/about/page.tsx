@@ -107,14 +107,14 @@ const SELF_PACED_CTA_CAVEAT = `Self-paced study in most of the ${SERVED_STATE_CO
 }; New York is not currently served.`
 
 export const metadata: Metadata = {
-  title: { absolute: "About JustInsurance — 20,000+ Students Trained Since 2018" },
+  title: { absolute: "About JustInsurance — 30,000+ Students Trained Since 2018" },
   description:
-    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% completer pass rate. 49 states.",
+    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 30,000+ students trained. 93% completer pass rate. 49 states.",
   alternates: { canonical: "https://justinsuranceco.com/about" },
   openGraph: {
-    title: "About JustInsurance — 20,000+ Students Trained Since 2018",
+    title: "About JustInsurance — 30,000+ Students Trained Since 2018",
     description:
-      "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% completer pass rate.",
+      "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 30,000+ students trained. 93% completer pass rate.",
     url: "https://justinsuranceco.com/about",
     siteName: "JustInsurance",
     type: "website",
@@ -174,7 +174,7 @@ const orgPersonSchema = {
 };
 
 const stats = [
-  { value: "20,000+", label: "Students Trained" },
+  { value: "30,000+", label: "Students Trained" },
   { value: "93%", label: "First-Attempt Pass Rate*" },
   { value: String(SERVED_STATE_COUNT), label: "States Covered" },
   { value: "20,000+", label: "YouTube Subscribers" },
@@ -307,7 +307,7 @@ export default function AboutPage() {
             JustInsurance was founded by Justin vom Eigen — a former New York Life agent who
             watched talented people wash out of the industry because of outdated,
             soul-crushing prelicensing courses. Today we&apos;ve trained{" "}
-            <strong className="text-white">over 20,000 students</strong> across{" "}
+            <strong className="text-white">over 30,000 students</strong> across{" "}
             <Link href="/#states" className="underline hover:text-gold">
               {SERVED_STATE_COUNT} states
             </Link>{" "}
@@ -347,7 +347,7 @@ export default function AboutPage() {
             <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Agency Partners</p>
           </div>
           <div>
-            <p className="text-3xl md:text-4xl font-extrabold text-navy">20,000+</p>
+            <p className="text-3xl md:text-4xl font-extrabold text-navy">30,000+</p>
             <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Students Trained</p>
           </div>
         </div>

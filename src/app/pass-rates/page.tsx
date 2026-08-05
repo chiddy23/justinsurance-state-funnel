@@ -230,7 +230,7 @@ export default function PassRatesPage() {
       <section className="py-12 px-4" style={{ backgroundColor: "#F5F7FA" }}>
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-navy font-bold text-2xl mb-2">
-            20,000+ Students Trained
+            30,000+ Students Trained
           </p>
           <p className="text-gray-600">
             JustInsurance has helped agents nationwide earn and renew
@@ -281,7 +281,7 @@ export default function PassRatesPage() {
 
       {/* CTA */}
       <CTABanner
-        title="Ready to Join Our 20,000+ Successful Students?"
+        title="Ready to Join Our 30,000+ Successful Students?"
         subtitle="Enroll in a state-approved prelicensing course today. Study at your own pace, take unlimited practice exams, and pass with confidence."
         ctaText="Find Your State"
         ctaHref="/"

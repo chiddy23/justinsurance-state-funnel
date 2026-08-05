@@ -87,7 +87,7 @@ export const metadata: Metadata = {
   title: {
     absolute: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
   },
-  description: `JustInsurance press releases and media appearances. Justin vom Eigen featured on NASDAQ TradeTalks; press release syndicated to Yahoo Finance. 93% pass rate among students who complete the full course and recommended practice; 20,000+ students trained; state-approved in ${APPROVED_STATE_COUNT} states.`,
+  description: `JustInsurance press releases and media appearances. Justin vom Eigen featured on NASDAQ TradeTalks; press release syndicated to Yahoo Finance. 93% pass rate among students who complete the full course and recommended practice; 30,000+ students trained; state-approved in ${APPROVED_STATE_COUNT} states.`,
   robots: "index, follow",
   alternates: {
     canonical: "https://justinsuranceco.com/press",
@@ -174,7 +174,7 @@ const MEDIA_OUTLETS = [
 const PRESS_STATS = [
   { value: "93%", label: "Student Pass Rate*" },
   { value: String(APPROVED_STATE_COUNT), label: "State Approvals" },
-  { value: "20,000+", label: "Students Trained" },
+  { value: "30,000+", label: "Students Trained" },
 ];
 
 export default function PressPage() {
@@ -471,7 +471,7 @@ export default function PressPage() {
               </p>
               <p className="text-gray-600 text-sm leading-relaxed mb-4">
                 Founded by Justin vom Eigen in Pembroke Pines, Florida,
-                JustInsurance has trained 20,000+ students and maintains a
+                JustInsurance has trained 30,000+ students and maintains a
                 93% first-attempt exam pass rate (among {PASS_RATE_COHORT}).
               </p>
               <ul className="text-sm text-gray-600 space-y-2">
@@ -491,7 +491,7 @@ export default function PressPage() {
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  20,000+ students trained
+                  30,000+ students trained
                 </li>
                 <li className="flex items-center gap-2">
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
@@ -509,7 +509,7 @@ export default function PressPage() {
       <section className="bg-navy py-14">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
-            Ready to Join 20,000+ Students Nationwide?
+            Ready to Join 30,000+ Students Nationwide?
           </h2>
           <p className="text-gray-300 mb-8 text-lg">
             Get your insurance license online — $199 prelicensing, CE from $39,

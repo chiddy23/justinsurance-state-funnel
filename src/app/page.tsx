@@ -79,12 +79,6 @@ const formatStateNames = (states: { name: string }[]): string => {
   return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
 };
 
-/** Short form for metadata — the count already excludes any pending state. */
-const CE_APPROVAL_SHORT =
-  CE_APPROVAL_PENDING.length === 0
-    ? `state-approved CE in all ${SERVED_STATE_COUNT} states we serve`
-    : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve`;
-
 /** Course access window — rendered only when it is uniform across served states. */
 const ACCESS_DAY_VALUES = Array.from(
   new Set(SERVED_STATES.map((s) => s.courseAccessDays))
@@ -106,8 +100,14 @@ const LIVE_COMPONENT_CAVEAT = LIVE_COMPONENT_STATES.length
 const LIVE_COMPONENT_SENTENCE =
   LIVE_COMPONENT_CAVEAT.charAt(0).toUpperCase() + LIVE_COMPONENT_CAVEAT.slice(1);
 
-const homeTitle = "Insurance Prelicensing & CE Courses | JustInsurance";
-const homeDesc = `Insurance prelicensing and CE courses — ${CE_APPROVAL_SHORT}. Online and self-paced in most states, 93% completer pass rate, pass guarantee in eligible states. From $199.`;
+// SEO title — lead with the high-volume head term. "Insurance license course(s)"
+// draws ~1,900 US searches/mo and "insurance license" ~9,900, vs "prelicensing"
+// at ~40/mo (DataForSEO, 2026-08), so the title leads with the license-course
+// phrasing and keeps prelicensing + CE for topical coverage.
+const homeTitle = "Insurance License Courses — Prelicensing & CE | JustInsurance";
+// Meta description — CTR copy (not a ranking factor). Keyword-forward, no
+// attorney-gated pass-rate claim, no awkward "48 of 49" fraction.
+const homeDesc = `State-approved insurance prelicensing, continuing education (CE) & exam prep — 100% online and self-paced, trusted by 30,000+ students. From $199.`;
 
 export const metadata: Metadata = {
   title: { absolute: homeTitle },
@@ -151,7 +151,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved insurance prelicensing and continuing education (CE), plus exam prep &mdash; 100% online, self-paced in most states, with a pass guarantee where eligible. Approved for prelicensing {PRELICENSING_REACH_PHRASE}, with CE in {CE_REACH_PHRASE}. Join 20,000+ students who trust JustInsurance.
+            State-approved insurance prelicensing and continuing education (CE), plus exam prep &mdash; 100% online, self-paced in most states, with a pass guarantee where eligible. Approved for prelicensing {PRELICENSING_REACH_PHRASE}, with CE in {CE_REACH_PHRASE}. Join 30,000+ students who trust JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -305,7 +305,7 @@ export default function HomePage() {
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            Why 20,000+ Students Choose JustInsurance
+            Why 30,000+ Students Choose JustInsurance
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
             We make getting and keeping your insurance license as simple as possible.

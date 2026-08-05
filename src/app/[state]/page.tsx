@@ -770,7 +770,7 @@ export default async function StateHubPage({
             Why Choose JustInsurance for Your {stateData.name} License?
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We&apos;ve helped train 20,000+ students nationwide. Here&apos;s why they choose us.
+            We&apos;ve helped train 30,000+ students nationwide. Here&apos;s why they choose us.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {[

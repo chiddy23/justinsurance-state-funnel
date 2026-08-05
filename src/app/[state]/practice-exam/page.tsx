@@ -6,6 +6,7 @@ import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
+import { isPrelicensingHeld } from "@/lib/prelicensing-status";
 import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import ArticleByline from "@/components/ArticleByline";
@@ -50,6 +51,10 @@ export default async function PracticeExamPage({
   // line is added to the intro copy (this page markets prelicensing in its
   // cross-sell copy). No rendered-output change for any other state.
   const ilWebinar = hasClassroomWebinarHours(stateData);
+  // NY prelicensing is held/coming soon — soften the prelicensing cross-sell so
+  // the practice-exam page never markets a not-yet-open course as "one purchase,
+  // test-ready in days". Practice exams themselves are a separate live product.
+  const prelicensingHeld = isPrelicensingHeld(stateData);
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -266,7 +271,9 @@ export default async function PracticeExamPage({
                 <Link href={`/${slug}/prelicensing`} className="text-gold hover:underline font-semibold">
                   {stateName} prelicensing course
                 </Link>{" "}
-                includes a full-length practice exam at no extra cost.
+                {prelicensingHeld
+                  ? "will include a full-length practice exam when it opens for enrollment."
+                  : "includes a full-length practice exam at no extra cost."}
               </p>
             </div>
           )}
@@ -277,17 +284,18 @@ export default async function PracticeExamPage({
       <section className="bg-navy py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
-            Want the Full Prep Package?
+            {prelicensingHeld ? `${stateName} Prelicensing — Opening Soon` : "Want the Full Prep Package?"}
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6">
-            Our {stateName} prelicensing course includes a full practice exam at no extra cost.
-            Get the complete curriculum plus the practice exam — one purchase, test-ready in days.
+            {prelicensingHeld
+              ? `Our ${stateName} prelicensing course is completing approval and will open for enrollment soon — it will include a full practice exam at no extra cost. In the meantime, the ${stateName} practice exams above are ready whenever you are.`
+              : `Our ${stateName} prelicensing course includes a full practice exam at no extra cost. Get the complete curriculum plus the practice exam — one purchase, test-ready in days.`}
           </p>
           <Link
             href={`/${slug}/prelicensing`}
             className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-8 rounded-lg transition-colors"
           >
-            See {stateName} Prelicensing Courses
+            {prelicensingHeld ? `Learn About ${stateName} Prelicensing` : `See ${stateName} Prelicensing Courses`}
           </Link>
         </div>
       </section>

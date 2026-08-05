@@ -6,6 +6,7 @@ import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateCEHubCourseSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import { getCEHubFAQs, buildFaqData } from "@/lib/faq-data";
+import { isCeAvailable, isCeApprovedComingSoon } from "@/lib/prelicensing-status";
 import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import LOASelector from "@/components/LOASelector";
@@ -31,7 +32,8 @@ export async function generateMetadata({
   const { state } = await params;
   const stateData = getStateBySlug(state);
   if (!stateData) return {};
-  return generatePageMetadata({
+
+  const base = generatePageMetadata({
     pageType: "ce-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
@@ -40,6 +42,38 @@ export async function generateMetadata({
     ceHours: stateData.ce.totalHours,
     ceRenewalPeriod: stateData.ce.renewalPeriod,
   });
+
+  // CE not live here — either approved-but-coming-soon (WA #300632) or
+  // approval-pending (NY, where #80025 is a PRELICENSING approval and CE is not
+  // yet submitted). The default ce-hub metadata advertises a purchasable product
+  // that is not open: title "…| Same-Day Reporting |…" and a meta/og/twitter
+  // description reading "State-approved, typically same-day DOI reporting … From
+  // $39." Override title + description (across meta, OpenGraph, and Twitter) with
+  // a truthful coming-soon variant — no "Same-Day Reporting", no "state-approved
+  // [available]", no "From $39". Live CE states return `base` byte-identically.
+  if (!isCeAvailable(stateData)) {
+    const comingSoonTitle = `${stateData.name} Insurance Continuing Education — Coming Soon | JustInsurance`;
+    const comingSoonDescription = isCeApprovedComingSoon(stateData)
+      ? `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+      : `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance's ${stateData.name} CE provider approval is pending — courses coming soon.`;
+    return {
+      ...base,
+      title: { absolute: comingSoonTitle },
+      description: comingSoonDescription,
+      openGraph: {
+        ...base.openGraph,
+        title: comingSoonTitle,
+        description: comingSoonDescription,
+      },
+      twitter: {
+        ...base.twitter,
+        title: comingSoonTitle,
+        description: comingSoonDescription,
+      },
+    };
+  }
+
+  return base;
 }
 
 export default async function CEHubPage({
@@ -52,12 +86,14 @@ export default async function CEHubPage({
   if (!stateData) notFound();
 
   const { ce } = stateData;
-  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
-  // and WA): the CE course is not yet state-approved and completions cannot be
-  // reported to the DOI, so every "state-approved" / "same-day reporting" claim
-  // on this page is gated off until approval issues. Approved states are
-  // byte-identical.
-  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
+  // Whether CE is LIVE and purchasable here: provider approval has issued
+  // (providerApprovalNumber !== "PENDING") AND ceCoursesLive !== false. Every
+  // "state-approved" / "same-day reporting" claim, the reporting row, the refund
+  // microcopy, and the CE purchase/claim props passed to child tiles are gated on
+  // this. An approved-but-not-live state (e.g. WA #300632 / NY #80025) is FALSE
+  // here — recording the approval number must NOT turn on a purchase CTA — and
+  // instead shows the neutral "Approved — courses coming soon" notice below.
+  const providerApproved = isCeAvailable(stateData);
   const faqs = getCEHubFAQs(buildFaqData(stateData));
 
   const breadcrumbSchema = generateBreadcrumbSchema([
@@ -73,7 +109,7 @@ export default async function CEHubPage({
   const articleHeadline = `${stateData.name} Insurance Continuing Education (CE) Courses`;
   const articleDescription = providerApproved
     ? `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We typically report your completion to the state the same day.`
-    : `Complete your ${stateData.name} CE hours online with self-paced courses built to the ${stateData.doiName} CE topic requirements.`;
+    : `${stateData.name} requires ${ce.totalHours} hours of continuing education every ${ce.renewalPeriod}. ${isCeApprovedComingSoon(stateData) ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon.` : `JustInsurance's ${stateData.name} CE provider approval is pending — CE courses coming soon.`}`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -99,7 +135,12 @@ export default async function CEHubPage({
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={articleSchema} />
-      <SchemaMarkup schema={courseSchema} />
+      {/* CE Course JSON-LD ships two Offer objects (price 39, InStock, Paid) plus
+          a "State-approved … typically reported the same business day" description.
+          Emit it ONLY when CE is live and approved (providerApproved === isCeAvailable);
+          a coming-soon / approval-pending state (WA #300632 / NY #80025) must NOT
+          publish an InStock $39 Offer, so the block is skipped entirely there. */}
+      {providerApproved && <SchemaMarkup schema={courseSchema} />}
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -111,7 +152,7 @@ export default async function CEHubPage({
         subtitle={
           providerApproved
             ? `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We typically report your completion to the state the same day.`
-            : `Don't let your license lapse! Complete your ${stateData.name} CE hours online with self-paced courses built to the ${stateData.doiName} CE topic requirements.`
+            : `Renew your ${stateData.name} insurance license — ${ce.totalHours} CE hours every ${ce.renewalPeriod}. ${isCeApprovedComingSoon(stateData) ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon.` : `Our ${stateData.name} CE provider approval is pending — courses coming soon.`}`
         }
         ctaButtons={[
           { text: "See CE Courses Below", href: "#ce-courses" },
@@ -122,8 +163,21 @@ export default async function CEHubPage({
         <ArticleByline lastReviewed={stateData.lastVerified} />
       </div>
 
-      {/* Same-Day DOI Reporting Banner — hidden for pending-approval states,
-          which cannot yet report completions to the DOI. */}
+      {/* Approved-but-not-live notice: provider approval HAS issued (real number),
+          but CE courses are not open for enrollment yet (ceCoursesLive === false,
+          e.g. WA #300632 / NY #80025). Shows the real provider number and a
+          truthful "courses coming soon" message — never a purchase CTA and never
+          "approval pending". Mutually exclusive with the live claims above. */}
+      {isCeApprovedComingSoon(stateData) && (
+        <section className="bg-gold/10 border-y border-gold/30 py-4 px-4">
+          <p className="max-w-4xl mx-auto text-center text-sm font-semibold text-navy">
+            Approved {stateData.name} CE provider (#{stateData.providerApprovalNumber}) — courses coming soon.
+          </p>
+        </section>
+      )}
+
+      {/* Same-Day DOI Reporting Banner — hidden unless CE is live and approved,
+          since we cannot report completions for courses that are not yet open. */}
       {providerApproved && (
         <section className="bg-navy text-white py-6">
           <div className="max-w-4xl mx-auto px-4 flex items-center gap-4">
@@ -182,14 +236,17 @@ export default async function CEHubPage({
                   </>
                 ) : (
                   <>
-                    JustInsurance offers online CE courses built to the {stateData.doiName} CE topic requirements that you can complete entirely at your own pace, on any device. Our {stateData.name} CE provider approval is currently pending with the {stateData.doiName}.
+                    When our {stateData.name} CE courses launch they will be fully online and self-paced, built to the {stateData.doiName} CE topic requirements so you can complete your required hours on any device.{" "}
+                    {isCeApprovedComingSoon(stateData)
+                      ? `We are an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) with the ${stateData.doiName}; courses are coming soon.`
+                      : `Our ${stateData.name} CE provider approval is currently pending with the ${stateData.doiName}.`}
                   </>
                 )}
               </p>
               <div className="bg-amber-50 border-l-4 border-gold rounded-r-lg p-4">
                 <p className="font-semibold text-navy text-sm mb-1">Don&apos;t Wait Until the Last Minute</p>
                 <p className="text-gray-600 text-sm">
-                  License lapses can result in reinstatement fees and additional requirements. Complete your CE at least 30 days before your renewal deadline. JustInsurance courses are self-paced online, so you can work through your required hours on your own schedule.
+                  License lapses can result in reinstatement fees and additional requirements. Complete your CE at least 30 days before your renewal deadline. {providerApproved ? "JustInsurance courses are self-paced online, so you can work through your required hours on your own schedule." : `When our ${stateData.name} CE courses launch they will be self-paced online, so you can work through your required hours on your own schedule.`}
                 </p>
               </div>
 
@@ -311,13 +368,17 @@ export default async function CEHubPage({
                 step: "1",
                 icon: "📋",
                 title: "Choose Your Course",
-                desc: `Select the CE course that matches your ${stateData.name} license type (Life, Health, or Life & Health).`,
+                desc: providerApproved
+                  ? `Select the CE course that matches your ${stateData.name} license type (Life, Health, or Life & Health).`
+                  : `When our ${stateData.name} CE courses launch, you'll choose the CE course that matches your license type (Life, Health, or Life & Health).`,
               },
               {
                 step: "2",
                 icon: "💻",
                 title: "Complete Online",
-                desc: "Finish your required CE hours entirely online, at your own pace, on any device.",
+                desc: providerApproved
+                  ? "Finish your required CE hours entirely online, at your own pace, on any device."
+                  : "When they launch, you'll finish your required CE hours entirely online, at your own pace, on any device.",
               },
               {
                 step: "3",
@@ -325,7 +386,7 @@ export default async function CEHubPage({
                 title: providerApproved ? "We Report to the State" : "Get Your Certificate",
                 desc: providerApproved
                   ? `JustInsurance typically reports your completion to the ${stateData.doiName} the same day. No paperwork needed.`
-                  : `Download your certificate of completion as soon as you finish your ${stateData.name} CE hours.`,
+                  : `When our ${stateData.name} CE courses launch, you'll download your certificate of completion as soon as you finish your CE hours.`,
               },
             ].map((item) => (
               <div key={item.step} className="text-center bg-gray-bg rounded-xl p-6">
@@ -367,7 +428,7 @@ export default async function CEHubPage({
           stateName={stateData.name}
           doiName={stateData.doiName}
           compliance={ce.compliance}
-          providerApproved={stateData.providerApprovalNumber !== "PENDING"}
+          providerApproved={providerApproved}
         />
       )}
 

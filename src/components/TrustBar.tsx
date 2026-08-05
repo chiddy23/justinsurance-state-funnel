@@ -3,6 +3,7 @@ import { TRUSTPILOT } from "@/lib/trustpilot";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { getGoogleReviews } from "@/lib/google-reviews";
 import { getStateBySlug } from "@/lib/states";
+import { isCeAvailable, isPrelicensingHeld } from "@/lib/prelicensing-status";
 
 interface TrustSignal {
   icon: React.ReactNode;
@@ -96,11 +97,29 @@ const INSTANT_ACCESS_SIGNAL: TrustSignal = {
   sub: "Start studying in minutes",
 };
 
-// Replacement signals for states whose JustInsurance provider approval is still
-// PENDING (currently New York and Washington). We must not display an active
-// "State-Approved / Official course approval" badge or a "Same-Day Reporting"
-// badge, because both assert an approval the state has not granted. These swap
-// in 1-for-1 and auto-revert the moment providerApprovalNumber is set.
+// For a prelicensing-HELD state (approved provider, courses not open yet — NY
+// #80025 today) "Instant Course Access / Start studying in minutes" overstates:
+// nothing is enrollable now. Swap it for a truthful opening-soon badge. WA
+// (optional exam-prep is live) and every live state are NOT held, so they keep
+// Instant Course Access. Auto-reverts once the course opens.
+const OPENING_SOON_SIGNAL: TrustSignal = {
+  icon: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+    </svg>
+  ),
+  label: "Courses Opening Soon",
+  sub: "New courses coming soon",
+};
+
+// Replacement signals swapped in 1-for-1 (preserving the 7-slot layout) when a
+// badge would overstate our status in a state:
+//   - STATE_STANDARDS_SIGNAL replaces "State-Approved / Official course approval"
+//     where provider approval is still PENDING (no approval granted yet).
+//   - ONLINE_SELF_PACED_SIGNAL replaces "Same-Day Reporting" wherever CE is not
+//     LIVE — both PENDING states and approved-but-coming-soon CE states (WA
+//     #300632 CE coming soon; NY #80025 is a PRELICENSING approval, NY CE pending),
+//     which have no live CE completions to report. Auto-reverts once CE goes live.
 const STATE_STANDARDS_SIGNAL: TrustSignal = {
   icon: (
     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -138,28 +157,43 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   // back to the static display when no API key/place ID is configured).
   const google = await getGoogleReviews();
 
-  // Pending-approval gate: states with providerApprovalNumber === "PENDING"
-  // (currently NY, WA) cannot show the active "State-Approved" or "Same-Day
-  // Reporting" badges — the approval that would make them true has not issued.
+  // Approval gate for the "State-Approved / Official course approval" badge:
+  // a state with providerApprovalNumber === "PENDING" has no approval to claim,
+  // so that badge is swapped for a neutral "Built to State Standards" one.
   const state = stateSlug ? getStateBySlug(stateSlug) : undefined;
   const providerApproved = !state || state.providerApprovalNumber !== "PENDING";
+
+  // R2: the "Same-Day Reporting" badge asserts a LIVE CE-reporting capability.
+  // Provider approval alone is not enough to earn it — WA (#300632, CE courses
+  // coming soon) and NY (#80025 is a PRELICENSING approval; NY CE approval is
+  // still pending) both hold a real provider number yet have no live CE to
+  // report. Gate the badge on CE actually being live. Undefined state (national
+  // pages) and every live-CE state stay true, so those render byte-identically.
+  const ceAvailable = !state || isCeAvailable(state);
+
+  // A prelicensing-held state (NY #80025) has no course enrollable now, so the
+  // "Instant Course Access" swap must become "Courses Opening Soon" instead.
+  const prelicensingHeld = !!state && isPrelicensingHeld(state);
 
   // Audit 2026-07-14: on NATIONAL pages (no stateSlug) the bar is visible to
   // visitors from excluded states too, so the guarantee signal must carry the
   // eligibility hedge. State pages keep the short label (full terms render in
   // PassGuarantee on the same page); excluded states swap the signal entirely.
   const base = TRUST_SIGNALS.map((signal) => {
-    if (!providerApproved) {
-      if (signal.label === "State-Approved") return STATE_STANDARDS_SIGNAL;
-      if (signal.label === "Same-Day Reporting") return ONLINE_SELF_PACED_SIGNAL;
-    }
+    if (!providerApproved && signal.label === "State-Approved")
+      return STATE_STANDARDS_SIGNAL;
+    // Same-Day Reporting is gated on CE being LIVE (isCeAvailable), not merely on
+    // provider approval, so approved-but-coming-soon CE states (WA/NY) drop it too.
+    // PENDING states have ceAvailable === false as well, so their output is unchanged.
+    if (!ceAvailable && signal.label === "Same-Day Reporting")
+      return ONLINE_SELF_PACED_SIGNAL;
     if (signal.label === "Pass Guarantee") {
       // Product-level gate runs BEFORE the state-level gate: on a CE surface the
       // guarantee is unavailable in every state, eligible ones included.
-      if (!passGuaranteeApplies) return INSTANT_ACCESS_SIGNAL;
+      if (!passGuaranteeApplies) return prelicensingHeld ? OPENING_SOON_SIGNAL : INSTANT_ACCESS_SIGNAL;
       if (!stateSlug)
         return { ...signal, sub: "Pass or we refund — eligible states, terms apply" };
-      if (!hasPassGuarantee(stateSlug)) return INSTANT_ACCESS_SIGNAL;
+      if (!hasPassGuarantee(stateSlug)) return prelicensingHeld ? OPENING_SOON_SIGNAL : INSTANT_ACCESS_SIGNAL;
     }
     return signal;
   });

@@ -60,13 +60,20 @@ export const EXAM_ONLY_COUNT = STATE_COUNT - PRELICENSING_REQUIRED_COUNT;
  * every state we serve" — the knowledge existed, the copy contradicted it.
  * Derive the honest phrasing from the data so no page can reassert "nationwide".
  */
-const CE_PENDING_SLUGS = ALL.filter(
-  (s) => (s.providerApprovalNumber ?? "").trim().toUpperCase() === "PENDING"
+// A state counts as LIVE CE only when we hold approval AND our courses are live
+// (ceCoursesLive !== false). A state can be an APPROVED provider while its courses
+// are still "coming soon" (Washington #300632, New York #80025) — those are NOT
+// counted as live and must never be advertised as available. This unifies "pending"
+// (no approval) and "approved-coming-soon" (approved, no live packages).
+const CE_NOT_LIVE_NAMES = ALL.filter(
+  (s) =>
+    (s.providerApprovalNumber ?? "").trim().toUpperCase() === "PENDING" ||
+    s.ceCoursesLive === false
 ).map((s) => s.name);
-export const CE_APPROVED_COUNT = STATE_COUNT - CE_PENDING_SLUGS.length; // 48
-export const CE_PENDING_STATE_NAMES = CE_PENDING_SLUGS; // ["New York","Washington"]
+export const CE_APPROVED_COUNT = STATE_COUNT - CE_NOT_LIVE_NAMES.length; // states with LIVE CE (48)
+export const CE_PENDING_STATE_NAMES = CE_NOT_LIVE_NAMES; // not-live: approved-coming-soon or pending
 
-/** e.g. "New York and Washington" — the states whose CE approval is still pending. */
+/** e.g. "New York and Washington" — states whose CE is not live yet (approved-coming-soon or pending). */
 export const CE_PENDING_LABEL = (() => {
   const n = CE_PENDING_STATE_NAMES;
   if (n.length === 0) return "";
@@ -77,10 +84,10 @@ export const CE_PENDING_LABEL = (() => {
 
 /**
  * Honest inline phrase for CE reach. Reads e.g.:
- * "state-approved continuing education in 48 states (New York and Washington approvals pending)"
+ * "state-approved continuing education in 48 states (New York and Washington — courses coming soon)"
  */
 export const CE_APPROVAL_PHRASE = CE_PENDING_STATE_NAMES.length
-  ? `state-approved continuing education in ${CE_APPROVED_COUNT} states (${CE_PENDING_LABEL} ${CE_PENDING_STATE_NAMES.length === 1 ? "approval" : "approvals"} pending)`
+  ? `state-approved continuing education in ${CE_APPROVED_COUNT} states (${CE_PENDING_LABEL} — courses coming soon)`
   : `state-approved continuing education in all ${STATE_COUNT} states`;
 
 const rangeOf = (vals: number[]): { min: number; max: number } => ({

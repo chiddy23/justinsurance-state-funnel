@@ -19,8 +19,9 @@ interface CEIndividualCoursesTileProps {
   /** Tailwind classes for the wrapping <section>. Lets each page match its
    *  surrounding background (gray vs white) and spacing. */
   sectionClassName?: string;
-  /** Pending-approval states (NY, WA) cannot claim DOI reporting yet; drops the
-   *  "same-day reporting" line. Defaults true (approved states unchanged). */
+  /** CE availability for this state (parent passes isCeAvailable). When false —
+   *  provider not approved OR courses not live yet — this tile renders a neutral
+   *  "coming soon" card and drops the "same-day reporting" line. Defaults true. */
   providerApproved?: boolean;
 }
 
@@ -39,10 +40,11 @@ export default function CEIndividualCoursesTile({
     ceCatalog?.category ??
     "https://yourinsurancelicense.myabsorb.com/";
 
-  // Pending-approval states (NY, WA): CE is not purchasable yet, so this tile
-  // must NOT link to the Absorb individual-courses catalog. Render a neutral,
-  // non-purchase informational card instead. Approved states (and any caller
-  // that omits providerApproved) render the linked tile exactly as before.
+  // States without live CE (courses coming soon, e.g. NY, WA): CE is not
+  // purchasable yet, so this tile must NOT link to the Absorb individual-courses
+  // catalog. Render a neutral, non-purchase "coming soon" card instead. States
+  // with live CE (and any caller that omits providerApproved) render the linked
+  // tile exactly as before.
   if (!providerApproved) {
     return (
       <section className={sectionClassName}>
@@ -52,12 +54,12 @@ export default function CEIndividualCoursesTile({
               Need just one topic?
             </p>
             <p className="text-navy font-bold text-base md:text-lg">
-              Individual {stateName} CE courses are opening soon
+              Individual {stateName} CE courses are coming soon
             </p>
             <p className="text-gray-600 text-sm mt-1">
-              Opening soon — our {stateName} CE provider approval is pending with
-              the {doiName}. À-la-carte {stateName} CE courses will be available to
-              purchase as soon as approval is issued.
+              À-la-carte {stateName} CE courses are coming soon. Check back
+              shortly — individual courses will be available to purchase here as
+              soon as they go live.
             </p>
           </div>
         </div>

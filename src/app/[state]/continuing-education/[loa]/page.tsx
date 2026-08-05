@@ -26,6 +26,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
 import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
+import { isCeAvailable, isCeApprovedComingSoon } from "@/lib/prelicensing-status";
 
 type CatalogLinks = typeof catalogLinks;
 
@@ -78,7 +79,7 @@ export async function generateMetadata({
   const stateData = getStateBySlug(state);
   const loaDef = LOA_DEFINITIONS[loa as LOASlug];
   if (!stateData || !loaDef) return {};
-  return generatePageMetadata({
+  const meta = generatePageMetadata({
     pageType: "ce-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
@@ -88,6 +89,27 @@ export async function generateMetadata({
     hours: stateData.ce.totalHours,
     price: stateData.ce.packagePrice,
   });
+  // When CE is NOT live (WA #300632 approved-but-coming-soon, or NY whose CE
+  // approval is still pending), the shared "ce-course" title + description
+  // assert "Same-Day Reporting", "state-approved", and a purchasable "From $39"
+  // — all false before launch. Override the title/description and their
+  // OG + Twitter mirrors with truthful coming-soon copy (no same-day, no $39,
+  // no state-approved). Live states skip this branch and return `meta`
+  // unchanged, so their metadata is byte-identical.
+  if (!isCeAvailable(stateData)) {
+    const csTitle = `${stateData.name} ${loaDef.name} CE — Coming Soon | JustInsurance`;
+    const csDescription = isCeApprovedComingSoon(stateData)
+      ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — ${stateData.name} ${loaDef.name} CE courses are coming soon.`
+      : `Our ${stateData.name} CE provider approval is pending; ${stateData.name} ${loaDef.name} CE courses are not yet available.`;
+    return {
+      ...meta,
+      title: { absolute: csTitle },
+      description: csDescription,
+      openGraph: { ...meta.openGraph, title: csTitle, description: csDescription },
+      twitter: { ...meta.twitter, title: csTitle, description: csDescription },
+    };
+  }
+  return meta;
 }
 
 export default async function CECoursePage({
@@ -102,11 +124,26 @@ export default async function CECoursePage({
   if (!stateData || !loaDef) notFound();
 
   const { ce } = stateData;
-  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
-  // and WA): the CE course is not yet state-approved and completions cannot be
-  // reported to the DOI. Gate every such claim off; approved states are
-  // byte-identical.
-  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
+  // CE purchase/enroll surfaces AND live "state-approved CE" / "same-day
+  // reporting" claims may render ONLY when CE is actually available — provider
+  // approval issued AND courses live (isCeAvailable). Recording a real provider
+  // number for an approved-but-not-live state (WA #300632 / NY #80025) must NOT
+  // turn purchase on, so this gate is isCeAvailable, not the bare
+  // providerApprovalNumber check. The not-available branch then distinguishes
+  // approved-but-coming-soon (isCeApprovedComingSoon → "Approved … courses coming
+  // soon" WITH the provider number) from a genuinely pending approval (the
+  // fallback "approval pending" copy — no state is pending today, kept as a
+  // safety net). Available states render byte-identically.
+  const providerApproved = isCeAvailable(stateData);
+  const ceComingSoon = isCeApprovedComingSoon(stateData);
+  // Truthful coming-soon copy for the not-available branch, reused by the
+  // Article JSON-LD description and the hero subtitle so neither asserts
+  // same-day reporting, "state-approved", or a purchasable "$39". WA (#300632)
+  // is an approved-but-not-live CE provider; NY's CE approval is still pending
+  // (ceApproved:false), so it falls to the "approval pending" wording.
+  const ceComingSoonDescription = ceComingSoon
+    ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — this ${stateData.name} ${loaDef.name} CE course is coming soon.`
+    : `Our ${stateData.name} CE provider approval is pending; this course is not yet available.`;
   // First-term CE rule: some states require MORE hours before a producer's FIRST
   // renewal than per recurring cycle (states.ts ce.firstTermHours — currently
   // Massachusetts only: 60 credits, 3 of them ethics, before the first renewal
@@ -199,7 +236,7 @@ export default async function CECoursePage({
   const articleHeadline = `${stateData.name} ${loaDef.name} Continuing Education Course`;
   const articleDescription = providerApproved
     ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`
-    : `Complete your ${ceHoursPhrase} online, at your own pace, with courses built to the ${stateData.doiName} CE topic requirements. Only ${ce.packagePrice}.`;
+    : ceComingSoonDescription;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -216,7 +253,13 @@ export default async function CECoursePage({
 
   return (
     <>
-      <SchemaMarkup schema={courseSchema} />
+      {/* Course JSON-LD carries an InStock/Paid $39 Offer (top-level AND inside
+          hasCourseInstance). For a not-live CE product that would advertise a
+          purchasable price that does not exist, so the whole block is skipped
+          when CE is not available (WA coming-soon / NY pending). Live states
+          render it unchanged. The Article schema below stays (its description is
+          rewritten to coming-soon copy and it carries no Offer/price). */}
+      {providerApproved && <SchemaMarkup schema={courseSchema} />}
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={articleSchema} />
@@ -236,7 +279,7 @@ export default async function CECoursePage({
         subtitle={
           providerApproved
             ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`
-            : `Complete your ${ceHoursPhrase} online, at your own pace, with courses built to the ${stateData.doiName} CE topic requirements. Only ${ce.packagePrice}.`
+            : ceComingSoonDescription
         }
         ctaButtons={
           providerApproved
@@ -260,13 +303,26 @@ export default async function CECoursePage({
         <div id="ce-requirements" className="bg-navy-dark px-4 pb-8">
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-gold font-semibold text-base md:text-lg">
-              Opening soon — our {stateData.name} CE provider approval is pending.
+              {ceComingSoon
+                ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                : `Opening soon — our ${stateData.name} CE provider approval is pending.`}
             </p>
             <p className="text-blue-200 text-sm leading-relaxed mt-2 max-w-2xl mx-auto">
-              We&apos;ll open {stateData.name} {loaDef.name} CE enrollment as soon as
-              the {stateData.doiName} issues our provider approval. In the meantime, the
-              full {ce.totalHours}-hour requirement and course topics below are accurate
-              and kept up to date.
+              {ceComingSoon ? (
+                <>
+                  We&apos;re an approved {stateData.name} CE provider and are preparing
+                  our {loaDef.name} CE courses now — we&apos;ll open enrollment as soon
+                  as they&apos;re live. In the meantime, the full {ce.totalHours}-hour
+                  requirement and course topics below are accurate and kept up to date.
+                </>
+              ) : (
+                <>
+                  We&apos;ll open {stateData.name} {loaDef.name} CE enrollment as soon as
+                  the {stateData.doiName} issues our provider approval. In the meantime, the
+                  full {ce.totalHours}-hour requirement and course topics below are accurate
+                  and kept up to date.
+                </>
+              )}
             </p>
           </div>
         </div>
@@ -343,7 +399,7 @@ export default async function CECoursePage({
 
       <CourseOverviewBox
         hours={ce.totalHours}
-        price={ce.packagePrice}
+        price={providerApproved ? ce.packagePrice : "Coming soon"}
         accessDuration="365 Days"
         includes={[
           firstTermHours
@@ -475,7 +531,7 @@ export default async function CECoursePage({
         variant="ce"
         ceEthicsWebinar={!!stateData.classroomWebinarHours}
         liveCeCard={liveCeCard}
-        providerApproved={stateData.providerApprovalNumber !== "PENDING"}
+        providerApproved={isCeAvailable(stateData)}
       />
 
       <TestimonialCards variant="ce" stateName={stateData.name} seed={stateData.slug} />
@@ -541,9 +597,9 @@ export default async function CECoursePage({
               {stateData.name} {loaDef.shortName} CE — Opening Soon
             </h2>
             <p className="text-blue-100 text-lg mb-4 leading-relaxed">
-              Our {stateData.name} CE provider approval is pending with the{" "}
-              {stateData.doiName}. Enrollment for this course will open as soon as
-              approval is issued.
+              {ceComingSoon
+                ? `We're an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}). Our ${loaDef.name} CE courses are coming soon — enrollment will open as soon as they're live.`
+                : `Our ${stateData.name} CE provider approval is pending with the ${stateData.doiName}. Enrollment for this course will open as soon as approval is issued.`}
             </p>
             <p className="text-blue-200 text-sm leading-relaxed">
               The {ce.totalHours}-hour {stateData.name} {loaDef.name} CE requirement

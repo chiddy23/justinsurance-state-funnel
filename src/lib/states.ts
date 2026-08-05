@@ -184,6 +184,32 @@ export interface StateData {
   providerApprovalNumber: string;
   /** Rare: a distinct CE approval number when it differs from the prelicensing number (e.g. Wisconsin). CE surfaces fall back to providerNumber when unset. */
   ceProviderNumber?: string;
+  /**
+   * Set to `false` when we HOLD state provider approval but our CE courses are not
+   * yet live/purchasable in this state — the "Approved — courses coming soon" state,
+   * distinct from both "PENDING" (no approval) and live. Undefined/absent = live.
+   * Decouples the CE PURCHASE gate + "state-approved CE" claims from
+   * providerApprovalNumber (e.g. WA #300632, NY #80025: approved provider, no
+   * packages yet). Consume via isCeAvailable()/isCeApprovedComingSoon().
+   */
+  ceCoursesLive?: boolean;
+  /**
+   * Same as ceCoursesLive, for PRELICENSING courses: keeps a prelicensing-required
+   * state "held / coming soon" even after provider approval issues, until the
+   * prelicensing course itself is live (e.g. NY provider approved, life course
+   * approved but not yet open for enrollment). Undefined/absent = live.
+   */
+  prelicensingCoursesLive?: boolean;
+  /**
+   * Set to `false` when we do NOT hold a CE provider approval in this state yet,
+   * even though providerApprovalNumber is a real number for another credential.
+   * New York is the case: #80025 is a PRELICENSING approval and NY CE has not been
+   * submitted for approval, so CE claims must stay in the "approval pending" state
+   * (not "approved — coming soon"). Undefined/absent = defaults to
+   * (providerApprovalNumber !== "PENDING"). Consumed via isCeAvailable()/
+   * isCeApprovedComingSoon()/stateClaims().canClaimCeApproval.
+   */
+  ceApproved?: boolean;
   lastVerified: string;
   realPassRate: number | null;
   marketGrowthRate: number | null;
@@ -5829,13 +5855,14 @@ export const STATES: Record<string, StateData> = {
       // point at the held prelicensing route). This notice renders high on
       // /new-york, above those blocks, so the availability status is stated
       // before any price is. It is a mitigation, NOT the fix: the shared
-      // templates still need to gate on isPrelicensingHeld(). Delete this notice
-      // the moment DFS approval issues and providerApprovalNumber is set to a
-      // real number.
+      // templates still need to gate on isPrelicensingHeld(). Relax this notice
+      // ONLY once New York courses actually go LIVE (ceCoursesLive /
+      // prelicensingCoursesLive set to true) — NOT merely when approval issues,
+      // which has now happened (provider #80025) while courses remain coming-soon.
       {
         kind: "alert",
-        title: "JustInsurance New York enrollment is not open yet — DFS approval pending",
-        body: "Our New York provider approval with the Department of Financial Services is still pending, so JustInsurance prelicensing courses are not open for enrollment in New York. Course prices and all-in cost estimates shown on our New York pages are for planning reference only — they are not a purchase you can complete today. Our New York continuing education is not DFS-approved either, so CE completions cannot be reported to DFS and do not yet satisfy a New York renewal. The New York licensing information on this site — hour requirements, exam structure, fees, deadlines, and DFS contacts — stays current and maintained either way. Tell us you are interested and we will let you know the moment New York enrollment opens.",
+        title: "JustInsurance is now an approved New York provider (#80025) — courses coming soon",
+        body: "JustInsurance is an approved New York insurance-education provider (New York provider #80025). Our New York courses are not open for enrollment just yet: the New York life prelicensing course is approved and opening soon, the remaining prelicensing lines are in progress, and our New York continuing education is not yet submitted for approval — so CE completions cannot be reported to New York DFS yet. Course prices and all-in cost estimates shown on our New York pages are for planning reference only until enrollment opens — they are not a purchase you can complete today. The New York licensing information on this site — hour requirements, exam structure, fees, deadlines, and DFS contacts — stays current and maintained either way. Tell us you are interested and we will let you know the moment New York enrollment opens.",
         link: { href: "/contact", text: "Get notified when New York opens" },
       },
       {
@@ -5911,7 +5938,20 @@ export const STATES: Record<string, StateData> = {
     certificateValidity: "Does not expire",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
-    providerApprovalNumber: "PENDING",
+    // Approved NY provider #80025 — but no live courses yet ("Approved — courses
+    // coming soon"). The NY life prelicensing course is approved and opening soon;
+    // health/combined prelicensing lines are in progress; NY CE is NOT yet submitted
+    // for approval. #80025 is a PRELICENSING approval, so ceApproved:false keeps CE
+    // claims in the truthful "approval pending" state (NOT "Approved CE provider
+    // #80025 — coming soon", which would misrepresent an unsubmitted CE approval),
+    // while prelicensingCoursesLive:false + isPrelicensingHeld hold/noindex the
+    // prelicensing pages and let us say "Approved New York provider #80025 — courses
+    // coming soon" there. Flip the flags per-credential as each course goes live:
+    // set ceApproved:true + ceCoursesLive:true once NY CE is approved AND live.
+    providerApprovalNumber: "80025",
+    ceApproved: false,
+    ceCoursesLive: false,
+    prelicensingCoursesLive: false,
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
@@ -8706,7 +8746,14 @@ export const STATES: Record<string, StateData> = {
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
-    providerApprovalNumber: "PENDING",
+    // Approved WA CE provider #300632 (registered with the Washington OIC online
+    // services) — but no live CE packages yet, so this is the "Approved — courses
+    // coming soon" state. ceCoursesLive:false keeps every CE purchase surface AND
+    // the live "state-approved CE" claim OFF until a package is live; the real
+    // number lets isCeApprovedComingSoon() render "Approved Washington CE provider
+    // #300632 — courses coming soon". Set ceCoursesLive:true when packages go live.
+    providerApprovalNumber: "300632",
+    ceCoursesLive: false,
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,

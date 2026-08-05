@@ -60,7 +60,7 @@ Scenario questions dominate. Most questions aren't simple definitions — they'r
 
 The Florida-specific section is unforgiving. Candidates who study generic material tend to underperform on state-law questions, which can drag their overall score below the passing threshold.
 
-Time pressure adds stress. With [2 hours and 45 minutes for the 2-15 exam](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)'s 165 questions, time usually isn't the biggest issue — but test anxiety can cause rushed answers and silly mistakes.
+Time pressure adds stress. With [2 hours and 45 minutes for the 2-15 exam](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)'s [165 questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121003.pdf), time usually isn't the biggest issue — but test anxiety can cause rushed answers and silly mistakes.
 
 ## What Score Should You Aim for in Practice?
 
@@ -91,6 +91,7 @@ More attempts also means more time and money invested. Passing on the first or s
 - [Pearson VUE — Florida Insurance Licensing (candidate overview)](https://www.pearsonvue.com/us/en/fl/insurance.html)
 - [Pearson VUE — Florida Insurance Licensing Candidate Handbook (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
 - [Fla. Stat. §626.7351 — Customer Representative license qualifications](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.7351.html)
+- [Pearson VUE — Florida Insurance Examination Content Outlines (question counts by license type)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121003.pdf)
 
 ## Score Higher Than 70% in Practice
 

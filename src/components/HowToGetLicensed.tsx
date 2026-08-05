@@ -2,7 +2,7 @@ import React from "react";
 import type { StateData } from "@/lib/states";
 import { SchemaMarkup } from "@/lib/schema";
 import { formatPassingScore } from "@/lib/exam-score";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isPrelicensingHeld } from "@/lib/prelicensing-status";
 
 interface HowToGetLicensedProps {
   stateData: StateData;
@@ -57,15 +57,22 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
     !noFingerprint ||
     backgroundRequirement.toLowerCase().includes("background check");
 
-  // The "$199 per line" JustInsurance offer is a PURCHASE claim, so it may only
-  // appear where our provider approval has actually issued. When approval is
-  // still PENDING (providerApproved === false — New York and Washington today) we
-  // drop the buyable offer: a prelicensing-required held state (New York) says
-  // the course is completing approval and opening soon, while an exam-only
-  // pending state (Washington) simply keeps the generic study guidance with no
-  // JustInsurance price. Every approved state renders byte-identically.
+  // The "$199 per line" JustInsurance offer is a present-tense PURCHASE claim, so
+  // it may only appear where our prelicensing course is actually live. A
+  // prelicensing-required state whose course is not open yet (isPrelicensingHeld —
+  // New York today: approved #80025 but courses held) must NOT publish the buyable
+  // offer even though its provider number is real; it renders a neutral
+  // "opening for enrollment soon" notice instead. Exam-only / live states (e.g.
+  // Washington #300632, Texas, Florida) are never held, so they keep the offer copy
+  // byte-identical. When approval is still PENDING we drop the offer as before: a
+  // prelicensing-required pending state says the course is completing approval, an
+  // exam-only pending state keeps generic study guidance with no price. Every
+  // non-held state renders byte-identically.
+  const held = isPrelicensingHeld(stateData);
   const jiOfferSentence = providerApproved
-    ? " JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line."
+    ? held
+      ? ` JustInsurance's ${name} prelicensing courses are opening for enrollment soon.`
+      : " JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line."
     : prelicensingRequiredHere
     ? ` JustInsurance's ${name} prelicensing is completing state approval and will open for enrollment soon.`
     : "";

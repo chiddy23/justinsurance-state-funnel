@@ -4,6 +4,7 @@ import type { StateData } from "@/lib/states";
 import catalogLinks from "@/lib/catalog-links.json";
 import { getCtaAttrs } from "@/lib/gtm-attrs";
 import AddToCartLink from "@/components/AddToCartLink";
+import { isCeAvailable, isCeApprovedComingSoon } from "@/lib/prelicensing-status";
 import {
   PC_STATE_SLUGS,
   getPCPackagesForState,
@@ -83,15 +84,20 @@ interface LOACardData {
 }
 
 export default function LOASelector({ stateSlug, courseType, stateData }: LOASelectorProps) {
-  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
-  // and WA) cannot claim "state-approved" hours or DOI reporting in the CE cards.
-  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
-  // Owner decision: CE cannot be PURCHASED in pending-approval states. Gate ONLY
-  // the CE enroll buttons — the `courseType` guard leaves every prelicensing card
-  // untouched, and `providerApproved` leaves the 48 approved states' CE cards
-  // byte-identical. When true, the enroll button is replaced with a neutral,
-  // non-purchase "opening soon" notice; the "Details" learn-more link stays.
-  const ceHold = courseType === "continuing-education" && !providerApproved;
+  // A CE card may render a LIVE "state-approved" / "same-day reporting" claim OR a
+  // purchasable enroll button ONLY when CE is actually available: provider approved
+  // (providerApprovalNumber !== "PENDING") AND ceCoursesLive !== false. Approval
+  // alone is NOT enough — WA (#300632) and NY (#80025) are approved providers with
+  // no live courses, so recording their numbers must not turn CE claims/purchase on.
+  const providerApproved = isCeAvailable(stateData);
+  // Owner decision: CE cannot be PURCHASED unless it is available. Gate ONLY the CE
+  // enroll buttons — the `courseType` guard leaves every prelicensing card
+  // untouched, and isCeAvailable leaves the 48 approved-and-live states' CE cards
+  // byte-identical. When held, the enroll button is replaced with a neutral,
+  // non-purchase notice — "Approved — courses coming soon" for an approved-but-not-
+  // live state (isCeApprovedComingSoon), or the "approval pending" fallback
+  // otherwise; the "Details" learn-more link stays either way.
+  const ceHold = courseType === "continuing-education" && !isCeAvailable(stateData);
   const catalogKey = courseType === "continuing-education" ? "continuing-education" : "prelicensing";
   const stateCatalog = (catalogLinks as CatalogLinks)[stateSlug as keyof CatalogLinks];
 
@@ -214,7 +220,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life",
             name: "Life Insurance CE",
-            description: `Complete your life insurance continuing education requirements online. ${providerApproved ? "State-approved hours" : "Hours"} that keep your life license active and compliant.`,
+            description: providerApproved
+              ? `Complete your life insurance continuing education requirements online. State-approved hours that keep your life license active and compliant.`
+              : `Life insurance continuing education to keep your life license active and compliant — coming soon.`,
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
@@ -224,7 +232,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "health",
             name: "Health Insurance CE",
-            description: `Complete your health insurance CE requirements online. Covers all required topics including ethics.${providerApproved ? " Same-day reporting to your state DOI in most cases." : ""}`,
+            description: providerApproved
+              ? `Complete your health insurance CE requirements online. Covers all required topics including ethics. Same-day reporting to your state DOI in most cases.`
+              : `Health insurance continuing education covering all required topics including ethics — coming soon.`,
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
@@ -234,7 +244,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life-and-health",
             name: "Life & Health CE",
-            description: "Fulfill the CE requirements for both your life and health licenses in one package. The most efficient way to renew both at once.",
+            description: providerApproved
+              ? "Fulfill the CE requirements for both your life and health licenses in one package. The most efficient way to renew both at once."
+              : "Continuing education for both your life and health licenses in one package — coming soon.",
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
@@ -336,10 +348,17 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 {card.hoursSubtext && (
                   <p className="text-gray-500 text-xs leading-snug">{card.hoursSubtext}</p>
                 )}
-                <div className="flex justify-between items-center">
-                  <span className="text-gray-500 text-sm">Course Price</span>
-                  <span className="text-navy font-bold">{displayPrice}</span>
-                </div>
+                {/* Hide the Course Price row for a coming-soon CE course:
+                    ceHold is CE-only (courseType === "continuing-education" &&
+                    !isCeAvailable), so !ceHold keeps the row byte-identical for
+                    every prelicensing card and for available/live CE, and only
+                    suppresses the purchasable $ price on a not-live CE card. */}
+                {!ceHold && (
+                  <div className="flex justify-between items-center">
+                    <span className="text-gray-500 text-sm">Course Price</span>
+                    <span className="text-navy font-bold">{displayPrice}</span>
+                  </div>
+                )}
                 {courseType === "continuing-education" && (
                   <div className="flex justify-between items-center">
                     <span className="text-gray-500 text-sm">Renewal Cycle</span>
@@ -356,10 +375,15 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 {card.name} Details
               </Link>
               {ceHold ? (
-                // Pending-approval CE state: no purchasable enroll button. The
-                // requirement copy + "Details" learn-more link above remain.
+                // CE not available: no purchasable enroll button. The requirement
+                // copy + "Details" learn-more link above remain. Two sub-cases: an
+                // approved provider whose courses aren't live yet gets a truthful
+                // "Approved — courses coming soon" line WITH the provider number; a
+                // genuinely-pending state keeps the "approval pending" fallback.
                 <div className="block text-center bg-gray-100 text-gray-500 font-semibold py-3 px-4 rounded-lg text-sm leading-snug">
-                  Opening soon — our {stateData.name} CE provider approval is pending.
+                  {isCeApprovedComingSoon(stateData)
+                    ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                    : `Opening soon — our ${stateData.name} CE provider approval is pending.`}
                 </div>
               ) : card.enrollHref.startsWith("/") ? (
                 // Internal link (multi-package landing) — no new tab, "Choose"

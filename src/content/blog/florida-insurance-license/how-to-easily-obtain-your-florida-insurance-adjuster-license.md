@@ -50,7 +50,7 @@ A note on what we do and do not offer: JustInsurance's Florida catalog covers ag
 
 ## Take the state exam
 
-If you do not hold one of the exemptions above, the state examination is your route. Florida's All-Lines Adjuster exam (Pearson VUE code InsFL-ALJ16, covering the 6-20, 7-20, and 70-20 licenses) is 110 questions — 100 scored plus 10 unscored pretest items — with a two-hour time limit. [The passing score is 70%](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf), and in Florida that is a true percentage: the handbook computes it by dividing the number of questions answered correctly by the total number of examination questions.
+If you do not hold one of the exemptions above, the state examination is your route. Florida's All-Lines Adjuster exam (Pearson VUE code InsFL-ALJ16, covering the 6-20, 7-20, and 70-20 licenses) is [110 questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121003.pdf) — 100 scored plus 10 unscored pretest items — with a two-hour time limit. [The passing score is 70%](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf), and in Florida that is a true percentage: the handbook computes it by dividing the number of questions answered correctly by the total number of examination questions.
 
 You schedule online through Pearson VUE and test at a center in Florida. The examination fee is $44 per attempt, payable at the time of reservation and forfeited if you miss your appointment. Bring proper identification. There is a limit of five examination attempts for the same examination type in any twelve-month period, and a passing score stays valid for one year — if you have not finished the licensing process within that year, you have to retake and pass the exam again.
 
@@ -97,3 +97,4 @@ Whether you want to learn at your own pace or jump in full force, the choice is 
 - [Section 626.2815, Florida Statutes — insurance agent and adjuster continuing education](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0626/Sections/0626.2815.html)
 - [Pearson VUE — Florida Insurance Licensing Candidate Handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121000.pdf)
 - [Florida DFS — Agent and Adjuster License Fees](https://www.myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fees)
+- [Pearson VUE — Florida Insurance Examination Content Outlines (question counts by license type)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121003.pdf)

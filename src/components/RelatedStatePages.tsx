@@ -1,6 +1,10 @@
 import Link from "next/link";
 import { getStateBySlug } from "@/lib/states";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import {
+  credentialKindFromHours,
+  isCeAvailable,
+  isPrelicensingHeld,
+} from "@/lib/prelicensing-status";
 
 type CurrentPage =
   | "state-hub"
@@ -49,6 +53,13 @@ function buildLinks(
       _st.prelicensing.health.hours,
       _st.prelicensing.lifeAndHealth.hours,
     ]) === "prelicensing";
+  // Availability gates for related-card copy. WA CE is approved-but-not-live and
+  // NY CE is approval-pending → isCeAvailable is false for both, so CE cards must
+  // not imply a live catalog/renewal. NY prelicensing is held (approved, not open)
+  // → isPrelicensingHeld true. An unresolvable state falls back to the live copy
+  // (ceAvailable=true / prelicensingHeld=false), keeping output byte-identical.
+  const ceAvailable = !_st || isCeAvailable(_st);
+  const prelicensingHeld = !!_st && isPrelicensingHeld(_st);
   const all: LinkItem[] = [
     {
       href: `/${stateSlug}`,
@@ -71,7 +82,9 @@ function buildLinks(
     {
       href: `/${stateSlug}/prelicensing`,
       title: `${stateName} Prelicensing Courses`,
-      description: `All ${prelicensingApproved ? "state-approved " : ""}prelicensing course options for ${stateName}.`,
+      description: prelicensingHeld
+        ? `${stateName} prelicensing — opening for enrollment soon.`
+        : `All ${prelicensingApproved ? "state-approved " : ""}prelicensing course options for ${stateName}.`,
       badge: "Prelicensing",
     },
     {
@@ -95,25 +108,33 @@ function buildLinks(
     {
       href: `/${stateSlug}/continuing-education`,
       title: `${stateName} Continuing Education`,
-      description: `CE course catalog for ${stateName} license renewal.`,
+      description: ceAvailable
+        ? `CE course catalog for ${stateName} license renewal.`
+        : `${stateName} CE — coming soon.`,
       badge: "CE",
     },
     {
       href: `/${stateSlug}/continuing-education/life`,
       title: `${stateName} Life CE Renewal`,
-      description: `CE hours for ${stateName} Life license renewal.`,
+      description: ceAvailable
+        ? `CE hours for ${stateName} Life license renewal.`
+        : `${stateName} Life CE — coming soon.`,
       badge: "CE Life",
     },
     {
       href: `/${stateSlug}/continuing-education/health`,
       title: `${stateName} Health CE Renewal`,
-      description: `CE hours for ${stateName} Health license renewal.`,
+      description: ceAvailable
+        ? `CE hours for ${stateName} Health license renewal.`
+        : `${stateName} Health CE — coming soon.`,
       badge: "CE Health",
     },
     {
       href: `/${stateSlug}/continuing-education/life-and-health`,
       title: `${stateName} Life & Health CE Renewal`,
-      description: `Combined Life & Health CE for ${stateName} license renewal.`,
+      description: ceAvailable
+        ? `Combined Life & Health CE for ${stateName} license renewal.`
+        : `${stateName} Life & Health CE — coming soon.`,
       badge: "CE L&H",
     },
   ];

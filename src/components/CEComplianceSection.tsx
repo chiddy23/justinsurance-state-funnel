@@ -157,7 +157,7 @@ export default function CEComplianceSection({
               </>
             ) : (
               <>
-                Get your {stateName} CE hours done early so you&apos;re ready well before your renewal deadline.
+                Our {stateName} CE courses are coming soon &mdash; check back to complete your hours well before your renewal deadline.
               </>
             )}
           </p>

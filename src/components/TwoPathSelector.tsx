@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { getStateBySlug } from "@/lib/states";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isCeAvailable, isCeApprovedComingSoon, isPrelicensingHeld } from "@/lib/prelicensing-status";
 
 interface TwoPathSelectorProps {
   stateSlug: string;
@@ -14,20 +14,33 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
   // pages. Swap the bullet 1-for-1 to keep the three-item list intact.
   const showGuarantee = hasPassGuarantee(stateSlug);
   const state = getStateBySlug(stateSlug);
-  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
-  // and WA) must NOT claim active state approval or DOI reporting — the approval
-  // that would make those true has not issued. Gate the approval adjective and
-  // the "we report to the state" copy; both auto-restore when approval lands.
-  const providerApproved = state?.providerApprovalNumber !== "PENDING";
-  // "state-approved prelicensing" requires a prelicensing approval regime.
+  // A CE purchase/price CTA or a live "same-day DOI reporting" claim may render
+  // ONLY when CE is actually available: approved AND ceCoursesLive !== false.
+  // Recording a real provider number for an approved-but-not-live state (WA
+  // #300632 CE coming soon; NY #80025 is a PRELICENSING approval, CE not yet
+  // submitted) must NOT turn CE purchase/claims on. ceComingSoon is the
+  // approved-CE-but-not-live case (WA) → "Approved — courses coming soon" with the
+  // number; NY CE falls to the neutral "approval pending" copy (ceApproved:false).
+  const ceAvailable = !!state && isCeAvailable(state);
+  const ceComingSoon = !!state && isCeApprovedComingSoon(state);
+  // "state-approved prelicensing" requires a prelicensing approval regime AND a
+  // live prelicensing course — an approved-but-not-live prelicensing state (NY) is
+  // held, so it must not claim "state-approved prelicensing course" yet.
   const prelicensingApproved =
-    providerApproved &&
     !!state &&
+    state.providerApprovalNumber !== "PENDING" &&
+    !isPrelicensingHeld(state) &&
     credentialKindFromHours([
       state.prelicensing.life.hours,
       state.prelicensing.health.hours,
       state.prelicensing.lifeAndHealth.hours,
     ]) === "prelicensing";
+  // NY prelicensing is approved (#80025) but held/not-live → the prelicensing
+  // card must drop its enroll affordance (no "Get My License", no "instant
+  // course access") and show a neutral "opening soon" block, mirroring the CE
+  // card. Exam-only live states (WA/TX) and live prelicensing states (FL) are
+  // NOT held, so their card renders byte-identically to today.
+  const prelicensingHeld = !!state && isPrelicensingHeld(state);
   // CE package price varies by state ($39 / $54 / $75) — never hard-code $39.
   const ceStartPrice = state?.ce.packagePrice ?? "$39";
   return (
@@ -64,7 +77,11 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
                 <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
-                {showGuarantee ? "Pass guarantee included" : "Instant course access — start in minutes"}
+                {prelicensingHeld
+                  ? "Opening for enrollment soon"
+                  : showGuarantee
+                  ? "Pass guarantee included"
+                  : "Instant course access — start in minutes"}
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600">
                 <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -73,12 +90,26 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
                 Starting at $199
               </li>
             </ul>
-            <Link
-              href={`/${stateSlug}/prelicensing`}
-              className="block text-center bg-navy hover:bg-navy-light text-white font-bold py-3 px-6 rounded-lg transition-colors"
-            >
-              Get My License &rarr;
-            </Link>
+            {prelicensingHeld ? (
+              <>
+                <p className="text-sm text-gray-600 mb-3 leading-relaxed">
+                  Approved {stateName} provider (#{state?.providerApprovalNumber}) — prelicensing courses opening soon.
+                </p>
+                <Link
+                  href={`/${stateSlug}/prelicensing`}
+                  className="block text-center border-2 border-navy text-navy hover:bg-navy/10 font-bold py-3 px-6 rounded-lg transition-colors"
+                >
+                  View {stateName} Prelicensing Info &rarr;
+                </Link>
+              </>
+            ) : (
+              <Link
+                href={`/${stateSlug}/prelicensing`}
+                className="block text-center bg-navy hover:bg-navy-light text-white font-bold py-3 px-6 rounded-lg transition-colors"
+              >
+                Get My License &rarr;
+              </Link>
+            )}
           </div>
 
           {/* CE Card */}
@@ -90,14 +121,14 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
             </div>
             <h3 className="text-xl font-bold text-navy mb-3">Continuing Education (CE)</h3>
             <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-              Already licensed? Complete your {stateName} CE hours online before your renewal deadline.{providerApproved ? " We typically report your completion to the state same-day." : ""}
+              Already licensed? Complete your {stateName} CE hours online before your renewal deadline.{ceAvailable ? " We typically report your completion to the state same-day." : ""}
             </p>
             <ul className="space-y-2 mb-6">
               <li className="flex items-center gap-2 text-sm text-gray-600">
                 <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
-                {providerApproved ? "Same-day DOI reporting" : "Self-paced on any device"}
+                {ceAvailable ? "Same-day DOI reporting" : "Self-paced on any device"}
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600">
                 <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -109,15 +140,35 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
                 <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
-                Starting at {ceStartPrice}
+                {ceAvailable
+                  ? `Starting at ${ceStartPrice}`
+                  : ceComingSoon
+                  ? "Approved — courses coming soon"
+                  : "State approval pending"}
               </li>
             </ul>
-            <Link
-              href={`/${stateSlug}/continuing-education`}
-              className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
-            >
-              Renew My License &rarr;
-            </Link>
+            {ceAvailable ? (
+              <Link
+                href={`/${stateSlug}/continuing-education`}
+                className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
+              >
+                Renew My License &rarr;
+              </Link>
+            ) : (
+              <>
+                <p className="text-sm text-gray-600 mb-3 leading-relaxed">
+                  {ceComingSoon
+                    ? `Approved ${stateName} CE provider (#${state?.providerApprovalNumber}) — courses coming soon.`
+                    : `${stateName} CE course approval is pending.`}
+                </p>
+                <Link
+                  href={`/${stateSlug}/continuing-education`}
+                  className="block text-center border-2 border-gold text-navy hover:bg-gold/10 font-bold py-3 px-6 rounded-lg transition-colors"
+                >
+                  View {stateName} CE Info &rarr;
+                </Link>
+              </>
+            )}
           </div>
         </div>
       </div>

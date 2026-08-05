@@ -21,8 +21,11 @@ import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 // ---------------------------------------------------------------------------
 const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
 const SERVED_STATE_COUNT = SERVED_STATES.length;
+// "Not live" = approval still pending OR approved-but-courses-coming-soon
+// (ceCoursesLive === false, e.g. Washington #300632). Neither counts toward the
+// live/available CE count; both surface as "approved, courses coming soon".
 const CE_APPROVAL_PENDING = SERVED_STATES.filter(
-  (s) => s.providerApprovalNumber === "PENDING"
+  (s) => s.providerApprovalNumber === "PENDING" || s.ceCoursesLive === false
 );
 const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
 
@@ -56,7 +59,7 @@ const formatStateNames = (states: { name: string }[]): string => {
 const CE_APPROVAL_PHRASE =
   CE_APPROVAL_PENDING.length === 0
     ? `state-approved CE in all ${SERVED_STATE_COUNT} states we serve`
-    : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (our ${formatStateNames(CE_APPROVAL_PENDING)} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending)`;
+    : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (${formatStateNames(CE_APPROVAL_PENDING)} approved, courses coming soon)`;
 
 /** Same claim, sentence-initial. */
 const CE_APPROVAL_CLAIM =
@@ -134,7 +137,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            {CE_APPROVAL_CLAIM}, plus prelicensing in the states where we are approved. Online and self-paced in most states: {LIVE_COMPONENT_CAVEAT}. Backed by our pass guarantee in eligible states. Join 20,000+ students who&apos;ve trusted JustInsurance.
+            {CE_APPROVAL_CLAIM}, plus prelicensing in the states where we are approved &mdash; self-paced in most states, with a pass guarantee where eligible. Join 20,000+ students who&apos;ve trusted JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -257,7 +260,7 @@ export default function HomePage() {
             Choose Your State
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We offer state-approved continuing education in {CE_APPROVED_COUNT} of the {SERVED_STATE_COUNT} states we serve (all except New York{CE_APPROVAL_PENDING.length > 0 ? `; our ${formatStateNames(CE_APPROVAL_PENDING)} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending` : ""}), plus prelicensing in the states where we are approved. Click your state to get started.
+            We offer state-approved continuing education in {CE_APPROVED_COUNT} of the {SERVED_STATE_COUNT} states we serve (all except New York{CE_APPROVAL_PENDING.length > 0 ? `; ${formatStateNames(CE_APPROVAL_PENDING)} approved, courses coming soon` : ""}), plus prelicensing in the states where we are approved. Click your state to get started.
           </p>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
@@ -302,7 +305,7 @@ export default function HomePage() {
                   </svg>
                 ),
                 title: `State-Approved CE in ${CE_APPROVED_COUNT} States`,
-                desc: `Our CE is approved by the Department of Insurance in the ${CE_APPROVED_COUNT} states where our approval has issued, and our prelicensing courses are state-approved in the ${PRELICENSING_APPROVED_COUNT} states we serve that mandate prelicensing education. In the other ${EXAM_PREP_ONLY_COUNT}, the state requires no prelicensing course and ours is optional exam preparation.`,
+                desc: `Our CE is approved by the Department of Insurance in the ${CE_APPROVED_COUNT} states where our courses are live, and our prelicensing courses are state-approved in the ${PRELICENSING_APPROVED_COUNT} states we serve that mandate prelicensing education. In the other ${EXAM_PREP_ONLY_COUNT}, the state requires no prelicensing course and ours is optional exam preparation.`,
               },
               {
                 icon: (

@@ -62,6 +62,7 @@ export default async function PrelicensingHubPage({
       <PrelicensingHeldNotice
         stateName={stateData.name}
         stateSlug={stateData.slug}
+        providerApprovalNumber={stateData.providerApprovalNumber}
       />
     );
   }

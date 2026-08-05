@@ -194,6 +194,7 @@ export default async function PrelicensingCoursePage({
         stateName={stateData.name}
         stateSlug={stateData.slug}
         loaName={loaDef.name}
+        providerApprovalNumber={stateData.providerApprovalNumber}
       />
     );
   }

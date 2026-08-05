@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { stateDisclosure } from "@/lib/state-disclosures";
 import { getStateBySlug } from "@/lib/states";
-import { credentialKindFromHours, isPrelicensingHeld } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isPrelicensingHeld, isCeAvailable, isCeApprovedComingSoon, isPrelicensingApprovedComingSoon } from "@/lib/prelicensing-status";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, withIlWebinarFaq, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
@@ -206,6 +206,14 @@ export default async function RequirementsPage({
   // held) and reverts automatically the moment providerApprovalNumber becomes a
   // real number. Used to reframe the closing CTA below only.
   const prelicensingHeld = isPrelicensingHeld(stateData);
+  // Approved-but-not-live gating (WA #300632 CE coming soon; NY #80025 prelicensing
+  // approved-coming-soon, CE not submitted → ceApproved:false → pending). The DOI
+  // credential badge above keeps using prelicensingApproved (NY provider IS
+  // approved); only the "we OFFER courses" claims below are gated on live-ness.
+  const prelicensingApprovedComingSoon = isPrelicensingApprovedComingSoon(stateData);
+  const ceAvailable = isCeAvailable(stateData);
+  const ceComingSoon = isCeApprovedComingSoon(stateData);
+  const prelicensingCoursesLiveApproved = prelicensingApproved && !prelicensingHeld;
   // Florida resident agent licenses are PERPETUAL (no license renewal/expiration).
   // What you maintain is CE (every 2 years, by end of birth month) plus at least
   // one active company appointment; the license only terminates after 48 months
@@ -266,7 +274,7 @@ export default async function RequirementsPage({
     },
     {
       question: `What are the ${stateData.name} CE requirements?`,
-      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.firstTermHours ? `${stateData.ce.firstTermHours} hours of continuing education before your first renewal, then ${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}` : `${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}`}, including ${stateData.ce.ethicsHours} hours of ethics training.${stateData.ce.mandatedTopicHours ? ` ${stateData.ce.mandatedTopicHours}` : ``} Renewal deadline: ${stateData.renewalDeadline}.${ilWebinar ? "" : ` JustInsurance offers ${isProviderApproved ? "state-approved " : ""}CE packages starting at ${stateData.ce.packagePrice}.`}`,
+      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.firstTermHours ? `${stateData.ce.firstTermHours} hours of continuing education before your first renewal, then ${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}` : `${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}`}, including ${stateData.ce.ethicsHours} hours of ethics training.${stateData.ce.mandatedTopicHours ? ` ${stateData.ce.mandatedTopicHours}` : ``} Renewal deadline: ${stateData.renewalDeadline}.${ilWebinar ? "" : ceAvailable ? ` JustInsurance offers state-approved CE packages starting at ${stateData.ce.packagePrice}.` : ceComingSoon ? ` JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon.` : ` JustInsurance's ${stateData.name} CE provider approval is pending; our ${stateData.name} CE courses are not yet available.`}`,
     },
     // State-specific FAQ from data
     stateData.stateSpecificFAQ,
@@ -302,7 +310,15 @@ export default async function RequirementsPage({
                 stateData.slug === "mississippi"
                   ? " Under House Bill 819 (Miss. Code § 83-17-251(2)(h)), applicants seeking the Life line of authority ONLY are exempt from that requirement."
                   : "";
-              return `${stateData.name} requires ${joined}.${mississippiNote} Courses are available fully online through JustInsurance.`;
+              // Held prelicensing state (NY today): drop the present-tense
+              // "Courses are available fully online" availability claim for a
+              // coming-soon line. Live/exam-only states are byte-identical
+              // (prelicensingHeld === false).
+              return `${stateData.name} requires ${joined}.${mississippiNote} ${
+                prelicensingHeld
+                  ? `Our ${stateData.name} prelicensing courses are opening for enrollment soon.`
+                  : "Courses are available fully online through JustInsurance."
+              }`;
             })()
           : `${stateData.name} does not require prelicensing education to sit for the state exam. JustInsurance still offers optional, fully online exam-prep courses.`,
     },
@@ -357,11 +373,24 @@ export default async function RequirementsPage({
             ? [{ text: "Start My Course", href: `/${stateData.slug}/prelicensing` }]
             : [
                 {
-                  text: "Start My Course",
+                  // Held prelicensing state (NY today): NO "start/enroll" purchase
+                  // path. Relabel to a neutral learn-more that keeps the
+                  // /prelicensing href (that page renders the held "opening soon"
+                  // notice). WA exam-prep is NOT held, so WA keeps "Start My Course".
+                  // Live states are byte-identical (prelicensingHeld === false).
+                  text: prelicensingHeld
+                    ? `Learn About ${stateData.name} Prelicensing`
+                    : "Start My Course",
                   href: `/${stateData.slug}/prelicensing`,
                 },
                 {
-                  text: "Renew My License",
+                  // Gate the CE purchase-path CTA on live CE. When CE is not
+                  // available (WA #300632 coming soon; NY CE approval pending) show
+                  // a neutral info label instead of "Renew My License". Live states
+                  // are byte-identical (ceAvailable === true).
+                  text: ceAvailable
+                    ? "Renew My License"
+                    : `View ${stateData.name} CE Info`,
                   href: `/${stateData.slug}/continuing-education`,
                   variant: "secondary",
                 },
@@ -653,9 +682,14 @@ export default async function RequirementsPage({
                         : stateData.prelicensing.life.hours === stateData.prelicensing.health.hours
                         ? `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education per line of authority (${stateData.prelicensing.lifeAndHealth.hours} hours for the combined Life & Health license) before sitting for the exam.`
                         : `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education for the Life line, ${stateData.prelicensing.health.hours} hours for the Health line, and ${stateData.prelicensing.lifeAndHealth.hours} hours for the combined Life & Health license, before sitting for the exam.`}{" "}
-                      JustInsurance&apos;s online courses let you study at your own
-                      pace on any device. You&apos;ll receive an official
-                      certificate of completion once you finish.
+                      {/* Held prelicensing state (NY today): replace the
+                          present-tense "study at your own pace ... certificate
+                          once you finish" live-course claim with a coming-soon
+                          line. Live/exam-only states are byte-identical
+                          (prelicensingHeld === false). */}
+                      {prelicensingHeld
+                        ? `JustInsurance's ${stateData.name} prelicensing courses are opening for enrollment soon.`
+                        : "JustInsurance's online courses let you study at your own pace on any device. You'll receive an official certificate of completion once you finish."}
                     </p>
                   ) : typeof stateData.prelicensing.life.hours === "number" ||
                     typeof stateData.prelicensing.health.hours === "number" ? (
@@ -667,9 +701,14 @@ export default async function RequirementsPage({
                       {stateData.prelicensing.life.hours === stateData.prelicensing.health.hours
                         ? `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education per line of authority (${stateData.prelicensing.life.hours} hours Life, ${stateData.prelicensing.health.hours} hours Health) before you can sit for the state exam.`
                         : `${stateData.name} requires ${stateData.prelicensing.life.hours} hours of${isProviderApproved ? " state-approved" : ""} prelicensing education for the Life line and ${stateData.prelicensing.health.hours} hours for the Health line before you can sit for the state exam.`}{" "}
-                      JustInsurance&apos;s online courses let you study at your own
-                      pace on any device. You&apos;ll receive an official
-                      certificate of completion once you finish.
+                      {/* Held prelicensing state (NY today): replace the
+                          present-tense "study at your own pace ... certificate
+                          once you finish" live-course claim with a coming-soon
+                          line. Live/exam-only states are byte-identical
+                          (prelicensingHeld === false). */}
+                      {prelicensingHeld
+                        ? `JustInsurance's ${stateData.name} prelicensing courses are opening for enrollment soon.`
+                        : "JustInsurance's online courses let you study at your own pace on any device. You'll receive an official certificate of completion once you finish."}
                     </p>
                   ) : stateData.slug === "north-carolina" ? (
                     // HB 737 / S.L. 2025-45 (eff. 10/1/2025) repealed North
@@ -1050,7 +1089,7 @@ export default async function RequirementsPage({
               },
               // CE package pricing suppressed for states with a live-CE-ethics
               // mandate (Illinois) until a compliant CE product ships.
-              ...(ilWebinar
+              ...(ilWebinar || !ceAvailable
                 ? []
                 : [{ label: "CE Package Price", value: stateData.ce.packagePrice }]),
               {
@@ -1091,7 +1130,7 @@ export default async function RequirementsPage({
                 href={`/${stateData.slug}/continuing-education`}
                 className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold px-8 py-4 rounded-lg shadow transition-all hover:shadow-lg hover:-translate-y-0.5"
               >
-                Browse {stateData.name} CE Courses →
+                {ceAvailable ? `Browse ${stateData.name} CE Courses →` : `View ${stateData.name} CE Info →`}
               </Link>
             </div>
           )}
@@ -1202,7 +1241,7 @@ export default async function RequirementsPage({
             <Link href={`/${stateData.slug}/prelicensing`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
               <div className="font-semibold text-navy mb-1">{stateData.name} Prelicensing</div>
               <div className="text-sm text-gray-600">
-                {prelicensingApproved
+                {prelicensingCoursesLiveApproved
                   ? "State-approved prelicensing courses for Life, Health, and Life & Health lines."
                   : "Prelicensing courses for Life, Health, and Life & Health lines."}
               </div>
@@ -1211,7 +1250,7 @@ export default async function RequirementsPage({
               <Link href={`/${stateData.slug}/continuing-education`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
                 <div className="font-semibold text-navy mb-1">{stateData.name} CE Courses</div>
                 <div className="text-sm text-gray-600">
-                  {isProviderApproved
+                  {ceAvailable
                     ? "Renew your license with state-approved continuing education."
                     : "Renew your license with continuing education."}
                 </div>
@@ -1252,7 +1291,9 @@ export default async function RequirementsPage({
           // path. This branch takes precedence and gives held states the neutral
           // opening-soon message. Reverts automatically once approval issues.
           prelicensingHeld
-            ? `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
+            ? prelicensingApprovedComingSoon
+              ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing course is opening for enrollment soon.`
+              : `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
             // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
             // "self-paced" claim for the approved hybrid format line.
             : ilWebinar

@@ -89,6 +89,13 @@ export function pleRequirement(
 /** Minimal shape needed to decide what a page may claim. */
 interface ClaimSource {
   providerApprovalNumber: string;
+  /** false = approved provider but courses not live yet ("coming soon"). Undefined = live. */
+  ceCoursesLive?: boolean;
+  prelicensingCoursesLive?: boolean;
+  /** false = we do NOT hold a CE approval here yet (e.g. NY, CE not submitted),
+   *  even if the provider number is real for another credential. Undefined = defaults
+   *  to (providerApprovalNumber !== "PENDING"). */
+  ceApproved?: boolean;
   prelicensing: {
     life: { hours: number | string };
     health: { hours: number | string };
@@ -126,14 +133,21 @@ export function stateClaims(state: ClaimSource): StateClaims {
     ]) === "prelicensing";
   const approvalPending = state.providerApprovalNumber === "PENDING";
   const approved = !approvalPending;
+  // Approval alone does not authorize a LIVE-product claim: a state can be an
+  // approved provider while its courses are still "coming soon" (ceCoursesLive /
+  // prelicensingCoursesLive === false, e.g. WA #300632 / NY #80025). Claims are
+  // gated on approved AND live, so a coming-soon state never asserts "state-approved
+  // [course]" — only the neutral "Approved — courses coming soon" message shows.
+  const ceLive = state.ceCoursesLive !== false;
+  const prelicensingLive = state.prelicensingCoursesLive !== false;
   return {
     prelicensingRequired,
     approvalPending,
     // Both conditions are required. An exam-only state has no prelicensing
     // approval program at all, so a CE number can never authorize this claim.
-    canClaimPrelicensingApproval: approved && prelicensingRequired,
-    canClaimPrelicensingReporting: approved && prelicensingRequired,
-    canClaimCeApproval: approved,
+    canClaimPrelicensingApproval: approved && prelicensingRequired && prelicensingLive,
+    canClaimPrelicensingReporting: approved && prelicensingRequired && prelicensingLive,
+    canClaimCeApproval: ceApprovalHeld(state) && ceLive,
   };
 }
 
@@ -147,18 +161,84 @@ export function stateClaims(state: ClaimSource): StateClaims {
  */
 export function isPrelicensingHeld(state: {
   providerApprovalNumber: string;
+  prelicensingCoursesLive?: boolean;
   prelicensing: {
     life: { hours: number | string };
     health: { hours: number | string };
     lifeAndHealth: { hours: number | string };
   };
 }): boolean {
+  // "Not live" = approval still pending OR approved-but-course-not-open-yet.
+  // Either way a prelicensing-required state is held ("coming soon"), noindexed,
+  // and sitemap-excluded until the course is actually purchasable.
+  const notLive =
+    state.providerApprovalNumber === "PENDING" ||
+    state.prelicensingCoursesLive === false;
   return (
-    state.providerApprovalNumber === "PENDING" &&
+    notLive &&
     credentialKindFromHours([
       state.prelicensing.life.hours,
       state.prelicensing.health.hours,
       state.prelicensing.lifeAndHealth.hours,
     ]) === "prelicensing"
+  );
+}
+
+/**
+ * CE courses are LIVE and purchasable in this state: we hold provider approval
+ * (providerApprovalNumber is a real number, not "PENDING") AND ceCoursesLive is
+ * not false. This is the ONLY condition under which a CE purchase/enroll surface
+ * or a live "state-approved CE" claim may render. Everywhere that used
+ * `providerApprovalNumber !== "PENDING"` to gate CE PURCHASE should use this.
+ */
+/**
+ * Whether we actually hold a CE provider approval in this state. Defaults to the
+ * general provider approval (providerApprovalNumber !== "PENDING"), but a state
+ * may override it: New York holds a PRELICENSING approval (#80025) while its CE
+ * is NOT YET SUBMITTED for approval, so ceApproved:false keeps every CE claim in
+ * the "approval pending" state even though the provider number is real. WA's
+ * #300632 IS a CE approval, so WA leaves ceApproved at its default (true).
+ */
+function ceApprovalHeld(state: {
+  providerApprovalNumber: string;
+  ceApproved?: boolean;
+}): boolean {
+  return state.ceApproved ?? state.providerApprovalNumber !== "PENDING";
+}
+
+export function isCeAvailable(state: {
+  providerApprovalNumber: string;
+  ceCoursesLive?: boolean;
+  ceApproved?: boolean;
+}): boolean {
+  return ceApprovalHeld(state) && state.ceCoursesLive !== false;
+}
+
+/**
+ * Provider approval HAS issued but CE courses are not live yet — render
+ * "Approved — courses coming soon" (with the provider number), NOT a purchase CTA
+ * and NOT the "approval pending" copy. Mutually exclusive with isCeAvailable and
+ * with the pending state.
+ */
+export function isCeApprovedComingSoon(state: {
+  providerApprovalNumber: string;
+  ceCoursesLive?: boolean;
+  ceApproved?: boolean;
+}): boolean {
+  return ceApprovalHeld(state) && state.ceCoursesLive === false;
+}
+
+/**
+ * Prelicensing analogue of isCeApprovedComingSoon: provider approval issued but the
+ * prelicensing course is not open for enrollment yet → "Approved — courses coming
+ * soon" rather than "approval pending". (isPrelicensingHeld already holds the page.)
+ */
+export function isPrelicensingApprovedComingSoon(state: {
+  providerApprovalNumber: string;
+  prelicensingCoursesLive?: boolean;
+}): boolean {
+  return (
+    state.providerApprovalNumber !== "PENDING" &&
+    state.prelicensingCoursesLive === false
   );
 }

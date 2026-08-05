@@ -21,7 +21,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
 import StateProviderBadge from "@/components/StateProviderBadge";
-import { credentialKindFromHours, isPrelicensingHeld } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isPrelicensingHeld, isCeAvailable, isCeApprovedComingSoon, isPrelicensingApprovedComingSoon } from "@/lib/prelicensing-status";
 import LastUpdated from "@/components/LastUpdated";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
@@ -102,6 +102,26 @@ export async function generateMetadata({
     examProvider: stateData.examInfo?.examProvider,
   });
 
+  // Held prelicensing state (New York today): the default state-hub metadata
+  // markets "$199 prelicensing / instant online access", which overstates a
+  // held/coming-soon course. Override title + description (and OG/Twitter) to a
+  // truthful coming-soon meta. Reverts automatically once the course goes live.
+  if (isPrelicensingHeld(stateData)) {
+    const csTitle = `${stateData.name} Insurance Licensing — Prelicensing & CE Coming Soon | JustInsurance`;
+    const csDesc = `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing courses are opening for enrollment soon. See ${stateData.name} license requirements, exam info, and fees.`;
+    return {
+      ...meta,
+      title: { absolute: csTitle },
+      description: csDesc,
+      openGraph: meta.openGraph
+        ? { ...meta.openGraph, title: csTitle, description: csDesc }
+        : { title: csTitle, description: csDesc },
+      twitter: meta.twitter
+        ? { ...meta.twitter, title: csTitle, description: csDesc }
+        : { title: csTitle, description: csDesc },
+    };
+  }
+
   // Spanish-language pilot — emit hreflang reciprocity ONLY for FL/TX.
   // Self-references "en-US" + "es-US" + "x-default" → English canonical.
   // URLs MUST be no-slash to match site canonical (middleware.ts:60-68
@@ -141,6 +161,17 @@ export default async function StateHubPage({
   // keep the guarantee unchanged.
   const guaranteeOk = hasPassGuarantee(stateData.slug);
   const isProviderApproved = stateData.providerApprovalNumber !== "PENDING";
+  // CE PURCHASE / CE-CLAIM GATE — providerApprovalNumber becoming a REAL number for
+  // an APPROVED-but-not-live state (WA #300632 / NY #80025) must NOT turn on a CE
+  // enroll/price CTA or a live "same-day reporting" / "state-approved CE" claim,
+  // because no CE course actually exists to buy or to report. ceAvailable is the
+  // true purchase gate (approved AND ceCoursesLive !== false); ceComingSoon is the
+  // approved-but-not-live case, which shows "courses coming soon" with the provider
+  // number instead of a buy CTA. Live-and-approved states are unchanged
+  // (ceAvailable === isProviderApproved there). Prelicensing/isPrelicensingHeld
+  // logic below is deliberately left as-is (it already holds NY).
+  const ceAvailable = isCeAvailable(stateData);
+  const ceComingSoon = isCeApprovedComingSoon(stateData);
   // AVAILABILITY GATE — a state that MANDATES prelicensing but whose JustInsurance
   // provider approval is still PENDING (New York today) must NOT present a live
   // purchase path. Mirrors the requirements / cost / prelicensing sibling gating.
@@ -149,6 +180,10 @@ export default async function StateHubPage({
   // providerApprovalNumber becomes a real number. Used to reframe the hero
   // subtitle (also the page meta description) and the closing CTA below.
   const prelicensingHeld = isPrelicensingHeld(stateData);
+  // Approved provider whose prelicensing course is not open for enrollment yet
+  // (New York #80025): drives "approved — opening soon" copy in the held hero /
+  // CTA instead of the generic "completing state approval" wording.
+  const prelicensingApprovedComingSoon = isPrelicensingApprovedComingSoon(stateData);
   // "Starting at" price for the inline overview P&C CE card — the state's lowest
   // P&C package price, never a hard-coded figure. Falls back to the L&H CE price.
   const pcStartPrice = PC_STATE_SLUGS.includes(stateData.slug)
@@ -212,7 +247,14 @@ export default async function StateHubPage({
   // state actually regulating prelicensing. In exam-only states our approval is
   // CE-only, so isProviderApproved alone would assert a credential we do not hold.
   const prelicensingApproved =
-    isProviderApproved && stateCredentialKind === "prelicensing";
+    isProviderApproved && stateCredentialKind === "prelicensing" && !prelicensingHeld;
+  // Do we have ANY live, approved course in this state? WA/NY hold provider
+  // approvals but nothing live, so the "State-Approved Courses" trust card gives
+  // them a truthful "approved provider — courses coming soon" variant instead of
+  // "every course is approved" (false: nothing live) or "approval pending"
+  // (false: they ARE approved).
+  const anyCourseLiveApproved = ceAvailable || prelicensingApproved;
+  const approvedProviderComingSoon = !anyCourseLiveApproved && isProviderApproved;
   const courseSchemaBase = generateStateHubCourseSchema({
     stateName: stateData.name,
     stateSlug: stateData.slug,
@@ -246,7 +288,9 @@ export default async function StateHubPage({
   // hero — and the page meta description, which is set to heroSubtitle — never
   // presents an enrollment/purchase claim while approval is still pending.
   const heroSubtitle = prelicensingHeld
-    ? `${stateData.name} prelicensing courses are completing state approval and will open for enrollment soon.`
+    ? prelicensingApprovedComingSoon
+      ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing courses are opening for enrollment soon.`
+      : `${stateData.name} prelicensing courses are completing state approval and will open for enrollment soon.`
     : stateData.stateSpecificIntro && stateData.stateSpecificIntro.trim() !== ""
       ? stateData.stateSpecificIntro
       : ilWebinar
@@ -288,7 +332,14 @@ export default async function StateHubPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
-      <SchemaMarkup schema={courseSchema} />
+      {/* Prelicensing Course JSON-LD carries a purchasable $199 InStock Offer
+          (generateStateHubCourseSchema). A held prelicensing state (New York:
+          approved #80025 but courses not yet open — isPrelicensingHeld) has no
+          buyable prelicensing course, so emitting an InStock/Paid Offer would be
+          a false machine-readable availability signal. Skip the block entirely
+          for held states; every live/exam-only state (FL, TX, WA exam-prep, …)
+          keeps its Course schema byte-identically. */}
+      {!prelicensingHeld && <SchemaMarkup schema={courseSchema} />}
       <SchemaMarkup schema={articleSchema} />
       {STATE_HUB_VIDEOS[stateData.slug] && (
         <SchemaMarkup schema={buildStateVideoSchema(STATE_HUB_VIDEOS[stateData.slug])} />
@@ -329,8 +380,23 @@ export default async function StateHubPage({
           ilWebinar
             ? [{ text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing` }]
             : [
-                { text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing` },
-                { text: "Renew with CE", href: `/${stateData.slug}/continuing-education`, variant: "secondary" },
+                // Held prelicensing state (NY: approved #80025, courses not open
+                // yet — prelicensingHeld) gets a non-enroll "Opening Soon" label
+                // instead of "Start Prelicensing"; WA exam-prep prelicensing IS
+                // live, so it keeps "Start Prelicensing". Live states unchanged.
+                {
+                  text: prelicensingHeld ? "Prelicensing — Opening Soon" : "Start Prelicensing",
+                  href: `/${stateData.slug}/prelicensing`,
+                },
+                // "Renew with CE" implies a live, purchasable CE renewal path.
+                // Where CE isn't live (WA #300632 approved-coming-soon; NY CE
+                // approval pending — !ceAvailable) relabel to the informational
+                // "View CE Info" (same href). Live approved states unchanged.
+                {
+                  text: ceAvailable ? "Renew with CE" : "View CE Info",
+                  href: `/${stateData.slug}/continuing-education`,
+                  variant: "secondary",
+                },
               ]
         }
       />
@@ -453,14 +519,14 @@ export default async function StateHubPage({
                 </div>
                 <h3 className="text-xl font-bold text-navy mb-3">L&amp;H Continuing Education</h3>
                 <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-                  Already licensed in life &amp; health? Complete your {stateData.name} CE hours online before your renewal deadline.{isProviderApproved ? " We typically report your completion to the state same-day." : ""}
+                  Already licensed in life &amp; health? Complete your {stateData.name} CE hours online before your renewal deadline.{ceAvailable ? " We typically report your completion to the state same-day." : ""}
                 </p>
                 <ul className="space-y-2 mb-6">
                   <li className="flex items-center gap-2 text-sm text-gray-600">
                     <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    {isProviderApproved ? "Same-day DOI reporting" : "Self-paced on any device"}
+                    {ceAvailable ? "Same-day DOI reporting" : "Self-paced on any device"}
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
                     <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -472,15 +538,35 @@ export default async function StateHubPage({
                     <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    Starting at {stateData.ce.packagePrice}
+                    {ceAvailable
+                      ? `Starting at ${stateData.ce.packagePrice}`
+                      : ceComingSoon
+                      ? "Approved — courses coming soon"
+                      : "State approval pending"}
                   </li>
                 </ul>
-                <Link
-                  href={`/${stateData.slug}/continuing-education`}
-                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
-                >
-                  Renew L&amp;H License &rarr;
-                </Link>
+                {ceAvailable ? (
+                  <Link
+                    href={`/${stateData.slug}/continuing-education`}
+                    className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
+                  >
+                    Renew L&amp;H License &rarr;
+                  </Link>
+                ) : (
+                  <>
+                    <p className="text-sm text-gray-600 mb-3 leading-relaxed">
+                      {ceComingSoon
+                        ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                        : `${stateData.name} CE course approval is pending.`}
+                    </p>
+                    <Link
+                      href={`/${stateData.slug}/continuing-education`}
+                      className="block text-center border-2 border-gold text-navy hover:bg-gold/10 font-bold py-3 px-6 rounded-lg transition-colors"
+                    >
+                      View {stateData.name} CE Info &rarr;
+                    </Link>
+                  </>
+                )}
               </div>
 
               {/* P&C CE Card — only rendered when state is in PC_STATE_SLUGS */}
@@ -492,34 +578,54 @@ export default async function StateHubPage({
                 </div>
                 <h3 className="text-xl font-bold text-navy mb-3">Property &amp; Casualty CE</h3>
                 <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-                  Hold a P&amp;C license? Complete your {stateData.name} P&amp;C continuing education online with {isProviderApproved ? "state-approved " : ""}Ethics + P&amp;C electives.{isProviderApproved ? " Same-day DOI reporting is typically included." : ""}
+                  Hold a P&amp;C license? Complete your {stateData.name} P&amp;C continuing education online with {ceAvailable ? "state-approved " : ""}Ethics + P&amp;C electives.{ceAvailable ? " Same-day DOI reporting is typically included." : ""}
                 </p>
                 <ul className="space-y-2 mb-6">
                   <li className="flex items-center gap-2 text-sm text-gray-600">
                     <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    {isProviderApproved ? "State-approved " : ""}Ethics + P&amp;C
+                    {ceAvailable ? "State-approved " : ""}Ethics + P&amp;C
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
                     <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    {isProviderApproved ? "Same-day DOI reporting" : "Self-paced on any device"}
+                    {ceAvailable ? "Same-day DOI reporting" : "Self-paced on any device"}
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
                     <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    Starting at {pcStartPrice}
+                    {ceAvailable
+                      ? `Starting at ${pcStartPrice}`
+                      : ceComingSoon
+                      ? "Approved — courses coming soon"
+                      : "State approval pending"}
                   </li>
                 </ul>
-                <Link
-                  href={`/${stateData.slug}/continuing-education/property-and-casualty`}
-                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
-                >
-                  Renew P&amp;C License &rarr;
-                </Link>
+                {ceAvailable ? (
+                  <Link
+                    href={`/${stateData.slug}/continuing-education/property-and-casualty`}
+                    className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
+                  >
+                    Renew P&amp;C License &rarr;
+                  </Link>
+                ) : (
+                  <>
+                    <p className="text-sm text-gray-600 mb-3 leading-relaxed">
+                      {ceComingSoon
+                        ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                        : `${stateData.name} CE course approval is pending.`}
+                    </p>
+                    <Link
+                      href={`/${stateData.slug}/continuing-education/property-and-casualty`}
+                      className="block text-center border-2 border-gold text-navy hover:bg-gold/10 font-bold py-3 px-6 rounded-lg transition-colors"
+                    >
+                      View {stateData.name} P&amp;C CE Info &rarr;
+                    </Link>
+                  </>
+                )}
               </div>
                 </>
               )}
@@ -680,9 +786,15 @@ export default async function StateHubPage({
             {[
               {
                 icon: "🏛️",
-                title: isProviderApproved ? "State-Approved Courses" : "Built to State Standards",
-                desc: isProviderApproved
+                title: anyCourseLiveApproved
+                  ? "State-Approved Courses"
+                  : approvedProviderComingSoon
+                  ? "State-Approved Provider"
+                  : "Built to State Standards",
+                desc: anyCourseLiveApproved
                   ? `Every JustInsurance course is officially approved by the ${stateData.doiName} to fulfill ${stateCredentialKind === "prelicensing" ? "prelicensing and CE" : "CE"} requirements.`
+                  : approvedProviderComingSoon
+                  ? `JustInsurance is an approved ${stateData.doiName} provider (#${stateData.providerApprovalNumber}); our ${stateData.name} ${stateCredentialKind === "prelicensing" ? "" : "CE "}courses are coming soon.`
                   : `JustInsurance courses are built to the ${stateData.doiName}'s ${stateCredentialKind === "prelicensing" ? "prelicensing and CE" : "CE"} standards; full state approval is pending.`,
               },
               {
@@ -701,14 +813,20 @@ export default async function StateHubPage({
                 : {
                     icon: "⏱️",
                     title: "Instant Course Access",
-                    desc: "Enroll and start studying within minutes — no waiting, no shipping. Your course unlocks the moment your order completes.",
+                    // A held prelicensing state (NY) has nothing live to unlock,
+                    // so the present-tense "unlocks the moment your order
+                    // completes" claim is softened to a coming-soon promise.
+                    // Every other state keeps the live wording byte-identically.
+                    desc: prelicensingHeld
+                      ? `Your ${stateData.name} courses are opening for enrollment soon — you'll be able to enroll and start online the moment they go live.`
+                      : "Enroll and start studying within minutes — no waiting, no shipping. Your course unlocks the moment your order completes.",
                   },
               {
                 icon: "⚡",
-                title: isProviderApproved ? "Same-Day CE Reporting" : "Self-Paced CE",
-                desc: isProviderApproved
+                title: ceAvailable ? "Same-Day CE Reporting" : "Self-Paced CE",
+                desc: ceAvailable
                   ? `We typically report your CE completions to the ${stateData.doiName} the same day you finish. No paperwork needed.`
-                  : `Complete your ${stateData.name} CE hours online at your own pace, on any device — no classroom, no paperwork.`,
+                  : `Our ${stateData.name} CE courses will be fully online and self-paced — study on any device, no classroom, no paperwork. Coming soon.`,
               },
               {
                 icon: "🎓",
@@ -733,9 +851,10 @@ export default async function StateHubPage({
               approval has actually issued — pending states (NY, WA) cannot
               report completions to their regulator at all, and their own CE FAQ
               correctly says approval is pending. Gated on the same
-              isProviderApproved the card is gated on; approved states are
-              byte-identical. */}
-          {isProviderApproved && (
+              ceAvailable the card is gated on so an approved-but-not-live
+              state (WA/NY) never claims same-day reporting for a course that
+              does not exist yet; live approved states are byte-identical. */}
+          {ceAvailable && (
             <p className="text-xs text-gray-500 mt-6 max-w-3xl mx-auto text-center">
               *JustInsurance typically transmits your completion to your state insurance regulator the same business day you finish; the time for your state to post the credit to your license record varies by state.
             </p>
@@ -921,7 +1040,9 @@ export default async function StateHubPage({
           // path. This branch takes precedence and gives held states the neutral
           // opening-soon message. Reverts automatically once approval issues.
           prelicensingHeld
-            ? `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
+            ? prelicensingApprovedComingSoon
+              ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing course is opening for enrollment soon.`
+              : `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
             // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
             // "self-paced" claim for the approved hybrid format line.
             : ilWebinar

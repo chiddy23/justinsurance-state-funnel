@@ -45,16 +45,17 @@ const EXAM_PREP_ONLY_COUNT = SERVED_STATE_COUNT - PRELICENSING_REQUIRED_SERVED.l
 /**
  * Hero prelicensing reach. Owner-confirmed (2026-08-05) we hold prelicensing
  * approval in EVERY state that requires it, so when the data agrees
- * (approved-and-live count === required-state count) the hero says exactly that;
- * otherwise it self-corrects to a count so the claim can never silently become
- * false. NY (approved, life course launching soon) is excluded from SERVED and
- * surfaced as "opening soon" on its own page, so it does not weaken this claim.
+ * (approved-and-live count === required-state count) the hero reads "wherever
+ * your state requires it"; otherwise it self-corrects to a count so the claim
+ * can never silently become false. NY (approved, life course launching soon) is
+ * excluded from SERVED and surfaced as "opening soon" on its own page, so it
+ * does not weaken this claim.
  */
 const PRELICENSING_REACH_PHRASE =
   PRELICENSING_REQUIRED_SERVED.length > 0 &&
   PRELICENSING_APPROVED_COUNT >= PRELICENSING_REQUIRED_SERVED.length
-    ? "every state that requires it"
-    : `${PRELICENSING_APPROVED_COUNT} of the ${PRELICENSING_REQUIRED_SERVED.length} states we serve that require it`;
+    ? "wherever your state requires it"
+    : `in ${PRELICENSING_APPROVED_COUNT} of the ${PRELICENSING_REQUIRED_SERVED.length} states we serve that require it`;
 
 /**
  * Hero CE reach — the honest count WITHOUT the coming-soon parenthetical (that
@@ -152,7 +153,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved insurance prelicensing and CE &mdash; 100% online, self-paced in most states, with a pass guarantee where eligible. We&apos;re approved for prelicensing in {PRELICENSING_REACH_PHRASE}, and for CE in {CE_REACH_PHRASE}. Join 20,000+ students who trust JustInsurance.
+            State-approved insurance prelicensing and CE &mdash; 100% online, self-paced in most states, with a pass guarantee where eligible. Approved for prelicensing {PRELICENSING_REACH_PHRASE}, and for CE in {CE_REACH_PHRASE}. Join 20,000+ students who trust JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

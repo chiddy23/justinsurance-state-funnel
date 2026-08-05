@@ -58,15 +58,13 @@ const PRELICENSING_REACH_PHRASE =
     : `in ${PRELICENSING_APPROVED_COUNT} of the ${PRELICENSING_REQUIRED_SERVED.length} states we serve that require it`;
 
 /**
- * Hero CE reach — the honest count WITHOUT the coming-soon parenthetical (that
- * per-state detail, e.g. "Washington approved, courses coming soon", still shows
- * in the Choose Your State section below). Auto-updates when a pending CE state
- * goes live.
+ * Hero CE reach — the plain count of states where our CE is state-approved and
+ * live (avoids the awkward "48 of the 49 we serve" fraction, which reads as
+ * "why not 50?"). The coming-soon detail (e.g. "Washington approved, courses
+ * coming soon") still shows in the Choose Your State section below.
+ * Auto-updates as pending CE states go live.
  */
-const CE_REACH_PHRASE =
-  CE_APPROVAL_PENDING.length === 0
-    ? `all ${SERVED_STATE_COUNT} states we serve`
-    : `${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve`;
+const CE_REACH_PHRASE = `${CE_APPROVED_COUNT} states`;
 
 /** States whose course carries a mandated LIVE classroom/webinar component. */
 const LIVE_COMPONENT_STATES = SERVED_STATES.filter(

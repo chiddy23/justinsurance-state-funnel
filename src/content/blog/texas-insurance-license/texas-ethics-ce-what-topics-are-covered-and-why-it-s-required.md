@@ -22,9 +22,9 @@ Here's what Texas ethics CE actually covers.
 
 ## The Basic Requirement
 
-Texas requires 3 hours of ethics continuing education in every 2-year renewal cycle. These 3 hours are part of your total 24-hour CE requirement, not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
+Texas requires [3 hours of ethics continuing education in every 2-year renewal cycle](https://www.tdi.texas.gov/agent/agcehome.html). These 3 hours are [part of your total 24-hour CE requirement](https://www.tdi.texas.gov/agent/agcehome.html), not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
 
-The requirement applies to both agents and adjusters. Whether you sell policies or handle claims, ethics CE is required to renew your license.
+The requirement [applies to both agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html). Whether you sell policies or handle claims, ethics CE is required to renew your license.
 
 ## Why Ethics CE Is Required
 
@@ -69,3 +69,7 @@ Treating ethics CE as real training rather than a checkbox is inexpensive protec
 At JustInsurance, our Texas ethics CE courses are TDI-approved, updated regularly, and designed to be practical — so you walk away with more than a checkmark. You walk away with a clearer framework for protecting your license and your clients.
 
 Enroll in our Texas ethics CE and meet your requirement the right way.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education requirements for agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html)

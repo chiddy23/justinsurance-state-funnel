@@ -30,11 +30,11 @@ You’ll also need a Social Security number and a valid government-issued photo 
 
 ## Consider a pre-licensing course (optional)
 
-Texas does not require you to complete [Texas pre-licensing education](/texas/prelicensing) before you can sit for the life and health insurance exam — here the coursework is optional, not mandatory. Even so, many candidates opt for a structured course — usually around 40 hours of coursework covering topics like policy provisions, ethical conduct, state regulations, and insurance products — to give themselves a solid foundation before test day.
+Texas does not require you to complete [Texas pre-licensing education](/texas/prelicensing) before you can sit for the life and health insurance exam — here [the coursework is optional, not mandatory](https://www.tdi.texas.gov/tips/be-an-agent.html). Even so, many candidates opt for a structured course — usually around 40 hours of coursework covering topics like policy provisions, ethical conduct, state regulations, and insurance products — to give themselves a solid foundation before test day.
 
 Pre-licensing courses are offered online or in-person, providing flexibility to fit your schedule. If you’re someone who wants a more hands-on approach, a classroom setting might be a good fit. On the other hand, online courses can be ideal if you’re balancing a full-time job or other commitments.
 
-One point of confusion worth clearing up: because Texas doesn't require prelicensing education for life and health producer licenses, TDI doesn't approve those courses or issue an "official" completion certificate for them, and you won't be asked for one anywhere in the application. (TDI does certify prelicensing courses for *adjuster* licenses — a different credential.) That means you should choose a course on merit rather than on an approval stamp that doesn't exist for this license type: does it follow the current Pearson VUE content outline for General Lines – Life, Accident & Health, does it include realistic practice exams, and can you get help when a concept doesn't click?
+One point of confusion worth clearing up: because Texas doesn't require prelicensing education for life and health producer licenses, TDI doesn't approve those courses or issue an "official" completion certificate for them, and you won't be asked for one anywhere in the application. (TDI does certify prelicensing courses for *adjuster* licenses — a different credential.) That means you should choose a course on merit rather than on an approval stamp that doesn't exist for this license type: does it follow the [current Pearson VUE content outline for General Lines – Life, Accident & Health](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf), does it include realistic practice exams, and can you get help when a concept doesn't click?
 
 ## Schedule your Texas exam
 
@@ -89,3 +89,8 @@ In addition to training courses and state resources, you might want guidance fro
 With your Texas life and health insurance license, you’ll be better equipped to help individuals and families find the coverage that suits their needs. As you can see, the path to licensing involves a few checkpoints, but each step is manageable if you plan carefully and study effectively. Take time to confirm your eligibility, prepare with coursework if you choose to, practice for the exam, then apply with confidence. Once your license is in hand, your career in the insurance industry can truly begin.
 
 If you’re ready to move forward, start by deciding on your pre-licensing course. Don’t hesitate to seek extra support from professionals at JustInsurance if you need a hand organizing your documents or navigating state requirements. Each move you make can bring you closer to your new professional journey, where you’ll gain the satisfaction of guiding fellow Texans toward financial security.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — How to become an insurance agent](https://www.tdi.texas.gov/tips/be-an-agent.html)
+- [Pearson VUE — Texas Insurance Licensing Candidate Handbook (#124400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf)

@@ -28,19 +28,19 @@ It doesn't matter whether the replacement is happening with the same carrier or 
 
 ## What the Agent Actually Has to Do
 
-Texas Insurance Code §1114.051 spells out the agent's duties, and there are only three of them. Know these cold, because this is the list a TDI investigator will work from.
+[Texas Insurance Code §1114.051](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm) spells out the agent's duties, and there are only three of them. Know these cold, because this is the list a TDI investigator will work from.
 
 Statement of existing policies. On every life insurance or annuity application you initiate, you must submit to the insurer — with or as part of the application — a statement signed by both you and the applicant saying whether the applicant has existing policies or contracts. If the answer is no, your replacement duties are finished right there. This step is not optional and it is not limited to replacement cases; it's how replacement gets identified in the first place.
 
-Notice Regarding Replacement. If the applicant does have existing coverage, you must present and read the notice to the applicant no later than the time you take the application. Texas uses TDI form LAC029, "Notice Regarding Replacement — Replacing Your Life Insurance Policy or Annuity," or a substantially similar notice the department has approved. Both you and the applicant sign it, and the signature attests either that you read the notice aloud or that the applicant did not want it read aloud. The notice also has to identify the existing coverage by insurer name, insured name, and policy or contract number.
+Notice Regarding Replacement. If the applicant does have existing coverage, you must present and read the notice to the applicant no later than the time you take the application. Texas uses [TDI form LAC029](https://www.tdi.texas.gov/forms/lhlifehealth/lac029-notice-replacement-life-insurance-annuity.pdf), "Notice Regarding Replacement — Replacing Your Life Insurance Policy or Annuity," or a substantially similar notice the department has approved. Both you and the applicant sign it, and the signature attests either that you read the notice aloud or that the applicant did not want it read aloud. The notice also has to identify the existing coverage by insurer name, insured name, and policy or contract number.
 
 Sales material. At the time the application is completed, you must leave the applicant the original or a copy of all sales material you used. If you presented anything electronically, the applicant has to get it in printed form no later than the date the policy or contract is delivered.
 
-That's the whole agent checklist. Note what is *not* on it: Texas does not require you to prepare or hand over a side-by-side comparison of the existing policy against the proposed one. The illustration, policy summary, or disclosure document does move between carriers — but §1114.053(c) makes that an insurer-to-insurer obligation, triggered by the existing insurer's request, not an agent-to-applicant deliverable. Walking a client through a comparison is good practice and good suitability discipline — just don't mistake it for the rule, and never let it stand in for the three items above.
+That's the whole agent checklist. Note what is *not* on it: Texas does not require you to prepare or hand over a side-by-side comparison of the existing policy against the proposed one. The illustration, policy summary, or disclosure document does move between carriers — but [§1114.053(c)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm) makes that an insurer-to-insurer obligation, triggered by the existing insurer's request, not an agent-to-applicant deliverable. Walking a client through a comparison is good practice and good suitability discipline — just don't mistake it for the rule, and never let it stand in for the three items above.
 
 ## The Insurer's Responsibilities
 
-The insurance company issuing the new policy has its own set of obligations under §1114.053. Within five business days of receiving an application that indicates a replacement — or of otherwise identifying that a replacement occurred — the replacing insurer must notify any existing insurer that may be affected. That gives the existing carrier an opportunity to conserve the business, meaning it can contact the client and explain what they'd be giving up.
+The insurance company issuing the new policy has its own set of obligations under [§1114.053](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm). Within five business days of receiving an application that indicates a replacement — or of otherwise identifying that a replacement occurred — the replacing insurer must notify any existing insurer that may be affected. That gives the existing carrier an opportunity to conserve the business, meaning it can contact the client and explain what they'd be giving up.
 
 If the existing insurer then asks for the illustration, policy summary, or disclosure document, the replacing insurer has five business days from that request to mail it. The replacing insurer also has to keep copies of its replacement notifications indexed by agent, and must tell the policy owner about the right to return the new policy or contract within 30 days of delivery for a full refund of premiums paid.
 
@@ -50,7 +50,7 @@ This exists to protect the consumer, not to protect the carriers' business. It e
 
 Several practices cross the line from legitimate replacement into prohibited conduct:
 
-Twisting — misrepresenting facts about either the existing or new policy to induce a replacement. This is a direct violation of Chapter 541 of the Texas Insurance Code.
+Twisting — misrepresenting facts about either the existing or new policy to induce a replacement. This is a direct violation of [Chapter 541 of the Texas Insurance Code](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.541.htm).
 
 Churning — replacing the client's own policies repeatedly to generate commissions without providing meaningful benefit to the client.
 
@@ -79,3 +79,9 @@ The key is that the replacement must benefit the client, be fully disclosed, and
 Replacement is a powerful tool when it's used ethically — but it's a career-ender when it's mishandled. At JustInsurance, our Texas CE and [prelicense](/texas/prelicensing) courses cover replacement rules in detail so you can confidently advise clients and stay on the right side of TDI.
 
 Enroll today and learn replacement compliance the right way.
+
+**Sources cited:**
+
+- [Texas Insurance Code Chapter 1114 (replacement — §1114.051 agent duties, §1114.053 insurer duties)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm)
+- [Texas Insurance Code Chapter 541 (unfair methods of competition & deceptive acts — twisting)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.541.htm)
+- [Texas Department of Insurance — Form LAC029, Notice Regarding Replacement (life insurance/annuity)](https://www.tdi.texas.gov/forms/lhlifehealth/lac029-notice-replacement-life-insurance-annuity.pdf)

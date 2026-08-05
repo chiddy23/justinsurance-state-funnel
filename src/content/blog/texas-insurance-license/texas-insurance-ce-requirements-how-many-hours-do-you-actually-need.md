@@ -22,13 +22,13 @@ Here's exactly how many CE hours you need and how the system works.
 
 ## The Basic Texas CE Requirement
 
-Texas requires licensed insurance agents to complete 24 hours of continuing education every 2 years. Your CE reporting period lines up with your license renewal cycle — so you'll need those hours in before your license expires.
+Texas requires licensed insurance agents to complete [24 hours of continuing education every 2 years](https://www.tdi.texas.gov/agent/agcehome.html). Your CE reporting period lines up with your license renewal cycle — so you'll need those hours in before your license expires.
 
 Of those 24 hours, there's a specific breakdown you have to follow:
 
-3 hours must be in certified ethics or consumer protection courses — this is a mandatory subset, not optional
+[3 hours must be in certified ethics or consumer protection courses](https://www.tdi.texas.gov/agent/agcehome.html) — this is a mandatory subset, not optional
 
-At least 12 hours — half your requirement — must be in certified classroom or classroom-equivalent courses, per 28 TAC §19.1003. This is the rule most agents don't know about, and it's the one that most often leaves a renewal short.
+At least 12 hours — half your requirement — [must be in certified classroom or classroom-equivalent courses](https://www.tdi.texas.gov/tips/agents-ce.html), per 28 TAC §19.1003. This is the rule most agents don't know about, and it's the one that most often leaves a renewal short.
 
 The remaining hours can be in any TDI-certified General course
 
@@ -60,7 +60,7 @@ Before enrolling in any CE course, confirm it's on TDI's approved provider list.
 
 ## What Happens If You Don't Complete Your CE on Time?
 
-If you reach your expiration date short on hours, TDI gives you 90 days to complete the deficient hours and pay a fine of **$50 for every deficient hour** — 6 hours short is a $300 fine on top of the courses themselves. Note that the classroom shortfall counts here too: 24 self-study hours with no classroom or classroom-equivalent credit leaves you 12 hours deficient.
+If you reach your expiration date short on hours, TDI gives you [90 days to complete the deficient hours](https://www.tdi.texas.gov/agent/agcehome.html) and pay a fine of [**$50 for every deficient hour**](https://www.tdi.texas.gov/tips/agents-ce.html) — 6 hours short is a $300 fine on top of the courses themselves. Note that the classroom shortfall counts here too: 24 self-study hours with no classroom or classroom-equivalent credit leaves you 12 hours deficient.
 
 If you don't clear the deficiency within those 90 days, the license is inactivated. At that point you have to stop transacting insurance business and apply for a new license — new application, new fees, and in most cases new fingerprints.
 
@@ -77,3 +77,8 @@ If you don't clear the deficiency within those 90 days, the license is inactivat
 Keeping up with CE shouldn't feel like a burden. Build your plan around three numbers — 24 total hours, 3 in ethics, and at least 12 in classroom or classroom-equivalent format — and confirm your real expiration date rather than guessing 24 months from issuance.
 
 Browse our [Texas CE courses](/texas/continuing-education), check the format of each course against your classroom minimum, and renew your license with confidence.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education requirements for agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html)
+- [Texas Department of Insurance — Continuing education tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)

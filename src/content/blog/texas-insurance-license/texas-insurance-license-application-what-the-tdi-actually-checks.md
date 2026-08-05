@@ -22,11 +22,11 @@ Here's what TDI actually checks when you submit your application.
 
 ## Your Exam Results
 
-The first thing TDI verifies is that you passed the state licensing exam through Pearson VUE. Your results are submitted electronically, so there's nothing extra you need to do — but your application won't move forward until that pass is confirmed in the system.
+The first thing TDI verifies is that you passed the state licensing exam through [Pearson VUE](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf). Your results are submitted electronically, so there's nothing extra you need to do — but your application won't move forward until that pass is confirmed in the system.
 
 ## Your Fingerprint and Background Check
 
-Texas requires a criminal background check for all insurance license applicants, processed through IdentoGO. TDI checks both state and federal criminal history databases.
+Texas requires a criminal background check for all insurance license applicants, [processed through IdentoGO](https://www.tdi.texas.gov/agent/fingerprint-instructions.html). TDI checks both state and federal criminal history databases.
 
 Having a criminal record doesn't automatically disqualify you — but certain convictions, especially those involving fraud, dishonesty, or financial crimes, can result in denial. TDI weighs each applicant's history individually, looking at how closely the offense relates to the duties of an insurance license, how long ago it happened, and any evidence of rehabilitation since. If you have a prior conviction and want to gauge where you stand before investing time and money, contact TDI's licensing division (License@tdi.texas.gov) directly rather than relying on secondhand advice.
 
@@ -36,11 +36,11 @@ The application asks a series of yes/no questions about your background — prio
 
 ## Prelicense Education — Not Required in Texas
 
-Texas doesn't require prelicensing education for standard producer licenses, so there's nothing for TDI to verify here. If you choose to take an [optional prelicense course](/texas/prelicensing) to prepare for the exam, TDI won't ask for a completion certificate — the course simply helps you get ready for the Pearson VUE exam itself.
+[Texas doesn't require prelicensing education for standard producer licenses](https://www.tdi.texas.gov/tips/be-an-agent.html), so there's nothing for TDI to verify here. If you choose to take an [optional prelicense course](/texas/prelicensing) to prepare for the exam, TDI won't ask for a completion certificate — the course simply helps you get ready for the Pearson VUE exam itself.
 
 ## Your Application Fee
 
-The non-refundable application fee is $50, paid through Sircon or NIPR when you submit. Your application won't be processed without it.
+The [non-refundable application fee is $50](https://www.tdi.texas.gov/rules/2002/licensing2.html), paid through Sircon or NIPR when you submit. Your application won't be processed without it.
 
 ## How Long Does TDI Take to Review Your Application?
 
@@ -59,3 +59,10 @@ Most complete electronic applications are processed within one to two business d
 Understanding what TDI reviews helps you submit a clean, complete application the first time. At JustInsurance, our Texas prelicense course prepares you for the exam — and we make sure you understand the full licensing process so nothing catches you off guard.
 
 Enroll today and get exam-ready with confidence.
+
+**Sources cited:**
+
+-   [Pearson VUE — Texas Insurance Licensing Candidate Handbook (#124400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf)
+-   [Texas Department of Insurance — Fingerprint requirements & instructions](https://www.tdi.texas.gov/agent/fingerprint-instructions.html)
+-   [Texas Department of Insurance — How to become an agent](https://www.tdi.texas.gov/tips/be-an-agent.html)
+-   [Texas Department of Insurance — Licensing fees rule (28 TAC 19.801–.803)](https://www.tdi.texas.gov/rules/2002/licensing2.html)

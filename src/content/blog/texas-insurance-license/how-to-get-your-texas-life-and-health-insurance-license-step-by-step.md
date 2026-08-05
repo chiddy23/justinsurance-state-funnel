@@ -22,21 +22,21 @@ Here's exactly how it works.
 
 ## Step 1: Consider Prelicense Education (Optional in Texas)
 
-Texas does not require prelicensing education before you can sit for the exam — unlike most states, it's optional here. Even so, many candidates take a 40-hour [prelicense](/texas/prelicensing) course for Life, Health, or Life & Health combined to prepare. This can be done online at your own pace, which means you can fit it around your current schedule.
+[Texas does not require prelicensing education before you can sit for the exam](https://www.tdi.texas.gov/tips/be-an-agent.html) — unlike most states, it's optional here. Even so, many candidates take a 40-hour [prelicense](/texas/prelicensing) course for Life, Health, or Life & Health combined to prepare. This can be done online at your own pace, which means you can fit it around your current schedule.
 
 Your coursework covers the concepts you'll be tested on — policy types, state laws, insurance regulations, and ethics. Don't rush this part. The stronger your foundation here, the easier the exam becomes.
 
 ## Step 2: Pass the Texas Insurance Exam
 
-Once you feel prepared, you'll register for the state exam through Pearson VUE, TDI's official exam administrator. The General Lines – Life, Accident & Health exam covers both lines of content: 130 scored questions (100 general knowledge, 30 Texas-specific law) plus 15 unscored pretest questions, in 150 minutes.
+Once you feel prepared, you'll register for the state exam through [Pearson VUE, TDI's official exam administrator](https://nipr.com/licensing-center/state-information/texas). The General Lines – Life, Accident & Health exam covers both lines of content: [130 scored questions (100 general knowledge, 30 Texas-specific law) plus 15 unscored pretest questions, in 150 minutes](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf).
 
-Passing requires a **scaled score of 70** — and that is not the same thing as answering 70% of the questions correctly. TDI sets the passing standard with Pearson VUE, raw scores are converted onto a 0–100 scale, and the candidate handbook states plainly that the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly."
+Passing requires a **[scaled score of 70](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf)** — and that is not the same thing as answering 70% of the questions correctly. TDI sets the passing standard with Pearson VUE, raw scores are converted onto a 0–100 scale, and the candidate handbook states plainly that the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly."
 
 You'll take the exam at a Pearson VUE testing center. Bring a valid government-issued ID. Results are given immediately after you finish.
 
 ## Step 3: Get Fingerprinted
 
-Most Texas applicants have to be fingerprinted. You'll complete this through IdentoGO (TDI Service Code 11G6QF), which handles fingerprinting for TDI and submits the results to the Texas Department of Public Safety. You can schedule your appointment online. This is a background check requirement — it runs through both state and federal databases.
+Most Texas applicants have to be fingerprinted. You'll complete this through [IdentoGO](https://www.tdi.texas.gov/agent/fingerprint-instructions.html) (TDI Service Code 11G6QF), which handles fingerprinting for TDI and submits the results to the Texas Department of Public Safety. You can schedule your appointment online. This is a background check requirement — it runs through both state and federal databases.
 
 TDI lists exemptions, so check before you pay the fee twice. You do not need new prints if you live in Texas and already hold an active TDI license or registration for which you have already submitted fingerprints. Non-residents who hold an active resident license in their home state are also exempt — though if you don't hold one, you'll need to send TDI either a criminal history record from your state's law enforcement agency or a current Certificate of Good Standing with your application.
 
@@ -44,7 +44,7 @@ You can complete fingerprinting before or after your exam, but it must be done b
 
 ## Step 4: Submit Your License Application
 
-After passing your exam, apply for your license through Sircon or NIPR — both are TDI-approved online portals. The application fee is $50. TDI will review your application, confirm your exam results and fingerprint clearance, and issue your license.
+After passing your exam, apply for your license through Sircon or NIPR — both are TDI-approved online portals. The [application fee is $50](https://www.tdi.texas.gov/rules/2002/licensing2.html). TDI will review your application, confirm your exam results and fingerprint clearance, and issue your license.
 
 ## Step 5: Get Appointed by a Carrier
 
@@ -67,3 +67,11 @@ From start to finish, most people complete the Texas licensing process in 4 to 8
 At JustInsurance, our Texas prelicense course is built to get you exam-ready, even though Texas doesn't require the 40-hour course. Our content is state-specific, up to date, and designed so you actually understand what you're learning.
 
 Ready to get started? Enroll in our Texas prelicense course today and take the first step toward your license.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — How to become an insurance agent](https://www.tdi.texas.gov/tips/be-an-agent.html)
+- [NIPR — Texas state licensing information (Pearson VUE exam vendor)](https://nipr.com/licensing-center/state-information/texas)
+- [Pearson VUE — Texas Insurance Licensing Candidate Handbook (#124400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf)
+- [Texas Department of Insurance — Fingerprint requirements and instructions](https://www.tdi.texas.gov/agent/fingerprint-instructions.html)
+- [Texas Department of Insurance — Agent and adjuster licensing fees (28 TAC 19.801–.803)](https://www.tdi.texas.gov/rules/2002/licensing2.html)

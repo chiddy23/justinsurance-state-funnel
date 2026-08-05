@@ -28,13 +28,13 @@ This score report is valuable. It tells you exactly which sections you underperf
 
 ## Texas Exam Retake Rules
 
-Waiting period: There's no meaningful waiting period. Pearson VUE's Texas handbook states that a candidate who fails can schedule a new exam within one day, so in practice you're limited by seat availability, not by rule.
+Waiting period: There's no meaningful waiting period. Pearson VUE's Texas handbook states that [a candidate who fails can schedule a new exam within one day](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf), so in practice you're limited by seat availability, not by rule.
 
-Retake fee: Each attempt requires a new registration and a new exam fee paid to Pearson VUE, and the fee depends on which exam you're sitting for. The General Lines — Life, Accident & Health exam is $49 per attempt, and so is General Lines — Property & Casualty. The Life Agent (life-only) exam and Personal Lines Property & Casualty are $39. Limited Lines is $29. Most JustInsurance students are retaking General Lines — Life, Accident & Health, so budget $49 per attempt, and confirm the current fee at pearsonvue.com when you register.
+Retake fee: Each attempt requires a new registration and a new exam fee paid to Pearson VUE, and the fee depends on which exam you're sitting for. [The General Lines — Life, Accident & Health exam is $49 per attempt](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf), and so is General Lines — Property & Casualty. The Life Agent (life-only) exam and Personal Lines Property & Casualty are $39. Limited Lines is $29. Most JustInsurance students are retaking General Lines — Life, Accident & Health, so budget $49 per attempt, and confirm the current fee at pearsonvue.com when you register.
 
-Number of attempts: Texas does not cap the number of times you can retake the exam. You can keep attempting until you pass — but each attempt costs money, so treating each retake seriously pays off.
+Number of attempts: [Texas does not cap the number of times you can retake the exam](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf). You can keep attempting until you pass — but each attempt costs money, so treating each retake seriously pays off.
 
-Exam validity: Once you pass, you have 12 months to submit a completed license application to TDI. Miss that window and you have to sit the exam again.
+Exam validity: Once you pass, you have [12 months to submit a completed license application to TDI](https://nipr.com/licensing-center/state-information/texas). Miss that window and you have to sit the exam again.
 
 ## How to Come Back Stronger
 
@@ -62,3 +62,8 @@ Consider where your study approach broke down. Were you spending enough time on 
 Failing the exam once — or even twice — doesn't mean this career isn't for you. It means you need a better preparation strategy. At JustInsurance, our Texas prelicense course includes practice exams designed to simulate the real test, so you're not walking in unprepared.
 
 Enroll today and give yourself the best shot at passing on the first try.
+
+**Sources cited:**
+
+- [Pearson VUE — Texas Insurance Licensing Candidate Handbook (#124400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf)
+- [NIPR — Texas state licensing information (exam-score validity)](https://nipr.com/licensing-center/state-information/texas)

@@ -24,7 +24,7 @@ Following a structured plan is the best way to tackle each stage, from choosing 
 
 ## Know the Texas insurance requirements
 
-You can only apply for a [Texas insurance license](/texas) if you meet the state prerequisites, so it’s wise to confirm your eligibility upfront. Generally, you must be at least 18 years old and meet the [Texas Department of Insurance](/texas/requirements)’s (TDI) standards, which include submitting to fingerprinting and a background check. These checks verify that you haven’t committed any disqualifying offenses that might keep you from working with sensitive client information.
+You can only apply for a [Texas insurance license](/texas) if you meet the state prerequisites, so it’s wise to confirm your eligibility upfront. Generally, you must be [at least 18 years old](https://www.tdi.texas.gov/blog/what-you-need-to-know-about-getting-an-insurance-license.html) and meet the [Texas Department of Insurance](/texas/requirements)’s (TDI) standards, which include submitting to [fingerprinting and a background check](https://www.tdi.texas.gov/agent/fingerprint-instructions.html). These checks verify that you haven’t committed any disqualifying offenses that might keep you from working with sensitive client information.
 
 You’ll also want to decide early on if you aim to focus on more than one line of authority (such as Life & Health or Property & Casualty). Having a clear sense of your goals will guide you toward specialized courses and help you plan for multiple exams, if needed. Some future agents choose to start with one license type and add new lines at a later date.
 
@@ -36,7 +36,7 @@ Some new agents also explore personal lines insurance, which focuses on policies
 
 ## Consider pre-licensing education (optional)
 
-Texas does not require you to take a [Texas pre-licensing course](/texas/prelicensing) before you sit for the official exam — it's optional, though recommended. These courses are designed to familiarize you with critical insurance topics, including ethics, state regulations, contract structure, and more. If you choose one, the number of hours varies depending on the license you seek, so it’s worth confirming what each provider offers.
+Texas does not require you to take a [Texas pre-licensing course](/texas/prelicensing) before you sit for the official exam — it's [optional, though recommended](https://www.tdi.texas.gov/tips/be-an-agent.html). These courses are designed to familiarize you with critical insurance topics, including ethics, state regulations, contract structure, and more. If you choose one, the number of hours varies depending on the license you seek, so it’s worth confirming what each provider offers.
 
 Even though it's not mandatory, solid coursework gives you a better foundation for advising future clients. Many individuals find that working with a company like JustInsurance can help streamline course selection, ensuring you’re fully prepared for the exam. The more thorough you are with your studies now, the more confident you’ll feel when it’s time to test.
 
@@ -46,8 +46,8 @@ Your next step is to schedule and prepare for the licensing exam. If you took a 
 
 On exam day, being calm and organized can significantly improve your performance. To minimize stress, keep these tips in mind:
 
--   Bring two forms of valid ID to the test center.
--   Arrive at least 30 minutes early, giving yourself extra time in case of traffic or check-in slowdowns.
+-   Bring [two forms of valid ID](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf) to the test center.
+-   [Arrive at least 30 minutes early](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf), giving yourself extra time in case of traffic or check-in slowdowns.
 -   Wear comfortable clothing so you’re not distracted by discomfort.
 -   Scan the test instructions thoroughly and budget your time so you can work through each section at a steady pace.
 
@@ -70,3 +70,10 @@ Once you’ve completed your CE credits and submitted renewal fees on time, your
 You’re now equipped with the most straightforward roadmap for Texas insurance agent licensing. Whichever line of authority you plan to focus on, remember that your dedication to exam preparation will shape how confidently you enter the industry. If you're pursuing a Life, Health, or Life & Health license, JustInsurance's prelicensing and continuing education can help you feel fully supported every step of the way.
 
 Above all, don’t underestimate your ability to succeed in this field and provide meaningful protection for Texas families, individuals, and businesses. By following these guidelines and staying committed to professional growth, you’ll build a rewarding career that stands the test of time.
+
+**Sources cited:**
+
+-   [Texas Department of Insurance — What you need to know about getting an insurance license](https://www.tdi.texas.gov/blog/what-you-need-to-know-about-getting-an-insurance-license.html)
+-   [Texas Department of Insurance — Fingerprint requirements & instructions](https://www.tdi.texas.gov/agent/fingerprint-instructions.html)
+-   [Texas Department of Insurance — How to become an agent](https://www.tdi.texas.gov/tips/be-an-agent.html)
+-   [Pearson VUE — Texas Insurance Licensing Candidate Handbook (#124400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/124400.pdf)

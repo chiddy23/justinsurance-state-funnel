@@ -30,9 +30,9 @@ It exists because insurance policies are complex documents. A client might under
 
 Texas has no blanket free-look statute covering every life and health product. It has several product-specific rules, and the number changes depending on what you sold.
 
-**Individual accident and health policies — 10 days.** Texas Insurance Code §1201.058 requires an individual accident and health policy to carry a notice telling the insured they may return it if, after examining it, they are not satisfied with it for any reason. Returned no later than the 10th day after the date of delivery, the premium is refunded and the policy is treated as void as if it had never been issued. The requirement doesn't reach single premium nonrenewable policies.
+**Individual accident and health policies — 10 days.** [Texas Insurance Code §1201.058](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1201.htm) requires an individual accident and health policy to carry a notice telling the insured they may return it if, after examining it, they are not satisfied with it for any reason. Returned no later than the 10th day after the date of delivery, the premium is refunded and the policy is treated as void as if it had never been issued. The requirement doesn't reach single premium nonrenewable policies.
 
-**Replacement life policies and annuities — 30 days.** When the sale replaces existing life insurance or an annuity, §1114.053(e) requires the replacing insurer to give the owner notice of the right to return the policy or contract within 30 days of delivery and receive an unconditional full refund of all premiums or considerations paid. That's a flat 30 days — not "20 or 30," and not something that varies by carrier. Chapter 1114 doesn't reach every transaction, though: §1114.004 exempts credit life, group life and group annuities where no agent directly solicits the individual, conversions and same-insurer replacements, policies funding ERISA plans and qualified accounts, and structured settlements, among others.
+**Replacement life policies and annuities — 30 days.** When the sale replaces existing life insurance or an annuity, [§1114.053(e)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm) requires the replacing insurer to give the owner notice of the right to return the policy or contract within 30 days of delivery and receive an unconditional full refund of all premiums or considerations paid. That's a flat 30 days — not "20 or 30," and not something that varies by carrier. Chapter 1114 doesn't reach every transaction, though: [§1114.004](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm) exempts credit life, group life and group annuities where no agent directly solicits the individual, conversions and same-insurer replacements, policies funding ERISA plans and qualified accounts, and structured settlements, among others.
 
 **Annuity contracts — 15 calendar days, conditionally.** Under 28 TAC §4.2311 (mirrored at §3.9711), if the buyer's guide and the required disclosure document weren't provided at or before the time of application, the contract has to carry a free look of at least 15 calendar days, disclosed prominently on or attached to the cover page. That clock begins when the consumer receives the contract and runs concurrently with any other free-look period Texas law requires — so a replacement annuity doesn't get 30 plus 15, it gets 30.
 
@@ -58,7 +58,7 @@ Explain it clearly at the point of sale, and explain the right one. Quoting "you
 
 Document delivery. The window starts when the client receives the policy, so the delivery date is the fact everything else hangs on. If the carrier uses a delivery receipt, get it signed and keep it.
 
-Never pressure a client to stay in a policy during free-look. If the client decides to cancel during the window, your job is to help them do so — not to talk them out of it. Misstating or downplaying a return right is a misrepresentation of the terms of the policy, which is exactly the conduct Chapter 541 of the Insurance Code exists to police.
+Never pressure a client to stay in a policy during free-look. If the client decides to cancel during the window, your job is to help them do so — not to talk them out of it. Misstating or downplaying a return right is a misrepresentation of the terms of the policy, which is exactly the conduct [Chapter 541 of the Insurance Code](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.541.htm) exists to police.
 
 ## 5 Frequently Asked Questions
 
@@ -73,3 +73,9 @@ Never pressure a client to stay in a policy during free-look. If the client deci
 Being transparent about free-look rights builds trust and keeps you compliant. At JustInsurance, our Texas CE and [prelicense](/texas/prelicensing) courses cover consumer protection rules in detail so you can confidently explain them to every client.
 
 Enroll today and sell with confidence, not uncertainty.
+
+**Sources cited:**
+
+- [Texas Insurance Code Chapter 1201 (individual accident & health free-look notice, §1201.058)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1201.htm)
+- [Texas Insurance Code Chapter 1114 (replacement — §1114.053(e) 30-day return, §1114.004 exemptions)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm)
+- [Texas Insurance Code Chapter 541 (unfair methods of competition & deceptive acts)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.541.htm)

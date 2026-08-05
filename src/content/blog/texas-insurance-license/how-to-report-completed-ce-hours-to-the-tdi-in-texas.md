@@ -22,9 +22,9 @@ Here's exactly how to make sure your CE hours get credited.
 
 ## The Provider Reports Your Hours — Not You
 
-This is the most important thing to understand about Texas CE reporting: you don't submit your own CE hours to TDI. Your approved course provider does it for you.
+This is the most important thing to understand about Texas CE reporting: you don't submit your own CE hours to TDI. [Your approved course provider does it for you](https://www.tdi.texas.gov/tips/agents-ce.html).
 
-When you complete a TDI-approved CE course, the provider is required to report your completion electronically to TDI within a set timeframe — typically within 30 days of completion. This is part of what makes a provider "approved" in the first place.
+When you complete a TDI-approved CE course, the provider is required to report your completion electronically to TDI within a set timeframe — [typically within 30 days of completion](https://www.tdi.texas.gov/tips/agents-ce.html). This is part of what makes a provider "approved" in the first place.
 
 As long as you take courses through legitimate TDI-approved providers, your hours should be reported automatically.
 
@@ -32,7 +32,7 @@ As long as you take courses through legitimate TDI-approved providers, your hour
 
 Don't just assume it happened. Verify.
 
-You can check your CE transcript directly through the Sircon portal at sircon.com. Log in with your license credentials and review your CE completions. Every course you've taken through an approved provider should appear on your transcript within a few weeks of completion.
+You can [check your CE transcript directly through the Sircon portal](https://www.tdi.texas.gov/tips/agents-ce.html) at sircon.com. Log in with your license credentials and review your CE completions. Every course you've taken through an approved provider should appear on your transcript within a few weeks of completion.
 
 Check your CE status at least a few times throughout your renewal cycle — and definitely in the final 60 days before renewal. If something's missing, catching it early gives you time to fix it.
 
@@ -62,7 +62,7 @@ If there's a CE shortage, the system will flag it. Your renewal won't be accepte
 
 - How long does it take for completed CE to appear on my TDI transcript? Typically within 30 days of completion. Some providers report faster, within a week or two. Check Sircon periodically to confirm.
 - Do I need to keep proof of my CE completions? Yes. Always save your completion certificates — digitally or printed. They're your backup if there's ever a reporting discrepancy.
-- Can I self-report CE hours to TDI? No. Self-reporting isn't how the Texas system works. Only TDI-approved providers report completions. If you took a non-approved course, it won't count — regardless of how you try to report it.
+- Can I self-report CE hours to TDI? No. Self-reporting isn't how the Texas system works. [Only TDI-approved providers report completions](https://www.tdi.texas.gov/agent/agcehome.html). If you took a non-approved course, it won't count — regardless of how you try to report it.
 - What if my provider went out of business before reporting my hours? This is rare but does happen. Contact TDI directly with your completion certificate. TDI may accept documentation from the closed provider if it's legitimate.
 - Do the same rules apply for adjuster CE reporting? Yes. Adjuster CE is reported the same way — through TDI-approved adjuster CE providers who submit completions electronically.
 
@@ -71,3 +71,8 @@ If there's a CE shortage, the system will flag it. Your renewal won't be accepte
 At JustInsurance, we're a TDI-approved CE provider, which means we handle the reporting for you. Complete your course, grab your certificate, and we take care of the rest.
 
 Enroll in our Texas CE courses today and keep your license worry-free.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)
+- [Texas Department of Insurance — Continuing education requirements for agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html)

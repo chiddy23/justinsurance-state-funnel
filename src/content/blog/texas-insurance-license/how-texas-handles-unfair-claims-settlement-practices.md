@@ -22,7 +22,7 @@ Here's how Texas regulates unfair claims settlement practices.
 
 ## What Are Unfair Claims Settlement Practices?
 
-Unfair claims settlement practices are actions by an insurer or its representatives that violate standards of good faith and fair dealing during the claims process. These practices are prohibited under Chapter 542 of the Texas Insurance Code.
+Unfair claims settlement practices are actions by an insurer or its representatives that violate standards of good faith and fair dealing during the claims process. These practices are prohibited under [Chapter 542 of the Texas Insurance Code](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.542.htm).
 
 The rules exist because claim time is when policyholders are most vulnerable — they've suffered a loss, they're counting on the coverage they paid for, and they often don't have the expertise to push back against an insurer's decision. Texas law requires insurers to act fairly during that process.
 
@@ -50,17 +50,17 @@ Delaying payment without reasonable basis. Once liability is established, paymen
 
 Texas also has specific deadlines for claims handling under the Prompt Payment of Claims Act, part of Chapter 542. These deadlines include:
 
-Acknowledging receipt of a claim within 15 days
+[Acknowledging receipt of a claim within 15 days](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.542.htm)
 
 Beginning investigation within 15 days
 
 Accepting or rejecting the claim within 15 business days after receiving all required information (with possible extensions for reasonable cause)
 
-Making payment within 5 business days of notifying the claimant that the claim has been accepted
+[Making payment within 5 business days of notifying the claimant that the claim has been accepted](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.542.htm)
 
-If an insurer violates these deadlines without reasonable cause, the policyholder may be entitled to additional damages, including 18% annual interest on the claim amount plus attorney's fees under § 542.060 (property-damage claims governed by Chapter 542A instead use a variable rate — the Finance Code § 304.003 judgment rate plus five percent).
+If an insurer violates these deadlines without reasonable cause, the policyholder may be entitled to additional damages, including 18% annual interest on the claim amount plus attorney's fees under [§ 542.060](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.542.htm) (property-damage claims governed by Chapter 542A instead use a variable rate — the Finance Code § 304.003 judgment rate plus five percent).
 
-Know the limits of this subchapter. The prompt-payment deadlines cover first-party claims — claims the insured, policyholder, or a named beneficiary makes under their own policy and that the insurer pays directly to them. And Tex. Ins. Code § 542.053 carves several products out entirely: workers' compensation, mortgage guaranty, title, fidelity/surety/guaranty bonds, marine insurance (as defined by § 1807.001), and guaranty associations under Chapter 2602. The subchapter also does not reach HMOs except as provided by § 1271.005(c), or claims governed by Subchapter C of Chapter 1301. If a client asks you about the 15-day clock on a workers' comp or title claim, the answer is that a different set of rules governs it.
+Know the limits of this subchapter. The prompt-payment deadlines cover first-party claims — claims the insured, policyholder, or a named beneficiary makes under their own policy and that the insurer pays directly to them. And Tex. Ins. Code [§ 542.053](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.542.htm) carves several products out entirely: workers' compensation, mortgage guaranty, title, fidelity/surety/guaranty bonds, marine insurance (as defined by § 1807.001), and guaranty associations under Chapter 2602. The subchapter also does not reach HMOs except as provided by § 1271.005(c), or claims governed by Subchapter C of Chapter 1301. If a client asks you about the 15-day clock on a workers' comp or title claim, the answer is that a different set of rules governs it.
 
 ## What This Means for Agents
 
@@ -85,3 +85,7 @@ Recognizing red flags when placing coverage. Some carriers have better claims-ha
 Understanding claims handling rules makes you a better advisor and a more trusted agent. At JustInsurance, our Texas [prelicense](/texas/prelicensing) and CE courses cover Texas insurance law — including claims handling regulations — in clear, practical language.
 
 Enroll today and become the kind of agent clients rely on when things get tough.
+
+**Sources cited:**
+
+- [Texas Insurance Code Chapter 542 (Prompt Payment of Claims Act — §542.055 acknowledgment, §542.057 payment, §542.060 18% interest & fees, §542.053 exemptions)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.542.htm)

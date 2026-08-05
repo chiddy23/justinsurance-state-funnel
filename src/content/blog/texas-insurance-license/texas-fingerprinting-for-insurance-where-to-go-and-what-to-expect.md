@@ -20,13 +20,13 @@ If you're working toward your Texas insurance license, fingerprinting is a requi
 
 ## Why Texas Requires Fingerprinting
 
-The Texas Department of Insurance requires fingerprinting as part of a criminal background check for all license applicants. Your prints are submitted through both the Texas Department of Public Safety and the FBI to check for any criminal history at the state and federal level.
+The Texas Department of Insurance requires fingerprinting as part of a criminal background check for all license applicants. Your prints are submitted through [both the Texas Department of Public Safety and the FBI](https://www.tdi.texas.gov/agent/fingerprint-instructions.html) to check for any criminal history at the state and federal level.
 
 This isn't unique to Texas — most states require it. TDI uses the results to ensure that people entering the insurance industry meet the character and fitness standards required to work with the public.
 
 ## Where to Get Fingerprinted
 
-Texas uses IdentoGO (operated by IDEMIA) as its authorized fingerprinting provider for TDI applicants. You cannot just walk into any fingerprinting location — it must be through an IdentoGO-approved site.
+Texas uses [IdentoGO (operated by IDEMIA)](https://www.tdi.texas.gov/agent/fingerprint-instructions.html) as its authorized fingerprinting provider for TDI applicants. You cannot just walk into any fingerprinting location — it must be through an IdentoGO-approved site.
 
 To schedule your appointment:
 
@@ -75,3 +75,7 @@ If you have concerns about your background before you invest time in the process
 Fingerprinting is simple when you know what to do. At JustInsurance, we walk our students through the full Texas licensing process — not just the exam content — so you're never caught off guard by a step you didn't know was coming.
 
 Enroll in our Texas [prelicense](/texas/prelicensing) course and get fully prepared from day one.
+
+**Sources cited:**
+
+- [TDI Fingerprint Requirements & Instructions (IdentoGO fingerprinting; prints sent to DPS + FBI)](https://www.tdi.texas.gov/agent/fingerprint-instructions.html)

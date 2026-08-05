@@ -28,17 +28,17 @@ The Code covers everything from license requirements and agent duties to policy 
 
 ## Key Sections Every New Agent Should Know
 
-Licensing and Agent Conduct (Chapters 4001-4101). These chapters cover who can be licensed, what lines of authority are available, [continuing education](/texas/continuing-education), appointment requirements, and the standards of conduct expected from licensed agents. This is the foundation.
+Licensing and Agent Conduct ([Chapters 4001-4101](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.4001.htm)). These chapters cover who can be licensed, what lines of authority are available, [continuing education](/texas/continuing-education), appointment requirements, and the standards of conduct expected from licensed agents. This is the foundation.
 
-Unfair Methods of Competition and Unfair Practices (Chapter 541). This is one of the most important chapters for any new agent. It prohibits misrepresentation, false advertising, rebating, twisting, churning, and other deceptive practices. It also carries a second set of teeth most new agents don't know about: beyond whatever TDI does to your license, Subchapter D gives a person who sustained actual damages a private cause of action against you (§541.151), and if the trier of fact finds the act was committed knowingly, damages can be multiplied up to three times, plus court costs and reasonable and necessary attorney's fees (§541.152).
+Unfair Methods of Competition and Unfair Practices (Chapter 541). This is one of the most important chapters for any new agent. It prohibits misrepresentation, false advertising, rebating, twisting, churning, and other deceptive practices. It also carries a second set of teeth most new agents don't know about: beyond whatever TDI does to your license, Subchapter D gives a person who sustained actual damages a private cause of action against you ([§541.151](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.541.htm)), and if the trier of fact finds the act was committed knowingly, damages can be multiplied up to three times, plus court costs and reasonable and necessary attorney's fees ([§541.152](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.541.htm)).
 
 Replacement of Life Insurance and Annuities (Chapter 1114). If you ever help a client replace an existing life insurance policy or annuity, this chapter governs what you must disclose, what forms you must provide, and how the replacement must be documented.
 
 Claims Handling and Unfair Claims Settlement Practices (Chapter 542). This covers how claims must be handled — timelines, good faith requirements, and prohibited practices. Even if you're not an adjuster, understanding these rules helps you advise clients correctly.
 
-Policyholder Rights and Consumer Protections. This one trips people up, so be precise about it. Chapter 501 is the Office of Public Insurance Counsel — the independent state agency that advocates for consumers in rate and form proceedings before TDI. It is a consumer-advocacy statute, not a list of disclosures you owe a client. The rights new agents are actually thinking of are spread across the product chapters and TDI's rules: §1201.058 requires an individual accident and health policy to carry notice that the insured may return it for a full refund within 10 days of delivery; §1114.053(e) gives a replacement policy or annuity owner 30 days to return it; and policy-form, illustration, and disclosure requirements live in the TDI rules at 28 TAC Chapter 3 (Life, Accident, and Health Insurance and Annuities) and Chapter 4 (Life and Annuity). Cite the chapter that actually governs the product in front of you.
+Policyholder Rights and Consumer Protections. This one trips people up, so be precise about it. [Chapter 501](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.501.htm) is the Office of Public Insurance Counsel — the independent state agency that advocates for consumers in rate and form proceedings before TDI. It is a consumer-advocacy statute, not a list of disclosures you owe a client. The rights new agents are actually thinking of are spread across the product chapters and TDI's rules: [§1201.058](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1201.htm) requires an individual accident and health policy to carry notice that the insured may return it for a full refund within 10 days of delivery; [§1114.053(e)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm) gives a replacement policy or annuity owner 30 days to return it; and policy-form, illustration, and disclosure requirements live in the TDI rules at 28 TAC Chapter 3 (Life, Accident, and Health Insurance and Annuities) and Chapter 4 (Life and Annuity). Cite the chapter that actually governs the product in front of you.
 
-Privacy of Consumer Financial Information (Chapter 601). Sets the rules for how you handle nonpublic personal information about clients — what you can share, with whom, and under what circumstances.
+Privacy of Consumer Financial Information ([Chapter 601](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.601.htm)). Sets the rules for how you handle nonpublic personal information about clients — what you can share, with whom, and under what circumstances.
 
 ## Why Knowing the Code Matters
 
@@ -59,3 +59,12 @@ TDI publishes its disciplinary orders and its fraud case dispositions, along wit
 At JustInsurance, our Texas [prelicense](/texas/prelicensing) and CE courses cover the sections of the Insurance Code that matter most to your daily work — explained in plain language, not legal jargon.
 
 Enroll today and start your career with the compliance knowledge to protect it.
+
+**Sources cited:**
+
+- [Texas Insurance Code Chapters 4001-4101 (licensing & agent conduct)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.4001.htm)
+- [Texas Insurance Code Chapter 541 (unfair methods — private cause of action §541.151, treble damages §541.152)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.541.htm)
+- [Texas Insurance Code Chapter 501 (Office of Public Insurance Counsel)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.501.htm)
+- [Texas Insurance Code Chapter 1201 (individual accident & health free-look notice, §1201.058)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1201.htm)
+- [Texas Insurance Code Chapter 1114 (replacement return right, §1114.053(e))](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1114.htm)
+- [Texas Insurance Code Chapter 601 (privacy of consumer financial information)](https://statutes.capitol.texas.gov/Docs/IN/htm/IN.601.htm)

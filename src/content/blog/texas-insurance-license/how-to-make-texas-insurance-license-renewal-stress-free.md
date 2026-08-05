@@ -35,7 +35,7 @@ If you happen to miss your renewal deadline, there’s often a short grace perio
 
 ## Fulfill continuing education requirements
 
-To maintain your Texas insurance license, the state requires a set number of [continuing education](/texas/continuing-education) hours every two-year cycle. This ensures that you keep up with changes in insurance laws and industry trends. The exact number of hours may vary depending on the lines of authority you hold, but many licensees complete around 24 hours of instruction, which often includes ethics training.
+To maintain your Texas insurance license, the state requires a set number of [continuing education](/texas/continuing-education) hours every two-year cycle. This ensures that you keep up with changes in insurance laws and industry trends. The exact number of hours may vary depending on the lines of authority you hold, but many licensees complete around [24 hours of instruction, which often includes ethics training](https://www.tdi.texas.gov/agent/agcehome.html).
 
 When choosing a CE provider, look for state approval to guarantee your hours count. You can find a list of approved courses on the regulatory board’s website or through recognized training institutions. Many people prefer online programs because they let you study at your own pace without juggling class schedules.
 
@@ -90,3 +90,7 @@ In addition, companies like JustInsurance offer resources to keep you current wi
 Renewing your Texas insurance license doesn’t have to be intimidating. You can break down the process into steps, review your continuing education, collect the right documents, and submit everything on time for a stress-free renewal cycle. If you need extra support or want to learn more about how JustInsurance can simplify the process, don’t hesitate to reach out.
 
 By planning ahead, staying on top of required hours, and using trustworthy resources, you’ll breeze through your renewal and stay focused on providing top-notch service to your clients. Ready to get started? Gather your CE records, confirm your fees, and take the first step toward securing your next license renewal in Texas. Good luck, and happy renewing!
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education requirements for agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html)

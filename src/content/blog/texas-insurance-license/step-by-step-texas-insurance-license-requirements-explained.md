@@ -25,13 +25,13 @@ In essence, you must meet certain age and residency conditions, optionally prepa
 
 ## Meet the eligibility criteria
 
-Before you sign up for any courses or exams, make sure you’re eligible for a [Texas insurance license](/texas). You must be at least 18 years old, and you’ll also need to establish legal residency in Texas. Some lines of insurance may have extra requirements, so it’s a good idea to review the specific regulations for life, health, property, or casualty insurance, depending on your goal.
+Before you sign up for any courses or exams, make sure you’re eligible for a [Texas insurance license](/texas). You must be [at least 18 years old](https://www.tdi.texas.gov/blog/what-you-need-to-know-about-getting-an-insurance-license.html), and you’ll also need to establish legal residency in Texas. Some lines of insurance may have extra requirements, so it’s a good idea to review the specific regulations for life, health, property, or casualty insurance, depending on your goal.
 
 For most applicants, completing a fingerprint-based background check is also part of the process. While that might sound daunting, it’s typically straightforward if you follow the instructions provided by the Texas Department of Insurance. Once you’ve confirmed that you meet the basic criteria, you can get started on your training.
 
 ## Consider pre-licensing education (optional)
 
-Texas does not require a minimum number of [pre-licensing education](/texas/prelicensing) hours before you can sit for the state exam — it's optional, not mandatory. Even so, many candidates choose a structured course covering essential topics such as policy types, ethical practices, claim handling, and Texas-specific regulations, since it gives you a firm foundation in insurance principles so you can serve clients responsibly.
+Texas does not require a minimum number of [pre-licensing education](/texas/prelicensing) hours before you can sit for the state exam — it’s [optional, not mandatory](https://www.tdi.texas.gov/tips/be-an-agent.html). Even so, many candidates choose a structured course covering essential topics such as policy types, ethical practices, claim handling, and Texas-specific regulations, since it gives you a firm foundation in insurance principles so you can serve clients responsibly.
 
 Because you have multiple course providers and formats to choose from, it’s wise to do some research on quality and price. Many aspiring agents in Texas turn to JustInsurance for friendly, user-focused courses. Not only do reputable programs cover the exam content, but they also prepare you thoroughly for the official state exam.
 
@@ -49,9 +49,9 @@ On test day, arrive early, double-check you have the necessary ID documents, and
 
 ## Submit your license application
 
-With your passing exam score in hand, you’re ready to apply for your license. You’ll file your application electronically through the National Insurance Producer Registry (NIPR) or Sircon — TDI accepts both. There’s no packet of documents to mail or upload: your Pearson VUE exam result is transmitted to TDI electronically, and your fingerprint-based background check is submitted separately through IdentoGO. Because Texas doesn’t require pre-licensing education, there’s no completion certificate to send in — even if you took an optional prep course.
+With your passing exam score in hand, you’re ready to apply for your license. You’ll file your application electronically through the National Insurance Producer Registry (NIPR) or Sircon — TDI accepts both. There’s no packet of documents to mail or upload: your Pearson VUE exam result is transmitted to TDI electronically, and your fingerprint-based background check is submitted separately through [IdentoGO](https://www.tdi.texas.gov/agent/fingerprint-instructions.html). Because Texas doesn’t require pre-licensing education, there’s no completion certificate to send in — even if you took an optional prep course.
 
-Plan to apply within one year of passing your exam, since Texas exam results stay valid for 12 months. You’ll pay a $50 application fee when you submit, so keep that in your budget. Once your application is on file, TDI reviews your details, factors in your fingerprint results, and confirms you meet all Texas insurance license requirements before issuing your official license.
+Plan to apply within one year of passing your exam, since [Texas exam results stay valid for 12 months](https://nipr.com/licensing-center/state-information/texas). You’ll pay a [$50 application fee](https://www.tdi.texas.gov/rules/2002/licensing2.html) when you submit, so keep that in your budget. Once your application is on file, TDI reviews your details, factors in your fingerprint results, and confirms you meet all Texas insurance license requirements before issuing your official license.
 
 ## Next steps after licensing
 
@@ -62,3 +62,11 @@ You’ll also want to build relationships with insurance carriers or agencies th
 Finally, remember that you don’t have to navigate your journey alone. If you need additional guidance, JustInsurance offers knowledgeable support, exam preparation programs, and resources tailored just for Texans.
 
 Ready to move forward? Join JustInsurance today and get all the tools you need to meet your career goals in Texas insurance. Signing up is simple, and it can make the difference between feeling confused and feeling fully prepared for every step in this exciting new chapter.
+
+**Sources cited:**
+
+-   [Texas Department of Insurance — What you need to know about getting an insurance license](https://www.tdi.texas.gov/blog/what-you-need-to-know-about-getting-an-insurance-license.html)
+-   [Texas Department of Insurance — How to become an agent](https://www.tdi.texas.gov/tips/be-an-agent.html)
+-   [Texas Department of Insurance — Fingerprint requirements & instructions](https://www.tdi.texas.gov/agent/fingerprint-instructions.html)
+-   [NIPR — Texas state licensing information](https://nipr.com/licensing-center/state-information/texas)
+-   [Texas Department of Insurance — Licensing fees rule (28 TAC 19.801–.803)](https://www.tdi.texas.gov/rules/2002/licensing2.html)

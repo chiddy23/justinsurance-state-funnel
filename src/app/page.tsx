@@ -42,6 +42,31 @@ const PRELICENSING_APPROVED_COUNT = SERVED_STATES.filter(
 ).length;
 const EXAM_PREP_ONLY_COUNT = SERVED_STATE_COUNT - PRELICENSING_REQUIRED_SERVED.length;
 
+/**
+ * Hero prelicensing reach. Owner-confirmed (2026-08-05) we hold prelicensing
+ * approval in EVERY state that requires it, so when the data agrees
+ * (approved-and-live count === required-state count) the hero says exactly that;
+ * otherwise it self-corrects to a count so the claim can never silently become
+ * false. NY (approved, life course launching soon) is excluded from SERVED and
+ * surfaced as "opening soon" on its own page, so it does not weaken this claim.
+ */
+const PRELICENSING_REACH_PHRASE =
+  PRELICENSING_REQUIRED_SERVED.length > 0 &&
+  PRELICENSING_APPROVED_COUNT >= PRELICENSING_REQUIRED_SERVED.length
+    ? "every state that requires it"
+    : `${PRELICENSING_APPROVED_COUNT} of the ${PRELICENSING_REQUIRED_SERVED.length} states we serve that require it`;
+
+/**
+ * Hero CE reach — the honest count WITHOUT the coming-soon parenthetical (that
+ * per-state detail, e.g. "Washington approved, courses coming soon", still shows
+ * in the Choose Your State section below). Auto-updates when a pending CE state
+ * goes live.
+ */
+const CE_REACH_PHRASE =
+  CE_APPROVAL_PENDING.length === 0
+    ? `all ${SERVED_STATE_COUNT} states we serve`
+    : `${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve`;
+
 /** States whose course carries a mandated LIVE classroom/webinar component. */
 const LIVE_COMPONENT_STATES = SERVED_STATES.filter(
   (s) => typeof s.classroomWebinarHours === "number"
@@ -54,16 +79,6 @@ const formatStateNames = (states: { name: string }[]): string => {
   if (names.length === 2) return `${names[0]} and ${names[1]}`;
   return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
 };
-
-/** Lowercase, mid-sentence CE reach claim. Matches /continuing-education. */
-const CE_APPROVAL_PHRASE =
-  CE_APPROVAL_PENDING.length === 0
-    ? `state-approved CE in all ${SERVED_STATE_COUNT} states we serve`
-    : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (${formatStateNames(CE_APPROVAL_PENDING)} approved, courses coming soon)`;
-
-/** Same claim, sentence-initial. */
-const CE_APPROVAL_CLAIM =
-  CE_APPROVAL_PHRASE.charAt(0).toUpperCase() + CE_APPROVAL_PHRASE.slice(1);
 
 /** Short form for metadata — the count already excludes any pending state. */
 const CE_APPROVAL_SHORT =
@@ -137,7 +152,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            {CE_APPROVAL_CLAIM}, plus prelicensing in the states where we are approved &mdash; self-paced in most states, with a pass guarantee where eligible. Join 20,000+ students who&apos;ve trusted JustInsurance.
+            State-approved insurance prelicensing and CE &mdash; 100% online, self-paced in most states, with a pass guarantee where eligible. We&apos;re approved for prelicensing in {PRELICENSING_REACH_PHRASE}, and for CE in {CE_REACH_PHRASE}. Join 20,000+ students who trust JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

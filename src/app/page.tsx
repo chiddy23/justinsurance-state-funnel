@@ -151,7 +151,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved insurance prelicensing and CE &mdash; 100% online, self-paced in most states, with a pass guarantee where eligible. Approved for prelicensing {PRELICENSING_REACH_PHRASE}, and for CE in {CE_REACH_PHRASE}. Join 20,000+ students who trust JustInsurance.
+            State-approved insurance prelicensing and continuing education (CE), plus exam prep &mdash; 100% online, self-paced in most states, with a pass guarantee where eligible. Approved for prelicensing {PRELICENSING_REACH_PHRASE}, with CE in {CE_REACH_PHRASE}. Join 20,000+ students who trust JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

@@ -78,7 +78,7 @@ Before paying for any CE course, confirm:
 - The specific course is approved. Provider approval doesn't automatically mean every course they offer is approved. Each course has its own approval.
 - The course matches your license type. A course approved for P&C licensees won't count for Life and Health holders. Confirm the course applies to your specific license.
 - The course is current. Make sure you're taking the current version of any course, especially ethics courses that may have been updated.
-- Reporting is included. Approved providers report your completion to IDOI electronically — typically within days to weeks of completion. Ask the provider to confirm this before you enroll.
+- Reporting is included. Approved providers [report your completion to IDOI electronically](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html) — typically within days to weeks of completion. Ask the provider to confirm this before you enroll.
 
 ## Common Course Topics That Qualify
 
@@ -144,7 +144,7 @@ When choosing between approved providers, consider:
 
 Price. Reasonable but not unusually low. Very low prices can signal poor quality.
 
-Format. Online self-paced, webinar, live, printed. Choose what fits your learning style — keeping in mind that the mandatory 3-hour ethics course must be live classroom or webinar, not self-paced.
+Format. Online self-paced, webinar, live, printed. Choose what fits your learning style — keeping in mind that the mandatory [3-hour ethics course must be live classroom or webinar](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html), not self-paced.
 
 Reporting reliability. How quickly and consistently they report to IDOI.
 
@@ -161,7 +161,7 @@ Track record. How long have they been operating? What do other agents say about 
 - Do I submit CE completions to IDOI myself? No. In Illinois, the approved course provider submits your completion electronically. You don't self-report.
 - How quickly should hours appear in IDOI's records after I complete a course? Usually within 7 to 30 days. Some providers report within days, others take a few weeks.
 - Can I take CE courses from other states to satisfy Illinois requirements? Only if those courses have specific IDOI approval for Illinois credit. Most out-of-state courses do not count unless specifically approved.
-- Are webinar and live-streamed courses accepted? Yes, if they're IDOI-approved. For your 21 general CE hours, Illinois accepts online self-paced, webinar, and live classroom formats — for those hours, approval matters more than format. The one exception is the mandatory 3-hour ethics course: Illinois requires ethics CE to be taken as live classroom or live webinar instruction, so a self-paced online ethics course won't count toward the requirement (50 Ill. Adm. Code 3119.45). Confirm the format when you enroll in an ethics course.
+- Are webinar and live-streamed courses accepted? Yes, if they're IDOI-approved. For your 21 general CE hours, Illinois accepts online self-paced, webinar, and live classroom formats — for those hours, approval matters more than format. The one exception is the mandatory 3-hour ethics course: Illinois requires ethics CE to be taken as live classroom or live webinar instruction, so a self-paced online ethics course won't count toward the requirement ([50 Ill. Adm. Code 3119.45](https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-50-SS-3119.45)). Confirm the format when you enroll in an ethics course.
 - What's the best time to check for approved providers? Check before enrolling in any course, not after. Verifying approval after completing a non-approved course doesn't help — the hours won't count.
 
 ## Skip the Guesswork
@@ -169,3 +169,8 @@ Track record. How long have they been operating? What do other agents say about 
 At JustInsurance, all our Illinois CE courses are IDOI-approved, current with the latest cycle, and reported directly to IDOI upon completion. No searching, no second-guessing.
 
 Enroll today and complete your Illinois CE with confidence.
+
+**Sources cited:**
+
+- [IDOI — Renew Your Resident Producer License (provider SBS reporting; 3 ethics hours by classroom or webinar)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html)
+- [50 Ill. Adm. Code 3119.45 — CE and ethics requirements (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-50-SS-3119.45)

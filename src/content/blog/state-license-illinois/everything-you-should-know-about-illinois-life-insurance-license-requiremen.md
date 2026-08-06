@@ -38,7 +38,7 @@ You also need a valid Social Security number to complete the application forms. 
 
 Before you can sit for the life insurance licensing exam, Illinois requires you to attend a state-approved [Illinois insurance prelicensing](/illinois/prelicensing) course. This training ensures you have a solid grasp of insurance principles, policy details, and relevant laws.
 
-These courses often run around 20 hours for a single line of authority like life insurance. Expect a mix of core learning modules, reading assignments, and practice quizzes. Most providers offer in-person classes, online modules, or a combination of both. Keep in mind that Illinois requires 7.5 of the 20 hours per line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119); the remaining hours may be completed by self-study, so choose a provider whose live-session schedule aligns with yours.
+These courses often run [around 20 hours for a single line of authority](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html) like life insurance. Expect a mix of core learning modules, reading assignments, and practice quizzes. Most providers offer in-person classes, online modules, or a combination of both. Keep in mind that Illinois requires [7.5 of the 20 hours per line of authority to be completed through live classroom or webinar instruction with verified attendance](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html) (50 Ill. Adm. Code 3119); the remaining hours may be completed by self-study, so choose a provider whose live-session schedule aligns with yours.
 
 ### Course considerations
 
@@ -50,14 +50,14 @@ By thoroughly engaging with the [pre-licensing](/illinois/prelicensing) course, 
 
 ## Schedule and pass your exam
 
-Once you’ve completed your pre-licensing education, you’re ready to tackle the state exam. The Illinois Department of Insurance uses Pearson VUE to administer exams at designated centers across the state. You’ll typically sign up online, choose a convenient location, and reserve your spot. Illinois splits each major-line exam into a General portion and a State portion, each carrying its own $92 Pearson VUE fee — booking both portions for the same line together discounts the second fee, while booking them separately runs $184 total. You must pass both portions within 90 days of each other; miss that window and the portion you already passed no longer counts, so you have to sit it again.
+Once you’ve completed your pre-licensing education, you’re ready to tackle the state exam. The Illinois Department of Insurance uses [Pearson VUE](https://www.pearsonvue.com/us/en/il/insurance.html) to administer exams at designated centers across the state. You’ll typically sign up online, choose a convenient location, and reserve your spot. Illinois splits each major-line exam into a General portion and a State portion, [each carrying its own $92 Pearson VUE fee — booking both portions for the same line together discounts the second fee](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf), while booking them separately runs $184 total. You must [pass both portions within 90 days of each other](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf); miss that window and the portion you already passed no longer counts, so you have to sit it again.
 
 The life insurance exam itself includes multiple-choice questions covering concepts from your coursework. Expect questions on policy types, policy riders, underwriting, ethics, and state regulations. You’ll be tested not just on definitions but also on your ability to apply concepts to real-world scenarios.
 
 ### Exam day strategies
 
-• Arrive at least 30 minutes early for check-in and ID verification.  
-• Bring **two** forms of current signature identification — the primary must be government-issued and photo-bearing with a signature, and the secondary must also carry a valid signature. Both must be in English and match the name on your exam registration exactly, or you will be turned away and forfeit the fee.  
+• [Arrive at least 30 minutes early](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf) for check-in and ID verification.  
+• Bring [**two** forms of current signature identification](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf) — the primary must be government-issued and photo-bearing with a signature, and the secondary must also carry a valid signature. Both must be in English and match the name on your exam registration exactly, or you will be turned away and forfeit the fee.  
 • Skip a question if you’re unsure and return to it later—just make sure you manage your time carefully.  
 • Use any remaining minutes to review and confirm your answers.
 
@@ -65,7 +65,7 @@ After submitting your exam, you’ll usually see your results immediately. If yo
 
 ## Submit your license application
 
-Having passed the exam, you’re almost ready to start your career in insurance. Illinois routes resident producer applications through the National Insurance Producer Registry (NIPR), and there’s a timing rule that trips people up: you must wait five days after passing before you apply online at NIPR.com, which gives the Department time to have your exam results and prelicensing completion on file. Expect an application fee, typically around $215 for a life-only license, though fees can change over time.
+Having passed the exam, you’re almost ready to start your career in insurance. Illinois routes resident producer applications through the National Insurance Producer Registry (NIPR), and there’s a timing rule that trips people up: you must [wait five days after passing before you apply online at NIPR.com](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html), which gives the Department time to have your exam results and prelicensing completion on file. Expect an application fee, typically [around $215 for a life-only license](https://nipr.com/licensing-center/state-information/illinois), though fees can change over time.
 
 You’ll provide personal information, proof of your completed exam, and the application fee. The Department of Insurance reviews your documents and will contact you if there are any discrepancies. If everything checks out, you’ll receive your license electronically in most cases.
 
@@ -79,8 +79,8 @@ Getting licensed opens a wealth of opportunities for you. You’ll be able to he
 
 ### Staying active and compliant
 
-• Renew your license every two years in Illinois.  
-• Complete required [Illinois continuing education](/illinois/continuing-education) (CE) hours on time—often around 24 hours per renewal cycle.  
+• [Renew your license every two years](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html) in Illinois.  
+• Complete required [Illinois continuing education](/illinois/continuing-education) (CE) hours on time—often [around 24 hours per renewal cycle](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html).  
 • Keep up with changes in state insurance laws, tax regulations, and industry best practices.
 
 Staying engaged in the profession by joining insurance associations or attending industry webinars helps you remain informed and credible. Many new agents overlook the importance of [continuing education](/illinois/continuing-education) and community networking, but these activities can significantly boost your long-term success.
@@ -92,3 +92,11 @@ The process for fulfilling Illinois life insurance license requirements might fe
 You can also connect with JustInsurance for more helpful resources and personalized guidance. They offer expert insights on everything from exam prep strategies to career advice, making it easier for you to feel confident at each stage. If you’re ready to get licensed and want that extra layer of support, consider reaching out to them today.
 
 Once you’ve earned your license, you’re set to make a difference—one policy, one client, and one family at a time. Good luck on your path to becoming an Illinois life insurance professional, and don’t hesitate to use every resource available to make the process smoother. You’ve got this!
+
+**Sources cited:**
+
+- [Illinois Department of Insurance — How to Become a Resident Producer (prelicensing hours, classroom requirement, 5-day NIPR wait)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html)
+- [Pearson VUE — Illinois Insurance Candidate Handbook #121400 (General + State exams, $92 fee, 90-day rule, ID, 30-minute check-in)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf)
+- [Pearson VUE — Illinois Insurance exam scheduling](https://www.pearsonvue.com/us/en/il/insurance.html)
+- [NIPR — Illinois licensing center (resident producer license fee)](https://nipr.com/licensing-center/state-information/illinois)
+- [Illinois Department of Insurance — Renew Your Resident Producer License (biennial renewal, 24 CE hours)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html)

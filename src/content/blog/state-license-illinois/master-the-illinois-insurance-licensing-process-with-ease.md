@@ -15,7 +15,7 @@ imageAlt: Family sitting on couch having a meeting with a real estate agent indo
 imageCredit: Photo by Alena Darmel on Pexels
 ---
 
-To begin your Illinois insurance licensing process, you need to confirm that you meet the state’s basic eligibility requirements. In most cases, you must be at least 18 years old and a resident of Illinois. You should also be prepared to pass a background check — Illinois does not require fingerprinting for most resident producer applicants, relying instead on the disclosure questions in your application.
+To begin your Illinois insurance licensing process, you need to confirm that you meet the state’s basic eligibility requirements. In most cases, you must be at least 18 years old and a resident of Illinois. You should also be prepared to pass a background check — [Illinois does not require fingerprinting for most resident producer applicants](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html), relying instead on the disclosure questions in your application.
 
 It’s a good idea to review the [Illinois Department of Insurance](/illinois/requirements)’s website for the most current guidelines. Requirements can change occasionally, and verifying details early helps you avoid surprises. If you have any doubts or concerns, contact the department directly to clarify what you need before moving forward.
 
@@ -27,7 +27,7 @@ Think about whether a combined license makes sense. Some professionals choose to
 
 ## Finish pre-licensing education
 
-Illinois requires you to complete a set number of [Illinois insurance prelicensing](/illinois/prelicensing) hours before you can sit for the exam. Usually, you’ll need 20 hours per major line of authority, such as life or health. That time is split between live instruction and self-study: Illinois requires 7.5 of the 20 hours per line to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119), while the remaining hours may be completed through self-paced study. Because live webinars count toward the classroom requirement, you can still complete the entire course from home.
+Illinois requires you to complete a set number of [Illinois insurance prelicensing](/illinois/prelicensing) hours before you can sit for the exam. Usually, you’ll need 20 hours per major line of authority, such as life or health. That time is split between live instruction and self-study: Illinois requires [7.5 of the 20 hours per line to be completed through live classroom or webinar instruction](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html) with verified attendance (50 Ill. Adm. Code 3119), while the remaining hours may be completed through self-paced study. Because live webinars count toward the classroom requirement, you can still complete the entire course from home.
 
 When selecting a [pre-licensing](/illinois/prelicensing) provider, double-check that they’re approved by the Illinois Department of Insurance. Reputable programs often provide practice quizzes, structured lessons, and direct instructor access for questions. This structured approach ensures you have a solid understanding of all essential topics, including policy details, state regulations, and ethical standards.
 
@@ -50,7 +50,7 @@ On exam day, arrive early to account for traffic or last-minute nerves. You’ll
 
 ## Submit your license application
 
-Once you pass, you’re nearly at the finish line. The next step is to fill out the online license application through the National Insurance Producer Registry (NIPR) or the Illinois Department of Insurance portal. You’ll pay a licensing fee, and you may also need to upload proof of passing the exam or your pre-licensing education certificate.
+Once you pass, you’re nearly at the finish line. The next step is to fill out the online license application through the [National Insurance Producer Registry (NIPR)](https://nipr.com/licensing-center/state-information/illinois) or the Illinois Department of Insurance portal. You’ll pay a licensing fee, and you may also need to upload proof of passing the exam or your pre-licensing education certificate.
 
 After you submit, you’ll typically wait a few days to a couple of weeks for the application to be processed. If the department requests additional documentation, respond promptly to avoid delays. When your license is finally approved, you’ll see it listed on the state’s website, and you’ll be able to print a copy for your records.
 
@@ -61,3 +61,8 @@ Congratulations, you’ve completed the main steps of the Illinois insurance lic
 If you’re looking for ongoing guidance or have questions that come up after licensure, JustInsurance can be a reliable resource. Their experts are familiar with the ins and outs of insurance licensing in Illinois, and they’re ready to support you as you settle into your new role. Whether you need mentorship, product training, or simply a community of fellow professionals, reaching out can keep you motivated and informed.
 
 Feel free to celebrate each small victory along the way. You’ve demonstrated hard work and perseverance by completing your pre-licensing education, passing the exam, and submitting your application. Now, you’re free to tackle the next phase of your career, confident that you’ve built a solid foundation in Illinois insurance. Good luck on your journey as a licensed agent.
+
+**Sources cited:**
+
+- [IDOI — How to Become a Resident Producer](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html)
+- [NIPR — Illinois State Licensing Information](https://nipr.com/licensing-center/state-information/illinois)

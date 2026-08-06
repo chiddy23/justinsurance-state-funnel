@@ -80,7 +80,7 @@ Step 5 — Provide required information. Most applications require identificatio
 
 Step 6 — Wait for approval. Most non-resident applications are processed within 1-4 weeks.
 
-You don't need to retake prelicense education or sit for another state exam. Reciprocity eliminates those requirements.
+[You don't need to retake prelicense education or sit for another state exam](https://idoi.illinois.gov/producers/licensescertificationsfaqs/moving-to-or-from-illinois.html). Reciprocity eliminates those requirements.
 
 ## What Non-Resident Licenses Do and Don't Include
 
@@ -110,7 +110,7 @@ Specialty licenses. Some specialty license types (surplus lines, certain adjuste
 
 Enforcement histories. If you have regulatory history in another state, that may complicate non-resident applications in any state.
 
-Residency questions. If you move your residence, your license status may need updating. Moving from Illinois to another state typically means converting your Illinois license from resident to non-resident and establishing a new resident license in your new state.
+Residency questions. If you move your residence, your license status may need updating. Moving from Illinois to another state typically means [converting your Illinois license from resident to non-resident](https://idoi.illinois.gov/producers/licensescertificationsfaqs/moving-to-or-from-illinois.html) and establishing a new resident license in your new state.
 
 ## Why Non-Resident Licensing Matters
 
@@ -163,3 +163,7 @@ States relevant to your niche. If you specialize in Medicare, for example, state
 An Illinois resident license opens doors well beyond state lines. At JustInsurance, our Illinois prelicense course gets you licensed in a state with strong reciprocity standing, positioning you to serve clients nationwide.
 
 Enroll today and build an Illinois-based career with national reach.
+
+**Sources cited:**
+
+- [IDOI – Moving To or From Illinois (producer reciprocity and resident/non-resident conversion)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/moving-to-or-from-illinois.html)

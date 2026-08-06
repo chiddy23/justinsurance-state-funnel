@@ -58,9 +58,9 @@ Your authority to transact ends immediately. There's no window where you're "tec
 
 You reinstate, you don't renew late. Reinstatement is filed through NIPR as its own application.
 
-Within 12 months of expiration: You can reinstate through NIPR without retaking prelicensing education or the state exams — but every outstanding CE credit, including the 3-hour ethics requirement, must be completed and posted before IDOI will approve it.
+Within 12 months of expiration: You can [reinstate through NIPR without retaking prelicensing education or the state exams](https://idoi.illinois.gov/producers/licensescertificationsfaqs/reinstate-producer-license.html) — but every outstanding CE credit, including the 3-hour ethics requirement, must be completed and posted before IDOI will approve it.
 
-More than 12 months after expiration: Reinstatement is no longer available. You have to retake all prelicensing education for the lines you want and pass all applicable exams again.
+More than 12 months after expiration: Reinstatement is no longer available. You have to [retake all prelicensing education for the lines you want and pass all applicable exams again](https://idoi.illinois.gov/producers/licensescertificationsfaqs/reinstate-producer-license.html).
 
 Confirm current fees and status directly with IDOI or NIPR before you file anything.
 
@@ -72,7 +72,7 @@ Standard renewal fee. Approximately $215 for most individual producer licenses.
 
 Reinstatement penalty. Because there's no late-renewal path, an expired license carries a penalty fee — commonly $215 — on top of the renewal fee, so plan on roughly double the normal cost. NIPR quotes the exact amount when you file.
 
-Completion of missed CE. You still need to complete your full 24 hours of CE — the 3-hour ethics requirement is part of that 24, not on top of it. These don't go away — you just pay for them later.
+Completion of missed CE. You still need to complete your [full 24 hours of CE — the 3-hour ethics requirement is part of that 24](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html), not on top of it. These don't go away — you just pay for them later.
 
 Lost business. Commissions you didn't earn while lapsed. This is typically the largest cost.
 
@@ -179,7 +179,7 @@ If you realize you've missed your deadline, don't delay. Complete missing CE tod
 ## 6 Frequently Asked Questions
 
 - Does IDOI send reminders before my CE deadline? Yes, IDOI typically sends notices. But don't rely on reminders alone — track your deadline independently.
-- Does Illinois give me a grace period to renew late? No. Illinois has no grace period. Your license expires on its expiration date, and getting it back means filing a reinstatement application — not a late renewal.
+- Does Illinois give me a grace period to renew late? No. Illinois has no grace period. Your license expires on its expiration date, and getting it back means [filing a reinstatement application — not a late renewal](https://idoi.illinois.gov/producers/licensescertificationsfaqs/reinstate-producer-license.html).
 - Can I still complete CE after my renewal deadline passes? Yes. Missed CE can still be completed, and it has to be current before IDOI will approve a reinstatement — but by then you're already expired and paying a penalty fee.
 - What if I missed the deadline because of an emergency? IDOI may consider extenuating circumstances. Contact them directly with documentation of your situation.
 - Do carriers find out when my license lapses? Yes. IDOI notifies carriers when license status changes. This is why selling during lapse creates serious problems — carriers will know, and writing business during lapse can cost appointments permanently.
@@ -190,3 +190,8 @@ If you realize you've missed your deadline, don't delay. Complete missing CE tod
 Missing CE is one of the easiest career setbacks to prevent. At JustInsurance, our Illinois CE courses are IDOI-approved and designed to make compliance simple — so you can renew on time, every time.
 
 Enroll today and protect your Illinois insurance license.
+
+**Sources cited:**
+
+- [IDOI — Reinstate a Producer License (within 12 months no exam/CE current; after 12 months retake prelicensing + exams)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/reinstate-producer-license.html)
+- [IDOI — Renew Your Resident Producer License (24 CE hours including 3 ethics)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html)

@@ -16,13 +16,13 @@ imageAlt: >-
   life & health insurance exam: topics, format, and passing score.
 ---
 
-Walking into an Illinois producer exam without knowing exactly what to expect is one of the most common reasons candidates fail — and in Illinois, the single biggest surprise is the format itself. There is no one combined "Life and Health" exam here. Illinois splits every line of authority into two separate exams, a General portion and an Illinois State portion, each registered for and sat separately. A candidate going after both Life and Accident & Health takes four exams in total.
+Walking into an Illinois producer exam without knowing exactly what to expect is one of the most common reasons candidates fail — and in Illinois, the single biggest surprise is the format itself. There is no one combined "Life and Health" exam here. Illinois splits every line of authority into two separate exams, [a General portion and an Illinois State portion](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf), each registered for and sat separately. A candidate going after both Life and Accident & Health takes four exams in total.
 
 The good news is that each one is short, predictable, and built off a published content outline. Here's the complete breakdown.
 
 ## Who Administers the Exam
 
-Illinois insurance licensing exams are administered by Pearson VUE on behalf of the Illinois Department of Insurance (IDOI). You register and schedule through Pearson VUE at pearsonvue.com, and you take the exam at an approved Illinois testing center.
+Illinois insurance licensing exams are administered by [Pearson VUE](https://www.pearsonvue.com/us/en/il/insurance.html) on behalf of the Illinois Department of Insurance (IDOI). You register and schedule through Pearson VUE at pearsonvue.com, and you take the exam at an approved Illinois testing center.
 
 Pearson VUE operates testing centers throughout Illinois, including:
 
@@ -55,9 +55,9 @@ Each line has its own General exam and its own Illinois State exam. For a Life a
 
 A few structural rules that follow from this:
 
-You must pass both portions of a line within 90 days of each other. Miss that window and the portion you already passed no longer counts — you retake it.
+You must [pass both portions of a line within 90 days of each other](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf). Miss that window and the portion you already passed no longer counts — you retake it.
 
-Order both portions of a line on the same Pearson VUE order. Each exam is priced at $92, but Illinois applies a $92 discount when the General and State exams for the same line are processed on one order — so that line costs $92 total instead of $184. Order them separately and you pay twice. The discount only pairs General with State within the same line; you cannot pair, say, Life General with Health State.
+Order both portions of a line on the same Pearson VUE order. [Each exam is priced at $92, but Illinois applies a $92 discount when the General and State exams for the same line are processed on one order](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf) — so that line costs $92 total instead of $184. Order them separately and you pay twice. The discount only pairs General with State within the same line; you cannot pair, say, Life General with Health State.
 
 You can schedule two exams back to back in a single session, but they remain two distinct exams with their own time limits and their own pass/fail results.
 
@@ -67,7 +67,7 @@ All questions are multiple choice with four answer options, and pretest question
 
 This is the detail candidates most often get wrong. Illinois reports a scaled score, not a raw percentage.
 
-Every version ("form") of an Illinois exam is standardized so that no candidate is advantaged or disadvantaged by which form they draw. Scores are reported on a 0 to 100 scale with 70 as the passing mark — but as the Pearson VUE Illinois handbook puts it, those scores "should not be interpreted as the percentage or number of correct answers." A score below 70 tells you how close you came to passing, not how many questions you got right.
+Every version ("form") of an Illinois exam is standardized so that no candidate is advantaged or disadvantaged by which form they draw. Scores are reported on a 0 to 100 scale with 70 as the passing mark — but as the [Pearson VUE Illinois handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf) puts it, those scores "should not be interpreted as the percentage or number of correct answers." A score below 70 tells you how close you came to passing, not how many questions you got right.
 
 Practically, that means there is no "get this many questions right and you're through" target to aim for, and you should ignore any study guide that gives you one. What the 70 does represent is a fixed level of knowledge, applied consistently across every form of the exam — and the questions test application, not just recall, so clearing it takes real preparation.
 
@@ -95,9 +95,9 @@ Federal Regulation. HIPAA, ERISA, ACA provisions, and federal rules affecting Il
 
 ### On the State portions (Life State, A&H State)
 
-Illinois Insurance Statutes and Regulations. The Director's powers, licensing and producer conduct, replacement rules, unfair trade and claims practices, the guaranty association, and Illinois-specific consumer protections. On both the Life State and the A&H State outlines, the largest single block is the statutes common to all lines — roughly 22 of the questions — so that common material is worth studying once and cashing in twice.
+Illinois Insurance Statutes and Regulations. The Director's powers, licensing and producer conduct, replacement rules, unfair trade and claims practices, the guaranty association, and Illinois-specific consumer protections. On both the Life State and the A&H State outlines, the largest single block is the statutes common to all lines — [roughly 22 of the questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf) — so that common material is worth studying once and cashing in twice.
 
-Line-specific Illinois law. The Life State exam devotes about 9 questions to life-only material: advertising and sales, replacement (Reg. 917), life solicitation and suitability (Reg. 930), viatical settlements, and the Life & Health Insurance Guaranty Association. The A&H State exam devotes about 17 questions to health-only material: Medicare supplements, long-term care and LTC Partnership, advertising, minimum standards for individual policies, and HMO and limited health service organization rules.
+Line-specific Illinois law. The Life State exam devotes [about 9 questions to life-only material](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf): advertising and sales, replacement (Reg. 917), life solicitation and suitability (Reg. 930), viatical settlements, and the Life & Health Insurance Guaranty Association. The A&H State exam devotes [about 17 questions to health-only material](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf): Medicare supplements, long-term care and LTC Partnership, advertising, minimum standards for individual policies, and HMO and limited health service organization rules.
 
 Ethics. Fiduciary duty, fair dealing, confidentiality, and agent conduct standards.
 
@@ -113,7 +113,7 @@ Illinois statutes and regulations common to all lines (State)
 
 Annuities (Life General)
 
-Because the State portions are short — 31 and 39 scored questions — a weak area there costs proportionally more than the same weak area on a General portion. Do not treat state law as the section you skim on the drive over.
+Because the State portions are short — [31 and 39 scored questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf) — a weak area there costs proportionally more than the same weak area on a General portion. Do not treat state law as the section you skim on the drive over.
 
 ## What to Expect on Test Day
 
@@ -129,7 +129,7 @@ On-screen calculator available for basic math
 
 Results appear immediately after you submit
 
-Failing candidates receive a score report showing performance by content area — use this diagnostically if you need to retake. There is a 24-hour wait before you can book a retake.
+Failing candidates receive a score report showing performance by content area — use this diagnostically if you need to retake. There is a [24-hour wait before you can book a retake](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf).
 
 ## Taking the Exam: Navigation
 
@@ -145,7 +145,7 @@ See your remaining time on screen
 
 ## Time Management
 
-Every Illinois portion is generously timed. The Life General exam gives you 85 minutes for 55 items, the Life State exam 50 minutes for 36, the A&H General exam 80 minutes for 55, and the A&H State exam 55 minutes for 44 — roughly 75 to 95 seconds per question in every case. Most candidates finish with time to spare.
+Every Illinois portion is generously timed. The Life General exam gives you [85 minutes for 55 items, the Life State exam 50 minutes for 36, the A&H General exam 80 minutes for 55, and the A&H State exam 55 minutes for 44](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf) — roughly 75 to 95 seconds per question in every case. Most candidates finish with time to spare.
 
 Strategy:
 
@@ -161,11 +161,11 @@ Never leave questions blank — guess rather than skip
 
 ## Frequently Asked Questions
 
-- How many Illinois-specific questions do I have to answer? Illinois-specific content gets its own exam, not a slice of a bigger one. The Life State exam is 31 scored questions and the Accident & Health State exam is 39 scored questions. Skip state law and you don't lose points — you fail an entire exam.
+- How many Illinois-specific questions do I have to answer? Illinois-specific content gets its own exam, not a slice of a bigger one. The [Life State exam is 31 scored questions and the Accident & Health State exam is 39 scored questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf). Skip state law and you don't lose points — you fail an entire exam.
 - Do I really have to take four exams for Life and Health? Yes. Each line has a General portion and an Illinois State portion, and both portions of a line must be passed within 90 days of each other. Life and Accident & Health are two separate lines, so that's four sittings in total.
 - Is the Illinois exam harder than other states' exams? It's comparable in difficulty to other major state exams, and the split format actually lets you focus on one body of material at a time. Preparation quality matters more than state-to-state difficulty comparisons.
 - Can I flag questions and come back to them? Yes. Pearson VUE's platform lets you flag questions and return before submitting. Use this strategy.
-- How is the score calculated? Scores run 0 to 100 with 70 as the passing mark, based on scored questions only — pretest questions don't count. But the reported number is a standardized score, not a raw percentage: per the Pearson VUE Illinois handbook, it "should not be interpreted as the percentage or number of correct answers." There's no set number of questions you need to get right.
+- How is the score calculated? Scores run 0 to 100 with 70 as the passing mark, based on scored questions only — pretest questions don't count. But the reported number is a standardized score, not a raw percentage: per the [Pearson VUE Illinois handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf), it "should not be interpreted as the percentage or number of correct answers." There's no set number of questions you need to get right.
 - Do I get detailed feedback if I pass? Passing candidates receive a score report confirming the result along with instructions for submitting the NAIC Uniform application. Failing candidates receive a numeric score and a content-area breakdown — use it diagnostically before you rebook.
 
 ## Walk In Knowing Exactly What to Expect
@@ -173,3 +173,8 @@ Never leave questions blank — guess rather than skip
 Understanding the exam's format and content makes preparation focused. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) course is structured around the real exam content outline — so every hour you spend studying is aligned with what you'll actually see on test day.
 
 Enroll today and prepare for the Illinois exams the right way.
+
+**Sources cited:**
+
+- [Pearson VUE — Illinois Insurance Candidate Handbook #121400 (exam question counts, time limits, content-outline weights, scaled-70 score, 90-day rule, 24-hour retake, $92 fee)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121400.pdf)
+- [Pearson VUE — Illinois Insurance exam scheduling](https://www.pearsonvue.com/us/en/il/insurance.html)

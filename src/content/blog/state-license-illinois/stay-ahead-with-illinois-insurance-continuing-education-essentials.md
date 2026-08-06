@@ -32,14 +32,14 @@ If you are still on the path to becoming a licensed insurance producer in Illino
 2.  Schedule the exam: Once you finish your required hours, schedule your licensing exam with an approved testing provider. Give yourself extra study time to review [practice questions](/illinois/practice-exam) and class materials.
 3.  Take the licensing exam: Arrive early on test day, bring proper identification, and stay focused. Passing scores demonstrate your mastery of the core insurance principles you’ll need in the field.
 4.  Apply to the [Illinois Department of Insurance](/illinois/requirements): After passing the exam, submit your application and pay the necessary fees. Take note of the instructions for each coverage type, as requirements can differ slightly depending on what you plan to sell.
-5.  Complete the background disclosure: Illinois does not require fingerprinting for most resident producer applicants — instead, you answer background disclosure questions on your application and produce relevant documents to prove you meet the state’s standards of trustworthiness and reliability.
+5.  Complete the background disclosure: [Illinois does not require fingerprinting for most resident producer applicants](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html) — instead, you answer background disclosure questions on your application and produce relevant documents to prove you meet the state’s standards of trustworthiness and reliability.
 6.  Maintain your new license: Once issued, you can market your services and serve clients in your chosen lines of authority. From here, you are ready for the upcoming renewal cycles and continuing education courses.
 
 Pay close attention to the fees and deadlines at each stage. Pre-licensing course costs, exam fees, and application expenses can vary, so factor these into your budget. This preparation allows you to avoid financial surprises and stay focused on learning the material that sets you up for success.
 
 ## Meeting renewal requirements
 
-Your real work with Illinois insurance continuing education begins once your license is active. Illinois requires most producers to complete at least 24 hours of approved CE every two-year period. However, you should confirm your specific lines of authority, as some licenses need specialized topics in areas like long-term care or flood insurance.
+Your real work with Illinois insurance continuing education begins once your license is active. Illinois requires most producers to complete [at least 24 hours of approved CE every two-year period](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html). However, you should confirm your specific lines of authority, as some licenses need specialized topics in areas like long-term care or flood insurance.
 
 If you are juggling multiple responsibilities, it helps to create a study schedule for your CE courses. Look over the content offerings available from state-approved providers, select the ones that fit your focus area, and organize your hours so you are not rushing at the last minute. Many agents find value in a combination of self-paced online modules and live webinars, which allow you to interact with instructors and ask clarifying questions in real time.
 
@@ -61,3 +61,8 @@ Even simple strategies, like setting aside a half-hour after work each day to re
 Illinois insurance continuing education is not just a requirement. It is a career asset that keeps you relevant in a rapidly changing field. By planning your licensing journey carefully and treating continuing education like a professional investment, you lay the groundwork for sustained success.
 
 If you ever find yourself uncertain about your renewal timeline or searching for specialized training, JustInsurance offers user-friendly resources to help you navigate the entire process. Invest in the right programs, meet your CE requirements, and stay committed to excellence. Your future self, and your clients, will thank you for making the effort to keep your knowledge fresh and your license active.
+
+**Sources cited:**
+
+- [IDOI — Renew Your Resident Producer License (24 CE hours per two-year cycle)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html)
+- [IDOI — Become a Resident Producer (background disclosure; no fingerprinting for most applicants)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html)

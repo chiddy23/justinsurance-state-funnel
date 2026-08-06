@@ -23,7 +23,7 @@ Here's what Illinois requires when replacement is on the table.
 
 ## What Counts as a Replacement in Illinois
 
-Under Illinois regulations, a replacement occurs when an existing life insurance policy or annuity contract is — or will be — lapsed, forfeited, surrendered, reduced in value, pledged as collateral, or otherwise materially changed in connection with the purchase of a new policy.
+Under [Illinois regulations](https://www.law.cornell.edu/regulations/illinois/title-50/part-917), a replacement occurs when an existing life insurance policy or annuity contract is — or will be — lapsed, forfeited, surrendered, reduced in value, pledged as collateral, or otherwise materially changed in connection with the purchase of a new policy.
 
 The critical phrase is "in connection with." Even if the existing policy isn't formally cancelled, any transaction that affects it as part of a new sale triggers replacement rules.
 
@@ -47,7 +47,7 @@ The insurer issuing the replacement policy has specific obligations:
 
 Notify the existing insurer that a replacement is occurring
 
-Provide the existing insurer an opportunity to conserve the business — the existing insurer can contact the client to explain what they'd be losing
+Provide the existing insurer an [opportunity to conserve the business](https://www.law.cornell.edu/regulations/illinois/title-50/part-917) — the existing insurer can contact the client to explain what they'd be losing
 
 Retain replacement documentation for the required period
 
@@ -57,7 +57,7 @@ This process exists to protect consumers. When the existing insurer is notified,
 
 Illinois prohibits practices that turn legitimate replacement into consumer harm:
 
-Twisting. Using misrepresentation to induce a client to replace existing coverage — whether by misrepresenting the existing policy's features or exaggerating the new policy's benefits. This is a direct violation of Illinois's unfair trade practices rules.
+Twisting. Using misrepresentation to induce a client to replace existing coverage — whether by misrepresenting the existing policy's features or exaggerating the new policy's benefits. This is a direct violation of Illinois's [unfair trade practices rules](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22).
 
 Churning. Replacing a client's own policies repeatedly to generate commissions without providing genuine client benefit. IDOI tracks patterns, and agents with multiple clients showing repeated replacements face churning investigations.
 
@@ -152,3 +152,8 @@ The cost of getting replacement right is minimal. The cost of getting it wrong c
 Replacement catches more Illinois agents off guard than almost any other compliance area. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover replacement in practical detail — so you can serve your clients and protect your license simultaneously.
 
 Enroll today and master Illinois replacement rules with confidence.
+
+**Sources cited:**
+
+- [50 Ill. Adm. Code Part 917 — Life Insurance and Annuity Replacement (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/title-50/part-917)
+- [215 ILCS 5, Article XXVI — Unfair Methods of Competition and Deceptive Acts and Practices (Illinois General Assembly)](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22)

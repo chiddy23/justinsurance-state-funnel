@@ -28,7 +28,7 @@ The rules exist because claim time is when policyholders are most vulnerable —
 
 ## Practices Specifically Prohibited Under Illinois Law
 
-Illinois law identifies specific practices considered unfair. The most important ones include:
+[Illinois law identifies specific practices considered unfair](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K154.6.htm). The most important ones include:
 
 Misrepresenting policy provisions relating to coverage. Telling a claimant that a loss isn't covered when the policy actually covers it, or twisting policy language to minimize a claim.
 
@@ -52,7 +52,7 @@ Misrepresenting insurance facts or policy provisions. Similar to misrepresentati
 
 ## The Illinois Response Requirements
 
-Illinois has specific rules about response timeframes for claims:
+Illinois has [specific rules about response timeframes for claims](https://www.law.cornell.edu/regulations/illinois/title-50/part-919):
 
 Acknowledgment of claim receipt. Insurers must acknowledge receipt of a claim within a reasonable timeframe.
 
@@ -133,3 +133,8 @@ Agents should be familiar with this resource. When clients face claims difficult
 Understanding claims handling rules makes you a better advisor and a more trusted agent. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover Illinois insurance law — including claims handling regulations — in clear, practical language.
 
 Enroll today and become the kind of agent clients rely on when things get tough.
+
+**Sources cited:**
+
+- [215 ILCS 5/154.6 — Acts Constituting Improper Claims Practice (Illinois General Assembly)](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K154.6.htm)
+- [50 Ill. Adm. Code Part 919 — Improper Claims Practice (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/title-50/part-919)

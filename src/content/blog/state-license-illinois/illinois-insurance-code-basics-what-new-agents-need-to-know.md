@@ -23,7 +23,7 @@ Here are the most important areas of the Illinois Insurance Code every new agent
 
 ## What the Illinois Insurance Code Is
 
-The Illinois Insurance Code is the statutory framework that regulates insurance in the state. It's administered by the Illinois Department of Insurance (IDOI), led by the Director of Insurance who is appointed by the Governor.
+The [Illinois Insurance Code](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22) is the statutory framework that regulates insurance in the state. It's administered by the Illinois Department of Insurance (IDOI), led by the Director of Insurance who is appointed by the Governor.
 
 The Code covers everything from licensing and agent duties to policy forms, claims handling, consumer protections, and enforcement. Every licensed agent, broker, adjuster, and insurance company operating in Illinois is bound by it.
 
@@ -33,15 +33,15 @@ As a working agent, you don't need to memorize every section — but you do need
 
 Licensing and Producer Conduct. These sections cover who can be licensed, what qualifications are required, standards of conduct expected, and IDOI's authority to discipline licensees. This is the foundation of your legal authority as an Illinois agent.
 
-Unfair Methods of Competition and Unfair Practices. Illinois prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more. Violations here are the most common source of agent disciplinary action.
+[Unfair Methods of Competition and Unfair Practices](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22). Illinois prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more. Violations here are the most common source of agent disciplinary action.
 
-Replacement of Life Insurance and Annuities. Specific rules govern the replacement of existing life insurance and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are covered.
+[Replacement of Life Insurance and Annuities](https://www.law.cornell.edu/regulations/illinois/title-50/part-917). Specific rules govern the replacement of existing life insurance and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are covered.
 
-Unfair Claims Settlement Practices. Rules governing how claims must be handled by insurers and adjusters. Agents need to understand these to advise clients when claims don't go smoothly.
+[Unfair Claims Settlement Practices](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K154.6.htm). Rules governing how claims must be handled by insurers and adjusters. Agents need to understand these to advise clients when claims don't go smoothly.
 
 Free-Look Periods. Illinois requires free-look periods on life insurance and annuity contracts, with longer periods for replacement policies.
 
-Life Insurance Policy Lapse and Grace Periods. Illinois has specific provisions governing grace periods, reinstatement rights, and the process for policy lapse.
+[Life Insurance Policy Lapse and Grace Periods](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K224.htm). Illinois has specific provisions governing grace periods, reinstatement rights, and the process for policy lapse.
 
 Consumer Protection Laws. Provisions that protect policyholders during the sales process, policy delivery, and ongoing service.
 
@@ -49,7 +49,7 @@ Small Employer Health Insurance. Illinois regulates the small employer health ma
 
 Long-Term Care Insurance Standards. Specific rules for LTC sales, including training requirements, disclosure standards, and benefit requirements.
 
-Annuity Suitability and Best Interest. When recommending an annuity, Illinois requires producers to act in the consumer's best interest — a higher bar than the older "reasonable basis" suitability test — by meeting obligations of care, disclosure, conflict-of-interest management, and documentation under 50 Ill. Adm. Code 3120. This best-interest standard applies to every annuity consumer, not only seniors.
+Annuity Suitability and Best Interest. When recommending an annuity, Illinois requires producers to act in the consumer's best interest — a higher bar than the older "reasonable basis" suitability test — by meeting obligations of care, disclosure, conflict-of-interest management, and documentation under [50 Ill. Adm. Code 3120](https://www.law.cornell.edu/regulations/illinois/title-50/part-3120). This best-interest standard applies to every annuity consumer, not only seniors.
 
 Privacy and Information Protection. How you collect, store, and share client information is regulated under both Illinois law and federal frameworks like HIPAA and GLBA.
 
@@ -148,3 +148,11 @@ When uncertain, ask. IDOI and reputable industry attorneys can provide guidance 
 The Illinois Insurance Code is extensive but navigable once you know the sections that apply to your work. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover the Code in practical, plain language — not legal jargon.
 
 Enroll today and start your Illinois career with the compliance knowledge to protect it.
+
+**Sources cited:**
+
+- [215 ILCS 5 — Illinois Insurance Code, including Article XXVI (Unfair Methods of Competition and Deceptive Acts and Practices) (Illinois General Assembly)](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22)
+- [50 Ill. Adm. Code Part 917 — Life Insurance and Annuity Replacement (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/title-50/part-917)
+- [215 ILCS 5/154.6 — Acts Constituting Improper Claims Practice (Illinois General Assembly)](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K154.6.htm)
+- [215 ILCS 5/224 — Standard Provisions for Life Policies (Illinois General Assembly)](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K224.htm)
+- [50 Ill. Adm. Code Part 3120 — Suitability in Annuity Transactions (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/title-50/part-3120)

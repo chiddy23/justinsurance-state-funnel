@@ -26,7 +26,7 @@ Illinois's Department of Insurance (IDOI) requires licensed insurance producers 
 
 For most Illinois Life, Accident, and Health producers, the standard requirement is:
 
-24 hours of CE every 2 years
+[24 hours of CE every 2 years](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html)
 
 3 hours must be in Ethics
 
@@ -108,7 +108,7 @@ Reputable CE providers always list their IDOI approval clearly. Providers that c
 
 The most important thing to understand about Illinois CE reporting: you don't manually submit CE hours to IDOI yourself. Your approved course provider does it electronically.
 
-When you complete a course through an IDOI-approved provider, the provider is required to report your completion to IDOI within a specific timeframe — typically within 30 days. This automated reporting is a core requirement of maintaining IDOI approval.
+When you complete a course through an IDOI-approved provider, the provider is required to [report your completion to IDOI](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html) within a specific timeframe — typically within 30 days. This automated reporting is a core requirement of maintaining IDOI approval.
 
 ## What Happens If You Miss the Deadline
 
@@ -153,7 +153,7 @@ These specialty requirements are in addition to — not part of — your standar
 ## 5 Frequently Asked Questions
 
 - When exactly is my Illinois CE due? Your CE is tied to your 2-year renewal cycle based on your original license date. Confirm your specific date through IDOI's producer portal or Sircon.
-- Can I carry over extra CE hours to the next renewal cycle? Yes — up to 12 unused CE hours carry into the next 2-year period. Ethics hours never carry over: a new 3-hour classroom or webinar ethics course is required every cycle (50 Ill. Adm. Code 3119.45).
+- Can I carry over extra CE hours to the next renewal cycle? Yes — up to 12 unused CE hours carry into the next 2-year period. Ethics hours never carry over: a new 3-hour classroom or webinar ethics course is required every cycle ([50 Ill. Adm. Code 3119.45](https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-50-SS-3119.45)).
 - Are online CE courses accepted in Illinois? Yes. IDOI accepts approved online courses, and most agents complete CE online at their own pace.
 - Does the Ethics requirement change every cycle? The 3-hour Ethics requirement applies to every 2-year cycle. You must complete it each renewal period.
 - What if I hold licenses in multiple states? Illinois CE satisfies Illinois requirements. Other states have their own CE rules — though many states have home-state reciprocity that allows Illinois CE to satisfy non-resident obligations. Verify with each state.
@@ -163,3 +163,8 @@ These specialty requirements are in addition to — not part of — your standar
 Illinois CE is manageable with a plan. At JustInsurance, our Illinois CE courses are IDOI-approved, current, and cover the mandatory ethics requirement — so you can renew your license without last-minute scrambling.
 
 Enroll in our Illinois CE courses today and keep your license active with confidence.
+
+**Sources cited:**
+
+- [IDOI — Renew Your Resident Producer License (24 CE hours incl. 3 live-instruction ethics; SBS reporting)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html)
+- [50 Ill. Adm. Code 3119.45 — CE and ethics requirements (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-50-SS-3119.45)

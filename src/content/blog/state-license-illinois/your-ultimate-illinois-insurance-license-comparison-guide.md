@@ -64,7 +64,7 @@ Note that taking a combined Life & Health or Property & Casualty license typical
 
 ## Review the [pre-licensing requirements](/illinois/prelicensing)
 
-Once you have pinned down the license or combination you want, the official next step is to complete your mandatory pre-licensing coursework. In Illinois, this typically involves 20 hours of training per insurance line, with at least 7.5 of those hours delivered through a live or interactive format. That means you can study online through self-study modules, but you also need something more hands-on, like webinars or in-person classes. JustInsurance offers the Life and Health prelicensing courses; property and casualty prelicensing is completed through a state-approved P&C provider.
+Once you have pinned down the license or combination you want, the official next step is to complete your mandatory pre-licensing coursework. In Illinois, this typically involves [20 hours of training per insurance line, with at least 7.5 of those hours delivered through a live or interactive format](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html). That means you can study online through self-study modules, but you also need something more hands-on, like webinars or in-person classes. JustInsurance offers the Life and Health prelicensing courses; property and casualty prelicensing is completed through a state-approved P&C provider.
 
 It is critical to look for reputable programs that are authorized by the state. Valid pre-licensing courses provide a certificate of completion, which you will need to show when you register for the final licensing exam. On top of meeting the formal hour requirement, aim to pick a course that fits your learning style. Some providers offer extra practice quizzes, flashcards, and instructor support, which can make a big difference in your overall comfort on test day.
 
@@ -88,7 +88,7 @@ Many test-takers benefit from arriving early on exam day and setting aside a lit
 
 ## Plan for costs and fees
 
-Whether you are going for a single line or combining two insurance licenses, it is essential to be aware of the financial details. Beyond the cost of your pre-licensing course, you will pay a $92 Pearson VUE fee for each exam portion — Illinois splits every major-line exam into a General portion and a State portion, so budget $184 per line unless you book both portions together on the same order for a discount. Illinois does not require fingerprinting for most resident applicants — the state relies on application disclosures instead, so you can budget $0 for that step in most cases.
+Whether you are going for a single line or combining two insurance licenses, it is essential to be aware of the financial details. Beyond the cost of your pre-licensing course, you will pay a [$92 Pearson VUE fee for each exam portion](https://home.pearsonvue.com/il/insurance) — [Illinois splits every major-line exam into a General portion and a State portion](https://idoi.illinois.gov/producers/licensescertificationsfaqs/faqs-producer-licensing-exam-changes-pearsonvuetesting.html), so budget $184 per line unless you book both portions together on the same order for a discount. [Illinois does not require fingerprinting for most resident applicants](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html) — the state relies on application disclosures instead, so you can budget $0 for that step in most cases.
 
 Additionally, you will need to pay the state license application fee, which can vary based on your combined or single line of authority. It is safest to set aside extra funds for any unforeseen costs, including study materials or retake fees, just in case. Being prepared for these expenses prevents last-minute stress and keeps you focused on your studies rather than scrambling for cash.
 
@@ -105,3 +105,9 @@ Finally, remember that education does not stop once you have your license in han
 Feel free to put one of these steps into action right away, whether it is researching pre-licensing programs or mapping out your study schedule. The path to securing your insurance license might seem lengthy, but it is a manageable process when broken into clear tasks. And if you ever feel stuck, reach out to resources like JustInsurance for practical tips you can apply in your day-to-day work.
 
 Take your time, plan carefully, and watch each requirement fall into place. Before long, you will be working with clients throughout Illinois, confidently guiding them toward insurance solutions that protect their homes, businesses, or loved ones. Good luck on your journey toward becoming a licensed insurance agent in the Prairie State. Your future success hinges on the knowledge you build today, so stay motivated and keep an eye on your ultimate goal.
+
+**Sources cited:**
+
+- [IDOI – How to Become a Resident Producer (prelicensing hours, fingerprint policy)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html)
+- [IDOI – Producer Licensing Exam Changes / Pearson VUE (General + State split)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/faqs-producer-licensing-exam-changes-pearsonvuetesting.html)
+- [Pearson VUE – Illinois Insurance (exam fee)](https://home.pearsonvue.com/il/insurance)

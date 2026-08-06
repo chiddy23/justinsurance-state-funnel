@@ -32,11 +32,11 @@ Before accessing NIPR for your Illinois application, you should have:
 
 Completed your 40 hours of [prelicense](/illinois/prelicensing) education (for Life, Accident, and Health)
 
-Passed your Pearson VUE state exam
+Passed your [Pearson VUE state exam](https://home.pearsonvue.com/il/insurance)
 
 Gathered your personal information and identification
 
-Prepared to pay the application fee (approximately $215)
+Prepared to pay the [application fee (approximately $215)](https://nipr.com/licensing-center/state-information/illinois)
 
 Thought through how you'll answer the disclosure questions
 
@@ -179,3 +179,8 @@ Unpaid application fees. Submissions without successful payment aren't processed
 Understanding NIPR's process saves you time and prevents common delays. At JustInsurance, our Illinois prelicense course prepares you for the exam and helps you understand the full licensing path — including NIPR application best practices.
 
 Enroll today and move through the Illinois licensing process with confidence.
+
+**Sources cited:**
+
+- [NIPR — Illinois State Licensing Information](https://nipr.com/licensing-center/state-information/illinois)
+- [Pearson VUE — Illinois Insurance Licensing](https://home.pearsonvue.com/il/insurance)

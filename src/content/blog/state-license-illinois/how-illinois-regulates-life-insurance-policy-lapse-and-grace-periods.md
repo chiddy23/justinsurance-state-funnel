@@ -37,7 +37,7 @@ Grace periods exist because people miss payments for all kinds of reasons — ch
 
 ## Illinois's Required Grace Periods
 
-Illinois law requires life insurance policies to include grace period provisions. Standard grace periods typically include:
+[Illinois law requires life insurance policies to include grace period provisions](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K224.htm). Standard grace periods typically include:
 
 Monthly premium policies. Grace periods of at least 30 days from the due date.
 
@@ -79,7 +79,7 @@ Reinstatement options may apply. Most policies allow reinstatement within a spec
 
 ## Reinstatement Rights
 
-Illinois law provides specific reinstatement rights for lapsed policies. Standard reinstatement provisions typically include:
+[Illinois law provides specific reinstatement rights for lapsed policies](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K224.htm). Standard reinstatement provisions typically include:
 
 Time window. Reinstatement is typically available for a period after lapse — often 3-5 years depending on the policy.
 
@@ -105,7 +105,7 @@ These notice requirements exist to prevent unnecessary lapses. Policyholders who
 
 ## Non-Forfeiture Provisions
 
-Illinois requires whole life and universal life policies to include non-forfeiture provisions. These provisions protect policyholders who stop paying premiums on cash value policies:
+[Illinois requires whole life and universal life policies to include non-forfeiture provisions](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K224.htm). These provisions protect policyholders who stop paying premiums on cash value policies:
 
 Cash surrender value. The policyholder can surrender the policy and receive the current cash value.
 
@@ -170,3 +170,7 @@ Document everything. Conversations about lapse issues should be thoroughly docum
 Understanding grace periods, lapse rules, and non-forfeiture provisions makes you a better advisor. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover life insurance provisions — including lapse and grace period rules — in practical depth.
 
 Enroll today and build the knowledge to genuinely serve your Illinois clients.
+
+**Sources cited:**
+
+- [215 ILCS 5/224 — Standard Provisions for Life Policies: grace period, reinstatement, and nonforfeiture (Illinois General Assembly)](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K224.htm)

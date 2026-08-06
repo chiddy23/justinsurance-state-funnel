@@ -23,7 +23,7 @@ Here's what you need to know about Illinois fingerprinting for insurance licensu
 
 ## The Traditional Illinois Approach
 
-Historically, Illinois has not required fingerprinting for most resident insurance producer applicants. This distinguishes Illinois from states like California, Texas, and Florida, where fingerprinting is a mandatory step for every applicant.
+Historically, [Illinois has not required fingerprinting for most resident insurance producer applicants](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html). This distinguishes Illinois from states like California, Texas, and Florida, where fingerprinting is a mandatory step for every applicant.
 
 Illinois has relied on:
 
@@ -109,7 +109,7 @@ Prepare disclosure responses. Be ready to answer detailed questions about your h
 
 Collect supporting documentation. If you have disclosures that require documentation — court records, dispositions, rehabilitation evidence — have it ready.
 
-Budget for fees. Application fees are approximately $215 for resident producers. Add exam fees, prelicense course fees, and any other costs.
+Budget for fees. Application fees are [approximately $215 for resident producers](https://nipr.com/licensing-center/state-information/illinois). Add exam fees, prelicense course fees, and any other costs.
 
 Plan for exam completion. Your exam must be completed before you submit your application.
 
@@ -152,3 +152,8 @@ Illinois's approach is efficient for most applicants but doesn't mean background
 Understanding Illinois's approach to background verification helps you prepare an accurate, complete application. At JustInsurance, our Illinois prelicense course prepares you for the exam and helps you understand the full licensing process.
 
 Enroll today and start your Illinois insurance career with clarity about every step.
+
+**Sources cited:**
+
+- [IDOI – How to Become a Resident Producer (background/fingerprint requirements)](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html)
+- [NIPR – Illinois licensing (application fees)](https://nipr.com/licensing-center/state-information/illinois)

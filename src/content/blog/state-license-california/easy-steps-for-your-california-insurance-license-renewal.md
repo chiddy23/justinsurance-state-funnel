@@ -21,13 +21,13 @@ If you live in California and plan to keep your insurance license active, you mi
 
 ## Check your basic requirements
 
-Every renewal starts with knowing what your license covers, how often you need to renew, and which specific guidelines apply to you. The [California Department of Insurance](/california/requirements) generally requires you to renew your individual insurance license every two years. To ensure you meet these requirements, begin by confirming the status of your license on the Department of Insurance website or by contacting their customer support.
+Every renewal starts with knowing what your license covers, how often you need to renew, and which specific guidelines apply to you. The [California Department of Insurance](/california/requirements) generally requires you to [renew your individual insurance license every two years](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1630). To ensure you meet these requirements, begin by confirming the status of your license on the Department of Insurance website or by contacting their customer support.
 
 Give yourself a little extra time before your license expires, especially if this is your first time renewing. If you wait until the last minute, you might miss a deadline or run into unexpected delays. Renewing promptly also signals to clients and colleagues that you are committed to professional standards.
 
 ## Meet your continuing education obligations
 
-California insurance professionals must typically complete [continuing education](/california/continuing-education) (CE) courses to stay current with industry knowledge. For most license types, you need 24 hours of state-approved CE credits every two years. Out of those, 3 hours must focus on ethics training. Although 24 hours may seem like a lot, spacing out your coursework throughout the two-year period makes it manageable.
+California insurance professionals must typically complete [continuing education](/california/continuing-education) (CE) courses to stay current with industry knowledge. For most license types, you need [24 hours of state-approved CE credits every two years](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/). Out of those, [3 hours must focus on ethics training](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/). Although 24 hours may seem like a lot, spacing out your coursework throughout the two-year period makes it manageable.
 
 Put together a realistic plan for your CE credits and explore options that fit your schedule and learning style. Look for flexible online courses or classroom sessions that align with your specialty. Taking courses that genuinely interest you, such as marketing products to underserved populations or understanding new policy regulations, can also make the hours feel more rewarding.
 
@@ -66,3 +66,8 @@ The courses are broken into modules you can start, pause, and resume around your
 Renewing a California insurance license does not have to be a complicated process. By taking it one phase at a time—verifying your existing license requirements, meeting continuing education deadlines, and submitting documentation well before your expiration date—you can maintain an active license without stress. Staying current on regulations also benefits your clients and sets you apart as a committed professional in the insurance field.
 
 If you are ready to knock out your hours, you can enroll in a JustInsurance California [continuing education](/california/continuing-education) package and work through it at your own pace. For anything specific to your own record—your renewal date, your fee, or how many credits the state has posted for you—the California Department of Insurance is the authority to check. With the right preparation, you can tackle your California insurance license renewal efficiently, and keep focusing on what you do best—providing practical insurance solutions to Californians in need.
+
+**Sources cited:**
+
+- [Cal. Ins. Code § 1630 — two-year license term (leginfo.legislature.ca.gov)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1630)
+- [CDI — Continuing Education (24 hours / 3 hours ethics)](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/)

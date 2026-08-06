@@ -48,7 +48,7 @@ The typical process:
 
 Step 1 — Confirm your California license is active. Your home state license must be in good standing.
 
-Step 2 — Apply through NIPR. The National Insurance Producer Registry (NIPR) is the standard online portal for non-resident applications. It's available at nipr.com.
+Step 2 — Apply through NIPR. The National Insurance Producer Registry (NIPR) is the standard online portal for non-resident applications. It's available at [nipr.com](https://nipr.com).
 
 Step 3 — Pay the destination state's fees. Each state sets its own non-resident licensing fees. Fees typically range from $25 to $200 depending on the state.
 
@@ -63,7 +63,7 @@ You don't need to retake prelicense education or sit for another state exam. The
 A non-resident license authorizes you to conduct insurance business with clients in that state. However:
 
 - You must comply with that state's laws while doing business there
-- You must complete any CE requirements specific to that state (though home state CE often satisfies nonresident requirements — verify state-by-state)
+- You must complete any CE requirements specific to that state (though [home state CE often satisfies nonresident requirements](https://www.insurance.ca.gov/0200-industry/0090-faq/general-faq/nonresident.cfm) — verify state-by-state)
 - Your non-resident license is tied to your California license — if California is lost, non-resident licenses are typically lost too
 - Some states require appointment with an insurer before you can conduct business
 
@@ -77,8 +77,8 @@ Exceptions exist. Some states require specific non-resident CE in certain areas.
 
 A few states have unique requirements that go beyond standard reciprocity:
 
-- Some states require specific training for annuity sales even for non-residents
-- Long-term care sales may require separate certification in some states
+- [Some states require specific training for annuity sales even for non-residents](https://www.insurance.ca.gov/0200-industry/0090-faq/general-faq/nonresident.cfm)
+- [Long-term care sales may require separate certification in some states](https://www.insurance.ca.gov/0200-industry/0090-faq/general-faq/nonresident.cfm)
 - Certain specialty products have state-specific training requirements
 - A few states may require additional documentation or oaths
 
@@ -113,3 +113,8 @@ Expanding your practice. Some niches (Medicare, annuities, high-net-worth) benef
 A California resident license opens doors well beyond the state. At JustInsurance, our California prelicense course gets you licensed in one of the most respected state frameworks in the country, positioning you to serve clients nationwide through reciprocity.
 
 Enroll today and build a California-based career with national reach.
+
+**Sources cited:**
+
+- [Non-Resident Licensing FAQ — California Department of Insurance](https://www.insurance.ca.gov/0200-industry/0090-faq/general-faq/nonresident.cfm)
+- [NIPR — National Insurance Producer Registry](https://nipr.com)

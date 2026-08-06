@@ -34,19 +34,19 @@ California requires all applicants for the resident Life, Accident, and Health I
 
 The standard requirement is:
 
-- 12 hours of California Insurance Code and Ethics coursework
+- [12 hours of California Insurance Code and Ethics coursework](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/)
 
-That's a combined 12 hours total under AB 943 (effective January 1, 2026), which eliminated all line-specific prelicense hours. Only the 12-hour California Insurance Code and Ethics course is required.
+That's a combined 12 hours total under [AB 943 (effective January 1, 2026)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943), which eliminated all line-specific prelicense hours. Only the 12-hour California Insurance Code and Ethics course is required.
 
 Prelicense education must be completed through a CDI-approved provider. You'll receive a certificate of completion once you finish, which is required to schedule the exam.
 
 ## Step 3: Schedule Your State Exam
 
-California insurance licensing exams are administered by PSI Exams Online. Once your prelicense education is complete:
+California insurance licensing exams are administered by [PSI Exams Online](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/). Once your prelicense education is complete:
 
 - Register at psiexams.com
 - Schedule your exam at a California testing center
-- Pay the exam fee ($98 per exam attempt)
+- Pay the [exam fee ($98 per exam attempt)](https://www.insurance.ca.gov/0200-industry/0045-lic-fees/)
 - Bring two forms of valid ID on test day — one must be government-issued with a photo
 - Exam seats are usually available within a week or two, though high-demand testing sites can take longer.
 
@@ -56,7 +56,7 @@ The California Life, Accident, and Health exam:
 
 - Contains 150 questions
 - Gives you 3 hours to complete it
-- Requires a score of 60% to pass
+- Requires a [score of 60% to pass](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)
 
 You'll see your pass/fail result immediately after finishing. Failed candidates receive a printed breakdown of performance by content area.
 
@@ -68,7 +68,7 @@ The fingerprint check runs through both California Department of Justice and FBI
 
 ## Step 6: Submit Your License Application
 
-You can apply for your license through Sircon or NIPR — both are CDI-approved online portals for submitting license applications. The application fee is paid at submission (fees vary depending on license line, but budget around $188 for initial Life, Accident, and Health licensing).
+You can apply for your license through Sircon or NIPR — both are CDI-approved online portals for submitting license applications. The application fee is paid at submission (fees vary depending on license line, but budget around [$188 for initial Life, Accident, and Health licensing](https://www.insurance.ca.gov/0200-industry/0045-lic-fees/)).
 
 Your application will include:
 
@@ -95,9 +95,9 @@ From starting your prelicense course to holding your license in hand, most Calif
 
 2. Can I take the prelicense course online? Yes. CDI accepts approved online prelicense education, and most candidates complete it at their own pace online.
 
-3. What happens if I fail the exam? You can retake it, and there's no mandatory waiting period between attempts — you just schedule the next available date. Each retake requires a new PSI registration and fee. California does cap attempts, though: under Cal. Ins. Code § 1682, you can't be admitted to more than 10 license qualification examinations of the same type in any 12-month period. Hit 10, and you're locked out of that exam type until 12 months have passed from the tenth one. In practice that's a ceiling almost nobody reaches, but it's a real statutory limit — not an unlimited retake policy.
+3. What happens if I fail the exam? You can retake it, and there's no mandatory waiting period between attempts — you just schedule the next available date. Each retake requires a new PSI registration and fee. California does cap attempts, though: under [Cal. Ins. Code § 1682](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1682), you can't be admitted to more than 10 license qualification examinations of the same type in any 12-month period. Hit 10, and you're locked out of that exam type until 12 months have passed from the tenth one. In practice that's a ceiling almost nobody reaches, but it's a real statutory limit — not an unlimited retake policy.
 
-4. How long is my California license valid? It is not permanent. California producer licenses run a two-year term. Under Cal. Ins. Code § 1630, the term ends in the second succeeding year on the last calendar day of the month your initial license was issued — so a license issued in March expires on March 31 two years later, and every two years after that. To renew, you complete 24 hours of CE including 3 hours of ethics. Renew late and you pay a 50% penalty fee and re-file your carrier appointments; go more than one year past expiration and you start over with a new application.
+4. How long is my California license valid? It is not permanent. California producer licenses run a two-year term. Under [Cal. Ins. Code § 1630](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1630), the term ends in the second succeeding year on the last calendar day of the month your initial license was issued — so a license issued in March expires on March 31 two years later, and every two years after that. To renew, you complete [24 hours of CE including 3 hours of ethics](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/). Renew late and you pay a 50% penalty fee and re-file your carrier appointments; go more than one year past expiration and you start over with a new application.
 
 5. Does California reciprocate with other states? Yes. Once you hold a California resident license, you can apply for non-resident licenses in most other states relatively easily.
 
@@ -106,3 +106,13 @@ From starting your prelicense course to holding your license in hand, most Calif
 California's licensing process rewards applicants who take each step seriously. At JustInsurance, our California prelicense course is built specifically for the CDI exam — covering the Life, Accident & Health material plus the mandatory California Insurance Code and Ethics hours.
 
 Enroll today and take your first step toward a California insurance license.
+
+**Sources cited:**
+
+- [CDI — 12 Hours of Ethics & California Insurance Code prelicensing FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/)
+- [California Assembly Bill 943 (2025) — leginfo.legislature.ca.gov](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [CDI — Producer Examination Information (PSI, passing score)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)
+- [CDI — Producer Licensing Fees ($98 exam, $188 filing)](https://www.insurance.ca.gov/0200-industry/0045-lic-fees/)
+- [Cal. Ins. Code § 1682 — 10-exam cap per 12 months (leginfo.legislature.ca.gov)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1682)
+- [Cal. Ins. Code § 1630 — two-year license term (leginfo.legislature.ca.gov)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1630)
+- [CDI — Continuing Education](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/)

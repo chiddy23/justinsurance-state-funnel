@@ -47,7 +47,7 @@ The process is similar to getting your initial license — with some key differe
 
 Step 1 — Check your education requirement. For most producers, there isn't one.
 
-As of January 1, 2026, California no longer requires line-specific [prelicense](/california/prelicensing) education under AB 943. No additional prelicense coursework is required to add a new line of authority:
+As of January 1, 2026, California no longer requires line-specific [prelicense](/california/prelicensing) education under [AB 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943). No additional prelicense coursework is required to add a new line of authority:
 
 - Life: None (eliminated by AB 943, effective January 1, 2026)
 - Accident and Health: None (eliminated by AB 943, effective January 1, 2026)
@@ -55,17 +55,17 @@ As of January 1, 2026, California no longer requires line-specific [prelicense](
 - Casualty: None (eliminated by AB 943, effective January 1, 2026)
 - Personal Lines: None (eliminated by AB 943, effective January 1, 2026)
 
-The one piece of prelicensing education California still requires is the 12-hour Code and Ethics course, and that is a one-time requirement for resident producers. If you completed it for your initial license, you do not repeat it to add a line.
+The one piece of prelicensing education California still requires is the [12-hour Code and Ethics course](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/), and that is a one-time requirement for resident producers. If you completed it for your initial license, you do not repeat it to add a line.
 
 So Step 1 is really a decision, not a requirement: you can go straight to the exam, or you can take a course for the new line as exam preparation. A prep course is optional. CDI does not require a completion certificate to schedule or sit for the exam on an added line.
 
 Step 2 — Schedule your exam.
 
-Register with PSI Exams Online for the specific line of authority you're adding. Pay the exam fee. Each line has its own state exam.
+Register with [PSI Exams Online](https://test-takers.psiexams.com/) for the specific line of authority you're adding. Pay the exam fee. Each line has its own state exam.
 
 Step 3 — Pass the exam.
 
-The exam for each line focuses on that line's content. For example, the Property exam tests property insurance concepts and California-specific property insurance law. You need 60% to pass.
+The exam for each line focuses on that line's content. For example, the Property exam tests property insurance concepts and California-specific property insurance law. You need [60% to pass](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/).
 
 Step 4 — Submit the endorsement request to CDI.
 
@@ -91,11 +91,11 @@ Total time is typically 2 to 4 weeks from booking your exam to having the new li
 
 Here's the good news most agents don't expect: adding a line of authority does not increase your base CE hours.
 
-California requires 24 hours of CE, including 3 hours of ethics, per two-year license term — in total, not per license type. CDI states it plainly: for licensees who hold one or more of the Life-Only, Accident and Health, Property Broker-Agent, Casualty Broker-Agent, or Personal Lines Broker-Agent license types, "the 24 hours of CE may be completed in courses applicable for any of the license types held." A producer holding Life-Only, Accident and Health, and Property and Casualty simultaneously still completes 24 combined hours per term (Cal. Ins. Code § 1749.3).
+California requires [24 hours of CE, including 3 hours of ethics, per two-year license term](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/) — in total, not per license type. CDI states it plainly: for licensees who hold one or more of the Life-Only, Accident and Health, Property Broker-Agent, Casualty Broker-Agent, or Personal Lines Broker-Agent license types, "the 24 hours of CE may be completed in courses applicable for any of the license types held." A producer holding Life-Only, Accident and Health, and Property and Casualty simultaneously still completes 24 combined hours per term ([Cal. Ins. Code § 1749.3](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.3)).
 
 What can change is product-specific training, and that is triggered by what you intend to *sell*, not by how many lines you hold. Examples CDI requires before soliciting individual consumers:
 
-- Long-term care: an 8-hour LTC course before soliciting, with 8 hours annually for the first four years of licensure
+- Long-term care: an [8-hour LTC course before soliciting, with 8 hours annually for the first four years of licensure](https://www.insurance.ca.gov/0200-industry/0090-faq/general-faq/long-term-care.cfm)
 - Annuities: an initial 8-hour annuity training course, then 4 hours each two-year term
 - Homeowners: a one-time 3-hour homeowners insurance valuation course before estimating replacement values
 
@@ -152,3 +152,13 @@ Appointment access. Can you get appointments with quality carriers in the new li
 Expanding your California license is one of the smartest ways to grow your practice. At JustInsurance, our California prelicensing courses get you exam-ready for the Life and Accident & Health lines, and — once you're licensed — our California [continuing education](/california/continuing-education) keeps every line of authority you hold current, including Property and Casualty. If you're adding P&C, build your exam study around the current PSI content outline so you cover every property and casualty topic the state tests, then let our P&C continuing education keep you compliant after you pass.
 
 Enroll today and keep growing your California insurance career.
+
+**Sources cited:**
+
+- [California AB 943 (2025) — eliminated line-specific prelicensing hours](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [CDI — 12-Hour Ethics & California Insurance Code prelicensing FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/)
+- [CDI — Producer exam information (PSI, 60% passing score)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)
+- [PSI Exams — California scheduling portal](https://test-takers.psiexams.com/)
+- [CDI — Continuing education requirements](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/)
+- [Cal. Ins. Code § 1749.3 — 24-hour CE requirement](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.3)
+- [CDI — Long-Term Care training requirement FAQ](https://www.insurance.ca.gov/0200-industry/0090-faq/general-faq/long-term-care.cfm)

@@ -22,7 +22,7 @@ Securing your [California insurance license](/california) [continuing education]
 
 ## Know your continuing education basics
 
-California mandates that all licensed insurance agents complete a set number of [continuing education](/california/continuing-education) (CE) hours every renewal cycle. Typically, you need 24 hours of approved coursework every two years, including ethics training. If you’re licensed for specific lines of authority, you may need additional courses to remain compliant. For most agents, this program ensures you stay up to date on regulations, market trends, and best practices.
+California mandates that all licensed insurance agents complete a set number of [continuing education](/california/continuing-education) (CE) hours every renewal cycle. Typically, you need [24 hours of approved coursework every two years](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/), including ethics training. If you’re licensed for specific lines of authority, you may need additional courses to remain compliant. For most agents, this program ensures you stay up to date on regulations, market trends, and best practices.
 
 Most courses you’ll encounter focus on the real-world challenges you face daily. When you approach these classes with curiosity, you’ll discover new strategies to serve clients better, avoid compliance issues, and keep your career on an upward trajectory. By treating your CE requirements as a key part of your overall professional development, you’re positioning yourself for long-term success.
 
@@ -32,7 +32,7 @@ To begin, double-check your license’s renewal date. The [California Department
 
 Keep in mind:
 
-1.  You need at least three hours of ethics coursework as part of the 24-hour requirement.
+1.  You need [at least three hours of ethics coursework as part of the 24-hour requirement](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.3).
 2.  Each line of authority (like Life-Only or Property & Casualty) might need separate courses.
 3.  Some specialized lines or designations call for additional study time.
 
@@ -100,8 +100,16 @@ Make the most of each lesson and see your continuing education as an investment 
 
 ## Frequently Asked Questions
 
-1. How many continuing education hours does California require to renew an insurance license? California resident life, accident and health, and property and casualty agents must complete 24 hours of California Department of Insurance-approved [continuing education](/california/continuing-education) during each two-year license term, and at least 3 of those hours must cover ethics — a block that now includes the CDI's mandated one-hour study on insurance fraud.
+1. How many continuing education hours does California require to renew an insurance license? California resident life, accident and health, and property and casualty agents must complete 24 hours of California Department of Insurance-approved [continuing education](/california/continuing-education) during each two-year license term, and [at least 3 of those hours must cover ethics — a block that now includes the CDI's mandated one-hour study on insurance fraud](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.3).
 
-2. When does my California insurance license expire, and when should I finish my CE? Your resident license runs on a two-year term and expires on the last day of the calendar month it was originally issued (not your birthday month), so confirm the exact date listed on your [renewal requirements](/california/requirements). The CDI recommends completing your continuing education at least 60 days before that expiration date so your credits have time to post.
+2. When does my California insurance license expire, and when should I finish my CE? Your resident license runs on a two-year term and expires on the [last day of the calendar month it was originally issued](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1630) (not your birthday month), so confirm the exact date listed on your [renewal requirements](/california/requirements). The CDI recommends completing your continuing education at least 60 days before that expiration date so your credits have time to post.
 
-3. Is California continuing education the same as the prelicensing course? No. Prelicensing is the education you finish before your first license — since AB 943 took effect on January 1, 2026, that is a single 12-hour Ethics and California Insurance Code course (which includes one hour on insurance fraud), after the older 20-hour line-specific [prelicensing](/california/prelicensing) requirement was repealed. Continuing education is the ongoing 24 hours every two years that you complete to renew a license you already hold.
+3. Is California continuing education the same as the prelicensing course? No. Prelicensing is the education you finish before your first license — since [AB 943 took effect on January 1, 2026](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943), that is a [single 12-hour Ethics and California Insurance Code course](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/) (which includes one hour on insurance fraud), after the older 20-hour line-specific [prelicensing](/california/prelicensing) requirement was repealed. Continuing education is the ongoing 24 hours every two years that you complete to renew a license you already hold.
+
+**Sources cited:**
+
+- [CDI — Continuing Education (renewal requirements)](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/)
+- [CDI — 12 Hours of Ethics and California Insurance Code FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/)
+- [AB 943 (2025) — eliminated line-specific prelicensing hours effective Jan 1, 2026](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [Cal. Ins. Code § 1749.3 — 24-hour CE including 3 hours of ethics (with the 1-hour fraud study)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.3)
+- [Cal. Ins. Code § 1630 — two-year license term and expiration](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1630)

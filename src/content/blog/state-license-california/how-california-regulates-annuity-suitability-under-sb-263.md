@@ -25,9 +25,9 @@ California enhanced its suitability framework specifically because unsuitable an
 
 ## What SB 263 Established
 
-Senate Bill 263 (Dodd), signed February 29, 2024 and applying to annuity recommendations made on or after January 1, 2025, added a new Article 9.5 (California Insurance Code sections 10509.9200 through 10509.9210) that establishes a best-interest standard. It also confined the prior suitability standard — the earlier Article 9, including sections 10509.914 and 10509.915 — to recommendations made before that date. Under the best-interest standard, an agent must act in the consumer's best interest when recommending the purchase, replacement, or exchange of an annuity, and may not place the agent's or the insurer's financial interest ahead of the consumer's.
+[Senate Bill 263 (Dodd), signed February 29, 2024 and applying to annuity recommendations made on or after January 1, 2025, added a new Article 9.5 (California Insurance Code sections 10509.9200 through 10509.9210)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263) that establishes a best-interest standard. It also confined the prior suitability standard — the earlier Article 9, including sections 10509.914 and 10509.915 — to recommendations made before that date. Under the best-interest standard, [an agent must act in the consumer's best interest when recommending the purchase, replacement, or exchange of an annuity, and may not place the agent's or the insurer's financial interest ahead of the consumer's](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509.9204).
 
-This isn't a surface-level obligation. An agent is treated as having acted in the consumer's best interest only by meeting four obligations — care, disclosure, conflict-of-interest, and documentation. The care obligation, in particular, requires actually knowing the consumer's financial situation, needs, and objectives and having a reasonable basis to believe the recommendation effectively addresses them — not simply having the consumer sign a form without meaningful analysis.
+This isn't a surface-level obligation. An agent is treated as having acted in the consumer's best interest only by meeting [four obligations — care, disclosure, conflict-of-interest, and documentation](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509.9204). The care obligation, in particular, requires actually knowing the consumer's financial situation, needs, and objectives and having a reasonable basis to believe the recommendation effectively addresses them — not simply having the consumer sign a form without meaningful analysis.
 
 ## The Suitability Factors Agents Must Consider
 
@@ -75,8 +75,8 @@ Regulators have publicly prioritized senior annuity sales, and enforcement actio
 
 California requires agents to complete annuity-specific training before selling products subject to the suitability framework:
 
-- 8-hour initial annuity training before the first annuity sale
-- 4-hour annuity refresher CE every 2 years thereafter
+- [8-hour initial annuity training before the first annuity sale](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.8)
+- [4-hour annuity refresher CE](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.8) every 2 years thereafter
 
 Additional product-specific training may apply to indexed annuities or other complex products. Training completion must be current at the time of sale — a lapsed training means a lapsed authority to sell.
 
@@ -143,3 +143,9 @@ Be especially careful with seniors. Enhanced standards apply, and regulator focu
 California's annuity suitability framework isn't an obstacle — it's the standard that protects your clients and your career. At JustInsurance, our California CE and annuity training meets the state's requirements and prepares you to sell annuities compliantly.
 
 Enroll today and master California annuity suitability the right way.
+
+**Sources cited:**
+
+- [Senate Bill 263 (2023–2024, Dodd) — annuity best-interest standard, Article 9.5 §§ 10509.9200–10509.9210 (leginfo)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263)
+- [California Insurance Code § 10509.9204 — best-interest obligations: care, disclosure, conflict of interest, documentation (leginfo)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509.9204)
+- [California Insurance Code § 1749.8 — annuity training (8 hours initial, 4 hours before each renewal) (leginfo)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.8)

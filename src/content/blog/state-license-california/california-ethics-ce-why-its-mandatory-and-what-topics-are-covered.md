@@ -19,7 +19,7 @@ Here's why California ethics CE is required and what the topics actually cover.
 
 ## The Basic Requirement
 
-California requires 3 hours of Ethics CE in every 2-year renewal cycle. These 3 hours are part of your total 24-hour CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
+California requires [3 hours of Ethics CE in every 2-year renewal cycle](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.3). These 3 hours are [part of your total 24-hour CE requirement — not in addition to it](https://www.insurance.ca.gov/0200-industry/0090-faq/ethics-continuing-education-requirement.cfm) — but they're a mandatory subset that can't be substituted with other coursework.
 
 The requirement applies to resident producers across all major license types: Life, Accident, and Health; Property and Casualty; Personal Lines; and others. Adjusters and other specialty license holders have their own ethics obligations as well.
 
@@ -83,7 +83,7 @@ Take different courses each cycle. Repeatedly taking the same ethics course is a
 
 2. Can I take more than 3 hours of ethics? Yes. If you complete 6 hours of ethics in a cycle, 3 satisfy the Ethics requirement and the other 3 count toward your general CE hours.
 
-3. Does the Ethics requirement apply every renewal cycle or just once? Every cycle. The 3-hour Ethics requirement applies to every 2-year renewal period throughout your career.
+3. Does the Ethics requirement apply every renewal cycle or just once? Every cycle. The [3-hour Ethics requirement applies to every 2-year renewal period](https://www.insurance.ca.gov/0200-industry/0090-faq/ethics-continuing-education-requirement.cfm) throughout your career.
 
 4. Are online ethics courses accepted? Yes. CDI accepts approved online ethics courses, and most agents complete their ethics CE online.
 
@@ -94,3 +94,8 @@ Take different courses each cycle. Repeatedly taking the same ethics course is a
 At JustInsurance, our California ethics CE courses are CDI-approved, current, and designed to be practical — so you walk away with more than a checkmark. You walk away with a clearer framework for protecting your clients and your career.
 
 Enroll in our California Ethics CE today and meet your requirement the right way.
+
+**Sources cited:**
+
+- [Cal. Ins. Code § 1749.3 — 24-hour CE including 3 hours of ethics](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.3)
+- [CDI — Ethics Continuing Education Requirement FAQ](https://www.insurance.ca.gov/0200-industry/0090-faq/ethics-continuing-education-requirement.cfm)

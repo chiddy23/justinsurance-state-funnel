@@ -29,7 +29,7 @@ California has specific rules governing the replacement of life insurance and an
 
 Key provisions include:
 
-- A written Notice Regarding Replacement must be provided to the applicant at the time of application, signed by both agent and applicant
+- [A written Notice Regarding Replacement must be provided to the applicant at the time of application, signed by both agent and applicant](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509.4)
 - Comparison information between the existing policy and the proposed new policy
 - Notification to the existing insurer that a replacement is occurring
 - Enhanced protections when the client is a senior
@@ -54,7 +54,7 @@ Know each of these by name. Exam questions often present scenarios and ask which
 
 California has some of the strongest privacy laws in the country, and agents are subject to them. Key areas:
 
-The California Insurance Information and Privacy Protection Act. Specific rules for insurance agents and companies about collecting, storing, and sharing nonpublic personal information about clients.
+The [California Insurance Information and Privacy Protection Act](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=791). Specific rules for insurance agents and companies about collecting, storing, and sharing nonpublic personal information about clients.
 
 The California Consumer Privacy Act (CCPA). Broader consumer privacy rights that apply to businesses, including insurance agencies in certain contexts.
 
@@ -62,7 +62,7 @@ Agents are expected to know what can and cannot be shared about clients, when co
 
 ## Annuity Suitability Under SB 263
 
-For annuity recommendations made on or after January 1, 2025, Senate Bill 263 replaced California's older "suitability" standard with a stricter best-interest standard, imposing significant obligations on agents selling annuities:
+For annuity recommendations made on or after January 1, 2025, [Senate Bill 263](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263) replaced California's older "suitability" standard with a stricter best-interest standard, imposing significant obligations on agents selling annuities:
 
 - Agents must act in the consumer's best interest — they cannot place their own or the insurer's financial interest ahead of the consumer's when recommending an annuity
 - To meet that standard, the agent must satisfy four obligations: care, disclosure, conflict-of-interest, and documentation
@@ -105,7 +105,7 @@ California has some Medicare supplement rules that differ from federal standards
 
 Exam questions also cover:
 
-- California resident licensing requirements (the 12-hour California Insurance Code and Ethics requirement; line-specific [prelicense](/california/prelicensing) hours were eliminated by AB 943, effective January 1, 2026)
+- California resident licensing requirements (the [12-hour California Insurance Code and Ethics requirement](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749); line-specific [prelicense](/california/prelicensing) hours were eliminated by [AB 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943), effective January 1, 2026)
 - CE requirements for resident producers
 - Fingerprinting and background check rules
 - License renewal cycles
@@ -148,3 +148,11 @@ Don't leave it for the final week. State-specific law is dense and takes time to
 California law is where most exam failures happen. At JustInsurance, our California prelicense course dedicates real attention to state-specific content — not just a quick overview — so you walk into the exam prepared for every section.
 
 Enroll today and own the California portion of the exam.
+
+**Sources cited:**
+
+- [Cal. Ins. Code § 10509.4 — replacement of life insurance / notice regarding replacement](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509.4)
+- [Cal. Ins. Code § 791 — Insurance Information and Privacy Protection Act](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=791)
+- [California SB 263 (2023–2024) — annuity best-interest standard](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263)
+- [Cal. Ins. Code § 1749 — prelicensing education / 12-hour Code & Ethics](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749)
+- [California Assembly Bill 943 (2025) — bill text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)

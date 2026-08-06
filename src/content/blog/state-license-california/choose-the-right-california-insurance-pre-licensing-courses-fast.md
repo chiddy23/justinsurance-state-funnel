@@ -96,8 +96,13 @@ Depending on your other commitments, you might finish your required coursework i
 
 ## Frequently Asked Questions
 
-1. What insurance pre-licensing courses do I need in California in 2026? Under Assembly Bill 943 (effective January 1, 2026), California removed the 20-hour line-specific pre-licensing education requirement for producer applicants, so the single [12-hour Ethics and California Insurance Code course](/california/prelicensing) is now the only mandatory pre-licensing education, and it must be completed before your license can be issued.
+1. What insurance pre-licensing courses do I need in California in 2026? Under [Assembly Bill 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943) (effective January 1, 2026), California removed the 20-hour line-specific pre-licensing education requirement for producer applicants, so the single [12-hour Ethics and California Insurance Code course](/california/prelicensing) is now the only mandatory pre-licensing education, and it must be completed before your license can be issued.
 
 2. Do I have to finish my pre-licensing coursework before I take the state exam? Since January 1, 2026, California no longer requires producer applicants to complete line-specific pre-licensing education before sitting for the exam, but the 12-hour Ethics and California Insurance Code course must still be finished before the Department of Insurance can issue your license, so review the current [California license requirements](/california/requirements) before you schedule.
 
-3. Who administers the California insurance license exam and what score do I need to pass? The exam is administered by PSI at test centers across California, and producer license exams such as Life and Accident and Health or Sickness require a score of at least 60% to pass.
+3. Who administers the California insurance license exam and what score do I need to pass? The exam is [administered by PSI](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/) at test centers across California, and producer license exams such as Life and Accident and Health or Sickness require a [score of at least 60% to pass](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/).
+
+**Sources cited:**
+
+- [California AB 943 (2025) — removed the 20-hour line-specific prelicensing requirement](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [CDI — Producer exam information (PSI, 60% passing score)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)

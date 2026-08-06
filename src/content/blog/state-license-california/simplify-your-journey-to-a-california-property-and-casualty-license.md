@@ -27,13 +27,13 @@ Most people find it useful to gather necessary documents ahead of time. This can
 
 ## Complete pre-licensing education
 
-Once you confirm you’re eligible, your next milestone is to complete approved [pre-licensing education](/california/prelicensing). As of January 1, 2026, California Assembly Bill 943 eliminated the old line-specific hour requirements. Under the previous rules, a full property and casualty license meant 40 line-specific hours — a 20-hour Property course plus a 20-hour Casualty course — stacked on top of the 12-hour Code and Ethics course, or 52 hours in all. Those line-specific courses no longer apply. The only mandatory [prelicensing](/california/prelicensing) requirement for a P&C license is now the 12-hour Code and Ethics course from a CDI-approved provider, and it is taken once no matter how many lines you are applying for. Most candidates also choose to take voluntary P&C exam prep on top of the required Ethics course, since the state exam still tests the full body of property and casualty knowledge.
+Once you confirm you’re eligible, your next milestone is to complete approved [pre-licensing education](/california/prelicensing). As of January 1, 2026, [California Assembly Bill 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943) eliminated the old line-specific hour requirements. Under the previous rules, a full property and casualty license meant 40 line-specific hours — a 20-hour Property course plus a 20-hour Casualty course — stacked on top of the 12-hour Code and Ethics course, or 52 hours in all. Those line-specific courses no longer apply. The only mandatory [prelicensing](/california/prelicensing) requirement for a P&C license is now the [12-hour Code and Ethics course](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749) from a CDI-approved provider, and it is taken once no matter how many lines you are applying for. Most candidates also choose to take voluntary P&C exam prep on top of the required Ethics course, since the state exam still tests the full body of property and casualty knowledge.
 
 Plan your schedule in a way that fits your personal learning style. Some people prefer enrolling in an in-person class, while others succeed with online study modules that you can tackle anytime. Whichever route you choose, give yourself enough time to review materials thoroughly. You want to build a solid foundation in property and casualty coverage before attempting the official exam.
 
 ## Register for the licensing exam
 
-You don’t have to wait on coursework to sit for the exam. The CDI is explicit that the 12-hour Code and Ethics course is not a prerequisite to schedule or take your licensing exam — it simply has to be completed before your license can be issued. So whenever you feel prepared, sign up with PSI, California’s testing provider, and pay the exam fee. The test is typically updated regularly, so reading the most recent candidate bulletin helps you prepare for any new topics or formats.
+You don’t have to wait on coursework to sit for the exam. The CDI is explicit that the 12-hour Code and Ethics course [is not a prerequisite to schedule or take your licensing exam](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions) — it simply has to be completed before your license can be issued. So whenever you feel prepared, sign up with [PSI, California’s testing provider](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/), and pay the exam fee. The test is typically updated regularly, so reading the most recent candidate bulletin helps you prepare for any new topics or formats.
 
 When you register, choose a test date and location that fit your schedule. Aim for a day when you’re free of other major commitments, so you have time to arrive relaxed and focused. Allow yourself travel time to the exam center so you can settle in and calm any last-minute nerves. Remember, this is a key part of your licensing journey, and a little organization can make a big difference.
 
@@ -52,7 +52,7 @@ Sometimes, reading through policy language repeatedly can feel dry. Try to conne
 
 ## Submit fingerprints and application
 
-After passing the exam, the state of California requires a fingerprint scan and background check to finalize your license. These steps help ensure that only individuals who meet ethical and professional standards can practice. You’ll typically do your fingerprints electronically, then the results go directly to the relevant state agencies.
+After passing the exam, the state of California requires a [fingerprint scan and background check](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/life-agent/) to finalize your license. These steps help ensure that only individuals who meet ethical and professional standards can practice. You’ll typically do your fingerprints electronically, then the results go directly to the relevant state agencies.
 
 As soon as you’ve passed your exam and submitted your background check, you can complete the full license application. Include all your supporting documents, pay the license fee, and double-check your information before submission. Processing times can vary, so keep an eye out for any follow-up notices.
 
@@ -69,3 +69,11 @@ Getting your property and casualty license is largely a self-directed path now t
 Where JustInsurance comes in is after you pass. Once your P&C license is active, our California [continuing education](/california/continuing-education) courses keep you compliant every two-year renewal cycle — so you can stay focused on serving clients instead of scrambling to meet your CE deadline.
 
 By following these steps and tapping into the right resources, you’re well on your way to a fulfilling career. Your California property and casualty license will open doors to new opportunities and let you provide essential coverage for homes and businesses alike. Now is the perfect time to move forward and watch your future in insurance take shape.
+
+**Sources cited:**
+
+- [California Assembly Bill 943 (2025) — bill text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [Cal. Ins. Code § 1749 — prelicensing education / 12-hour Code & Ethics](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749)
+- [California Department of Insurance — 12-Hour Ethics & CA Insurance Code FAQ (course not a prerequisite to sit the exam)](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions)
+- [California Department of Insurance — Producer exam information (PSI testing provider)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)
+- [California Department of Insurance — Life agent requirements (fingerprinting / background check)](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/life-agent/)

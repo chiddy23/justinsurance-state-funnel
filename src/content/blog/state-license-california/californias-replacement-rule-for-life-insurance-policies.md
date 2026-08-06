@@ -19,7 +19,7 @@ Here's what California requires when a replacement is on the table.
 
 ## What Counts as a Replacement in California
 
-Under California law, a replacement occurs when an existing life insurance policy or annuity contract is — or will be — lapsed, surrendered, forfeited, reduced in value, pledged as collateral, or otherwise materially changed in connection with the purchase of a new policy.
+Under California law, [a replacement occurs when an existing life insurance policy or annuity contract](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509) is — or will be — lapsed, surrendered, forfeited, reduced in value, pledged as collateral, or otherwise materially changed in connection with the purchase of a new policy.
 
 The critical phrase is "in connection with." Even if the existing policy isn't formally cancelled, any transaction that causes it to lose value or change status as part of a new sale triggers replacement rules.
 
@@ -29,7 +29,7 @@ This applies regardless of whether the replacement happens with the same insurer
 
 California requires specific forms during every replacement transaction:
 
-Notice Regarding Replacement. At the time of application, the agent must provide the applicant with a written notice explaining that a replacement is occurring. The notice describes the potential disadvantages of replacement and must be signed by both the applicant and the agent.
+Notice Regarding Replacement. At the time of application, [the agent must provide the applicant with a written notice explaining that a replacement is occurring](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509). The notice describes the potential disadvantages of replacement and must be signed by both the applicant and the agent.
 
 Statement of Existing Policies. The application will ask the applicant to disclose any existing life insurance or annuity contracts. The agent is responsible for asking this question and documenting the answer accurately.
 
@@ -112,3 +112,7 @@ Retain everything indefinitely. Your own records should outlast any retention re
 Replacement rules catch more California agents off guard than almost any other compliance area. At JustInsurance, our California [prelicense](/california/prelicensing) and CE courses cover replacement in practical detail — so you can serve your clients and protect your license at the same time.
 
 Enroll today and master California replacement rules with confidence.
+
+**Sources cited:**
+
+- [California Insurance Code §§ 10509 et seq. — replacement of life insurance and annuities (leginfo)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509)

@@ -21,9 +21,9 @@ Here's what California agents must disclose and how to stay compliant with state
 
 Multiple overlapping laws shape how California insurance agents handle client information:
 
-The California Insurance Information and Privacy Protection Act (IIPPA). The primary insurance-specific privacy statute in California. It governs how insurance licensees collect, disclose, and use nonpublic personal information.
+The [California Insurance Information and Privacy Protection Act (IIPPA)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=791). The primary insurance-specific privacy statute in California. It governs how insurance licensees collect, disclose, and use nonpublic personal information.
 
-The California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA). Broader consumer privacy laws that affect businesses generally, including insurance agencies in specific contexts.
+The [California Consumer Privacy Act (CCPA)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.100) and California Privacy Rights Act (CPRA). Broader consumer privacy laws that affect businesses generally, including insurance agencies in specific contexts.
 
 The Gramm-Leach-Bliley Act (GLBA). The federal privacy framework that applies to financial institutions, including insurance agents.
 
@@ -142,3 +142,8 @@ When in doubt, ask. If you're unsure whether a disclosure is permitted, consult 
 California's privacy laws are strict, but they exist to protect the trust that makes insurance relationships work. At JustInsurance, our California CE and [prelicense](/california/prelicensing) courses cover privacy requirements in practical detail.
 
 Enroll today and stay compliant with California's strict privacy laws.
+
+**Sources cited:**
+
+- [California Insurance Code § 791 — Insurance Information and Privacy Protection Act (leginfo)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=791)
+- [California Civil Code § 1798.100 — California Consumer Privacy Act (leginfo)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.100)

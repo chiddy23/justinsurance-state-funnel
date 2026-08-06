@@ -28,14 +28,14 @@ Insurance agents are entrusted with sensitive client information, financial deci
 California uses Live Scan, an electronic fingerprinting system administered by the California Department of Justice. One important sequencing detail trips up a lot of applicants: CDI instructs applicants **not** to submit fingerprints until after the license application has been filed. The process:
 
 - Step 1: File your license application with CDI (most applicants file through NIPR).
-- Step 2: Schedule your fingerprinting appointment through CDI's contracted Live Scan vendor, Capital Live Scan, and bring the Request for Live Scan Service form (BCIA 8016) you receive when you register. CDI also publishes the form and payment instructions as form LIC 442-39A on its licensing forms page.
-- Step 3: At your appointment, the technician electronically captures your fingerprints and submits them to the California Department of Justice and the FBI.
+- Step 2: Schedule your fingerprinting appointment through CDI's contracted Live Scan vendor, [Capital Live Scan](https://www.insurance.ca.gov/0200-industry/0200-prod-licensing/0100-applicant-info/0300-ca-fingerprint/), and bring the Request for Live Scan Service form (BCIA 8016) you receive when you register. CDI also publishes the form and payment instructions as form [LIC 442-39A](https://www.insurance.ca.gov/0200-industry/0040-seek-producer-forms/0100-broker-agents/upload/LIC-442-39A-Fingerprint-Instructions-and-Payment.pdf) on its licensing forms page.
+- Step 3: At your appointment, the technician electronically captures your fingerprints and [submits them to the California Department of Justice and the FBI](https://www.insurance.ca.gov/0200-industry/0200-prod-licensing/0100-applicant-info/0300-ca-fingerprint/).
 
 Step 4: Criminal history results are sent directly to CDI. You don't receive a copy.
 
 Step 5: CDI reviews the results alongside your application disclosures.
 
-CDI asks applicants to wait at least seven days after fingerprinting before checking status, and to contact the Department if the fingerprint requirement is not showing as completed within 45 days. The fingerprint requirement has to be satisfied before your license can be issued — and if a license isn't issued within 12 months of the date your prints were submitted, you have to be printed again.
+CDI asks applicants to [wait at least seven days after fingerprinting before checking status, and to contact the Department if the fingerprint requirement is not showing as completed within 45 days](https://www.insurance.ca.gov/0200-industry/0200-prod-licensing/0100-applicant-info/0300-ca-fingerprint/). The fingerprint requirement has to be satisfied before your license can be issued — and [if a license isn't issued within 12 months of the date your prints were submitted, you have to be printed again](https://www.insurance.ca.gov/0200-industry/0200-prod-licensing/0100-applicant-info/0300-ca-fingerprint/).
 
 ## What CDI Checks
 
@@ -117,7 +117,7 @@ Denial doesn't always mean permanent exclusion. Some applicants successfully app
 
 1. Can I work in insurance while my application is pending? No. You cannot conduct insurance business until your license is issued. Working while unlicensed creates serious legal exposure.
 
-2. How long does the background check take? CDI asks applicants to allow at least seven days after fingerprinting before checking status, and to contact the Department if the requirement still isn't showing as complete 45 days after submission. Application review can add 2 to 6 weeks on top of that depending on complexity.
+2. How long does the background check take? CDI asks applicants to [allow at least seven days after fingerprinting before checking status, and to contact the Department if the requirement still isn't showing as complete 45 days after submission](https://www.insurance.ca.gov/0200-industry/0200-prod-licensing/0100-applicant-info/0300-ca-fingerprint/). Application review can add 2 to 6 weeks on top of that depending on complexity.
 
 3. Does a past bankruptcy disqualify me? Bankruptcy by itself rarely disqualifies applicants. CDI evaluates the overall financial history and whether there are other concerns.
 
@@ -130,3 +130,8 @@ Denial doesn't always mean permanent exclusion. Some applicants successfully app
 Understanding the background check process removes uncertainty and helps you submit a clean, complete application. At JustInsurance, our California prelicense course prepares you for the exam and helps you understand the full licensing process.
 
 Enroll today and start your California insurance career with clarity.
+
+**Sources cited:**
+
+- [California Resident Licensing Fingerprint Requirements — California Department of Insurance](https://www.insurance.ca.gov/0200-industry/0200-prod-licensing/0100-applicant-info/0300-ca-fingerprint/)
+- [CDI Form LIC 442-39A — Fingerprint Instructions and Payment](https://www.insurance.ca.gov/0200-industry/0040-seek-producer-forms/0100-broker-agents/upload/LIC-442-39A-Fingerprint-Instructions-and-Payment.pdf)

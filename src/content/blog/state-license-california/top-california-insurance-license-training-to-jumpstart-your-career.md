@@ -31,10 +31,10 @@ In addition, insurance training ensures you learn how to act in your client’s 
 
 Before you dive into an official training program, you need to make sure you meet California’s basic prerequisites. Here is what you should have in place to qualify:
 
--   You must be at least 18 years old.
+-   You must be [at least 18 years old](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/life-agent/).
 -   You need a clean criminal background, as outlined by the California Department of Insurance (CDI).
--   You must complete the 12-hour Ethics and California Insurance Code course through a CDI-approved [pre-licensing education](/california/prelicensing) provider. Since January 1, 2026 (AB 943), this is the only prelicensing course California mandates — there is no longer a separate hour requirement tied to the line you plan to sell.
--   You are required to pass the appropriate licensing exam, administered for the CDI by PSI at a test center or through PSI's online proctoring.
+-   You must complete the [12-hour Ethics and California Insurance Code course](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/) through a CDI-approved [pre-licensing education](/california/prelicensing) provider. Since January 1, 2026 ([AB 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)), this is the only prelicensing course California mandates — there is no longer a separate hour requirement tied to the line you plan to sell.
+-   You are required to pass the appropriate licensing exam, [administered for the CDI by PSI](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/) at a test center or through PSI's online proctoring.
 
 Once these are fulfilled, you can apply for your official license. The underlying rules and specifics can vary, so it is always a good idea to verify the current regulations on the CDI website. If you stay organized from the very start, your training path will be far smoother.
 
@@ -42,7 +42,7 @@ Once these are fulfilled, you can apply for your official license. The underlyin
 
 One of the best ways to set yourself up for success is to map out a clear timeline for your california insurance license training. Some people opt for part-time study if they are employed full-time, while others dedicate themselves to an intensive, shorter program.
 
-Keep in mind that the mandated portion of your schedule is now fixed rather than line-specific. Before AB 943 took effect on January 1, 2026, California layered a 20-hour prelicensing requirement on top of the ethics course for each line of authority — life, accident and health, property, casualty, personal lines, and limited lines automobile. That requirement is repealed. What remains is the 12-hour Ethics and California Insurance Code course, which is monitored seat time and cannot be finished in less than 12 hours no matter how fast you read.
+Keep in mind that the mandated portion of your schedule is now fixed rather than line-specific. Before [AB 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943) took effect on January 1, 2026, California layered a 20-hour prelicensing requirement on top of the ethics course for each line of authority — life, accident and health, property, casualty, personal lines, and limited lines automobile. That requirement is repealed. What remains is the 12-hour Ethics and California Insurance Code course, which is monitored seat time and cannot be finished in less than 12 hours no matter how fast you read.
 
 Everything beyond those 12 hours is exam preparation you choose for yourself, not a legal hurdle. That is a real planning advantage — you decide how much line-specific study you need based on your background, rather than sitting through a fixed number of hours per line. Just don't mistake "not required" for "not necessary": the state exam still tests the full line content in depth, and a retake costs another fee and another test date.
 
@@ -74,6 +74,13 @@ Take the first step today by exploring your pre-licensing coursework options and
 
 1. What training does California require to get an insurance license? Since AB 943 took effect on January 1, 2026, the only mandatory prelicensing education is a single 12-hour Ethics and California Insurance Code course from a California Department of Insurance (CDI)-approved provider — the earlier line-specific hour requirement was repealed, so this one course now applies no matter which line of authority you plan to sell. You can review the current steps on our [California insurance license requirements](/california/requirements) guide before you enroll.
 
-2. How long does the required California prelicensing course take? The 12-hour Ethics and California Insurance Code course is monitored, time-tracked seat time, so it cannot be completed in fewer than 12 hours no matter how quickly you read. Anything beyond those hours is exam preparation you schedule at your own pace rather than a legal requirement, which lets you tailor your [prelicensing](/california/prelicensing) study plan to your own background and timeline.
+2. How long does the required California prelicensing course take? The [12-hour Ethics and California Insurance Code course](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/) is monitored, time-tracked seat time, so it cannot be completed in fewer than 12 hours no matter how quickly you read. Anything beyond those hours is exam preparation you schedule at your own pace rather than a legal requirement, which lets you tailor your [prelicensing](/california/prelicensing) study plan to your own background and timeline.
 
-3. Who administers the California insurance license exam and what score do I need to pass? The licensing examination is administered for the CDI by PSI Services LLC, either at a PSI test center or through PSI's online proctoring. California insurance producer license examinations require a score of 60% to pass, so it is worth building that level of comfort with the material through focused review before your test date.
+3. Who administers the California insurance license exam and what score do I need to pass? The licensing examination is [administered for the CDI by PSI Services LLC](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/), either at a PSI test center or through PSI's online proctoring. California insurance producer license examinations require a [score of 60% to pass](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/), so it is worth building that level of comfort with the material through focused review before your test date.
+
+**Sources cited:**
+
+- [California AB 943 (2025) — repealed line-specific prelicensing hours](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [CDI — 12-Hour Ethics & California Insurance Code prelicensing FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/)
+- [CDI — Life Agent license requirements (18-year minimum)](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0200-requirements/life-agent/)
+- [CDI — Producer exam information (PSI, 60% passing score)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)

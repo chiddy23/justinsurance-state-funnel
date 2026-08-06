@@ -35,7 +35,7 @@ If you meet these criteria, you’re officially on track to pursue your insuranc
 
 ## Complete pre-licensing education
 
-One of the fundamental [California insurance license](/california) requirements is completing state-approved [pre-licensing education](/california/prelicensing). As of January 1, 2026, California Assembly Bill 943 restructured this requirement — the line-specific product hour mandate was eliminated, and the only required prelicensing course is now the 12-hour Code and Ethics course.
+One of the fundamental [California insurance license](/california) requirements is completing state-approved [pre-licensing education](/california/prelicensing). As of January 1, 2026, [California Assembly Bill 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943) restructured this requirement — the line-specific product hour mandate was eliminated, and the only required prelicensing course is now the [12-hour Code and Ethics course](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/).
 
 • Life Insurance License: Complete the 12-hour Code and Ethics prelicensing course. This covers California Insurance Code, ethics, and producer responsibilities.
 • Accident and Health License: The same 12-hour Code and Ethics course satisfies the prelicensing requirement for Accident and Health applicants.
@@ -47,7 +47,7 @@ While product-specific study hours are no longer mandated, most candidates still
 
 After finishing your pre-licensing education, you’re ready to register for the state licensing exam. You’ll do this through the California Department of Insurance’s designated testing vendor, which you should find listed on the official California Department of Insurance website.
 
-Online portals often let you choose a date, time, and test location that works best. The California exam fee is $98 per attempt. Be sure to schedule in advance, as popular slots fill quickly. Book your appointment when you feel prepared—rushing into an exam date without enough study time can sabotage your efforts.
+Online portals often let you choose a date, time, and test location that works best. The California [exam fee is $98 per attempt](https://www.insurance.ca.gov/0200-industry/0045-lic-fees/). Be sure to schedule in advance, as popular slots fill quickly. Book your appointment when you feel prepared—rushing into an exam date without enough study time can sabotage your efforts.
 
 ## Prepare for the exam
 
@@ -100,6 +100,14 @@ If you’re excited to move forward, JustInsurance’s [California prelicensing 
 
 1. What are the basic requirements to get a California insurance license? You must be at least 18 years old, complete the required 12-hour Code and Ethics prelicensing course, pass the state licensing exam, and submit your application with fingerprints to the California Department of Insurance (CDI). You can review the full checklist on the [California insurance license requirements](/california/requirements) page.
 
-2. Who administers the California insurance exam and what score do I need to pass? The California Department of Insurance uses PSI Services to deliver the licensing exam, and you need a passing score of 60% or higher. Your result is provided immediately at the test center, so you will know the outcome before you leave.
+2. Who administers the California insurance exam and what score do I need to pass? The California Department of Insurance uses [PSI Services](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/) to deliver the licensing exam, and you need a [passing score of 60% or higher](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/). Your result is provided immediately at the test center, so you will know the outcome before you leave.
 
-3. How many continuing education hours does California require after I am licensed? California producers must complete 24 hours of continuing education every two years, including at least 3 hours of ethics. Staying current with these credits keeps your license in good standing through each renewal cycle.
+3. How many continuing education hours does California require after I am licensed? California producers must complete [24 hours of continuing education every two years, including at least 3 hours of ethics](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/). Staying current with these credits keeps your license in good standing through each renewal cycle.
+
+**Sources cited:**
+
+- [California Assembly Bill 943 (2025) — leginfo.legislature.ca.gov](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [CDI — 12 Hours of Ethics & California Insurance Code prelicensing FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions/)
+- [CDI — Producer Licensing Fees](https://www.insurance.ca.gov/0200-industry/0045-lic-fees/)
+- [CDI — Producer Examination Information (PSI, passing score)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)
+- [CDI — Continuing Education](https://www.insurance.ca.gov/0200-industry/0050-renew-license/0300-cont-education/)

@@ -47,9 +47,9 @@ The comparison below uses each state's combined life-and-health licensing exam: 
 | --- | --- | --- | --- | --- |
 | Number of scored questions | 150 | 130 (100 general + 30 state) | 150 (of 165 total) | 150 |
 | Time limit | 3h | 2h 30m | 2h 45m | 2h 30m |
-| Passing score | 60% (raw) | 70 (scaled score) | 70% (raw) | 70% (raw) |
+| Passing score | [60% (raw)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/) | 70 (scaled score) | 70% (raw) | 70% (raw) |
 | State-specific content weight | Not published by CDI | ~23% (30 of 130) | 25–30% | 20–25% |
-| Prelicense education | 12 hours (Code & Ethics only) | None required (optional) | 60 hours (2-15) | 40 hours |
+| Prelicense education | [12 hours (Code & Ethics only)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749) | None required (optional) | 60 hours (2-15) | 40 hours |
 
 One row deserves a footnote, because it is a genuine difference in kind rather than degree. California, Florida, and New York report a raw percentage — the share of questions you answered correctly. Texas does not. Pearson VUE equates Texas exam forms and reports a scaled score from 0 to 100, and the Texas handbook states that the scaled score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Texas's cut is 70 on that scale, which is not the same statement as "70% correct," and the raw number of correct answers required moves with the form.
 
@@ -95,10 +95,16 @@ Score comfortably above 70% in practice. Don't aim to just squeak by the passing
 
 4. Is the California exam curved or adjusted? No. The 60% passing score is fixed. There's no curve based on how other candidates perform.
 
-5. How many attempts does it usually take to pass? Most candidates pass within 1–2 attempts with proper preparation. There is no mandatory waiting period between attempts, but each retake requires a new PSI registration and a new fee — and California does have a statutory ceiling. Under Cal. Ins. Code § 1682, a candidate who has failed the same exam ten times within a 12-month period is barred from taking that exam for 12 months from the date of the tenth failure. Related exams count together: the statute groups exams by type, so life-only attempts and combined life and accident/health attempts are tallied against the same limit. It is a ceiling most prepared candidates will never approach, but it is real, and it is not something a fee can buy your way past.
+5. How many attempts does it usually take to pass? Most candidates pass within 1–2 attempts with proper preparation. There is no mandatory waiting period between attempts, but each retake requires a new PSI registration and a new fee — and California does have a statutory ceiling. Under [Cal. Ins. Code § 1682](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1682), a candidate who has failed the same exam ten times within a 12-month period is barred from taking that exam for 12 months from the date of the tenth failure. Related exams count together: the statute groups exams by type, so life-only attempts and combined life and accident/health attempts are tallied against the same limit. It is a ceiling most prepared candidates will never approach, but it is real, and it is not something a fee can buy your way past.
 
 ## Prepare to Pass on Your First Attempt
 
 The California exam is passable — with proper preparation. At JustInsurance, our California prelicense course is built around the real exam content outline and includes practice questions designed to mirror the actual exam's style and difficulty.
 
 Enroll today and set yourself up to pass on the first try.
+
+**Sources cited:**
+
+- [California Department of Insurance — Producer exam information (60% passing score)](https://insurance.ca.gov/0200-industry/0010-producer-online-services/0200-exam-info/)
+- [Cal. Ins. Code § 1749 — prelicensing education / 12-hour Code & Ethics](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749)
+- [Cal. Ins. Code § 1682 — limit on repeated license qualification examinations](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1682)

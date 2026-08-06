@@ -31,11 +31,11 @@ Licensing and Agent Conduct. These sections cover who can be licensed, the quali
 
 Unfair Trade Practices. California prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and others. Violations in this area are a serious matter — they can trigger CDI disciplinary action ranging from fines to license suspension or revocation. (See the dedicated article on unfair practices in this cluster for a full breakdown.)
 
-Replacement of Life Insurance and Annuities. Specific rules govern the replacement of existing life insurance policies and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are all covered.
+Replacement of Life Insurance and Annuities. Specific rules govern [the replacement of existing life insurance policies and annuity contracts](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509). Disclosure requirements, required forms, and notification obligations to the existing insurer are all covered.
 
-Annuity Suitability. Enhanced by Senate Bill 263, California's annuity suitability framework imposes detailed obligations on agents selling annuities — especially to seniors. Requirements include information collection, suitability analysis, training, and documentation.
+Annuity Suitability. Enhanced by [Senate Bill 263](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263), California's annuity suitability framework imposes detailed obligations on agents selling annuities — especially to seniors. Requirements include information collection, suitability analysis, training, and documentation.
 
-Privacy and Information Protection. California has some of the strongest privacy laws in the country. The California Insurance Information and Privacy Protection Act and related rules govern how agents collect, store, share, and disclose client information.
+Privacy and Information Protection. California has some of the strongest privacy laws in the country. The [California Insurance Information and Privacy Protection Act](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=791) and related rules govern how agents collect, store, share, and disclose client information.
 
 Long-Term Care Insurance Standards. Specific rules apply to LTC sales, including training requirements, disclosure standards, benefit requirements, and the California Partnership for Long-Term Care program.
 
@@ -45,7 +45,7 @@ Medicare Supplement Rules. California has state-specific Medicare supplement reg
 
 Claims Handling Standards. While primarily applicable to insurers and adjusters, agents should understand claims handling requirements because clients come to agents when claims don't go smoothly.
 
-Continuing Education Requirements. The CE framework, including the mandatory Ethics component, LTC training for LTC sellers, and annuity training for annuity sellers.
+Continuing Education Requirements. The CE framework, including [the mandatory Ethics component](https://www.insurance.ca.gov/0200-industry/0090-faq/ethics-continuing-education-requirement.cfm), LTC training for LTC sellers, and annuity training for annuity sellers.
 
 ## Why Knowing the Code Matters
 
@@ -81,7 +81,7 @@ Keep a regular habit of reviewing CDI bulletins and Code updates — especially 
 
 1. Do I need to read the entire California Insurance Code? No. Focus on the sections that apply to your work — unfair practices, replacement rules, suitability, privacy, and specific product areas you sell. These cover the vast majority of what you'll encounter.
 
-2. Where can I access the California Insurance Code? The full Code is available through the California Legislative Information website and is referenced through CDI at insurance.ca.gov. Both are free.
+2. Where can I access the California Insurance Code? The full Code is available through the [California Legislative Information website](https://leginfo.legislature.ca.gov/) and is referenced through [CDI at insurance.ca.gov](https://www.insurance.ca.gov/). Both are free.
 
 3. How often does the Insurance Code change? Legislative changes happen every year. CDI also issues regulations periodically. Significant changes typically get publicized through CDI notices.
 
@@ -94,3 +94,12 @@ Keep a regular habit of reviewing CDI bulletins and Code updates — especially 
 The California Insurance Code is extensive, but it's navigable once you know the sections that apply to your practice. At JustInsurance, our California [prelicense](/california/prelicensing) and CE courses cover the Code in practical, plain language — not legal jargon.
 
 Enroll today and start your California career with the compliance knowledge to protect it.
+
+**Sources cited:**
+
+- [California Insurance Code § 10509 — replacement of life insurance and annuities (leginfo)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10509)
+- [Senate Bill 263 (2023–2024, Dodd) — annuity best-interest standard (leginfo)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263)
+- [California Insurance Code § 791 — Insurance Information and Privacy Protection Act (leginfo)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=791)
+- [California Department of Insurance — Ethics continuing-education requirement (CDI)](https://www.insurance.ca.gov/0200-industry/0090-faq/ethics-continuing-education-requirement.cfm)
+- [California Legislative Information (leginfo)](https://leginfo.legislature.ca.gov/)
+- [California Department of Insurance (insurance.ca.gov)](https://www.insurance.ca.gov/)

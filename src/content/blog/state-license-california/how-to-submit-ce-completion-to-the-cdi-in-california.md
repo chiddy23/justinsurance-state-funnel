@@ -21,7 +21,7 @@ Here's exactly how CE completion gets submitted to CDI and what to verify on you
 
 The most important thing to understand about California CE submission: you don't manually submit CE completions to CDI yourself. Your approved course provider does it.
 
-Every CDI-approved CE provider is required to submit your course completion electronically to CDI after you finish. Submission typically happens within a specific timeframe — usually within a few weeks of completion. This automated reporting is a core requirement for any provider to maintain CDI approval.
+[Every CDI-approved CE provider is required to submit your course completion electronically to CDI](https://www.insurance.ca.gov/0200-industry/0090-faq/education/continuing-ed/) after you finish. Submission typically happens within a specific timeframe — usually within a few weeks of completion. This automated reporting is a core requirement for any provider to maintain CDI approval.
 
 As long as you take courses through legitimate CDI-approved providers, your hours should flow to CDI automatically.
 
@@ -29,7 +29,7 @@ As long as you take courses through legitimate CDI-approved providers, your hour
 
 Don't just assume it happened. Verify.
 
-You can check your CE record through CDI's online producer portal. Log in with your license credentials and review your CE history. Every course you've taken through an approved provider should appear on your record within a few weeks of completion.
+You can [check your CE record through CDI's online producer portal](https://www.insurance.ca.gov/0200-industry/0090-faq/education/continuing-ed/). Log in with your license credentials and review your CE history. Every course you've taken through an approved provider should appear on your record within a few weeks of completion.
 
 Check your CE status periodically throughout your renewal cycle:
 
@@ -109,7 +109,7 @@ Maintain a personal CE log. A simple spreadsheet listing every course, date, pro
 
 1. How long does it take for completed CE to appear on my CDI record? Typically 7 to 30 days. Some providers report within days; others take a few weeks. Check CDI's portal periodically to track reporting.
 
-2. Can I self-report CE completions to CDI? No. California's system requires that approved providers submit completions electronically. Self-reporting isn't part of the standard process.
+2. Can I self-report CE completions to CDI? No. [California's system requires that approved providers submit completions electronically](https://www.insurance.ca.gov/0200-industry/0090-faq/education/continuing-ed/). Self-reporting isn't part of the standard process.
 
 3. Do I need to keep proof of my CE completions? Yes. Save every completion certificate indefinitely. They're your backup if there's ever a reporting discrepancy or if a provider's records become unavailable.
 
@@ -122,3 +122,7 @@ Maintain a personal CE log. A simple spreadsheet listing every course, date, pro
 At JustInsurance, we're a CDI-approved CE provider, which means we handle the reporting for you. Complete your course, save your certificate, and we take care of the submission to CDI.
 
 Enroll in our California CE courses today and keep your license worry-free.
+
+**Sources cited:**
+
+- [CDI — Continuing Education FAQ (provider electronic reporting and checking your CE record)](https://www.insurance.ca.gov/0200-industry/0090-faq/education/continuing-ed/)

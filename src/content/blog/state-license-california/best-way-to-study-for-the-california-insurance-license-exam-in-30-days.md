@@ -19,7 +19,7 @@ Here's the best way to study for the California insurance license exam in 30 day
 
 ## Before You Start: The Foundation
 
-Your [prelicense](/california/prelicensing) education is the foundation this plan sits on. As of January 1, 2026, California AB 943 repealed the old 20-hour line-specific prelicensing education requirement that used to apply to Life, Accident & Health, and Property & Casualty applicants alike. The only mandatory prelicensing course is now the 12-hour Code and Ethics course from a CDI-approved provider.
+Your [prelicense](/california/prelicensing) education is the foundation this plan sits on. As of January 1, 2026, [California AB 943](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943) repealed the old 20-hour line-specific prelicensing education requirement that used to apply to Life, Accident & Health, and Property & Casualty applicants alike. The only mandatory prelicensing course is now the [12-hour Code and Ethics course](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749) from a CDI-approved provider.
 
 Two things about scheduling it are worth knowing before you build your calendar.
 
@@ -63,7 +63,7 @@ Focus areas:
 - Riders and optional features
 - Fixed, variable, immediate, and deferred annuities
 - Tax treatment of life insurance and annuities
-- Annuity suitability considerations (especially California SB 263 requirements)
+- Annuity suitability considerations (especially [California SB 263](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263) requirements)
 
 Approach:
 
@@ -173,3 +173,10 @@ Life happens. If you fall behind schedule:
 A good study plan needs good source material. At JustInsurance, our California prelicense course is structured to guide you through the material in the right order, at the right pace — so you're not figuring out what to study next.
 
 Enroll today and be exam-ready in 30 days.
+
+**Sources cited:**
+
+- [California AB 943 (2025) — bill text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB943)
+- [Cal. Ins. Code § 1749 — prelicensing education / 12-hour Code & Ethics](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749)
+- [California SB 263 (2023–2024) — annuity best-interest standard](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB263)
+- [California Department of Insurance — 12-Hour Ethics & CA Insurance Code FAQ](https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/0400-prelicensing-faq/0100-12-hours-of-ethics-california-insurance-code-frequent-questions)

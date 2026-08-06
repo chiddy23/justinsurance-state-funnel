@@ -62,7 +62,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
       </svg>
     ),
     label: "Pass Guarantee",
-    sub: "Pass or we refund",
+    sub: "Pass or a free retake",
   },
   {
     icon: (
@@ -192,7 +192,7 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
       // guarantee is unavailable in every state, eligible ones included.
       if (!passGuaranteeApplies) return prelicensingHeld ? OPENING_SOON_SIGNAL : INSTANT_ACCESS_SIGNAL;
       if (!stateSlug)
-        return { ...signal, sub: "Pass or we refund — eligible states, terms apply" };
+        return { ...signal, sub: "Pass or a free retake — eligible states, terms apply" };
       if (!hasPassGuarantee(stateSlug)) return prelicensingHeld ? OPENING_SOON_SIGNAL : INSTANT_ACCESS_SIGNAL;
     }
     return signal;

@@ -32,7 +32,7 @@ const faqs = [
   {
     question: "How close is the practice exam to the real state exam?",
     answer:
-      "Our practice exams mirror your state's actual licensing exam in format, question style, and topic weighting. The content is written by licensed insurance educators who track each state's exam content outline. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt — that's the threshold our pass guarantee uses.",
+      "Our practice exams mirror your state's actual licensing exam in format, question style, and topic weighting. The content is written by licensed insurance educators who track each state's exam content outline. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the threshold our pass guarantee uses.",
   },
   {
     question: "Which practice exam should I buy — Life, Health, or Life + Health?",
@@ -52,7 +52,7 @@ const faqs = [
   {
     question: "Can I get a refund if I don't pass?",
     answer:
-      "The standalone practice exam is a study tool and is not covered by the prelicensing course pass guarantee. However, our full prelicensing course — which includes a practice exam — is backed by a pass guarantee (in eligible states) if you meet the eligibility criteria (recommended study hours, 80%+ three times in a row on the practice exam, and testing within 30 days of enrollment). If the full prep package appeals to you, see our state prelicensing courses.",
+      "The standalone practice exam is a study tool and is not covered by the prelicensing course pass guarantee. However, our full prelicensing course — which includes a practice exam — is backed by a pass guarantee (in eligible states) if you meet the eligibility criteria (recommended study hours, 80%+ on any three practice-exam attempts, and testing within 30 days of enrollment). If the full prep package appeals to you, see our state prelicensing courses.",
   },
 ];
 

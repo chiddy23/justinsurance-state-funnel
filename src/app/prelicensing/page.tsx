@@ -164,7 +164,7 @@ const faqs = [
   {
     question: "What happens if I don't pass the licensing exam?",
     answer:
-      `JustInsurance backs every prelicensing course with a pass guarantee in eligible states (the guarantee is not offered in ${passGuaranteeExcludedLabel()}). If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. Claims require your official score report from the failed first attempt, submitted within 30 days of the exam. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.`,
+      `JustInsurance backs every prelicensing course with a pass guarantee in eligible states (the guarantee is not offered in ${passGuaranteeExcludedLabel()}). If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on any three practice-exam attempts, and sit for your first-time state exam attempt within 30 days of your first enrollment, then if you don't pass, we'll give you a fresh study period, reset your practice exams, and reimburse your state exam fee. Claims require your official score report from the failed first attempt, submitted within 30 days of the exam. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.`,
   },
 ];
 
@@ -278,10 +278,10 @@ export default function PrelicensingPage() {
             Insurance Prelicensing Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-4 max-w-2xl mx-auto">
-            Complete your state-required prelicensing education online for $199. Self-paced in most states and backed by our pass guarantee in eligible states. Available in {SERVED_STATE_COUNT} states (all except New York) — and {PRELICENSING_APPROVAL_PHRASE}.
+            Complete your state-required prelicensing education online for $199. Self-paced in most states and backed by our pass guarantee* in eligible states. Available in {SERVED_STATE_COUNT} states (all except New York) — and {PRELICENSING_APPROVAL_PHRASE}.
           </p>
           <p className="text-sm text-blue-200/80 mb-8 max-w-2xl mx-auto">
-            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
+            *Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-white">
               See guarantee terms
             </Link>

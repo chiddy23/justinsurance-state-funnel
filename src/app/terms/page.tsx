@@ -386,40 +386,83 @@ export default function TermsPage() {
 
         <p className="text-sm font-semibold text-navy mb-2">Pass Guarantee</p>
         <P>
-          JustInsurance offers a Pass Guarantee on qualifying prelicensing courses in eligible
-          states. The Pass Guarantee is not offered in every state &mdash; see &ldquo;States where the
-          Pass Guarantee is not offered&rdquo; below. Where the guarantee is offered, you must meet all
-          of the following conditions to be eligible:
+          On qualifying prelicensing courses in eligible states, JustInsurance offers a{" "}
+          <strong>Pass Guarantee</strong>. It is a conditional retake offer &mdash; not a cash
+          refund of your tuition, and not a prediction that any individual will pass. It is separate
+          from, and in addition to, the Standard Refund Policy above, and is not offered in every
+          state &mdash; see &ldquo;States where the Pass Guarantee is not offered&rdquo; below.
         </P>
+        <p className="text-sm font-semibold text-navy mb-2">The remedy</p>
+        <P>
+          If you satisfy all of the eligibility conditions below and do not pass your first state
+          licensing examination for the line of authority and state of your purchased course, then on
+          an approved claim JustInsurance will: (a) grant you a <strong>new 60-day course-access
+          period</strong>, measured from the date we approve your claim and added on top of &mdash;
+          not merely restoring &mdash; any access you had before; (b) <strong>reset your practice
+          exams</strong> so you can prepare again; and (c) <strong>reimburse the fee you paid to the
+          state testing vendor</strong> for that one failed first attempt, on receipt of your
+          paid-exam receipt. This remedy does not include a cash refund of your tuition, and (other
+          than the state exam fee in (c)) it does not cover license application fees, fingerprinting
+          or background-check fees, taxes, or any other third-party cost.
+        </P>
+        <p className="text-sm font-semibold text-navy mb-2">Eligibility conditions (all required)</p>
         <UL>
           <LI>
-            You must complete the recommended study hours for your state — in states that require
-            prelicensing education, the recommended hours equal your state&apos;s required course
-            hours; in states that do not, 20 hours for a single line of authority or 40 hours
-            for a dual line (Life &amp; Health) — as tracked by our learning platform.
+            <strong>Study hours.</strong> Complete at least the recommended study hours for your line
+            of authority, as tracked by our learning platform &mdash; in states that require
+            prelicensing education, your state&apos;s required course hours; in states that do not, 20
+            hours for a single line of authority or 40 hours total for a dual line (such as Life &amp;
+            Health). Only platform-logged active seat time counts (a reasonable measurement tolerance
+            of about 10% applies); course &ldquo;completion&rdquo; status is not used to prove seat time.
           </LI>
           <LI>
-            You must score 80% or higher on the practice exam three times in a row before sitting
-            for the state licensing exam.
+            <strong>Practice exam.</strong> Score 80% or higher on{" "}
+            <strong>at least three scored attempts</strong> of your course&apos;s final practice exam
+            before you sit for the state exam. The three qualifying attempts need not be consecutive,
+            and there is no time or pace requirement.
           </LI>
           <LI>
-            You must sit for your first state licensing exam attempt within 30 days of your first
-            enrollment in the course.
+            <strong>Timely exam.</strong> Sit for your <strong>first</strong> state licensing exam
+            attempt within <strong>30 days of enrolling</strong> in the course (the day you first log
+            in and enroll), and complete the study-hour and practice-exam conditions within that same
+            30-day window.
           </LI>
           <LI>
-            You must fail the exam on that first attempt (a passing score disqualifies the
-            guarantee claim).
-          </LI>
-          <LI>
-            You must submit your refund request with proof of your exam failure (official score
-            report) within 30 days of the failed exam.
+            You must <strong>fail</strong> that first attempt &mdash; a passing score disqualifies the
+            claim &mdash; and submit a timely, complete claim as described below.
           </LI>
         </UL>
+        <p className="text-sm font-semibold text-navy mb-2">How to claim</p>
         <P>
-          If all conditions are met, we will refund the original course purchase price in full.
-          The Pass Guarantee applies to the prelicensing course cost only and does not cover exam
-          fees, application fees, or any other third-party costs. Courses purchased at a
-          promotional discount may have modified guarantee terms disclosed at the time of sale.
+          Email{" "}
+          <a
+            href="mailto:support@justinsuranceco.com"
+            className="text-navy underline hover:text-gold"
+          >
+            support@justinsuranceco.com
+          </a>{" "}
+          with the subject &ldquo;Pass Guarantee Claim&rdquo; within <strong>30 days</strong> of
+          the date your failing result is issued. Include your enrolled name and order or enrollment
+          identifier, the official failing score report or fail notice from the state testing vendor
+          (Pearson VUE, PSI, or Prometric) as the vendor issues it, and your paid state-exam receipt
+          for the fee reimbursement. We verify claims from platform records and your official score
+          report, and we will not deny a claim solely for the absence of a field the vendor does not
+          print; we may verify a result directly with the testing vendor before approving. We will
+          decide a complete claim within <strong>10 business days</strong> and, if approved, provide
+          the remedy within <strong>10 business days</strong> of approval. If a claim is denied on a
+          records reading, you may request a manual review within <strong>14 days</strong> by replying
+          to the decision email.
+        </P>
+        <p className="text-sm font-semibold text-navy mb-2">Limits</p>
+        <P>
+          The Pass Guarantee applies to your first state exam attempt only and may be invoked
+          once per course purchase. Courses purchased at a promotional discount or in a bundle are
+          subject to these same terms; any guarantee terms disclosed at the time of a promotion may
+          only be equal to or more favorable to you than these terms. The guarantee is void for any
+          enrollment obtained through falsified records, account sharing, or misrepresentation of
+          identity, seat time, or scores, and it no longer applies to an enrollment that is refunded
+          or canceled under the Standard Refund Policy. This is a conditional remedy, not a
+          representation that completing the course guarantees that you will pass any examination.
         </P>
 
         {GUARANTEE_UNAVAILABLE_STATES.length > 0 && (

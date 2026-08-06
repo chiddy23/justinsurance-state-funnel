@@ -396,7 +396,7 @@ export default async function ReviewsPage() {
           <p className="text-gray-600 mb-5 max-w-2xl mx-auto text-sm">
             One all-inclusive price — 100+ videos, unlimited practice-exam
             retakes, 5× weekly live instructor sessions, flashcards, and a pass
-            guarantee in eligible states (not available in{" "}
+            guarantee* in eligible states (not available in{" "}
             {passGuaranteeExcludedLabel()}; terms apply). No tiers, no upgrades
             at checkout.
           </p>
@@ -443,9 +443,18 @@ export default async function ReviewsPage() {
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
             Ready to Join Them?
           </h2>
-          <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
+          <p className="text-blue-100 leading-relaxed mb-3 max-w-2xl mx-auto">
             State-approved prelicensing where states require it, exam prep everywhere else. $199 all-inclusive.
-            Pass guarantee in eligible states, backed by published methodology.
+            Pass guarantee* in eligible states, backed by published methodology.
+          </p>
+          <p className="text-xs text-blue-200/80 leading-relaxed mb-6 max-w-2xl mx-auto">
+            *The Pass Guarantee is not available in every state — it is not
+            offered on courses purchased for {passGuaranteeExcludedLabel()}. See
+            our{" "}
+            <Link href="/terms" className="underline hover:text-white">
+              terms
+            </Link>
+            .
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link

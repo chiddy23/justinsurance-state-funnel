@@ -115,7 +115,7 @@ export default function LifeAndHealthInsuranceLicensePage() {
             Life &amp; Health Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Get the broadest life and health insurance license available for $199. One combined course covers life, health, disability, LTC, annuities, and Medicare. Pass guarantee included (available in most states).
+            Get the broadest life and health insurance license available for $199. One combined course covers life, health, disability, LTC, annuities, and Medicare. Pass guarantee* included (available in most states).
           </p>
           <a
             href="#states"
@@ -124,11 +124,11 @@ export default function LifeAndHealthInsuranceLicensePage() {
             Find My State
           </a>
           <p className="text-blue-200 text-xs leading-relaxed mt-6 max-w-xl mx-auto">
-            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
+            *Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-gold">
               Terms
             </Link>
-            : complete the recommended hours, score 80%+ on the practice exam three times, and sit for your state exam within 30 days of enrolling.
+            : complete the recommended hours, score 80% or higher on any three practice-exam attempts, and sit for your state exam within 30 days of enrolling.
           </p>
         </div>
       </section>

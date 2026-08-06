@@ -131,7 +131,7 @@ export default function LifeInsuranceLicensePage() {
             Life Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Earn your life insurance license online. Your course is $199 &mdash; the state exam fee and your Department of Insurance application fee are paid separately to the state. Courses cover term, whole life, universal life, and annuities: state-approved prelicensing where your state requires it, exam prep built to the state exam content outline everywhere else. Pass guarantee included (available in most states).
+            Earn your life insurance license online. Your course is $199 &mdash; the state exam fee and your Department of Insurance application fee are paid separately to the state. Courses cover term, whole life, universal life, and annuities: state-approved prelicensing where your state requires it, exam prep built to the state exam content outline everywhere else. Pass guarantee* included (available in most states).
           </p>
           <a
             href="#states"
@@ -140,11 +140,11 @@ export default function LifeInsuranceLicensePage() {
             Find My State
           </a>
           <p className="text-blue-200 text-xs mt-6 max-w-xl mx-auto leading-relaxed">
-            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
+            *Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-white">
               Terms
             </Link>
-            : complete the recommended hours, score 80%+ on the practice exam three times in a row, and sit for your state exam within 30 days of enrolling.
+            : complete the recommended hours, score 80% or higher on any three practice-exam attempts, and sit for your state exam within 30 days of enrolling.
           </p>
         </div>
       </section>

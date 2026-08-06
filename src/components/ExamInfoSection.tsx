@@ -1,6 +1,6 @@
 import React from "react";
 import type { StateExamInfo } from "@/lib/states";
-import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasPassGuarantee, passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import { formatPassingScore, isScaledScore } from "@/lib/exam-score";
 
 interface ExamInfoSectionProps {
@@ -215,9 +215,12 @@ export default function ExamInfoSection({
               <div>
                 {showGuarantee ? (
                   <>
-                    <p className="font-semibold text-success-dark text-sm">Pass Guarantee</p>
+                    <p className="font-semibold text-success-dark text-sm">Pass Guarantee*</p>
                     <p className="text-gray-600 text-sm mt-1">
-                      JustInsurance students who complete the full course pass at significantly higher rates. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don&apos;t pass, we&apos;ll refund your course fee.
+                      JustInsurance students who complete the full course pass at significantly higher rates. Meet the recommended study hours, score 80%+ on any three practice-exam attempts, and test within 30 days of your first enrollment. If you don&apos;t pass, we&apos;ll give you a fresh study period, reset your practice exams, and reimburse your state exam fee.
+                    </p>
+                    <p className="text-gray-500 text-xs mt-1">
+                      *Not available in every state — not offered on courses purchased for {passGuaranteeExcludedLabel()}. See our Terms.
                     </p>
                   </>
                 ) : (

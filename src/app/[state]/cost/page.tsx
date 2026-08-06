@@ -5,7 +5,7 @@ import { stateDisclosure } from "@/lib/state-disclosures";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasPassGuarantee, passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
 import { credentialKindFromHours, isPrelicensingHeld, meansNotRequired, isCeAvailable, isCeApprovedComingSoon, isPrelicensingApprovedComingSoon } from "@/lib/prelicensing-status";
 import {
@@ -609,7 +609,7 @@ export default async function CostPage({
                 <li className="flex gap-2">
                   <span className="text-gold font-bold">✓</span>
                   {guaranteeOk
-                    ? "Pass guarantee — course-fee refund if you fail your first attempt (terms apply)"
+                    ? "Pass guarantee* — a free retake plus reimbursed state-exam fee if you don't pass your first attempt (terms apply)"
                     : "Instant course access — start studying within minutes of enrolling"}
                 </li>
                 <li className="flex gap-2">
@@ -618,6 +618,17 @@ export default async function CostPage({
                 </li>
               </ul>
             </div>
+            {guaranteeOk && (
+              <p className="text-xs text-gray-500 mt-3 leading-relaxed">
+                *The Pass Guarantee is not available in every state — it is not
+                offered on courses purchased for {passGuaranteeExcludedLabel()}.
+                See our{" "}
+                <Link href="/terms" className="underline hover:text-gold-deep">
+                  terms
+                </Link>
+                .
+              </p>
+            )}
           </div>
         </div>
       </section>

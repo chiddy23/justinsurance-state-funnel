@@ -134,7 +134,7 @@ export default function HealthInsuranceLicensePage() {
             Health Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Get your health insurance license online for $199. State-approved courses covering major medical, disability, LTC, and Medicare. Pass guarantee included (available in most states).
+            Get your health insurance license online for $199. State-approved courses covering major medical, disability, LTC, and Medicare. Pass guarantee* included (available in most states).
           </p>
           <a
             href="#states"
@@ -143,11 +143,11 @@ export default function HealthInsuranceLicensePage() {
             Find My State
           </a>
           <p className="text-blue-200 text-xs mt-6 max-w-xl mx-auto leading-relaxed">
-            Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
+            *Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="underline hover:text-white">
               Terms
             </Link>
-            : complete the recommended hours, score 80%+ on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment.
+            : complete the recommended hours, score 80% or higher on any three practice-exam attempts, and sit for your first-time state exam attempt within 30 days of your first enrollment.
           </p>
         </div>
       </section>

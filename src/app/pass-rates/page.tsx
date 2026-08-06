@@ -61,9 +61,9 @@ const features = [
       "Have a question about course content or the licensing process? Real humans are available by phone and email. You're never stuck studying alone.",
   },
   {
-    title: "Pass Guarantee",
+    title: "Pass Guarantee*",
     description:
-      `We're so confident in our courses that we back them with a pass guarantee in eligible states. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don't pass, we refund your course fee. The guarantee is available in most states and is not offered in ${passGuaranteeExcludedLabel()}.`,
+      `We're so confident in our courses that we back them with a pass guarantee in eligible states. Meet the recommended study hours, score 80% or higher on any three practice-exam attempts, and test within 30 days of your first enrollment. If you don't pass, we'll give you a fresh study period, reset your practice exams, and reimburse your state exam fee. *The guarantee is available in most states and is not offered in ${passGuaranteeExcludedLabel()}.`,
   },
 ];
 
@@ -250,8 +250,8 @@ export default function PassRatesPage() {
           <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
             Every state page includes the same 93% pass rate and state-approved
             curriculum, plus state-specific exam details. Our pass guarantee is
-            included in most states and is not offered in Ohio, Illinois, or
-            West Virginia.
+            included in most states and is not offered in{" "}
+            {passGuaranteeExcludedLabel()}.
           </p>
           <nav className="flex flex-wrap justify-center gap-2 text-sm">
             {[

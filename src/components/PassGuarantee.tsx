@@ -1,5 +1,5 @@
 import React from "react";
-import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasPassGuarantee, passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
 interface PassGuaranteeProps {
   /** State page slug (e.g. "ohio"). When the state excludes the pass
@@ -53,11 +53,11 @@ export default function PassGuarantee({ stateSlug }: PassGuaranteeProps) {
           </div>
 
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-4">
-            Our Pass Guarantee
+            Our Pass Guarantee*
           </h2>
 
           <p className="text-gray-700 text-lg mb-6 leading-relaxed">
-            We&apos;re so confident in our courses that we back them with a pass guarantee. Put in the study time, master the practice exam, and test within your window. If you still don&apos;t pass your state exam, <strong>we&apos;ll refund your course fee</strong>. No runaround. No excuses.
+            We&apos;re so confident in our courses that we back them with a pass guarantee. Put in the study time, master the practice exam, and test within your window. If you still don&apos;t pass your state exam, <strong>we&apos;ll give you a fresh study period, reset your practice exams, and reimburse your state exam fee</strong>. No runaround. No excuses.
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-left mb-8">
@@ -73,7 +73,7 @@ export default function PassGuarantee({ stateSlug }: PassGuaranteeProps) {
                 <span className="text-gold font-bold text-lg">2</span>
                 <p className="font-semibold text-navy text-sm">Master the Practice Exam</p>
               </div>
-              <p className="text-gray-600 text-sm">Score 80% or higher on the practice exam three times in a row before sitting for the state exam.</p>
+              <p className="text-gray-600 text-sm">Score 80% or higher on any three of your practice-exam attempts before sitting for the state exam.</p>
             </div>
             <div className="bg-white rounded-lg p-4 shadow-sm">
               <div className="flex items-center gap-2 mb-2">
@@ -85,7 +85,7 @@ export default function PassGuarantee({ stateSlug }: PassGuaranteeProps) {
           </div>
 
           <p className="text-gray-500 text-sm">
-            Guarantee applies to first-time state exam attempts within 30 days of your first course enrollment, and requires the recommended study hours (your state&apos;s required course hours where prelicensing is mandatory) plus three consecutive 80%+ practice exam scores. Claims require your official score report from the failed first attempt, submitted within 30 days of the exam. Contact{" "}
+            Guarantee applies to first-time state exam attempts within 30 days of your first course enrollment, and requires the recommended study hours (your state&apos;s required course hours where prelicensing is mandatory) plus three practice-exam scores of 80% or higher. Claims require your official score report from the failed first attempt, submitted within 30 days of the exam. On an approved claim we provide a fresh study period, reset your practice exams, and reimburse your state exam fee — not a cash refund. Contact{" "}
             <a href="mailto:support@justinsuranceco.com" className="text-navy hover:text-gold transition-colors underline">
               support@justinsuranceco.com
             </a>{" "}
@@ -93,7 +93,7 @@ export default function PassGuarantee({ stateSlug }: PassGuaranteeProps) {
           </p>
 
           <p className="text-gray-500 text-xs mt-3">
-            Pass Guarantee not available for Ohio (Ohio Admin. Code 3901-5-07(H)(16)), Illinois, or West Virginia courses — see our Terms for details.
+            *The Pass Guarantee is not available in every state — it is not offered on courses purchased for {passGuaranteeExcludedLabel()}. See our Terms for details.
           </p>
         </div>
       </div>

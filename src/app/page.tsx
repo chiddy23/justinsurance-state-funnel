@@ -8,6 +8,7 @@ import CTABanner from "@/components/CTABanner";
 import TrustpilotStars from "@/components/TrustpilotStars";
 import { TRUSTPILOT } from "@/lib/trustpilot";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
+import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
 // ---------------------------------------------------------------------------
 // COVERAGE vs APPROVAL — two different facts, both derived from states.ts so the
@@ -336,8 +337,8 @@ export default function HomePage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
                   </svg>
                 ),
-                title: "Pass Guarantee",
-                desc: "Meet the study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of enrollment. If you don't pass, we refund your course fee. Available in eligible states.",
+                title: "Pass Guarantee*",
+                desc: `Meet the study hours, score 80% or higher on any three practice-exam attempts, and test within 30 days of enrollment. If you don't pass, we'll give you a fresh study period, reset your practice exams, and reimburse your state exam fee. Available in eligible states. *Not offered on courses for ${passGuaranteeExcludedLabel()}; see Terms.`,
               },
               {
                 icon: (

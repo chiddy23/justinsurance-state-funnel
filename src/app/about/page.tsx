@@ -520,14 +520,15 @@ export default function AboutPage() {
               course.
             </li>
             <li>
-              <strong className="text-navy">Pass guarantee</strong> (available in most states) —
-              complete the recommended hours, score 80%+ on the practice exam three times, and sit
-              for your state exam within 30 days of enrolling. If you don&apos;t pass, we refund the
-              course fee.
+              <strong className="text-navy">Pass guarantee*</strong> (available in most states) —
+              complete the recommended hours, score 80% or higher on any three practice-exam
+              attempts, and sit for your state exam within 30 days of enrolling. If you
+              don&apos;t pass, we&apos;ll give you a fresh study period, reset your practice exams,
+              and reimburse your state exam fee.
             </li>
           </ul>
           <p className="text-gray-500 text-xs leading-relaxed mb-6">
-            Pass guarantee is available in most states and is not offered in{" "}
+            *Pass guarantee is available in most states and is not offered in{" "}
             {passGuaranteeExcludedLabel()}.{" "}
             <Link href="/pass-rates" className="text-navy font-semibold underline hover:text-gold">
               Full terms

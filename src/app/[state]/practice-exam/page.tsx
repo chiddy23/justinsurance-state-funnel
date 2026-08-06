@@ -79,7 +79,7 @@ export default async function PracticeExamPage({
       // is allowed everywhere; the pass-guarantee clause is dropped for
       // excluded states (flows into FAQPage JSON-LD automatically).
       answer: hasPassGuarantee(slug)
-        ? `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses.`
+        ? `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses.`
         : `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt.`,
     },
     {

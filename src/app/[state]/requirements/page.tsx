@@ -5,7 +5,7 @@ import { stateDisclosure } from "@/lib/state-disclosures";
 import { getStateBySlug } from "@/lib/states";
 import { credentialKindFromHours, isPrelicensingHeld, isCeAvailable, isCeApprovedComingSoon, isPrelicensingApprovedComingSoon } from "@/lib/prelicensing-status";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasPassGuarantee, passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, withIlWebinarFaq, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
 import {
   generateArticleSchemaWithReviewer,
@@ -1299,11 +1299,27 @@ export default async function RequirementsPage({
             : ilWebinar
             ? `Start your ${prelicensingApproved ? "state-approved " : ""}prelicensing course today. ${IL_WEBINAR_SHORT_LINE}`
             : hasPassGuarantee(stateData.slug)
-            ? `Start your ${prelicensingApproved ? "state-approved " : ""}prelicensing course today. 100% online, self-paced, and backed by our pass guarantee.`
+            ? `Start your ${prelicensingApproved ? "state-approved " : ""}prelicensing course today. 100% online, self-paced, and backed by our pass guarantee*.`
             : `Start your ${prelicensingApproved ? "state-approved " : ""}prelicensing course today. 100% online, self-paced, with instant access the moment you enroll.`
         }
         ctaText={prelicensingHeld ? "Learn More" : "Start My Course Today"}
         ctaHref={`/${stateData.slug}/prelicensing`}
+        disclosure={
+          // Ties the "pass guarantee*" marker in the subtitle above to its
+          // exclusion fine print — only rendered on the exact branch that adds
+          // the asterisk (not held, not the IL webinar copy, guarantee offered).
+          !prelicensingHeld && !ilWebinar && hasPassGuarantee(stateData.slug) ? (
+            <>
+              *The Pass Guarantee is not available in every state — it is not
+              offered on courses purchased for {passGuaranteeExcludedLabel()}. See
+              our{" "}
+              <Link href="/terms" className="underline hover:opacity-75">
+                terms
+              </Link>
+              .
+            </>
+          ) : undefined
+        }
       />
     </>
   );

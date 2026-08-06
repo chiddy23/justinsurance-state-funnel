@@ -797,8 +797,8 @@ export default async function StateHubPage({
               guaranteeOk
                 ? {
                     icon: "✅",
-                    title: "Pass Guarantee",
-                    desc: "Meet the study hours, score 80%+ on the practice exam three times, and test within 30 days of enrollment. If you don't pass, we refund your course fee.",
+                    title: "Pass Guarantee*",
+                    desc: "Meet the study hours, score 80% or higher on any three practice-exam attempts, and test within 30 days of enrollment. If you don't pass, we'll give you a fresh study period, reset your practice exams, and reimburse your state exam fee. *Not offered in every state; see our Terms.",
                   }
                 : {
                     icon: "⏱️",

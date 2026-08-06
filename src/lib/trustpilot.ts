@@ -6,16 +6,19 @@
 // Organization is against Google's guidelines (the compliant star-snippet path
 // is Trustpilot's paid licensed TrustBox widget). HTML display only.
 //
-// Data pulled from the live Trustpilot profile on 2026-06-19 (53 reviews,
-// 51 at 5 stars). Names shortened to first name + last initial for privacy.
-// `state` is set where the review explicitly names a state/exam (8 tagged) so
-// state hubs can feature locally-relevant reviews. Update here as reviews grow.
+// score/count reflect the live Trustpilot profile as of 2026-08-06 (4.8, 92
+// reviews). The reprinted reviews below are the set transcribed on 2026-06-19
+// (53 of them); TRUSTPILOT.count is the true profile total and is deliberately
+// NOT tied to how many we reprint (see note above TRUSTPILOT_REVIEWS). Names
+// shortened to first name + last initial for privacy. `state` is set where the
+// review explicitly names a state/exam (8 tagged) so state hubs can feature
+// locally-relevant reviews. Refresh count/score here as reviews grow.
 
 import { mentionsCompetitor } from "@/lib/testimonials";
 
 export const TRUSTPILOT = {
   score: 4.8,
-  count: 53,
+  count: 92,
   label: "Excellent", // Trustpilot descriptor for 4.5–5.0
   url: "https://www.trustpilot.com/review/justinsuranceco.com",
 } as const;
@@ -107,7 +110,7 @@ const TRUSTPILOT_REVIEWS_RAW: TrustpilotReview[] = [
  * pattern list, so there is exactly one definition of "names a competitor"
  * across the site and adding a company there covers Trustpilot too.
  *
- * Note: TRUSTPILOT.count (53) is deliberately NOT recomputed from this array.
+ * Note: TRUSTPILOT.count (92) is deliberately NOT recomputed from this array.
  * It reports how many reviews exist on the public Trustpilot profile, which is
  * what "Rated 4.8 out of 5 based on 53 reviews" asserts and what the score is
  * actually calculated from. It stays true regardless of how many we reprint.

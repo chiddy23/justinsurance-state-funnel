@@ -40,7 +40,7 @@ Securing your insurance license in North Carolina is straightforward when you br
 
 ### Step 1: Decide on pre-licensing education (optional)
 
-As of October 1, 2025, House Bill 737 eliminated North Carolina's mandatory prelicensing requirement, so completing a [North Carolina prelicensing](/north-carolina/prelicensing) course is now optional rather than a prerequisite to sitting for the exam. The state no longer approves or endorses prelicensing courses, so choose one built to the current Pearson VUE North Carolina content outline. Even so, these courses cover the fundamentals of insurance, including policy types, ethical practices, and state regulations specific to North Carolina, and most candidates still choose to take one. You can typically choose between classroom or online learning, depending on your schedule.
+As of October 1, 2025, [House Bill 737](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf) eliminated North Carolina's mandatory prelicensing requirement, so completing a [North Carolina prelicensing](/north-carolina/prelicensing) course is now optional rather than a prerequisite to sitting for the exam. The state no longer approves or endorses prelicensing courses, so choose one built to the [current Pearson VUE North Carolina content outline](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf). Even so, these courses cover the fundamentals of insurance, including policy types, ethical practices, and state regulations specific to North Carolina, and most candidates still choose to take one. You can typically choose between classroom or online learning, depending on your schedule.
 
 Aim to pay close attention to any material related to state rules, as you’ll be tested on legislation that applies uniquely to North Carolina residents. Investing extra effort here increases the odds of passing on your first try, so make the most of your study time and resources.
 
@@ -48,7 +48,7 @@ Aim to pay close attention to any material related to state rules, as you’ll b
 
 This is the step most out-of-state guides get backwards. North Carolina requires you to file your resident license application on [NIPR](https://nipr.com/licensing-center/apply) *before* you take any licensing exam. You’ll choose your lines of authority, answer the background questions, and pay the application fee at this point.
 
-Once your application is on file, you’ll receive an email with your Candidate ID and your Pearson VUE exam authorization, including the start and end dates of your eligibility period. Your application stays valid for six months — if your license hasn’t been issued by the end date on that authorization, you have to reapply through NIPR. Keep that email; you cannot schedule a test without it.
+Once your application is on file, you’ll receive an email with your Candidate ID and your Pearson VUE exam authorization, including the start and end dates of your eligibility period. Your application stays [valid for six months](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) — if your license hasn’t been issued by the end date on that authorization, you have to reapply through NIPR. Keep that email; you cannot schedule a test without it.
 
 ### Step 3: Register for and sit your exam
 
@@ -64,7 +64,7 @@ If you need a confidence boost, consider taking a few practice tests beforehand.
 
 ### Step 5: Complete fingerprinting and wait for issuance
 
-Congratulations on passing your exam. Because your application is already on file, the remaining work is the background check. North Carolina is unusual here: producer fingerprinting is handled through your **local police department** rather than a commercial vendor like IdentoGO, so contact your local law enforcement agency to schedule it. Keep your exam score report and fingerprint receipt where you can find them in case the [North Carolina Department of Insurance](/north-carolina/requirements) asks for documentation.
+Congratulations on passing your exam. Because your application is already on file, the remaining work is the background check. North Carolina is unusual here: [producer fingerprinting is handled through your **local police department**](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) rather than a commercial vendor like IdentoGO, so contact your local law enforcement agency to schedule it. Keep your exam score report and fingerprint receipt where you can find them in case the [North Carolina Department of Insurance](/north-carolina/requirements) asks for documentation.
 
 From there, the Department reviews your file and issues the license. NCDOI’s official service standard is 60 days, though most applicants see a decision well inside that window. Once you receive notice that your license is granted, you’re officially allowed to sell or discuss insurance policies in the state. It’s an exciting conclusion to your journey and the beginning of a new chapter in your career.
 
@@ -92,3 +92,9 @@ Whether you aim to guide families toward financially secure futures or you have 
 You’re now closer than ever to launching or elevating your career in insurance. Start by reviewing your checklist—decide on pre-licensing coursework, file your NIPR application and collect your exam authorization, schedule and pass the test, then finish your fingerprinting. From there, the possibilities multiply as you explore new lines of authority, build relationships in the industry, and consider expanding your role.
 
 If you’d rather work from structured material than piece it together yourself, JustInsurance offers self-paced online Life and Health courses built to the current Pearson VUE North Carolina content outline, plus practice questions you can retake as often as you need. Ultimately, your North Carolina insurance license isn’t just another credential. It’s your pathway to professional growth, steady income, and meaningful impact on the communities you’ll serve. Take that next step today, and watch as your confidence—and your career—continues to grow.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58, Article 33 — HB 737 made prelicensing optional](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [Pearson VUE — North Carolina Content Outlines (#123415)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf)
+- [Pearson VUE — North Carolina Candidate Handbook (#123400): six-month application validity, Live Scan fingerprints at local law enforcement](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)

@@ -36,7 +36,7 @@ A course from an unapproved provider — however excellent the content — won't
 
 ## Prometric's Role in North Carolina CE
 
-Prometric serves as NCDOI's CE administrator. This is North Carolina's distinctive arrangement — Prometric (not Sircon, not NCDOI directly) handles all CE services:
+[Prometric serves as NCDOI's CE administrator](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters). This is North Carolina's distinctive arrangement — Prometric (not Sircon, not NCDOI directly) handles all CE services:
 
 What Prometric does:
 
@@ -54,7 +54,7 @@ Reports compliance information to NCDOI
 
 What Sircon does (separate from Prometric):
 
-Processes license transactions and records — producer licenses are perpetual and require no renewal application; only the classes that actually renew (adjuster, public adjuster, surplus lines) file renewals through the state's licensing system
+Processes license transactions and records — [producer licenses are perpetual and require no renewal application](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing); only the classes that actually renew (adjuster, public adjuster, surplus lines) file renewals through the state's licensing system
 
 Maintains producer license records
 
@@ -281,3 +281,8 @@ Ethics courses without NC-specific scenarios
 The right CE provider makes compliance straightforward and educational. At JustInsurance, our North Carolina CE courses are NCDOI-approved with reliable Prometric reporting, transparent fee structures, and quality content covering NC-specific topics.
 
 Enroll today and meet your North Carolina CE requirements with confidence.
+
+**Sources cited:**
+
+- [NCDOI — Continuing Education for Insurance Producers and Adjusters](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)
+- [NCDOI — Insurance Producer and Adjuster Licensing](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing)

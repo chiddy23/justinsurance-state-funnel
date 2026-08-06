@@ -22,7 +22,7 @@ Here's the complete guide to the North Carolina Life and Health insurance exams.
 
 ## Who Administers the Exams
 
-North Carolina insurance licensing exams are administered by Pearson VUE on behalf of the North Carolina Department of Insurance (NCDOI). All exam registration, scheduling, and results processing flow through Pearson VUE.
+North Carolina insurance licensing exams are [administered by Pearson VUE](https://www.pearsonvue.com/us/en/nc/insurance.html) on behalf of the North Carolina Department of Insurance (NCDOI). All exam registration, scheduling, and results processing flow through Pearson VUE.
 
 Pearson VUE NC Licensing Office:
 
@@ -40,7 +40,7 @@ Website: home.pearsonvue.com/nc/insurance
 
 ## The Application-First Requirement
 
-Before you can schedule your North Carolina exam, you must complete a license application through NIPR. This is North Carolina's distinctive application-first approach:
+Before you can schedule your North Carolina exam, you must [complete a license application through NIPR](https://nipr.com/). This is North Carolina's distinctive application-first approach:
 
 Sequence:
 
@@ -52,7 +52,7 @@ Schedule your exam using the NPN and information from the Pearson VUE email
 
 Take your exam
 
-You cannot register for a North Carolina exam without the authorization information from your Pearson VUE email. Attempting to schedule before applying will fail.
+[You cannot register for a North Carolina exam without the authorization information from your Pearson VUE email](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf). Attempting to schedule before applying will fail.
 
 ## Where You'll Take the Exam
 
@@ -60,17 +60,17 @@ North Carolina insurance exams are delivered at Pearson VUE test centers. Physic
 
 Plan on a test center. The current Pearson VUE North Carolina Insurance Licensing Candidate Handbook describes test-center delivery only — candidates "should report to the test center at least thirty (30) minutes before the examination begins," each candidate "will leave the test center with an official score report in hand," and walk-ins are not available. The Pearson VUE North Carolina Insurance program page likewise offers only "Find a test center." Unlike some states, NC insurance is not listed as an OnVUE online-proctored program, so do not build your plan around testing from home. If that changes, Pearson VUE's NC insurance page is where it will show up first.
 
-To cancel or change your appointment, contact Pearson VUE at least 48 hours in advance or you forfeit the exam fee.
+To [cancel or change your appointment, contact Pearson VUE at least 48 hours in advance](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) or you forfeit the exam fee.
 
 ## North Carolina's Distinctive Exam Structure
 
 North Carolina stands apart from most states in exam structure.
 
-Passing score is a scaled score of 70 — not 70% of the questions. NCDOI and Pearson VUE convert your raw score onto a 0-100 scale, and the candidate handbook is explicit that the score reported to you "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Because the conversion accounts for how hard your particular exam form was, there is no fixed number of correct answers that guarantees a pass, and you should not study to a "39 out of 55" target. Numeric scores are only reported to candidates who fail; if you pass, you simply get a score report marked PASS.
+Passing score is a scaled score of 70 — not 70% of the questions. NCDOI and Pearson VUE convert your raw score onto a 0-100 scale, and the [candidate handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) is explicit that the score reported to you "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Because the conversion accounts for how hard your particular exam form was, there is no fixed number of correct answers that guarantees a pass, and you should not study to a "39 out of 55" target. Numeric scores are only reported to candidates who fail; if you pass, you simply get a score report marked PASS.
 
 Exam length and time by line:
 
-Life Agent: 55 scored questions (plus up to 5 unscored pretest), 1 hour 15 minutes
+[Life Agent: 55 scored questions (plus up to 5 unscored pretest), 1 hour 15 minutes](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf)
 
 Accident and Health or Sickness Agent: 55 scored (plus up to 5 pretest), 1 hour 15 minutes
 
@@ -78,7 +78,7 @@ Property Agent: 55 scored (plus up to 5 pretest), 1 hour 15 minutes
 
 Casualty Agent: 55 scored (plus up to 5 pretest), 1 hour 15 minutes
 
-Personal Lines Agent: 80 scored questions (plus up to 16 pretest), 1 hour 45 minutes
+[Personal Lines Agent: 80 scored questions (plus up to 16 pretest), 1 hour 45 minutes](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf)
 
 The Personal Lines exam is the exception that trips people up — it is a longer test on a longer clock, so do not pace it like the four major-line exams.
 
@@ -88,7 +88,7 @@ Separate Life and Accident & Health exams — no combined L&H option
 
 Separate Property and Casualty exams — no combined P&C option
 
-Each exam costs $45 — taking all four major lines = $180 in exam fees
+[Each exam costs $45](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) — taking all four major lines = $180 in exam fees
 
 Each exam requires separate scheduling through Pearson VUE
 
@@ -102,7 +102,7 @@ General Knowledge. Insurance principles applicable in any state.
 
 North Carolina Statutes and Regulations. North Carolina-specific insurance laws, drawing from Chapter 58 of the North Carolina General Statutes (G.S. 58).
 
-The published Pearson VUE content outlines give exact item counts rather than ranges. On both exams covered here, the NC statutes section is 14 of the 55 scored questions — a full quarter of the test, and more than most candidates expect:
+The published Pearson VUE content outlines give exact item counts rather than ranges. On both exams covered here, the [NC statutes section is 14 of the 55 scored questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf) — a full quarter of the test, and more than most candidates expect:
 
 Life Agent: 41 general knowledge, 14 North Carolina statutes and regulations
 
@@ -308,7 +308,7 @@ Continuing Education requirements
 
 ## Two Forms of ID Required
 
-North Carolina requires two forms of valid government-issued identification on exam day:
+North Carolina [requires two forms](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) of valid government-issued identification on exam day:
 
 Primary ID: Must contain both photograph AND signature (driver's license, passport, military ID).
 
@@ -383,3 +383,10 @@ Spacing exams: Most candidates benefit from at least 1-2 weeks between different
 Knowing what to expect removes half the stress. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) course is built around the Pearson VUE content outline — including the North Carolina-specific statutes and regulations that appear on every exam.
 
 Enroll today and prepare for the North Carolina exam the right way.
+
+**Sources cited:**
+
+- [Pearson VUE — North Carolina Insurance (exam program and test centers)](https://www.pearsonvue.com/us/en/nc/insurance.html)
+- [Pearson VUE North Carolina Insurance Licensing Candidate Handbook (#123400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
+- [Pearson VUE North Carolina Insurance Content Outlines (#123415, effective March 2, 2026)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf)
+- [National Insurance Producer Registry (NIPR)](https://nipr.com/)

@@ -48,7 +48,7 @@ Market instability in high-fraud risk categories
 
 ## North Carolina's Insurance Fraud Statute
 
-North Carolina's primary insurance fraud statute is found in G.S. 58-2-161 (False Statement to Procure or Deny Benefit of Insurance Policy) and additional provisions throughout Chapter 58:
+North Carolina's primary insurance fraud statute is found in [G.S. 58-2-161 (False Statement to Procure or Deny Benefit of Insurance Policy)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_2.pdf) and additional provisions throughout Chapter 58:
 
 Key prohibitions include:
 
@@ -64,7 +64,7 @@ Vehicle title fraud schemes
 
 Premium fraud (misclassification, false statements about risks)
 
-Chapter 58 also builds in a reporting duty. G.S. 58-2-163 (Report to Commissioner) requires any person licensed or registered under Articles 1 through 67 of Chapter 58 — licensed producers included — who knows or has reasonable cause to believe that another person has violated G.S. 58-2-161, 58-2-162, 58-2-164, 58-2-180, 58-8-1, or 58-24-180(e) to notify the Commissioner. More on what that means for you below.
+Chapter 58 also builds in a reporting duty. [G.S. 58-2-163 (Report to Commissioner)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_2.pdf) requires any person licensed or registered under Articles 1 through 67 of Chapter 58 — licensed producers included — who knows or has reasonable cause to believe that another person has violated G.S. 58-2-161, 58-2-162, 58-2-164, 58-2-180, 58-8-1, or 58-24-180(e) to notify the Commissioner. More on what that means for you below.
 
 Supplementing G.S. 58: North Carolina also applies general criminal fraud provisions (G.S. 14 — Criminal Law) and NCDOI enforcement authority under G.S. 58-2 to address insurance fraud.
 
@@ -82,7 +82,7 @@ These are criminal violations with serious consequences.
 
 ## Unfair Trade Practices Intersection
 
-G.S. 58-63 Unfair Trade Practices provisions overlap with fraud in important ways:
+[G.S. 58-63 Unfair Trade Practices](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf) provisions overlap with fraud in important ways:
 
 Misrepresentation by producers — false statements about policies, premiums, or benefits — often intersects with fraud when done intentionally to obtain commissions or avoid accountability.
 
@@ -320,7 +320,7 @@ Maintain current fraud awareness. Quality ethics CE covers emerging fraud patter
 
 - What constitutes insurance fraud in North Carolina? Insurance fraud includes any intentional misrepresentation, concealment, or false statement made to obtain insurance benefits, lower premiums, or otherwise gain advantage in insurance transactions. Both producers and consumers can commit insurance fraud under G.S. 58-2-161 and related criminal statutes.
 - What are the penalties for insurance fraud in North Carolina? Penalties range from misdemeanor to felony charges depending on amounts and circumstances. Convicted producers almost always lose their licenses permanently. Civil liability and restitution obligations may also apply.
-- Am I required to report suspected fraud as a North Carolina producer? Yes. G.S. 58-2-163 makes it the duty of any person licensed or registered under Articles 1 through 67 of Chapter 58 — producers included — who knows or has reasonable cause to believe that another person has violated G.S. 58-2-161, 58-2-162, 58-2-164, 58-2-180, 58-8-1, or 58-24-180(e) to notify the Commissioner and provide a complete statement of all of the relevant facts and circumstances. The duty runs to the Commissioner specifically, so a referral to your carrier's SIU or the NICB is a good additional step but does not discharge it. The report is privileged and, made without actual malice, does not subject you to liability — while the statute lets the Commissioner suspend, revoke, or refuse to renew the license of a licensee who willfully fails to comply.
+- Am I required to report suspected fraud as a North Carolina producer? Yes. [G.S. 58-2-163 makes it the duty of any person licensed or registered under Articles 1 through 67 of Chapter 58](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_2.pdf) — producers included — who knows or has reasonable cause to believe that another person has violated G.S. 58-2-161, 58-2-162, 58-2-164, 58-2-180, 58-8-1, or 58-24-180(e) to notify the Commissioner and provide a complete statement of all of the relevant facts and circumstances. The duty runs to the Commissioner specifically, so a referral to your carrier's SIU or the NICB is a good additional step but does not discharge it. The report is privileged and, made without actual malice, does not subject you to liability — while the statute lets the Commissioner suspend, revoke, or refuse to renew the license of a licensee who willfully fails to comply.
 - What happens if I unknowingly participate in a fraud scheme? Intent matters in fraud evaluation, but producers have duties to know what they're doing. Willful blindness to obvious red flags doesn't protect you. Document concerns, ask questions, and report suspicious activity to protect yourself.
 - How do I report suspected insurance fraud to the NCDOI? Report to the NCDOI Criminal Investigations Division at 888-680-7684 (toll-free in NC) or 919-807-6840, or use the online fraud report form at ncdoi.gov/fraud-control/report-insurance-fraud. The Criminal Investigations Division handles producer fraud and insurance company fraud referrals. (The NCDOI's general consumer line, 855-408-1212, is not the fraud-reporting number.)
 
@@ -329,3 +329,8 @@ Maintain current fraud awareness. Quality ethics CE covers emerging fraud patter
 Insurance fraud affects every honest North Carolina producer. Recognizing patterns, understanding obligations, and building strong documentation practices protect your clients and your career. At JustInsurance, our North Carolina CE courses cover anti-fraud topics including producer obligations and recognition of common fraud schemes.
 
 Enroll today and strengthen your North Carolina compliance foundation.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58, Article 2 — §58-2-161 (False statement to procure or deny benefit) & §58-2-163 (Report to Commissioner) (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_2.pdf)
+- [N.C.G.S. Chapter 58, Article 63 — Unfair Trade Practices (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf)

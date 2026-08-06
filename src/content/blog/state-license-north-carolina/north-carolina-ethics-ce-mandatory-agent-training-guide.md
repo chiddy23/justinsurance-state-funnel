@@ -23,7 +23,7 @@ Here's what every North Carolina agent should know about the ethics CE requireme
 
 ## The Basic Requirement
 
-North Carolina requires 3 hours of NCDOI-approved Ethics CE in every 2-year compliance period. These 3 hours are part of your total 24-hour CE requirement — mandatory subset that can't be skipped.
+North Carolina requires [3 hours of NCDOI-approved Ethics CE in every 2-year compliance period](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters). These 3 hours are part of your total 24-hour CE requirement — mandatory subset that can't be skipped.
 
 Key rules:
 
@@ -63,7 +63,7 @@ Market pressures create temptation. Commission-driven income creates incentives 
 
 NCDOI-approved ethics courses address topics including:
 
-North Carolina Unfair Trade Practices (G.S. 58-63):
+[North Carolina Unfair Trade Practices (G.S. 58-63)](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf):
 
 Misrepresentation — false statements about policies, benefits, premiums, or insurer financial condition
 
@@ -239,10 +239,15 @@ Social media missteps. Advertising and marketing standards apply to social media
 - Do I need to take ethics every compliance period? Yes. Ethics is required every 2-year CE compliance period. Excess ethics hours from a prior period carry over as general credit only — they don't satisfy the ethics requirement in the next period.
 - Can I repeat the same ethics course? Not within the same 2-year compliance period. You may take the same course in a subsequent period.
 - Does it matter which ethics course I take? It must be specifically NCDOI-approved as Ethics CE. Beyond that, quality content — North Carolina-specific, case-study-based, current — provides more professional value than generic material.
-- What happens if I skip the ethics requirement? Your license expires at your compliance deadline. Without ethics, your CE is considered incomplete even if you've completed 21 general hours. The 4-month grace period with $75 fee applies, but after that the license becomes inactive and you must pass the licensing exam again.
+- What happens if I skip the ethics requirement? Your license expires at your compliance deadline. Without ethics, your CE is considered incomplete even if you've completed 21 general hours. The [4-month grace period](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters) with $75 fee applies, but after that the license becomes inactive and you must pass the licensing exam again.
 
 ## Meet North Carolina's Ethics Requirement the Right Way
 
 Ethics CE protects your career while satisfying a regulatory requirement. At JustInsurance, our North Carolina ethics CE courses are NCDOI-approved with current North Carolina-specific content drawn from G.S. 58 and NCDOI enforcement priorities.
 
 Enroll in our North Carolina ethics CE today and protect your license and your career.
+
+**Sources cited:**
+
+- [NCDOI — Continuing Education for Insurance Producers and Adjusters](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)
+- [North Carolina General Statutes — Chapter 58 Article 63, Unfair Trade Practices (PDF)](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf)

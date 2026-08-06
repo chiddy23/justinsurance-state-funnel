@@ -36,11 +36,11 @@ You must be able to pass a state and federal criminal history background check
 
 You must truthfully complete the license application and disclose any relevant history
 
-These eligibility requirements are governed under the North Carolina General Statutes (Chapter 58 — Insurance) and administered by the North Carolina Department of Insurance (NCDOI).
+These eligibility requirements are governed under the [North Carolina General Statutes (Chapter 58 — Insurance)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf) and administered by the North Carolina Department of Insurance (NCDOI).
 
 ## Step 2: Pre-Licensing Education (NOT Required as of October 1, 2025)
 
-Here's a major recent change: North Carolina House Bill 737 (Session Law 2025-45), effective October 1, 2025, eliminated the prelicense education (PLE) requirement for all North Carolina insurance producer license lines. North Carolina now joins states like Pennsylvania, South Carolina, Massachusetts, Alabama, and Nevada in not requiring formal prelicense courses.
+Here's a major recent change: North Carolina [House Bill 737 (Session Law 2025-45), effective October 1, 2025, eliminated the prelicense education (PLE) requirement](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf) for all North Carolina insurance producer license lines. North Carolina now joins states like Pennsylvania, South Carolina, Massachusetts, Alabama, and Nevada in not requiring formal prelicense courses.
 
 However, prelicense education is strongly recommended. Here's why:
 
@@ -128,11 +128,11 @@ Website: pearsonvue.com or home.pearsonvue.com/nc/insurance
 
 Phone: 866-265-6329 or (800) 274-0668
 
-Pay the $45 exam fee per exam at registration
+Pay the [$45 exam fee per exam](https://www.pearsonvue.com/us/en/nc/insurance.html) at registration
 
 ## North Carolina Exam Structure
 
-North Carolina has a distinctive exam format compared to most states — including how it reports your score. The passing score is 70, but that 70 is a **scaled** score on a 0-to-100 range, not a percentage of questions answered correctly. The Pearson VUE North Carolina handbook is explicit: raw scores are converted into scaled scores, and "the scaled score that is reported to you is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Because Pearson VUE equates the different forms of each exam to correct for differences in difficulty, the raw number of correct answers needed to reach a 70 varies by the version you sit. There is no fixed "X of 55" threshold to aim at, and any course that quotes you one is inventing it.
+North Carolina has a distinctive exam format compared to most states — including how it reports your score. The passing score is 70, but that 70 is a **scaled** score on a 0-to-100 range, not a percentage of questions answered correctly. The [Pearson VUE North Carolina handbook](https://www.pearsonvue.com/us/en/nc/insurance.html) is explicit: raw scores are converted into scaled scores, and "the scaled score that is reported to you is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Because Pearson VUE equates the different forms of each exam to correct for differences in difficulty, the raw number of correct answers needed to reach a 70 varies by the version you sit. There is no fixed "X of 55" threshold to aim at, and any course that quotes you one is inventing it.
 
 One more scoring detail worth knowing: the Life, A&H, Property, Casualty, and Personal Lines exams are two-part exams (general and state-specific), and the two parts are scored together, not individually. You need an overall passing score — you do not have to clear a separate cut on each part.
 
@@ -314,21 +314,21 @@ Website: ncdoi.gov
 
 ## Keeping Your License Active: CE, Not Renewal
 
-North Carolina works differently from most states here, and the difference is easy to get wrong. NCDOI states that insurance producer licenses "do not renew and are valid until surrendered, canceled or revoked" for Life, Accident & Health or Sickness, Property, Casualty, Personal Lines, Medicare Supplement, Long-Term Care, and Variable Life and Variable Annuity Products. There is no biennial renewal filing and no renewal fee on those lines. (Some other license types — adjusters, public adjusters, business entities, surplus lines, purchasing groups — do have fixed annual renewal dates.)
+North Carolina works differently from most states here, and the difference is easy to get wrong. NCDOI states that insurance producer licenses ["do not renew and are valid until surrendered, canceled or revoked"](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing) for Life, Accident & Health or Sickness, Property, Casualty, Personal Lines, Medicare Supplement, Long-Term Care, and Variable Life and Variable Annuity Products. There is no biennial renewal filing and no renewal fee on those lines. (Some other license types — adjusters, public adjusters, business entities, surplus lines, purchasing groups — do have fixed annual renewal dates.)
 
 What actually keeps a producer license alive is continuing education. Miss the CE deadline and the license expires; there is no separate renewal step to save it.
 
-CE requirement: 24 hours every 2 years, including 3 hours of ethics. Producers holding a property line must also complete 3 hours of flood insurance CE in their first compliance period and again every 4 years
+CE requirement: [24 hours every 2 years, including 3 hours of ethics](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters). Producers holding a property line must also complete 3 hours of flood insurance CE in their first compliance period and again every 4 years
 
 CE compliance date: the last day of your birth month, biennially. Even-year birth year = even-year compliance, odd-year birth year = odd-year compliance
 
 CE deadline: your hours must be completed **by** your CE compliance date. There is no requirement to finish 60 days early — that rule does not exist in North Carolina
 
-Missing the compliance date: your license expires, but you have 4 months from the compliance date to complete the hours and submit a $75 reinstatement to Prometric
+Missing the compliance date: your license expires, but you have 4 months from the compliance date to complete the hours and submit a [$75 reinstatement to Prometric](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)
 
 After 4 months: the license goes inactive and you must restart the licensing process, including the state exam
 
-Fingerprinting: a one-time requirement, not a recurring one. Under N.C.G.S. 58-33-48 and 11 NCAC 6A .0418, fingerprints are required from applicants for an initial resident producer license, non-resident producers applying for a resident license, adjusters applying for an initial resident producer license, applicants reinstating a license lapsed more than one year, and applicants whose license was suspended or revoked for non-payment of child support. There is no every-other-renewal re-fingerprinting requirement and no recurring $38 fingerprint fee
+Fingerprinting: a one-time requirement, not a recurring one. Under [N.C.G.S. 58-33-48](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf) and 11 NCAC 6A .0418, fingerprints are required from applicants for an initial resident producer license, non-resident producers applying for a resident license, adjusters applying for an initial resident producer license, applicants reinstating a license lapsed more than one year, and applicants whose license was suspended or revoked for non-payment of child support. There is no every-other-renewal re-fingerprinting requirement and no recurring $38 fingerprint fee
 
 ## Special Path: Moving to North Carolina From Another State
 
@@ -361,3 +361,10 @@ This streamlined path makes North Carolina accessible for already-licensed produ
 North Carolina's recent elimination of PLE requirements makes it one of the more accessible states — but quality preparation still matters for first-attempt exam success. At JustInsurance, our North Carolina exam prep course covers everything you need including North Carolina-specific laws.
 
 Enroll today and take your first step toward a North Carolina insurance producer license.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58, Article 33 — HB 737 (S.L. 2025-45) prelicensing repeal and § 58-33-48 fingerprint requirement (N.C. General Assembly)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [$45 exam fee and scaled-score explanation from the NC Candidate Handbook (Pearson VUE)](https://www.pearsonvue.com/us/en/nc/insurance.html)
+- [Producer licenses "do not renew" (perpetual) — producer and adjuster licensing (NCDOI)](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing)
+- [Continuing education — 24 hours / 3 ethics, and $75 reinstatement to Prometric (NCDOI)](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)

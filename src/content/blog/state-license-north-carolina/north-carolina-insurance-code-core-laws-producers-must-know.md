@@ -53,7 +53,7 @@ Mandatory policy provisions
 
 Free-look period requirements for consumers
 
-Article 33 — Licensing of Agents, Brokers, Limited Representatives, and Adjusters (G.S. 58-33):
+Article 33 — [Licensing of Agents, Brokers, Limited Representatives, and Adjusters](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf) (G.S. 58-33):
 
 Producer licensing requirements (age, residency, background, exam)
 
@@ -65,7 +65,7 @@ License continuation and CE requirements (producer licenses are perpetual; adjus
 
 License revocation and disciplinary procedures
 
-Article 36 — The North Carolina Rate Bureau (G.S. 58-36):
+Article 36 — [The North Carolina Rate Bureau (G.S. 58-36)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_36.pdf):
 
 Rate Bureau structure and function
 
@@ -77,7 +77,7 @@ Consent to Rate provisions
 
 Member insurer obligations
 
-Article 45 — North Carolina Insurance Underwriting Association / Coastal Property Insurance Pool (G.S. 58-45):
+Article 45 — [North Carolina Insurance Underwriting Association / Coastal Property Insurance Pool](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_45.pdf) (G.S. 58-45):
 
 CPIP (formerly Beach Plan) structure and authority
 
@@ -89,7 +89,7 @@ Coverage available through CPIP
 
 Last resort market provisions
 
-Article 63 — Unfair Trade Practices (G.S. 58-63):
+Article 63 — [Unfair Trade Practices (G.S. 58-63)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf):
 
 Prohibited unfair practices
 
@@ -165,13 +165,13 @@ State exam required per line (no combined L&H or P&C exams)
 
 Application through NIPR
 
-Recent significant change (October 1, 2025): HB 737 (Session Law 2025-45) eliminated the [prelicense](/north-carolina/prelicensing) education (PLE) requirement for all insurance producer lines. Candidates can now go directly from study to NIPR application to exam.
+Recent significant change (October 1, 2025): [HB 737 (Session Law 2025-45)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf) eliminated the [prelicense](/north-carolina/prelicensing) education (PLE) requirement for all insurance producer lines. Candidates can now go directly from study to NIPR application to exam.
 
 License continuation and CE compliance:
 
-Producer licenses are perpetual — there is no renewal filing and no renewal fee for major lines
+[Producer licenses are perpetual — there is no renewal filing and no renewal fee for major lines](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
 
-24 hours of CE, including 3 hours of ethics, on a two-year compliance cycle
+[24 hours of CE, including 3 hours of ethics, on a two-year compliance cycle](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)
 
 Your CE compliance date is the last day of your birth month in your compliance year — even-numbered years if you were born in an even year, odd-numbered years if you were born in an odd year
 
@@ -263,7 +263,7 @@ Guaranty associations. North Carolina Life and Health Insurance Guaranty Associa
 
 July 1, 2025 Auto Insurance Law Changes:
 
-Minimum liability limits increased to 50/100/50
+[Minimum liability limits increased to 50/100/50](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_20/Article_9A.pdf)
 
 UM/UIM remains mandatory at same limits as liability
 
@@ -294,3 +294,12 @@ These recent changes reflect North Carolina's active insurance regulatory enviro
 The North Carolina Insurance Code isn't just exam content — it's the rulebook for your entire career. At JustInsurance, our North Carolina prelicense and CE courses cover Chapter 58 in practical, producer-focused depth including recent legislative updates.
 
 Enroll today and build your North Carolina insurance career on a solid compliance foundation.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58, Article 33 — Licensing of Insurance Producers, Limited Representatives, and Adjusters (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [N.C.G.S. Chapter 58, Article 36 — North Carolina Rate Bureau (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_36.pdf)
+- [N.C.G.S. Chapter 58, Article 45 — Essential Property Insurance for Beach Area Property (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_45.pdf)
+- [N.C.G.S. Chapter 58, Article 63 — Unfair Trade Practices (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf)
+- [N.C.G.S. Chapter 20, Article 9A — Motor Vehicle Safety and Financial Responsibility Act, §20-279.21 (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_20/Article_9A.pdf)
+- [NCDOI — Continuing Education for Insurance Producers and Adjusters](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)

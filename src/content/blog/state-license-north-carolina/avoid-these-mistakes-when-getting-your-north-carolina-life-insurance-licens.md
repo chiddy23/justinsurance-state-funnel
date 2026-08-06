@@ -24,7 +24,7 @@ Below, you’ll find common mistakes people often make when getting a North Caro
 
 ## Underestimating pre-licensing education
 
-As of October 1, 2025 (HB 737), North Carolina no longer requires a [pre-licensing](/north-carolina/prelicensing) course before you can earn your life insurance license — it's optional. Even so, many candidates skip or rush through structured preparation entirely, especially if they already have industry experience or feel pressed for time. Doing so can lead to misunderstanding essential insurance concepts and missing valuable study tips provided by qualified instructors.
+As of [October 1, 2025 (HB 737)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf), North Carolina no longer requires a [pre-licensing](/north-carolina/prelicensing) course before you can earn your life insurance license — [it's optional](https://www.ncdoi.gov/documents/agent-services/resident-prelicensing-requirements-and-exemptions-chart/open). Even so, many candidates skip or rush through structured preparation entirely, especially if they already have industry experience or feel pressed for time. Doing so can lead to misunderstanding essential insurance concepts and missing valuable study tips provided by qualified instructors.
 
 Pre-licensing courses typically cover fundamental topics like policy types, state regulations, and ethical standards. If you skip structured preparation altogether without a solid self-study plan, you risk entering the exam without a strong foundation. If you do enroll in a course, treat it as the backbone of your study routine. Commit to a schedule that allows you to absorb the material at a steady pace, and don’t hesitate to ask questions if certain topics seem unclear.
 
@@ -57,3 +57,8 @@ Early in your journey, become familiar with the CE expectations and set up remin
 Earning your North Carolina life insurance license is a significant career milestone, and avoiding these common mistakes will streamline your path to success. If you give yourself enough time to prepare thoroughly (whether through a pre-licensing course or self-study), stay organized with your study schedule, and carefully manage each step, you’ll be well on your way to achieving your insurance goals. Paying attention to details—such as paperwork, background checks, and continuing education—will help you focus on the bigger picture: growing your client base and building a rewarding practice.
 
 If you’re feeling uncertain about any part of the process, consider reaching out to JustInsurance for extra guidance. They can answer specific questions about North Carolina’s life insurance license requirements and guide you through each phase with personalized advice. By taking the next step now, you’ll soon be ready to serve your community as a knowledgeable, trusted life insurance professional. Remember, a thoughtful and organized approach can turn a challenging journey into a confident start for your new career.
+
+**Sources cited:**
+
+- [North Carolina General Statutes — Chapter 58 Article 33 (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [NCDOI — Resident Prelicensing Requirements and Exemptions Chart (PDF)](https://www.ncdoi.gov/documents/agent-services/resident-prelicensing-requirements-and-exemptions-chart/open)

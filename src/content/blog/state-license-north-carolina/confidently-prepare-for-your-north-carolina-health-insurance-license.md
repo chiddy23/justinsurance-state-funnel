@@ -31,7 +31,7 @@ If these criteria are true for you, you’re already on track. However, if you h
 
 ## Consider a pre-licensing course (optional)
 
-As of October 1, 2025, North Carolina House Bill 737 eliminated the mandatory prelicensing requirement, so a [North Carolina prelicensing](/north-carolina/prelicensing) course is now optional rather than required — but many candidates still choose one when earning a North Carolina health insurance license. You’ll cover key topics like policy types, state regulations, and ethical sales practices, helping you build a solid foundation of expertise.
+As of October 1, 2025, [North Carolina House Bill 737 eliminated the mandatory prelicensing requirement](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf), so a [North Carolina prelicensing](/north-carolina/prelicensing) course is now optional rather than required — but many candidates still choose one when earning a North Carolina health insurance license. You’ll cover key topics like policy types, state regulations, and ethical sales practices, helping you build a solid foundation of expertise.
 
 Look for courses geared specifically toward the Accident and Health or Sickness line, or toward life and health together if you intend to hold both. Note that studying the two together is a study-plan choice, not an exam shortcut: North Carolina tests life and health as two separate exams, so a "life and health" course is simply preparing you for both. You can find classroom-based sessions and online offerings. If your schedule is tight, an online course might let you learn at your own pace without sacrificing quality.
 
@@ -46,11 +46,11 @@ Completing [pre-licensing](/north-carolina/prelicensing) coursework, if you choo
 
 ## Apply through NIPR before you test
 
-Here is the step that surprises most North Carolina candidates, and the one that will send you home from the test center if you miss it: **North Carolina is an apply-before-you-test state.** You submit your license application through NIPR first. NCDOI then authorizes you to test, and Pearson VUE emails you an authorization notice with your Candidate ID. Only then can you book an exam.
+Here is the step that surprises most North Carolina candidates, and the one that will send you home from the test center if you miss it: **North Carolina is an [apply-before-you-test state](https://nipr.com/licensing-center/state-information/north-carolina).** You submit your license application through NIPR first. NCDOI then authorizes you to test, and Pearson VUE emails you an authorization notice with your Candidate ID. Only then can you book an exam.
 
 A few things to know about that authorization:
 
--   Your license application carries a six-month eligibility window. The start and end dates appear on your authorization email, and you must pass your exam before that end date or reapply through NIPR.
+-   Your license application carries a [six-month eligibility window](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing). The start and end dates appear on your authorization email, and you must pass your exam before that end date or reapply through NIPR.
 -   Fingerprinting for your criminal history check is part of this stage. North Carolina routes producer fingerprinting through your local police department rather than a commercial vendor, so call your local agency to schedule.
 -   Trying to book with Pearson VUE before your authorization arrives simply fails — the system has nothing to match you to.
 
@@ -58,7 +58,7 @@ A few things to know about that authorization:
 
 Once your authorization is in hand and you feel prepared — whether through a pre-licensing course or self-study — you’re ready to take the [North Carolina licensing exam](/north-carolina/requirements). There is a separate exam for each line of authority, and North Carolina does not offer a combined Life and Health exam. Pearson VUE administers "Accident and Health or Sickness Agent" and "Life Agent" as two distinct exams, so a candidate who wants both lines sits for both tests.
 
-Schedule with Pearson VUE, North Carolina's exam vendor, at a time that suits you; reservations must be made at least 24 hours ahead. The fee is $45 for each examination attempt, payable by credit card, debit card, or voucher when you reserve — so budget $90 if you are pursuing both life and health. Fees are non-refundable and non-transferable, and payment is not accepted at the test center.
+Schedule with [Pearson VUE, North Carolina's exam vendor](https://www.pearsonvue.com/us/en/nc/insurance.html), at a time that suits you; reservations must be made at least 24 hours ahead. The fee is [$45 for each examination attempt](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf), payable by credit card, debit card, or voucher when you reserve — so budget $90 if you are pursuing both life and health. Fees are non-refundable and non-transferable, and payment is not accepted at the test center.
 
 ### Preparation tips
 
@@ -98,7 +98,7 @@ Keep an eye on your email for requests for additional documentation. Respond pro
 
 Passing your exam and receiving your license is a tremendous achievement, but your professional journey doesn’t end there. In North Carolina, you must meet ongoing [North Carolina continuing education](/north-carolina/continuing-education) (CE) requirements to keep your license active. CE hours ensure you stay up-to-date on insurance laws, policy changes, and best practices.
 
-Check the NCDOI website for specific CE hour requirements tied to your health insurance license. You may need to report these hours every two years. Planning ahead and spreading out your coursework can help you avoid last-minute scrambles.
+Check the NCDOI website for specific CE hour requirements tied to your health insurance license. You may need to [report these hours every two years](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters). Planning ahead and spreading out your coursework can help you avoid last-minute scrambles.
 
 ## Make your future bright
 
@@ -107,3 +107,12 @@ Securing a North Carolina health insurance license opens doors to a rewarding ca
 If you’re ready to move forward, JustInsurance provides resources that can simplify every step, from pre-licensing advice to post-exam tips. Take that leap, and with the right preparation and support, you can become the trusted insurance expert that North Carolinians rely on.
 
 Good luck on your journey. You have every reason to feel excited about your new opportunity, and each step you take now puts you one step closer to a fulfilling future.
+
+**Sources cited:**
+
+- [North Carolina General Statutes — Chapter 58 Article 33 (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [NIPR — North Carolina licensing overview](https://nipr.com/licensing-center/state-information/north-carolina)
+- [NCDOI — Insurance Producer and Adjuster Licensing](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing)
+- [Pearson VUE — North Carolina insurance exams](https://www.pearsonvue.com/us/en/nc/insurance.html)
+- [Pearson VUE — North Carolina Insurance Candidate Handbook (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
+- [NCDOI — Continuing Education for Insurance Producers and Adjusters](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)

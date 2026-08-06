@@ -22,7 +22,7 @@ Here's a clear breakdown of North Carolina insurance CE requirements.
 
 ## The Basic Framework
 
-Under North Carolina General Statutes Chapter 58, the North Carolina Department of Insurance (NCDOI) requires licensed insurance producers to complete continuing education during each 2-year compliance period.
+Under [North Carolina General Statutes Chapter 58](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf), the North Carolina Department of Insurance (NCDOI) requires licensed insurance producers to complete continuing education during each 2-year compliance period.
 
 For North Carolina resident insurance producers, the standard requirement is:
 
@@ -38,7 +38,7 @@ Importantly, North Carolina producers may take approved courses in any line of a
 
 ## Your Compliance Cycle — And Why There Is No Renewal Application
 
-This is where North Carolina genuinely differs from most states, so read it carefully: resident and non-resident insurance producer licenses do not renew. NCDOI states that producer licenses "do not renew and are valid until surrendered, canceled or revoked." There is no biennial renewal application to file, no renewal fee to pay, and no renewal form to submit. Your only affirmative obligation is completing the continuing education for the license lines you hold, on time.
+This is where North Carolina genuinely differs from most states, so read it carefully: resident and non-resident insurance producer licenses do not renew. NCDOI states that producer licenses ["do not renew and are valid until surrendered, canceled or revoked."](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing) There is no biennial renewal application to file, no renewal fee to pay, and no renewal form to submit. Your only affirmative obligation is completing the continuing education for the license lines you hold, on time.
 
 So "renewal cycle" in North Carolina really means CE compliance cycle:
 
@@ -54,7 +54,7 @@ One caveat: this applies to producer licenses. Some other North Carolina credent
 
 ## Prometric: North Carolina's CE Administrator
 
-North Carolina uses Prometric as its CE administrator — not Sircon or the NCDOI directly. Prometric handles:
+North Carolina uses [Prometric as its CE administrator](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters) — not Sircon or the NCDOI directly. Prometric handles:
 
 Provider approval
 
@@ -168,7 +168,7 @@ However, a course completed in a previous compliance period (including a carried
 
 License expires if CE not met by compliance date:
 
-4-month grace period: If CE not met by compliance deadline, license expires. Within 4 months of the compliance date, meet requirements and pay $75 reinstatement fee to Prometric to reinstate.
+4-month grace period: If CE not met by compliance deadline, [license expires](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters). Within 4 months of the compliance date, meet requirements and pay $75 reinstatement fee to Prometric to reinstate.
 
 After 4 months: License becomes inactive. Once inactive, the producer must retake the licensing exam and pass to reinstate — a significant consequence.
 
@@ -273,3 +273,9 @@ Website: ncdoi.gov
 North Carolina CE is manageable with a plan — particularly understanding the perpetual license structure, the even/odd compliance year system, and Prometric's role as CE administrator. At JustInsurance, our North Carolina CE courses are NCDOI-approved and designed around North Carolina's specific requirements.
 
 Enroll in our North Carolina CE courses today and keep your license active with confidence.
+
+**Sources cited:**
+
+- [North Carolina General Statutes — Chapter 58 Article 33 (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [NCDOI — Insurance Producer and Adjuster Licensing](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing)
+- [NCDOI — Continuing Education for Insurance Producers and Adjusters](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)

@@ -44,13 +44,13 @@ Multiple choice. All questions are four-option multiple choice.
 
 Two-section structure. General Knowledge and North Carolina Statutes are combined in one exam. The two parts are scored together, not individually — you need an overall passing score, not a passing score on each part.
 
-Scaled score of 70 to pass. This is the detail candidates most often misunderstand. North Carolina reports a scaled score on a 0–100 scale. Per Pearson VUE's NC candidate handbook, "the scaled score that is reported to you is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Scaling exists so that a slightly harder exam form and a slightly easier one represent the same standard, which means the raw number of correct answers needed to pass varies by form and is not published. Plan to know the material, not to budget a fixed number of misses.
+Scaled score of 70 to pass. This is the detail candidates most often misunderstand. North Carolina reports a scaled score on a 0–100 scale. Per [Pearson VUE's NC candidate handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf), "the scaled score that is reported to you is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." Scaling exists so that a slightly harder exam form and a slightly easier one represent the same standard, which means the raw number of correct answers needed to pass varies by form and is not published. Plan to know the material, not to budget a fixed number of misses.
 
-55 scored questions on the Life, Accident and Health or Sickness, Property, and Casualty exams — plus up to 5 unscored pretest questions mixed in and not identified. Shorter than most states.
+[55 scored questions on the Life, Accident and Health or Sickness, Property, and Casualty exams — plus up to 5 unscored pretest questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf) mixed in and not identified. Shorter than most states.
 
 1 hour 15 minutes for each of those four exams.
 
-Personal Lines is the exception. The Personal Lines Agent exam is also a major line of authority, but it runs 80 scored questions plus up to 16 pretest questions with 1 hour 45 minutes allotted. If you are testing Personal Lines, none of the 55-question pacing math below applies to you.
+Personal Lines is the exception. The Personal Lines Agent exam is also a major line of authority, but it runs [80 scored questions plus up to 16 pretest questions with 1 hour 45 minutes allotted](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf). If you are testing Personal Lines, none of the 55-question pacing math below applies to you.
 
 Multiple exam forms. Different question sets per candidate, same content outline.
 
@@ -106,7 +106,7 @@ Given only 55 scored questions on the single-line exams (80 on Personal Lines), 
 
 General Knowledge (about 70-76%, depending on the exam): Insurance principles applicable in any state — products, provisions, concepts, and federal regulations.
 
-NC Statutes and Regulations (about 24-30%, depending on the exam): North Carolina-specific insurance laws from G.S. 58, NCDOI regulations, and distinctive NC market rules. Per the Pearson VUE North Carolina content outline (effective March 2, 2026), the dedicated "North Carolina Statutes and Regulations" section is 14 of the 55 scored questions on Life and on Accident & Health (about 25%), 13 of 55 on Property (about 24%), 15 of 55 on Casualty (about 27%), and 24 of 80 on Personal Lines (30%).
+NC Statutes and Regulations (about 24-30%, depending on the exam): North Carolina-specific insurance laws from G.S. 58, NCDOI regulations, and distinctive NC market rules. Per the [Pearson VUE North Carolina content outline (effective March 2, 2026)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf), the dedicated "North Carolina Statutes and Regulations" section is 14 of the 55 scored questions on Life and on Accident & Health (about 25%), 13 of 55 on Property (about 24%), 15 of 55 on Casualty (about 27%), and 24 of 80 on Personal Lines (30%).
 
 Both sections appear in the same exam — you don't choose which to take. A single score across both sections determines pass or fail.
 
@@ -124,7 +124,7 @@ NC property exams reference NC Rate Bureau forms rather than standard ISO forms
 
 Personal auto in NC uses the North Carolina Rate Bureau personal auto form rather than the ISO Personal Auto Policy
 
-Homeowners policies reference NC-adapted forms (HO-2011 program adapted by NC Rate Bureau)
+Homeowners policies reference NC-adapted forms ([HO-2011 program adapted by NC Rate Bureau](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf))
 
 Questions may specifically reference NC Rate Bureau forms and rules
 
@@ -262,7 +262,7 @@ Spreading over 8-14 weeks with focused preparation per line is typical.
 
 ## Cancellation and Rescheduling Policy
 
-Cancel or change at least 48 hours in advance to avoid forfeiting the $45 exam fee.
+[Cancel or change at least 48 hours in advance to avoid forfeiting the $45 exam fee](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf).
 
 Contact: Pearson VUE at (866) 265-6329 or (800) 274-0668.
 
@@ -274,7 +274,7 @@ Planning implication: Don't schedule your exam until you're confident in prepara
 
 ## Where You Test: Pearson VUE Test Centers
 
-North Carolina insurance exams are delivered at Pearson VUE testing centers. The current NC candidate handbook does not document an at-home online-proctored option for these exams, so plan on an in-person appointment.
+North Carolina insurance exams are [delivered at Pearson VUE testing centers](https://www.pearsonvue.com/us/en/nc/insurance.html). The current [NC candidate handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) does not document an at-home online-proctored option for these exams, so plan on an in-person appointment.
 
 Physical locations throughout North Carolina
 
@@ -304,7 +304,7 @@ A debit (ATM) card or credit card
 
 Or any second document from the primary ID list
 
-Neither ID may be expired — Pearson VUE does not recognize state renewal grace periods
+Neither ID may be expired — [Pearson VUE does not recognize state renewal grace periods](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
 
 Do not arrive with only one form of ID. You'll be denied admission and forfeit your exam fee.
 
@@ -323,3 +323,9 @@ Names must match: Both IDs and your Pearson VUE registration should reflect your
 Understanding North Carolina's distinctive exam format helps you build a cost-effective, efficient multi-line strategy. At JustInsurance, our North Carolina prelicense courses cover each line's content in exam-focused depth — including NC Rate Bureau and NC-specific statutory content.
 
 Enroll today and approach North Carolina's per-line exams with a clear strategy.
+
+**Sources cited:**
+
+- [Pearson VUE — North Carolina Insurance (exam program and test centers)](https://www.pearsonvue.com/us/en/nc/insurance.html)
+- [Pearson VUE North Carolina Insurance Licensing Candidate Handbook (#123400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
+- [Pearson VUE North Carolina Insurance Content Outlines (#123415, effective March 2, 2026)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf)

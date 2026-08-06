@@ -46,7 +46,7 @@ Active North Carolina Medicare Supplement/Long-Term Care limited lines license (
 
 Training requirements:
 
-Initial 8-hour LTCP Certification Training:
+[Initial 8-hour LTCP Certification Training](https://www.ncdoi.gov/documents/agent-services/long-term-care-partnership-licensees-faqs/open):
 
 Required before selling any LTCP products
 
@@ -58,7 +58,7 @@ Counts toward CE hours in the period completed
 
 Covers LTC products, LTCP-specific provisions, North Carolina regulations, and Medicaid/asset protection coordination
 
-4-hour Ongoing LTCP Training:
+[4-hour Ongoing LTCP Training](https://www.ncdoi.gov/documents/agent-services/long-term-care-partnership-licensees-faqs/open):
 
 Required every biennial compliance period after initial 8-hour completion
 
@@ -68,7 +68,7 @@ State-approved course
 
 Counts toward CE hours in the period completed
 
-Important reciprocity note: Resident licensees who satisfy training requirements of another state that are substantially similar to North Carolina's law will be considered compliant — but only if the insurance company chooses to recognize and accept the training completed in another state. This reciprocity isn't automatic.
+Important reciprocity note: Resident licensees who satisfy training requirements of another state that are substantially similar to North Carolina's law will be considered compliant — but only if [the insurance company chooses to recognize and accept the training completed in another state](https://www.ncdoi.gov/documents/agent-services/long-term-care-partnership-licensees-faqs/open). This reciprocity isn't automatic.
 
 ## What LTC Partnership Training Covers
 
@@ -246,7 +246,7 @@ Annuity Best Interest training investment is modest (4 hours, one-time) relative
 
 ## Practical Planning: Fitting Specialty Training Into CE
 
-Both LTC and Annuity specialty training count toward your standard 24-hour CE requirement:
+Both LTC and Annuity specialty training count toward your [standard 24-hour CE requirement](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters):
 
 Example CE plan for new L&H producer in first compliance period:
 
@@ -322,7 +322,7 @@ Sustainable practice income. Both LTC and annuity sales produce substantial per-
 
 ## 5 Frequently Asked Questions
 
-- What licenses do I need before completing North Carolina LTC Partnership training? Both an active Accident & Health or Sickness license AND an active Medicare Supplement/Long-Term Care limited lines license are required before completing LTCP training and selling LTCP products.
+- What licenses do I need before completing North Carolina LTC Partnership training? [Both an active Accident & Health or Sickness license AND an active Medicare Supplement/Long-Term Care limited lines license are required before completing LTCP training](https://www.ncdoi.gov/documents/agent-services/long-term-care-partnership-licensees-faqs/open) and selling LTCP products.
 - Does the Annuity Best Interest training apply to all annuity types in North Carolina? Yes. The 4-hour Annuity Best Interest certification applies before selling any annuity products — fixed, indexed, or variable. Required effective January 1, 2023.
 - Does annuity training completed in another state satisfy North Carolina? Yes — if the other state has laws substantially similar to North Carolina's (NAIC Annuity Best Interest framework). Reciprocity is automatic for substantially similar states, unlike LTC reciprocity which depends on carrier acceptance.
 - Do specialty training hours count toward my 24-hour CE requirement? Yes. Both LTC Partnership training and Annuity Best Interest training count toward your 24-hour CE requirement in the period completed.
@@ -333,3 +333,8 @@ Sustainable practice income. Both LTC and annuity sales produce substantial per-
 North Carolina's growing senior population and wealth concentrations create substantial opportunity for properly trained LTC and annuity specialists. At JustInsurance, our North Carolina CE courses include Annuity Best Interest training and support for building toward LTC specialty practice.
 
 Enroll today and start building your North Carolina specialty insurance career.
+
+**Sources cited:**
+
+- [NCDOI — Long-Term Care Partnership (LTCP) Licensees FAQs (PDF)](https://www.ncdoi.gov/documents/agent-services/long-term-care-partnership-licensees-faqs/open)
+- [NCDOI — Continuing Education for Insurance Producers and Adjusters](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)

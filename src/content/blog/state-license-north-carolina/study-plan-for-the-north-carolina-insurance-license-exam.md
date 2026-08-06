@@ -68,13 +68,13 @@ Phase 1: Foundation (Weeks 1-2) Build foundational knowledge through structured 
 
 Phase 2: Active Practice (Week 2-3) Work through [practice questions](/north-carolina/practice-exam) systematically by topic.
 
-Phase 3: Full-Length Practice Exams (Week 3-4) Take multiple full-length practice exams under timed conditions, sized to your line — 55 questions for Life, A&H, Property, or Casualty; 80 for Personal Lines.
+Phase 3: Full-Length Practice Exams (Week 3-4) Take multiple full-length practice exams under timed conditions, sized to your line — [55 questions for Life, A&H, Property, or Casualty; 80 for Personal Lines](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf).
 
 Phase 4: Final Review (Final 3-5 days) Address weak areas with focused review and light study.
 
 ## The NC-Specific Study Distinction
 
-Unlike some states where NC-specific content is a small fraction, North Carolina's statutes section is a heavy block on every exam. You do not have to guess at the weight — the Pearson VUE content outlines publish exact item counts:
+Unlike some states where NC-specific content is a small fraction, North Carolina's statutes section is a heavy block on every exam. You do not have to guess at the weight — the [Pearson VUE content outlines publish exact item counts](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf):
 
 Life: 14 of 55 scored questions
 
@@ -88,7 +88,7 @@ Personal Lines: 24 of 80
 
 That is roughly a quarter to 30% of your score, concentrated in the one area general-market study materials cover least well.
 
-One thing to keep straight while you plan: North Carolina reports a scaled score, not a raw percentage. Pearson VUE converts your raw score onto a 0-100 range with a cut of 70, and the NC candidate handbook states the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." So there is no published "you need X correct" target to aim at, and no arithmetic that lets you write off the NC section and make it up elsewhere. Every NC-specific item you lock down is score you are not leaving to chance.
+One thing to keep straight while you plan: North Carolina reports a scaled score, not a raw percentage. Pearson VUE [converts your raw score onto a 0-100 range with a cut of 70](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf), and the NC candidate handbook states the reported score "is neither the number of questions you answered correctly nor the percentage of questions you answered correctly." So there is no published "you need X correct" target to aim at, and no arithmetic that lets you write off the NC section and make it up elsewhere. Every NC-specific item you lock down is score you are not leaving to chance.
 
 NC-specific study allocation: Plan 20-25% of your total study time specifically for North Carolina statutes and regulations.
 
@@ -314,9 +314,9 @@ Take at least 2-3 full-length practice exams per line before scheduling the real
 
 Simulate real exam conditions:
 
-Life, A&H, Property, or Casualty: 55 questions in 1 hour 15 minutes maximum
+Life, A&H, Property, or Casualty: [55 questions in 1 hour 15 minutes maximum](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
 
-Personal Lines: 80 questions in 1 hour 45 minutes maximum
+Personal Lines: [80 questions in 1 hour 45 minutes maximum](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
 
 No phone, no notes, no help
 
@@ -338,7 +338,7 @@ Target 80%+ raw scores consistently before scheduling the real exam.
 
 ## Content Area Allocation per Exam
 
-Don't estimate these. Pearson VUE's North Carolina content outlines assign an exact number of scored items to each section, and allocating study time to the published counts beats guessing at percentages every time.
+Don't estimate these. [Pearson VUE's North Carolina content outlines assign an exact number of scored items to each section](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf), and allocating study time to the published counts beats guessing at percentages every time.
 
 Life Insurance exam (55 scored questions):
 
@@ -408,9 +408,9 @@ Practice exam scores below 75%
 
 You haven't completed at least 2-3 full practice exams
 
-Remember: Each failed attempt costs another $45 exam fee and delays licensing. Adequate preparation before scheduling is always worth it.
+Remember: Each failed attempt costs another [$45 exam fee](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) and delays licensing. Adequate preparation before scheduling is always worth it.
 
-After applying to NIPR: Your application is valid for 6 months. Schedule exams promptly — but after adequate preparation. Don't rush into exams just because your application window is running.
+After applying to [NIPR](https://nipr.com): Your application is [valid for 6 months](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf). Schedule exams promptly — but after adequate preparation. Don't rush into exams just because your application window is running.
 
 ## Final Week Strategy
 
@@ -466,10 +466,16 @@ Cramming. Short exam format doesn't make cramming more effective — it rewards 
 - How many practice questions should I work through per exam? Minimum 300-400 practice questions per line. Strong preparation involves 500-700+ practice questions per line. Each wrong answer should be reviewed carefully.
 - Should I study all four lines simultaneously? Generally no. Simultaneous study across four lines creates confusion and cognitive overload. Sequential preparation — pass one line's exam, then prepare for the next — produces better results for most candidates.
 - When should I apply through NIPR if my study timeline is 8 weeks? Apply about 1-2 weeks before you plan to take your first exam. The 6-month application window is long enough that applying when nearly ready makes more sense than applying 8+ weeks before your first scheduled exam.
-- How important is NC-specific content relative to general insurance knowledge? Both are critical. Per the Pearson VUE content outlines, the North Carolina statutes and regulations section is 14 of 55 scored questions on Life, 14 of 55 on Accident and Health or Sickness, 13 of 55 on Property, 15 of 55 on Casualty, and 24 of 80 on Personal Lines — roughly a quarter to 30% of the exam. Note that North Carolina reports a scaled score with a cut of 70, not a raw percentage, so there is no published number of correct answers you can aim for. Candidates who study general insurance well but neglect NC-specific content routinely come up short.
+- How important is NC-specific content relative to general insurance knowledge? Both are critical. Per the Pearson VUE content outlines, the [North Carolina statutes and regulations section is 14 of 55 scored questions on Life, 14 of 55 on Accident and Health or Sickness, 13 of 55 on Property, 15 of 55 on Casualty, and 24 of 80 on Personal Lines](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf) — roughly a quarter to 30% of the exam. Note that North Carolina reports a scaled score with a cut of 70, not a raw percentage, so there is no published number of correct answers you can aim for. Candidates who study general insurance well but neglect NC-specific content routinely come up short.
 
 ## Build a Study Plan That Matches North Carolina's Format
 
 North Carolina's per-line exam structure rewards a strategic, sequential study approach. At JustInsurance, we build [prelicense](/north-carolina/prelicensing) courses and [practice exams](/north-carolina/practice-exam) for North Carolina's two life and health lines — Life Agent and Accident and Health or Sickness Agent. North Carolina does not offer a combined Life & Health exam, so if you want both lines you prepare for and sit two separate 55-question tests; our materials are built that way, with the NC statutory content each of those exams actually tests. We do not currently offer Property, Casualty, or Personal Lines courses, so if you're pursuing those lines, use the outline-based plan above with a P&C prep provider whose materials track the current Pearson VUE North Carolina content outline.
 
 Enroll today and study for your North Carolina Life or Health exam with a plan that matches the format.
+
+**Sources cited:**
+
+- [Pearson VUE — North Carolina Insurance Content Outlines (#123415): exact scored-item counts per line, including the NC statutes sections](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf)
+- [Pearson VUE — North Carolina Candidate Handbook (#123400): scaled score with a cut of 70, exam times, $45 attempt fee](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)
+- [NIPR — North Carolina resident license application](https://nipr.com)

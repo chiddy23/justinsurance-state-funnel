@@ -17,7 +17,7 @@ imageAlt: >-
   carolina insurance laws on the state licensing exam.
 ---
 
-The North Carolina-specific law section is where underprepared candidates lose points they can't afford to lose. The major single-line exams carry only 55 scored questions, so every miss matters — and per Pearson VUE's North Carolina content outlines, the North Carolina Statutes and Regulations section alone accounts for 13 to 15 of those 55 questions (13 on Property, 14 on Life and on Accident & Health, 15 on Casualty), or roughly a quarter of the exam. The Personal Lines exam is longer at 80 scored questions and devotes 24 of them to North Carolina content. North Carolina's insurance law draws primarily from Chapter 58 of the North Carolina General Statutes (G.S. 58), a comprehensive statute administered by the North Carolina Department of Insurance (NCDOI) under the Commissioner of Insurance.
+The North Carolina-specific law section is where underprepared candidates lose points they can't afford to lose. The major single-line exams carry only 55 scored questions, so every miss matters — and per Pearson VUE's North Carolina content outlines, the [North Carolina Statutes and Regulations section alone accounts for 13 to 15 of those 55 questions (13 on Property, 14 on Life and on Accident & Health, 15 on Casualty)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf), or roughly a quarter of the exam. The Personal Lines exam is longer at 80 scored questions and devotes 24 of them to North Carolina content. North Carolina's insurance law draws primarily from Chapter 58 of the North Carolina General Statutes (G.S. 58), a comprehensive statute administered by the North Carolina Department of Insurance (NCDOI) under the Commissioner of Insurance.
 
 Here are the North Carolina-specific insurance laws every producer candidate needs to know for the state licensing exam.
 
@@ -53,7 +53,7 @@ Mandatory policy provisions
 
 Free-look period requirements
 
-Article 33 — Licensing of Agents, Brokers, Limited Representatives, and Adjusters (G.S. 58-33):
+[Article 33 — Licensing of Agents, Brokers, Limited Representatives, and Adjusters (G.S. 58-33)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf):
 
 Producer licensing requirements
 
@@ -113,7 +113,7 @@ North Carolina resident for resident license
 
 Background check (fingerprinting)
 
-PLE: eliminated effective October 1, 2025 (HB 737/SL 2025-45)
+PLE: [eliminated effective October 1, 2025 (HB 737/SL 2025-45)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
 
 State exam required per line
 
@@ -133,7 +133,7 @@ Maintained by continuing education, not a renewal filing
 
 CE completed by the CE compliance date — the last day of your birth month, in the odd or even year matching your birth year
 
-No renewal application or renewal fee for the major producer lines (adjuster, public adjuster, and surplus lines classes do file periodic renewals)
+[No renewal application or renewal fee for the major producer lines](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf) (adjuster, public adjuster, and surplus lines classes do file periodic renewals)
 
 Producer conduct standards:
 
@@ -159,7 +159,7 @@ Appeal procedures
 
 ## Unfair Trade Practices (G.S. 58-63)
 
-North Carolina's Unfair Trade Practices in Insurance article prohibits specific conduct:
+North Carolina's [Unfair Trade Practices in Insurance article](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf) prohibits specific conduct:
 
 Misrepresentation. False or misleading statements about policies, premiums, benefits, or insurer financial condition.
 
@@ -273,7 +273,7 @@ Rate approval. Commissioner must approve rates.
 
 Commissioner authority to order rate changes. Commissioner can order rate reductions if rates are excessive.
 
-Consent to Rate (CTR). North Carolina has a distinctive Consent to Rate mechanism allowing individual policyholders to consent to rates exceeding Bureau rates when needed for unique risks. Specifically referenced in the NC Property exam content outline.
+Consent to Rate (CTR). North Carolina has a distinctive Consent to Rate mechanism allowing individual policyholders to consent to rates exceeding Bureau rates when needed for unique risks. [Specifically referenced in the NC Property exam content outline](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf).
 
 ## Fraternal Benefit Societies
 
@@ -328,3 +328,10 @@ Review recent regulatory changes. PLE elimination (HB 737/SL 2025-45 effective O
 The NC statutes section is where underprepared candidates lose points on an already short 55-question exam. At JustInsurance, our North Carolina prelicense courses dedicate meaningful attention to NC General Statutes Chapter 58 — including NC Rate Bureau, unfair trade practices, and producer licensing regulations.
 
 Enroll today and master the North Carolina-specific content that determines first-attempt success.
+
+**Sources cited:**
+
+- [Pearson VUE North Carolina Insurance Content Outlines (#123415, effective March 2, 2026)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123415.pdf)
+- [N.C.G.S. Chapter 58, Article 33 — Licensing of Insurance Producers, Limited Representatives, and Adjusters](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [N.C.G.S. Chapter 58, Article 63 — Unfair Trade Practices](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_63.pdf)
+- [Pearson VUE North Carolina Insurance Licensing Candidate Handbook (#123400)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123400.pdf)

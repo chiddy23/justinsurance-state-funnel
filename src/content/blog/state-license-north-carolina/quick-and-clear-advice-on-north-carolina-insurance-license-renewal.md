@@ -24,7 +24,7 @@ Navigating the north carolina insurance license renewal and initial licensing pr
 
 ## Understand the basics
 
-Before focusing on renewals, it helps to know the path you’ll take to get your license in the first place. In North Carolina, you’ll pick the type of insurance license you want—like life, health, property, or casualty—and then prepare for the state exam. As of October 1, 2025 (HB 737), North Carolina no longer requires [pre-licensing](/north-carolina/prelicensing) education for any line, so this preparation step is now optional rather than a prerequisite.
+Before focusing on renewals, it helps to know the path you’ll take to get your license in the first place. In North Carolina, you’ll pick the type of insurance license you want—like life, health, property, or casualty—and then prepare for the state exam. As of October 1, 2025 ([HB 737](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)), North Carolina no longer requires [pre-licensing](/north-carolina/prelicensing) education for any line, so this preparation step is now optional rather than a prerequisite.
 
 Having a clear grasp of what the [North Carolina Department of Insurance](/north-carolina/requirements) expects lets you streamline your prep time. You’ll learn exactly which documents to collect, whether a pre-licensing course fits your study style, and how to handle background checks if required. Once you see the process laid out in front of you, it won’t seem so complicated.
 
@@ -50,13 +50,13 @@ On exam day, arrive early and don’t forget required identification, such as a 
 
 ## Maintain your license (there’s no renewal to file)
 
-The learning doesn’t stop once you’re licensed — but North Carolina works differently from most states here. Resident insurance producer licenses are perpetual: NCDOI states they “do not renew and are valid until surrendered, canceled or revoked.” There is no renewal application to submit and no renewal fee for the major producer lines. What keeps your license active is [North Carolina continuing education](/north-carolina/continuing-education) (CE), completed every two-year compliance period.
+The learning doesn’t stop once you’re licensed — but North Carolina works differently from most states here. Resident insurance producer licenses are perpetual: NCDOI states they “[do not renew and are valid until surrendered, canceled or revoked](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/renew-your-insurance-producer-or-adjuster-license).” There is no renewal application to submit and no renewal fee for the major producer lines. What keeps your license active is [North Carolina continuing education](/north-carolina/continuing-education) (CE), completed every two-year compliance period.
 
 Completing your CE on time is critical. Miss your compliance date and the license expires — not because you skipped a renewal filing, but because the CE wasn’t met. Staying organized keeps it simple. Here’s what you can do:
 
 -   Mark your calendar: Your CE compliance date is the last day of your birth month, biennially (even birth year = even-year compliance, odd birth year = odd-year compliance). Set a reminder a few months ahead to begin your CE hours.
--   Complete your CE: 24 hours every two years, including 3 hours of ethics. Take only state-approved courses and keep your documentation.
--   Confirm your hours are reported: There is no renewal application or renewal fee for producer licenses. Instead, make sure your provider reports your completed hours to Prometric (NCDOI’s CE administrator) before your compliance date — that reporting is the compliance event.
+-   Complete your CE: [24 hours every two years, including 3 hours of ethics](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters). Take only state-approved courses and keep your documentation.
+-   Confirm your hours are reported: There is no renewal application or renewal fee for producer licenses. Instead, make sure your provider reports your completed hours to [Prometric (NCDOI’s CE administrator)](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters) before your compliance date — that reporting is the compliance event.
 
 It’s tempting to put off CE courses until the last second, but you’ll thank yourself if you spread them out and get your credits done early. There is no renewal filing you can rush at the last minute to save yourself, so completing CE ahead of time is the whole game — and it keeps your license active without a hitch.
 
@@ -85,3 +85,9 @@ Remember that each phase of getting and keeping your North Carolina insurance li
 By taking these steps, you’ll find the licensing process more straightforward and less stressful. If you’re ready to get started or need extra guidance, consider speaking with an adviser at JustInsurance to ensure you’re fully prepared for success. Once you have your license in hand, you can focus on growing your career and helping clients, knowing you’ve checked off every requirement along the way.
 
 That’s all it takes to begin your path toward becoming a licensed insurance agent in North Carolina. Before you know it, you’ll be well on your way to a fulfilling career, equipped with the right knowledge and credentials. Best of luck on your licensing journey.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58, Article 33 — HB 737 made prelicensing optional](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [NCDOI — resident producer licenses do not renew (perpetual; valid until surrendered, canceled or revoked)](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/renew-your-insurance-producer-or-adjuster-license)
+- [NCDOI — continuing education (24 hours biennially incl. ethics; Prometric administers CE)](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing/continuing-education-insurance-producers-and-adjusters)

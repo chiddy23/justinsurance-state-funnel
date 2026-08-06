@@ -26,7 +26,7 @@ Scale of the coastal market. North Carolina's coast stretches over 300 miles wit
 
 Complexity creates value. Coastal NC property insurance is genuinely complex:
 
-Standard homeowners policies often exclude wind and hail
+[Standard homeowners policies often exclude wind and hail](https://www.ncdoi.gov/consumers/homeowners-insurance/windstorm-and-hail)
 
 CPIP windstorm coverage is a separate required policy for most financed coastal properties
 
@@ -86,7 +86,7 @@ Policy 2: CPIP Windstorm (NC Insurance Underwriting Association)
 
 Fills the critical wind and hail exclusion gap
 
-Available through the NCIUA Coastal Property Insurance Pool in 18 eligible counties
+[Available through the NCIUA Coastal Property Insurance Pool in 18 eligible counties](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_45.pdf)
 
 Required by most mortgage lenders for coastal financed properties
 
@@ -98,7 +98,7 @@ Policy 3: Flood Insurance (NFIP or private)
 
 Neither standard homeowners nor CPIP windstorm covers flooding
 
-Available through NFIP (federal, administered by FEMA) or growing private market
+[Available through NFIP (federal, administered by FEMA)](https://www.ncdoi.gov/consumers/homeowners-insurance/flood-insurance) or growing private market
 
 Separate premium and policy
 
@@ -261,7 +261,7 @@ The coastal specialty rewards patience and investment in genuine expertise. Prod
 ## 5 Frequently Asked Questions
 
 - Why do coastal NC clients often need three separate insurance policies? Because standard homeowners policies often exclude wind and hail in coastal NC, CPIP windstorm fills that gap as a separate policy, and neither standard homeowners nor CPIP windstorm covers flooding — requiring a separate NFIP or private flood policy for comprehensive protection.
-- What communities are covered by the NC CPIP? Properties in 18 eligible coastal counties: Beaufort, Brunswick, Camden, Carteret, Chowan, Craven, Currituck, Dare, Hyde, Jones, New Hanover, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Tyrrell, and Washington.
+- What communities are covered by the NC CPIP? Properties in [18 eligible coastal counties: Beaufort, Brunswick, Camden, Carteret, Chowan, Craven, Currituck, Dare, Hyde, Jones, New Hanover, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Tyrrell, and Washington](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_45.pdf).
 - How does vacation rental use affect coastal homeowners insurance? Standard homeowners policies typically don't cover losses occurring during rental periods. Coastal clients who rent their properties — on platforms like VRBO or Airbnb — need vacation rental endorsements or separate policies covering rental activity.
 - What are wind deductibles and why do coastal clients need to understand them? Wind and hurricane deductibles are typically expressed as percentages of dwelling value (not flat dollar amounts) — often 1-5%. A $500,000 coastal home with a 3% wind deductible means $15,000 out-of-pocket before wind coverage applies. Many clients don't realize this until after a storm.
 - Is the coastal NC insurance market growing or contracting? Coastal NC property markets continue growing with substantial retiree in-migration and second-home purchases. The insurance market is simultaneously growing in client demand but contracting in private carrier willingness — creating opportunity for specialists who understand CPIP and the full coastal coverage framework.
@@ -271,3 +271,9 @@ The coastal specialty rewards patience and investment in genuine expertise. Prod
 North Carolina's coastal market rewards producers willing to develop genuine expertise in one of the most complex property insurance environments in the Southeast. Producers who already hold a North Carolina property and casualty license can keep their coastal-market knowledge sharp through JustInsurance's North Carolina [property and casualty continuing education](/north-carolina/continuing-education).
 
 Commit to the coastal specialty and build a North Carolina practice with a real defensive moat.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58, Article 45 — Essential Property Insurance for Beach Area Property](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_45.pdf) — establishes the NCIUA Coastal Property Insurance Pool and defines the 18-county coastal area
+- [NCDOI — Windstorm and Hail Insurance (NCIUA / Coastal Property Insurance Pool)](https://www.ncdoi.gov/consumers/homeowners-insurance/windstorm-and-hail) — confirms windstorm/hail may be excluded from primary homeowners policies in the beach and coastal areas
+- [NCDOI — Flood Insurance (National Flood Insurance Program)](https://www.ncdoi.gov/consumers/homeowners-insurance/flood-insurance) — confirms the NFIP/FEMA flood program separate from homeowners coverage

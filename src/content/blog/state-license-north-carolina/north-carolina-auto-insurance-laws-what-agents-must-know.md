@@ -68,7 +68,7 @@ The Last Clear Chance Doctrine is regularly tested on North Carolina Property an
 
 ## July 1, 2025 Minimum Coverage Increase
 
-A major recent change: North Carolina's minimum auto insurance requirements increased effective July 1, 2025. This was the first significant minimum increase in many years.
+A major recent change: [North Carolina's minimum auto insurance requirements](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_20/Article_9A.pdf) increased effective July 1, 2025. This was the first significant minimum increase in many years.
 
 New minimums (effective July 1, 2025):
 
@@ -238,9 +238,9 @@ Producers working with auto clients should be familiar with the NC Rate Bureau f
 
 ## 5 Frequently Asked Questions
 
-- What are North Carolina's new auto insurance minimums? Effective July 1, 2025, North Carolina requires 50/100/50 — $50,000 bodily injury per person, $100,000 per accident, and $50,000 property damage liability. UM/UIM coverage is mandatory at the same minimums.
+- What are North Carolina's new auto insurance minimums? Effective July 1, 2025, North Carolina requires 50/100/50 — [$50,000 bodily injury per person, $100,000 per accident, and $50,000 property damage liability](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_20/Article_9A.pdf). UM/UIM coverage is mandatory at the same minimums.
 - What is pure contributory negligence in North Carolina? Pure contributory negligence means that if you're even 1% at fault for an accident, you cannot recover any damages from the other party. North Carolina is one of only a few states still using this strict standard.
-- Can I waive UM/UIM coverage in North Carolina? No. Uninsured/underinsured motorist coverage is mandatory in North Carolina and cannot be waived. It must be carried at the same minimums as liability coverage (50/100/50).
+- Can I waive UM/UIM coverage in North Carolina? No. [Uninsured/underinsured motorist coverage is mandatory in North Carolina and cannot be waived](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_20/Article_9A.pdf). It must be carried at the same minimums as liability coverage (50/100/50).
 - What is the Safe Driver Incentive Plan? The SDIP is North Carolina's points-based system that assigns insurance points for at-fault accidents and moving violations, directly increasing premiums. As of July 1, 2025, the surcharge period runs 5 years (up from 3) for convictions assigned 4 or more insurance points, other than speeding in excess of the posted speed limit; the waiver lookback for speeding 10 mph or less and for PJCs also increased from 3 years to 5; and the inexperienced operator surcharge runs 8 years for drivers first licensed on or after that date.
 - Does North Carolina require PIP (Personal Injury Protection)? No. North Carolina is an at-fault state, not a no-fault state, and does not require PIP. Medical Payments (MedPay) coverage is available as an optional add-on covering your own medical expenses regardless of fault.
 
@@ -249,3 +249,7 @@ Producers working with auto clients should be familiar with the NC Rate Bureau f
 North Carolina auto insurance is more legally complex than most clients realize — from pure contributory negligence to mandatory UM/UIM to the new 50/100/50 minimums. Producers who already hold a North Carolina property and casualty license can keep this NC-specific auto knowledge current through JustInsurance's North Carolina [property and casualty continuing education](/north-carolina/continuing-education).
 
 Master these provisions and serve North Carolina auto clients with the confidence they need.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 20, Article 9A — Motor Vehicle Safety and Financial Responsibility Act, §20-279.21 (PDF)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_20/Article_9A.pdf)

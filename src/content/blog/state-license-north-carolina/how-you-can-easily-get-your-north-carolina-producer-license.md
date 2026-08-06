@@ -24,7 +24,7 @@ Getting your North Carolina producer license can feel like a big undertaking, bu
 
 ## Understand the licensing process
 
-Before diving into the details, it’s helpful to have a basic overview of how producer licensing works in North Carolina. A “producer” license allows you to sell or negotiate different types of insurance, such as life, health, property, or casualty. The state’s Department of Insurance oversees the entire process, which includes an exam and an application; as of October 1, 2025 (HB 737), prelicensing education is optional rather than a required step.
+Before diving into the details, it’s helpful to have a basic overview of how producer licensing works in North Carolina. A “producer” license allows you to sell or negotiate different types of insurance, such as life, health, property, or casualty. The state’s Department of Insurance oversees the entire process, which includes an exam and an application; [as of October 1, 2025 (HB 737), prelicensing education is optional](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf) rather than a required step.
 
 When you’re first exploring a career in insurance, it’s natural to have questions about costs, timelines, and the level of commitment needed. North Carolina’s path is straightforward, but its order is unusual, and getting it backwards costs candidates weeks. North Carolina is an application-before-exam state: your license application goes in through NIPR first, and that application is what generates your authorization to sit the exam. So the sequence is decide on coursework, apply, get authorized, test, clear fingerprinting, get licensed — not test first and apply after. From there, you can focus on choosing the specific lines of authority that you’re most interested in selling.
 
@@ -44,15 +44,15 @@ You can choose between online or in-person classes, depending on your schedule a
 
 This is the step that catches most North Carolina candidates off guard, so it gets its own place in the order: you apply for the license *before* you sit the exam. The application is what earns you permission to test.
 
-You file electronically through the National Insurance Producer Registry at nipr.com, paying the license, fingerprint, and processing fees there. Have your identification details ready, and note that any “yes” answer to the application’s background screening questions requires supporting documentation uploaded with it. Pearson VUE then emails you an authorization notice with everything you need to schedule your exam, plus an eligibility period of six months with a start and end date. If your license hasn’t been issued by that end date, you reapply through NIPR for a new window.
+You file electronically through the National Insurance Producer Registry at nipr.com, paying the license, fingerprint, and processing fees there. Have your identification details ready, and note that any “yes” answer to the application’s background screening questions requires supporting documentation uploaded with it. Pearson VUE then emails you an authorization notice with everything you need to schedule your exam, plus an [eligibility period of six months](https://nipr.com/) with a start and end date. If your license hasn’t been issued by that end date, you reapply through NIPR for a new window.
 
 Fee amounts change over time, so verify current figures on the NIPR application screen or with the [North Carolina Department of Insurance](/north-carolina/requirements) before you pay.
 
 ## Schedule and pass the exam
 
-With your authorization email in hand, it’s time to schedule. North Carolina contracts with Pearson VUE, and you can usually choose a date, time, and test center that fit your schedule. Don’t try to jump ahead to this step — test centers cannot seat you without authorization from the state’s licensing system, and they will turn you away. Once you arrive, you’ll follow a computer-based testing format that covers insurance regulations, ethics, and product-specific questions. The exam fee is $45 per attempt.
+With your authorization email in hand, it’s time to schedule. North Carolina contracts with Pearson VUE, and you can usually choose a date, time, and test center that fit your schedule. Don’t try to jump ahead to this step — test centers cannot seat you without authorization from the state’s licensing system, and they will turn you away. Once you arrive, you’ll follow a computer-based testing format that covers insurance regulations, ethics, and product-specific questions. The exam fee is [$45 per attempt](https://www.pearsonvue.com/us/en/nc/insurance.html).
 
-To maximize your odds of success, try quizzing yourself daily and reviewing any areas where you feel unsure. Focus on the major topics: policy types, state laws, and industry terminology. North Carolina reports a scaled score with 70 as the passing mark, and you’ll have your result the same day, so you’ll know right away where you stand. If you don’t pass on your first try, don’t get discouraged — you’ll receive a diagnostic breakdown with your score report and can reschedule after a 24-hour waiting period, as long as you’re still inside your six-month eligibility window.
+To maximize your odds of success, try quizzing yourself daily and reviewing any areas where you feel unsure. Focus on the major topics: policy types, state laws, and industry terminology. North Carolina reports a [scaled score with 70 as the passing mark](https://www.pearsonvue.com/us/en/nc/insurance.html), and you’ll have your result the same day, so you’ll know right away where you stand. If you don’t pass on your first try, don’t get discouraged — you’ll receive a diagnostic breakdown with your score report and can reschedule after a 24-hour waiting period, as long as you’re still inside your six-month eligibility window.
 
 ## Finish the background check and get licensed
 
@@ -64,7 +64,7 @@ The North Carolina Licensing Office of Pearson VUE reviews the completed file. I
 
 Once your North Carolina producer license is approved, you’re officially able to sell insurance within the lines of authority you selected. While this is a major accomplishment, there are still responsibilities to keep in mind. [North Carolina requires continuing education](/north-carolina/continuing-education) (CE) credits to ensure you stay current on the latest insurance regulations and best practices.
 
-Your ongoing CE obligations typically need to be met every two years. Failure to meet these requirements can result in license suspension or additional penalties. The producer license itself is perpetual — there is no renewal application or fee — so meeting CE on time is what keeps it active. Most producers find that spaced-out study schedules and timely course selection help them meet these rules hassle-free, so mark your CE compliance deadlines on your calendar and plan ahead.
+Your ongoing CE obligations typically need to be met every two years. Failure to meet these requirements can result in license suspension or additional penalties. [The producer license itself is perpetual — there is no renewal application or fee](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing) — so meeting CE on time is what keeps it active. Most producers find that spaced-out study schedules and timely course selection help them meet these rules hassle-free, so mark your CE compliance deadlines on your calendar and plan ahead.
 
 ## Plan your next career steps
 
@@ -87,3 +87,10 @@ If you ever get stuck, remember to reach out to the North Carolina Department of
 You’ll soon discover that becoming a North Carolina producer is not just about passing an exam or completing training. It’s about developing the expertise and confidence to guide others through important decisions about their insurance needs. Once you’re licensed, your newfound knowledge can help individuals, families, and businesses feel secure and prepared for the future.
 
 Take your first step today by exploring pre-licensing courses, planning your study schedule, or verifying your exam dates. The time you invest now sets the stage for a rewarding and meaningful career. When you’re ready for additional guidance, JustInsurance is here with resources and support tailored for new or aspiring producers. Good luck, and congratulations on starting this exciting path toward becoming a licensed insurance professional in North Carolina.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58, Article 33 — HB 737 (S.L. 2025-45) made prelicensing optional Oct 1, 2025 (N.C. General Assembly)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [License application and six-month eligibility window (NIPR)](https://nipr.com/)
+- [$45 exam fee and scaled passing score of 70 (Pearson VUE)](https://www.pearsonvue.com/us/en/nc/insurance.html)
+- [Producer licenses are perpetual — no renewal application or fee (NCDOI)](https://www.ncdoi.gov/licensees/insurance-producer-and-adjuster-licensing)

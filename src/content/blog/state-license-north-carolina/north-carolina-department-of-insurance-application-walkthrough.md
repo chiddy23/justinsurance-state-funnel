@@ -28,7 +28,7 @@ Licenses insurance producers, adjusters, and other insurance professionals
 
 Regulates insurance companies operating in North Carolina
 
-Enforces insurance laws under Chapter 58 of the North Carolina General Statutes
+Enforces insurance laws under [Chapter 58 of the North Carolina General Statutes](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
 
 Investigates consumer complaints
 
@@ -50,11 +50,11 @@ Agent Services: (919) 807-6800
 
 Website: ncdoi.gov
 
-The NCDOI works with Pearson VUE which manages the North Carolina Licensing Office on the Department's behalf — handling exam administration, application processing, and licensing.
+The NCDOI works with [Pearson VUE which manages the North Carolina Licensing Office on the Department's behalf](https://www.pearsonvue.com/us/en/nc/insurance.html) — handling exam administration, application processing, and licensing.
 
 ## Decision 1: Per-Line Application Strategy
 
-North Carolina charges by the line of authority, so how you bundle your application changes what you pay. Pearson VUE's Resident Licensing Fees chart breaks an initial producer application into three pieces:
+North Carolina charges by the line of authority, so how you bundle your application changes what you pay. [Pearson VUE's Resident Licensing Fees chart](https://www.pearsonvue.com/us/en/nc/insurance.html) breaks an initial producer application into three pieces:
 
 $50 registration fee — charged for every line of authority on the application
 
@@ -62,7 +62,7 @@ $44 application processing fee — charged once per application, regardless of h
 
 $38 fingerprint fee — charged only on your first initial producer license
 
-NIPR adds a $5 transaction fee to each resident electronic submission. A first-time applicant filing for a single major line therefore owes $132 to the state, plus $5 to NIPR.
+[NIPR adds a $5 transaction fee](https://nipr.com/) to each resident electronic submission. A first-time applicant filing for a single major line therefore owes $132 to the state, plus $5 to NIPR.
 
 Single-line application:
 
@@ -118,7 +118,7 @@ This sequence catches many applicants off guard, particularly those who've licen
 
 ## Decision 3: NIPR Application Validity Window
 
-Once submitted, your NIPR application has a 6-month validity window. You must complete all requirements (exam, fingerprinting, any additional documentation) within 6 months.
+Once submitted, your [NIPR application has a 6-month validity window](https://nipr.com/). You must complete all requirements (exam, fingerprinting, any additional documentation) within 6 months.
 
 If you don't complete within 6 months:
 
@@ -365,3 +365,9 @@ No second fingerprint fee, provided your existing fingerprinted license is alrea
 Understanding the NCDOI application process helps you submit correctly and avoid delays. At JustInsurance, our North Carolina exam prep course prepares you for the state exam and helps you understand the full licensing path.
 
 Enroll today and move through North Carolina licensing with confidence.
+
+**Sources cited:**
+
+- [N.C.G.S. Chapter 58 — insurance law and producer licensing (N.C. General Assembly)](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_33.pdf)
+- [Resident Licensing Fees chart, exam ($45), and Pearson VUE's role in NC licensing (Pearson VUE)](https://www.pearsonvue.com/us/en/nc/insurance.html)
+- [Online license application, $5 transaction fee, and 6-month validity (NIPR)](https://nipr.com/)

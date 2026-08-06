@@ -27,15 +27,15 @@ It helps to think of these costs as an investment in your future career. By obta
 ### Cost breakdown at a glance
 
 -   Pre-licensing course: Could range from $100 to $300 depending on the provider.
--   State exam fee: $35 per attempt, but verify with official resources for updated pricing.
+-   State exam fee: [$35 per attempt](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf), but verify with official resources for updated pricing.
 -   Fingerprinting or background check: Usually around $35 to $50.
--   Application fee to the Virginia Bureau of Insurance: A flat, non-refundable $15 per qualification (line of authority).
+-   Application fee to the Virginia Bureau of Insurance: A flat, non-refundable [$15 per qualification (line of authority)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/).
 
 You may also need to factor in additional study materials, travel expenses if you choose an in-person class, or a study guide if you want structured preparation. Some people opt for paid practice exams, though these are optional. Regardless, be sure to set aside funds so you can focus on studying rather than stressing over fees.
 
 ## Meet the [pre-licensing requirements](/virginia/prelicensing)
 
-Virginia does not mandate pre-licensing education for most lines of insurance — the state repealed its mandatory prelicensing requirement for standard producer lines (only title insurance still carries a separate education requirement). That said, structured prep is still strongly recommended given how heavily the Prometric exam leans on state-specific law, so most candidates choose to complete an optional course before sitting for the exam.
+[Virginia does not mandate pre-licensing education for most lines of insurance](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/) — the state repealed its mandatory prelicensing requirement for standard producer lines (only title insurance still carries a separate education requirement). That said, structured prep is still strongly recommended given how heavily the [Prometric exam](https://www.prometric.com/virginia/insurance) leans on state-specific law, so most candidates choose to complete an optional course before sitting for the exam.
 
 Your pre-licensing course can be completed either online or in a classroom setting, depending on your personal learning style. Online classes are popular because of their flexibility. If you have a busy schedule, online training lets you study at your own pace. Classroom-based courses, on the other hand, offer immediate interaction with instructors and classmates if you prefer more structure.
 
@@ -76,3 +76,10 @@ When you have a clear understanding of tasks such as fees, study schedules, and 
 As you embark on this journey, remember that each cost, from pre-licensing courses to exam and application fees, is part of your growth in a rewarding career. By following the steps carefully, you will be well on your way to securing your license. Once you are in the insurance field, you will have the opportunity to help friends, neighbors, and businesses protect themselves against everyday uncertainties.
 
 Should you have questions about picking a pre-licensing provider, meeting CE requirements, or simply juggling the financial aspects of licensure, do not hesitate to consult with JustInsurance. We want to see you thrive, and we are happy to point you in the right direction. Take the next step today and discover how fulfilling it can be to become a licensed insurance professional in Virginia.
+
+**Sources cited:**
+
+- [Virginia Insurance Licensing Candidate Bulletin — exam fee (Prometric / Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)
+- [Insurance License Application Fees (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+- [Applying for an Individual VA Insurance License (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Virginia Insurance Licensing Exam — Prometric (Prometric)](https://www.prometric.com/virginia/insurance)

@@ -16,13 +16,13 @@ Uninsured and underinsured motorist coverage is not optional in Virginia — not
 
 ## UM/UIM Is Mandatory — With Conditions
 
-Under Va. Code § 38.2-2206 and related provisions, no bodily injury or property damage liability policy may be issued or delivered in Virginia unless it contains an endorsement paying the insured what he is legally entitled to recover from the owner or operator of an uninsured motor vehicle, "within limits not less than the requirements of § 46.2-472." That means:
+Under [Va. Code § 38.2-2206](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2206/) and related provisions, no bodily injury or property damage liability policy may be issued or delivered in Virginia unless it contains an endorsement paying the insured what he is legally entitled to recover from the owner or operator of an uninsured motor vehicle, "within limits not less than the requirements of [§ 46.2-472](https://law.lis.virginia.gov/vacode/title46.2/chapter3/section46.2-472/)." That means:
 
 Uninsured motorist (UM) coverage — mandatory, cannot be rejected. UM coverage protects the insured when they are injured by a driver who has no insurance at all. This coverage is required and cannot be waived or rejected by the policyholder.
 
 Underinsured motorist (UIM) coverage — also mandatory. In Virginia, underinsured motorist benefits live inside the uninsured motorist endorsement rather than in a separate optional coverage part. A client cannot decline UIM any more than they can decline UM, and a producer should never tell them otherwise.
 
-What a named insured *can* reject in writing is the amount of the coverage, not the coverage itself. UM/UIM defaults to limits equal to the policy's liability limits, and it can never exceed them. Any one named insured may reject that additional coverage — notifying the insurer as provided in Va. Code § 38.2-2202(B) — and carry UM/UIM down to, but not below, the § 46.2-472 statutory minimum. That rejection binds every insured under the policy.
+What a named insured *can* reject in writing is the amount of the coverage, not the coverage itself. UM/UIM defaults to limits equal to the policy's liability limits, and it can never exceed them. Any one named insured may reject that additional coverage — notifying the insurer as provided in [Va. Code § 38.2-2202(B)](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2202/) — and carry UM/UIM down to, but not below, the § 46.2-472 statutory minimum. That rejection binds every insured under the policy.
 
 This is the distinction producers get wrong most often. No Virginia auto policy can be written without UM/UIM. The written elections a client signs change the limits or the payout method; they never remove the protection.
 
@@ -48,7 +48,7 @@ Victim's UIM coverage pays an additional $100,000
 
 Total compensation available: $150,000
 
-The one written election available here: any one named insured may sign an election to reduce underinsured motorist payments by the bodily injury or property damage liability coverage available for payment, notifying the insurer as provided in Va. Code § 38.2-2202(C). That election returns the policy to the old offset system — UIM pays only the difference between the at-fault driver's liability payment and the UIM limit, not the full UIM limit on top — and, like the limits rejection, it binds all insureds under the policy. It does not eliminate UIM coverage; it changes how the benefit is calculated.
+The one written election available here: any one named insured may sign an election to reduce underinsured motorist payments by the bodily injury or property damage liability coverage available for payment, notifying the insurer as provided in [Va. Code § 38.2-2202(C)](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2202/). That election returns the policy to the old offset system — UIM pays only the difference between the at-fault driver's liability payment and the UIM limit, not the full UIM limit on top — and, like the limits rejection, it binds all insureds under the policy. It does not eliminate UIM coverage; it changes how the benefit is calculated.
 
 ## The Insurer's Obligation When Limits Differ
 
@@ -66,7 +66,7 @@ The Insurance Research Council (IRC) — whose estimates are compiled and publis
 
 ## Producer Obligations
 
-Virginia's unfair trade practices statute (Title 38.2, Chapter 5) and the general duty of producer competence create practical obligations around UM/UIM advisory:
+Virginia's unfair trade practices statute ([Title 38.2, Chapter 5](https://law.lis.virginia.gov/vacodefull/title38.2/chapter5/)) and the general duty of producer competence create practical obligations around UM/UIM advisory:
 
 Explaining the default UM/UIM inclusion and why it exists
 
@@ -103,3 +103,10 @@ Keep two different concepts separate. The 2023 change to Va. Code § 38.2-2206 g
 Virginia's UM/UIM framework — mandatory coverage, the 2023 stacking change, and the 2025 new minimums — provides Virginia drivers with meaningfully stronger protection than the prior system. Producers who understand every layer of these rules advise clients with the accuracy and confidence that builds lasting professional relationships.
 
 Use these UM/UIM rules to advise Virginia auto clients accurately on mandatory limits and stacking. Auto insurance law is part of the Virginia property and casualty exam; JustInsurance's exam prep covers the life, health, and combined life & health lines, and we do not offer a property and casualty prep course. Already hold your Virginia P&C license? [Virginia continuing education](/virginia/continuing-education) keeps your credential current.
+
+**Sources cited:**
+
+- [Code of Virginia § 38.2-2206 — Uninsured/underinsured motorist coverage (Virginia General Assembly)](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2206/)
+- [Code of Virginia § 38.2-2202 — Written notice and rejection of UM/UIM elections (Virginia General Assembly)](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2202/)
+- [Code of Virginia § 46.2-472 — Minimum motor vehicle liability limits (Virginia General Assembly)](https://law.lis.virginia.gov/vacode/title46.2/chapter3/section46.2-472/)
+- [Code of Virginia Title 38.2, Chapter 5 — Unfair Trade Practices (Virginia General Assembly)](https://law.lis.virginia.gov/vacodefull/title38.2/chapter5/)

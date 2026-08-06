@@ -16,7 +16,7 @@ Virginia actively participates in the national non-resident producer licensing f
 
 ## The Core Rule: Reciprocity Without Re-Examination
 
-Under Virginia Code § 38.2-1836, Virginia issues non-resident producer licenses based on the producer's home state license in good standing. If you hold an active Property & Casualty license in North Carolina, you can apply for a Virginia non-resident P&C license without retaking the Prometric exam. If you hold a Life & Health license in Maryland, you can apply for a Virginia non-resident L&H license through NIPR, pay the $15 per-line fee, and receive Virginia authority based on your Maryland license.
+Under [Virginia Code § 38.2-1836](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1836/), Virginia issues non-resident producer licenses based on the producer's home state license in good standing. If you hold an active Property & Casualty license in North Carolina, you can apply for a Virginia non-resident P&C license without retaking the Prometric exam. If you hold a Life & Health license in Maryland, you can apply for a Virginia non-resident L&H license through NIPR, pay the $15 per-line fee, and receive Virginia authority based on your Maryland license.
 
 Conditions for reciprocity:
 
@@ -34,7 +34,7 @@ No exam required. Virginia waives the Prometric exam for non-resident applicants
 
 Platform: NIPR (nipr.com) or Sircon (sircon.com/virginia)
 
-Fee: $15 per line of authority (same as resident applicants), plus $5.60 NIPR/Sircon processing fee
+Fee: [$15 per line of authority](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/) (same as resident applicants), plus $5.60 NIPR/Sircon processing fee
 
 What to provide:
 
@@ -54,7 +54,7 @@ Processing time: Applications are processed in the same 15-business-day window a
 
 Non-resident producers who hold a Virginia non-resident license are not required to complete Virginia CE. Virginia accepts CE compliance from the producer's home state as satisfying the Virginia [continuing education](/virginia/continuing-education) requirement. If you are CE-compliant in your resident state, you are CE-compliant in Virginia.
 
-Important exception for LTC Partnership products: Virginia's Partnership training rule applies to the person selling the policy, not to their state of residence. Under 14VAC5-200-205, no one may sell, solicit, or negotiate a Virginia Partnership long-term care policy without completing initial training of no less than eight hours, followed by ongoing training of no less than four hours every 24 months thereafter. All of that training must be approved as continuing education by the Virginia Insurance Continuing Education Board under Va. Code § 38.2-1867.
+Important exception for LTC Partnership products: Virginia's Partnership training rule applies to the person selling the policy, not to their state of residence. Under [14VAC5-200-205](https://law.lis.virginia.gov/admincode/title14/agency5/chapter200/section205/), no one may sell, solicit, or negotiate a Virginia Partnership long-term care policy without completing initial training of no less than eight hours, followed by ongoing training of no less than four hours every 24 months thereafter. All of that training must be approved as continuing education by the Virginia Insurance Continuing Education Board under Va. Code § 38.2-1867.
 
 The regulation itself prescribes required subject matter rather than an hour-by-hour syllabus — Medicaid and the Partnership program's relationship to other public and private long-term care coverage, available services and providers, alternatives to private LTC insurance, the effect of inflation and the importance of inflation protection, and suitability standards. The Continuing Education Board is where that becomes a course structure, and as the Board administers it the eight initial hours run six hours of general long-term care content plus two hours of Virginia-specific Partnership and Medicaid material, with the four-hour ongoing requirement split two and two.
 
@@ -94,7 +94,7 @@ Pay the $15 per-line application fee
 
 That is the entire list, and the omissions are the point. Because you are applying within 90 days of inactivating a home-state resident license, the Bureau of Insurance does not require you to sit the Prometric exam or complete Fieldprint fingerprinting in Virginia for the lines you already held — its guidance for agents moving to Virginia states that an applicant inside that window "will not be required to take the Exam(s) or get Fingerprinting done in Virginia for licenses held in your current home state." Your Virginia non-resident license, if you hold one, remains active during the 90-day period.
 
-If you miss the 90-day transfer window, you must satisfy all Virginia resident [prelicensing](/virginia/prelicensing) requirements from scratch — including passing the Prometric exam for each line and completing Fieldprint fingerprinting under code FPVABOIProducer.
+If you miss the 90-day transfer window, you must satisfy all Virginia resident [prelicensing](/virginia/prelicensing) requirements from scratch — including passing the Prometric exam for each line and completing Fieldprint fingerprinting under [code FPVABOIProducer](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/).
 
 Virginia's system verifies license status automatically through the NAIC Producer Database — no letter of certification from your prior state is required.
 
@@ -123,3 +123,10 @@ Virginia issues non-resident licenses for all major lines — Life and Annuities
 Virginia's non-resident licensing framework rewards producers who understand the reciprocity system and take advantage of it strategically. With $15 per line and no exam required, expanding your authority to neighboring states through NIPR is one of the lowest-cost, highest-return steps a Virginia-licensed producer can take.
 
 Visit JustInsurance to enroll today and build the Virginia resident license that forms the foundation for multi-state practice across the Mid-Atlantic corridor.
+
+**Sources cited:**
+
+- [Va. Code § 38.2-1836, Nonresident Agent Licensing and Reciprocity (Code of Virginia)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1836/)
+- [14VAC5-200-205, Long-Term Care Partnership Training Requirements (Virginia Administrative Code)](https://law.lis.virginia.gov/admincode/title14/agency5/chapter200/section205/)
+- [Applying for an Individual VA Insurance License (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Insurance License Application Fees (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)

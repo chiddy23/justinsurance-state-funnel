@@ -25,7 +25,7 @@ Within the L/A/H world, you can take all three lines at once (Series 11-01) or s
 
 Profile: Career changer who wants to start selling quickly in a specific line, or candidate who wants to minimize initial study burden and exam risk.
 
-Example: You want to sell life insurance in Virginia. You take only the Series 11-05 (Life & Annuities, 90 scored questions, $35). You pass, get licensed for Life & Annuities, and start working. Later, if you want to add Health, you take Series 11-06 separately and add it to your license.
+Example: You want to sell life insurance in Virginia. You take only the Series 11-05 (Life & Annuities, 90 scored questions, [$35](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)). You pass, get licensed for Life & Annuities, and start working. Later, if you want to add Health, you take Series 11-06 separately and add it to your license.
 
 Advantages:
 
@@ -51,7 +51,7 @@ When it makes sense: You are certain you will only sell one line for the foresee
 
 Profile: Most candidates entering the Life and Health market.
 
-The combined 11-01 exam covers all three lines in a single 140-question, 150-minute sitting for $35. If you pass, you can apply for Life, Annuities, and Health authority together — paying $15 per qualification.
+The combined 11-01 exam covers all three lines in a single 140-question, 150-minute sitting for $35. If you pass, you can apply for Life, Annuities, and Health authority together — paying [$15 per qualification](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/).
 
 Advantages:
 
@@ -71,7 +71,7 @@ When it makes sense: You plan to sell any combination of life, annuities, and he
 
 ## Option 3: Full P&C (Series 11-03) vs. Personal Lines Only
 
-The P&C Series 11-03 covers both Property and Casualty lines — the full commercial and personal market. This is the standard P&C exam for producers who intend to sell both personal and commercial accounts.
+The P&C [Series 11-03](https://www.prometric.com/files/virginia/1103-Property-and-Casualty-Insurance.pdf) covers both Property and Casualty lines — the full commercial and personal market. This is the standard P&C exam for producers who intend to sell both personal and commercial accounts.
 
 The Personal Lines exam (Series 11-07) is a shorter exam — 100 scored questions plus 5 unscored pre-test items, a two-hour limit, $35 — covering only personal lines Property and Casualty: personal auto, homeowners, renters, and related personal risk products. It does not authorize you to sell commercial lines coverage.
 
@@ -107,11 +107,11 @@ Two exams: $70 total
 
 Three qualifications: $45 in application fees (Life & Annuities, Health, and Property and Casualty at $15 each)
 
-One fingerprint appointment: $34.95 (covers both applications)
+One fingerprint appointment: [$34.95](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/) (covers both applications)
 
 Total without course: ~$150
 
-CE implication: Dual licensing increases your biennial CE obligation from 16 hours (single license type) to 24 hours (two license types), with a minimum of 8 hours per license type. This is a permanent commitment — plan for 24 hours of CE every two years going forward.
+CE implication: Dual licensing increases your biennial CE obligation from 16 hours (single license type) to [24 hours (two license types), with a minimum of 8 hours per license type](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/). This is a permanent commitment — plan for 24 hours of CE every two years going forward.
 
 When it makes sense: You are entering an independent agency environment, pursuing commercial lines opportunities alongside personal insurance, or starting a financial planning practice that combines insurance, annuities, and financial products. The dual license is the standard credential for full-service producers.
 
@@ -140,3 +140,10 @@ For most candidates, no. Personal Lines licensing does not serve as a stepping s
 Virginia's flexible exam structure gives you real choices about how to build your licensing path. Take the combined exams for the lines you will actually use, plan your CE obligations before you commit to dual licensing, and choose the route that matches your market — not the minimum that gets you a piece of paper.
 
 Visit JustInsurance to enroll today and start preparing with a course built to the exact Prometric content outline for your chosen exam series.
+
+**Sources cited:**
+- [Virginia Bureau of Insurance Licensing Information Bulletin / Candidate Handbook (Prometric, via Virginia SCC)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)
+- [Property & Casualty (Series 11-03) Content Outline (Prometric)](https://www.prometric.com/files/virginia/1103-Property-and-Casualty-Insurance.pdf)
+- [Individual License Application Fees (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+- [Applying for an Individual VA Insurance License (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Continuing Education Requirements (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)

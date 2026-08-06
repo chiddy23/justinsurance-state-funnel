@@ -16,15 +16,15 @@ Virginia insurance licenses do not renew automatically and do not have a forgive
 
 ## Why Virginia Licenses Lapse
 
-Virginia licenses expire on the last day of your birth month, in the odd or even year matching your birth year — an individual deadline that repeats every two years, not a single statewide date. Licenses lapse for two reasons, which often occur together:
+Virginia licenses [expire on the last day of your birth month, in the odd or even year matching your birth year](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/) — an individual deadline that repeats every two years, not a single statewide date. Licenses lapse for two reasons, which often occur together:
 
-Failure to complete CE: Virginia requires 16 CE hours per biennial cycle (24 hours for dual-line licensees), including 3 hours of ethics. If CE is not completed by your renewal date, the license cannot be renewed and is administratively terminated on that date.
+Failure to complete CE: Virginia requires [16 CE hours per biennial cycle (24 hours for dual-line licensees), including 3 hours of ethics](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/). If CE is not completed by your renewal date, the license cannot be renewed and is administratively terminated on that date.
 
 Failure to submit the renewal application: Even if CE is complete, the license lapses if the renewal application and fee are not submitted through NIPR or Sircon by your renewal date. Virginia has no grace period after the expiration date — the day after your deadline, a license that was not renewed is terminated.
 
 ## The Reinstatement Window
 
-Virginia allows reinstatement within one year from the license expiration date. For a license that expired on your renewal date in 2024, the reinstatement deadline is the same date in 2025. After that one-year window closes, reinstatement is no longer available — a new license application, including retaking the Prometric exam, is required.
+Virginia allows [reinstatement within one year from the license expiration date](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/). For a license that expired on your renewal date in 2024, the reinstatement deadline is the same date in 2025. After that one-year window closes, reinstatement is no longer available — a new license application, including retaking the Prometric exam, is required.
 
 ## Reinstatement Requirements
 
@@ -36,7 +36,7 @@ To reinstate a lapsed Virginia insurance license, you must satisfy all of the fo
 
 3. Pay the reinstatement fees:
 
-Virginia charges $30 per qualification to reinstate — the $10 renewal fee plus a reinstatement fee of double that, $20 — and the NIPR/Sircon transaction fee of $5.60 applies once per submission, not once per qualification. So a producer reinstating a single qualification pays $35.60 all in. A producer carrying the full general-lines set — Life and Annuities, Health, and Property and Casualty, which is three qualifications — pays $90 ($30 in renewal fees plus $60 in reinstatement fees) plus the same single $5.60. Add $30 for any additional qualification you hold, such as Title.
+Virginia charges $30 per qualification to reinstate — the [$10 renewal fee](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/) plus a reinstatement fee of double that, $20 — and the NIPR/Sircon transaction fee of $5.60 applies once per submission, not once per qualification. So a producer reinstating a single qualification pays $35.60 all in. A producer carrying the full general-lines set — Life and Annuities, Health, and Property and Casualty, which is three qualifications — pays $90 ($30 in renewal fees plus $60 in reinstatement fees) plus the same single $5.60. Add $30 for any additional qualification you hold, such as Title.
 
 4. Provide updated background documentation if required. If significant time has passed since your original Fieldprint fingerprinting, or if your background has changed since you were last licensed, the Bureau may request new prints or additional disclosure documents. Contact the Bureau directly at AgentLicensing@scc.virginia.gov if your reinstatement involves more than a brief lapse.
 
@@ -62,13 +62,13 @@ Your CE obligation now runs to your next birth-month renewal date — the fixed 
 
 If your license lapsed more than one year ago, reinstatement is not available. You must apply for a new Virginia producer license from scratch:
 
-Pass the Prometric exam for each line you want to hold ($35 per exam)
+Pass the Prometric exam for each line you want to hold ([$35 per exam](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf))
 
-Complete Fieldprint fingerprinting ($34.95) using code FPVABOIProducer — this is the background check in its entirety; there is no separate Virginia State Police report to order and upload
+Complete [Fieldprint fingerprinting ($34.95) using code FPVABOIProducer](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/) — this is the background check in its entirety; there is no separate Virginia State Police report to order and upload
 
-Submit a new application through NIPR or Sircon ($15 per line)
+Submit a new application through NIPR or Sircon ([$15 per line](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/))
 
-The exam score is valid for 183 days from your Prometric exam date. If you have previously held a Virginia license, you still must pass the current exam — there is no grandfathering of prior passage for re-applicants who missed the reinstatement window.
+The exam score is [valid for 183 days from your Prometric exam date](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf). If you have previously held a Virginia license, you still must pass the current exam — there is no grandfathering of prior passage for re-applicants who missed the reinstatement window.
 
 ## Frequently Asked Questions
 
@@ -95,3 +95,12 @@ Your next renewal is due on your usual birth-month renewal date, on the same fix
 A lapsed Virginia insurance license is a fully correctable situation as long as you act within one year of the expiration date. Complete your CE, pay the reinstatement fees, and submit through NIPR or Sircon. Miss the one-year window and the path back requires starting from scratch.
 
 Visit JustInsurance to enroll today, whether you are getting your first Virginia license or preparing to rebuild after a lapse with a CE course that meets the current Bureau of Insurance requirements.
+
+**Sources cited:**
+
+- [Code of Virginia § 38.2-1825.1 — renewal, birth-month expiration, and reinstatement (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)
+- [Continuing Education Requirements (SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)
+- [License Renewals (SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)
+- [Applying for an Individual VA Insurance License (SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Application Fees (SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+- [Virginia Insurance Licensing Candidate Information Bulletin (Prometric / SCC Bureau of Insurance)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)

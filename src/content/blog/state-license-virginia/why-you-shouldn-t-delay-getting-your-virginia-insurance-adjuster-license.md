@@ -45,14 +45,14 @@ If your goal is deployment work, storm work, or an IA roster, this is the step t
 
 If you intend to represent policyholders on their own first-party property claims — the homeowner whose roof claim was underpaid — then Virginia does license you, and the process is specific:
 
--   Be a Virginia resident applicant and **pass the Virginia Public Adjuster Examination** (Prometric series 11-08, 60 minutes, $35 registration fee)
--   **Submit the license application** electronically through NIPR or Sircon, with a **$15 nonrefundable per-application processing fee**
+-   Be a Virginia resident applicant and **pass the Virginia Public Adjuster Examination** ([Prometric series 11-08, 60 minutes, $35 registration fee](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf))
+-   **Submit the license application** electronically through NIPR or Sircon, with a **[$15 nonrefundable per-application processing fee](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)**
 -   **Certify and maintain a $50,000 bond** in favor of the Commonwealth, written by a corporate surety licensed by the Commission, for as long as the license remains in effect
 -   Business entities must also obtain a Certificate of Authority from the Commission (generally within 90 days)
 
 The bond is the part people underestimate. It is a condition of licensure, not a one-time filing — if it lapses, your authority to act as a public adjuster is at risk.
 
-Resident public adjusters then complete **24 hours of continuing education, including 3 hours of ethics, every 24 months** to renew. That is a separate requirement from producer CE; do not assume hours carry over between the two credentials.
+Resident public adjusters then complete **[24 hours of continuing education, including 3 hours of ethics, every 24 months](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)** to renew. That is a separate requirement from producer CE; do not assume hours carry over between the two credentials.
 
 ## Why the confusion costs people money
 
@@ -73,3 +73,9 @@ If that is the direction you are heading, JustInsurance offers [Virginia produce
 ## Don’t delay the right step
 
 The original advice still holds, just aimed at the right target. Time spent uncertain is time not earning. Confirm your path with the [SCC Bureau of Insurance](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/public-adjusters/) directly, and if a course provider tells you Virginia requires an adjuster license for company or independent work, treat that as a reason to check their other claims too. Getting this right on day one is what keeps your first year in claims moving forward instead of sideways.
+
+**Sources cited:**
+
+- [Virginia Insurance Licensing Candidate Bulletin — exam series, times & $35 fee (Prometric / SCC Bureau of Insurance)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)
+- [Insurance license application fees — $15 per application (SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+- [Continuing education requirements (SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)

@@ -16,7 +16,7 @@ Virginia's Long-Term Care Partnership program is a state-federal collaboration t
 
 ## What the 8-Hour Initial Training Covers
 
-Virginia does not split the eight hours into a fixed "general" block and a separate "Virginia-specific" block. 14VAC5-200-205(E) sets a single floor — the initial training must be no less than eight hours — and lists the subjects the course has to cover:
+Virginia does not split the eight hours into a fixed "general" block and a separate "Virginia-specific" block. 14VAC5-200-205(E) sets a single floor — the [initial training must be no less than eight hours](https://law.lis.virginia.gov/admincode/title14/agency5/chapter200/section205/) — and lists the subjects the course has to cover:
 
 The relationship between qualified state long-term care insurance partnership programs and other public and private coverage of long-term care services, including Medicaid — and the state and federal regulations that govern it
 
@@ -32,7 +32,7 @@ The training must be approved for [continuing education](/virginia/continuing-ed
 
 ## The Ongoing 4-Hour Requirement
 
-After completing the initial 8-hour training, you must complete at least 4 hours of ongoing LTC training every 24 months to keep your authority to sell LTC Partnership products. That four-hour ongoing floor is what 14VAC5-200-205(E) requires — the regulation does not carve out a set number of Virginia-specific hours within it.
+After completing the initial 8-hour training, you must complete at least [4 hours of ongoing LTC training every 24 months](https://law.lis.virginia.gov/admincode/title14/agency5/chapter200/section205/) to keep your authority to sell LTC Partnership products. That four-hour ongoing floor is what 14VAC5-200-205(E) requires — the regulation does not carve out a set number of Virginia-specific hours within it.
 
 The 24-month clock runs from the completion date of your prior training, not from your license renewal date. Your LTC ongoing training schedule may not align with your biennial CE renewal cycle — track both deadlines separately.
 
@@ -48,7 +48,7 @@ For insurers: Virginia holds insurers responsible for verifying that their appoi
 
 ## Does Training Completed in Another State Count?
 
-This is where the online guidance is least reliable, so go straight to the rule. 14VAC5-200-205(E) sets the floor — initial training of no less than eight hours, ongoing training of no less than four hours every 24 months — and requires that the training be approved as continuing education by the Virginia Insurance Continuing Education Board under Va. Code § 38.2-1867. The regulation does not create a Virginia-specific hour carve-out, and it does not grant any automatic credit for hours logged in another state.
+This is where the online guidance is least reliable, so go straight to the rule. 14VAC5-200-205(E) sets the floor — initial training of no less than eight hours, ongoing training of no less than four hours every 24 months — and requires that the training be approved as continuing education by the Virginia Insurance Continuing Education Board under [Va. Code § 38.2-1867](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/). The regulation does not create a Virginia-specific hour carve-out, and it does not grant any automatic credit for hours logged in another state.
 
 What that means in practice: hours count in Virginia only if the course carries Virginia CE Board approval. Many NAIC-model 8-hour Partnership courses are approved in several states at once, so a course you completed elsewhere may already be Virginia-approved — but that turns on the specific course's approval status, not on a blanket reciprocity rule. Do not assume an out-of-state course transfers on its own.
 
@@ -56,7 +56,7 @@ Non-resident producers: Non-resident producers who sell LTC Partnership products
 
 ## How LTC Training Counts Toward Regular CE
 
-The LTC training hours — both the 8-hour initial and the 4-hour ongoing — count as CE credit toward your biennial CE requirement. This means the training is not entirely additional time on top of your normal CE obligation; it contributes toward your 16 or 24-hour total. The specific CE categories for which the hours are credited (e.g., L/A/H credit) depend on the approved course — confirm with the course provider before enrolling.
+The LTC training hours — both the 8-hour initial and the 4-hour ongoing — count as CE credit toward your biennial CE requirement. This means the training is not entirely additional time on top of your normal CE obligation; it contributes toward your [16 or 24-hour total](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/). The specific CE categories for which the hours are credited (e.g., L/A/H credit) depend on the approved course — confirm with the course provider before enrolling.
 
 ## What Is the Virginia LTC Partnership Program?
 
@@ -89,3 +89,9 @@ LTC training hours count toward your regular CE requirement — they are not ent
 Virginia's LTC Partnership training requirement is one of the most consequential specialty education requirements in the state — both because of the direct regulatory prohibition on selling before you train and because the ongoing 4-hour requirement runs on a firm 24-month cycle. Treat both deadlines with the same rigor as your license renewal date.
 
 Visit JustInsurance to enroll today and complete your Virginia LTC Partnership training with a course approved by the Virginia Insurance Continuing Education Board.
+
+**Sources cited:**
+
+- [14VAC5-200-205 — Long-term care insurance producer training (Virginia Law / State Corporation Commission)](https://law.lis.virginia.gov/admincode/title14/agency5/chapter200/section205/)
+- [Code of Virginia § 38.2-1867 — Continuing education; Board approval of credits (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/)
+- [Continuing Education Requirements (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)

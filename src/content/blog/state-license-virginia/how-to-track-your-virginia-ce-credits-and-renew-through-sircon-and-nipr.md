@@ -30,17 +30,17 @@ The number of hours in each category (Ethics, Laws and Regulations, Life/Annuiti
 
 The total hours credited in the current biennium
 
-Note: Virginia does let you carry excess credits forward, but only one cycle deep. Va. Code § 38.2-1867(D) allows an agent with excess credit hours from a renewal cycle to "carry such hours forward to the next biennium only," and the Virginia Insurance CE Board's handbook adds two limits worth knowing — the surplus is lost if you fail to renew during the 90-day renewal period, and carry forward does not apply to public adjusters at all. Treat a carried-forward balance as something to confirm on your transcript, not something to assume
+Note: Virginia does let you carry excess credits forward, but only one cycle deep. [Va. Code § 38.2-1867(D)](https://law.lis.virginia.gov/vacodefull/title38.2/chapter18/article7/) allows an agent with excess credit hours from a renewal cycle to "carry such hours forward to the next biennium only," and the Virginia Insurance CE Board's handbook adds two limits worth knowing — the surplus is lost if you fail to renew during the 90-day renewal period, and carry forward does not apply to public adjusters at all. Treat a carried-forward balance as something to confirm on your transcript, not something to assume
 
 What to verify:
 
 Total hours completed meets your requirement (16 or 24)
 
-At least 3 hours are categorized as Ethics (or Laws and Regulations)
+[At least 3 hours are categorized as Ethics](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/) (or Laws and Regulations)
 
 For dual licensees: at least 8 hours applicable to each license type
 
-No more than 75% of credits are from company-sponsored sources
+[No more than 75% of credits are from company-sponsored sources](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)
 
 Specialty training completions (annuity best interest, LTC, flood) are recorded if applicable
 
@@ -48,7 +48,7 @@ If a course completion is missing: Contact the course provider first to confirm 
 
 ## Step 2: Verify Your License Renewal Date
 
-Your license expires at the end of your birth month, in your odd/even renewal year. Confirm your specific expiration date in your NIPR or Sircon account. The Bureau sends renewal reminder notices approximately 90 days before your expiration — ensure your email address is current in the Bureau's system at AgentLicensing@scc.virginia.gov.
+Your license [expires at the end of your birth month, in your odd/even renewal year](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/). Confirm your specific expiration date in your NIPR or Sircon account. The Bureau sends renewal reminder notices approximately 90 days before your expiration — ensure your email address is current in the Bureau's system at AgentLicensing@scc.virginia.gov.
 
 Your renewal window opens 90 days before your expiration date. You can submit the renewal application any time within that window, but not before it opens.
 
@@ -62,7 +62,7 @@ Confirm the lines of authority you are renewing
 
 Certify CE compliance (the system will verify against your transcript)
 
-Pay the renewal fee: $10 per line of authority plus $5.60 NIPR/Sircon processing fee
+Pay the renewal fee: [$10 per line of authority](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/) plus $5.60 NIPR/Sircon processing fee
 
 Submit and retain your confirmation
 
@@ -99,3 +99,10 @@ Yes — several commercial compliance management platforms track CE requirements
 Tracking your CE and renewing on time in Virginia requires managing two pieces — your CE transcript and the NIPR/Sircon renewal platforms — but neither is complicated when you understand what each does and build your annual compliance calendar around your birth-month renewal deadline.
 
 Visit JustInsurance to enroll today and complete your Virginia CE requirements with state-approved courses that report automatically to your Sircon transcript.
+
+**Sources cited:**
+
+- [Va. Code § 38.2-1867 — Continuing Education, carryover subsection D (Virginia Law)](https://law.lis.virginia.gov/vacodefull/title38.2/chapter18/article7/)
+- [Va. Code § 38.2-1825.1 — Renewal application; birth-month expiration (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)
+- [Continuing Education Requirements (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)
+- [License Renewals (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)

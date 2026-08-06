@@ -16,7 +16,7 @@ Virginia's workers' compensation system operates entirely through the competitiv
 
 ## Who Must Carry Workers' Compensation in Virginia
 
-Under Va. Code § 65.2-300 (the Virginia Workers' Compensation Act), employers must carry coverage when they regularly employ more than two employees — meaning coverage is required when total employment reaches three or more workers.
+Under Va. Code § 65.2-300 (the Virginia Workers' Compensation Act), employers must carry coverage when they regularly employ more than two employees — meaning coverage is required when total employment reaches [three or more workers](https://law.lis.virginia.gov/vacode/title65.2/chapter1/section65.2-101/).
 
 Employee threshold details:
 
@@ -112,7 +112,7 @@ Yes. Corporate officers of Virginia corporations may individually elect to rejec
 
 Does Virginia's workers' compensation exclusive remedy doctrine protect employers from civil lawsuits by injured employees?
 
-Yes — the exclusive remedy doctrine means that workers' compensation is the exclusive legal remedy for an employee's workplace injury against the employer. An injured employee covered under a valid workers' comp policy cannot sue the employer in civil court for the same workplace injury (with narrow exceptions). However, the exclusive remedy protection applies only to insured employers — an employer who is required to carry workers' comp but fails to do so loses the exclusive remedy protection. Uninsured employers can be sued in civil court by injured workers for the full range of tort damages, including pain and suffering, which workers' comp benefits do not cover. This is a powerful incentive for employer compliance beyond the direct civil penalties.
+Yes — the exclusive remedy doctrine means that workers' compensation is [the exclusive legal remedy for an employee's workplace injury against the employer](https://law.lis.virginia.gov/vacode/title65.2/chapter3/section65.2-307/). An injured employee covered under a valid workers' comp policy cannot sue the employer in civil court for the same workplace injury (with narrow exceptions). However, the exclusive remedy protection applies only to insured employers — an employer who is required to carry workers' comp but fails to do so loses the exclusive remedy protection. Uninsured employers can be sued in civil court by injured workers for the full range of tort damages, including pain and suffering, which workers' comp benefits do not cover. This is a powerful incentive for employer compliance beyond the direct civil penalties.
 
 How should a Virginia producer advise a client contractor about workers' comp requirements for their subcontractors?
 
@@ -121,3 +121,8 @@ Virginia's workers' comp law requires contractors to count subcontractors' emplo
 Virginia's workers' comp framework — no state fund, competitive private market, firm employer threshold, and severe non-compliance penalties — creates clear commercial insurance opportunities for producers who serve the Commonwealth's business community. Understanding the VWC, the NCCI assigned risk pool, and the coverage requirements for contractors and their subcontractors is the foundation for advising Virginia employers accurately.
 
 A note on studying for the Virginia exam: Virginia repealed mandatory prelicensing education for standard producer lines (Acts 2001, c. 706, effective September 2002), and it does not run a course-approval program for those lines — so no Virginia exam-prep course, ours included, can be described as "state-approved." JustInsurance's Virginia credential, #158885, is a continuing education provider approval. Our Virginia exam-prep catalog currently covers the life, health, and combined life & health lines; we do not offer a Virginia property & casualty prep course. If you already hold a Virginia license, see [Virginia continuing education](/virginia/continuing-education) for the biennial CE requirement that applies to your license categories.
+
+**Sources cited:**
+
+- [Code of Virginia § 65.2-101 — Definitions; employer three-employee threshold (Virginia Law)](https://law.lis.virginia.gov/vacode/title65.2/chapter1/section65.2-101/)
+- [Code of Virginia § 65.2-307 — Exclusive remedy doctrine (Virginia Law)](https://law.lis.virginia.gov/vacode/title65.2/chapter3/section65.2-307/)

@@ -24,13 +24,13 @@ Both platforms connect to the same Virginia Bureau of Insurance backend. Both ch
 
 Important: NIPR does not pre-verify your exam results before accepting submission. The Bureau of Insurance verifies exam data after submission. Do not assume that your application will be rejected if Prometric hasn't yet transmitted your results — results are typically transmitted within two business days of your exam.
 
-Renewal note: Both NIPR and Sircon are used for license renewals as well. The $10 renewal fee applies per line of authority at renewal.
+Renewal note: Both NIPR and Sircon are used for license renewals as well. The [$10 renewal fee applies per line of authority](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/) at renewal.
 
 ## The Application Fee
 
-Virginia charges a $15 non-refundable processing fee per line of authority (also called "per qualification"). This fee does not vary by qualification — Life and Annuities, Health, Property and Casualty, and Personal Lines each cost $15.
+Virginia charges a [$15 non-refundable processing fee per line of authority](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/) (also called "per qualification"). This fee does not vary by qualification — Life and Annuities, Health, Property and Casualty, and Personal Lines each cost $15.
 
-Property and Casualty is a single Virginia qualification, not two — one $15 fee and one exam (Series 11-03), and it already includes the Personal Lines classes of insurance, so do not also apply for Personal Lines. If you passed the combined Series 11-01 exam, Life & Annuities and Health are two separate qualifications, so you pay $15 for each ($30) — check the specific NIPR or Sircon application flow to confirm exactly how the charges apply for combined exam results.
+Property and Casualty is a single Virginia qualification, not two — one $15 fee and one exam (Series 11-03), and it [already includes the Personal Lines classes of insurance, so do not also apply for Personal Lines](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf). If you passed the combined Series 11-01 exam, Life & Annuities and Health are two separate qualifications, so you pay $15 for each ($30) — check the specific NIPR or Sircon application flow to confirm exactly how the charges apply for combined exam results.
 
 ## What Your Application Requires
 
@@ -38,7 +38,7 @@ Virginia's Bureau of Insurance verifies most of your file automatically, but a f
 
 ### Criminal Background Check (Fingerprinting — not a document you attach)
 
-Virginia does not have you obtain and upload a Criminal History Record Report. Since January 1, 2020 the background check is fingerprint-based: you complete a live-scan appointment at Fieldprint (code FPVABOIProducer, $34.95), and Fieldprint transmits your prints to the Virginia State Police and the FBI, who return the results directly to the Bureau's Agent Licensing Unit. Your fingerprints must be no more than 90 days old when the application is processed. You do not need new prints if you submitted them within the last 12 months, currently hold a Virginia license, and are applying for the same license type. You never upload the results yourself, but your prints must be on file before the application can be fully processed — so complete your Fieldprint appointment before or around the same time as your exam.
+Virginia does not have you obtain and upload a Criminal History Record Report. Since January 1, 2020 the background check is fingerprint-based: you complete a live-scan appointment at [Fieldprint (code FPVABOIProducer, $34.95)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/), and Fieldprint transmits your prints to the Virginia State Police and the FBI, who return the results directly to the Bureau's Agent Licensing Unit. Your fingerprints must be no more than 90 days old when the application is processed. You do not need new prints if you submitted them within the last 12 months, currently hold a Virginia license, and are applying for the same license type. You never upload the results yourself, but your prints must be on file before the application can be fully processed — so complete your Fieldprint appointment before or around the same time as your exam.
 
 ### Disclosure Documents for Criminal History
 
@@ -66,7 +66,7 @@ The simplest approach: schedule your Fieldprint appointment within a week of you
 
 ## Processing Time and What to Expect
 
-Applications are processed by the Virginia Bureau of Insurance in date order. The typical processing time is approximately 15 business days from the date of submission. During processing, the Bureau reviews your exam results (transmitted electronically by Prometric), your fingerprint background check (returned by the Virginia State Police and FBI), and any disclosure documents.
+Applications are processed by the Virginia Bureau of Insurance in date order. The typical processing time is [approximately 15 business days](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/) from the date of submission. During processing, the Bureau reviews your exam results (transmitted electronically by Prometric), your fingerprint background check (returned by the Virginia State Police and FBI), and any disclosure documents.
 
 You can check application status through the NIPR website after submission.
 
@@ -105,3 +105,10 @@ The $5.60 NIPR processing fee is a transaction fee charged by NIPR (the National
 The application process for a Virginia insurance license is straightforward when you understand the two timing windows, the document requirements, and the platform options. Submit everything together, track your deadlines, and your license approval comes through in about 15 business days.
 
 Visit JustInsurance to enroll today and start preparing for the Virginia Prometric exam before scheduling your Fieldprint appointment and application submission.
+
+**Sources cited:**
+
+- [Applying for an Individual VA Insurance License (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Insurance License Application Fees (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+- [License Renewals (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)
+- [Virginia Insurance Licensing Information Bulletin (Prometric / Virginia Bureau of Insurance)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)

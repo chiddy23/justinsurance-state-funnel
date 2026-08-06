@@ -16,7 +16,7 @@ Virginia is one of five jurisdictions in the United States — alongside Alabama
 
 ## The Legal Doctrine: What It Means
 
-The doctrine is not codified anywhere in the Code of Virginia. It is judge-made common law, applied through Virginia case law and the Virginia model jury instructions, and its modern statement traces to Baskett v. Banks, 186 Va. 1022 (1947): "No person is entitled to recover from another for damages which have been occasioned by his own act or his own neglect." (Do not confuse the doctrine with Va. Code § 8.01-34, which is sometimes cited for it in error — that section governs contribution among joint wrongdoers, meaning one defendant's right to recover from another defendant, and says nothing about a plaintiff's own negligence.)
+The doctrine is not codified anywhere in the Code of Virginia. It is judge-made common law, applied through Virginia case law and the Virginia model jury instructions, and its modern statement traces to Baskett v. Banks, 186 Va. 1022 (1947): "No person is entitled to recover from another for damages which have been occasioned by his own act or his own neglect." (Do not confuse the doctrine with [Va. Code § 8.01-34](https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-34/), which is sometimes cited for it in error — that section governs contribution among joint wrongdoers, meaning one defendant's right to recover from another defendant, and says nothing about a plaintiff's own negligence.)
 
 The rule applies across Virginia tort law — auto accidents, premises liability, product liability, general negligence. The plaintiff's fault does not need to equal or exceed the defendant's. One percent of plaintiff fault, if found to be a proximate cause of the injury, eliminates the entire claim.
 
@@ -32,7 +32,7 @@ Last clear chance doctrine: When the defendant had the final, clear opportunity 
 
 Willful and wanton conduct: If the defendant's conduct rises to the level of willful and wanton disregard for the plaintiff's safety — conscious indifference to the known risk — the contributory negligence defense does not apply. DUI cases frequently trigger this exception.
 
-Statutory exceptions: Va. Code § 8.01-58 provides exceptions for employees of certain common carriers. Other specific statutes may create additional exceptions in specialized contexts.
+Statutory exceptions: [Va. Code § 8.01-58](https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-58/) provides exceptions for employees of certain common carriers. Other specific statutes may create additional exceptions in specialized contexts.
 
 Children under seven: Virginia courts presume children under age seven cannot be contributorily negligent.
 
@@ -66,7 +66,7 @@ Virginia, Alabama, Maryland, North Carolina, and the District of Columbia are th
 
 How does the contributory negligence doctrine interact with insurance bad faith claims in Virginia?
 
-Virginia has limited bad faith law compared to many states. Virginia courts have held that insurance regulations, including the unfair claim settlement practices provision (§ 38.2-510), do not create private causes of action. A policyholder cannot sue their insurer for regulatory bad faith under Virginia's insurance code — enforcement is the SCC's role. This limitation on bad faith claims, combined with the contributory negligence doctrine's ability to bar third-party claims entirely, makes Virginia a comparatively defense-friendly state. Insurers defending at-fault claims in Virginia know that establishing any plaintiff contributory negligence eliminates the entire claim — creating a strong incentive for aggressive investigation of plaintiff conduct in every significant accident.
+Virginia has limited bad faith law compared to many states. Virginia courts have held that insurance regulations, including the unfair claim settlement practices provision ([§ 38.2-510](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-510/)), do not create private causes of action. A policyholder cannot sue their insurer for regulatory bad faith under Virginia's insurance code — enforcement is the SCC's role. This limitation on bad faith claims, combined with the contributory negligence doctrine's ability to bar third-party claims entirely, makes Virginia a comparatively defense-friendly state. Insurers defending at-fault claims in Virginia know that establishing any plaintiff contributory negligence eliminates the entire claim — creating a strong incentive for aggressive investigation of plaintiff conduct in every significant accident.
 
 Does Virginia's contributory negligence rule affect homeowners liability claims the same way as auto claims?
 
@@ -83,3 +83,9 @@ This is a sensitive area where insurance advice intersects with legal advice, an
 Virginia's pure contributory negligence doctrine is the legal backdrop against which every liability insurance purchase decision in the Commonwealth should be made. Producers who internalize this doctrine — and explain its implications to clients — provide advisory value that goes beyond policy placement into genuinely useful risk management guidance.
 
 Use this breakdown of Virginia's contributory negligence doctrine to sharpen the coverage conversations you have with liability clients. Negligence and liability are tested on the Virginia property and casualty exam: JustInsurance's Virginia exam prep covers the life, health, and combined life & health lines, and we do not offer a property and casualty prep course. If you already hold your Virginia P&C license, [Virginia continuing education](/virginia/continuing-education) keeps your credential current.
+
+**Sources cited:**
+
+- [Va. Code § 8.01-34 — When contribution among wrongdoers enforced (Code of Virginia)](https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-34/)
+- [Va. Code § 8.01-58 — Contributory negligence no bar; common carrier safety appliance acts (Code of Virginia)](https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-58/)
+- [Va. Code § 38.2-510 — Unfair claim settlement practices (Code of Virginia)](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-510/)

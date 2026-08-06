@@ -12,7 +12,7 @@ image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
 imageAlt: "Ethics CE in Virginia: How to Satisfy the 3-Hour Requirement and What Counts"
 ---
 
-Every Virginia resident insurance producer must complete at least 3 credit hours of ethics as part of their biennial CE obligation — whether the total requirement is 16 or 24 hours. Ethics hours are not a separate track; they count within your total. A 16-hour producer needs 3 ethics hours and 13 hours of other approved content. A 24-hour dual licensee needs 3 ethics hours and 21 hours of other content. The challenge is not the quantity — 3 hours is a short course. The challenge is knowing what counts and what does not, because Virginia has a specific rule that excludes certain course types from satisfying the ethics requirement even when they are otherwise valid CE courses.
+Every Virginia resident insurance producer must complete at least [3 credit hours of ethics](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf) as part of their biennial CE obligation — whether the total requirement is [16 or 24 hours](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/). Ethics hours are not a separate track; they count within your total. A 16-hour producer needs 3 ethics hours and 13 hours of other approved content. A 24-hour dual licensee needs 3 ethics hours and 21 hours of other content. The challenge is not the quantity — 3 hours is a short course. The challenge is knowing what counts and what does not, because Virginia has a specific rule that excludes certain course types from satisfying the ethics requirement even when they are otherwise valid CE courses.
 
 ## The Core Rule: What Qualifies as Ethics CE
 
@@ -24,7 +24,7 @@ Virginia insurance law and regulations: This is Virginia's distinctive provision
 
 What does NOT count toward the 3-hour ethics minimum:
 
-Courses categorized as Other General Insurance (OGI) credits cannot be applied to the ethics requirement. OGI is a broad category covering general insurance content that does not fall into a specific line of authority category. Even if an OGI course contains ethical principles or professional conduct discussion, if it is categorized as OGI rather than Ethics or Laws/Regulations, it cannot satisfy the ethics minimum.
+Courses categorized as [Other General Insurance (OGI) credits cannot be applied to the ethics requirement](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf). OGI is a broad category covering general insurance content that does not fall into a specific line of authority category. Even if an OGI course contains ethical principles or professional conduct discussion, if it is categorized as OGI rather than Ethics or Laws/Regulations, it cannot satisfy the ethics minimum.
 
 This is the most common compliance mistake in Virginia CE planning: a producer who takes an OGI course covering business ethics, thinking it satisfies the ethics requirement, finds at renewal that the hours counted toward the total but not toward the 3-hour ethics minimum. The result is a CE deficiency that prevents renewal.
 
@@ -54,13 +54,13 @@ Dual licensees who hold both L/A/H and P&C license types and complete 24 CE hour
 
 ## Ethics for Public Adjusters
 
-Virginia public adjusters have a slightly different ethics CE rule. Public adjusters must complete 3 hours of ethics specifically — but their ethics courses may not include laws and regulations. Only courses categorized strictly as ethics (not laws and regulations) satisfy the ethics requirement for public adjusters. This is the reverse of the producer rule, which does allow laws and regulations to satisfy ethics. Producers and public adjusters should not assume their respective ethics rules are identical.
+Virginia public adjusters have a slightly different ethics CE rule. Public adjusters must complete 3 hours of ethics specifically — but [their ethics courses may not include laws and regulations](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf). Only courses categorized strictly as ethics (not laws and regulations) satisfy the ethics requirement for public adjusters. This is the reverse of the producer rule, which does allow laws and regulations to satisfy ethics. Producers and public adjusters should not assume their respective ethics rules are identical.
 
 ## Frequently Asked Questions
 
 Does Virginia require ethics CE every biennium, or only once?
 
-Virginia requires 3 ethics hours in every biennial renewal cycle — it is not a one-time requirement. Every time you renew your license, 3 of your required CE hours must be ethics-qualifying courses, and there is no exemption for experienced producers or for those who completed ethics CE in an earlier cycle. Virginia does allow excess CE credit hours to carry forward — but only to the very next renewal cycle, not indefinitely (Va. Code § 38.2-1867; the carry-forward does not apply to public adjusters, and excess credits are forfeited if you do not renew within the 90-day renewal window). Because the 3-hour ethics obligation recurs every cycle, plan to complete a fresh ethics-qualifying course — or a Virginia laws and regulations course, for producers — in each biennium unless you are applying carry-forward credits from the immediately preceding cycle.
+Virginia requires 3 ethics hours in every biennial renewal cycle — it is not a one-time requirement. Every time you renew your license, 3 of your required CE hours must be ethics-qualifying courses, and there is no exemption for experienced producers or for those who completed ethics CE in an earlier cycle. Virginia does allow excess CE credit hours to carry forward — but only to the very next renewal cycle, not indefinitely ([Va. Code § 38.2-1867](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/); the carry-forward does not apply to public adjusters, and excess credits are forfeited if you do not renew within the 90-day renewal window). Because the 3-hour ethics obligation recurs every cycle, plan to complete a fresh ethics-qualifying course — or a Virginia laws and regulations course, for producers — in each biennium unless you are applying carry-forward credits from the immediately preceding cycle.
 
 Can I take the same ethics course twice for credit in different biennia?
 
@@ -81,3 +81,8 @@ If you realize you are deficient in ethics hours — for example, you have compl
 Ethics CE is a small but non-negotiable component of Virginia's licensing system. Three hours per biennium — in a qualifying course, properly categorized, reported before your renewal — is all that is required. The most common mistake is assuming an OGI course satisfies the requirement when it does not. Verify the course category before completing it.
 
 Visit JustInsurance to enroll today and complete your Virginia ethics CE requirement with a state-approved course that is properly categorized to satisfy the 3-hour minimum.
+
+**Sources cited:**
+- [Continuing Education Requirements (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)
+- [Virginia Insurance CE Board Agent Handbook, Stock #1253-63 (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf)
+- [Code of Virginia § 38.2-1867 (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/)

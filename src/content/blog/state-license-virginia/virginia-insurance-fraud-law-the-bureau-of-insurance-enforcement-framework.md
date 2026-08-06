@@ -36,7 +36,7 @@ Federal insurance fraud statutes (18 U.S.C. §§ 1033-1034) additionally apply t
 
 Within Title 38.2, fraud-related obligations for producers and insurers appear across several chapters:
 
-Chapter 5, § 38.2-510 — Unfair Claim Settlement Practices: It is an unfair practice to misrepresent pertinent facts or policy provisions relating to claims. This provision creates regulatory liability (civil penalties, license action) for adjusters and producers who misrepresent claims information, even if the conduct does not rise to criminal fraud.
+Chapter 5, [§ 38.2-510](https://law.lis.virginia.gov/vacodefull/title38.2/chapter5/) — Unfair Claim Settlement Practices: It is an unfair practice to misrepresent pertinent facts or policy provisions relating to claims. This provision creates regulatory liability (civil penalties, license action) for adjusters and producers who misrepresent claims information, even if the conduct does not rise to criminal fraud.
 
 Chapter 2 — General Enforcement: The SCC has authority to investigate any person engaging in insurance business and to examine records, issue cease and desist orders, impose civil penalties, and refer matters for criminal prosecution. The Bureau's market conduct examination authority extends to reviewing claim files, policy records, and agent transaction records.
 
@@ -56,7 +56,7 @@ The Bureau of Insurance enforces compliance through:
 
 Market conduct examinations: The SCC has authority to examine the books, records, and accounts of any insurer or producer licensed in Virginia. Examinations can be triggered by consumer complaints, statistical anomalies, or as part of routine compliance review.
 
-License suspension and revocation (§ 38.2-1831): The Bureau can suspend, revoke, or refuse to renew a producer license for fraud, misrepresentation, misappropriation of premiums, twisting, rebating, and other violations of Title 38.2 or the criminal code. License action is separate from and in addition to any criminal prosecution.
+License suspension and revocation ([§ 38.2-1831](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1831/)): The Bureau can suspend, revoke, or refuse to renew a producer license for fraud, misrepresentation, misappropriation of premiums, twisting, rebating, and other violations of Title 38.2 or the criminal code. License action is separate from and in addition to any criminal prosecution.
 
 Civil penalties: The SCC can assess civil money penalties for violations of Title 38.2, including fraud-related conduct.
 
@@ -68,7 +68,7 @@ The Bureau's enforcement guidance highlights a common area of producer confusion
 
 Referral fees to unlicensed persons: A licensed producer may pay a one-time nominal fee to an unlicensed person for referrals. The Bureau's position is that a "nominal fee" cannot exceed $25 per referral. The referral payment cannot be contingent on whether the referred person actually purchases insurance — contingent fees are rebating.
 
-Gifts and inducements: Offering any valuable consideration as an inducement to purchase insurance is prohibited rebating under § 38.2-509. Gifts, gift cards, or other items provided to clients who purchase a policy constitute rebating. The Bureau advises that if promotional items are given, they must be available to anyone who enters the agency regardless of whether they buy a policy.
+Gifts and inducements: Offering any valuable consideration as an inducement to purchase insurance is prohibited rebating under [§ 38.2-509](https://law.lis.virginia.gov/vacodefull/title38.2/chapter5/). Gifts, gift cards, or other items provided to clients who purchase a policy constitute rebating. The Bureau advises that if promotional items are given, they must be available to anyone who enters the agency regardless of whether they buy a policy.
 
 ## Producer Record Retention as a Fraud Prevention Tool
 
@@ -105,3 +105,8 @@ Virginia does not have a separate standalone insurance fraud bureau equivalent t
 Virginia's insurance fraud framework is distributed across criminal statutes, the Title 38.2 regulatory system, and the Bureau's enforcement authority — producers who understand all three layers understand both what is prohibited and what the consequences of violations are.
 
 Visit JustInsurance to enroll today and study Virginia's insurance law enforcement framework with a course built to the current Prometric Virginia content outline.
+
+**Sources cited:**
+
+- [Va. Code § 38.2-1831 — Grounds for license suspension, revocation, or refusal (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1831/)
+- [Va. Code Title 38.2, Chapter 5 — Unfair Trade Practices (§§ 38.2-509 rebates, 38.2-510 unfair claim settlement) (Virginia Law)](https://law.lis.virginia.gov/vacodefull/title38.2/chapter5/)

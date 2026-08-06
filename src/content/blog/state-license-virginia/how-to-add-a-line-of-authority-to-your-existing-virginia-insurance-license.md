@@ -32,9 +32,9 @@ Each qualification is added separately to your license. You can hold one, severa
 
 ## Step 1: Pass the Prometric Exam for the New Line
 
-You must pass the Prometric licensing exam for the new line of authority before applying to add it. There is no shortcut or waiver for this requirement (unless an exemption applies — see below).
+You must pass the [Prometric licensing exam](https://www.prometric.com/virginia/insurance) for the new line of authority before applying to add it. There is no shortcut or waiver for this requirement (unless an exemption applies — see below).
 
-Register with Prometric at prometric.com/virginia/insurance or call (866) 891-6396. The exam fee is $35 per exam. Your passing score is valid for 183 days — and Virginia requires the new line of authority to be *issued* within that window, not merely applied for (Va. Code § 38.2-1817). If the license is not issued within 183 calendar days of the exam, the grade is void and the exam and application fees are forfeited. Submit at least a month early to leave room for the Bureau's roughly 15-business-day processing.
+Register with Prometric at prometric.com/virginia/insurance or call (866) 891-6396. The exam fee is [$35 per exam](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf). Your passing score is valid for [183 days](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf) — and Virginia requires the new line of authority to be *issued* within that window, not merely applied for (Va. Code § 38.2-1817). If the license is not issued within 183 calendar days of the exam, the grade is void and the exam and application fees are forfeited. Submit at least a month early to leave room for the Bureau's roughly 15-business-day processing.
 
 Exemption — Variable Contracts: The Variable Contracts qualification does not require a Prometric exam. Per the Bureau of Insurance, you must instead already hold an active Life & Annuities line of authority and have passed the FINRA Series 6 or Series 7 exam; the application requires your FINRA CRD number so the Bureau can verify that exam. Those are the Bureau's only two conditions for this qualification. Separately, actually selling variable products requires registration as a securities agent of a broker-dealer with the SCC's Division of Securities and Retail Franchising — Virginia's securities regulator. That securities registration is a distinct process from the insurance qualification, and it is where any Series 63 or Series 66 obligation would come from, not from the Bureau of Insurance.
 
@@ -74,11 +74,11 @@ Do not confuse this with the CE meaning of "license type," which is a separate c
 
 The practical question for most add-line applicants is simply the calendar: were your prints submitted within the last 12 months? If you are not sure of your submission date, contact the Bureau of Insurance at AgentLicensing@scc.virginia.gov before scheduling a Fieldprint appointment.
 
-Fieldprint Code (if required): FPVABOIProducer at fieldprintvirginia.com. Cost: $34.95.
+Fieldprint Code (if required): FPVABOIProducer at fieldprintvirginia.com. Cost: [$34.95](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/).
 
 ## Step 3: Apply Through NIPR or Sircon
 
-Submit your add-line application electronically through NIPR (nipr.com) or Sircon (sircon.com/virginia). The fee is $15 per new line of authority being added, plus the $5.60 NIPR/Sircon processing fee per session.
+Submit your add-line application electronically through NIPR (nipr.com) or Sircon (sircon.com/virginia). The fee is [$15 per new line of authority](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/) being added, plus the $5.60 NIPR/Sircon processing fee per session.
 
 Your criminal background is verified through fingerprinting, not a record report you obtain and upload. When Virginia moved to fingerprint-based checks (effective January 1, 2020) it retired the old requirement to mail in a Criminal History Record Report from the State Police: your prints are captured by Fieldprint and transmitted to the Virginia State Police and the FBI, and the Bureau pulls the results directly. So if your prints are already on file from within the last 12 months and you are staying on the Producer license (see Step 2), you attach nothing here. If any background information has changed since your last application — a new charge or conviction — attach the disclosure documents Virginia requires for it: a written explanation of the circumstances plus the relevant court records.
 
@@ -88,7 +88,7 @@ Applications are processed in date order. Allow approximately 15 business days.
 
 Adding a line of authority in Virginia has a direct impact on your [continuing education](/virginia/continuing-education) requirements going forward. This is not just an administrative note — it changes your CE obligation for every renewal cycle after the new line is added.
 
-Single license type: 16 CE hours biennial (3 ethics hours required) Two or more license types: 24 CE hours biennial (3 ethics hours required, minimum 8 hours per line type held)
+Single license type: [16 CE hours biennial](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/) (3 ethics hours required) Two or more license types: [24 CE hours biennial](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/) (3 ethics hours required, minimum 8 hours per line type held)
 
 Life, Annuities, and Health are treated as a single license type for CE purposes. If you hold Life & Annuities and add Health (or vice versa), you remain at 16 hours biennial.
 
@@ -112,7 +112,7 @@ The Personal Lines line of authority in Virginia allows you to sell personal (no
 
 Does adding a line of authority restart my license's renewal cycle?
 
-No. Adding a line of authority does not reset your existing license's renewal date. All lines on your Virginia producer license renew together on your individual birth-month deadline — the last day of your birth month, in the odd or even year matching your birth year. Your CE compliance must cover all lines you hold by that renewal date. The new line you add will be included in your next renewal cycle on that same birth-month date. You may need to complete CE for the new line in a partial biennium if you add it close to the renewal date, so add lines early in the renewal cycle if possible.
+No. Adding a line of authority does not reset your existing license's renewal date. All lines on your Virginia producer license renew together on your individual birth-month deadline — [the last day of your birth month, in the odd or even year matching your birth year](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/). Your CE compliance must cover all lines you hold by that renewal date. The new line you add will be included in your next renewal cycle on that same birth-month date. You may need to complete CE for the new line in a partial biennium if you add it close to the renewal date, so add lines early in the renewal cycle if possible.
 
 Can I hold a Virginia insurance license without any active carrier appointments?
 
@@ -121,3 +121,12 @@ Yes. Your Virginia producer license is independent of your carrier appointments.
 Adding a line of authority in Virginia is a straightforward extension of the initial licensing process — same exam, same Fieldprint requirements (when applicable), same application portal. The one additional consideration is your CE obligation, which increases when you cross from one license type to two. Plan for that before you apply, and the rest is a matter of scheduling and paperwork.
 
 Visit JustInsurance to prepare for the Prometric exam when the line you are adding is life, health, or combined life & health — that is the exam prep we build to the current Prometric Virginia content outline. We do not offer a property and casualty or personal lines prep course, so for those add-ons choose a provider that specifically covers that outline. (Virginia does not approve prelicensing or exam-prep courses for any of these lines, so judge any course on its fit to the outline rather than a "state-approved" label.) Once the new line is on your license, [Virginia continuing education](/virginia/continuing-education) keeps every line you hold current.
+
+**Sources cited:**
+
+- [Virginia Insurance Exam Registration (Prometric)](https://www.prometric.com/virginia/insurance)
+- [Virginia Bureau of Insurance Candidate Information Bulletin (SCC-hosted, Prometric)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)
+- [Applying for an Individual VA Insurance License (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Insurance License Application Fees (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+- [Continuing Education Requirements (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)
+- [Code of Virginia § 38.2-1825.1 — License renewal, duration, and reinstatement (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)

@@ -16,7 +16,7 @@ Virginia's license renewal system changed fundamentally on January 1, 2021. Befo
 
 ## How Your Renewal Date Is Determined
 
-Under Va. Code § 38.2-1825.1, your license expires at the end of your birth month, and the year of expiration follows this rule:
+Under [Va. Code § 38.2-1825.1](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/), your license expires at the end of your birth month, and the year of expiration follows this rule:
 
 Born in an even-numbered year → license expires at the end of your birth month in even-numbered years (2024, 2026, 2028, and so on)
 
@@ -30,7 +30,7 @@ Your specific expiration date is shown on your license and in your NIPR/Sircon a
 
 You can submit your renewal application up to 90 days before your license expiration date. You cannot renew earlier than that window opens. The renewal is submitted through NIPR or Sircon — the same platforms used for initial licensing.
 
-Renewal fee: $10 per line of authority (non-refundable), plus $5.60 NIPR/Sircon processing fee.
+Renewal fee: [$10 per line of authority](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/) (non-refundable), plus $5.60 NIPR/Sircon processing fee.
 
 ## What Must Be Done Before You Can Renew
 
@@ -48,7 +48,7 @@ Important sequencing: CE completion → renewal application submission. Both ste
 
 Virginia has no grace period for CE or for the license renewal itself. The moment your expiration date passes without a completed renewal:
 
-Your license is automatically terminated
+Your license is [automatically terminated](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1869/)
 
 You cannot legally sell, solicit, or negotiate insurance in Virginia
 
@@ -82,7 +82,7 @@ Your renewal date appears on your license document and in your licensing account
 
 Can I start taking CE courses at any point in my two-year license term?
 
-Yes. CE courses can be taken at any point within your two-year license term — you do not need to wait until the final months before renewal. Taking courses throughout the biennium rather than compressing them into the final weeks before renewal is strongly recommended. It eliminates the risk of course providers not reporting completions before your renewal deadline and gives you time to identify and address any transcript discrepancies on Sircon. Hours you complete beyond your requirement are not wasted, either: under Va. Code § 38.2-1867(D), excess credit hours accumulated during a renewal cycle carry forward to the next renewal cycle — one cycle only, with no multi-cycle banking, and only if you actually renew during your 90-day renewal window. The Virginia Insurance Continuing Education Board's agent handbook states both limits and notes that carry-forward does not apply to public adjusters. One caution: the Bureau's CE summary web page still shows an older line saying excess credits are not carried forward, which conflicts with the statute and the CE Board's own handbook. Treat your transcript at VirginiaInsuranceCE.com as the record of what actually posted.
+Yes. CE courses can be taken at any point within your two-year license term — you do not need to wait until the final months before renewal. Taking courses throughout the biennium rather than compressing them into the final weeks before renewal is strongly recommended. It eliminates the risk of course providers not reporting completions before your renewal deadline and gives you time to identify and address any transcript discrepancies on Sircon. Hours you complete beyond your requirement are not wasted, either: under [Va. Code § 38.2-1867(D)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/), excess credit hours accumulated during a renewal cycle carry forward to the next renewal cycle — one cycle only, with no multi-cycle banking, and only if you actually renew during your 90-day renewal window. The Virginia Insurance Continuing Education Board's agent handbook states both limits and notes that carry-forward does not apply to public adjusters. One caution: the Bureau's CE summary web page still shows an older line saying excess credits are not carried forward, which conflicts with the statute and the CE Board's own handbook. Treat your transcript at VirginiaInsuranceCE.com as the record of what actually posted.
 
 Does my renewal deadline change if I add a new line of authority partway through my biennium?
 
@@ -99,3 +99,9 @@ Under the system that took effect January 1, 2021, agents born in even years ren
 Virginia's birth-month renewal system requires every producer to know their specific deadline and plan their CE around it. Treat your renewal date as a calendar anchor — 90 days before it, open the renewal window; 30 days before it, confirm CE is reported; on it, all obligations must be satisfied.
 
 Visit JustInsurance to enroll today and fulfill your Virginia CE requirement with state-approved courses that report directly to your Sircon transcript.
+
+**Sources cited:**
+- [Code of Virginia § 38.2-1825.1 (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)
+- [Code of Virginia § 38.2-1867 (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/)
+- [Code of Virginia § 38.2-1869 (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1869/)
+- [License Renewals (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)

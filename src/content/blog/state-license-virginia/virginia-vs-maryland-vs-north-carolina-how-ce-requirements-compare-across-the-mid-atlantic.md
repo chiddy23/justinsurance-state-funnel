@@ -16,7 +16,7 @@ For producers holding multi-state licenses across the Mid-Atlantic — Virginia,
 
 ## CE Hours Required
 
-Virginia's single-license CE requirement (16 hours) is 8 hours lower than both Maryland and North Carolina. For a Virginia single-license (L/A/H or P&C) producer, this represents one fewer online course per year compared to MD and NC. A Virginia dual-licensee (L/A/H + P&C) is at parity with MD and NC at 24 hours.
+Virginia's single-license CE requirement ([16 hours](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)) is 8 hours lower than both Maryland and North Carolina. For a Virginia single-license (L/A/H or P&C) producer, this represents one fewer online course per year compared to MD and NC. A Virginia dual-licensee (L/A/H + P&C) is at parity with MD and NC at 24 hours.
 
 For producers who are Virginia residents holding non-resident licenses in Maryland and North Carolina: non-resident CE compliance in both states is typically satisfied by Virginia CE compliance. Virginia's 16-hour single-license requirement may not technically satisfy Maryland's 24-hour requirement on a credit-for-credit basis — confirm with each state whether the lower Virginia requirement is accepted under reciprocity or whether additional hours are needed.
 
@@ -32,17 +32,17 @@ For a Virginia resident with NC and MD non-resident licenses, your Virginia rene
 
 ## CE Administration
 
-Virginia's CE program is overseen by the Virginia Insurance Continuing Education Board — an industry board created by the General Assembly — which has contracted with Pearson VUE to administer it. The SCC states directly that "the Bureau of Insurance is not involved in the day-to-day operation of the CE program," so course-approval and credit-posting questions go to Pearson VUE (VirginiaInsuranceCE@pearson.com), not to the Bureau. Completions are tracked and viewable through Vertafore Sircon. North Carolina runs its own separate program, administered with Prometric and tracked through Sircon — completing a Virginia-approved CE course does not automatically satisfy North Carolina CE requirements. Course approvals are state-specific. A Virginia-approved course is not necessarily NC-approved and vice versa.
+Virginia's CE program is overseen by the Virginia Insurance Continuing Education Board — an industry board created by the General Assembly — which has contracted with [Pearson VUE](https://home.pearsonvue.com/va/insurance/ce) to administer it. The SCC states directly that "[the Bureau of Insurance is not involved in the day-to-day operation of the CE program](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)," so course-approval and credit-posting questions go to Pearson VUE (VirginiaInsuranceCE@pearson.com), not to the Bureau. Completions are tracked and viewable through Vertafore Sircon. North Carolina runs its own separate program, administered with Prometric and tracked through Sircon — completing a Virginia-approved CE course does not automatically satisfy North Carolina CE requirements. Course approvals are state-specific. A Virginia-approved course is not necessarily NC-approved and vice versa.
 
 Maryland administers its own CE program through the Maryland Insurance Administration.
 
 ## Company-Sponsored Course Caps
 
-Virginia's 75% cap is a defined rule. Maryland and North Carolina have their own limitations — confirm current rules with each state's CE administrator before planning a heavily company-sponsored CE schedule for multi-state compliance.
+Virginia's [75% cap](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf) is a defined rule. Maryland and North Carolina have their own limitations — confirm current rules with each state's CE administrator before planning a heavily company-sponsored CE schedule for multi-state compliance.
 
 ## Carryover Credits
 
-Virginia does not allow carryover — excess CE credits completed in one biennium do not count toward the next cycle, so producers must complete the full requirement fresh each renewal period. MD and NC carryover rules differ — confirm each state's current policy with its CE administrator before assuming credits will carry over.
+Virginia allows limited carryover — under [Code of Virginia § 38.2-1867(D)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/), excess CE credits may be carried forward to the next biennium only (not beyond), and only if you satisfied all of the current cycle's requirements. Public Adjusters cannot carry over. MD and NC carryover rules differ — confirm each state's current policy with its CE administrator before assuming credits will carry over.
 
 ## Specialty Training Requirements
 
@@ -86,7 +86,7 @@ North Carolina producer licenses for the major lines do not renew at all. NCDOI'
 
 Does Virginia allow CE credits to carry over, and does that help me maintain compliance across multiple states?
 
-No — Virginia does not allow carryover. Excess CE hours completed in one biennium do not roll forward to the next cycle; every Virginia producer must complete the full 16 or 24 hours fresh each renewal period, regardless of how many extra hours they banked previously. For multi-state compliance purposes, this means there is no carryover cushion to rely on in Virginia, so the practical strategy is to complete your full requirement comfortably before your renewal deadline each cycle rather than assuming any excess hours will help you later. Since non-resident CE in Maryland and North Carolina is satisfied by Virginia compliance rather than by transferring individual credits, staying current on your Virginia requirement each biennium is what keeps your non-resident authority in both states in good standing.
+Yes — within limits. Under Code of Virginia § 38.2-1867(D), Virginia lets excess CE hours carry forward to the next biennium only, and only if you satisfied the current cycle's full requirement; banked hours cannot carry two cycles forward, and Public Adjusters cannot carry over at all. For multi-state compliance purposes, the practical takeaway is that Virginia's carryover cushion is real but shallow — it helps you in the immediately following cycle if you finish this cycle's full requirement first, so the safest approach is still to complete your full requirement comfortably before each renewal deadline rather than banking on a large carryover balance. Since non-resident CE in Maryland and North Carolina is satisfied by Virginia compliance rather than by transferring individual credits, staying current on your Virginia requirement each biennium is what keeps your non-resident authority in both states in good standing.
 
 Are there any CE topic areas that Virginia uniquely tests or requires compared to Maryland and North Carolina?
 
@@ -95,3 +95,9 @@ Virginia's distinctive CE topics include the Partnership-specific long-term care
 Virginia, Maryland, and North Carolina each work well within the NAIC non-resident CE reciprocity framework — for Virginia residents, maintaining Virginia CE compliance simplifies the entire multi-state obligation. The key is knowing what each state actually asks of you on its own schedule: a birth-month renewal filing in Virginia and Maryland, a birth-month CE compliance date in North Carolina against a license that never expires on its own, and specialty training for the products you actually sell.
 
 Visit JustInsurance to enroll today and complete your Virginia CE requirement with state-approved courses that satisfy the home-state obligation underpinning your entire multi-state compliance strategy.
+
+**Sources cited:**
+- [Continuing Education Requirements (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)
+- [Virginia Insurance Continuing Education (Pearson VUE)](https://home.pearsonvue.com/va/insurance/ce)
+- [Virginia Insurance CE Board Agent Handbook (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf)
+- [Code of Virginia § 38.2-1867 (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1867/)

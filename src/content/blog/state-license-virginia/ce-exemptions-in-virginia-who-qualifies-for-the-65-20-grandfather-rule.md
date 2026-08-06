@@ -42,9 +42,9 @@ Both tests required continuous licensure with no gaps. That continuity requireme
 
 Producers who hold the grandfathered exemption are exempt from completing CE hours as a condition of license renewal. They must still:
 
-Submit a renewal application through NIPR or Sircon by their renewal deadline (end of birth month in their odd/even year)
+Submit a renewal application through NIPR or Sircon by their renewal deadline (end of [birth month in their odd/even year](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/))
 
-Pay the $10 per-line renewal fee
+Pay the [$10 per-line renewal fee](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)
 
 The CE exemption eliminates the 16 or 24-hour CE obligation. It does not eliminate the renewal fee or the renewal application requirement.
 
@@ -52,7 +52,7 @@ The CE exemption eliminates the 16 or 24-hour CE obligation. It does not elimina
 
 The Virginia General Assembly repealed the 65/20 CE exemption effective January 1, 2019, with the exemptions already granted preserved on a grandfathered basis. There is no replacement, no successor exemption, and no "evaluated at each renewal" version of the rule.
 
-Practically: if you reach age 65 after December 31, 2018 — no matter how many decades you have been continuously licensed — you are not exempt. You complete the same 16 or 24 credit hours every biennium as every other Virginia resident agent, including the 3 hours of ethics. Under Va. Code § 38.2-1866, a producer holding a Life & Annuities license, a Health license, or both completes 16 hours; a producer holding licenses in two or more categories completes 24 hours with at least 8 hours applicable to each category held.
+Practically: if you reach age 65 after December 31, 2018 — no matter how many decades you have been continuously licensed — you are not exempt. You complete the same 16 or 24 credit hours every biennium as every other Virginia resident agent, including the 3 hours of ethics. Under [Va. Code § 38.2-1866](https://law.lis.virginia.gov/vacodefull/title38.2/chapter18/article7/), a producer holding a Life & Annuities license, a Health license, or both completes 16 hours; a producer holding licenses in two or more categories completes 24 hours with at least 8 hours applicable to each category held.
 
 Get this wrong and there is no soft landing. Virginia has no CE grace period — the license expires on the renewal date. A 65-year-old producer who assumes the old exemption still applies and skips his hours does not get a warning letter; his renewal is refused and he cannot legally transact insurance until he completes the CE and reinstates.
 
@@ -80,7 +80,7 @@ Virginia producers who hold only limited lines licenses (credit life/health, tra
 
 If I received a permanent CE exemption before 2019 and my license recently lapsed, can I reinstate and reclaim the exemption?
 
-No. The grandfathered permanent exemption continues only while you renew, and it is no longer valid if you fail to renew or reinstate within 12 months of the renewal date. Once that window closes the exemption is gone for good — and because the 65/20 rule was repealed effective January 1, 2019, there is no path to earning a new one. You would be reinstating into the full 16- or 24-hour CE obligation. Even inside the 12-month reinstatement window, a lapse puts the exemption at risk; confirm your status with the Bureau of Insurance at AgentLicensing@scc.virginia.gov before you file the reinstatement.
+No. The grandfathered permanent exemption continues only while you renew, and it is no longer valid if you fail to renew or [reinstate within 12 months of the renewal date](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/). Once that window closes the exemption is gone for good — and because the 65/20 rule was repealed effective January 1, 2019, there is no path to earning a new one. You would be reinstating into the full 16- or 24-hour CE obligation. Even inside the 12-month reinstatement window, a lapse puts the exemption at risk; confirm your status with the Bureau of Insurance at AgentLicensing@scc.virginia.gov before you file the reinstatement.
 
 I turn 65 next year and I have been licensed in Virginia for 30 years. Do I qualify for the exemption?
 
@@ -96,8 +96,14 @@ If you already hold the grandfathered exemption, your renewal is a renewal appli
 
 Can a producer who qualifies for the CE exemption choose to take CE courses anyway?
 
-Yes. The exemption is a permission, not a prohibition. An exempt producer who wants to stay current with industry changes, complete specialty training, or maintain professional development can take CE courses and have them credited to their record, even though the credits are not required for renewal. Virginia does let a non-exempt agent carry excess CE credit hours forward to the immediately following biennium (Va. Code § 38.2-1867(D)), but that carryover only helps a producer who actually owes CE. A grandfathered-exempt producer owes none, so voluntary courses don't offset any future requirement — the educational value and regulatory currency the courses provide are independent of the exemption status.
+Yes. The exemption is a permission, not a prohibition. An exempt producer who wants to stay current with industry changes, complete specialty training, or maintain professional development can take CE courses and have them credited to their record, even though the credits are not required for renewal. Virginia does let a non-exempt agent carry excess CE credit hours forward to the immediately following biennium ([Va. Code § 38.2-1867(D)](https://law.lis.virginia.gov/vacodefull/title38.2/chapter18/article7/)), but that carryover only helps a producer who actually owes CE. A grandfathered-exempt producer owes none, so voluntary courses don't offset any future requirement — the educational value and regulatory currency the courses provide are independent of the exemption status.
 
 The 65/20 CE exemption is a closed class. For the shrinking group of Virginia producers who were granted it by December 31, 2018, it is a real benefit that requires careful maintenance — timely renewal, unbroken licensure, and ongoing specialty training compliance for applicable products, since a single lapse permanently voids an exemption that may represent decades of earned tenure. For everyone else, including producers reaching 65 with 20 years of service today, the honest answer is that the exemption is gone and the CE is owed.
 
 If you are in that second group, get the hours done early — Virginia has no CE grace period, and a renewal date is a hard stop. JustInsurance offers Virginia state-approved continuing education, including the 3-hour ethics requirement, under Virginia CE provider approval #158885. Visit JustInsurance to enroll today. For LTC Partnership, annuity best interest, and NFIP flood training, confirm the course carries the specific Virginia approval for that requirement before you enroll — with us or with any provider.
+
+**Sources cited:**
+
+- [Code of Virginia § 38.2-1866 et seq. — Article 7, Continuing Education (Virginia General Assembly)](https://law.lis.virginia.gov/vacodefull/title38.2/chapter18/article7/)
+- [Code of Virginia § 38.2-1825.1 — Renewal, reinstatement, and biennial birth-month expiration (Virginia General Assembly)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)
+- [Insurance License Renewals and Fees (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)

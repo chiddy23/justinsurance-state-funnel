@@ -48,7 +48,7 @@ General life and health insurance questions: AskAQuestion@scc.virginia.gov (this
 
 ## The Structure of Title 38.2
 
-Title 38.2 of the Code of Virginia is the primary insurance statute. It is organized into chapters, each governing a distinct aspect of the insurance business:
+[Title 38.2 of the Code of Virginia is the primary insurance statute](https://law.lis.virginia.gov/vacodefull/title38.2/). It is organized into chapters, each governing a distinct aspect of the insurance business:
 
 The chapters most heavily tested in the Virginia licensing exam are Chapters 2 (enforcement), 5 (unfair trade practices), 18 (producer licensing), 22 (auto insurance), and the relevant policy-specific chapters for the exam line being tested.
 
@@ -60,21 +60,21 @@ Chapter 2 (§§ 38.2-200 et seq.) establishes the SCC's enforcement authority. K
 
 § 38.2-219 — Cease and Desist Orders: Whenever the Commission has reason to believe any person has violated Title 38.2, it may institute a proceeding and issue a cease and desist order after appropriate notice and hearing. Violations of consent orders or cease and desist orders carry additional penalties.
 
-§ 38.2-223 — Rulemaking: The SCC "may issue any rules or regulations necessary or appropriate to the administration and enforcement of this title." This is the statutory source of the SCC's regulatory authority.
+§ 38.2-223 — Rulemaking: The SCC ["may issue any rules or regulations necessary or appropriate to the administration and enforcement of this title."](https://law.lis.virginia.gov/vacode/title38.2/chapter2/section38.2-223/) This is the statutory source of the SCC's regulatory authority.
 
 ## Chapter 18: Insurance Agents
 
 Chapter 18 governs producer licensing and conduct. Key rules for producers:
 
-§ 38.2-1822: Producer license required to sell, solicit, or negotiate insurance in Virginia
+§ 38.2-1822: [Producer license required to sell, solicit, or negotiate insurance in Virginia](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1822/)
 
-§ 38.2-1825.1: License expiration by birth month/odd-even year; renewal procedures
+§ 38.2-1825.1: [License expiration by birth month/odd-even year; renewal procedures](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)
 
-§ 38.2-1826: Reporting obligations — producers must report address changes within 30 calendar days; must report felony convictions and administrative actions in other jurisdictions
+§ 38.2-1826: Reporting obligations — [producers must report address changes within 30 calendar days; must report felony convictions and administrative actions in other jurisdictions](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1826/)
 
-§ 38.2-1809: Record retention — insurance producers must maintain sufficient records for 3 calendar years
+§ 38.2-1809: Record retention — [insurance producers must maintain sufficient records for 3 calendar years](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1809/)
 
-§ 38.2-1831: Grounds for license suspension, revocation, or refusal to renew
+§ 38.2-1831: [Grounds for license suspension, revocation, or refusal to renew](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1831/)
 
 ## Frequently Asked Questions
 
@@ -101,3 +101,13 @@ Under Va. Code § 38.2-1809, insurance producers must maintain sufficient record
 Virginia's insurance regulatory framework — rooted in the SCC's constitutional authority and codified in Title 38.2 — is the foundation that every producer compliance obligation rests on. Understanding the structure of the Bureau, the statute, and the key chapter references gives producers both exam-day advantage and career-long regulatory fluency.
 
 Visit JustInsurance to enroll today and master the Virginia insurance code with a course built to the current Prometric Virginia content outline that covers the Title 38.2 essentials for the exam.
+
+**Sources cited:**
+
+- [Title 38.2 — Insurance, Code of Virginia (Virginia Law)](https://law.lis.virginia.gov/vacodefull/title38.2/)
+- [Code of Virginia § 38.2-223 — SCC rulemaking authority (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter2/section38.2-223/)
+- [Code of Virginia § 38.2-1809 — producer record retention (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1809/)
+- [Code of Virginia § 38.2-1822 — producer license required (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1822/)
+- [Code of Virginia § 38.2-1825.1 — license expiration and renewal (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)
+- [Code of Virginia § 38.2-1826 — producer reporting obligations (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1826/)
+- [Code of Virginia § 38.2-1831 — grounds for license action (Virginia Law)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1831/)

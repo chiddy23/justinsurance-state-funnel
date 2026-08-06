@@ -12,7 +12,7 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: "Unfair Trade Practices Under Virginia Insurance Law: What Producers Are Prohibited from Doing"
 ---
 
-Title 38.2, Chapter 5 of the Code of Virginia (§§ 38.2-500 through 38.2-518) defines and prohibits unfair methods of competition and unfair or deceptive acts and practices in the business of insurance. This chapter exists to implement the intent of Congress under the McCarran-Ferguson Act by ensuring that the Commonwealth's insurance market operates with integrity. For producers, Chapter 5 establishes the boundaries of permissible conduct in soliciting, selling, and servicing insurance. Violations can result in license suspension or revocation, civil penalties, and restitution orders — and in the most serious cases, criminal referral. This post covers every material prohibition that applies directly to Virginia insurance producers.
+[Title 38.2, Chapter 5 of the Code of Virginia](https://law.lis.virginia.gov/vacodefull/title38.2/chapter5/) (§§ 38.2-500 through 38.2-518) defines and prohibits unfair methods of competition and unfair or deceptive acts and practices in the business of insurance. This chapter exists to implement the intent of Congress under the McCarran-Ferguson Act by ensuring that the Commonwealth's insurance market operates with integrity. For producers, Chapter 5 establishes the boundaries of permissible conduct in soliciting, selling, and servicing insurance. Violations can result in license suspension or revocation, civil penalties, and restitution orders — and in the most serious cases, criminal referral. This post covers every material prohibition that applies directly to Virginia insurance producers.
 
 ## Misrepresentation: § 38.2-502
 
@@ -34,7 +34,7 @@ What this means in practice: Telling a prospect that a policy "covers everything
 
 ## Twisting: § 38.2-502
 
-Twisting — inducing a policyholder to lapse, surrender, or replace existing insurance by misrepresenting the existing policy's terms — is prohibited under the same misrepresentation section, § 38.2-502. The key element is misrepresentation about the existing coverage. Replacing existing insurance is not inherently a violation; misrepresenting it to induce the replacement is. (Twisting is also an independent ground for license action under § 38.2-1831.)
+Twisting — inducing a policyholder to lapse, surrender, or replace existing insurance by misrepresenting the existing policy's terms — is prohibited under the same misrepresentation section, [§ 38.2-502](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-502/). The key element is misrepresentation about the existing coverage. Replacing existing insurance is not inherently a violation; misrepresenting it to induce the replacement is. (Twisting is also an independent ground for license action under [§ 38.2-1831](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1831/).)
 
 Virginia's replacement regulations (applicable to life insurance) require specific disclosure when a new policy replaces existing coverage — a Notice Regarding Replacement must be provided, the replacing insurer must notify the existing insurer, and the client must be given a comparison document.
 
@@ -86,7 +86,7 @@ Misrepresentation in insurance documents (§ 38.2-512): Making false or fraudule
 
 Unfair discrimination (§ 38.2-508): Discriminating between individuals of the same class and of essentially the same hazard in rates, terms, or conditions of policies. This prohibition addresses improper risk classification.
 
-Illegal inducements: Do not cite § 38.2-513 for this — that section has been repealed, and the section now occupying that number (§ 38.2-513.1) covers insurance sales by depository and other lending institutions, an unrelated subject. The operative inducement and rebate prohibition for producers is § 38.2-509, discussed above, with the related restriction on paying and sharing commissions at § 38.2-1812.
+Illegal inducements: Do not cite § 38.2-513 for this — that section has been repealed, and the section now occupying that number (§ 38.2-513.1) covers insurance sales by depository and other lending institutions, an unrelated subject. The operative inducement and rebate prohibition for producers is [§ 38.2-509](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-509/), discussed above, with the related restriction on paying and sharing commissions at § 38.2-1812.
 
 Commission sharing with unlicensed persons: No producer may directly or indirectly share commissions with anyone not also licensed for the same class of insurance involved in the transaction.
 
@@ -102,7 +102,7 @@ Referral payments to existing clients who are not licensed insurance producers r
 
 Does Virginia's unfair claim settlement practices statute create a private right of action for policyholders?
 
-No. Virginia courts have consistently held that violations of Virginia's insurance regulations — including the unfair claim settlement practices provisions of § 38.2-510 — do not create a private cause of action for policyholders. Enforcement of the unfair claim settlement practices prohibition is carried out exclusively by the SCC. A policyholder whose insurer has engaged in unfair claim settlement practices can file a complaint with the Bureau of Insurance and request investigation, but cannot directly sue the insurer under § 38.2-510 for that regulatory violation. Contract claims (breach of the insurance contract itself) and, in limited circumstances, bad faith claims may be available through separate legal theories — but these are distinct from the regulatory violation.
+No. Virginia courts have consistently held that violations of Virginia's insurance regulations — including the unfair claim settlement practices provisions of [§ 38.2-510](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-510/) — do not create a private cause of action for policyholders. Enforcement of the unfair claim settlement practices prohibition is carried out exclusively by the SCC. A policyholder whose insurer has engaged in unfair claim settlement practices can file a complaint with the Bureau of Insurance and request investigation, but cannot directly sue the insurer under § 38.2-510 for that regulatory violation. Contract claims (breach of the insurance contract itself) and, in limited circumstances, bad faith claims may be available through separate legal theories — but these are distinct from the regulatory violation.
 
 What are the penalties for a producer who violates Virginia's unfair trade practices chapter?
 
@@ -115,3 +115,11 @@ The Bureau of Insurance has interpreted the rebating prohibition with practical 
 Virginia's unfair trade practices chapter is not complex in its core prohibitions — do not misrepresent, do not rebate, handle claims fairly, and do not defame competitors or misrepresent their financial condition. The complexity is in application: knowing exactly where the line falls between permissible promotion and prohibited inducement, and between legitimate replacement and unlawful twisting.
 
 Visit JustInsurance to enroll today and study Virginia's unfair trade practices framework with a course built to the current Prometric Virginia content outline that covers Chapter 5 in the context of the licensing exam.
+
+**Sources cited:**
+
+- [§ 38.2-502, Misrepresentations and false advertising of insurance policies (Code of Virginia)](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-502/)
+- [§ 38.2-509, Rebates (Code of Virginia)](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-509/)
+- [§ 38.2-510, Unfair claim settlement practices (Code of Virginia)](https://law.lis.virginia.gov/vacode/title38.2/chapter5/section38.2-510/)
+- [§ 38.2-1831, Grounds for refusing to issue, suspending or revoking a license (Code of Virginia)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1831/)
+- [Title 38.2, Chapter 5 — Unfair Trade Practices (Code of Virginia)](https://law.lis.virginia.gov/vacodefull/title38.2/chapter5/)

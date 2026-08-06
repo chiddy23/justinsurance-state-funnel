@@ -28,7 +28,7 @@ In addition, you’ll want to familiarize yourself with the specific lines of in
 
 ## Consider optional pre-licensing education
 
-Virginia does not require prelicensing hours for standard lines — that mandate was repealed statewide, and only title insurance still carries a separate education requirement. Even so, once you’ve confirmed your eligibility, many candidates choose to voluntarily complete an optional [Virginia prelicensing course](/virginia/prelicensing) built as exam preparation. These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material if you choose to take a course, since it factors heavily into your exam performance.
+[Virginia does not require prelicensing hours for standard lines](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/) — that mandate was repealed statewide, and [only title insurance still carries a separate education requirement](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/). Even so, once you’ve confirmed your eligibility, many candidates choose to voluntarily complete an optional [Virginia prelicensing course](/virginia/prelicensing) built as exam preparation. These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material if you choose to take a course, since it factors heavily into your exam performance.
 
 Common lines of authority in Virginia include:
 
@@ -55,7 +55,7 @@ Once your license is issued, it’s wise to keep digital and hard copies of your
 
 ## Maintain your Virginia license
 
-Earning your license is a big win—but staying licensed requires ongoing attention. Virginia mandates [continuing education](/virginia/continuing-education) (CE) credits to ensure you remain up to date with industry regulations, ethical standards, and best practices. CE courses vary in length, price, and topic, so choose ones that truly benefit your career trajectory. You’ll need to complete these credits before each renewal period, which typically occurs every two years.
+Earning your license is a big win—but staying licensed requires ongoing attention. Virginia mandates [continuing education](/virginia/continuing-education) (CE) credits to ensure you remain up to date with industry regulations, ethical standards, and best practices. CE courses vary in length, price, and topic, so choose ones that truly benefit your career trajectory. You’ll need to complete these credits before each renewal period, which [typically occurs every two years](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/).
 
 Renewal itself is a straightforward process. You’ll confirm you’ve met the CE requirements, pay a renewal fee, and update any personal information that may have changed. Keeping your contact details current in state databases is important, since official reminders often arrive by mail or email. Missing a renewal deadline can result in additional fees or even the suspension of your license, so mark those dates on your calendar well in advance.
 
@@ -68,3 +68,8 @@ Now that you have a solid grasp of the [Virginia insurance license](/virginia) r
 If you’re looking for additional guidance or resources that streamline this process, JustInsurance can be a great ally. Whether you need tips on passing your exam or advice on your first job in the insurance world, having an experienced partner can save you time and stress. Consider seeking expert support if you feel unsure about any step.
 
 Ultimately, your determination and thorough preparation will get you across the finish line. Meeting these requirements is all about diligence, follow-through, and a willingness to keep learning. Once you’ve completed these steps, you’ll be free to focus on serving your clients throughout Virginia—and reaping the rewards of a career that’s both flexible and financially promising. Good luck with your licensing journey, and remember that there are resources out there if you ever need a helping hand!
+
+**Sources cited:**
+
+- [Applying for an Individual VA Insurance License (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [License Renewals (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)

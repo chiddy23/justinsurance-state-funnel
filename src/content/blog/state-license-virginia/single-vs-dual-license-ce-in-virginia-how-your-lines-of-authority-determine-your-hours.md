@@ -12,7 +12,7 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: "Single vs. Dual License CE in Virginia: How Your Lines of Authority Determine Your Hours"
 ---
 
-The single most important thing to understand about Virginia's [continuing education](/virginia/continuing-education) system is that your CE obligation is determined not by how much business you are authorized to write, but by how many license types you hold. The Bureau of Insurance states it in exactly those terms: hold one license type and you complete 16 hours; hold two or more and you complete 24, with a minimum of eight hours applicable to each type. For most producers that reduces to a single question — do you hold a license on the Life and Annuities/Health side, one on the Property and Casualty side, or both? Getting this wrong means either under-completing CE (which terminates your license) or over-completing unnecessarily. This post explains exactly how the classification works, how the 8-hour minimums apply, and what changes if you add a new license type after your initial licensure.
+The single most important thing to understand about Virginia's [continuing education](/virginia/continuing-education) system is that your CE obligation is determined not by how much business you are authorized to write, but by how many license types you hold. The Bureau of Insurance states it in exactly those terms: [hold one license type and you complete 16 hours; hold two or more and you complete 24, with a minimum of eight hours applicable to each type](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/). For most producers that reduces to a single question — do you hold a license on the Life and Annuities/Health side, one on the Property and Casualty side, or both? Getting this wrong means either under-completing CE (which terminates your license) or over-completing unnecessarily. This post explains exactly how the classification works, how the 8-hour minimums apply, and what changes if you add a new license type after your initial licensure.
 
 ## How Virginia Groups License Types for CE
 
@@ -32,7 +32,7 @@ Virginia issues Life and Annuities and Health as two separate agent licenses, bu
 
 License Type 2: Property and Casualty. Here the important correction is what Virginia does *not* issue. There is no standalone Property license and no standalone Casualty license in Virginia. The Bureau issues a single combined Property and Casualty agent license (Prometric exam Series 11-03), and the only other credential on this side is Personal Lines (Series 11-07), a narrower license limited to personal-lines business.
 
-The two do not stack. The Bureau's licensing bulletin tells applicants directly: "Property & Casualty includes Personal Lines; therefore, do not apply for both." Va. Code § 38.2-1866(D) puts them in the same bracket regardless — an agent holding a personal lines license or a property and casualty license completes 16 hours. So on the P&C side you hold one license, not two, and the dual-licensee question never turns on Property versus Casualty. That split does not exist here.
+The two do not stack. The Bureau's licensing bulletin tells applicants directly: "[Property & Casualty includes Personal Lines; therefore, do not apply for both](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)." Va. Code § 38.2-1866(D) puts them in the same bracket regardless — an agent holding a personal lines license or a property and casualty license completes 16 hours. So on the P&C side you hold one license, not two, and the dual-licensee question never turns on Property versus Casualty. That split does not exist here.
 
 ## Title Is a Third Category
 
@@ -52,7 +52,7 @@ The ethics 3 hours count toward the total and typically count toward the license
 
 ## The 75% Company-Sponsored Cap in Practice
 
-No more than 75% of required CE credits may come from company-sponsored courses. For dual licensees:
+[No more than 75% of required CE credits may come from company-sponsored courses](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf). For dual licensees:
 
 24 hours required
 
@@ -62,7 +62,7 @@ Minimum non-company-sponsored: 6 hours (25% of 24)
 
 The cap applies to the total — not separately to each license type. If you complete 18 hours of company-sponsored content (the maximum), the remaining 6 hours must come from non-company sources.
 
-If you go past the 75% ceiling, the surplus is not simply discarded. The CE Board's handbook states that where you earn more than 75 percent of your credits from company- or agency-sponsored courses, the excess carries forward to the next renewal cycle provided you have complied with all CE requirements. This mirrors Virginia's general carry-forward rule (below), and it does not apply to public adjusters.
+If you go past the 75% ceiling, the surplus is not simply discarded. The CE Board's handbook states that where you earn more than 75 percent of your credits from company- or agency-sponsored courses, [the excess carries forward to the next renewal cycle](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf) provided you have complied with all CE requirements. This mirrors Virginia's general carry-forward rule (below), and it does not apply to public adjusters.
 
 ## Carry Forward Credits: One Cycle Only
 
@@ -98,7 +98,7 @@ The more operationally important point is that under-completing dual licensee CE
 
 If I hold Life, Annuities, and Health separately as three different line qualifications, do I need more than 16 hours of CE?
 
-No. Va. Code § 38.2-1866(C) says an agent who holds "a life and annuities license or a health agent license, or both" completes 16 hours — so it makes no difference whether you sat the combined Life, Annuities & Health exam (Series 11-01) or the separate Life and Annuities and Health exams. Annuities is not a distinct Virginia license in the first place; it is part of the Life and Annuities license. The requirement remains 16 CE hours per biennium, including 3 hours of ethics. The only way your CE requirement increases to 24 hours is if you also hold a license in a different category — a Property and Casualty or Personal Lines license, or a Title license — crossing from one license type to two.
+No. Va. Code § 38.2-1866(C) says an agent who holds "a life and annuities license or a health agent license, or both" completes 16 hours — so it makes no difference whether you sat the combined Life, Annuities & Health exam (Series 11-01) or the separate Life and Annuities and Health exams. Annuities is not a distinct Virginia license in the first place; it is part of the Life and Annuities license. The requirement remains 16 CE hours per biennium, [including 3 hours of ethics](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf). The only way your CE requirement increases to 24 hours is if you also hold a license in a different category — a Property and Casualty or Personal Lines license, or a Title license — crossing from one license type to two.
 
 Can ethics hours count toward both the L/A/H minimum and the P&C minimum for dual licensees?
 
@@ -119,3 +119,9 @@ Variable Life and Variable Annuity Products authority is within the Life, Annuit
 Understanding exactly which license type tier you fall into — and confirming your current CE transcript balance on Sircon regularly — is the foundation of staying compliant in Virginia's CE system.
 
 Visit JustInsurance to enroll today and complete your Virginia CE requirements with state-approved courses that are reported electronically to the Virginia Bureau of Insurance once you finish. Confirming that those hours actually posted — and knowing your own compliance date — stays your responsibility, so pull up your Sircon transcript after each course and again before your renewal deadline.
+
+**Sources cited:**
+
+- [Continuing Education Requirements (Virginia State Corporation Commission)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)
+- [Virginia Insurance Continuing Education Board Handbook (Virginia State Corporation Commission)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/current-agents-agencies/continuing-education-requirements/125363.pdf)
+- [Virginia Insurance Licensing Information Bulletin (Prometric / Virginia Bureau of Insurance)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)

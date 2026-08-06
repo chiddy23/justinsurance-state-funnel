@@ -16,7 +16,7 @@ Every Virginia resident insurance license applicant must complete a fingerprint-
 
 ## Why Virginia Requires Fingerprinting
 
-Under Title 38.2 of the Code of Virginia, the Bureau of Insurance conducts a criminal history background check on every new resident license applicant. The check runs through two channels: the Virginia State Police (for Virginia criminal history) and the Federal Bureau of Investigation (for national criminal history). Fieldprint collects your digital prints and transmits them electronically to both agencies. The results go directly to the Bureau of Insurance for review as part of your license application.
+Under [Title 38.2 of the Code of Virginia](https://law.lis.virginia.gov/vacodefull/title38.2/), the Bureau of Insurance conducts a criminal history background check on every new resident license applicant. The check runs through two channels: the Virginia State Police (for Virginia criminal history) and the Federal Bureau of Investigation (for national criminal history). Fieldprint collects your digital prints and transmits them electronically to both agencies. The results go directly to the Bureau of Insurance for review as part of your license application.
 
 This is a one-time requirement, not a per-qualification requirement. Once your fingerprints are on file with the Bureau, you generally do not need to be fingerprinted again to add another qualification to a producer license. The Bureau's own fingerprinting FAQ addresses this directly: asked whether a current Virginia licensee submitting a new application for a new license needs prints, the Bureau answers "No, you are not required to submit fingerprints unless it has been more than a year since you submitted fingerprints to the Bureau for licensure."
 
@@ -42,7 +42,7 @@ FPVABOIPubAdj — public adjuster licenses
 
 FPVABOIViatical — viatical settlement licenses
 
-If a code you were given is not on that list, do not use it. Confirm on the SCC's "Apply for an Individual Virginia Insurance License" page (scc.virginia.gov) before scheduling.
+If a code you were given is not on that list, do not use it. Confirm on the SCC's "[Apply for an Individual Virginia Insurance License](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)" page (scc.virginia.gov) before scheduling.
 
 ## How to Schedule a Fieldprint Appointment
 
@@ -52,9 +52,9 @@ Step 2: Create a Fieldprint account using your legal name exactly as it appears 
 
 Step 3: Enter Fieldprint Code FPVABOIProducer to pull up the correct service.
 
-Step 4: Select a date, time, and location from Fieldprint's network. The Bureau of Insurance's application page directs resident applicants to one of Fieldprint's 93 locations across Virginia, and Fieldprint also has locations elsewhere in the United States if you are currently residing outside Virginia.
+Step 4: Select a date, time, and location from Fieldprint's network. The Bureau of Insurance's application page directs resident applicants to one of Fieldprint's [93 locations across Virginia](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/), and Fieldprint also has locations elsewhere in the United States if you are currently residing outside Virginia.
 
-Step 5: Pay the $34.95 fee at the time of scheduling. This fee covers both the Virginia State Police and FBI background check processing.
+Step 5: Pay the [$34.95 fee](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/) at the time of scheduling. This fee covers both the Virginia State Police and FBI background check processing.
 
 Step 6: Bring your appointment confirmation number and two valid forms of identification to your appointment. Your primary ID must be government-issued with a photo and signature. Your secondary ID must contain a signature.
 
@@ -98,7 +98,7 @@ Yes. Fieldprint has locations across the United States, not just in Virginia. If
 
 What does the $34.95 Fieldprint fee cover?
 
-The $34.95 fee paid at your Fieldprint appointment covers the cost of the electronic fingerprinting service and includes the processing fees for both the Virginia State Police criminal history check and the FBI national criminal history check. These are not separate charges — the $34.95 is a single bundled fee. You pay it at the time you schedule your appointment online at fieldprintvirginia.com. The Fieldprint fee is separate from the $15 Bureau of Insurance application fee and the $5.60 NIPR or Sircon processing fee — your total licensing cost includes all three charges.
+The $34.95 fee paid at your Fieldprint appointment covers the cost of the electronic fingerprinting service and includes the processing fees for both the Virginia State Police criminal history check and the FBI national criminal history check. These are not separate charges — the $34.95 is a single bundled fee. You pay it at the time you schedule your appointment online at fieldprintvirginia.com. The Fieldprint fee is separate from the [$15 Bureau of Insurance application fee](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/) and the $5.60 NIPR or Sircon processing fee — your total licensing cost includes all three charges.
 
 How long does the Fieldprint background check take to process?
 
@@ -111,3 +111,9 @@ If you complete your Fieldprint appointment using the wrong code, your fingerpri
 Fieldprint is a short appointment, a specific code, and a 90-day window. Get all three right and this step takes 10 minutes. Get any of them wrong and it becomes a delay that costs money and time you did not plan for.
 
 Visit JustInsurance to enroll today and start preparing for your Virginia insurance exam while you coordinate your Fieldprint appointment.
+
+**Sources cited:**
+
+- [Applying for an Individual Virginia Insurance License — Fieldprint fingerprinting, codes, and fee (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Insurance License Application Fees (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+- [Title 38.2 — Insurance, Code of Virginia (Virginia General Assembly)](https://law.lis.virginia.gov/vacodefull/title38.2/)

@@ -24,7 +24,7 @@ When you set your sights on earning a [Virginia health insurance license](/virgi
 
 The first mistake many aspiring agents make is not taking the time to learn the must-know details of Virginia’s licensing process. In general, you must be at least 18 years old and comply with fingerprinting and background checks. Virginia does not require [prelicensing coursework](/virginia/prelicensing) for standard producer lines before you register for the exam — the state repealed that mandate for most lines, so you can move straight to scheduling your exam once you meet the basic eligibility requirements.
 
-[Pre-licensing](/virginia/prelicensing) hours are optional in Virginia, not mandatory, but skipping structured prep entirely is still a common mistake. The Prometric exam leans heavily on state-specific terms, regulations, and ethical standards, so voluntarily taking a course can make the difference between passing on your first try and having to retake it. Pay attention to all the topics covered if you do take a course, since the exam questions often match these areas of study quite closely.
+[Pre-licensing](/virginia/prelicensing) [hours are optional in Virginia, not mandatory](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/), but skipping structured prep entirely is still a common mistake. The [Prometric exam](https://www.prometric.com/virginia/insurance) leans heavily on state-specific terms, regulations, and ethical standards, so voluntarily taking a course can make the difference between passing on your first try and having to retake it. Pay attention to all the topics covered if you do take a course, since the exam questions often match these areas of study quite closely.
 
 ## Plan your pre-licensing education
 
@@ -79,3 +79,8 @@ Once you’re fully licensed, mark your calendar with any upcoming renewal deadl
 Earning a Virginia health insurance license can be your ticket into a stable, in-demand career field, but it does require careful planning to avoid setbacks. Begin with a full understanding of what’s required, and give yourself enough time to complete the coursework, schedule your exam properly, and budget for all the related fees. Study regularly, prepare well for exam day, and finalize the licensing application promptly.
 
 If you’re ready to start, now is the time to reach out for guidance. Whether you have specific questions about the pre-licensing course or simply want tips on picking the best study materials, resources like JustInsurance can help you move forward with confidence. Push past the common mistakes, and you’ll soon be on your way to a fulfilling career, helping your fellow Virginians secure the coverage they need.
+
+**Sources cited:**
+
+- [Applying for an Individual VA Insurance License (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [Virginia Insurance Licensing Exam — Prometric (Prometric)](https://www.prometric.com/virginia/insurance)

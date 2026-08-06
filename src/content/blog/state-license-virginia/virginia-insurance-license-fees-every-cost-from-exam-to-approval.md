@@ -19,15 +19,15 @@ Virginia's insurance licensing fees are among the lowest in the country — but 
 
 ## Exam Fees
 
-The Prometric exam fee is $35 per exam, regardless of which line you are testing for. This fee must be paid at the time of reservation — by MasterCard, Visa, money order, company check, or cashier's check. Personal checks are not accepted. The fee is non-refundable.
+The Prometric exam fee is [$35 per exam](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf), regardless of which line you are testing for. This fee must be paid at the time of reservation — by MasterCard, Visa, money order, company check, or cashier's check. Personal checks are not accepted. The fee is non-refundable.
 
-If you need to retake the exam, you pay another $35. There is no discount for retakes and no cap on the number of attempts. After failing the same exam three times, Virginia requires a 30-day waiting period — but the fee structure does not change. A candidate who fails three times before passing pays $140 in total exam fees for a single line.
+If you need to retake the exam, you pay another $35. There is no discount for retakes and no cap on the number of attempts. After failing the same exam three times, Virginia requires a [30-day waiting period](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf) — but the fee structure does not change. A candidate who fails three times before passing pays $140 in total exam fees for a single line.
 
 Rescheduling: You can reschedule without penalty if you do so before the cutoff (generally 24 hours before the exam). Rescheduling after the cutoff or failing to appear forfeits the exam fee entirely.
 
 ## Fingerprinting Fee
 
-The Fieldprint Virginia fingerprinting fee is $34.95, paid at the time of scheduling at fieldprintvirginia.com. This fee is bundled and covers both the Virginia State Police criminal history check and the FBI national check. There is no additional charge from the Virginia State Police or FBI.
+The Fieldprint Virginia fingerprinting fee is [$34.95](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/), paid at the time of scheduling at fieldprintvirginia.com. This fee is bundled and covers both the Virginia State Police criminal history check and the FBI national check. There is no additional charge from the Virginia State Police or FBI.
 
 The fingerprinting fee is charged again if:
 
@@ -41,7 +41,7 @@ A new background check is required for any other reason
 
 ## Application Fee
 
-The Virginia Bureau of Insurance charges $15 per line of authority as a non-refundable application processing fee. This is sometimes called the "per qualification" fee.
+The Virginia Bureau of Insurance charges [$15 per line of authority](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/) as a non-refundable application processing fee. This is sometimes called the "per qualification" fee.
 
 Per-qualification examples (Virginia issues six producer qualifications — Health; Life and Annuities; Personal Lines; Property and Casualty; Title; Variable Contracts — at $15 each):
 
@@ -63,7 +63,7 @@ Both NIPR and Sircon charge a platform transaction fee of $5.60 per application 
 
 ## Renewal Fees
 
-Virginia insurance licenses renew biennially. Your renewal deadline is the last day of your birth month, on the odd or even year matching your birth year — for example, a producer born in an even year renews at the end of their birth month in every even year. Virginia does not use a single fixed statewide renewal date; each producer's deadline is individual to their birth month and birth year.
+Virginia insurance licenses renew biennially. Your renewal deadline is [the last day of your birth month, on the odd or even year matching your birth year](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/) — for example, a producer born in an even year renews at the end of their birth month in every even year. Virginia does not use a single fixed statewide renewal date; each producer's deadline is individual to their birth month and birth year.
 
 Virginia has no renewal grace period — the license expires on your renewal date. If you do not complete your CE requirements and submit renewal before your deadline, your license is administratively terminated. You have up to one year after expiration to reinstate (paying the $20 reinstatement fee per line plus the standard $10 renewal fee — $30 total per line), but you must also be CE-compliant first.
 
@@ -73,7 +73,7 @@ Several cost items are structured per-line rather than per-application, meaning 
 
 The $15 application fee per qualification: a two-qualification applicant pays $30; a producer holding the full Life and Annuities + Health + Property and Casualty set holds three qualifications and pays $45
 
-The $10 renewal fee per line: renewing three qualifications costs $30 plus NIPR processing
+The [$10 renewal fee per line](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/): renewing three qualifications costs $30 plus NIPR processing
 
 The $20 reinstatement fee per line (on top of the $10 renewal fee): reinstating three expired qualifications costs $90 total ($30 renewal + $60 reinstatement) in reinstatement charges alone
 
@@ -85,7 +85,7 @@ Candidates who hold multiple lines — which is common in Virginia, where many p
 
 Why is the Virginia insurance license application fee charged per line of authority rather than per application?
 
-Virginia's fee structure reflects the administrative cost of reviewing each qualification separately. The Bureau of Insurance issues separate producer qualifications for Health, Life and Annuities, Personal Lines, Property and Casualty, Title, and Variable Contracts — each is a distinct authorization with its own $15 application fee and regulatory oversight. [Continuing education](/virginia/continuing-education), by contrast, is not counted per qualification: it is set by license scope — 16 hours every two years for a single license type or for Life & Annuities plus Health together, and 24 hours if you hold two or more different license types. The $15 per-qualification fee is among the lowest application fees in the country for insurance licensing. By comparison, New Jersey charges $170 for a two-year license. Virginia's per-qualification fee structure means that candidates applying for one or two qualifications pay very little — $15 to $30 — while a producer taking the full Life and Annuities + Health + Property and Casualty set (three qualifications) pays $45. The per-transaction NIPR/Sircon processing fee ($5.60) applies once per submission, not per qualification.
+Virginia's fee structure reflects the administrative cost of reviewing each qualification separately. The Bureau of Insurance issues separate producer qualifications for Health, Life and Annuities, Personal Lines, Property and Casualty, Title, and Variable Contracts — each is a distinct authorization with its own $15 application fee and regulatory oversight. [Continuing education](/virginia/continuing-education), by contrast, is not counted per qualification: it is set by license scope — [16 hours every two years for a single license type or for Life & Annuities plus Health together, and 24 hours if you hold two or more different license types](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/). The $15 per-qualification fee is among the lowest application fees in the country for insurance licensing. By comparison, New Jersey charges $170 for a two-year license. Virginia's per-qualification fee structure means that candidates applying for one or two qualifications pay very little — $15 to $30 — while a producer taking the full Life and Annuities + Health + Property and Casualty set (three qualifications) pays $45. The per-transaction NIPR/Sircon processing fee ($5.60) applies once per submission, not per qualification.
 
 Are any of the Virginia insurance licensing fees refundable?
 
@@ -106,3 +106,12 @@ If the Bureau of Insurance denies your application — due to background issues,
 Virginia's licensing fees are genuinely low relative to other states — but each fee is non-refundable, several multiply by line, and retakes add up quickly. Understand the full cost structure before you start and you will have no surprises from the day you schedule your Prometric exam through the day you print your license.
 
 Visit JustInsurance to enroll today and prepare for your Virginia licensing exam with the course that sets you up to pass the first time.
+
+**Sources cited:**
+
+-   [Virginia Insurance Licensing Information Bulletin / candidate handbook (Prometric, via Virginia SCC)](https://www.scc.virginia.gov/media/sccvirginiagov-home/regulated-industries/insurance/licensing-amp-registration/real-estate-settlement-agents-resa/insva-cib-final.pdf)
+-   [Applying for an Individual VA Insurance License (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+-   [Insurance license application fees (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/application-fees/)
+-   [License renewals (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/license-renewals/)
+-   [Va. Code § 38.2-1825.1 — Renewal, biennial birth-month expiration & reinstatement (Virginia Law Portal)](https://law.lis.virginia.gov/vacode/title38.2/chapter18/section38.2-1825.1/)
+-   [Continuing education requirements (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/)

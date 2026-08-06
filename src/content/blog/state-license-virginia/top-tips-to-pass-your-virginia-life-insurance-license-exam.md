@@ -23,7 +23,7 @@ If you’re ready to start a new career path and need your [Virginia life insura
 
 Before diving into the details, it’s helpful to have a general overview of what obtaining a Virginia life insurance license involves. In a nutshell, you'll want to prepare (Virginia does not require [pre-licensing](/virginia/prelicensing) coursework, though many candidates take it voluntarily), then schedule and pass the official exam, and apply for your license. Life insurance is a regulated field, so these steps ensure that everyone who sells policies has the proper knowledge and responsibility to advise clients.
 
-Insurance in Virginia falls under the guidance of the State Corporation Commission, which sets certification requirements, exam formats, and licensing fees. Understanding the big picture—from registering for your course to sending in your final application—will make each task feel more manageable and less overwhelming.
+Insurance in Virginia falls under the guidance of the [State Corporation Commission](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/), which sets certification requirements, exam formats, and licensing fees. Understanding the big picture—from registering for your course to sending in your final application—will make each task feel more manageable and less overwhelming.
 
 ## Meet eligibility requirements
 
@@ -33,7 +33,7 @@ If you meet the age requirement and don’t have significant legal barriers, you
 
 ## Finish pre-licensing education
 
-Virginia does not require a set number of [Virginia prelicensing](/virginia/prelicensing) study hours — the state repealed mandatory prelicensing for standard lines, so this step is optional. Even so, taking a course voluntarily can give you a sound understanding of life insurance products and state regulations before exam day. These courses often blend textbooks, practice quizzes, and interactive lessons. You’ll learn the basics of policy types, premiums, underwriting, and ethical conduct, all of which you’ll need to know cold by exam day.
+Virginia does not require a set number of [Virginia prelicensing](/virginia/prelicensing) study hours — [the state repealed mandatory prelicensing for standard lines](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/), so this step is optional. Even so, taking a course voluntarily can give you a sound understanding of life insurance products and state regulations before exam day. These courses often blend textbooks, practice quizzes, and interactive lessons. You’ll learn the basics of policy types, premiums, underwriting, and ethical conduct, all of which you’ll need to know cold by exam day.
 
 When selecting a course, look for user-friendly content that caters to your schedule. Some people prefer live classroom settings, while others thrive with flexible online platforms. If you need guidance, JustInsurance can point you to reputable pre-licensing options that fit a variety of budgets and lifestyles. The key is to find a study plan that supports steady progress, so you keep learning new information while reinforcing what you’ve already covered.
 
@@ -66,7 +66,7 @@ Below is a brief plan to keep exam-day stress in check:
 
 ## Move forward with confidence
 
-After you pass the Virginia life insurance license exam, you’ll take the final steps to become officially licensed. Typically, this means submitting an application through the National Insurance Producer Registry (NIPR) or a similar body, paying any applicable fees, and completing the final background information. The commission will review everything, and once approved, you’ll receive your license.
+After you pass the Virginia life insurance license exam, you’ll take the final steps to become officially licensed. Typically, this means submitting an application through the [National Insurance Producer Registry (NIPR)](https://nipr.com) or a similar body, paying any applicable fees, and completing the final background information. The commission will review everything, and once approved, you’ll receive your license.
 
 One of the nicest perks of licensure is that you can start helping Virginia residents protect themselves and their families with valuable life insurance coverage. Whether you choose to work for an established agency or plan to strike out on your own, holding that license is your ticket to new opportunities. And if you ever decide to add additional lines of insurance or expand your skill set, the same exam process can guide you forward.
 
@@ -85,3 +85,8 @@ If you need help getting started or have questions about programs, JustInsurance
 Finally, give yourself credit for every milestone you accomplish—finishing your pre-licensing education, signing up for the exam, walking into the test center with your head held high, and ultimately earning that license. Every step helps you grow into the trusted insurance professional you’re aspiring to be.
 
 Ready to make your mark in the Virginia life insurance field? Start with a few well-structured study sessions, schedule your exam when you feel prepared, and then celebrate when you hit your goals. You’ve got this.
+
+**Sources cited:**
+
+- [Applying for an Individual Virginia Insurance License (Virginia SCC Bureau of Insurance)](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/)
+- [National Insurance Producer Registry (NIPR)](https://nipr.com)

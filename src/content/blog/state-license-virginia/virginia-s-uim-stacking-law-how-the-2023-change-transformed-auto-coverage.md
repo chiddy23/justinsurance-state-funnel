@@ -12,7 +12,7 @@ image: /blog/images/top-tips-to-pass-your-virginia-life-insurance-license-exam.j
 imageAlt: "Virginia's UIM Stacking Law: How the 2023 Change Transformed Auto Coverage"
 ---
 
-On July 1, 2023, Virginia changed how underinsured motorist (UIM) coverage works — a change so significant that it altered the calculus for every auto insurance policy in the Commonwealth. The new rule, codified in Va. Code § 38.2-2206, allows UIM coverage to "stack" on top of the at-fault driver's liability payout rather than being reduced by it. The practical effect is substantial: in many accident scenarios, the total compensation available to an injured Virginia driver doubled or more compared to what was available under the prior rule. This post explains exactly how the rule works, what it means for producers advising clients on UM/UIM coverage limits, and the one important nuance around written rejection.
+On July 1, 2023, Virginia changed how underinsured motorist (UIM) coverage works — a change so significant that it altered the calculus for every auto insurance policy in the Commonwealth. The new rule, codified in [Va. Code § 38.2-2206](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2206/), allows UIM coverage to "stack" on top of the at-fault driver's liability payout rather than being reduced by it. The practical effect is substantial: in many accident scenarios, the total compensation available to an injured Virginia driver doubled or more compared to what was available under the prior rule. This post explains exactly how the rule works, what it means for producers advising clients on UM/UIM coverage limits, and the one important nuance around written rejection.
 
 ## How UIM Coverage Worked Before July 1, 2023
 
@@ -54,7 +54,7 @@ This change effectively increases the total compensation pool available to serio
 
 The stacking rule applies automatically to all policies issued or renewed after July 1, 2023. Policyholders do not need to take any action to receive the benefit — stacking is the default.
 
-However, Virginia law allows policyholders to reject UIM stacking in writing. When the law changed, many insurers contacted policyholders offering premium savings in exchange for signing a written rejection of stacking. The Bureau of Insurance warned producers and consumers that this waiver reduces coverage.
+However, Virginia law allows policyholders to [reject UIM stacking in writing](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2206/). When the law changed, many insurers contacted policyholders offering premium savings in exchange for signing a written rejection of stacking. The Bureau of Insurance warned producers and consumers that this waiver reduces coverage.
 
 The producer's obligation: A producer whose client is presented with a UIM stacking rejection form must ensure the client understands exactly what they are giving up — not just that their premium will be slightly lower. A client who signs away stacking without understanding that they are reverting to the old offset rule is not being served properly.
 
@@ -66,7 +66,7 @@ UIM limits now compound with liability coverage. Under the old rule, a client ca
 
 Higher UIM limits are more valuable than they were before. If your UIM coverage now adds on top of liability rather than being offset, the full dollar amount of your UIM limit is actually available. This makes the cost-benefit analysis of higher UIM limits significantly more favorable.
 
-The combination with new minimums. Since January 1, 2025, Virginia's minimum UM/UIM coverage is $50,000 per person / $100,000 per accident — up from $30,000/$60,000. At minimum limits with stacking, a victim can access $50,000 (at-fault driver's minimum liability) plus $50,000 (victim's minimum UIM) = $100,000 in a worst-case scenario. Previously, the minimum scenario yielded $30,000 in liability plus $0 additional from UIM (since the old minimums matched). The combination of higher minimums and stacking represents a fundamentally stronger baseline for Virginia's most underinsured accident scenarios.
+The combination with new minimums. Since January 1, 2025, Virginia's minimum UM/UIM coverage is [$50,000 per person / $100,000 per accident](https://law.lis.virginia.gov/vacode/title46.2/chapter4/section46.2-472/) — up from $30,000/$60,000. At minimum limits with stacking, a victim can access $50,000 (at-fault driver's minimum liability) plus $50,000 (victim's minimum UIM) = $100,000 in a worst-case scenario. Previously, the minimum scenario yielded $30,000 in liability plus $0 additional from UIM (since the old minimums matched). The combination of higher minimums and stacking represents a fundamentally stronger baseline for Virginia's most underinsured accident scenarios.
 
 ## Interaction with Contributory Negligence
 
@@ -99,3 +99,8 @@ Yes. The insurance industry opposed the UIM stacking legislation during the Gene
 Virginia's UIM stacking change is one of the most pro-consumer auto insurance reforms in the Commonwealth's recent history. Producers who understand it, explain it accurately, and advise clients against uninformed waivers of the benefit are providing genuine value that generic policy placement does not.
 
 Keep this UIM stacking breakdown close when you advise Virginia auto clients. Auto insurance law is tested on the Virginia property and casualty exam, and JustInsurance's exam prep covers the life, health, and combined life & health lines — we do not offer a property and casualty prep course. If you already hold your Virginia P&C license, [Virginia continuing education](/virginia/continuing-education) keeps it current.
+
+**Sources cited:**
+
+-   [Va. Code § 38.2-2206 — Uninsured/underinsured motorist coverage; no-offset default and written election (Virginia Law Portal)](https://law.lis.virginia.gov/vacode/title38.2/chapter22/section38.2-2206/)
+-   [Va. Code § 46.2-472 — Minimum motor vehicle liability coverage limits (Virginia Law Portal)](https://law.lis.virginia.gov/vacode/title46.2/chapter4/section46.2-472/)

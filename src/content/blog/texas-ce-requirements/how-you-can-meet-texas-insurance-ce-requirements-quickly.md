@@ -34,7 +34,7 @@ You might start by examining how your weekly calendar looks. Perhaps you can ded
 
 ## Select efficient course formats
 
-All CE providers and course formats are not created equal. Some individuals do best with self-paced online modules, while others may prefer live webinars or in-person seminars. If you thrive on flexibility, online programs let you complete lessons on your own schedule, pausing when necessary and resuming whenever you find a free moment. If you would rather learn in a structured environment, a virtual or in-person classroom might suit you better. In Texas, though, format is not purely a matter of taste: at least half your hours have to be classroom or classroom-equivalent, so a plan built entirely from plain self-study modules will leave you short no matter how many hours you log.
+All CE providers and course formats are not created equal. Some individuals do best with self-paced online modules, while others may prefer live webinars or in-person seminars. If you thrive on flexibility, online programs let you complete lessons on your own schedule, pausing when necessary and resuming whenever you find a free moment. If you would rather learn in a structured environment, a virtual or in-person classroom might suit you better. In Texas, though, format is not purely a matter of taste: [at least half your hours have to be classroom or classroom-equivalent](https://www.tdi.texas.gov/tips/agents-ce.html), so a plan built entirely from plain self-study modules will leave you short no matter how many hours you log.
 
 Whichever route you take, look for courses that clarify each topic in straightforward terms. The more user-friendly the program, the less time you will spend puzzling over how to navigate the material. At the end of the day, an efficient format that keeps you engaged and informed will help you meet your Texas insurance CE requirements without feeling bogged down.
 
@@ -55,7 +55,7 @@ If you realize you are about to miss a deadline due to unforeseen circumstances,
 1.  How many continuing education hours do I need for my [Texas insurance license](/texas)?  
     The specific hours depend on your license type and often include mandatory ethics and specialty topics. You will want to confirm the exact total on the [Texas Department of Insurance](/texas/requirements) website or through a reliable CE provider.
 2.  Can I complete all my CE courses online?  
-    You can take all of your courses online, but the format mix is regulated. TDI requires at least half your hours — 12 of 24 — to be earned in a classroom or "classroom-equivalent" course, which means no more than 12 can carry the instruction method of self-study. Classroom-equivalent is a TDI-registered online format that builds in periodic question sets you have to answer correctly to advance, plus checks that the registered student is the one taking the course, and a live instructor-led session is credited as a classroom course. So finishing everything from home is fine. What matters is the instruction method TDI has on file for each course, not how the provider markets it — confirm that before you enroll, not after.
+    You can take all of your courses online, but the format mix is regulated. TDI requires [at least half your hours — 12 of 24 — to be earned in a classroom](https://www.tdi.texas.gov/tips/agents-ce.html) or "classroom-equivalent" course, which means no more than 12 can carry the instruction method of self-study. Classroom-equivalent is a TDI-registered online format that builds in periodic question sets you have to answer correctly to advance, plus checks that the registered student is the one taking the course, and a live instructor-led session is credited as a classroom course. So finishing everything from home is fine. What matters is the instruction method TDI has on file for each course, not how the provider markets it — confirm that before you enroll, not after.
 3.  What happens if I miss my CE deadline?  
     Missing the deadline can lead to penalties, fines, or even the suspension of your license. If you fall behind, enroll in an approved course immediately and notify the state of your situation if necessary.
 4.  How do I know if my provider is legitimate?  
@@ -68,3 +68,7 @@ If you realize you are about to miss a deadline due to unforeseen circumstances,
 Meeting your Texas insurance CE requirements is much simpler when you plan ahead, choose a format tailored to your learning style, and use smart study techniques. By incorporating these tips into your routine, you can enjoy a smoother path toward maintaining your license. If you are ready to start earning CE credits quickly, explore approved providers like JustInsurance and pick courses designed to help you stay compliant with minimal hassle.
 
 Take the first step today. Setting aside time, getting organized, and starting on your chosen courses ensures you meet your CE obligations on schedule—and with confidence.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — CE tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)

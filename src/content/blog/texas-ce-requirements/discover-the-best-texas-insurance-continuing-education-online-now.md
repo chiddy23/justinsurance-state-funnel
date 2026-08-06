@@ -47,7 +47,7 @@ You gain a deeper understanding of how to navigate the industry and meet client 
 
 ## Steps to fulfill requirements
 
-Many licensed agents in Texas need to complete 24 credit hours of continuing education every two years. Out of those hours, 3 must be dedicated to ethics content, though you should confirm exact requirements that apply to your specific license. The other constraint to plan around is the format mix: no more than half of your hours can carry the self-study instruction method, so at least 12 have to come from classroom or classroom-equivalent courses. While each approved provider may handle content delivery differently, you can generally expect an online learning experience that walks you through distinct modules or course sections.
+Many licensed agents in Texas need to complete [24 credit hours of continuing education every two years](https://www.tdi.texas.gov/agent/agcehome.html). Out of those hours, [3 must be dedicated to ethics content](https://www.tdi.texas.gov/agent/agcehome.html), though you should confirm exact requirements that apply to your specific license. The other constraint to plan around is the format mix: no more than half of your hours can carry the self-study instruction method, so [at least 12 have to come from classroom or classroom-equivalent courses](https://www.tdi.texas.gov/tips/agents-ce.html). While each approved provider may handle content delivery differently, you can generally expect an online learning experience that walks you through distinct modules or course sections.
 
 Below is a quick reference to help you see the broad structure:
 
@@ -81,14 +81,14 @@ Self-study maximum
 
 No more than half of the 24 hours
 
-Once you have finished each course, confirm that the provider reports your credits to the Texas Department of Insurance. Some providers handle reporting automatically, while others might require you to submit documentation. Either way, keep your completion certificates safe so you have proof of your newly earned credits if needed.
+Once you have finished each course, confirm that [the provider reports your credits to the Texas Department of Insurance](https://www.tdi.texas.gov/tips/agents-ce.html). Some providers handle reporting automatically, while others might require you to submit documentation. Either way, keep your completion certificates safe so you have proof of your newly earned credits if needed.
 
 ## Frequently asked questions
 
 1.  How many CE hours do I need to renew my license?  
     Texas generally requires 24 hours of CE every two years, including 3 hours dedicated to ethics training. Always verify the latest information with the Texas Department of Insurance for your specific license type.
 2.  Can I complete my CE requirements entirely online?  
-    You can complete your CE online, but not all of it can be self-paced self-study. Texas caps self-study at 12 of your 24 hours; at least the other 12 must come from classroom, classroom-equivalent, or live webinar courses (28 TAC Chapter 19, Subchapter K). Approved online providers offer courses in those interactive formats, so you can still finish everything from home — just keep your self-study portion at or under 12 hours.
+    You can complete your CE online, but not all of it can be self-paced self-study. [Texas caps self-study at 12 of your 24 hours](https://www.tdi.texas.gov/tips/agents-ce.html); at least the other 12 must come from classroom, classroom-equivalent, or live webinar courses (28 TAC Chapter 19, Subchapter K). Approved online providers offer courses in those interactive formats, so you can still finish everything from home — just keep your self-study portion at or under 12 hours.
 3.  Are there mandatory topics besides ethics?  
     While ethics is one mandatory topic, exact requirements can vary by license class. Common areas include policy updates, risk management, and agent responsibilities.
 4.  Do online providers report my course completions automatically?  
@@ -107,3 +107,8 @@ One of the most appreciated benefits is their user-friendly platform. You will f
 Ultimately, completing your [Texas insurance](/texas) continuing education online allows you to stay ahead in your profession without sacrificing your personal schedule. You will keep your license current, expand your knowledge base, and better serve your clients, all without leaving your desk — as long as your plan respects the 12-hour classroom minimum. Take a look at your available options, decide which courses will address your learning goals, and get started.
 
 If you would like a straightforward path that fits into your daily life, JustInsurance is ready to help you succeed. Enroll in the right CE package, set your study schedule, and you will be on your way toward meeting your requirements. The sooner you begin, the more time you will have to study and integrate what you learn. Make the most of your next renewal period, and keep your career momentum going strong.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education requirements for agents](https://www.tdi.texas.gov/agent/agcehome.html)
+- [Texas Department of Insurance — Continuing education tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)

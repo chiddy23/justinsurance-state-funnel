@@ -29,7 +29,7 @@ Today’s busy schedule calls for flexibility. Fortunately, you have several opt
 
 ### Online, live, or self-paced
 
-Many providers offer [Texas insurance](/texas) CE courses in multiple formats. Online classes are often designed to work around your commitments, letting you start and stop course modules whenever you need to. For those who enjoy an interactive experience, live webinars provide real-time engagement with instructors and fellow agents. Self-paced modules, on the other hand, can be paused or replayed if you need to review complex topics. Keep in mind that Texas regulates the mix: at least half your hours — 12 of 24 — must be earned in a classroom or "classroom-equivalent" course, so no more than 12 can carry the instruction method of self-study. Plenty of online courses are registered with TDI as classroom-equivalent and count toward that half, but you have to verify the instruction method on the course listing rather than assume it from how the course is delivered.
+Many providers offer [Texas insurance](/texas) CE courses in multiple formats. Online classes are often designed to work around your commitments, letting you start and stop course modules whenever you need to. For those who enjoy an interactive experience, live webinars provide real-time engagement with instructors and fellow agents. Self-paced modules, on the other hand, can be paused or replayed if you need to review complex topics. Keep in mind that Texas regulates the mix: [at least half your hours — 12 of 24 — must be earned in a classroom](https://www.tdi.texas.gov/tips/agents-ce.html) or "classroom-equivalent" course, so no more than 12 can carry the instruction method of self-study. Plenty of online courses are registered with TDI as classroom-equivalent and count toward that half, but you have to verify the instruction method on the course listing rather than assume it from how the course is delivered.
 
 No single format fits everyone. It’s worth exploring various styles—especially if you’ve never tried a certain format before—to see which blends best with your daily routine.
 
@@ -66,13 +66,13 @@ You’ll find that maximizing your study time is as much about choosing the righ
 Below are answers to some of the most frequently asked questions about completing your Texas insurance continuing education requirements:
 
 1.  How many hours of CE do I need?  
-    Most Texas insurance licenses require 24 credit hours of CE per renewal cycle, including three hours of ethics or consumer protection. However, always verify specific requirements with the [Texas Department of Insurance](/texas/requirements).
+    Most Texas insurance licenses require [24 credit hours of CE per renewal cycle, including three hours of ethics](https://www.tdi.texas.gov/agent/agcehome.html) or consumer protection. However, always verify specific requirements with the [Texas Department of Insurance](/texas/requirements).
 2.  Can I carry over extra credits?  
     Texas generally does not allow carryover credits from one renewal period to the next. Each cycle, you must earn the full 24 hours required.
 3.  Do I have to take an exam for every course?  
     Some courses require a short exam, while others may not. Look for a provider that offers user-friendly testing options if you’d like to ensure a stress-free experience.
 4.  How do I report my completed credits?  
-    Most CE providers electronically report your credits directly to the state. To be safe, confirm the reporting process before you start any course.
+    [Most CE providers electronically report your credits directly to the state](https://www.tdi.texas.gov/tips/agents-ce.html). To be safe, confirm the reporting process before you start any course.
 5.  What if I miss my renewal deadline?  
     Missing your deadline might lead to penalties or a lapse in your license status. To avoid interruptions in your practice, plan ahead and aim to complete your hours well before your renewal date.
 
@@ -83,3 +83,8 @@ Continuing education is more than a formality. When you choose Texas insurance C
 At JustInsurance, we focus on making the process straightforward and efficient for busy agents like you. Whether you want to learn about the latest regulatory changes, refine your communication skills, or deepen your knowledge of specific coverage areas, we’ve got options to fit each preference.
 
 Ready to get started? Explore flexible CE programs that inspire you, gain new insights, and keep your license active. Invest in your success today by selecting the courses that speak to your professional goals. Your future clients—and your peace of mind—will thank you.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education for agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html)
+- [Texas Department of Insurance — Continuing education tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)

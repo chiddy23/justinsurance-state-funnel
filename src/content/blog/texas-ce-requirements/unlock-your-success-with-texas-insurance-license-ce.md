@@ -29,7 +29,7 @@ Regularly reviewing these regulations—as well as your own schedule—means you
 
 ## Discover online course options
 
-Online courses have transformed how you can satisfy your CE credits. Many providers offer self-paced study modules, live webinars, or a blend of both. Keep one Texas-specific rule in mind, though: at least 12 of your 24 CE hours must be completed in a classroom or classroom-equivalent course, and the remaining hours can be ordinary self-study. Classroom-equivalent is a specific TDI registration, not a description of how modern a course looks — the rule requires built-in question periods you have to answer correctly to move forward, plus periodic checks that the registered student is the one taking the course. An all-online plan works as long as 12 of your hours carry that registration, so check the instruction method on the listing before you enroll. Within those limits, you can pick the formats that best suit your lifestyle, and flexible digital platforms make it easy to fit chapters into a busy week.
+Online courses have transformed how you can satisfy your CE credits. Many providers offer self-paced study modules, live webinars, or a blend of both. Keep one Texas-specific rule in mind, though: [at least 12 of your 24 CE hours must be completed in a classroom or classroom-equivalent course](https://www.tdi.texas.gov/tips/agents-ce.html), and the remaining hours can be ordinary self-study. Classroom-equivalent is a specific TDI registration, not a description of how modern a course looks — the rule requires built-in question periods you have to answer correctly to move forward, plus periodic checks that the registered student is the one taking the course. An all-online plan works as long as 12 of your hours carry that registration, so check the instruction method on the listing before you enroll. Within those limits, you can pick the formats that best suit your lifestyle, and flexible digital platforms make it easy to fit chapters into a busy week.
 
 Plus, these virtual courses often include quizzes or interactive features that reinforce your understanding of new or updated insurance regulations. Engaging tools make studying less of a chore and more of a practical training session. That means you’re not just earning credits—you’re expanding the knowledge that sets you apart.
 
@@ -45,7 +45,7 @@ Below are common questions many agents ask as they plan their next steps:
 
 1.  What is the minimum number of CE hours I need?
 
--   In Texas, most agents need 24 hours of CE every renewal cycle, including ethics-specific hours. Always confirm details with the Texas Department of Insurance to stay up to date.
+-   In Texas, most agents need [24 hours of CE every renewal cycle, including ethics-specific hours](https://www.tdi.texas.gov/agent/agcehome.html). Always confirm details with the Texas Department of Insurance to stay up to date.
 
 2.  Can I repeat courses every renewal period?
 
@@ -72,7 +72,7 @@ If you fail to complete your CE credits before your renewal date, your license m
 Yes, as long as the provider is approved by the Texas Department of Insurance. Many national providers hold multi-state approvals, so you have a wide selection. Always confirm a course's approval status before enrolling to make sure your credits will count.
 
 **Do I need to keep copies of my CE completion certificates?**
-Yes. While most approved providers report completions directly to the state, you should retain your certificates for at least the current and prior renewal period. In the event of a discrepancy or audit, having personal records makes it easy to resolve any issues quickly.
+Yes. While [most approved providers report completions directly to the state](https://www.tdi.texas.gov/tips/agents-ce.html), you should retain your certificates for at least the current and prior renewal period. In the event of a discrepancy or audit, having personal records makes it easy to resolve any issues quickly.
 
 **Can I take CE courses in areas outside my current specialty?**
 Absolutely. The Texas Department of Insurance allows you to choose elective topics beyond your primary line of authority. Taking courses in adjacent areas — like annuities, flood insurance, or surplus lines — can broaden your expertise and open new revenue opportunities.
@@ -82,3 +82,8 @@ Absolutely. The Texas Department of Insurance allows you to choose elective topi
 Pursuing your CE early isn’t just about fulfilling a requirement. It’s an opportunity to highlight your dedication to serving clients with up-to-date knowledge and to keep your career on track in a rapidly shifting marketplace. By choosing a flexible online format, planning your study sessions, and selecting relevant coursework, you turn a mandatory process into a growth opportunity.
 
 When you’re ready to finish your next set of credits, JustInsurance can help. They offer user-friendly online courses designed to fit your schedule while meeting the Texas Department of Insurance’s standards. Sign up for your next course right away, stay on top of your CE requirements, and keep your career moving forward. You have what it takes to succeed—let your continuing education open new doors and keep your license in top form.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education for agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html)
+- [Texas Department of Insurance — Continuing education tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)

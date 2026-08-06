@@ -58,7 +58,7 @@ Limited scheduling flexibility
 
 You may discover a blend of two or more formats works best for you. For instance, you could enroll in an online course for self-study but still join the occasional webinar to ask live questions.
 
-Blend deliberately, though, because Texas puts a limit on the mix: at least half your hours must be classroom or classroom-equivalent, and no more than half your credits can be in the self-study instruction method. Many online courses are registered as classroom-equivalent and count toward the classroom half — but you have to verify that on the course listing rather than assume it from the delivery style.
+Blend deliberately, though, because Texas puts a limit on the mix: [at least half your hours must be classroom or classroom-equivalent](https://www.tdi.texas.gov/tips/agents-ce.html), and no more than half your credits can be in the self-study instruction method. Many online courses are registered as classroom-equivalent and count toward the classroom half — but you have to verify that on the course listing rather than assume it from the delivery style.
 
 ## Select the right CE provider
 
@@ -80,7 +80,7 @@ It helps to set clear goals. Knowing exactly how many credit hours you need and 
 
 ### 1\. How often do I need to complete CE in Texas?
 
-Most licenses in Texas require 24 hours of continuing education every two years. Check your specific license guidelines for any specialty requirements or ethics mandates.
+Most licenses in Texas require [24 hours of continuing education every two years](https://www.tdi.texas.gov/agent/agcehome.html). Check your specific license guidelines for any specialty requirements or ethics mandates.
 
 ### 2\. Can I repeat the same course every renewal period?
 
@@ -90,7 +90,7 @@ Usually, you can’t repeat the exact same course within the same licensing cycl
 
 Yes, TDI-approved online courses count — but Texas also regulates the format mix, and this is where agents get caught. TDI requires that at least half your hours be earned in a classroom or classroom-equivalent environment, and no more than half your credits may carry the instruction method of "self-study."
 
-An online course can be either one. "Classroom equivalent" is a registration status under 28 TAC §19.1009(h), which requires built-in interactive question periods and periodic authentication of the student; an online course registered that way counts toward your classroom half, while an ordinary self-study module does not. Completing all 24 hours as plain self-study would leave you deficient even though every course was TDI-approved. The instruction method is shown with the course on Sircon — check it there before you enroll.
+An online course can be either one. "Classroom equivalent" is a registration status under 28 TAC §19.1009(h), which requires built-in interactive question periods and periodic authentication of the student; an online course registered that way counts toward your classroom half, while an ordinary self-study module does not. Completing all 24 hours as plain self-study would leave you deficient even though every course was TDI-approved. The instruction method is shown with the course on [Sircon](https://www.tdi.texas.gov/tips/agents-ce.html) — check it there before you enroll.
 
 ### 4\. How do I prove I finished my CE courses?
 
@@ -105,3 +105,8 @@ You can make the schedule more convenient, but you can't compress the seat time.
 If you’re ready to improve your skills and maintain your license in good standing, Texas insurance continuing education courses are the ideal stepping stone to success. Whether you prefer live webinars or on-demand lessons, look for a program that fits your daily routine and keeps you engaged. One option you can explore is JustInsurance, which offers user-friendly online courses designed with busy professionals in mind.
 
 Take the first step by identifying the next course that sparks your interest. Invest in yourself, expand your expertise, and watch how every credit hour translates into clearer insight and better client service. Your dedication to ongoing education sets you apart in a competitive field and supports your long-term success.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education for agents and adjusters](https://www.tdi.texas.gov/agent/agcehome.html)
+- [Texas Department of Insurance — Continuing education tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)

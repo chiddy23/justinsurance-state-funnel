@@ -21,7 +21,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 [Texas insurance](/texas) [continuing education](/texas/continuing-education) is essential if you hold a resident insurance license in the state. By completing regular coursework, you stay informed about industry changes, new regulations, and the latest in risk management strategies. This not only helps you better serve policyholders, but also ensures you maintain your license in good standing.
 
-Staying current with state mandates protects both your business and your career. In most cases, you need to complete at least 24 credit hours of CE every two years, with 3 of those credits focused on ethics. The [Texas Department of Insurance](/texas/requirements) (TDI) regularly updates course guidelines, so always confirm the latest rules as you plan your studies.
+Staying current with state mandates protects both your business and your career. In most cases, you need to complete at least [24 credit hours of CE every two years](https://www.tdi.texas.gov/agent/agcehome.html), with [3 of those credits focused on ethics](https://www.tdi.texas.gov/agent/agcehome.html). The [Texas Department of Insurance](/texas/requirements) (TDI) regularly updates course guidelines, so always confirm the latest rules as you plan your studies.
 
 ### Why it matters
 
@@ -43,7 +43,7 @@ In addition, prioritize courses that keep you engaged. Interactive webinars, in-
 
 Once you’ve mapped out which courses you’ll take, the next big step is keeping track of what you’ve completed. Juggling multiple deadlines, especially if you hold multiple lines of authority, can feel daunting. Start by marking your license renewal date in a planner or digital calendar. Then, schedule your intended courses across the two-year cycle, giving yourself enough time to handle unexpected disruptions.
 
-Keep thorough records of every class you finish, including the course name, provider, and completion date. Though most accredited providers report your credits directly to the TDI, it’s wise to hold onto certificates of completion for your own reference. You never know when a quick detail might come in handy during renewal.
+Keep thorough records of every class you finish, including the course name, provider, and completion date. Though [most accredited providers report your credits directly to the TDI](https://www.tdi.texas.gov/tips/agents-ce.html), it’s wise to hold onto certificates of completion for your own reference. You never know when a quick detail might come in handy during renewal.
 
 ### Key CE requirements at a glance
 
@@ -85,7 +85,7 @@ Escrow officer (title)
 
 2
 
-Two more format rules apply to every line in this table. At least half of your hours must be earned in a classroom or classroom-equivalent environment, and no more than half of your credits may carry the instruction method of "self-study" — so check the instruction method on each course before you enroll, not after. Excess hours never carry forward into the next period.
+Two more format rules apply to every line in this table. [At least half of your hours must be earned in a classroom or classroom-equivalent environment](https://www.tdi.texas.gov/tips/agents-ce.html), and no more than half of your credits may carry the instruction method of "self-study" — so check the instruction method on each course before you enroll, not after. Excess hours never carry forward into the next period.
 
 A note on the escrow officer row: title-side licensees run on a different schedule from agents and adjusters. Per TDI's Basic Manual of Title Insurance, Section IV (Procedure 28), escrow officers complete 10 credit hours per reporting period with at least 2 of those in ethics — not the 24/3 that applies to General Lines, Life, Personal Lines, MGA, and adjuster licenses. New licensees whose first reporting period runs under 24 months follow a prorated table (for example, 9 hours at 22-23 months, 5 hours at 12-14 months), with the 2-hour ethics floor holding at every tier of 6 months or longer.
 
@@ -111,7 +111,7 @@ When your course completions are in place, you’ll pay the renewal fee and subm
 3.  Can I carry over extra CE credits to my next renewal cycle?  
     Texas typically does not allow you to carry surplus hours into the next cycle. It’s best to confirm current TDI rules to be certain.
 4.  Do I have to take in-person courses, or will online courses count?  
-    TDI-approved online courses count, and many of them are registered as "classroom equivalent," which satisfies the rule that at least half your hours be classroom or classroom-equivalent. The catch is the other bucket: no more than half your credits can carry the instruction method of "self-study." Two courses can look identical on a provider's website and be registered differently with TDI, so confirm the instruction method listed on Sircon before you enroll.
+    TDI-approved online courses count, and many of them are registered as "classroom equivalent," which satisfies the rule that at least half your hours be classroom or classroom-equivalent. The catch is the other bucket: no more than half your credits can carry the instruction method of "self-study." Two courses can look identical on a provider's website and be registered differently with TDI, so [confirm the instruction method listed on Sircon](https://www.tdi.texas.gov/tips/agents-ce.html) before you enroll.
 5.  Is there a maximum number of courses I can take from a single provider?  
     Texas does not set a strict limit for a single provider, but it’s best practice to ensure your courses are diverse and relevant to your license.
 
@@ -122,3 +122,8 @@ Texas insurance continuing education can be a smooth process if you organize you
 If you’re ready to explore user-friendly CE programs, JustInsurance offers a variety of courses tailored for busy professionals. They focus on practical knowledge, and you can track your progress in one convenient place. By prioritizing consistent learning throughout your two-year cycle, you’ll enter every renewal period feeling confident and prepared.
 
 Take a look at JustInsurance to discover classes that fit your schedule and license needs. Then, enjoy the peace of mind that comes with knowing you’ve checked off every essential requirement. You’ll stay licensed, serve your clients better, and keep pushing forward in your insurance career.
+
+**Sources cited:**
+
+- [Texas Department of Insurance — Continuing education requirements for agents](https://www.tdi.texas.gov/agent/agcehome.html)
+- [Texas Department of Insurance — Continuing education tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)

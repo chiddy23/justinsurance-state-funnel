@@ -1,5 +1,5 @@
 import React from "react";
-import { TRUSTPILOT } from "@/lib/trustpilot";
+import { TRUSTPILOT, getTrustpilot } from "@/lib/trustpilot";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { getGoogleReviews } from "@/lib/google-reviews";
 import { getStateBySlug } from "@/lib/states";
@@ -156,6 +156,8 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   // Live Google Business Profile rating + count (auto-updates via ISR; falls
   // back to the static display when no API key/place ID is configured).
   const google = await getGoogleReviews();
+  // Live Trustpilot score/count (auto-updates via ISR; static 92 fallback).
+  const tp = await getTrustpilot();
 
   // Approval gate for the "State-Approved / Official course approval" badge:
   // a state with providerApprovalNumber === "PENDING" has no approval to claim,
@@ -198,18 +200,26 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
     return signal;
   });
 
-  const signals = base.map((signal) =>
-    signal.label.endsWith("on Google")
-      ? {
-          ...signal,
-          label: `${google.rating} on Google`,
-          sub:
-            google.count > 0
-              ? `${google.count.toLocaleString()} verified Google reviews`
-              : signal.sub,
-        }
-      : signal
-  );
+  const signals = base.map((signal) => {
+    if (signal.label.endsWith("on Google")) {
+      return {
+        ...signal,
+        label: `${google.rating} on Google`,
+        sub:
+          google.count > 0
+            ? `${google.count.toLocaleString()} verified Google reviews`
+            : signal.sub,
+      };
+    }
+    if (signal.label.endsWith("on Trustpilot")) {
+      return {
+        ...signal,
+        label: `${tp.score} on Trustpilot`,
+        sub: `${tp.count.toLocaleString()} Trustpilot reviews`,
+      };
+    }
+    return signal;
+  });
   return (
     <section className="bg-gray-bg border-b border-gray-200 py-4">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

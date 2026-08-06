@@ -23,6 +23,83 @@ export const TRUSTPILOT = {
   url: "https://www.trustpilot.com/review/justinsuranceco.com",
 } as const;
 
+// ---------------------------------------------------------------------------
+// Auto-updating score/count (optional). Mirrors src/lib/google-reviews.ts:
+// fetched server-side from the Trustpilot Business Units API and cached with ISR
+// revalidation, so the number auto-updates as reviews come in WITHOUT a code
+// change or redeploy. Still HTML display only — we do NOT emit AggregateRating/
+// Review JSON-LD (self-serving review schema is against Google's guidelines).
+//
+// To activate, set a server-side env var in Vercel (never NEXT_PUBLIC_*, so the
+// key is not exposed to the browser):
+//   TRUSTPILOT_API_KEY            — a Trustpilot API key from your Business
+//                                   account (Integrations → API). Required.
+//   TRUSTPILOT_BUSINESS_UNIT_ID   — optional. When omitted we resolve the unit
+//                                   by domain (justinsuranceco.com) via the API's
+//                                   find endpoint, so the key alone is enough.
+//
+// If the key is missing or the request fails/returns anything unexpected,
+// getTrustpilot() returns the static TRUSTPILOT numbers above (live:false) so
+// the site never breaks — it degrades to the last-known-good, hand-refreshed
+// count. `live` is true only when the numbers came from the API.
+const TRUSTPILOT_DOMAIN = "justinsuranceco.com";
+const TRUSTPILOT_REVALIDATE_SECONDS = 60 * 60 * 12; // twice a day, one shared cached fetch
+
+export interface TrustpilotLive {
+  /** TrustScore, one decimal, e.g. 4.8. */
+  score: number;
+  /** Total reviews on the public profile. */
+  count: number;
+  /** True only when the numbers came from the live API (vs. the static fallback). */
+  live: boolean;
+}
+
+export async function getTrustpilot(): Promise<TrustpilotLive> {
+  const fallback: TrustpilotLive = { score: TRUSTPILOT.score, count: TRUSTPILOT.count, live: false };
+  const key = process.env.TRUSTPILOT_API_KEY;
+  if (!key) return fallback;
+
+  const unitId = process.env.TRUSTPILOT_BUSINESS_UNIT_ID;
+  const url = unitId
+    ? `https://api.trustpilot.com/v1/business-units/${encodeURIComponent(unitId)}`
+    : `https://api.trustpilot.com/v1/business-units/find?name=${encodeURIComponent(TRUSTPILOT_DOMAIN)}`;
+
+  try {
+    const res = await fetch(url, {
+      headers: { apikey: key },
+      next: { revalidate: TRUSTPILOT_REVALIDATE_SECONDS },
+    });
+    if (!res.ok) return fallback;
+    const d: unknown = await res.json();
+    const obj = d as {
+      numberOfReviews?: number | { total?: number };
+      trustScore?: number;
+      score?: { trustScore?: number };
+    };
+    // numberOfReviews is a number on this endpoint but an object {total} on some
+    // others; trustScore is top-level but also nested under score. Parse both.
+    const count =
+      typeof obj.numberOfReviews === "number"
+        ? obj.numberOfReviews
+        : typeof obj.numberOfReviews?.total === "number"
+        ? obj.numberOfReviews.total
+        : NaN;
+    const score =
+      typeof obj.trustScore === "number"
+        ? obj.trustScore
+        : typeof obj.score?.trustScore === "number"
+        ? obj.score.trustScore
+        : NaN;
+    // Sanity-bound so a malformed/wrong-business response can never publish junk.
+    if (!Number.isFinite(count) || count < 1 || !Number.isFinite(score) || score <= 0 || score > 5) {
+      return fallback;
+    }
+    return { score: Math.round(score * 10) / 10, count, live: true };
+  } catch {
+    return fallback;
+  }
+}
+
 export interface TrustpilotReview {
   name: string;
   initials: string;

@@ -10,7 +10,7 @@ import {
   mentionsCompetitor,
   type Testimonial,
 } from "@/lib/testimonials";
-import { TRUSTPILOT, TRUSTPILOT_REVIEWS } from "@/lib/trustpilot";
+import { TRUSTPILOT, TRUSTPILOT_REVIEWS, getTrustpilot } from "@/lib/trustpilot";
 import TrustpilotStars from "@/components/TrustpilotStars";
 import { getGoogleReviews } from "@/lib/google-reviews";
 
@@ -81,6 +81,8 @@ export default async function ReviewsPage() {
   // Live Google Business Profile rating + count (auto-updates via ISR, falls
   // back to the last-known-good 4.9/22). Single source of truth shared with TrustBar.
   const google = await getGoogleReviews();
+  // Live Trustpilot score/count (auto-updates via ISR; static 92 fallback).
+  const tp = await getTrustpilot();
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
@@ -126,10 +128,10 @@ export default async function ReviewsPage() {
             <div className="flex items-center gap-2.5">
               <TrustpilotStars size="w-5 h-5" />
               <p className="text-lg font-bold whitespace-nowrap">
-                {TRUSTPILOT.score} / 5 on Trustpilot
+                {tp.score} / 5 on Trustpilot
                 <span className="font-normal text-blue-100">
                   {" "}
-                  ({TRUSTPILOT.count} reviews)
+                  ({tp.count} reviews)
                 </span>
               </p>
             </div>
@@ -170,13 +172,13 @@ export default async function ReviewsPage() {
             className="block hover:opacity-80 transition-opacity"
           >
             <p className="text-2xl md:text-3xl font-bold text-navy flex items-center justify-center gap-1.5">
-              {TRUSTPILOT.score}
+              {tp.score}
               <TrustpilotStars size="w-5 h-5" count={1} />
             </p>
             <p className="text-xs text-gray-700">on Trustpilot</p>
           </a>
           <div>
-            <p className="text-2xl md:text-3xl font-bold text-navy">{TRUSTPILOT.count}</p>
+            <p className="text-2xl md:text-3xl font-bold text-navy">{tp.count}</p>
             <p className="text-xs text-gray-700">Trustpilot reviews</p>
           </div>
           <div>
@@ -261,14 +263,14 @@ export default async function ReviewsPage() {
               <TrustpilotStars size="w-6 h-6" />
             </div>
             <p className="text-sm text-gray-600">
-              Rated <strong>{TRUSTPILOT.score}</strong> out of 5 based on{" "}
+              Rated <strong>{tp.score}</strong> out of 5 based on{" "}
               <a
                 href={TRUSTPILOT.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-semibold text-navy underline hover:text-gold"
               >
-                {TRUSTPILOT.count} reviews
+                {tp.count} reviews
               </a>{" "}
               on{" "}
               <span className="font-bold" style={{ color: "#00B67A" }}>
@@ -311,7 +313,7 @@ export default async function ReviewsPage() {
               rel="noopener noreferrer"
               className="text-sm text-navy underline hover:text-gold"
             >
-              See all {TRUSTPILOT.count} reviews on Trustpilot →
+              See all {tp.count} reviews on Trustpilot →
             </a>
           </div>
         </div>

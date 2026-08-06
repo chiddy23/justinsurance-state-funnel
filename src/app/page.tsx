@@ -6,7 +6,7 @@ import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import CTABanner from "@/components/CTABanner";
 import TrustpilotStars from "@/components/TrustpilotStars";
-import { TRUSTPILOT } from "@/lib/trustpilot";
+import { TRUSTPILOT, getTrustpilot } from "@/lib/trustpilot";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
@@ -129,7 +129,9 @@ export const metadata: Metadata = {
   },
 };
 
-export default function HomePage() {
+export default async function HomePage() {
+  // Live Trustpilot score/count (auto-updates via ISR; static 92 fallback).
+  const tp = await getTrustpilot();
   // `states` drives the DISCOVERY GRID, which lists EVERY state so each tile is
   // navigable — including New York, whose /new-york hub renders a held "opening
   // soon" notice while its provider approval is PENDING. This list is
@@ -178,7 +180,7 @@ export default function HomePage() {
               <TrustpilotStars size="w-4 h-4" />
               <span>
                 <strong className="text-white">{TRUSTPILOT.label}</strong>{" "}
-                {TRUSTPILOT.score}/5 · {TRUSTPILOT.count} reviews on{" "}
+                {tp.score}/5 · {tp.count} reviews on{" "}
                 <span className="font-semibold text-white">Trustpilot</span>
               </span>
             </a>

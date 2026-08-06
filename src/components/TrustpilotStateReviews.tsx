@@ -1,13 +1,15 @@
 import React from "react";
-import { TRUSTPILOT, getTrustpilotForState } from "@/lib/trustpilot";
+import { TRUSTPILOT, getTrustpilot, getTrustpilotForState } from "@/lib/trustpilot";
 import TrustpilotStars from "@/components/TrustpilotStars";
 
 // Per-state Trustpilot social proof for state hubs. Features state-matched
 // reviews first (locally relevant + unique content for SEO), then a deterministic
 // per-state fill. Display-only — no self-serving schema.
-export default function TrustpilotStateReviews({ stateName }: { stateName: string }) {
+export default async function TrustpilotStateReviews({ stateName }: { stateName: string }) {
   const reviews = getTrustpilotForState(stateName, 3);
   if (reviews.length === 0) return null;
+  // Live Trustpilot score/count (auto-updates via ISR; static 92 fallback).
+  const tp = await getTrustpilot();
   const hasStateMatch = reviews.some(
     (r) => r.state && r.state.toLowerCase() === stateName.toLowerCase()
   );
@@ -26,14 +28,14 @@ export default function TrustpilotStateReviews({ stateName }: { stateName: strin
               : "JustInsurance Reviews on Trustpilot"}
           </h2>
           <p className="text-sm text-gray-600">
-            Rated <strong>{TRUSTPILOT.score}</strong> out of 5 based on{" "}
+            Rated <strong>{tp.score}</strong> out of 5 based on{" "}
             <a
               href={TRUSTPILOT.url}
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold text-navy underline hover:text-gold"
             >
-              {TRUSTPILOT.count} reviews
+              {tp.count} reviews
             </a>{" "}
             on{" "}
             <span className="font-bold" style={{ color: "#00B67A" }}>
@@ -75,7 +77,7 @@ export default function TrustpilotStateReviews({ stateName }: { stateName: strin
             rel="noopener noreferrer"
             className="text-sm text-navy underline hover:text-gold"
           >
-            See all {TRUSTPILOT.count} reviews on Trustpilot →
+            See all {tp.count} reviews on Trustpilot →
           </a>
         </div>
         {/* FTC 16 CFR 255.2(b): typicality disclosure accompanies the

@@ -27,7 +27,7 @@ In Pennsylvania, each line of authority (like life or property) you want covered
 
 ## Complete your pre-licensing course (optional)
 
-Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) education hours are optional rather than mandatory. Courses that cover Life or Health typically run around 20 hours each. If you choose to take one, it gives you a thorough overview of essential insurance concepts, policy structures, and legal requirements, and the coursework typically includes reading assignments, quizzes, and practice exams that simulate the real test environment.
+[Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241), so [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) education hours are optional rather than mandatory. Courses that cover Life or Health typically run around 20 hours each. If you choose to take one, it gives you a thorough overview of essential insurance concepts, policy structures, and legal requirements, and the coursework typically includes reading assignments, quizzes, and practice exams that simulate the real test environment.
 
 Choosing a course built to the current PSI Pennsylvania content outline matters — Pennsylvania does not approve or endorse prelicensing courses, so look for one aligned to the exam blueprint rather than a state seal. The course cost can vary, often landing between $100 and $300 depending on the provider, the course format (online or in-person), and any additional materials included. You might see some packages that integrate practice tests or supplemental study resources. Whichever option you pick, make sure it fits your learning style. After all, you want to enter the exam feeling confident and well-prepared.
 
@@ -39,7 +39,7 @@ Keep a realistic study schedule that accounts for work, family, or other respons
 
 ## Understand the exam fees
 
-The exam fee is one of several costs to budget for — though for most candidates it is smaller than an optional pre-licensing course, so it’s important to set aside a portion of your budget for them. Pennsylvania's exam fee is $45 per attempt for a single-line exam — Life (16-01), Accident and Health (16-02), Property (16-04), or Casualty (16-05) — and $55 for a joint-line exam, meaning Life, Accident and Health (16-03) or Property and Casualty (16-06). Either way you pay PSI Services at registration, and exam fees are not refundable or transferable, so a missed or failed attempt means paying again. You’ll also be responsible for any fees related to scheduling changes, should you need to reschedule your exam date.
+The exam fee is one of several costs to budget for — though for most candidates it is smaller than an optional pre-licensing course, so it’s important to set aside a portion of your budget for them. [Pennsylvania's exam fee is $45 per attempt for a single-line exam — Life (16-01), Accident and Health (16-02), Property (16-04), or Casualty (16-05) — and $55 for a joint-line exam, meaning Life, Accident and Health (16-03) or Property and Casualty (16-06). Either way you pay PSI Services at registration, and exam fees are not refundable or transferable](https://test-takers.psiexams.com/pa/insurance), so a missed or failed attempt means paying again. You’ll also be responsible for any fees related to scheduling changes, should you need to reschedule your exam date.
 
 Below is a quick reference table to give you a sense of what to expect. Actual fees can change, so always confirm with the official testing provider:
 
@@ -83,13 +83,13 @@ Exam fees typically must be paid when you register for your test. Most exam prov
 
 ## Apply for your license
 
-Once you’ve passed the insurance exam, you’ll apply to the state for your official license. Pennsylvania’s Department of Insurance handles license processing, and you can usually submit your application online for faster turnaround times. You’ll likely pay around $55 for the license application fee (although this amount can differ slightly based on the line of authority or additional state requirements).
+Once you’ve passed the insurance exam, you’ll apply to the state for your official license. Pennsylvania’s Department of Insurance handles license processing, and you can usually submit your application online for faster turnaround times. You’ll likely pay [around $55 for the license application fee](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html) (although this amount can differ slightly based on the line of authority or additional state requirements).
 
 Soon after submitting your application, you’ll receive instructions for additional steps, such as a background check or fingerprinting. These might cost anywhere from $20 to $40, so include them in your budget. Make sure to provide accurate information and follow each step promptly to avoid delays. Processing times vary, but many applicants receive their license within a few weeks.
 
 ## Factor in continuing education
 
-After you secure your license, your journey isn’t officially over. To keep your license in good standing, Pennsylvania requires you to complete [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) credits — 24 hours, including 3 ethics hours, every two-year renewal cycle. CE fees can vary, depending on the courses you take and whether they’re part of a package deal. For example, some providers might combine courses into a discount bundle if you need multiple credits.
+After you secure your license, your journey isn’t officially over. To keep your license in good standing, Pennsylvania requires you to complete [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) credits — [24 hours, including 3 ethics hours, every two-year renewal cycle](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements). CE fees can vary, depending on the courses you take and whether they’re part of a package deal. For example, some providers might combine courses into a discount bundle if you need multiple credits.
 
 Each renewal cycle requires you to meet a set number of CE hours, which helps you stay updated on new insurance laws and best practices. Plan for these costs ahead of time, so they don’t catch you off-guard when your renewal date comes around. Keeping your license in good standing also means you’ll have more credibility with clients. They’ll appreciate knowing you’re always learning and staying on top of industry updates.
 
@@ -100,3 +100,10 @@ Navigating Pennsylvania insurance license fees might feel complicated at the sta
 When you’re ready to move forward, JustInsurance is here to guide you every step of the way. You don’t have to go it alone. Whether you need tailored course recommendations, tips for passing the exam on the first try, or guidance on fulfilling your continuing education requirements, they’re ready to help you navigate every aspect of getting—and keeping—your new license.
 
 Take it one step at a time. Complete your pre-licensing course, practice for the exam, and apply to the state. You’ll soon find yourself well on your path to a rewarding insurance career, equipped with all the knowledge and certifications required to excel in Pennsylvania. Remember, a thoughtful plan and realistic budget are your best allies as you tackle each new phase of the process. Good luck on this journey!
+
+**Sources cited:**
+
+- [Pennsylvania Act 142 of 2024 (SB 1241) — eliminated pre-licensing education, PA General Assembly](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI Pennsylvania insurance exam — candidate bulletin & fees](https://test-takers.psiexams.com/pa/insurance)
+- [Pennsylvania Insurance Department — initial insurance producer licensing process (application fee)](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)
+- [Pennsylvania Insurance Department — continuing education requirements](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)

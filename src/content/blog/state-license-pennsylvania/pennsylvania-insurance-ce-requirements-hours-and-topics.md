@@ -23,11 +23,11 @@ Here's a clear breakdown of Pennsylvania insurance CE requirements.
 
 ## The Basic Framework
 
-Under 40 Pa. Stat. §310.8, the Pennsylvania Insurance Department requires licensed insurance producers to complete continuing education during each 2-year renewal cycle.
+Under [40 Pa. Stat. §310.8](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/), the Pennsylvania Insurance Department requires licensed insurance producers to complete continuing education during each 2-year renewal cycle.
 
 For Pennsylvania resident insurance producers, the standard requirement is:
 
-24 hours of CE every 2 years
+[24 hours of CE every 2 years](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
 
 3 hours of Ethics (required for all producers and title agents)
 
@@ -43,9 +43,9 @@ A central recent change for Pennsylvania CE:
 
 Effective April 29, 2025, Pennsylvania introduced new mandatory CE topic requirements:
 
-3-Hour Ethics Requirement. All resident insurance producers and resident/non-resident title insurance agents must complete 3 hours of approved Ethics CE.
+3-Hour Ethics Requirement. All resident insurance producers and resident/non-resident title insurance agents must complete [3 hours of approved Ethics CE](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/).
 
-2-Hour Flood Insurance Requirement. All Property/Casualty/Personal Lines producers must complete 2 hours of approved Flood Insurance CE — even if they don't actively sell flood insurance.
+2-Hour Flood Insurance Requirement. All Property/Casualty/Personal Lines producers must complete [2 hours of approved Flood Insurance CE](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/) — even if they don't actively sell flood insurance.
 
 Compliance deadlines:
 
@@ -121,7 +121,7 @@ Note: This is different from the one-time 3-hour NFIP Flood Insurance Certificat
 
 Pennsylvania has one of the more generous carryover provisions in the country:
 
-Up to 24 excess CE hours may be carried forward to the next renewal period.
+[Up to 24 excess CE hours may be carried forward](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/) to the next renewal period.
 
 This is significant — you can essentially complete a full 2-year requirement in advance and carry it forward, providing flexibility for life events that might otherwise affect compliance.
 
@@ -137,11 +137,11 @@ Long-Term Care (LTC) Training. Before selling, soliciting, or negotiating LTC in
 
 Must hold Health and Sickness/Accident license
 
-Initial 8-hour state-approved LTC training (one-time)
+[Initial 8-hour state-approved LTC training](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html) (one-time)
 
 4-hour ongoing training every 2-year license term thereafter
 
-For LTC Partnership products: initial 8 hours must include 1 hour on Medicaid Assistance Program
+For LTC Partnership products: [initial 8 hours must include 1 hour on Medicaid Assistance Program](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html)
 
 Counts toward CE requirement
 
@@ -237,15 +237,15 @@ Renewal through: Sircon at sircon.com/pennsylvania
 
 Renewal window: Typically 60 days before expiration through the renewal date.
 
-Renewal fee: $55 for a resident producer renewal (31 Pa. Code § 37a.3).
+Renewal fee: $55 for a resident producer renewal ([31 Pa. Code § 37a.3](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter37a/s37a.3.html)).
 
-If the license lapses: Under 40 P.S. § 310.8, a producer who lets a license lapse — by missing the renewal, not paying the fee, or not finishing CE — may request reinstatement from the Department within one year of the license renewal date. Reinstatement requires a completed renewal form, the $165 lapsed-license renewal fee, and verification that all CE for the previously licensed and lapsed periods has been completed.
+If the license lapses: Under [40 P.S. § 310.8](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/), a producer who lets a license lapse — by missing the renewal, not paying the fee, or not finishing CE — may request reinstatement from the Department within one year of the license renewal date. Reinstatement requires a completed renewal form, the [$165 lapsed-license renewal fee](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/), and verification that all CE for the previously licensed and lapsed periods has been completed.
 
 Within 60 days of the lapse: Reinstatement is retroactive to the lapse date, so there is no gap in your licensing history.
 
 61 days to 12 months after the lapse: You can still reinstate on the same terms, but the reinstatement takes effect going forward from the date it is granted rather than retroactively — meaning you were genuinely unlicensed for the gap and could not lawfully transact business during it.
 
-More than 12 months after the lapse: The reinstatement path closes. The statute is explicit: "If a person applies for reinstatement more than one year after the lapse date, the person shall reapply for the license under this act" — a full new application, including examination and fingerprinting.
+More than 12 months after the lapse: The reinstatement path closes. The statute is explicit: ["If a person applies for reinstatement more than one year after the lapse date, the person shall reapply for the license under this act"](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/) — a full new application, including examination and fingerprinting.
 
 ## What Happens If CE Is Incomplete
 
@@ -294,3 +294,10 @@ Allow 30+ days for reporting. Don't complete CE the day before renewal.
 Pennsylvania CE is manageable with a plan — including proper attention to the new Ethics and Flood Insurance requirements. At JustInsurance (Provider Approval #147815), our Pennsylvania CE courses are designed around Pennsylvania's specific requirements.
 
 Enroll in our Pennsylvania CE courses today and keep your license active with confidence.
+
+**Sources cited:**
+
+- [40 P.S. § 310.8 — continuing education, renewal, and reinstatement (Insurance Department Act)](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/)
+- [Pennsylvania Insurance Department — Continuing Education Requirements](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
+- [31 Pa. Code § 37a.3 — resident producer license renewal fee](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter37a/s37a.3.html)
+- [31 Pa. Code § 39a.9 — long-term care training requirements](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html)

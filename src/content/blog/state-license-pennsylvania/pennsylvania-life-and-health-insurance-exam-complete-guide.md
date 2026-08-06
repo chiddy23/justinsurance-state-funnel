@@ -16,7 +16,7 @@ imageAlt: >-
   pennsylvania life & health insurance exam: complete guide.
 ---
 
-The Pennsylvania Life and Health insurance exam is your gateway to a Pennsylvania insurance career — and walking in unprepared is one of the biggest mistakes new candidates make. Pennsylvania's exam covers substantial general insurance content plus distinctive Pennsylvania-specific topics including the state's regulatory structure, Pennsylvania-specific consumer protection requirements, and Pennsylvania's role as a major healthcare insurance market through Pennie (Pennsylvania's state-based health insurance exchange).
+The Pennsylvania Life and Health insurance exam is your gateway to a Pennsylvania insurance career — and walking in unprepared is one of the biggest mistakes new candidates make. Pennsylvania's exam covers substantial general insurance content plus distinctive Pennsylvania-specific topics including the state's regulatory structure, Pennsylvania-specific consumer protection requirements, and Pennsylvania's role as a major healthcare insurance market through [Pennie (Pennsylvania's state-based health insurance exchange)](https://pennie.com/about-pennie/).
 
 Here's the complete guide to the Pennsylvania Life and Health insurance exam.
 
@@ -34,7 +34,7 @@ Online Proctored Testing. Pennsylvania permits online proctored testing through 
 
 ## Pennsylvania Exam Structure
 
-Pennsylvania offers various exam types matched to license types. Passing score is 70% on every exam.
+Pennsylvania offers various exam types matched to license types. Passing score is [70% on every exam](https://test-takers.psiexams.com/pa/insurance).
 
 Single-line exams:
 
@@ -56,9 +56,9 @@ Common Pennsylvania Exam Codes:
 
 The specific exam codes and details are published in the PSI Pennsylvania Candidate Information Bulletin — review this before scheduling your exam.
 
-Exam fee: $45 for a single-line exam (16-01 Life, 16-02 Accident and Health) and $55 for the combined Life, Accident and Health exam (16-03), paid to PSI at registration. Exam fees are not refundable or transferable.
+Exam fee: [$45 for a single-line exam (16-01 Life, 16-02 Accident and Health) and $55 for the combined Life, Accident and Health exam (16-03)](https://test-takers.psiexams.com/pa/insurance), paid to PSI at registration. Exam fees are not refundable or transferable.
 
-Exam validity: Your passing score is valid for 12 months — you must apply for licensure within this window.
+Exam validity: Your passing score is [valid for 12 months](https://nipr.com/licensing-center/state-information/pennsylvania) — you must apply for licensure within this window.
 
 ## The Two-Section Format
 
@@ -96,7 +96,7 @@ The State Law section covers:
 
 Pennsylvania Insurance Code. Title 40 of Pennsylvania Statutes, including producer regulations, agent and broker provisions, and consumer protection rules.
 
-Pennsylvania Licensing Requirements. Residency, age, application requirements, lines of authority. Note that PLE was eliminated by Act 142 of 2024 effective April 29, 2025.
+Pennsylvania Licensing Requirements. Residency, age, application requirements, lines of authority. Note that [PLE was eliminated by Act 142 of 2024 effective April 29, 2025](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241).
 
 Producer Conduct Standards. Honest representation, fiduciary duty, disclosure requirements, documentation.
 
@@ -112,7 +112,7 @@ Pennsylvania CHIP. Children's Health Insurance Program.
 
 Pennsylvania Long-Term Care Requirements. Specific LTC training and policy requirements.
 
-Pennsylvania [Continuing Education](/pennsylvania/continuing-education). 24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines).
+Pennsylvania [Continuing Education](/pennsylvania/continuing-education). [24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements).
 
 Pennsylvania Insurance Department Authority. Powers and procedures of the Department.
 
@@ -165,3 +165,11 @@ If you fail: You receive a score report with a diagnostic breakdown of your stre
 Knowing what to expect removes half the stress. At JustInsurance, our Pennsylvania [exam-prep](/pennsylvania/prelicensing) course is built around the PSI Pennsylvania content outline — including the Pennsylvania-specific laws and recent regulatory updates. Since Act 142 took effect, Pennsylvania no longer approves prelicensing courses, so how tightly a course tracks that outline is the only real measure of it. (JustInsurance is also an approved Pennsylvania continuing education provider, #147815, for the CE you'll owe once you're licensed.)
 
 Enroll today and prepare for the Pennsylvania exam the right way.
+
+**Sources cited:**
+
+- [PSI Pennsylvania Insurance Candidate Information Bulletin (70% passing score, exam fees)](https://test-takers.psiexams.com/pa/insurance)
+- [NIPR — Pennsylvania state licensing information (12-month exam-score validity)](https://nipr.com/licensing-center/state-information/pennsylvania)
+- [PA General Assembly — Act 142 of 2024 / SB 1241 (elimination of pre-licensing education)](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [Pennsylvania Insurance Department — continuing education requirements (24 hours incl. ethics + flood)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
+- [Pennie — Pennsylvania's official state-based health insurance marketplace](https://pennie.com/about-pennie/)

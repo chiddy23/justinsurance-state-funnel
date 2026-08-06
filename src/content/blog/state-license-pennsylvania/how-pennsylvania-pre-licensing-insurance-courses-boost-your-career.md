@@ -28,7 +28,7 @@ When you invest in Pennsylvania pre-licensing insurance courses, you also demons
 
 ## Meet Pennsylvania requirements
 
-Before diving in, it’s essential to know the basic licensing requirements in Pennsylvania. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state’s prelicense education requirement, so the state now mandates specific exams for each insurance line and a background check process, while pre-licensing education itself is optional. By satisfying each required step properly, you’ll meet state standards and avoid unnecessary delays.
+Before diving in, it’s essential to know the basic licensing requirements in Pennsylvania. [Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state’s prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241), so the state now mandates specific exams for each insurance line and a background check process, while pre-licensing education itself is optional. By satisfying each required step properly, you’ll meet state standards and avoid unnecessary delays.
 
 Below is an overview of what you can expect:
 
@@ -61,3 +61,7 @@ With a passing score in hand, you can officially apply for your [Pennsylvania in
 As you step into your new role, lean on the lessons you learned in your pre-licensing studies. Down the road, our [Pennsylvania continuing education](/pennsylvania/continuing-education) courses will keep your license active through each renewal cycle. The more you understand the details of each policy, the better equipped you’ll be to build client trust and stand out in the field. So, keep refining your skills and commit to ongoing professional development. Remember that you can always return to your course materials or reach out to your training provider for guidance.
 
 At this point, you’re on your way to a fulfilling career in insurance. All it takes is the right mindset, a willingness to learn, and the determination to make your mark in Pennsylvania’s diverse insurance market. If you’re ready to start or continue your journey, consider enrolling in a reputable course provider, such as JustInsurance. You’ll have the support you need to pass your exams and gain a competitive edge while serving Pennsylvania’s insurance needs. Now is the time to take action—your future clients are waiting!
+
+**Sources cited:**
+
+- [Pennsylvania Act 142 of 2024 (SB 1241) — eliminated prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)

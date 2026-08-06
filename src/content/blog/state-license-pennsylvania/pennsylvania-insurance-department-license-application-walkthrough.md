@@ -120,7 +120,7 @@ Valid identification matching your application name exactly
 
 Documentation for any disclosure answers
 
-Prepared to pay application fees ($55 resident or $110 non-resident per line)
+Prepared to pay [application fees ($55 resident or $110 non-resident per line)](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)
 
 Decided on your application path
 
@@ -210,7 +210,7 @@ Your documentation. For disclosure items, supporting materials are evaluated.
 
 ## Processing Times
 
-Online applications (Sircon, NIPR, or testing center kiosk) typically process within 2-5 business days.
+Online applications (Sircon, NIPR, or testing center kiosk) [typically process within 2-5 business days](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html).
 
 Applications with disclosures typically take longer depending on complexity.
 
@@ -226,7 +226,7 @@ Incomplete disclosure answers. Answering "no" when "yes" is the honest answer cr
 
 Missing documentation. "Yes" disclosure answers typically require supporting documents.
 
-Wrong IdentoGO Service Code. Using incorrect fingerprint Service Code (must use 1KGBGJ for Pennsylvania) invalidates fingerprints.
+Wrong IdentoGO Service Code. Using incorrect fingerprint Service Code ([must use 1KGBGJ for Pennsylvania](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)) invalidates fingerprints.
 
 Submitting fingerprints before applying. Fingerprint results received without a corresponding license application will not be accepted.
 
@@ -299,3 +299,7 @@ Other changes. Various procedures depending on change type.
 Understanding the Pennsylvania Insurance Department application process helps you submit correctly and avoid delays. At JustInsurance, our Pennsylvania exam prep course prepares you for the state exam and helps you understand the full licensing path.
 
 Enroll today and move through Pennsylvania licensing with confidence.
+
+**Sources cited:**
+
+- [Pennsylvania Insurance Department — initial insurance producer licensing process (fees, IdentoGO code 1KGBGJ, processing time)](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)

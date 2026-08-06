@@ -20,7 +20,7 @@ Natural light can make a cramped home feel welcoming. In the same way, having a 
 
 ## Understand the state requirements
 
-Before you dive into studying, it helps to confirm you meet the basic requirements set by the state for a Pennsylvania life insurance license. You must be at least 18 years old and maintain a legal residence in Pennsylvania. Note that Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the [pre-licensing](/pennsylvania/prelicensing) education requirement, so completing a course is optional — though most candidates still take one to prepare for the exam. Background checks are also part of the process, so it is good to be aware that a past conviction could affect your eligibility. However, if you have concerns, you can contact the [Pennsylvania Insurance Department](/pennsylvania/requirements) to learn about specific guidelines.
+Before you dive into studying, it helps to confirm you meet the basic requirements set by the state for a Pennsylvania life insurance license. You must be at least 18 years old and maintain a legal residence in Pennsylvania. Note that [Pennsylvania Act 142 of 2024 (effective April 29, 2025)](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) eliminated the [pre-licensing](/pennsylvania/prelicensing) education requirement, so completing a course is optional — though most candidates still take one to prepare for the exam. Background checks are also part of the process, so it is good to be aware that a past conviction could affect your eligibility. However, if you have concerns, you can contact the [Pennsylvania Insurance Department](/pennsylvania/requirements) to learn about specific guidelines.
 
 Most people who apply already have a strong desire to help others navigate important financial decisions, so consider this a chance to confirm your dedication and readiness for the responsibilities ahead. Once you are sure you meet the basic qualifications, you can move forward with confidence.
 
@@ -67,3 +67,7 @@ You will also need to stay current through [Pennsylvania continuing education](/
 ## Your call to action
 
 Now that you have a clear roadmap, it is time to take the first step — whether that means signing up for an optional pre-licensing course or scheduling your exam. Share this article with a friend who is also considering an insurance career, and keep each other motivated. If you want a structured way to prepare, the self-paced JustInsurance [Pennsylvania life prelicensing](/pennsylvania/prelicensing) course includes video lessons, reading modules, chapter quizzes, and full-length practice exams, so you can find your weak spots before exam day instead of during it. Together, you can create the kind of future that not only benefits you but offers real security and peace of mind for the families you will serve.
+
+**Sources cited:**
+
+- [Pennsylvania Act 142 of 2024 (SB 1241) — eliminated pre-licensing education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)

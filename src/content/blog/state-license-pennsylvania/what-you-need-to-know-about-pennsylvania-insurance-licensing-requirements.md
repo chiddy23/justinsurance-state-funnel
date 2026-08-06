@@ -30,7 +30,7 @@ If you already meet these foundational requirements, you are off to a great star
 
 ## Complete the pre-licensing courses (optional but recommended)
 
-Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state's prelicense education requirement, so completing a [pre-licensing](/pennsylvania/prelicensing) course for the specific line or lines of insurance you intend to sell is now optional rather than mandatory. Even so, a course that covers core insurance principles, state regulations, and ethical considerations can help you feel more confident going into the exam.
+[Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state's prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241), so completing a [pre-licensing](/pennsylvania/prelicensing) course for the specific line or lines of insurance you intend to sell is now optional rather than mandatory. Even so, a course that covers core insurance principles, state regulations, and ethical considerations can help you feel more confident going into the exam.
 
 Pre-licensing courses are offered through various providers, both in-person and online. Pennsylvania does not approve or endorse prelicensing courses, so look for one built around the current PSI Pennsylvania content outline. You should choose a format that works best with your schedule and learning style. Most of these courses offer practice quizzes, real-world examples, and other resources that can make the material more engaging and easier to absorb.
 
@@ -84,7 +84,7 @@ Keep in mind these figures can change over time, so always confirm current detai
 
 Once you're ready — whether or not you took a pre-licensing course — your next step is to register for the official Pennsylvania licensing exam. You will typically schedule your test through an authorized exam provider, either by phone or online. To pick a day and time that works for you, make sure to plan ahead, because some testing centers have limited slots—especially during busy seasons.
 
-Each exam contains both general insurance topics and Pennsylvania-specific regulations. You will answer multiple-choice questions on policy types, policy provisions, and ethical considerations. PSI charges $45 for a single-line exam and $55 for a combined Life, Accident & Health (16-03) or Property & Casualty (16-06) exam, and those fees are neither refundable nor transferable — check the current PSI Pennsylvania candidate information bulletin to confirm your exact amount before you pay. On exam day, try to arrive early so you have a moment to relax and gather your thoughts before diving into the test.
+Each exam contains both general insurance topics and Pennsylvania-specific regulations. You will answer multiple-choice questions on policy types, policy provisions, and ethical considerations. [PSI charges $45 for a single-line exam and $55 for a combined Life, Accident & Health (16-03) or Property & Casualty (16-06) exam, and those fees are neither refundable nor transferable](https://test-takers.psiexams.com/pa/insurance) — check the current PSI Pennsylvania candidate information bulletin to confirm your exact amount before you pay. On exam day, try to arrive early so you have a moment to relax and gather your thoughts before diving into the test.
 
 If you find yourself feeling anxious, remember that a pre-licensing course (if you took one) should cover most of what you will encounter on the exam. Take plenty of practice tests, review your notes for areas you find challenging, and approach any tough questions by eliminating obviously incorrect answers first. Often, the more prepared you are, the calmer you will feel when the test begins.
 
@@ -109,3 +109,8 @@ Be mindful of your renewal due dates. You do not want to let your license expire
 With your new or upcoming license, you can consider joining an insurance agency, becoming an independent agent, or even expanding your career into multiple lines of authority. It is a good idea to keep networking, attending local workshops, and staying on top of insurance news to further build your expertise. The more you know, the better you will be able to serve your clients and stand out in a competitive field.
 
 If you ever feel stuck along the way, JustInsurance can help you figure out the best approach for your unique situation. Whether you need guidance on [pre-licensing requirements](/pennsylvania/prelicensing), exam prep, or job placement, expert advice can save you a lot of time and hassle. Take a moment to chart out your goals, outline any educational steps you still need, and then put your plan into action so you can start making a difference in the lives of those who need your support.
+
+**Sources cited:**
+
+- [Pennsylvania Act 142 of 2024 (SB 1241) — eliminated pre-licensing education, PA General Assembly](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI Pennsylvania insurance exam — candidate bulletin & fees](https://test-takers.psiexams.com/pa/insurance)

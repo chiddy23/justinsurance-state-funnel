@@ -16,7 +16,7 @@ imageAlt: >-
   pennsylvania-approved ce providers.
 ---
 
-Choosing a Pennsylvania PID-approved CE provider is essential — coursework completed through unapproved providers cannot be applied to your Pennsylvania CE requirement. With Pennsylvania's increased CE topic requirements (3-hour Ethics and 2-hour Flood Insurance effective April 29, 2025) and substantial total hour requirement (24 hours), finding quality approved providers requires knowing what to look for and where to verify approval.
+Choosing a Pennsylvania PID-approved CE provider is essential — coursework completed through unapproved providers cannot be applied to your Pennsylvania CE requirement. With Pennsylvania's increased CE topic requirements ([3-hour Ethics and 2-hour Flood Insurance](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/) effective April 29, 2025) and substantial [total hour requirement (24 hours)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements), finding quality approved providers requires knowing what to look for and where to verify approval.
 
 Here's how to find PID-approved CE providers in Pennsylvania.
 
@@ -82,7 +82,7 @@ Ethics (3-hour requirement)
 
 Flood Insurance (2-hour requirement for P&C/Personal Lines)
 
-LTC training (8-hour initial or 4-hour ongoing)
+[LTC training (8-hour initial or 4-hour ongoing)](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html)
 
 Annuity Best Interest (4-hour one-time)
 
@@ -319,3 +319,9 @@ Check transcript periodically (every 2-3 months) to catch reporting problems whi
 The right CE provider makes meeting requirements straightforward and educational. At JustInsurance (Provider Approval #147815), our Pennsylvania CE courses are PID-approved with reliable reporting and quality content covering Pennsylvania-specific topics including the new Ethics and Flood Insurance requirements.
 
 Enroll in our Pennsylvania CE courses today and meet your requirements with confidence.
+
+**Sources cited:**
+
+- [40 P.S. § 310.8 — 24-hour CE with 3-hour ethics and 2-hour flood topics](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/)
+- [Pennsylvania Insurance Department — Continuing Education Requirements](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
+- [31 Pa. Code § 39a.9 — long-term care training requirements](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html)

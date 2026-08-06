@@ -22,7 +22,7 @@ Here's what Pennsylvania producers need to know about Pennie and producer involv
 
 ## What Pennie Is
 
-Pennie is Pennsylvania's official state-based health insurance marketplace, operated by the Pennsylvania Health Insurance Exchange Authority (PHIEA), established under state law. Pennie:
+Pennie is [Pennsylvania's official state-based health insurance marketplace](https://pennie.com/), operated by the Pennsylvania Health Insurance Exchange Authority (PHIEA), established under state law. Pennie:
 
 Operates Pennsylvania's individual and small group health insurance marketplace
 
@@ -324,6 +324,11 @@ Direct clients to the Pennsylvania Insurance Department Consumer Services Bureau
 
 ## Build Your Pennsylvania Health Insurance Practice
 
-Pennsylvania's distinctive Pennie marketplace creates real opportunity for properly certified producers — particularly given the increased complexity following EPTC expiration. JustInsurance is an approved Pennsylvania continuing education provider (#147815). Our Pennsylvania CE courses carry that approval; our [exam-prep course](/pennsylvania/prelicensing) is built to the PSI exam content outline, since Pennsylvania no longer requires prelicensing education. Both provide foundational knowledge for health insurance practice.
+Pennsylvania's distinctive Pennie marketplace creates real opportunity for properly certified producers — particularly given the increased complexity following EPTC expiration. JustInsurance is an approved Pennsylvania continuing education provider (#147815). Our Pennsylvania CE courses carry that approval; our [exam-prep course](/pennsylvania/prelicensing) is built to the PSI exam content outline, since [Pennsylvania no longer requires prelicensing education](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241). Both provide foundational knowledge for health insurance practice.
 
 Enroll today and build your Pennsylvania health insurance career on solid ground.
+
+**Sources cited:**
+
+- [Pennie — Pennsylvania's official state-based health insurance marketplace](https://pennie.com/)
+- [PA General Assembly — SB 1241 (Act 142 of 2024), elimination of prelicensing-education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)

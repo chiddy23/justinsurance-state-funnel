@@ -61,7 +61,7 @@ One question at a time. PSI displays one question on screen at a time.
 
 Pennsylvania exam specifications fall into two categories, and the dividing line is single-line vs. combined — not life/health vs. property/casualty:
 
-Single-Line Exams (100 questions, 120 minutes, $45 per attempt):
+Single-Line Exams (100 questions, 120 minutes, [$45 per attempt](https://test-takers.psiexams.com/pa/insurance)):
 
 Producer's Life Insurance (16-01)
 
@@ -73,7 +73,7 @@ Producer's Casualty Insurance (16-05)
 
 Personal Lines Property and Casualty Insurance (16-16)
 
-Combined Exams (150 questions, 170 minutes / 2 hours 50 minutes, $55 per attempt):
+Combined Exams (150 questions, 170 minutes / 2 hours 50 minutes, [$55 per attempt](https://test-takers.psiexams.com/pa/insurance)):
 
 Producer's Life, Accident and Health Insurance (16-03)
 
@@ -285,14 +285,14 @@ Format. Computer-based multiple choice consistent with most state exams.
 
 State-specific weighting. PSI's Insurance Regulation section — the Pennsylvania statutory and licensing material — carries 20-21% of the combined exams.
 
-No retake limit. Pennsylvania allows unlimited retakes (though each costs another fee).
+No retake limit. Pennsylvania [allows unlimited retakes](https://test-takers.psiexams.com/pa/insurance) (though each costs another fee).
 
 ## 5 Frequently Asked Questions
 
 - How many questions are on Pennsylvania single-line exams? 100 questions in 120 minutes on each single-line exam — Life (16-01), Accident and Health (16-02), Property (16-04), Casualty (16-05), and Personal Lines (16-16). Both combined exams are larger: the combined Property and Casualty exam (16-06) and the combined Life, Accident and Health exam (16-03) each have 150 questions.
 - How long are the combined exams? 2 hours 50 minutes (170 minutes) for 150 questions — the same for the combined Property and Casualty exam (16-06) and the combined Life, Accident and Health exam (16-03).
 - Can I use a calculator on the Pennsylvania exam? Yes. An on-screen calculator with basic functionality is provided.
-- What's the passing score on Pennsylvania insurance exams? 70% across all Pennsylvania insurance license exams.
+- What's the passing score on Pennsylvania insurance exams? [70% across all Pennsylvania insurance license exams](https://test-takers.psiexams.com/pa/insurance).
 - Is online testing available for Pennsylvania insurance exams? Yes. PSI offers online proctored testing for many Pennsylvania insurance exams. Verify current options through PSI for your specific exam.
 
 ## Master Pennsylvania's Exam Format
@@ -300,3 +300,7 @@ No retake limit. Pennsylvania allows unlimited retakes (though each costs anothe
 Format knowledge supports strategic preparation. At JustInsurance, our Pennsylvania [prelicense](/pennsylvania/prelicensing) course is structured around the actual Pennsylvania exam format — practice exams that mirror real conditions help you walk into test day confident.
 
 Enroll today and prepare for Pennsylvania's exam format the right way.
+
+**Sources cited:**
+
+- [PSI Pennsylvania Insurance Candidate Information Bulletin (exam fees, 70% passing score, unlimited retakes)](https://test-takers.psiexams.com/pa/insurance)

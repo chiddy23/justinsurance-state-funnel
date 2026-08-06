@@ -16,7 +16,7 @@ imageAlt: >-
   for the pennsylvania insurance license exam.
 ---
 
-A clear study plan is the difference between passing the Pennsylvania insurance exam on your first attempt and joining the ranks of repeat test-takers. Pennsylvania's recent elimination of [prelicense](/pennsylvania/prelicensing) education requirements (effective April 29, 2025) gives you flexibility in how you prepare — but doesn't reduce the actual content you need to master. Building a structured study plan adapted to your specific situation maximizes first-attempt pass confidence.
+A clear study plan is the difference between passing the Pennsylvania insurance exam on your first attempt and joining the ranks of repeat test-takers. Pennsylvania's recent elimination of [prelicense](/pennsylvania/prelicensing) [education requirements (effective April 29, 2025)](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) gives you flexibility in how you prepare — but doesn't reduce the actual content you need to master. Building a structured study plan adapted to your specific situation maximizes first-attempt pass confidence.
 
 Here's a comprehensive study plan for the Pennsylvania insurance license exam.
 
@@ -272,7 +272,7 @@ Don't leave Pennsylvania content for the final week. Integrate throughout your s
 
 Key Pennsylvania topics requiring dedicated study:
 
-Pennie (state-based exchange)
+[Pennie (state-based exchange)](https://pennie.com/)
 
 Pennsylvania Insurance Code (Title 40)
 
@@ -282,7 +282,7 @@ Replacement rules
 
 Unfair trade practices
 
-CE requirements (24 hours, ethics, flood)
+[CE requirements (24 hours, ethics, flood)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
 
 Pennsylvania producer regulations
 
@@ -422,7 +422,7 @@ When NOT to schedule:
 
 ❌ Practice scores below 75% ❌ Significant weak content areas ❌ Insufficient Pennsylvania content preparation ❌ Limited practice exam experience
 
-Don't schedule before you're ready. Each retake means paying the PSI exam fee again — $45 for a single-line exam (Life, Health, Property, or Casualty) or $55 for a combined Life and Health or Property and Casualty exam.
+Don't schedule before you're ready. Each retake means paying the PSI exam fee again — [$45 for a single-line exam (Life, Health, Property, or Casualty) or $55 for a combined Life and Health or Property and Casualty exam](https://test-takers.psiexams.com/pa/insurance).
 
 ## Final Week Strategy
 
@@ -499,3 +499,10 @@ Reschedule your exam if needed. Better to delay than to fail.
 A structured plan transforms exam preparation from overwhelming to manageable. At JustInsurance, our Pennsylvania exam-prep course is structured to support an effective study plan — providing the foundation, practice questions, and Pennsylvania-specific content you need for first-attempt success.
 
 Enroll today and prepare for the Pennsylvania insurance exam with a plan.
+
+**Sources cited:**
+
+- [Pennsylvania Act 142 of 2024 (SB 1241) — eliminated prelicense education](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI Pennsylvania Insurance Candidate Bulletin — exam fees](https://test-takers.psiexams.com/pa/insurance)
+- [Pennsylvania Insurance Department — continuing education requirements](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
+- [Pennie — Pennsylvania's official health insurance marketplace](https://pennie.com/)

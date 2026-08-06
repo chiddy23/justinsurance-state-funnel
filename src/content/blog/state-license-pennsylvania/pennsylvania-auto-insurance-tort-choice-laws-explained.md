@@ -29,7 +29,7 @@ Key distinctive features:
 
 Drivers MUST choose between Limited Tort and Full Tort options when purchasing auto insurance
 
-Choice is governed by 75 Pa. C.S. §1705
+Choice is governed by [75 Pa. C.S. §1705](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/)
 
 Default if no choice made: Full Tort
 
@@ -145,7 +145,7 @@ At renewal:
 
 Insurers MUST notify each insured of the availability of both options
 
-Notice required at least 45 days prior to first renewal
+Notice required [at least 45 days prior to first renewal](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/)
 
 Standardized form adopted by the Commissioner
 
@@ -155,11 +155,11 @@ A second notice is sent
 
 If no response 10 days prior to renewal date
 
-Insured is conclusively presumed to have chosen Full Tort
+Insured is [conclusively presumed to have chosen Full Tort](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/)
 
 Multiple insureds:
 
-Any named insured may make the election for all insureds on the policy
+[Any named insured may make the election for all insureds on the policy](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/)
 
 Choice binds all named insureds
 
@@ -304,3 +304,7 @@ For producers building general practice, auto insurance often serves as the foun
 Pennsylvania auto insurance offers steady opportunity for producers who develop genuine expertise in the state's distinctive Tort Choice system. At JustInsurance (Provider Approval #147815), our Pennsylvania [property and casualty continuing education](/pennsylvania/continuing-education) helps licensed producers stay current on auto insurance principles and Pennsylvania-specific requirements.
 
 Enroll today and sharpen the auto insurance expertise your Pennsylvania clients rely on.
+
+**Sources cited:**
+
+- [75 Pa.C.S. § 1705 — tort option election, full-tort default, renewal notice and binding effect on all insureds (FindLaw)](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/)

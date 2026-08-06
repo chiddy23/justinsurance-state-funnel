@@ -17,7 +17,7 @@ imageAlt: >-
   pennsylvania insurance code: core laws for licensed producer.
 ---
 
-Passing the state exam gets you licensed. Staying compliant as a working Pennsylvania producer is a separate challenge — and the Pennsylvania Insurance Code (Title 40 of the Pennsylvania Statutes) is the master rulebook you need to navigate. Pennsylvania has a sophisticated regulatory environment that has evolved significantly in recent years, including the elimination of [prelicense](/pennsylvania/prelicensing) education requirements (Act 142 of 2024) and new mandatory CE topic requirements (effective April 29, 2025).
+Passing the state exam gets you licensed. Staying compliant as a working Pennsylvania producer is a separate challenge — and the Pennsylvania Insurance Code (Title 40 of the Pennsylvania Statutes) is the master rulebook you need to navigate. Pennsylvania has a sophisticated regulatory environment that has evolved significantly in recent years, including the elimination of [prelicense](/pennsylvania/prelicensing) education requirements ([Act 142 of 2024](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)) and new mandatory CE topic requirements (effective April 29, 2025).
 
 Here are the most important areas of Pennsylvania insurance law every producer needs to understand.
 
@@ -39,7 +39,7 @@ Key sections include:
 
 40 Pa. Stat. §310.8 — [continuing education](/pennsylvania/continuing-education) requirements
 
-75 Pa. C.S. §1705 — auto insurance Tort Choice (Limited vs. Full Tort)
+[75 Pa. C.S. §1705](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/) — auto insurance Tort Choice (Limited vs. Full Tort)
 
 Section 403.1-B of Act 48 — Annuity Best Interest training requirements
 
@@ -53,7 +53,7 @@ The Code covers everything from licensing and producer duties to policy forms, c
 
 Producer Licensing Provisions. Foundation provisions covering producer qualifications, licensing requirements, examinations, and standards of conduct.
 
-40 Pa. Stat. §310.8 — Continuing Education. Establishes the 24-hour CE requirement (with 3 hours Ethics for all and 2 hours Flood for P&C/Personal Lines effective April 29, 2025).
+40 Pa. Stat. §310.8 — Continuing Education. Establishes the [24-hour CE requirement (with 3 hours Ethics for all and 2 hours Flood for P&C/Personal Lines effective April 29, 2025)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements).
 
 75 Pa. C.S. §1705 — Auto Tort Choice. Pennsylvania's distinctive Limited Tort vs. Full Tort election system for auto insurance.
 
@@ -61,21 +61,21 @@ Unfair Methods of Competition and Unfair Practices. Pennsylvania prohibits speci
 
 Replacement of Life Insurance and Annuities. Specific rules govern the replacement of existing life insurance and annuity contracts.
 
-Annuity Best Interest Standards (Section 403.1-B of Act 48). Pennsylvania adopted enhanced Annuity Best Interest standards aligned with NAIC 2020 Annuity Model Law. Producers licensed on or after June 20, 2022 must complete a 4-hour Annuity Best Interest course.
+Annuity Best Interest Standards (Section 403.1-B of Act 48). Pennsylvania adopted enhanced Annuity Best Interest standards aligned with NAIC 2020 Annuity Model Law. [Producers licensed on or after June 20, 2022 must complete a 4-hour Annuity Best Interest course](https://www.pa.gov/agencies/insurance/laws-regulations-notices/act-99-2001-pa-annuity-best-interest-standard).
 
 Unfair Claims Settlement Practices. Rules governing how claims must be handled by insurers and adjusters.
 
 Free-Look Periods. Pennsylvania requires free-look periods on life insurance and annuity contracts.
 
-Long-Term Care Insurance Standards. Specific rules for LTC sales, including the 8-hour initial and 4-hour ongoing training requirements with LTC Partnership-specific provisions.
+Long-Term Care Insurance Standards. Specific rules for LTC sales, including the [8-hour initial and 4-hour ongoing training requirements](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html) with LTC Partnership-specific provisions.
 
 Privacy and Information Protection. How you collect, store, and share client information is regulated under Pennsylvania law and federal frameworks like HIPAA and GLBA.
 
-Pennie. Pennsylvania's state-based health insurance exchange (established 2020).
+[Pennie](https://pennie.com/). Pennsylvania's state-based health insurance exchange (established 2020).
 
 ## Recent Major Changes
 
-Act 142 of 2024 (Effective April 29, 2025). Eliminated the prelicense education (PLE) requirement for Pennsylvania insurance producer licensure. Pennsylvania now joins a small group of states without mandatory PLE.
+[Act 142 of 2024](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) (Effective April 29, 2025). Eliminated the prelicense education (PLE) requirement for Pennsylvania insurance producer licensure. Pennsylvania now joins a small group of states without mandatory PLE.
 
 New CE Topic Requirements (Effective April 29, 2025). Pennsylvania introduced new mandatory CE topic requirements:
 
@@ -208,3 +208,12 @@ Quality CE includes anti-fraud content and reporting procedures.
 The Pennsylvania Insurance Code is extensive but navigable once you know the sections that apply to your work. At JustInsurance (Provider Approval #147815), our Pennsylvania CE courses cover the Code in practical, plain language — including recent regulatory changes affecting daily practice.
 
 Enroll today and strengthen your Pennsylvania insurance compliance knowledge.
+
+**Sources cited:**
+
+- [PA General Assembly — SB 1241 (Act 142 of 2024), prelicensing-education elimination](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [Pennsylvania Insurance Department — Continuing education requirements (24 hours, 3 ethics, 2 flood)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
+- [75 Pa.C.S. § 1705 — auto insurance tort option election (FindLaw)](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/)
+- [Pennsylvania Insurance Department — Act 99 of 2021 annuity best-interest training standard](https://www.pa.gov/agencies/insurance/laws-regulations-notices/act-99-2001-pa-annuity-best-interest-standard)
+- [31 Pa. Code § 39a.9 — long-term care producer training](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html)
+- [Pennie — Pennsylvania's official health insurance marketplace](https://pennie.com/)

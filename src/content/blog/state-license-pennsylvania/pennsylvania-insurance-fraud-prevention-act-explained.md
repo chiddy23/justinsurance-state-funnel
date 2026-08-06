@@ -60,7 +60,7 @@ Pennsylvania Insurance Department Enforcement. PID has authority to investigate 
 
 Pennsylvania Attorney General's Office. Prosecutes major insurance fraud cases.
 
-Insurance Fraud Prevention Act (40 P.S. §§ 325.1–325.62, Act 166 of 1994) and the criminal insurance-fraud statute (18 Pa.C.S. § 4117). The Act created the Insurance Fraud Prevention Authority referenced above, while 18 Pa.C.S. § 4117 defines the criminal fraud offense and its penalties — together forming Pennsylvania's insurance-fraud framework.
+Insurance Fraud Prevention Act ([40 P.S. §§ 325.1–325.62](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-325-2.html), Act 166 of 1994) and the criminal insurance-fraud statute ([18 Pa.C.S. § 4117](https://codes.findlaw.com/pa/title-18-pacsa-crimes-and-offenses/pa-csa-sect-18-4117/)). The Act created the Insurance Fraud Prevention Authority referenced above, while 18 Pa.C.S. § 4117 defines the criminal fraud offense and its penalties — together forming Pennsylvania's insurance-fraud framework.
 
 Federal Coordination. Many fraud cases involve federal law as well, particularly involving interstate insurance activities, mail fraud, and wire fraud.
 
@@ -178,9 +178,9 @@ Pennsylvania producers have specific anti-fraud obligations:
 
 Accurate Application Information. Producers must take reasonable steps to ensure information on applications is accurate. This means asking questions clearly, recording answers accurately, and not encouraging or facilitating misrepresentation.
 
-Reporting Suspected Fraud. Be precise about what the law actually requires here, because this is widely misstated. Pennsylvania does not impose a general statutory duty on individual producers to report suspected fraud. What it does is protect you when you choose to: 18 Pa.C.S. § 4117(f) gives an insurer "and any agent, servant or employee thereof acting in the course and scope of his employment" immunity from civil and criminal liability for supplying fraud information in good faith. Your carrier appointment agreement is a separate question — many impose contractual reporting requirements that go well beyond state law, so read yours.
+Reporting Suspected Fraud. Be precise about what the law actually requires here, because this is widely misstated. Pennsylvania does not impose a general statutory duty on individual producers to report suspected fraud. What it does is protect you when you choose to: [18 Pa.C.S. § 4117(f)](https://codes.findlaw.com/pa/title-18-pacsa-crimes-and-offenses/pa-csa-sect-18-4117/) gives an insurer "and any agent, servant or employee thereof acting in the course and scope of his employment" immunity from civil and criminal liability for supplying fraud information in good faith. Your carrier appointment agreement is a separate question — many impose contractual reporting requirements that go well beyond state law, so read yours.
 
-Cooperation with Investigations. This one is mandatory, and it is the obligation producers most often overlook. Under 40 P.S. § 325.44, "every insurer, every employee of an insurer and every licensed agent or broker shall cooperate fully with" the Section of Insurance Fraud in the Office of Attorney General. When the PID, the Attorney General's fraud section, or a carrier investigates potential fraud, cooperation is a legal duty, not a courtesy.
+Cooperation with Investigations. This one is mandatory, and it is the obligation producers most often overlook. Under [40 P.S. § 325.44](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-325-44.html), "every insurer, every employee of an insurer and every licensed agent or broker shall cooperate fully with" the Section of Insurance Fraud in the Office of Attorney General. When the PID, the Attorney General's fraud section, or a carrier investigates potential fraud, cooperation is a legal duty, not a courtesy.
 
 Avoiding Inducements to Fraud. Producers cannot encourage clients to misrepresent information, file false claims, or otherwise participate in fraudulent activities.
 
@@ -379,3 +379,9 @@ Quality CE includes anti-fraud content addressing emerging fraud patterns.
 Insurance fraud affects every honest producer's practice — and recognizing fraud patterns protects both your clients and your career. At JustInsurance (Provider Approval #147815), our Pennsylvania CE courses cover anti-fraud topics in practical depth.
 
 Enroll today and strengthen your Pennsylvania insurance compliance foundation.
+
+**Sources cited:**
+
+- [18 Pa.C.S. § 4117 — insurance fraud offense and § 4117(f) good-faith immunity (FindLaw)](https://codes.findlaw.com/pa/title-18-pacsa-crimes-and-offenses/pa-csa-sect-18-4117/)
+- [40 P.S. § 325.44 — duty of insurers, agents and brokers to cooperate with the Section of Insurance Fraud (FindLaw)](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-325-44.html)
+- [Insurance Fraud Prevention Act, 40 P.S. §§ 325.1–325.62 — Insurance Fraud Prevention Authority (FindLaw)](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-325-2.html)

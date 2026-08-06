@@ -28,7 +28,7 @@ Beyond personal satisfaction, holding a Pennsylvania insurance license can also 
 
 Before pursuing your license, it helps to know exactly what you need to achieve. Pennsylvania's Department of Insurance outlines specific prerequisites depending on the lines of authority you intend to offer — for instance, life insurance versus property and casualty. One of your earliest steps is confirming you meet the minimum age requirement, which is typically 18. You'll also need a clean legal record, as any serious violations can raise red flags when you submit your application.
 
-Note that Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state's prelicense education requirement, so you no longer need to complete [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) hours before your exam. Many candidates still choose to take a course, since it covers state regulations, ethics, and specific coverage details that show up on the exam. You should confirm current rules through official state resources because they can shift periodically.
+Note that [Pennsylvania Act 142 of 2024 (effective April 29, 2025)](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) eliminated the state's prelicense education requirement, so you no longer need to complete [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) hours before your exam. Many candidates still choose to take a course, since it covers state regulations, ethics, and specific coverage details that show up on the exam. You should confirm current rules through official state resources because they can shift periodically.
 
 ## Complete pre-licensing courses (optional but recommended)
 
@@ -51,7 +51,7 @@ With a passing score in hand, you're positioned to apply for your license throug
 
 ## Plan your budget
 
-Earning your Pennsylvania insurance license does require an investment, so it's wise to plan for course fees, exam registration costs, and application charges. If you choose to take a pre-licensing course, you might spend a couple hundred dollars on it. Pennsylvania's PSI exam fee is $45 per attempt for a single-line exam (Life, Accident & Health, Property, or Casualty) and $55 for a combined Life/Accident & Health or Property & Casualty exam. Application processing may also involve a separate fee.
+Earning your Pennsylvania insurance license does require an investment, so it's wise to plan for course fees, exam registration costs, and application charges. If you choose to take a pre-licensing course, you might spend a couple hundred dollars on it. Pennsylvania's [PSI exam fee is $45 per attempt for a single-line exam (Life, Accident & Health, Property, or Casualty) and $55 for a combined Life/Accident & Health or Property & Casualty exam](https://test-takers.psiexams.com/pa/insurance). Application processing may also involve a separate fee.
 
 If cost is a concern, you can often find discounted online courses or bundle options that reduce the total expense. Some employers will even reimburse you if you secure a position where licensure is essential. Planning ahead ensures there are few surprises along the way and can help you avoid rushing less-preferred choices simply because they're cheaper. Look for reputable providers offering the support and materials you need for a successful exam experience.
 
@@ -68,3 +68,8 @@ Once your application is approved, you're ready to operate as a licensed insuran
 If you're looking for additional support, consider scheduling a conversation with JustInsurance. They can help you select courses, set you up for exam success, and walk you through each license renewal period. By taking these steps, you can build a meaningful career rooted in protecting individuals and businesses in your community. That sense of fulfillment is a big reason so many people find their niche in the insurance field.
 
 Wherever you find yourself in this journey — whether you're researching pre-licensing courses or ready to buy study materials — staying organized and motivated is key. Earning your Pennsylvania insurance license is absolutely within reach. As you move forward, remind yourself that your efforts now create the foundation for a credible, rewarding profession. It's one that empowers you to make a genuine impact on the people who depend on you for guidance and protection.
+
+**Sources cited:**
+
+- [Pennsylvania General Assembly — Act 142 of 2024 (SB 1241): eliminated prelicensing education](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI — Pennsylvania insurance exam fees and scheduling](https://test-takers.psiexams.com/pa/insurance)

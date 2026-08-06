@@ -22,7 +22,7 @@ Before you submit your next [Pennsylvania insurance license](/pennsylvania) rene
 
 ## Know the renewal basics
 
-Learning the fundamentals of Pennsylvania insurance license renewal sets you up for success from day one. Your initial license is just the start of your career. Pennsylvania generally reviews insurance licenses every two years. During each renewal cycle, you have to ensure that all requirements are met so your license remains active.
+Learning the fundamentals of Pennsylvania insurance license renewal sets you up for success from day one. Your initial license is just the start of your career. Pennsylvania generally [reviews insurance licenses every two years](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/). During each renewal cycle, you have to ensure that all requirements are met so your license remains active.
 
 The renewal process typically includes completing the mandatory continuing education hours, paying the renewal fee, and confirming that your contact information on file is correct. You do not want to discover any missing paperwork when you are days away from your renewal deadline. Starting early gives you enough time to fix any potential issues that might arise.
 
@@ -70,3 +70,7 @@ Working through your first Pennsylvania insurance license renewal might feel dau
 If you are brand new to the licensing process or just looking for extra guidance, consider exploring resources that can walk you through each stage in detail. At JustInsurance, we strive to simplify the process so you can focus on actually growing your insurance career. Whether you need exam prep, CE course recommendations, or tips on how to file everything smoothly, we are here to help.
 
 Take your next step with confidence. Avoid the common licensing mistakes above, stay organized, and remember that every renewal is a chance to refresh your knowledge and reinforce your expertise. By treating continuous learning as an integral part of your profession, you create stronger client relationships and build a solid reputation in Pennsylvania's insurance market.
+
+**Sources cited:**
+
+- [40 P.S. § 310.8 — biennial license renewal and continuing education](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/)

@@ -144,7 +144,7 @@ Pennsylvania has specific LTC training and policy requirements:
 
 Pennsylvania LTC training framework:
 
-Initial 8-hour state-approved LTC Training course (one-time)
+[Initial 8-hour state-approved LTC Training course (one-time)](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html&d=reduce)
 
 4-hour ongoing LTC Training every 24 months
 
@@ -332,7 +332,7 @@ For producers prioritizing stability and mission-alignment, senior practice ofte
 
 - Why is Pennsylvania a strong senior insurance market? Pennsylvania has approximately 20% of its population age 65+ (about 20.4% in 2024, versus roughly 18% nationally) and the fifth-largest senior population of any state, with substantial senior populations across all major metros and rural areas, plus Pennsylvania-specific senior protection regulations creating practice opportunity.
 - What's the most common entry point for Pennsylvania senior insurance practice? Medicare. Annual Enrollment Period activity (October 15 - December 7) creates substantial recurring opportunity. Most successful senior practices include strong Medicare component.
-- Do I need special training to sell LTC in Pennsylvania? Yes. Pennsylvania requires initial 8-hour state-approved LTC Training course (one-time), then 4-hour ongoing LTC Training every 24 months. Producers must hold active Health and Sickness/Accident license.
+- Do I need special training to sell LTC in Pennsylvania? Yes. Pennsylvania requires [initial 8-hour state-approved LTC Training course (one-time), then 4-hour ongoing LTC Training every 24 months](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html&d=reduce). Producers must hold active Health and Sickness/Accident license.
 - How does Pennsylvania annuity practice for seniors compare to other states? Pennsylvania adopted enhanced Annuity Best Interest standards aligned with NAIC 2020 Annuity Model Law. Producers licensed on or after June 20, 2022 must complete a 4-hour Annuity Best Interest course. All producers with life and fixed annuities or variable life/variable line must complete this regardless of intent to sell annuities.
 - What's a realistic income for Pennsylvania senior insurance practice? Established Pennsylvania senior practices commonly produce $70,000-$150,000+ in annual income for individual producers, broadly in line with statewide experienced-to-top-producer benchmarks. Top senior practitioners with established practices serving HNW seniors or sophisticated estate planning markets can exceed that range. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
@@ -341,3 +341,7 @@ For producers prioritizing stability and mission-alignment, senior practice ofte
 Pennsylvania's senior market offers exceptional opportunity for properly trained producers. At JustInsurance — an approved Pennsylvania continuing education provider (#147815) — our Pennsylvania [exam-prep](/pennsylvania/prelicensing) and CE courses provide foundational expertise supporting senior specialty practice including Medicare, LTC, and annuity considerations.
 
 Enroll today and start building toward Pennsylvania senior insurance specialty practice.
+
+**Sources cited:**
+
+- [Pennsylvania Code — 31 Pa. Code § 39a.9 (long-term care training: 8-hour initial + 4-hour every 24 months, Partnership Medicaid content)](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html&d=reduce)

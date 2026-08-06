@@ -16,13 +16,13 @@ imageAlt: >-
   pennsylvania insurance prelicense education requirements.
 ---
 
-Pennsylvania recently joined a group of states that don't require [prelicense](/pennsylvania/prelicensing) education for insurance producer licensure — a change that took effect April 29, 2025 under Pennsylvania Act 142 of 2024. This update fundamentally changes how Pennsylvania candidates approach licensure, removing what was previously a 24-hour prelicense requirement. Understanding what this change means and how to prepare effectively without mandatory PLE is essential for new candidates.
+Pennsylvania recently joined a group of states that don't require [prelicense](/pennsylvania/prelicensing) education for insurance producer licensure — a change that [took effect April 29, 2025 under Pennsylvania Act 142 of 2024](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241). This update fundamentally changes how Pennsylvania candidates approach licensure, removing what was previously a 24-hour prelicense requirement. Understanding what this change means and how to prepare effectively without mandatory PLE is essential for new candidates.
 
 Here's everything you need to know about Pennsylvania insurance prelicense education requirements.
 
 ## The Major Recent Change: Act 142 of 2024
 
-Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the prelicense education (PLE) requirement for Pennsylvania insurance producer licensure. The change reflects:
+[Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the prelicense education (PLE) requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) for Pennsylvania insurance producer licensure. The change reflects:
 
 Pennsylvania's view that exam-only licensing is sufficient given quality study materials available
 
@@ -64,7 +64,7 @@ These requirements no longer apply to applicants licensing after April 29, 2025.
 
 Even though PLE is no longer required, most successful Pennsylvania candidates still complete prelicense study:
 
-[Pass rate](/pass-rates) matters. Quality prelicense courses substantially improve first-attempt pass rates. Pennsylvania's 70% passing requirement and substantial content coverage make preparation important.
+[Pass rate](/pass-rates) matters. Quality prelicense courses substantially improve first-attempt pass rates. Pennsylvania's [70% passing requirement](https://test-takers.psiexams.com/pa/insurance) and substantial content coverage make preparation important.
 
 Content coverage. The Pennsylvania exam covers extensive material. Structured study ensures you don't miss important content areas.
 
@@ -244,19 +244,19 @@ Don't treat the lack of PLE as license to skip preparation — it's just removed
 
 Once you're prepared:
 
-Schedule your exam. Exam fee is $45 for a single-line exam (16-01 Life, 16-02 Accident and Health) or $55 for the combined Life, Accident and Health exam (16-03), paid to PSI at registration and non-refundable.
+Schedule your exam. Exam fee is [$45 for a single-line exam (16-01 Life, 16-02 Accident and Health) or $55 for the combined Life, Accident and Health exam (16-03)](https://test-takers.psiexams.com/pa/insurance), paid to PSI at registration and non-refundable.
 
 Pass the state exam(s). With 70%+ score on each.
 
-Complete fingerprinting. Through IdentoGO using service code 1KGBGJ.
+Complete fingerprinting. Through [IdentoGO using service code 1KGBGJ](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html).
 
-Apply for license. Through NIPR, Sircon, or testing center kiosk with $55 application fee.
+Apply for license. Through NIPR, Sircon, or testing center kiosk with [$55 application fee](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html).
 
 Receive license. Typically 2-5 business days for clean applications.
 
 ## 5 Frequently Asked Questions
 
-- Does Pennsylvania still require prelicense education? No. Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the prelicense education requirement for insurance producer licensure.
+- Does Pennsylvania still require prelicense education? No. [Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) for insurance producer licensure.
 - Should I still take a prelicense course even though it's not required? Yes — most candidates do, and pass rates are substantially higher with structured preparation. While not legally required, prelicense courses provide systematic content delivery, practice questions, and Pennsylvania-specific focus.
 - How does Pennsylvania compare to other states without PLE? Pennsylvania now joins South Carolina, Massachusetts, Alabama, Nevada, and several other states without mandatory PLE. The combined effect of no PLE requirement and reasonable application fees makes Pennsylvania one of the more accessible states for new producers.
 - Can I take the exam immediately after applying for licensure? The exam comes BEFORE applying. Pass the exam first, then apply. Applications submitted without exam completion can't be processed.
@@ -267,3 +267,9 @@ Receive license. Typically 2-5 business days for clean applications.
 Even without required PLE, quality preparation makes the difference between a first-attempt pass and repeat exam scheduling. One caution as you shop: since Act 142 took effect, Pennsylvania no longer approves prelicensing courses at all, so treat any "state-approved prelicense course" claim as a red flag. Judge a course on how closely it tracks the current PSI Pennsylvania content outline instead. Ours is built to that outline, with Pennsylvania-specific law coverage and substantial practice exam access — and JustInsurance is an approved Pennsylvania continuing education provider (#147815) for the CE you'll owe once you're licensed.
 
 Enroll today and start your Pennsylvania insurance career on a strong foundation.
+
+**Sources cited:**
+
+- [Pennsylvania Act 142 of 2024 (SB 1241) — eliminated prelicense education](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI Pennsylvania Insurance Candidate Bulletin — 70% pass, exam fees](https://test-takers.psiexams.com/pa/insurance)
+- [Pennsylvania Insurance Department — initial licensing process, fingerprinting (1KGBGJ), application fee](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)

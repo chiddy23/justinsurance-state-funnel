@@ -16,7 +16,7 @@ imageAlt: >-
   pennsylvania-specific insurance laws on the state exam.
 ---
 
-If there's one section of the Pennsylvania insurance exam that catches unprepared candidates off guard, it's the Pennsylvania-specific law portion. General insurance concepts transfer across states — but Pennsylvania has unique laws, distinctive regulatory programs (notably Pennie, the state-based health insurance exchange established in 2020), and producer requirements that the exam tests in detail.
+If there's one section of the Pennsylvania insurance exam that catches unprepared candidates off guard, it's the Pennsylvania-specific law portion. General insurance concepts transfer across states — but Pennsylvania has unique laws, distinctive regulatory programs (notably [Pennie, the state-based health insurance exchange](https://pennie.com/about-pennie/) established in 2020), and producer requirements that the exam tests in detail.
 
 Here are the Pennsylvania-specific insurance laws you need to know for the state exam.
 
@@ -50,7 +50,7 @@ The Code is administered by the Pennsylvania Insurance Department, led by the In
 
 A central recent change for the exam:
 
-Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the [prelicense](/pennsylvania/prelicensing) education (PLE) requirement for Pennsylvania insurance producer licensure. This is a major recent change that may appear on exam questions. Key facts:
+Pennsylvania [Act 142 of 2024, effective April 29, 2025](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241), eliminated the [prelicense](/pennsylvania/prelicensing) education (PLE) requirement for Pennsylvania insurance producer licensure. This is a major recent change that may appear on exam questions. Key facts:
 
 PLE no longer required for new producer applicants
 
@@ -66,7 +66,7 @@ Pennsylvania Insurance Code (Title 40). Foundation provisions covering producer 
 
 Producer Licensing Provisions. Specific licensing rules for agents, brokers, and consultants in Pennsylvania.
 
-Continuing Education (40 Pa. Stat. §310.8). Pennsylvania requires 24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines).
+Continuing Education (40 Pa. Stat. §310.8). Pennsylvania requires [24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements).
 
 Unfair Methods of Competition and Unfair Practices. Pennsylvania prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more.
 
@@ -128,9 +128,9 @@ Prelicense education: NOT required (eliminated by Act 142 of 2024 effective Apri
 
 Examination: Required for most license types
 
-Background check: Required (with fingerprinting through IdentoGO using service code 1KGBGJ)
+Background check: Required (with [fingerprinting through IdentoGO using service code 1KGBGJ](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html))
 
-Application fee: $55 resident / $110 non-resident
+Application fee: [$55 resident / $110 non-resident](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)
 
 Continuing education: 24 hours every 2 years
 
@@ -355,7 +355,7 @@ Department of Insurance authority and procedures
 - How much of the Pennsylvania exam is state-specific law? Per the PSI content outline, the dedicated Insurance Regulation / Pennsylvania law domain is about 20% of the exam (21% on the Life, Accident & Health exam and 20% on Property & Casualty), and additional Pennsylvania-specific rules appear throughout the other sections.
 - What's distinctive about Pennsylvania's health insurance exchange? Pennsylvania operates Pennie as a state-based marketplace (established 2020), unlike most states which use the federal Healthcare.gov.
 - What's the Pennsylvania Tort Choice system? Pennsylvania allows drivers to choose between Limited Tort (lower premium, restricted lawsuit rights) and Full Tort (higher premium, full lawsuit rights) for auto insurance — distinctive to Pennsylvania and a few other states.
-- What's Pennsylvania Act 142 of 2024? Effective April 29, 2025, this Act eliminated the prelicense education requirement for Pennsylvania insurance producer licensure.
+- What's Pennsylvania Act 142 of 2024? [Effective April 29, 2025, this Act eliminated the prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) for Pennsylvania insurance producer licensure.
 - Can national study materials cover Pennsylvania law? Partially. National materials cover general insurance concepts well but rarely go deep on Pennsylvania-specific rules. Use Pennsylvania-specific prelicense courses for state content.
 
 ## Master Pennsylvania-Specific Exam Content
@@ -363,3 +363,10 @@ Department of Insurance authority and procedures
 Pennsylvania law is where many exam failures happen because generic materials miss state-specific depth. At JustInsurance, our Pennsylvania life and health exam-prep courses dedicate real attention to state-specific content — including Pennie, recent regulatory changes, and the other Pennsylvania-specific topics that appear on the life and health exam.
 
 Enroll today and own the Pennsylvania portion of the exam.
+
+**Sources cited:**
+
+- [PA General Assembly — Act 142 of 2024 / SB 1241 (elimination of pre-licensing education)](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [Pennsylvania Insurance Department — initial producer licensing process (application fees, IdentoGO fingerprinting code)](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)
+- [Pennsylvania Insurance Department — continuing education requirements (24 hours incl. ethics + flood)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
+- [Pennie — Pennsylvania's official state-based health insurance marketplace](https://pennie.com/about-pennie/)

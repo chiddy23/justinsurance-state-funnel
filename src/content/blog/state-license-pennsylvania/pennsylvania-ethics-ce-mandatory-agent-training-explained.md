@@ -22,7 +22,7 @@ Here's what every Pennsylvania agent should know about the ethics CE requirement
 
 ## The Basic Requirement
 
-Under Pennsylvania's April 29, 2025 statutory changes (40 Pa. Stat. §310.8), Pennsylvania requires 3 hours of approved Ethics CE in every 2-year renewal cycle for resident producers and resident/non-resident title agents. These 3 hours are part of your total 24-hour CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
+Under Pennsylvania's April 29, 2025 statutory changes ([40 Pa. Stat. §310.8](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/)), Pennsylvania requires [3 hours of approved Ethics CE](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/) in every 2-year renewal cycle for resident producers and resident/non-resident title agents. These 3 hours are part of your total 24-hour CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
 
 Skip the ethics component, and your CE is considered incomplete even if your total hours hit 24. No renewal, no active license.
 
@@ -148,7 +148,7 @@ Unauthorized Signatures. Signing on behalf of clients to "save them a trip" — 
 
 Inadequate Records. Not maintaining records that support recommendations.
 
-Pennie Compliance Issues. Specific compliance concerns affecting Pennsylvania's state-based health insurance exchange enrollment.
+Pennie Compliance Issues. Specific compliance concerns affecting [Pennsylvania's state-based health insurance exchange](https://www.pennie.com/) enrollment.
 
 ## How Ethics Courses Are Structured
 
@@ -229,3 +229,8 @@ Quality ethics CE addresses these specific concerns.
 Pennsylvania ethics CE is mandatory — and quality ethics courses can genuinely strengthen your professional practice. At JustInsurance (Provider Approval #147815), our Pennsylvania ethics CE courses are PID-approved and cover Pennsylvania-specific topics including current PID guidance.
 
 Enroll in our Pennsylvania ethics CE today and meet your requirement the right way.
+
+**Sources cited:**
+
+- [40 P.S. § 310.8 — 3-hour ethics CE within the 24-hour requirement](https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-310-8/)
+- [Pennie — Pennsylvania's official state-based health insurance marketplace](https://www.pennie.com/)

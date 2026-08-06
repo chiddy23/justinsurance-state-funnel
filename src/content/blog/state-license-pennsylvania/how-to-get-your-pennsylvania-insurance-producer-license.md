@@ -38,7 +38,7 @@ These eligibility requirements are governed under the Pennsylvania Insurance Cod
 
 ## Step 2: Pre-Licensing Education (NOT Required as of April 29, 2025)
 
-Here's a major recent change: Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the prelicense education (PLE) requirement for Pennsylvania insurance producer licensure. Pennsylvania is now one of the more accessible states for new producers.
+Here's a major recent change: [Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the prelicense education (PLE) requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241) for Pennsylvania insurance producer licensure. Pennsylvania is now one of the more accessible states for new producers.
 
 However, prelicense education is strongly recommended. Here's why:
 
@@ -74,7 +74,7 @@ PSI's website at psiexams.com/test-takers/
 
 Phone: 1-888-818-5822
 
-Pay the $45 exam fee per exam at registration ($55 for a combined Life & Health or Property & Casualty exam)
+[Pay the $45 exam fee per exam at registration ($55 for a combined Life & Health or Property & Casualty exam)](https://test-takers.psiexams.com/pa/insurance)
 
 Schedule at a PSI testing center, or take the exam through PSI's own remote online proctoring platform (PSI Bridge) where available
 
@@ -92,13 +92,13 @@ Names must match registration exactly
 
 ## Pennsylvania Exam Structure
 
-Pennsylvania offers exams for various lines of authority. Passing score is 70% on every Pennsylvania insurance license exam.
+Pennsylvania offers exams for various lines of authority. [Passing score is 70%](https://test-takers.psiexams.com/pa/insurance) on every Pennsylvania insurance license exam.
 
 Common exam types:
 
 The exam covers two sections: General (insurance principles applicable in any state) and State Law (Pennsylvania-specific laws, rules, and regulations).
 
-Exam validity: Your passing score is valid for 12 months. You must apply for licensure within this window.
+Exam validity: [Your passing score is valid for 12 months](https://nipr.com/licensing-center/state-information/pennsylvania). You must apply for licensure within this window.
 
 Most candidates receive results within minutes of completing the exam.
 
@@ -140,7 +140,7 @@ Online at IdentoGO website
 
 Phone: 844-321-2101
 
-Use service code: 1KGBGJ for the Pennsylvania Insurance Department
+[Use service code: 1KGBGJ for the Pennsylvania Insurance Department](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)
 
 Receive registration number — keep it for your appointment
 
@@ -174,7 +174,7 @@ Motor vehicle physical damage appraisers
 
 ## Step 7: Pennsylvania Insurance Department Reviews and Issues Your License
 
-Once the Pennsylvania Insurance Department has your complete application, exam results, and fingerprint background check, processing typically takes 2-5 business days for online applications.
+Once the Pennsylvania Insurance Department has your complete application, exam results, and fingerprint background check, [processing typically takes 2-5 business days for online applications](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html).
 
 You can check application status using the Producer Application Status Lookup Tool on the PA Insurance Department website (insurance.pa.gov).
 
@@ -242,7 +242,7 @@ Renewal cycle: Biennial, expiring on the last day of your birth month
 
 Do not calculate your deadline as "two years from issuance." Because Pennsylvania aligns the term to your birth month, your first license period is usually shorter or longer than a clean 24 months. Confirm the exact expiration date printed on your license.
 
-CE requirement: 24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines)
+CE requirement: [24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines)](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)
 
 Reinstatement period: Up to 1 year after expiration without re-exam or re-fingerprinting required
 
@@ -278,10 +278,18 @@ This streamlined path makes Pennsylvania accessible for already-licensed produce
 - Does Pennsylvania require fingerprinting for insurance producers? Yes. All initial resident producer license applicants must complete fingerprinting through IdentoGO using service code 1KGBGJ. Non-resident reciprocity applicants and producers adding lines to existing licenses are exempt.
 - How much does the Pennsylvania insurance exam cost? $45 per single-line exam (Life, Accident & Health, Property, or Casualty), or $55 for a combined Life & Health or Property & Casualty exam, paid to PSI at registration.
 - How long is my Pennsylvania insurance license valid? Pennsylvania licenses renew on a two-year cycle, expiring on the last day of your birth month rather than on the anniversary of your issue date — so check the expiration printed on your license instead of counting 24 months forward. Reinstatement is available for up to 1 year after expiration without re-exam or re-fingerprinting.
-- What's the application fee for a Pennsylvania resident producer license? $55 (plus small transaction charge). Non-resident license fee is $110.
+- What's the application fee for a Pennsylvania resident producer license? [$55 (plus small transaction charge). Non-resident license fee is $110](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html).
 
 ## Start Your Pennsylvania Insurance Career Right
 
 Pennsylvania's recent elimination of PLE requirements makes it one of the more accessible states — but quality preparation still matters for first-attempt exam success. At JustInsurance, our Pennsylvania exam prep course covers everything you need including Pennsylvania-specific laws.
 
 Enroll today and take your first step toward a Pennsylvania insurance producer license.
+
+**Sources cited:**
+
+- [Pennsylvania Act 142 of 2024 (SB 1241) — eliminated pre-licensing education, PA General Assembly](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI Pennsylvania insurance exam — candidate bulletin (70% passing score, exam fees)](https://test-takers.psiexams.com/pa/insurance)
+- [NIPR — Pennsylvania state licensing information (12-month exam score validity)](https://nipr.com/licensing-center/state-information/pennsylvania)
+- [Pennsylvania Insurance Department — initial insurance producer licensing process (application fees, IdentoGO code 1KGBGJ, processing time)](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)
+- [Pennsylvania Insurance Department — continuing education requirements](https://www.pa.gov/agencies/insurance/licensing/licensees/continuing-education-requirements)

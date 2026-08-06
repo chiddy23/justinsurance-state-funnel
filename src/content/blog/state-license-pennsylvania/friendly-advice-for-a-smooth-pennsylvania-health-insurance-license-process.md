@@ -24,7 +24,7 @@ Remember, this journey is about more than just passing an exam. It’s about pre
 
 ## Understand license prerequisites
 
-Before you dive into classes or study materials, it helps to know what the state expects from you. In Pennsylvania, you must typically be at least 18 years old and have a clean background to qualify. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so you no longer have to complete [pre-licensing](/pennsylvania/prelicensing) coursework before sitting for the exam — you just need to pass the official state exam to become licensed for health insurance. Most candidates still choose to take a prep course because the exam covers substantial state-specific content.
+Before you dive into classes or study materials, it helps to know what the state expects from you. In Pennsylvania, you must typically be at least 18 years old and have a clean background to qualify. [Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241), so you no longer have to complete [pre-licensing](/pennsylvania/prelicensing) coursework before sitting for the exam — you just need to pass the official state exam to become licensed for health insurance. Most candidates still choose to take a prep course because the exam covers substantial state-specific content.
 
 Beyond these core requirements, you should anticipate a few administrative tasks. Gathering personal information, paying any associated state fees, and scheduling an exam date all fall under your responsibilities. It’s a good idea to create a simple checklist so that you don’t miss anything throughout your preparation.
 
@@ -36,7 +36,7 @@ Take the time to choose a solid provider with a clear curriculum that targets es
 
 ## Pass the state exam
 
-Once you’ve finished your exam prep, you’re ready to put your knowledge to the test. The Pennsylvania health insurance license exam covers everything from terminology to compliance. It’s a computerized exam, and you’ll typically schedule it at a licensed test center. The fee and scheduling process vary, so confirm details with PSI, Pennsylvania's official exam provider.
+Once you’ve finished your exam prep, you’re ready to put your knowledge to the test. The Pennsylvania health insurance license exam covers everything from terminology to compliance. It’s a computerized exam, and you’ll typically schedule it at a licensed test center. The fee and scheduling process vary, so confirm details with [PSI, Pennsylvania's official exam provider](https://test-takers.psiexams.com/pa/insurance).
 
 Below are a few suggestions to help you study and perform well:
 
@@ -70,3 +70,8 @@ Help doesn’t stop once you have the license in hand, either. You might find yo
 By following the steps above, you’re already well on your way to achieving your Pennsylvania health insurance license. Make sure you understand the prerequisites, complete your pre-licensing education, pass the exam, and submit a thorough application. Then keep your license in good standing by tackling your [continuing education](/pennsylvania/continuing-education) requirements on schedule.
 
 If you need additional support, or if you just want a trusted second opinion, JustInsurance is ready to help you navigate the entire process. Every question deserves a well-informed answer, and you’ll strengthen your career footing by learning from people with real industry experience. You have all the tools to succeed, so take that next step and start forging your path as a licensed health insurance professional in Pennsylvania. Good luck on your journey and congratulations on choosing an exciting new direction!
+
+**Sources cited:**
+
+- [Pennsylvania General Assembly — Act 142 of 2024 (SB 1241): eliminated prelicensing education](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI — Pennsylvania insurance exam scheduling](https://test-takers.psiexams.com/pa/insurance)

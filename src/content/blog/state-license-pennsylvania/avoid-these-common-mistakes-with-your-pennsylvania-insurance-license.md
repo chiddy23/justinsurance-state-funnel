@@ -20,7 +20,7 @@ Navigating the process of earning your [Pennsylvania insurance producer](/pennsy
 
 ## Understand Pennsylvania licensing requirements
 
-Before you dive into any coursework or exams, take a moment to familiarize yourself with the state’s licensing guidelines. Pennsylvania requires you to be at least 18 years old and maintain a clean criminal record. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so once you meet those basic requirements you can go straight to the exam — but most candidates still prepare with a study course for the specific line of authority they intend to sell, such as Life, Accident and Health, or Property and Casualty, to prepare for the exam content.
+Before you dive into any coursework or exams, take a moment to familiarize yourself with the state’s licensing guidelines. Pennsylvania requires you to be at least 18 years old and maintain a clean criminal record. [Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241), so once you meet those basic requirements you can go straight to the exam — but most candidates still prepare with a study course for the specific line of authority they intend to sell, such as Life, Accident and Health, or Property and Casualty, to prepare for the exam content.
 
 It’s easy to overlook the fact that each line of authority has its own set of course hours. If you’re adding multiple lines, your total hours could balloon quickly. Avoid the mistake of underestimating the time required by planning your study schedule early. Give yourself enough buffer in case life’s unexpected demands draw you away from the books.
 
@@ -30,7 +30,7 @@ Even though it’s no longer legally required, finishing a prep course is often 
 
 A better approach is to compare programs carefully. Look for:
 
--   Content aligned to the current PSI Pennsylvania exam outline (Pennsylvania does not approve prelicensing courses, so alignment to the exam blueprint is what matters)
+-   Content aligned to the current [PSI Pennsylvania exam outline](https://test-takers.psiexams.com/pa/insurance) (Pennsylvania does not approve prelicensing courses, so alignment to the exam blueprint is what matters)
 -   Flexible learning formats, such as live webinars or on-demand sessions
 -   Access to practice tests that reflect actual exam conditions
 
@@ -77,3 +77,8 @@ Getting your Pennsylvania insurance producer license doesn’t have to be a draw
 If you want structured preparation instead of piecing materials together yourself, JustInsurance offers self-paced online [life and health prelicensing](/pennsylvania/prelicensing) courses built around the exam content outline, with video lessons, reading modules, chapter quizzes, and full-length practice exams. Once you’re licensed, you’ll also find [continuing education](/pennsylvania/continuing-education) courses you can complete on your own schedule. Working through a structured course is how you surface the gaps in your knowledge before exam day rather than in the testing center.
 
 Whether you’re brand-new to the field or you’re adding lines of authority to your existing license, your effort today will pay off as you develop a rewarding career. Start your journey now by setting up a realistic study schedule, verifying your application details, and connecting with a service that has your best interests at heart. Then, when you finally hold your Pennsylvania insurance producer license in your hands, you’ll know you’re fully prepared—and ready to make the most of the opportunities ahead.
+
+**Sources cited:**
+
+- [Pennsylvania General Assembly — Act 142 of 2024 (SB 1241): eliminated prelicensing education](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)
+- [PSI — Pennsylvania insurance exam scheduling and content outline](https://test-takers.psiexams.com/pa/insurance)

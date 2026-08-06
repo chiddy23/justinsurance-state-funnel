@@ -28,7 +28,7 @@ Each type of insurance license (like life, health, property, or casualty) may ha
 
 ## Consider a pre-licensing course (optional)
 
-Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so you're no longer required to take an approved [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) course for the line of authority you want to sell, such as life or health insurance. Even so, many candidates choose to take one — courses typically range from 20 to 40 hours of classwork, depending on the license type. Some programs allow you to study online at your own pace, while others offer classroom sessions if you prefer face-to-face instruction.
+[Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241), so you're no longer required to take an approved [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) course for the line of authority you want to sell, such as life or health insurance. Even so, many candidates choose to take one — courses typically range from 20 to 40 hours of classwork, depending on the license type. Some programs allow you to study online at your own pace, while others offer classroom sessions if you prefer face-to-face instruction.
 
 Try to choose a provider that matches your learning style. If you’re more of a visual learner, look for a course with video tutorials and interactive quizzes. If you like a more traditional approach, live classes might offer a personal touch. Completing a course isn't required by the state, but it can give you the foundation to tackle the Pennsylvania insurance licensing exam with clarity and confidence.
 
@@ -69,3 +69,7 @@ Even if you don’t pass on your first try, don’t be discouraged. Count every 
 Throughout the entire licensing process, remember that you don’t have to assemble the material on your own. The self-paced JustInsurance [life and health prelicensing](/pennsylvania/prelicensing) courses include up-to-date study materials, video lessons, chapter quizzes, and full-length [practice exams](/pennsylvania/practice-exam) built around the exam content outline. For questions about the state requirements themselves — eligibility, fees, or the status of your application — the Pennsylvania Insurance Department is the authoritative source.
 
 Embracing the insurance field opens you to a future full of growth and new opportunities. The path to becoming a licensed Pennsylvania insurance professional might seem like a series of hurdles, but with disciplined study habits, a solid pre-licensing education, and a confident mindset, you have everything you need to reach the finish line. Your clients will benefit from your expertise, and you’ll enjoy the satisfaction of a thriving, people-focused career. Good luck with your exam, and welcome to the world of insurance!
+
+**Sources cited:**
+
+- [PA General Assembly — Act 142 of 2024 / SB 1241 (elimination of pre-licensing education)](https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=S&type=B&bn=1241)

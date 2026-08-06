@@ -172,9 +172,9 @@ Various other colleges and universities
 
 Substantial senior population. Pennsylvania has one of the larger senior populations in the country, creating substantial Medicare and senior insurance markets.
 
-Tort Choice auto insurance. Pennsylvania's distinctive Limited Tort vs. Full Tort system creates specialty practice opportunity for agents who develop genuine expertise.
+Tort Choice auto insurance. Pennsylvania's distinctive [Limited Tort vs. Full Tort system](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/) creates specialty practice opportunity for agents who develop genuine expertise.
 
-Pennie marketplace practice. Pennsylvania's state-based health insurance exchange creates ongoing health insurance opportunity, particularly given complexity following EPTC expiration.
+Pennie marketplace practice. Pennsylvania's [state-based health insurance exchange](https://www.pennie.com/) creates ongoing health insurance opportunity, particularly given complexity following EPTC expiration.
 
 ## Compensation Models You'll See in Pennsylvania
 
@@ -223,3 +223,8 @@ For producers, transitioning to or from these roles can offer career flexibility
 Pennsylvania offers strong earning potential combined with favorable tax treatment and moderate cost of living. JustInsurance is an approved Pennsylvania continuing education provider (#147815). Our Pennsylvania CE courses carry that approval; our [exam-prep course](/pennsylvania/prelicensing) is built to the PSI exam content outline, since Pennsylvania no longer requires prelicensing education. Together they prepare you for the licensing exam and for the real work of building income in this market.
 
 Enroll today and start building your Pennsylvania insurance income.
+
+**Sources cited:**
+
+- [Pennie — Pennsylvania's official state-based health insurance marketplace](https://www.pennie.com/)
+- [75 Pa.C.S. § 1705 — Pennsylvania full tort / limited tort auto insurance election (FindLaw)](https://codes.findlaw.com/pa/title-75-pacsa-vehicles/pa-csa-sect-75-1705/)

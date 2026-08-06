@@ -22,7 +22,7 @@ Here's a clear breakdown of Georgia's insurance CE requirements.
 
 ## The Basic Framework
 
-Georgia's Office of Commissioner of Insurance and Safety Fire (OCI) requires licensed insurance producers to complete continuing education every 2 years, tied to their license renewal cycle.
+Georgia's Office of Commissioner of Insurance and Safety Fire (OCI) requires [licensed insurance producers to complete continuing education every 2 years](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), tied to their license renewal cycle.
 
 For most Georgia Life, Accident, and Sickness producers, the standard requirement is:
 
@@ -48,11 +48,11 @@ Limited Lines (travel, credit, etc.): Reduced CE requirements apply. Confirm wit
 
 Adjuster licenses: Separate CE requirements apply for adjuster credentials.
 
-Two reductions to know about: OCI's published CE schedule sets 24 hours for resident licensees with fewer than 20 years of service and 20 hours for those with more than 20 years of service, and licensees who hold certain designations (CPCU, CLU, FLMI, CIC, CEBS, ChFC, AAI, CFP, or a related risk-management degree) may qualify for a reduced 12-hour requirement on proof to the office. The 3-hour ethics requirement applies at every tier. Check OCI's continuing education page for the requirement that applies to you rather than assuming the flat 24.
+Two reductions to know about: [OCI's published CE schedule](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education) sets 24 hours for resident licensees with fewer than 20 years of service and 20 hours for those with more than 20 years of service, and licensees who hold certain designations (CPCU, CLU, FLMI, CIC, CEBS, ChFC, AAI, CFP, or a related risk-management degree) may qualify for a reduced 12-hour requirement on proof to the office. The 3-hour ethics requirement applies at every tier. Check OCI's continuing education page for the requirement that applies to you rather than assuming the flat 24.
 
 ## The 3-Hour Ethics Requirement
 
-Georgia requires 3 hours of Ethics CE as part of every 2-year renewal cycle. This requirement is:
+Georgia requires [3 hours of Ethics CE as part of every 2-year renewal cycle](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). This requirement is:
 
 - Non-negotiable — you can't substitute other coursework for the ethics hours
 
@@ -64,9 +64,9 @@ The Ethics course covers fiduciary duty, agent conduct standards, conflicts of i
 
 ## When Your CE Is Due
 
-Your CE requirement is tied to your license renewal date, and in Georgia that date is driven by your birth month — not by the date your license was originally issued. Georgia agent licenses expire on the last day of your birth month every 2 years, and your CE must be completed on or before that date.
+Your CE requirement is tied to your license renewal date, and in Georgia that date is driven by your birth month — not by the date your license was originally issued. [Georgia agent licenses expire on the last day of your birth month every 2 years](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), and your CE must be completed on or before that date.
 
-One consequence worth knowing: because the cycle is anchored to your birth month, a brand-new license is issued with an initial term of roughly 18 to 29 months depending on when in the year you were born. Your exact expiration date is listed in your OCI producer record and on the Georgia Producer Portal at sircon.com/georgia.
+One consequence worth knowing: because the cycle is anchored to your birth month, a brand-new license is issued with an initial term of roughly 18 to 29 months depending on when in the year you were born. Your exact expiration date is listed in your OCI producer record and on the [Georgia Producer Portal at sircon.com/georgia](https://www.sircon.com/landingPages/states/georgia/content.jsp).
 
 OCI sends renewal reminders as the date approaches, but you're ultimately responsible for tracking your own deadline. Don't rely exclusively on reminders.
 
@@ -112,7 +112,7 @@ Reputable CE providers always list their OCI approval clearly. Providers that ca
 
 The most important thing to understand about Georgia CE reporting: you don't manually submit CE hours to OCI yourself. Your approved course provider does it electronically.
 
-When you complete a course through an OCI-approved provider, the provider is required to report your completion to OCI within a specific timeframe — typically within 30 days. This automated reporting is a core requirement of maintaining OCI approval.
+When you complete a course through an OCI-approved provider, the provider is required to [report your completion to OCI within a specific timeframe — typically within 30 days](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). This automated reporting is a core requirement of maintaining OCI approval.
 
 ## What Happens If You Miss the Deadline
 
@@ -156,9 +156,9 @@ These specialty requirements are in addition to — not part of — your standar
 
 ## 5 Frequently Asked Questions
 
-1. When exactly is my Georgia CE due? On or before the last day of your birth month, every 2 years. The cycle is anchored to your birth month, not to the date your license was originally issued. Confirm your exact expiration date through OCI's producer record or the Georgia Producer Portal at sircon.com/georgia.
+1. When exactly is my Georgia CE due? On or before the last day of your birth month, every 2 years. The cycle is anchored to your birth month, not to the date your license was originally issued. Confirm your exact expiration date through OCI's producer record or the [Georgia Producer Portal](https://www.sircon.com/landingPages/states/georgia/content.jsp) at sircon.com/georgia.
 
-2. Can I carry over extra CE hours to the next renewal cycle? Yes — up to 50% of the biennial requirement (12 of your 24 hours) may carry forward to the next filing period (Ga. Comp. R. & Regs. 120-2-3-.15(5)). Ethics hours must still be completed each cycle.
+2. Can I carry over extra CE hours to the next renewal cycle? Yes — up to 50% of the biennial requirement (12 of your 24 hours) may carry forward to the next filing period ([Ga. Comp. R. & Regs. 120-2-3-.15(5)](https://oci.georgia.gov/document/document/120-2-3-15pdf/download)). Ethics hours must still be completed each cycle.
 
 3. Are online CE courses accepted in Georgia? Yes. OCI accepts approved online courses, and most agents complete CE online at their own pace.
 
@@ -171,3 +171,9 @@ These specialty requirements are in addition to — not part of — your standar
 Georgia CE is manageable with a plan. At JustInsurance, our Georgia CE courses are OCI-approved, current, and cover the mandatory ethics requirement — so you can renew your license without last-minute scrambling.
 
 Enroll in our Georgia CE courses today and keep your license active with confidence.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [Georgia Producer Portal (Sircon)](https://www.sircon.com/landingPages/states/georgia/content.jsp)
+- [Ga. Comp. R. & Regs. 120-2-3-.15 — CE rule, carryover (OCI)](https://oci.georgia.gov/document/document/120-2-3-15pdf/download)

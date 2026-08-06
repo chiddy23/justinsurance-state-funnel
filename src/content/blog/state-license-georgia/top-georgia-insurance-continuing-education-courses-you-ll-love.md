@@ -31,11 +31,11 @@ You’ll also stay in good standing with the Office of the Commissioner of Insur
 
 If you’re brand new to insurance, you’ll start by getting your initial license for the line of insurance you intend to sell. This process typically includes:
 
-1.  Completing a [Georgia insurance prelicensing](/georgia/prelicensing) course — in Georgia, 8 hours per line of authority (16 hours for Life & Health combined) as of June 24, 2025, when Georgia reduced [prelicensing](/georgia/prelicensing) from 20 to 8 hours per line of authority. Other states may require more.
+1.  Completing a [Georgia insurance prelicensing](/georgia/prelicensing) course — in Georgia, [8 hours per line of authority](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors) (16 hours for Life & Health combined) as of June 24, 2025, when Georgia reduced [prelicensing](/georgia/prelicensing) from 20 to 8 hours per line of authority. Other states may require more.
 2.  Registering for and passing the official state exam.
 3.  Submitting your license application along with any relevant fees.
 
-Once you have your license, you keep it valid by completing Georgia insurance continuing education every renewal cycle. Georgia sets one biennial total for agents — 24 hours, including 3 hours of ethics — and that total does not climb when you add lines of authority. It can come down, though: designation holders (CLU, ChFC, CFP, CPCU, CIC, AAI, CEBS, CRM, CISR, FLMI and similar) complete 12 hours, agents with 20 years of licensure complete 20 hours, and credit-only, limited subagent, and navigator licensees complete 10. Check which bucket you fall into before you buy courses.
+Once you have your license, you keep it valid by completing Georgia insurance continuing education every renewal cycle. Georgia sets one biennial total for agents — [24 hours, including 3 hours of ethics](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education) — and that total does not climb when you add lines of authority. It can come down, though: designation holders (CLU, ChFC, CFP, CPCU, CIC, AAI, CEBS, CRM, CISR, FLMI and similar) complete [12 hours](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), agents with 20 years of licensure complete [20 hours](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), and credit-only, limited subagent, and navigator licensees complete [10](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). Check which bucket you fall into before you buy courses.
 
 ## Knowing your CE obligations
 
@@ -118,3 +118,8 @@ JustInsurance organizes its Georgia CE around the state’s current 24-hour bien
 Georgia insurance continuing education may be required, but it doesn’t have to be a hassle. By finding the right course provider, choosing the most convenient learning format, and actively applying what you learn to your daily work, you’ll gain crucial knowledge that benefits both your business and your clients.
 
 Ready to take your next step? Enroll in a CE course through JustInsurance and start building your professional edge today. Whether you’re new to the industry or a seasoned pro, now’s the perfect time to refresh your perspective, expand your skill set, and maintain your [Georgia insurance license](/georgia) with confidence.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [Georgia OCI — Prelicensing education requirements](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)

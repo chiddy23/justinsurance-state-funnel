@@ -124,7 +124,7 @@ Georgia has some specific rules that affect small employer coverage:
 
 Specific disclosure requirements. Small employers must receive certain disclosures about their coverage options and rights.
 
-Continuation coverage rules. Georgia has state-level continuation coverage rules that complement federal COBRA. For small employers not subject to federal COBRA (typically those with fewer than 20 employees), Georgia's state continuation requirements may apply.
+Continuation coverage rules. Georgia has [state-level continuation coverage rules](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-24-21-1/) that complement federal COBRA. For small employers not subject to federal COBRA (typically those with fewer than 20 employees), Georgia's state continuation requirements may apply.
 
 Mental health parity. Georgia enforces federal mental health parity requirements and may have state-level provisions that affect how mental health benefits must be provided.
 
@@ -191,3 +191,7 @@ Document your work. Keep records of quotes provided, comparisons made, employer 
 The small employer health market is complex but rewarding. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover health insurance regulations — including small employer rules — in practical detail.
 
 Enroll today and build the compliance knowledge to serve Georgia small employers effectively.
+
+**Sources cited:**
+
+- [O.C.G.A. § 33-24-21.1 — Georgia group health continuation coverage](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-24-21-1/)

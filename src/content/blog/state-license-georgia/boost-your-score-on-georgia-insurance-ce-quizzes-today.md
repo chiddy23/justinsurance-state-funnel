@@ -23,8 +23,8 @@ Whether you are just starting out in Georgia’s insurance field or have already
 
 Before you dive into any quiz or course, it helps to know exactly what Georgia’s requirements are. The [Georgia Office of Insurance and Safety Fire Commissioner](/georgia/requirements) mandates that every licensed insurance professional complete continuing education hours within set renewal periods.
 
-1.  You need 24 hours of CE every two years.
-2.  At least three of those hours must be in ethics training.
+1.  You need [24 hours of CE every two years](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education).
+2.  At least [three of those hours must be in ethics training](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education).
 3.  You must complete CE courses through an approved provider.
 4.  You have to maintain proper documentation of course completion.
 
@@ -34,15 +34,15 @@ Meeting these requirements ensures that you stay licensed and up to date on indu
 
 If you are brand new to the insurance industry in Georgia, your first step is getting your initial license before you even worry about CE quizzes. The state requires:
 
--   A certain number of hours in [Georgia insurance prelicensing](/georgia/prelicensing) coursework. In Georgia, this is 8 hours per line of authority (16 hours for Life & Health combined), effective June 24, 2025, when Georgia reduced [prelicensing](/georgia/prelicensing) from 20 to 8 hours per line of authority.
+-   A certain number of hours in [Georgia insurance prelicensing](/georgia/prelicensing) coursework. In Georgia, this is [8 hours per line of authority](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors) (16 hours for Life & Health combined), effective June 24, 2025, when Georgia reduced [prelicensing](/georgia/prelicensing) from 20 to 8 hours per line of authority.
 -   A passing grade on the official licensing exam for your chosen line of authority.
--   An application submission through the National Insurance Producer Registry (NIPR).
+-   An application submission through the [National Insurance Producer Registry (NIPR)](https://nipr.com/licensing-center/state-information/georgia).
 
 You might also need a background check before officially receiving your license. Fees vary depending on your chosen line of authority, but you should expect exam costs, fingerprinting fees, and the licensing fee. Once you have your license, you can start selling insurance and planning for your continuing education.
 
 ## Work with clear timelines
 
-Once you have passed your initial exam and are fully licensed, mark your calendar for your CE deadlines. In Georgia, CE deadlines arrive every two years on your birth month. If your birthday is in July, for example, your license renewal and CE obligations come due by July every other year.
+Once you have passed your initial exam and are fully licensed, mark your calendar for your CE deadlines. In Georgia, CE deadlines arrive [every two years on your birth month](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). If your birthday is in July, for example, your license renewal and CE obligations come due by July every other year.
 
 When you have a clear timeline, it is easier to map out which courses you will take and when. You will avoid scrambling to finish all 24 hours a week before your renewal date, which can lead to incomplete and rushed work. With a planned schedule and consistent course-taking, you will earn the required credits without last-minute headaches.
 
@@ -102,3 +102,9 @@ Over time, you will notice how your expanding knowledge benefits both you and yo
 Now that you know the essentials, it is time to put them into action. Whether you are collecting CE credits for your upcoming renewal or just starting out, staying informed and prepared keeps you ahead of the curve. Set your schedule, pick a reliable course provider like JustInsurance if their offerings match your needs, and make Georgia insurance CE quizzes an opportunity for real growth, rather than a chore.
 
 By focusing on practical study techniques and taking charge of your timeline, you can boost your score on Georgia insurance CE quizzes and stay fully licensed in the process. Your work matters to the individuals and businesses you serve, and maintaining a current license is a key part of offering them the most accurate solutions. So start planning your next course today, and watch your confidence — and your future — grow as you expand your knowledge in the insurance industry.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [Georgia OCI — Prelicensing education requirements](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)
+- [NIPR — Georgia licensing information](https://nipr.com/licensing-center/state-information/georgia)

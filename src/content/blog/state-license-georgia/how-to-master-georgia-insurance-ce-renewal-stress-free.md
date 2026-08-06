@@ -24,7 +24,7 @@ Renewing your [Georgia insurance license](/georgia) can feel like a big deal, bu
 
 [Continuing education](/georgia/continuing-education) (CE) is designed to keep you current with industry standards and maintain your professional expertise. Georgia does not have a "Department of Insurance" — the regulator is the Office of the Commissioner of Insurance and Safety Fire (OCI), and OCI is what requires producers to complete a set number of CE credit hours before every renewal deadline. These credits typically cover core topics, ethics, and sometimes specialized subjects based on your license type.
 
-For most standard insurance licenses in Georgia, you need 24 total hours of CE every two years. That amount must include at least three hours of ethics. To give you a quick snapshot, here is a simple breakdown of the main requirements:
+For most standard insurance licenses in Georgia, you need [24 total hours of CE every two years](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). That amount must include at least three hours of ethics. To give you a quick snapshot, here is a simple breakdown of the main requirements:
 
 License type
 
@@ -50,17 +50,17 @@ Property & Casualty
 
 Every 2 years
 
-Adding lines of authority does not add hours. Georgia’s 24 hours is one biennial total no matter how many lines you carry, and the ethics piece stays at 3 hours. What can move the number is a reduction, not an increase: licensees holding a designation such as CLU, ChFC, CFP, CPCU, CIC, AAI, CEBS, CRM, CISR, or FLMI complete 12 hours (still 3 in ethics), licensees with 20 years of licensure complete 20 hours (still 3 in ethics), and credit-only, limited subagent, and navigator licensees complete 10. Always refer to the latest guidelines from OCI’s continuing education page to confirm which bucket your license falls in, since these rules are revised periodically.
+Adding lines of authority does not add hours. Georgia’s 24 hours is one biennial total no matter how many lines you carry, and the ethics piece stays at 3 hours. What can move the number is a reduction, not an increase: licensees holding a designation such as CLU, ChFC, CFP, CPCU, CIC, AAI, CEBS, CRM, CISR, or FLMI [complete 12 hours (still 3 in ethics)](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), licensees with [20 years of licensure complete 20 hours](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education) (still 3 in ethics), and credit-only, limited subagent, and navigator licensees complete 10. Always refer to the latest guidelines from OCI’s continuing education page to confirm which bucket your license falls in, since these rules are revised periodically.
 
 ## Meet Georgia’s licensing requirements
 
 Before you can tackle your continuing education, you first need to make sure you meet the basic requirements for a Georgia insurance license. If you are new to this process, here are the core steps you will typically complete:
 
 1.  Make sure you are at least 18 years old.
-2.  Complete the state-approved Georgia prelicensing education for the line you plan to sell — 8 clock hours per major line under Rule 120-2-3-.08, so 16 hours for a combined Life and Accident & Sickness path, and the course has to have been taken within the last 12 months. JustInsurance's [Georgia prelicensing course](/georgia/prelicensing) covers the Life and Health lines.
-3.  Pass the Georgia licensing exam, which Pearson VUE administers for OCI.
-4.  Submit your license application. Resident applicants file at sircon.com/georgia — Georgia routes residents through Sircon, not NIPR — and the agent fee is $120 ($100 license plus a $20 processing fee).
-5.  Complete electronic fingerprints and Georgia's notarized citizenship affidavit. These are required, not optional.
+2.  Complete the state-approved Georgia prelicensing education for the line you plan to sell — [8 clock hours per major line under Rule 120-2-3-.08](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors), so 16 hours for a combined Life and Accident & Sickness path, and the course has to have been taken within the last 12 months. JustInsurance's [Georgia prelicensing course](/georgia/prelicensing) covers the Life and Health lines.
+3.  Pass the Georgia licensing exam, which [Pearson VUE administers for OCI](https://www.pearsonvue.com/us/en/ga/insurance.html).
+4.  Submit your license application. Resident applicants [file at sircon.com/georgia](https://www.sircon.com/landingPages/states/georgia/content.jsp) — Georgia routes residents through Sircon, not NIPR — and the agent fee is $120 ($100 license plus a $20 processing fee).
+5.  Complete [electronic fingerprints and Georgia's notarized citizenship affidavit](https://oci.georgia.gov/get-insurance-agent-license). These are required, not optional.
 
 Once you hold a valid license, you need to keep it active by completing your CE credits and following the official renewal process. These credits not only fulfill a legal requirement, but they keep you informed about emerging trends, regulatory updates, and best practices in the insurance industry. If at any point you feel uncertain, you can always reach out to your local insurance association or mentor for clarification.
 
@@ -91,3 +91,11 @@ Once you finish your CE hours and you are ready to renew, you file online — Ge
 Beyond the immediate renewal deadline, remember to keep your continuing education an ongoing priority. Maintaining up-to-date knowledge makes you a stronger professional who delivers better service to your clients, which can lead to stronger referrals and business growth.
 
 Ready to get started? Plan your study schedule, secure the CE credits you need, and feel free to explore JustInsurance for streamlined support. By taking these steps, you can master the renewal process, keep your insurance license active, and stay ahead in Georgia’s evolving insurance landscape.
+
+**Sources cited:**
+
+- [Georgia Office of Commissioner of Insurance — Continuing Education (24 hours / 3 ethics / tiered reductions)](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [Georgia OCI — Education Providers, Courses & Instructors (8-hour prelicensing, Rule 120-2-3-.08)](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)
+- [Pearson VUE — Georgia Insurance Licensing Exam](https://www.pearsonvue.com/us/en/ga/insurance.html)
+- [Sircon — Georgia Resident Producer Licensing](https://www.sircon.com/landingPages/states/georgia/content.jsp)
+- [Georgia OCI — Get an Insurance Agent License (fingerprints & citizenship affidavit)](https://oci.georgia.gov/get-insurance-agent-license)

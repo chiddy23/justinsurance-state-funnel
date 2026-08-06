@@ -44,7 +44,7 @@ When you chunk each requirement into manageable segments, you won’t feel overw
 
 ## Factor in timelines and costs
 
-Planning your CE timeline up front helps prevent any last-minute rush. Georgia typically renews licenses every two years, so set reminders about six months before the renewal deadline. That window gives you plenty of time to enroll in necessary courses, study at your own pace, and schedule an exam if required.
+Planning your CE timeline up front helps prevent any last-minute rush. Georgia typically [renews licenses every two years](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), so set reminders about six months before the renewal deadline. That window gives you plenty of time to enroll in necessary courses, study at your own pace, and schedule an exam if required.
 
 Costs vary depending on the provider and the depth of the course. You might pay per credit hour, or you might find bundles that offer a discounted rate for multiple courses. If you do a quick estimate and budget for both the course fees and any testing fees, you won’t be caught off guard at the last minute. Balancing your finances from the start makes it easier to choose the courses that fit best with your career goals.
 
@@ -65,3 +65,7 @@ If you’re juggling a busy schedule, consider an online or self-paced curriculu
 Completing Georgia insurance CE courses is an essential part of keeping your license active, but it’s also an excellent opportunity to learn new skills and stay competitive. Once you’ve planned your coursework, tracked your hours, and budgeted for the fees, you’ll find that staying compliant is much easier than it sounds. From there, you can build on your knowledge, grow your client base, and keep your professional momentum going.
 
 When you’re ready to get started, take a moment to explore the various providers and determine which format best suits your lifestyle. Feel free to reach out to JustInsurance for details on structured programs that fit your specific insurance line. With a little planning, you’ll save time, meet every requirement, and move forward with more confidence in your skills.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)

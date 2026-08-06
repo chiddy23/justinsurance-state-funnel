@@ -22,7 +22,7 @@ Here are the most important areas of the Georgia Insurance Code every new agent 
 
 ## What the Georgia Insurance Code Is
 
-The Georgia Insurance Code is the statutory framework that regulates insurance in the state. It's administered by the Office of Commissioner of Insurance and Safety Fire (OCI), led by the Commissioner of Insurance — an elected position in Georgia, which is somewhat unusual among states.
+The [Georgia Insurance Code is the statutory framework that regulates insurance in the state](https://codes.findlaw.com/ga/title-33-insurance/). It's administered by the Office of Commissioner of Insurance and Safety Fire (OCI), led by the Commissioner of Insurance — an elected position in Georgia, which is somewhat unusual among states.
 
 The Code covers everything from licensing and agent duties to policy forms, claims handling, consumer protections, and enforcement. Every licensed agent, broker, adjuster, and insurance company operating in Georgia is bound by it.
 
@@ -32,11 +32,11 @@ As a working agent, you don't need to memorize every section — but you do need
 
 Licensing and Agent Conduct. The sections of the Code covering who can be licensed, what qualifications are required, the standards of conduct expected, and OCI's authority to discipline licensees. This is the foundation of your legal authority as a Georgia agent.
 
-Unfair Trade Practices. Georgia prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more. Violations here are the most common source of agent disciplinary action.
+Unfair Trade Practices. [Georgia prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/). Violations here are the most common source of agent disciplinary action.
 
 Replacement of Life Insurance and Annuities. Specific rules govern the replacement of existing life insurance and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are covered.
 
-Claims Handling Standards. Rules governing how claims must be handled by insurers and adjusters. While primarily applicable to the claims side of the business, agents need to understand them to advise clients when claims don't go smoothly.
+Claims Handling Standards. [Rules governing how claims must be handled by insurers and adjusters](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-34/). While primarily applicable to the claims side of the business, agents need to understand them to advise clients when claims don't go smoothly.
 
 Free-Look Periods. Georgia requires free-look periods on life insurance and annuity contracts, with longer periods for replacement policies.
 
@@ -145,3 +145,9 @@ When uncertain, ask. OCI and reputable industry attorneys can provide guidance o
 The Georgia Insurance Code is extensive but navigable once you know the sections that apply to your work. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover the Code in practical, plain language — not legal jargon.
 
 Enroll today and start your Georgia career with the compliance knowledge to protect it.
+
+**Sources cited:**
+
+- [O.C.G.A. Title 33 — Insurance (the Georgia Insurance Code)](https://codes.findlaw.com/ga/title-33-insurance/) — statutory framework governing insurance in Georgia
+- [O.C.G.A. § 33-6-4 — Unfair methods of competition and unfair or deceptive acts](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/) — misrepresentation, twisting, churning, rebating, defamation
+- [O.C.G.A. § 33-6-34 — Unfair claims settlement practices](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-34/) — claims-handling standards for insurers and adjusters

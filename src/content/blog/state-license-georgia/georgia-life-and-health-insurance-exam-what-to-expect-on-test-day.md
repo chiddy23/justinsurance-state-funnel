@@ -22,7 +22,7 @@ Here's what to expect on test day for the Georgia Life & Health exam.
 
 ## Who Administers the Exam
 
-Georgia insurance licensing exams are administered by Pearson VUE under contract with the Georgia Office of Commissioner of Insurance and Safety Fire (OCI). You register and schedule through Pearson VUE at home.pearsonvue.com/ga/insurance, and you take the exam at an approved Georgia testing center.
+Georgia insurance licensing exams are [administered by Pearson VUE](https://oci.georgia.gov/get-insurance-agent-license) under contract with the Georgia Office of Commissioner of Insurance and Safety Fire (OCI). You register and schedule through Pearson VUE at home.pearsonvue.com/ga/insurance, and you take the exam at an approved Georgia testing center.
 
 ## Where You'll Take the Exam
 
@@ -50,7 +50,7 @@ When you schedule, you choose the testing center most convenient to you. Most ca
 
 The Georgia Life, Accident, and Sickness exam (Pearson VUE exam code 12-GA-05):
 
-- Contains 125 scored questions plus 10 unscored pretest questions — 135 total
+- Contains [125 scored questions plus 10 unscored pretest questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121102.pdf) — 135 total
 
 - Gives you 2 hours and 30 minutes to complete
 
@@ -58,7 +58,7 @@ The Georgia Life, Accident, and Sickness exam (Pearson VUE exam code 12-GA-05):
 
 - Questions are all multiple choice with four answer options
 
-- Devotes 25 of the 125 scored questions to Georgia laws, rules, and regulations, split across three sections — 19 general, 3 life-only, and 3 accident-and-sickness-only — making state law the largest topic area on the exam
+- Devotes 25 of the 125 scored questions to Georgia laws, rules, and regulations, split across three sections — [19 general, 3 life-only, and 3 accident-and-sickness-only](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121102.pdf) — making state law the largest topic area on the exam
 
 You won't know which questions are pretest questions. They're mixed throughout, so answer every question as if it counts.
 
@@ -74,7 +74,7 @@ Two forms of valid ID. One must be government-issued with a photo. Common accept
 
 - Permanent resident card
 
-The name on your IDs must match the name on your Pearson VUE registration exactly. Nickname mismatches or maiden name issues cause check-in delays.
+[The name on your IDs must match the name on your Pearson VUE registration exactly.](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf) Nickname mismatches or maiden name issues cause check-in delays.
 
 Your Pearson VUE confirmation. Bring a printed or digital copy of your registration confirmation.
 
@@ -160,7 +160,7 @@ Congratulations! Next steps:
 
 - Complete fingerprinting if not already done
 
-- Submit your license application through Sircon.com/georgia, OCI's licensing system of record for resident applicants
+- Submit your license application through Sircon.com/georgia, [OCI's licensing system of record for resident applicants](https://oci.georgia.gov/get-insurance-agent-license)
 
 - Pay the application fee
 
@@ -172,7 +172,7 @@ Don't panic. Many successful Georgia agents failed their first attempt.
 
 Review the score report to identify weak content areas
 
-Wait the required period before retaking — 14 days after a first or second failure, or 60 days after a third or subsequent failure — and use the time for focused review
+Wait the required period before retaking — [14 days after a first or second failure, or 60 days after a third or subsequent failure](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf) — and use the time for focused review
 
 Re-register with Pearson VUE and schedule your retake
 
@@ -213,3 +213,9 @@ Breathe. If anxiety hits during the exam, pause for three deep breaths. Reset, t
 Knowing what to expect removes half the stress. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) course covers everything on the exam — plus [practice questions](/georgia/practice-exam) that mirror the real exam's style and difficulty.
 
 Enroll today and walk into your Georgia exam prepared for every part of the experience.
+
+**Sources cited:**
+
+- [Georgia Insurance Content Outlines — Pearson VUE #121102, effective Oct. 22, 2024](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121102.pdf) — scored/pretest counts and Georgia-law section split
+- [Georgia Insurance Licensing Candidate Handbook — Pearson VUE #121100](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf) — ID/name-match rule, 30-minute arrival, retake waiting periods
+- [Georgia Office of Commissioner of Insurance & Safety Fire — Get an Insurance Agent License](https://oci.georgia.gov/get-insurance-agent-license) — Pearson VUE administrator and Sircon resident licensing

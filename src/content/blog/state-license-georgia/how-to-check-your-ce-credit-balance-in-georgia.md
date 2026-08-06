@@ -32,11 +32,11 @@ Checking your CE balance every few months throughout your 2-year cycle catches p
 
 Georgia offers several ways to verify your CE status:
 
-Option 1 — OCI's Online Producer Portal. OCI maintains an online system where licensed producers can view their CE status, license information, and completion history. Access through oci.georgia.gov.
+Option 1 — OCI's Online Producer Portal. [OCI maintains an online system where licensed producers can view their CE status](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), license information, and completion history. Access through oci.georgia.gov.
 
-Option 2 — Sircon. Sircon (sircon.com) is an authorized platform that provides access to your Georgia licensing and CE information. Many agents find Sircon's interface easier to navigate than OCI's portal.
+Option 2 — Sircon. [Sircon (sircon.com)](https://www.sircon.com/landingPages/states/georgia/content.jsp) is an authorized platform that provides access to your Georgia licensing and CE information. Many agents find Sircon's interface easier to navigate than OCI's portal.
 
-Option 3 — NIPR. The National Insurance Producer Registry (nipr.com) provides some license information, though Sircon is typically more comprehensive for CE tracking.
+Option 3 — NIPR. The [National Insurance Producer Registry (nipr.com)](https://nipr.com/licensing-center/state-information/georgia) provides some license information, though Sircon is typically more comprehensive for CE tracking.
 
 ## What You'll Need to Log In
 
@@ -66,7 +66,7 @@ Your CE hours summary:
 
 - Total hours completed in the current cycle
 
-- Total hours required (typically 24 for most licenses)
+- [Total hours required (typically 24 for most licenses)](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
 
 - Remaining hours needed
 
@@ -172,7 +172,7 @@ Your personal log is your insurance against OCI reporting gaps, provider closure
 
 1. How quickly should completed CE appear in my OCI record? Typically within 7–30 days of completion. Some providers report within days, others take a few weeks. Check back periodically.
 
-2. Can I self-report CE hours in Georgia? No. Georgia requires approved providers to submit completions electronically. You don't self-report.
+2. Can I self-report CE hours in Georgia? No. [Georgia requires approved providers to submit completions electronically](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). You don't self-report.
 
 3. What if a course provider goes out of business before reporting my hours? Contact OCI directly with your completion certificate. They can often accept documentation to correct the record.
 
@@ -185,3 +185,9 @@ Your personal log is your insurance against OCI reporting gaps, provider closure
 Regular CE checks take 5 minutes and save hours of stress. At JustInsurance, we're an OCI-approved CE provider — so when you take our courses, we handle reporting for you. Combined with your own periodic checks, you'll always know your CE is on track.
 
 Enroll in our Georgia CE courses today and take the stress out of CE compliance.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [Georgia Producer Portal (Sircon)](https://www.sircon.com/landingPages/states/georgia/content.jsp)
+- [NIPR — Georgia state licensing information](https://nipr.com/licensing-center/state-information/georgia)

@@ -80,7 +80,7 @@ Late fees. Assessed during the grace period. Amount varies.
 
 Reinstatement fees. Assessed if you're beyond the grace period. Can be significant.
 
-Completion of missed CE. You still need to complete your full 24 CE hours, including the mandatory 3 ethics hours — which count toward the 24, not on top of it. Those hours don't go away — you just pay for them later.
+Completion of missed CE. You still need to complete your [full 24 CE hours, including the mandatory 3 ethics hours](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education) — which count toward the 24, not on top of it. Those hours don't go away — you just pay for them later.
 
 Lost business. Commissions you didn't earn while lapsed. This is typically the largest cost.
 
@@ -94,7 +94,7 @@ If you remain out of compliance for an extended period — typically more than 1
 
 Reapplication from scratch. You may need to reapply as a new applicant, including:
 
-- Retaking [prelicense](/georgia/prelicensing) education (16 hours for combined Life/Health, 8 hours per line)
+- Retaking [prelicense](/georgia/prelicensing) education (16 hours for combined Life/Health, [8 hours per line](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors))
 
 - Taking the state exam again
 
@@ -197,3 +197,8 @@ Agency or business disruption. If your business relationships change during your
 Missing CE is one of the easiest career setbacks to prevent. At JustInsurance, our Georgia CE courses are OCI-approved and designed to make compliance simple — so you can renew on time, every time.
 
 Enroll today and protect your Georgia insurance license.
+
+**Sources cited:**
+
+- [Georgia Office of Commissioner of Insurance — Continuing Education (24 hours / 3 ethics)](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [Georgia OCI — Education Providers, Courses & Instructors (prelicensing hours, Rule 120-2-3-.08)](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)

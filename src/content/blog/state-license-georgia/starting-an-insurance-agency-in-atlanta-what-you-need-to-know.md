@@ -38,11 +38,11 @@ Strong small business community. Atlanta has a vibrant small business ecosystem 
 
 ## What You Need to Start
 
-A valid Georgia insurance license. At minimum, you need licensing for the products your agency will sell — typically Life, Accident, and Sickness for life/health-focused agencies, or Property and Casualty for P&C-focused agencies.
+A [valid Georgia insurance license](https://oci.georgia.gov/get-insurance-agent-license). At minimum, you need licensing for the products your agency will sell — typically Life, Accident, and Sickness for life/health-focused agencies, or Property and Casualty for P&C-focused agencies.
 
 A legal business entity. Most Georgia insurance agencies are formed as LLCs or corporations. Forming the entity properly protects your personal assets and establishes the agency as a legitimate business. Work with a Georgia business attorney or use a reputable formation service.
 
-An agency license from OCI. Georgia requires separate licensing for the business entity, not just the individuals within it. Your agency needs its own OCI license, designated officers, and compliance framework.
+[An agency license from OCI](https://oci.georgia.gov/agents-agency-licensing). Georgia requires separate licensing for the business entity, not just the individuals within it. Your agency needs its own OCI license, designated officers, and compliance framework.
 
 Errors and omissions (E&O) insurance. Protects your agency against client claims for sales or service errors. Typically required by carriers before they'll appoint your agency. Budget several hundred to several thousand dollars annually depending on coverage and volume.
 
@@ -181,3 +181,8 @@ Agencies that plan for this timeline succeed. Agencies that expect to be profita
 Starting an insurance agency in Atlanta is one of the most rewarding career moves you can make — when it's built on real preparation. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses give you the foundation to develop into the kind of professional who can successfully run their own agency.
 
 Enroll today and start building toward Atlanta agency ownership the right way.
+
+**Sources cited:**
+
+- [Georgia OCI — Get an Insurance Agent License](https://oci.georgia.gov/get-insurance-agent-license)
+- [Georgia OCI — Agents & Agency Licensing (business-entity/agency licenses)](https://oci.georgia.gov/agents-agency-licensing)

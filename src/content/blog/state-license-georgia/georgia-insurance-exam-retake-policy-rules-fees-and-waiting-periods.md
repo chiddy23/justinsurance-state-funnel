@@ -30,7 +30,7 @@ Keep the score report. Don't discard it. You'll want it for your focused retake 
 
 ## The Waiting Period
 
-Georgia requires an escalating waiting period before you can retake the exam: 14 days following your first or second failure, and 60 days following your third or any subsequent failure. There's no way to schedule a retake before that window ends.
+Georgia requires an escalating waiting period before you can retake the exam: [14 days following your first or second failure, and 60 days following your third or any subsequent failure](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf). There's no way to schedule a retake before that window ends.
 
 Use the mandatory waiting period strategically. Here's why it works in your favor:
 
@@ -48,13 +48,13 @@ Each Georgia exam attempt requires:
 
 - New Pearson VUE registration at home.pearsonvue.com/ga/insurance
 
-- Full exam fee payment (approximately $67 per attempt, confirm current fee at registration)
+- Full exam fee payment ([approximately $67 per attempt](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf), confirm current fee at registration)
 
 The retake fee is the same as the initial attempt fee — no discounts for retakes. This is motivation to prepare thoroughly before each attempt.
 
 ## Number of Attempts Allowed
 
-Georgia does not cap the total number of times you can retake the exam. You can keep attempting until you pass.
+[Georgia does not cap the total number of times you can retake the exam](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf). You can keep attempting until you pass.
 
 However:
 
@@ -156,7 +156,7 @@ Check that you're using Georgia-specific materials. Too many candidates fail bec
 
 Georgia exam results don't last forever. If you pass but delay submitting your license application:
 
-- Your exam results are typically valid for 1 year from the date you passed
+- Your exam results are typically [valid for 1 year from the date you passed](https://nipr.com/licensing-center/state-information/georgia)
 
 - You must submit your license application within that window
 
@@ -166,7 +166,7 @@ Don't pass and then sit on your results. Submit your application quickly after p
 
 ## 5 Frequently Asked Questions
 
-1. How soon can I retake the Georgia insurance exam after failing? After a mandatory 14-day waiting period for a first or second failure, or 60 days for a third or subsequent failure. Use that time for focused preparation.
+1. How soon can I retake the Georgia insurance exam after failing? After a mandatory [14-day waiting period for a first or second failure, or 60 days for a third or subsequent failure](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf). Use that time for focused preparation.
 
 2. Do I have to redo my prelicense course if I fail the exam? No. Your prelicense completion remains valid. You only need to re-register with Pearson VUE and pay the retake fee.
 
@@ -181,3 +181,8 @@ Don't pass and then sit on your results. Submit your application quickly after p
 Failing the Georgia exam once — or even twice — doesn't mean this career isn't for you. It means you need a better preparation strategy. At JustInsurance, our Georgia prelicense course includes practice exams designed to simulate the real test, so you walk in prepared for what's actually coming.
 
 Enroll today and set yourself up to pass on the first — or next — attempt.
+
+**Sources cited:**
+
+- [Pearson VUE — Georgia Insurance Licensing Candidate Handbook (#121100)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf)
+- [NIPR — Georgia State Licensing Information](https://nipr.com/licensing-center/state-information/georgia)

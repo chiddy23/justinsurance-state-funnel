@@ -22,13 +22,13 @@ Here's exactly how Georgia fingerprinting works for insurance applicants — whe
 
 ## Why Georgia Requires Fingerprinting
 
-Georgia's Office of Commissioner of Insurance requires fingerprinting as part of the background check on all insurance license applicants. Your fingerprints are submitted through both the Georgia Bureau of Investigation (GBI) and the FBI to check for criminal history at the state and federal levels.
+Georgia's Office of Commissioner of Insurance requires fingerprinting as part of the background check on all insurance license applicants. Your fingerprints are submitted through both the [Georgia Bureau of Investigation (GBI)](https://oci.georgia.gov/get-insurance-agent-license) and the FBI to check for criminal history at the state and federal levels.
 
 This isn't unique to Georgia — most states require it. OCI uses the results to ensure that people entering the insurance industry meet the character and fitness standards expected of licensed professionals.
 
 ## Where to Get Fingerprinted in Georgia
 
-Georgia uses approved electronic fingerprinting providers. The primary provider is IdentoGO (operated by IDEMIA), which has locations throughout the state.
+Georgia uses approved electronic fingerprinting providers. The primary provider is [IdentoGO](https://oci.georgia.gov/get-insurance-agent-license) (operated by IDEMIA), which has locations throughout the state.
 
 To schedule your appointment:
 
@@ -136,7 +136,7 @@ If you're applying for a non-resident Georgia license (you're licensed in anothe
 
 2. How long does it take for OCI to receive my fingerprint results? Typically 24 to 72 hours. Processing can take longer during high-volume periods or if there are issues requiring additional review.
 
-3. Do I need to get fingerprinted every time I renew my license? No. Fingerprinting is typically a one-time requirement for initial licensure in Georgia. Renewal doesn't require re-fingerprinting.
+3. Do I need to get fingerprinted every time I renew my license? No. Fingerprinting is typically a [one-time requirement for initial licensure in Georgia](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf). Renewal doesn't require re-fingerprinting.
 
 4. What if I've already been fingerprinted for another Georgia state agency? OCI typically requires its own fingerprint submission through its approved process specifically for insurance licensing. Prints submitted for another agency don't automatically transfer.
 
@@ -147,3 +147,8 @@ If you're applying for a non-resident Georgia license (you're licensed in anothe
 Fingerprinting is simple when you know what to expect. At JustInsurance, we walk our students through the full Georgia licensing process — not just the exam content — so you're never caught off guard by a step you didn't know was coming.
 
 Enroll in our Georgia [prelicense](/georgia/prelicensing) course and get fully prepared from day one.
+
+**Sources cited:**
+
+- [Georgia OCI — Get an Insurance Agent License (IdentoGO service code 2TGJ6B)](https://oci.georgia.gov/get-insurance-agent-license)
+- [Pearson VUE — Georgia Insurance Licensing Candidate Handbook (#121100)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf)

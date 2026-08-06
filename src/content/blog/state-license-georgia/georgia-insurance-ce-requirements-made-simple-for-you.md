@@ -31,7 +31,7 @@ If you’re unsure which courses count toward these hours, remember you’re not
 
 ## Gather [pre-licensing requirements](/georgia/prelicensing)
 
-Before you dive into CE, you need your Georgia insurance license. This involves a pre-licensing period where you must complete a state-mandated number of study hours for each line of authority. For example, life insurance and property and casualty each typically have their own classroom or online study requirements that cover key fundamentals like policy provisions, claims handling, and Georgia-specific regulations.
+Before you dive into CE, you need your Georgia insurance license. This involves a pre-licensing period where you must complete a [state-mandated number of study hours for each line of authority](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors). For example, life insurance and property and casualty each typically have their own classroom or online study requirements that cover key fundamentals like policy provisions, claims handling, and Georgia-specific regulations.
 
 You’ll find plenty of reputable course providers in Georgia, which makes it easier to learn at your own pace. Look for a provider that offers interactive materials, practice quizzes, and clear feedback on your progress. Successful completion of these study hours ensures you’re prepared for the licensing exam, a crucial milestone that confirms your understanding of insurance concepts.
 
@@ -47,7 +47,7 @@ You usually learn your pass/fail status right after the test. If you pass, you c
 
 ## Complete necessary continuing education
 
-After you become licensed, paying attention to Georgia insurance CE requirements ensures your license remains active. Most resident licensees complete 24 hours of continuing education every two years, due on or before the last day of your birth month — and beginning in 2026, licensees with more than 20 years of service receive an automatic 4-hour reduction to 20 hours. Within that total, 3 hours must be ethics. That piece is mandatory, not optional, and it can’t be swapped for other coursework. Keeping a personal calendar of your renewal deadlines simplifies this process. A digital reminder that pings you a few months before your renewal date guarantees you’ll never scramble at the last minute.
+After you become licensed, paying attention to Georgia insurance CE requirements ensures your license remains active. Most resident licensees complete [24 hours of continuing education every two years, due on or before the last day of your birth month](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education) — and beginning in 2026, [licensees with more than 20 years of service receive an automatic 4-hour reduction to 20 hours](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). Within that total, 3 hours must be ethics. That piece is mandatory, not optional, and it can’t be swapped for other coursework. Keeping a personal calendar of your renewal deadlines simplifies this process. A digital reminder that pings you a few months before your renewal date guarantees you’ll never scramble at the last minute.
 
 Providers in Georgia typically offer flexible CE formats, including online, self-study, and in-person classes. Even if you’ve never tried the online format before, you might discover it’s surprisingly convenient. You can complete short modules during breaks or weekends, track your progress, and sometimes even take the exam portion online. Just confirm the provider is state-approved so your completed hours will be accepted without any extra hassle.
 
@@ -55,7 +55,7 @@ Whenever you finish a CE course, hold onto your completion certificates. You don
 
 ## Maintain your license obligations
 
-Beyond earning CE credits, you’re responsible for renewing your license by the state deadline and paying any required fees on time. Late renewals can incur penalty charges or put your ability to sell insurance at risk. Fortunately, the online renewal process for Georgia is fairly straightforward. Georgia’s regulator is the Office of Commissioner of Insurance and Safety Fire (OCI), and resident licensees renew through Sircon.com/georgia, OCI’s licensing system of record. You don’t key in your CE hours yourself — approved providers report your completions electronically, so your job is to confirm your CE transcript already shows the required credits, then submit the renewal and pay the fee digitally.
+Beyond earning CE credits, you’re responsible for renewing your license by the state deadline and paying any required fees on time. Late renewals can incur penalty charges or put your ability to sell insurance at risk. Fortunately, the online renewal process for Georgia is fairly straightforward. Georgia’s regulator is the Office of Commissioner of Insurance and Safety Fire (OCI), and resident licensees renew through [Sircon.com/georgia](https://www.sircon.com/landingPages/states/georgia/content.jsp), OCI’s licensing system of record. You don’t key in your CE hours yourself — [approved providers report your completions electronically](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), so your job is to confirm your CE transcript already shows the required credits, then submit the renewal and pay the fee digitally.
 
 As you gain experience, you may add new lines of authority or specialize in niche areas. Whenever that happens, be sure to stay current on any extra CE hours you might need. It’s much easier to manage these obligations actively than to play catch-up later. By maintaining a steady rhythm of CE completion and timely renewals, you ensure your professional credentials remain solid for years to come.
 
@@ -74,3 +74,9 @@ By now, you know that obtaining and keeping a Georgia insurance license requires
 Remember that continuing education isn’t only a legal necessity, but also a gateway to becoming a more confident and informed insurance professional. The insurance landscape in Georgia is constantly evolving, and staying on top of those shifts is essential for anyone serious about success. Where do you go from here? Take a moment to review the next deadline on your calendar, set up a study plan, or check out JustInsurance’s offerings to see how they can lighten your load.
 
 You’ve got everything you need to thrive in this business. Now, all you have to do is take action. When you’re ready, start completing your mandatory credits or preparing for your next license exam. Each step moves you closer to a career that grows right along with you. Good luck, and remember—Georgia insurance CE requirements may be detailed, but with the right tools and a supportive guide, you’ll sail through them with confidence.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [Georgia OCI — Education providers, courses, and prelicensing](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)
+- [Georgia Producer Portal (Sircon)](https://www.sircon.com/landingPages/states/georgia/content.jsp)

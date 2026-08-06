@@ -22,7 +22,7 @@ Here's exactly what Georgia requires — and what can cause application issues.
 
 ## Age Requirements
 
-Georgia requires insurance license applicants to be at least 18 years old at the time of application. No exceptions — applicants must meet this threshold before submitting any application materials.
+Georgia requires insurance license applicants to be [at least 18 years old](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf) at the time of application. No exceptions — applicants must meet this threshold before submitting any application materials.
 
 There's no maximum age. Georgia welcomes candidates at every stage of life, including people entering insurance as a second or third career.
 
@@ -38,7 +38,7 @@ Non-Georgia residents who want to conduct insurance business with Georgia client
 
 ## Education Requirements
 
-Georgia doesn't require a college degree or any specific prior education for licensure. You don't need a background in finance, business, or insurance. What you do need is the 16 hours of OCI-approved [prelicense](/georgia/prelicensing) education for the Life, Accident, and Sickness license (8 hours life + 8 hours health).
+Georgia doesn't require a college degree or any specific prior education for licensure. You don't need a background in finance, business, or insurance. What you do need is the 16 hours of OCI-approved [prelicense](/georgia/prelicensing) education for the Life, Accident, and Sickness license ([8 hours life + 8 hours health](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)).
 
 Requirements for other license types:
 
@@ -54,7 +54,7 @@ Prelicense education must be completed through an OCI-approved provider, and you
 
 ## Background Check Requirements
 
-Every Georgia insurance license applicant must complete a criminal background check as part of the application process. This is done through electronic fingerprinting scheduled with the GBI's approved vendor, IdentoGO, using OCI service code 2TGJ6B.
+Every Georgia insurance license applicant must complete a criminal background check as part of the application process. This is done through electronic fingerprinting scheduled with the GBI's approved vendor, [IdentoGO, using OCI service code 2TGJ6B](https://oci.georgia.gov/get-insurance-agent-license).
 
 Your fingerprints are submitted to both:
 
@@ -134,9 +134,9 @@ Truthful application. Misrepresentations on your application are themselves a ba
 
 Fingerprint payment. You'll pay the fingerprinting fee directly to the provider — about $52 for the combined Georgia and FBI background check — separate from the application fee paid to OCI.
 
-Application fee. The resident individual producer license application fee is $120. Georgia residents apply through Sircon.com/georgia, OCI's licensing system of record.
+Application fee. The resident individual producer license application fee is [$120](https://oci.georgia.gov/get-insurance-agent-license). Georgia residents apply through [Sircon.com/georgia](https://www.sircon.com/georgia), OCI's licensing system of record.
 
-Exam registration fee. Pearson VUE charges approximately $67 per exam attempt. This is separate from application and fingerprint fees.
+Exam registration fee. Pearson VUE charges [approximately $67 per exam attempt](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf). This is separate from application and fingerprint fees.
 
 ## 5 Frequently Asked Questions
 
@@ -155,3 +155,10 @@ Exam registration fee. Pearson VUE charges approximately $67 per exam attempt. T
 Understanding the requirements eliminates guesswork. At JustInsurance, our Georgia prelicense course covers everything you need for the state exam, and we help you understand the full licensing process so nothing catches you off guard.
 
 Enroll today and start your Georgia insurance career with clarity.
+
+**Sources cited:**
+
+- [Georgia OCI — Get an Insurance Agent License](https://oci.georgia.gov/get-insurance-agent-license)
+- [Georgia OCI — Education Providers, Courses & Instructors (Rule 120-2-3-.08)](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)
+- [Sircon — Georgia Licensing](https://www.sircon.com/georgia)
+- [Pearson VUE — Georgia Insurance Licensing Candidate Handbook (#121100)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf)

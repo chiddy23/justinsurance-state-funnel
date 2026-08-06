@@ -22,11 +22,11 @@ Here's why Georgia ethics CE is required and what it actually covers.
 
 ## The Basic Requirement
 
-Georgia requires 3 hours of Ethics CE in every 2-year renewal cycle. Those 3 hours are part of your total CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
+Georgia requires [3 hours of Ethics CE in every 2-year renewal cycle](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). Those 3 hours are part of your total CE requirement — not in addition to it — but they're a mandatory subset that can't be substituted with other coursework.
 
-Most resident licensees owe 24 hours per cycle. Beginning in 2026, licensees with more than 20 years of service receive an automatic 4-hour reduction, bringing them to 20 hours. Either way, the 3-hour ethics obligation is unchanged.
+Most resident licensees owe [24 hours per cycle](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). Beginning in 2026, [licensees with more than 20 years of service receive an automatic 4-hour reduction, bringing them to 20 hours](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). Either way, the 3-hour ethics obligation is unchanged.
 
-The requirement applies to producers holding the major lines — Life, Accident, and Sickness; Property and Casualty; and Personal Lines. Some limited licenses are treated differently: credit-insurance-only and limited subagent licensees have a reduced 10-hour requirement with no ethics component, and workers' compensation adjusters carry a 20-hour requirement with no mandated ethics course.
+The requirement applies to producers holding the major lines — Life, Accident, and Sickness; Property and Casualty; and Personal Lines. Some limited licenses are treated differently: [credit-insurance-only and limited subagent licensees have a reduced 10-hour requirement with no ethics component, and workers' compensation adjusters carry a 20-hour requirement with no mandated ethics course](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education).
 
 Skip the Ethics component, and your CE is considered incomplete even if your total hours are otherwise satisfied. No renewal, no active license.
 
@@ -34,7 +34,7 @@ Skip the Ethics component, and your CE is considered incomplete even if your tot
 
 Insurance is one of the most trust-dependent industries there is. Agents hold significant responsibility — they guide financial decisions affecting decades of clients' lives, handle sensitive personal and medical information, and process claims that change families' trajectories. When the trust underlying those relationships breaks down, it harms clients, insurers, and the industry as a whole.
 
-Georgia requires ethics CE to make sure licensed professionals regularly revisit the standards that define responsible conduct. It also reinforces the conduct rules Georgia actually writes into law — the unfair methods of competition and deceptive practices enumerated in O.C.G.A. § 33-6-4, and the grounds for license discipline set out in O.C.G.A. § 33-23-21.
+Georgia requires ethics CE to make sure licensed professionals regularly revisit the standards that define responsible conduct. It also reinforces the conduct rules Georgia actually writes into law — the [unfair methods of competition and deceptive practices enumerated in O.C.G.A. § 33-6-4](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/), and the [grounds for license discipline set out in O.C.G.A. § 33-23-21](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-21/).
 
 Ethics isn't an abstract philosophical requirement. It's practical career protection.
 
@@ -64,7 +64,7 @@ Complaint handling and regulatory cooperation. How to respond when clients compl
 
 Ethics violations aren't just abstract concerns. They can lead to fines, license suspension, or revocation in Georgia.
 
-The conduct that puts a license at risk under O.C.G.A. § 33-23-21 — fraudulent or dishonest practices, misappropriating money belonging to clients or insurers, misrepresenting the terms of a policy, and demonstrating a lack of trustworthiness — is exactly what ethics CE is built to help you recognize and avoid.
+The conduct that puts a license at risk under [O.C.G.A. § 33-23-21](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-21/) — fraudulent or dishonest practices, misappropriating money belonging to clients or insurers, misrepresenting the terms of a policy, and demonstrating a lack of trustworthiness — is exactly what ethics CE is built to help you recognize and avoid.
 
 Taking ethics CE seriously is one of the cheapest forms of career insurance available.
 
@@ -107,3 +107,9 @@ Confidentiality lapses. Discussing client details casually with colleagues, fami
 At JustInsurance, our Georgia ethics CE courses are OCI-approved, current, and designed to be practical — so you walk away with more than a checkmark. You walk away with a clearer framework for protecting your clients and your career.
 
 Enroll in our Georgia Ethics CE today and meet your requirement the right way.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [O.C.G.A. § 33-6-4 — Unfair methods of competition and deceptive practices](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/)
+- [O.C.G.A. § 33-23-21 — Grounds for license discipline](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-21/)

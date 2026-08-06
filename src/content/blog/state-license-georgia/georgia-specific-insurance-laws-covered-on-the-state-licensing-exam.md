@@ -58,7 +58,7 @@ Replacement-related questions often present scenarios and ask which action the a
 
 ## Georgia Unfair Trade Practices
 
-Georgia law prohibits specific conduct considered unfair or deceptive. The exam tests whether you can recognize these practices when described in scenario questions:
+[Georgia law prohibits specific conduct considered unfair or deceptive](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/). The exam tests whether you can recognize these practices when described in scenario questions:
 
 Misrepresentation. Making false statements about policies, benefits, premiums, dividends, or insurer financial condition.
 
@@ -98,13 +98,13 @@ The exam tests understanding of Georgia's own licensing rules:
 
 - Residency requirements
 
-- [Prelicense](/georgia/prelicensing) education (16 hours for combined Life, Accident, and Sickness — 8 hours per line)
+- [Prelicense](/georgia/prelicensing) education (16 hours for combined Life, Accident, and Sickness — [8 hours per line](https://oci.georgia.gov/get-insurance-agent-license))
 
 - Exam requirements
 
 - Background check and fingerprinting
 
-- CE requirements (24 hours biennially with 3 hours ethics)
+- CE requirements ([24 hours biennially with 3 hours ethics](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education))
 
 - License renewal cycle
 
@@ -114,7 +114,7 @@ Licensing-related questions are often straightforward factual recall. Know the n
 
 ## Georgia Claims Handling Standards
 
-Georgia has laws governing how insurance claims must be handled:
+[Georgia has laws governing how insurance claims must be handled](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-34/):
 
 - Timely investigation requirements
 
@@ -200,7 +200,7 @@ Don't leave state law for the final week. State-specific content is dense. Integ
 
 ## 5 Frequently Asked Questions
 
-1. How much of the Georgia exam is state-specific law? On the combined Life, Accident, and Sickness exam, Georgia-specific law accounts for 25 of the 125 scored questions — about a fifth of the exam, and the single largest content block on the outline. That's substantial enough to fail the exam on its own if you skip it.
+1. How much of the Georgia exam is state-specific law? On the combined Life, Accident, and Sickness exam, Georgia-specific law accounts for [25 of the 125 scored questions](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121102.pdf) — about a fifth of the exam, and the single largest content block on the outline. That's substantial enough to fail the exam on its own if you skip it.
 
 2. Can national study materials cover Georgia law? Partially. National materials cover general insurance concepts well but rarely go deep on Georgia-specific rules. Use Georgia-specific prelicense courses to cover this portion.
 
@@ -215,3 +215,11 @@ Don't leave state law for the final week. State-specific content is dense. Integ
 Georgia law is where most exam failures happen. At JustInsurance, our Georgia prelicense course dedicates real attention to state-specific content — not just a quick overview — so you walk into the exam prepared for every section.
 
 Enroll today and own the Georgia portion of the exam.
+
+**Sources cited:**
+
+- [O.C.G.A. § 33-6-4 — Unfair methods of competition and unfair or deceptive acts](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/) — misrepresentation, twisting, rebating, defamation, coercion
+- [O.C.G.A. § 33-6-34 — Unfair claims settlement practices](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-34/) — claims investigation, good-faith settlement, denial-explanation standards
+- [Georgia Insurance Content Outlines — Pearson VUE #121102](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121102.pdf) — 25 of 125 scored questions on Georgia law
+- [Georgia Office of Commissioner of Insurance & Safety Fire — Get an Insurance Agent License](https://oci.georgia.gov/get-insurance-agent-license) — prelicensing hours per line
+- [Georgia OCI — Continuing Education](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education) — 24-hour biennial CE with 3 hours ethics

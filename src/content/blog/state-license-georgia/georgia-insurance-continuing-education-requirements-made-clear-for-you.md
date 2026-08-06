@@ -32,7 +32,7 @@ Depending on your background, you may also need to submit a fingerprint or backg
 
 With your license in hand, you can now turn your attention to Georgia insurance continuing education requirements, which are in place to keep your industry knowledge current. CE ensures that you stay informed about evolving laws, claim practices, and consumer protection guidelines.
 
-Georgia generally requires you to complete continuing education credits within a specific renewal cycle. These credits must include certain mandatory topics such as ethics, but the rest can be tailored to your specialization. Since no two insurance careers look exactly alike, you have the flexibility to choose courses that align with your areas of focus, whether that is personal lines, life insurance, or something more niche.
+Georgia generally requires you to complete continuing education credits within a specific renewal cycle. These credits [must include certain mandatory topics such as ethics](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education), but the rest can be tailored to your specialization. Since no two insurance careers look exactly alike, you have the flexibility to choose courses that align with your areas of focus, whether that is personal lines, life insurance, or something more niche.
 
 You will often find online and classroom-based classes, along with self-study programs if you prefer learning at your own pace. However you decide to complete your CE hours, remember to keep proof of completion and stay organized. You will need to confirm you have met the credit-hour minimum before each renewal deadline to avoid any interruptions in your license status.
 
@@ -70,3 +70,7 @@ Remember, your continuing education responsibilities also serve as a path to bec
 Now that you know the process, it is time to schedule your courses, mark those important dates, and stay ahead of the game. Whether you have been in insurance for years or you are just starting out, you have the tools and resources you need to keep your Georgia license in great shape. Let your commitment to growth be the cornerstone of your career, and you will be on track for success in the long run.
 
 Ready to move forward? Take a moment to explore reputable providers like JustInsurance or reach out to a seasoned colleague for advice on where to enroll. Your next step could be as simple as signing up for your first CE course and making a note of your renewal deadline. By taking action now, you are positioning yourself for continued success and a thriving career in Georgia’s insurance industry.
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)

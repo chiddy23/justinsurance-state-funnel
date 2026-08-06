@@ -27,7 +27,7 @@ Maintaining your license is just as crucial as earning it. Once you're officiall
 
 ### Complete your [pre-licensing requirements](/georgia/prelicensing)
 
-Georgia requires you to finish approved pre-licensing hours for the type of insurance you plan to sell. Since June 24, 2025, every major line of authority — Life, Accident & Sickness, Property, Casualty, and Personal Lines — carries the same minimum 8-hour approved course (Ga. Comp. R. & Regs. 120-2-3-.08), so a combined Life and Accident & Sickness license runs 16 hours, and so does combined Property and Casualty. Limited and specialty lines have their own totals, so confirm the exact requirement for your license type with the Georgia Office of Insurance and Safety Fire Commissioner (OCI). You’ll learn about policy structures, state regulations, ethical practices, and other key coverage details. Many learners choose online courses for flexibility, especially if you’re working or attending school, but in-person classes are also an option if you prefer a classroom setting.
+Georgia requires you to finish approved pre-licensing hours for the type of insurance you plan to sell. Since June 24, 2025, every major line of authority — Life, Accident & Sickness, Property, Casualty, and Personal Lines — carries the same minimum [8-hour approved course](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors) (Ga. Comp. R. & Regs. 120-2-3-.08), so a combined Life and Accident & Sickness license runs 16 hours, and so does combined Property and Casualty. Limited and specialty lines have their own totals, so confirm the exact requirement for your license type with the Georgia Office of Insurance and Safety Fire Commissioner (OCI). You’ll learn about policy structures, state regulations, ethical practices, and other key coverage details. Many learners choose online courses for flexibility, especially if you’re working or attending school, but in-person classes are also an option if you prefer a classroom setting.
 
 ### Schedule and pass your exam
 
@@ -45,7 +45,7 @@ Staying on top of this deadline is straightforward once you build a habit. Many 
 
 ## Understand continuing education requirements
 
-For most lines of insurance, Georgia requires 24 hours of continuing education per renewal cycle, including at least three hours dedicated to ethics. Exact requirements can vary by license type, so confirm which specific CE obligations apply to you. This ensures you choose the right courses that both interest you and meet state standards.
+For most lines of insurance, Georgia requires [24 hours of continuing education per renewal cycle, including at least three hours dedicated to ethics](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). Exact requirements can vary by license type, so confirm which specific CE obligations apply to you. This ensures you choose the right courses that both interest you and meet state standards.
 
 You can take your CE coursework through approved online providers, local seminars, or in-person workshops. These classes keep you informed about emerging trends, product updates, and regulatory changes. If you’re aiming to expand beyond your current license line, CE can be a chance to learn about other areas of the insurance field. A well-rounded education makes you more valuable to clients and may boost your earning potential.
 
@@ -67,3 +67,8 @@ Before you finalize your renewal each cycle, make sure all your hours are proper
 The more comfortable you feel with each of these steps, the clearer your path toward a successful insurance career becomes. Whether you’re scheduling your first licensing exam or mapping out your continuing education plan, you’ll want steady guidance along the way. JustInsurance offers a range of tools to help you navigate your pre-licensing courses, fulfill your CE requirements, and stay on top of each crucial deadline.
 
 Keeping your Georgia insurance license in good standing doesn’t have to be stressful. By planning your coursework, knowing your renewal schedule, and choosing educational resources that fit your learning style, you’ll feel more than ready to serve your clients. If you’re ready to take your next step, reach out to JustInsurance and let us help you build a clear, straightforward path toward meeting every Georgia insurance CE deadline. Your bright future in insurance starts now.
+
+**Sources cited:**
+
+- [Georgia OCI — Education Providers, Courses & Instructors (8-hour prelicensing, Rule 120-2-3-.08)](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)
+- [Georgia Office of Commissioner of Insurance — Continuing Education (24 hours / 3 ethics)](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)

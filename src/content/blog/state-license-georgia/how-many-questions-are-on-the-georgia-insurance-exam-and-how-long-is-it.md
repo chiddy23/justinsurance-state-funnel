@@ -22,11 +22,11 @@ Here's the complete breakdown of the Georgia insurance exam format.
 
 ## Who Administers the Exam
 
-Georgia insurance licensing exams are administered by Pearson VUE on behalf of the Georgia Office of the Commissioner of Insurance and Safety Fire (OCI). Georgia has no "Department of Insurance" — OCI is the agency that owns the licensing rules, and it is the name you will see on every official form. You register, schedule, and take the exam at Pearson VUE testing centers throughout Georgia.
+Georgia insurance licensing exams are [administered by Pearson VUE](https://oci.georgia.gov/get-insurance-agent-license) on behalf of the Georgia Office of the Commissioner of Insurance and Safety Fire (OCI). Georgia has no "Department of Insurance" — OCI is the agency that owns the licensing rules, and it is the name you will see on every official form. You register, schedule, and take the exam at Pearson VUE testing centers throughout Georgia.
 
 ## Exam Breakdown by License Type
 
-Every number below comes from two published Pearson VUE documents: the Georgia Insurance Content Outlines (effective October 22, 2024), which state the exact scored and pretest question counts, and the exam table in the Georgia Insurance Licensing Candidate Handbook, which sets the time limit and fee. Each exam includes a small block of unscored pretest questions on top of the scored ones, so you will always answer more questions than are actually graded.
+Every number below comes from two published Pearson VUE documents: the [Georgia Insurance Content Outlines (effective October 22, 2024)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121102.pdf), which state the exact scored and pretest question counts, and the exam table in the [Georgia Insurance Licensing Candidate Handbook](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf), which sets the time limit and fee. Each exam includes a small block of unscored pretest questions on top of the scored ones, so you will always answer more questions than are actually graded.
 
 Life, Accident, and Sickness (Combined) — exam 12-GA-05:
 
@@ -104,7 +104,7 @@ The safest approach is to treat every question as scored. Answer each one carefu
 
 ## How the 70% Passing Score Works
 
-Your score is based only on the scored questions. Pearson VUE reports the result as a percent score on a 0%–100% scale — literally the percentage of scored questions you answered correctly — and Georgia's Office of the Commissioner of Insurance and Safety Fire set the passing mark at 70% after a study of each examination.
+Your score is based only on the scored questions. Pearson VUE reports the result as a percent score on a 0%–100% scale — literally the percentage of scored questions you answered correctly — and Georgia's Office of the Commissioner of Insurance and Safety Fire [set the passing mark at 70% after a study of each examination](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf).
 
 For the 125 scored questions on the Life, Accident, and Sickness exam:
 
@@ -208,7 +208,7 @@ Either way, results are reported electronically to OCI. You don't need to submit
 
 If you fail:
 
-- Wait 14 days before scheduling a retake after your first or second failure, or 60 days after a third or subsequent failure (check current Pearson VUE policies)
+- [Wait 14 days before scheduling a retake after your first or second failure, or 60 days after a third or subsequent failure](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf) (check current Pearson VUE policies)
 
 - Pay a new exam fee of approximately $67
 
@@ -235,3 +235,9 @@ Use your failed score report to focus study on weak content areas before retakin
 When you know exactly what you're facing, you can prepare precisely. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) course is built around the real exam format — so every practice question you work on is preparing you for the actual test.
 
 Enroll today and prepare for the Georgia exam the right way.
+
+**Sources cited:**
+
+- [Georgia Insurance Content Outlines — Pearson VUE #121102, effective Oct. 22, 2024](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121102.pdf) — scored/pretest question counts and content-area distribution
+- [Georgia Insurance Licensing Candidate Handbook — Pearson VUE #121100](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121100.pdf) — exam length, $67 fee, 70% passing score, retake policy
+- [Georgia Office of Commissioner of Insurance & Safety Fire — Get an Insurance Agent License](https://oci.georgia.gov/get-insurance-agent-license) — Pearson VUE as exam administrator

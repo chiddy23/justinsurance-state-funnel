@@ -35,9 +35,9 @@ Includes ethics?
 
 Life
 
-24
+[24](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
 
-Yes (3 hours typically)
+Yes ([3 hours typically](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education))
 
 Accident & Sickness
 
@@ -90,3 +90,7 @@ Continuing education can feel like another to-do item on your list, but it’s a
 When you’re ready to tackle the Georgia insurance CE exam or renew your license, JustInsurance can streamline the process with intuitive studying tools and up-to-date courses. The right support ensures you keep a positive attitude from registration day until you see your renewed license. In a competitive market, an active and well-maintained insurance license can open new doors and propel your career forward.
 
 Take that next step right away. Confirm your license type, line up your courses, and schedule your exam—all while momentum is on your side. You’ll soon discover that conquering the Georgia insurance CE exam is entirely achievable, especially when you invest in thoughtful planning and quality preparation. Good luck as you move confidently toward renewal, and here’s to a successful, long-term career in Georgia’s insurance industry!
+
+**Sources cited:**
+
+- [Georgia OCI — Continuing Education requirements](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)

@@ -42,7 +42,7 @@ Once you pass the exam and receive your license, the continuing education cycle 
 Even experienced agents run into hurdles with Georgia’s CE rules. If your goal is to renew on time or obtain your initial Georgia insurance CE approval without complications, steer clear of these pitfalls:
 
 -   Waiting until the last minute. Trying to cram multiple courses right before your renewal deadline is risky. Technical glitches, personal emergencies, or incomplete coursework can ruin your plans.
--   Overlooking ethics requirements. Georgia typically includes an ethics component in the mandated continuing education hours. If you skip the ethics portion, your CE credits may be rejected.
+-   Overlooking ethics requirements. Georgia typically includes an [ethics component in the mandated continuing education hours](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education). If you skip the ethics portion, your CE credits may be rejected.
 -   Mixing up lines of authority. Each type of insurance license (for example, Life vs Property) may have distinct course needs. Make sure your class selections match the license you want to maintain.
 -   Not verifying course completion. Always save your certificates of completion in both digital and printed forms. If there is a dispute or database error, you will have proof on hand.
 
@@ -50,7 +50,7 @@ Sometimes it only takes a small oversight to miss the renewal window or spend mo
 
 ## Manage your timeline effectively
 
-Licensing renewal in Georgia generally runs on a two-year cycle, and your license expires on the last day of your birth month rather than on the anniversary of the day you were first licensed (O.C.G.A. § 33-23-18). By looking up your expiration date on the Georgia Office of Insurance and Safety Fire Commissioner (OCI) website at oci.georgia.gov, you can count backward to plan your coursework over a realistic timeline.
+Licensing renewal in Georgia generally runs on a two-year cycle, and your [license expires on the last day of your birth month](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-18/) rather than on the anniversary of the day you were first licensed (O.C.G.A. § 33-23-18). By looking up your expiration date on the Georgia Office of Insurance and Safety Fire Commissioner (OCI) website at oci.georgia.gov, you can count backward to plan your coursework over a realistic timeline.
 
 It can be helpful to spread out your CE hours rather than doing them all in one month. You might dedicate a few hours each quarter to stay on pace. This helps with knowledge retention and reduces the chance of a last-minute scramble. If possible, include courses that complement your day-to-day work, as this keeps the material more engaging and relevant. After completing each course, be sure to download your certificate of completion so you can easily retrieve it come renewal time.
 
@@ -73,3 +73,8 @@ Completing CE is not just about meeting legal obligations. It can genuinely expa
 If you are ready to get started or still have questions about the process, consider working with a reputable resource like JustInsurance. Their team specializes in helping Georgia-based professionals successfully meet CE needs without confusion or delays.
 
 By taking these steps now, you set yourself up for a smooth renewal and keep your career in insurance thriving. Start mapping out your CE plan today, and when you are ready, JustInsurance can guide you every step of the way.
+
+**Sources cited:**
+
+- [Georgia Office of Commissioner of Insurance — Continuing Education (ethics requirement)](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
+- [O.C.G.A. § 33-23-18 — License expiration on last day of birth month (biennial)](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-18/)

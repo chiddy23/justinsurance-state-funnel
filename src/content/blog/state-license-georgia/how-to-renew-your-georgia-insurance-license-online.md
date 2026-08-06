@@ -22,7 +22,7 @@ Here's exactly how to renew your Georgia insurance license online.
 
 ## Georgia's Renewal Cycle
 
-Georgia insurance licenses renew on a 2-year cycle, and your expiration date is set by your birth month — not by when your license was originally issued. Under O.C.G.A. § 33-23-18, resident agent, subagent, adjuster, and counselor licenses are issued on a biennial basis and expire on the last day of the licensee's birth month. OCI also lists your exact renewal date in your online profile, so confirm it there before you plan around it.
+Georgia insurance licenses renew on a 2-year cycle, and your expiration date is set by your birth month — not by when your license was originally issued. Under [O.C.G.A. § 33-23-18](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-18/), resident agent, subagent, adjuster, and counselor licenses are issued on a biennial basis and expire on the last day of the licensee's birth month. OCI also lists your exact renewal date in your online profile, so confirm it there before you plan around it.
 
 Renewal applies to all Georgia insurance license types:
 
@@ -42,9 +42,9 @@ Each has its own CE requirements that must be satisfied before renewal.
 
 Before you can renew, you must have completed your continuing education requirements for the cycle. For most Georgia insurance producers, this means:
 
-- 24 hours of CE every 2-year cycle
+- [24 hours of CE every 2-year cycle](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)
 
-- 3 hours must be in Ethics (or specific ethics-focused content)
+- [3 hours must be in Ethics](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education) (or specific ethics-focused content)
 
 - The remaining 21 hours can be in approved elective insurance topics
 
@@ -168,7 +168,7 @@ Keep documentation. Save every CE completion certificate indefinitely.
 
 ## 5 Frequently Asked Questions
 
-1. How often do I have to renew my Georgia insurance license? Every 2 years, and your license expires on the last day of your birth month (O.C.G.A. § 33-23-18). Your deadline follows your birth month, not the date your license was originally issued — check OCI's portal to confirm your exact date.
+1. How often do I have to renew my Georgia insurance license? Every 2 years, and your license expires on the last day of your birth month ([O.C.G.A. § 33-23-18](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-18/)). Your deadline follows your birth month, not the date your license was originally issued — check OCI's portal to confirm your exact date.
 
 2. Can I renew my license online? Yes. Renewal is completed online through NIPR, Sircon, or OCI's portal. Paper renewals are uncommon.
 
@@ -183,3 +183,8 @@ Keep documentation. Save every CE completion certificate indefinitely.
 Your license is the foundation of your career. Protect it with on-time renewal and current CE. At JustInsurance, our Georgia CE courses are OCI-approved and reported directly — so you can renew without scrambling for hours.
 
 Enroll in our Georgia CE today and keep your license active with confidence.
+
+**Sources cited:**
+
+- [O.C.G.A. § 33-23-18 — license term & birth-month expiration](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-23-18/)
+- [Georgia OCI — Continuing Education](https://oci.georgia.gov/agents-agency-licensing/agent-licensing-renewals/continuing-education)

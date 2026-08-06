@@ -40,9 +40,9 @@ OCI operates a consumer services division that handles thousands of complaints a
 
 Georgia law protects consumers during the initial insurance sales conversation through several mechanisms:
 
-Truth in sales presentations. Misrepresentation is prohibited. Agents must accurately describe products, benefits, costs, and limitations. Exaggerating benefits or minimizing exclusions violates Georgia's unfair trade practices rules.
+Truth in sales presentations. [Misrepresentation is prohibited](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/). Agents must accurately describe products, benefits, costs, and limitations. Exaggerating benefits or minimizing exclusions violates Georgia's unfair trade practices rules.
 
-Best interest and suitability standards. For annuities, Georgia applies a best interest standard (Rule 120-2-94, effective August 1, 2023): the producer must act in the consumer's best interest — exercising reasonable diligence, care, and skill and placing the consumer's interests ahead of the producer's own — not merely confirm that a product is suitable. For other products such as long-term care, agents must still have reasonable grounds to believe the recommendation is suitable for the specific consumer based on their situation, needs, and objectives.
+Best interest and suitability standards. For annuities, Georgia applies a [best interest standard (Rule 120-2-94, effective August 1, 2023)](https://rules.sos.ga.gov/gac/120-2-94): the producer must act in the consumer's best interest — exercising reasonable diligence, care, and skill and placing the consumer's interests ahead of the producer's own — not merely confirm that a product is suitable. For other products such as long-term care, agents must still have reasonable grounds to believe the recommendation is suitable for the specific consumer based on their situation, needs, and objectives.
 
 Disclosure requirements. Specific disclosures must be made during certain transactions, including replacements, senior sales, and specific product types.
 
@@ -72,7 +72,7 @@ Timely communication. Insurers must respond to claim communications within reaso
 
 Prompt payment. Once a claim is accepted, payment must be made promptly.
 
-Prohibition on unfair claims settlement practices. Georgia specifically prohibits misrepresenting coverage, failing to investigate, denying claims without reasonable basis, and other conduct that cheats policyholders.
+Prohibition on unfair claims settlement practices. [Georgia specifically prohibits misrepresenting coverage, failing to investigate, denying claims without reasonable basis](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-34/), and other conduct that cheats policyholders.
 
 ## Consumer Protections for Seniors
 
@@ -173,3 +173,9 @@ Prompt compliance cooperation. If OCI investigates a complaint, cooperate fully 
 Compliance and consumer protection aren't constraints on a good insurance practice — they're its foundation. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover consumer protection rules in practical detail.
 
 Enroll today and build a Georgia insurance career grounded in compliance and client service.
+
+**Sources cited:**
+
+- [O.C.G.A. § 33-6-4 — Unfair methods of competition and unfair or deceptive acts](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/) — prohibition on misrepresentation in sales
+- [O.C.G.A. § 33-6-34 — Unfair claims settlement practices](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-34/) — investigation, good-faith settlement, denial-explanation, prompt-payment standards
+- [Ga. Comp. R. & Regs. r. 120-2-94 — Suitability in Annuity Transactions](https://rules.sos.ga.gov/gac/120-2-94) — annuity best-interest standard effective August 1, 2023

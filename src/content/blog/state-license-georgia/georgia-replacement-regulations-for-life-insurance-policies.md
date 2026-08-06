@@ -22,7 +22,7 @@ Here's what Georgia requires when replacement is on the table.
 
 ## What Counts as a Replacement in Georgia
 
-Under Georgia regulations, a replacement occurs when an existing life insurance policy or annuity contract is — or will be — lapsed, forfeited, surrendered, reduced in value, pledged as collateral, or otherwise materially changed in connection with the purchase of a new policy.
+Under Georgia regulations, a replacement occurs when an existing life insurance policy or annuity contract is — or will be — [lapsed, forfeited, surrendered, reduced in value, pledged as collateral, or otherwise materially changed in connection with the purchase of a new policy](https://rules.sos.ga.gov/gac/120-2-24).
 
 The critical phrase is "in connection with." Even if the existing policy isn't formally cancelled, any transaction that affects it as part of a new sale triggers replacement rules.
 
@@ -32,7 +32,7 @@ This applies regardless of whether the replacement happens with the same insurer
 
 Georgia requires specific forms for every replacement transaction:
 
-Notice Regarding Replacement. At the time of application, the agent must provide the applicant with a written notice explaining that a replacement is occurring. The notice describes potential disadvantages of replacement and must be signed by both the applicant and the agent.
+Notice Regarding Replacement. At the time of application, the agent must provide the applicant with a written notice explaining that a replacement is occurring. The notice describes potential disadvantages of replacement and [must be signed by both the applicant and the agent](https://rules.sos.ga.gov/gac/120-2-24).
 
 Statement of Existing Policies. The application asks the applicant to disclose any existing life insurance or annuity contracts. The agent is responsible for asking this question and documenting the answer accurately.
 
@@ -44,7 +44,7 @@ Sales Material Retention. All sales materials used during the replacement conver
 
 The insurer issuing the replacement policy has specific obligations:
 
-- Notify the existing insurer that a replacement is occurring
+- [Notify the existing insurer that a replacement is occurring](https://rules.sos.ga.gov/gac/120-2-24)
 
 - Provide the existing insurer an opportunity to conserve the business — the existing insurer can contact the client to explain what they'd be losing
 
@@ -56,7 +56,7 @@ This process exists to protect consumers. When the existing insurer is notified,
 
 Georgia prohibits practices that turn legitimate replacement into consumer harm:
 
-Twisting. Using misrepresentation to induce a client to replace existing coverage — whether by misrepresenting the existing policy's features or exaggerating the new policy's benefits. This is a direct violation of Georgia's unfair trade practices rules.
+Twisting. Using misrepresentation to induce a client to replace existing coverage — whether by misrepresenting the existing policy's features or exaggerating the new policy's benefits. This is a [direct violation of Georgia's unfair trade practices rules](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/).
 
 Churning. Replacing a client's own policies repeatedly to generate commissions without providing genuine client benefit. OCI tracks patterns, and agents with multiple clients showing repeated replacements face churning investigations.
 
@@ -125,3 +125,8 @@ Retain everything indefinitely. Best practice is to keep all replacement documen
 Replacement catches more Georgia agents off guard than almost any other compliance area. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover replacement in practical detail — so you can serve your clients and protect your license simultaneously.
 
 Enroll today and master Georgia replacement rules with confidence.
+
+**Sources cited:**
+
+- [Ga. Comp. R. & Regs. 120-2-24 — Replacement of Life Insurance Policies](https://rules.sos.ga.gov/gac/120-2-24)
+- [O.C.G.A. § 33-6-4 — Unfair methods of competition / unfair and deceptive acts (twisting)](https://codes.findlaw.com/ga/title-33-insurance/ga-code-sect-33-6-4/)

@@ -21,9 +21,9 @@ export default function Footer() {
   return (
     <footer className="bg-navy text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div>
-          {/* Brand block — roomy, sits on top */}
-          <div className="max-w-md mb-12">
+        <div className="grid grid-cols-1 lg:grid-cols-4 gap-x-10 gap-y-12">
+          {/* Brand — sits on the left */}
+          <div className="lg:col-span-1">
             <Link href="/">
               <Image
                 src="/justinsurance-logo.png"
@@ -69,8 +69,8 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Link columns — one balanced row across the full width */}
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-x-8 gap-y-10">
+          {/* Link columns — fill the space to the right of the brand */}
+          <div className="lg:col-span-3 grid grid-cols-2 sm:grid-cols-3 gap-x-8 gap-y-10">
           {/* Courses Column */}
           <div>
             <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Courses</h3>

@@ -57,7 +57,7 @@ If you realize you are about to miss a deadline due to unforeseen circumstances,
 2.  Can I complete all my CE courses online?  
     You can take all of your courses online, but the format mix is regulated. TDI requires [at least half your hours — 12 of 24 — to be earned in a classroom](https://www.tdi.texas.gov/tips/agents-ce.html) or "classroom-equivalent" course, which means no more than 12 can carry the instruction method of self-study. Classroom-equivalent is a TDI-registered online format that builds in periodic question sets you have to answer correctly to advance, plus checks that the registered student is the one taking the course, and a live instructor-led session is credited as a classroom course. So finishing everything from home is fine. What matters is the instruction method TDI has on file for each course, not how the provider markets it — confirm that before you enroll, not after.
 3.  What happens if I miss my CE deadline?  
-    Missing the deadline can lead to penalties, fines, or even the suspension of your license. If you fall behind, enroll in an approved course immediately and notify the state of your situation if necessary.
+    If you reach your renewal date without your required hours done, [TDI charges a $50-per-deficient-hour fine](https://www.tdi.texas.gov/agent/agcehome.html) — [up to a $500 maximum](https://www.tdi.texas.gov/tips/agents-ce.html) — and gives you 90 days to complete the missing hours and pay it. Miss that 90-day window and your license is inactivated; at that point you have to apply for a new one, which will not be granted until the hours are finished and the fine is paid. So if you fall behind, enroll in an approved course immediately and wrap it up before that cure period runs out.
 4.  How do I know if my provider is legitimate?  
     Look for state-approved providers who list their certification or accreditation details. Reputable CE programs are transparent about their course approvals, so you can confirm you are meeting official standards.
 5.  What is the best way to prepare for CE exams?  
@@ -72,3 +72,4 @@ Take the first step today. Setting aside time, getting organized, and starting o
 **Sources cited:**
 
 - [Texas Department of Insurance — CE tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)
+- [Texas Department of Insurance — Continuing education requirements](https://www.tdi.texas.gov/agent/agcehome.html)

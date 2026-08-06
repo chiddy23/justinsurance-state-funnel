@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Yan Krukau on Pexels
 ---
 
-[Texas insurance CE](/texas/continuing-education) hours can sometimes feel like just another task on your already packed schedule. You know that renewal deadlines can creep up faster than you expect, and missing them risks putting your license on hold. Luckily, a bit of planning and a few time-saving strategies can help you complete your [continuing education](/texas/continuing-education) quickly, without sacrificing the rest of your life.
+[Texas insurance CE](/texas/continuing-education) hours can sometimes feel like just another task on your already packed schedule. You know that renewal deadlines can creep up faster than you expect, and if your CE is not finished in time, [TDI charges a $50-per-deficient-hour fine and gives you just 90 days to make up the hours before your license is inactivated](https://www.tdi.texas.gov/agent/agcehome.html). Luckily, a bit of planning and a few time-saving strategies can help you complete your [continuing education](/texas/continuing-education) quickly, without sacrificing the rest of your life.
 
 In this article, you’ll discover practical ways to manage your [Texas insurance](/texas) CE hours while preserving your personal time. Think of it as a friendly guide for staying compliant, boosting your professional growth, and maintaining balance across all your responsibilities.
 
@@ -25,7 +25,7 @@ In this article, you’ll discover practical ways to manage your [Texas insuranc
 
 Before you dive into specific courses, it’s crucial to know what Texas insurance CE hours involve. The state requires licensed insurance agents to earn continuing education credits to maintain their credentials, but not all courses are created equal. You’ll come across professional ethics modules, line-specific classes, and broader insurance topics that can deepen your overall expertise.
 
-Most agents in Texas need to fulfill certain hours every two years. Missing these requirements puts your license renewal in jeopardy, which can impact your ability to sell or advise clients. Staying aware of the CE guidelines keeps you on track, preventing last-minute surprises.
+Most agents in Texas need to fulfill certain hours every two years. Falling short on these hours triggers a $50-per-hour fine and a narrow 90-day window to catch up — and if you miss it, your license is inactivated, cutting off your ability to sell or advise clients. Staying aware of the CE guidelines keeps you on track, preventing last-minute surprises.
 
 ## Organize a practical course plan
 

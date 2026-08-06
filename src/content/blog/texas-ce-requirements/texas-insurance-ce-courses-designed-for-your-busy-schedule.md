@@ -74,7 +74,7 @@ Below are answers to some of the most frequently asked questions about completin
 4.  How do I report my completed credits?  
     [Most CE providers electronically report your credits directly to the state](https://www.tdi.texas.gov/tips/agents-ce.html). To be safe, confirm the reporting process before you start any course.
 5.  What if I miss my renewal deadline?  
-    Missing your deadline might lead to penalties or a lapse in your license status. To avoid interruptions in your practice, plan ahead and aim to complete your hours well before your renewal date.
+    If your CE isn't finished by your renewal date, [TDI charges a $50-per-deficient-hour fine](https://www.tdi.texas.gov/agent/agcehome.html) ([up to $500](https://www.tdi.texas.gov/tips/agents-ce.html)) and gives you 90 days to make up the hours and pay it; miss that window and your license is inactivated and you must apply for a new one. To avoid it, plan ahead and aim to complete your hours well before your renewal date.
 
 ## Conclusion: Your next steps
 

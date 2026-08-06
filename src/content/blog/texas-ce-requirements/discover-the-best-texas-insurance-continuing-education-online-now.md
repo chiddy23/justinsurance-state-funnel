@@ -94,7 +94,7 @@ Once you have finished each course, confirm that [the provider reports your cred
 4.  Do online providers report my course completions automatically?  
     That depends on the provider. Some platforms have automated reporting systems, and others may expect you to submit documentation to the state. Be sure to confirm how each provider handles reporting.
 5.  What if I miss my renewal deadline?  
-    If you miss your deadline, you may face late renewal penalties or possible license suspension. Complete your coursework on time to avoid complications and maintain your good standing.
+    If your CE isn't complete by your expiration date, TDI assesses a [$50-per-deficient-hour fine, up to a $500 maximum](https://www.tdi.texas.gov/tips/agents-ce.html), and gives you [90 days to finish the missing hours and pay the fine](https://www.tdi.texas.gov/agent/agcehome.html). Miss that window and your license is inactivated — you'd have to apply for a new one. Complete your coursework on time to avoid all of that and keep your license in good standing.
 
 ## Choose JustInsurance today
 

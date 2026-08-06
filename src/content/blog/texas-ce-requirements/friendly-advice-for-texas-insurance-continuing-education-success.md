@@ -107,7 +107,7 @@ When your course completions are in place, you’ll pay the renewal fee and subm
 1.  How often do I need to complete Texas insurance continuing education?  
     You generally need 24 credit hours every two years, including 3 hours of ethics. Confirm your exact schedule with the TDI.
 2.  What happens if I don’t complete my CE hours on time?  
-    If you miss the deadline, your license could be suspended or subject to penalties. Make sure to track deadlines so you can finish courses well in advance.
+    If your CE isn't finished by your expiration date, TDI charges a [$50-per-deficient-hour fine, up to $500](https://www.tdi.texas.gov/tips/agents-ce.html), and you get [90 days to complete the missing hours and pay the fine](https://www.tdi.texas.gov/agent/agcehome.html). Miss that window and your license is inactivated, meaning you'd have to apply for a new one. Make sure to track deadlines so you can finish courses well in advance.
 3.  Can I carry over extra CE credits to my next renewal cycle?  
     Texas typically does not allow you to carry surplus hours into the next cycle. It’s best to confirm current TDI rules to be certain.
 4.  Do I have to take in-person courses, or will online courses count?  

@@ -66,7 +66,7 @@ Below are common questions many agents ask as they plan their next steps:
 ## Frequently Asked Questions
 
 **What happens if I miss my Texas CE deadline?**
-If you fail to complete your CE credits before your renewal date, your license may be suspended or placed on inactive status. Reinstatement typically requires paying a late fee and submitting proof that you have finished the required hours. Avoid this situation by tracking your deadline and starting courses early.
+If you fail to complete your CE credits before your renewal date, [TDI assesses a fine of $50 for each deficient hour](https://www.tdi.texas.gov/agent/agcehome.html) — [up to a $500 maximum](https://www.tdi.texas.gov/tips/agents-ce.html) — and gives you [90 days from expiration to complete the missing hours and pay the fine](https://www.tdi.texas.gov/agent/agcehome.html). If you don't do both within that window, your license is inactivated and you have to apply for a new one — TDI won't grant it until the deficient hours are finished and the fine is paid. Avoid this situation by tracking your deadline and starting courses early.
 
 **Can I take CE courses from out-of-state providers?**
 Yes, as long as the provider is approved by the Texas Department of Insurance. Many national providers hold multi-state approvals, so you have a wide selection. Always confirm a course's approval status before enrolling to make sure your credits will count.

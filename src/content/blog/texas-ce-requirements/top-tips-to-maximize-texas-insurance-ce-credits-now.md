@@ -62,7 +62,7 @@ Sampling different methods keeps things fresh and allows you to focus on the for
 
 ## Maintain your compliance
 
-While it’s tempting to see continuing education simply as a legal requirement, remember that CE courses deepen your expertise to better serve your clients. With that said, you do want to avoid potential penalties for non-compliance—these may include license suspensions, fines, or even disciplinary actions.
+While it’s tempting to see continuing education simply as a legal requirement, remember that CE courses deepen your expertise to better serve your clients. With that said, you do want to avoid the cost of falling short: if your CE is not done by your renewal date, [TDI charges $50 per deficient hour](https://www.tdi.texas.gov/agent/agcehome.html) — [up to a $500 maximum per license](https://www.tdi.texas.gov/tips/agents-ce.html) — and gives you 90 days to complete the missing hours and pay the fine, after which your license is inactivated and you must apply for a new one.
 
 To maintain good standing:
 
@@ -81,7 +81,7 @@ Below are some common questions that pop up when agents begin meeting their CE o
 2.  How far in advance should I start earning credits?  
     Ideally, begin earning credits after each renewal cycle starts. This staggered approach keeps the process manageable and helps you gain new knowledge gradually.
 3.  What if I forget to renew my license on time?  
-    Renewing late can lead to penalty fees or a lapse in your license. If your license expires, you might have additional requirements to reinstate it successfully.
+    If you reach that deadline without your required CE finished, it is not a simple late fee — [TDI assesses a $50-per-deficient-hour fine](https://www.tdi.texas.gov/agent/agcehome.html) ([up to $500](https://www.tdi.texas.gov/tips/agents-ce.html)) and gives you 90 days to complete the missing hours and pay it. Miss that window and your license is inactivated, and you would have to apply for a new license rather than simply reinstate the old one.
 4.  Can extra credit hours be carried over to my next renewal cycle?  
     Typically, no. Most CE rules in Texas require brand-new hours for each renewal period. Check the TDI website to confirm if there have been any changes.
 5.  Which topics are mandatory?  
@@ -96,3 +96,4 @@ If you’re looking for a friendly, reliable resource, JustInsurance offers comp
 **Sources cited:**
 
 - [Texas Department of Insurance — CE tips for agents](https://www.tdi.texas.gov/tips/agents-ce.html)
+- [Texas Department of Insurance — Continuing education requirements](https://www.tdi.texas.gov/agent/agcehome.html)

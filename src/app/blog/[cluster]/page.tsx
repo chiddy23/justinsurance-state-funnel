@@ -6,11 +6,24 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import { getAllClusters, getClusterBySlug } from "@/lib/blog";
 import { getStateForCluster } from "@/lib/blog-cluster-state-map";
-import { getStateBySlug } from "@/lib/states";
+import { getStateBySlug, type StateData } from "@/lib/states";
 import FAQAccordion from "@/components/FAQAccordion";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import BlogStateLinks from "@/components/BlogStateLinks";
 import videoData from "@/lib/youtube-videos.json";
+
+// ---------------------------------------------------------------------------
+// SEO enrichment allowlist (pilot). On these state-license cluster indexes we
+// render an intent-matching guide block (head-term H1/title, "start here"
+// internal links to the money hub/subpages, and a PAA-matching FAQ) sourced
+// ENTIRELY from VERIFIED states.ts data + primary-source fact-checked wording.
+// Every other cluster renders byte-identically. Add a slug ONLY after building
+// and fact-checking its per-state FAQ block in buildGuideFaqs().
+// ---------------------------------------------------------------------------
+const ENRICHED_GUIDE_CLUSTERS = new Set([
+  "state-license-california",
+  "florida-insurance-license",
+]);
 
 // ---------------------------------------------------------------------------
 // Static params
@@ -41,17 +54,26 @@ export async function generateMetadata({
     .trim();
 
   // Is this a state-license cluster? If so, use a keyword-rich title.
+  // Enriched guide clusters (e.g. Florida's custom "florida-insurance-license"
+  // slug) also get the state-cluster title treatment — but their cleanName
+  // already contains "Insurance License", so use the bare state name from the
+  // cluster→state map to avoid a doubled "Insurance License Insurance License".
   const isStateCluster = clusterSlug.startsWith("state-license-");
+  const enrichedRef = ENRICHED_GUIDE_CLUSTERS.has(clusterSlug)
+    ? getStateForCluster(clusterSlug)
+    : null;
+  const useStateTitle = isStateCluster || !!enrichedRef;
+  const stateNoun = enrichedRef ? enrichedRef.name : cleanName;
 
   // Build title that stays 45-60 chars (SEO sweet spot). Try keyword-rich
   // candidates first, then fall back to shorter versions if needed.
-  const candidates = isStateCluster
+  const candidates = useStateTitle
     ? [
-        `${cleanName} Insurance License Guide | JustInsurance`,
-        `${cleanName} Insurance License | JustInsurance Blog`,
-        `${cleanName} Insurance License Articles | JustInsurance`,
-        `${cleanName} Insurance License | JustInsurance`,
-        `${cleanName} Insurance License Guide`,
+        `${stateNoun} Insurance License Guide | JustInsurance`,
+        `${stateNoun} Insurance License | JustInsurance Blog`,
+        `${stateNoun} Insurance License Articles | JustInsurance`,
+        `${stateNoun} Insurance License | JustInsurance`,
+        `${stateNoun} Insurance License Guide`,
       ]
     : [
         `${cleanName} Articles & Guides | JustInsurance Blog`,
@@ -68,8 +90,8 @@ export async function generateMetadata({
 
   // Build a description in the 120-155 char SEO sweet spot, keyword-rich.
   // Use state name in the text for state clusters to differentiate from other states.
-  const descBase = isStateCluster
-    ? `Expert guides on ${cleanName} insurance licensing, exam prep, and continuing education. ${cluster.postCount} articles from licensed insurance agents.`
+  const descBase = useStateTitle
+    ? `Expert guides on ${stateNoun} insurance licensing, exam prep, and continuing education. ${cluster.postCount} articles from licensed insurance agents.`
     : `${cluster.postCount} expert articles on ${cleanName.toLowerCase()} from JustInsurance. Real-world guidance from licensed insurance agents to help you get licensed.`;
 
   // Ensure 120-155 char range
@@ -113,6 +135,73 @@ export async function generateMetadata({
 }
 
 // ---------------------------------------------------------------------------
+// Enrichment FAQ builder — PER-STATE, primary-source-verified wording.
+//
+// Each state's answers are written explicitly (not blindly templated) because
+// per-state facts differ in ways a template gets subtly wrong: prelicensing
+// STRUCTURE (California's single 12-hr Code & Ethics course vs Florida's
+// line-specific 30/40/60-hr courses), exam VENDOR (PSI vs Pearson VUE),
+// passing SCORE, and how the exam FEE is composed (California's $98 is CDI $55
+// + PSI $43; Florida's $44 is a single Pearson VUE fee). Q5 is always the
+// state's own data-driven stateSpecificFAQ. Numbers come from verified
+// states.ts fields, never hardcoded. Add a state ONLY after primary-source
+// fact-checking it; unlisted states return [] and render no FAQ block.
+// ---------------------------------------------------------------------------
+function buildGuideFaqs(state: StateData): { question: string; answer: string }[] {
+  const spec = {
+    question: state.stateSpecificFAQ.question,
+    answer: state.stateSpecificFAQ.answer,
+  };
+
+  if (state.slug === "california") {
+    return [
+      {
+        question: `How do I get an insurance license in ${state.name}?`,
+        answer: `Complete the required ${state.prelicensing.lifeAndHealth.hours}-hour ${state.name} Code & Ethics prelicensing course, pass the ${state.name} state licensing exam administered by ${state.examInfo.examProvider} (a passing score is ${state.examInfo.passingScore}%), complete fingerprinting for your background check, then submit your application to the ${state.doiName} through NIPR or Sircon.`,
+      },
+      {
+        question: `How many prelicensing hours does ${state.name} require?`,
+        answer: `${state.name} requires a ${state.prelicensing.lifeAndHealth.hours}-hour Code & Ethics prelicensing course for resident license applicants. Optional exam-prep for your specific line (Life, Health, or Life & Health) is recommended to help you pass the state exam.`,
+      },
+      {
+        question: `What score do I need to pass the ${state.name} insurance exam?`,
+        answer: `You need ${state.examInfo.passingScore}% to pass the ${state.name} licensing exam, which is administered by ${state.examInfo.examProvider}.`,
+      },
+      {
+        question: `How much does a ${state.name} insurance license cost?`,
+        answer: `JustInsurance ${state.name} prelicensing starts at ${state.prelicensing.lifeAndHealth.price}. On top of the course, you'll pay the ${state.name} state licensing exam fee ($${state.examInfo.examFee} total — the ${state.doiName} examination fee plus the ${state.examInfo.examProvider} scheduling fee), fingerprinting and background-check costs, and the state license application fee — see the full ${state.name} license cost breakdown for current amounts.`,
+      },
+      spec,
+    ];
+  }
+
+  if (state.slug === "florida") {
+    const p = state.prelicensing;
+    return [
+      {
+        question: `How do I get an insurance license in ${state.name}?`,
+        answer: `Complete a ${state.doiName}–approved prelicensing course for your license line — ${p.lifeAndHealth.hours} hours for the 2-15 Life, Health & Annuity license (${p.life.hours} hours for the 2-14 Life license or ${p.health.hours} hours for the 2-40 Health license) — then pass the ${state.name} state licensing exam in person at a ${state.examInfo.examProvider} test center (a passing score is ${state.examInfo.passingScore}%), complete electronic fingerprinting through IdentoGO for your background check, and submit your license application to the ${state.doiName} through NIPR.`,
+      },
+      {
+        question: `How many prelicensing hours does ${state.name} require?`,
+        answer: `${state.name} prelicensing hours depend on the license line: ${p.lifeAndHealth.hours} hours for the 2-15 Life, Health & Annuity license, ${p.life.hours} hours for the 2-14 Life (including annuities and variable contracts) license, and ${p.health.hours} hours for the 2-40 Health license. JustInsurance offers a state-approved course for each.`,
+      },
+      {
+        question: `What score do I need to pass the ${state.name} insurance exam?`,
+        answer: `You need ${state.examInfo.passingScore}% to pass the ${state.name} licensing exam, which is administered in person at ${state.examInfo.examProvider} test centers.`,
+      },
+      {
+        question: `How much does a ${state.name} insurance license cost?`,
+        answer: `JustInsurance ${state.name} prelicensing starts at ${p.lifeAndHealth.price}. You'll also pay the ${state.examInfo.examProvider} exam fee ($${state.examInfo.examFee}), electronic fingerprinting through IdentoGO (about $${state.backgroundCheckCost}), and the ${state.doiName} license application fee ($${state.applicationFee}) — see the full ${state.name} license cost breakdown for current amounts.`,
+      },
+      spec,
+    ];
+  }
+
+  return [];
+}
+
+// ---------------------------------------------------------------------------
 // Page
 // ---------------------------------------------------------------------------
 
@@ -134,40 +223,19 @@ export default async function ClusterPage({
     .replace(/^State License\s*[–-]\s*/i, "")
     .trim();
 
-  // SEO enrichment (pilot): on allowlisted state-license cluster indexes, render
-  // an intent-matching guide block (head-term H1, "start here" internal links to
-  // the money hub/subpages, and a PAA-matching FAQ) sourced ENTIRELY from
-  // VERIFIED states.ts data. Gated by ENRICHED_GUIDE_CLUSTERS, so every other
-  // cluster renders byte-identically. Scale by adding slugs (review per-state
-  // wording — "Code & Ethics" phrasing is California-specific).
-  const ENRICHED_GUIDE_CLUSTERS = new Set(["state-license-california"]);
+  // SEO enrichment (pilot): on allowlisted cluster indexes (ENRICHED_GUIDE_CLUSTERS,
+  // module scope), render an intent-matching guide block (head-term H1, "start here"
+  // internal links to the money hub/subpages, and a PAA-matching FAQ from
+  // buildGuideFaqs). Per-state wording is verified in buildGuideFaqs; every other
+  // cluster renders byte-identically.
   const stateRef = getStateForCluster(clusterSlug);
   const guideState =
     ENRICHED_GUIDE_CLUSTERS.has(clusterSlug) && stateRef
       ? getStateBySlug(stateRef.slug)
       : null;
-  const guideFaqs = guideState
-    ? [
-        {
-          question: `How do I get an insurance license in ${guideState.name}?`,
-          answer: `Complete the required ${guideState.prelicensing.lifeAndHealth.hours}-hour ${guideState.name} Code & Ethics prelicensing course, pass the ${guideState.name} state licensing exam administered by ${guideState.examInfo.examProvider} (a passing score is ${guideState.examInfo.passingScore}%), complete fingerprinting for your background check, then submit your application to the ${guideState.doiName} through NIPR or Sircon.`,
-        },
-        {
-          question: `How many prelicensing hours does ${guideState.name} require?`,
-          answer: `${guideState.name} requires a ${guideState.prelicensing.lifeAndHealth.hours}-hour Code & Ethics prelicensing course for resident license applicants. Optional exam-prep for your specific line (Life, Health, or Life & Health) is recommended to help you pass the state exam.`,
-        },
-        {
-          question: `What score do I need to pass the ${guideState.name} insurance exam?`,
-          answer: `You need ${guideState.examInfo.passingScore}% to pass the ${guideState.name} licensing exam, which is administered by ${guideState.examInfo.examProvider}.`,
-        },
-        {
-          question: `How much does a ${guideState.name} insurance license cost?`,
-          answer: `JustInsurance ${guideState.name} prelicensing starts at ${guideState.prelicensing.lifeAndHealth.price}. On top of the course, you'll pay the ${guideState.name} state licensing exam fee ($${guideState.examInfo.examFee} total — the ${guideState.doiName} examination fee plus the ${guideState.examInfo.examProvider} scheduling fee), fingerprinting and background-check costs, and the state license application fee — see the full ${guideState.name} license cost breakdown for current amounts.`,
-        },
-        { question: guideState.stateSpecificFAQ.question, answer: guideState.stateSpecificFAQ.answer },
-      ]
-    : [];
-  const guideFaqSchema = guideState ? generateFAQSchema(guideFaqs) : null;
+  const guideFaqs = guideState ? buildGuideFaqs(guideState) : [];
+  const guideFaqSchema =
+    guideState && guideFaqs.length > 0 ? generateFAQSchema(guideFaqs) : null;
 
   const crumbs = [
     { name: "Home", href: "/" },

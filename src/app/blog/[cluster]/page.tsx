@@ -3,8 +3,11 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
-import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import { getAllClusters, getClusterBySlug } from "@/lib/blog";
+import { getStateForCluster } from "@/lib/blog-cluster-state-map";
+import { getStateBySlug } from "@/lib/states";
+import FAQAccordion from "@/components/FAQAccordion";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import BlogStateLinks from "@/components/BlogStateLinks";
 import videoData from "@/lib/youtube-videos.json";
@@ -131,6 +134,41 @@ export default async function ClusterPage({
     .replace(/^State License\s*[–-]\s*/i, "")
     .trim();
 
+  // SEO enrichment (pilot): on allowlisted state-license cluster indexes, render
+  // an intent-matching guide block (head-term H1, "start here" internal links to
+  // the money hub/subpages, and a PAA-matching FAQ) sourced ENTIRELY from
+  // VERIFIED states.ts data. Gated by ENRICHED_GUIDE_CLUSTERS, so every other
+  // cluster renders byte-identically. Scale by adding slugs (review per-state
+  // wording — "Code & Ethics" phrasing is California-specific).
+  const ENRICHED_GUIDE_CLUSTERS = new Set(["state-license-california"]);
+  const stateRef = getStateForCluster(clusterSlug);
+  const guideState =
+    ENRICHED_GUIDE_CLUSTERS.has(clusterSlug) && stateRef
+      ? getStateBySlug(stateRef.slug)
+      : null;
+  const guideFaqs = guideState
+    ? [
+        {
+          question: `How do I get an insurance license in ${guideState.name}?`,
+          answer: `Complete the required ${guideState.prelicensing.lifeAndHealth.hours}-hour ${guideState.name} Code & Ethics prelicensing course, pass the ${guideState.name} state licensing exam administered by ${guideState.examInfo.examProvider} (a passing score is ${guideState.examInfo.passingScore}%), complete fingerprinting for your background check, then submit your application to the ${guideState.doiName} through NIPR or Sircon.`,
+        },
+        {
+          question: `How many prelicensing hours does ${guideState.name} require?`,
+          answer: `${guideState.name} requires a ${guideState.prelicensing.lifeAndHealth.hours}-hour Code & Ethics prelicensing course for resident license applicants. Optional exam-prep for your specific line (Life, Health, or Life & Health) is recommended to help you pass the state exam.`,
+        },
+        {
+          question: `What score do I need to pass the ${guideState.name} insurance exam?`,
+          answer: `You need ${guideState.examInfo.passingScore}% to pass the ${guideState.name} licensing exam, which is administered by ${guideState.examInfo.examProvider}.`,
+        },
+        {
+          question: `How much does a ${guideState.name} insurance license cost?`,
+          answer: `JustInsurance ${guideState.name} prelicensing starts at ${guideState.prelicensing.lifeAndHealth.price}. On top of the course, you'll pay the ${guideState.name} state licensing exam fee ($${guideState.examInfo.examFee} total — the ${guideState.doiName} examination fee plus the ${guideState.examInfo.examProvider} scheduling fee), fingerprinting and background-check costs, and the state license application fee — see the full ${guideState.name} license cost breakdown for current amounts.`,
+        },
+        { question: guideState.stateSpecificFAQ.question, answer: guideState.stateSpecificFAQ.answer },
+      ]
+    : [];
+  const guideFaqSchema = guideState ? generateFAQSchema(guideFaqs) : null;
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: "Blog", href: "/blog" },
@@ -163,6 +201,7 @@ export default async function ClusterPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={collectionSchema} />
+      {guideFaqSchema && <SchemaMarkup schema={guideFaqSchema} />}
       {video && (
         <SchemaMarkup schema={{
           "@context": "https://schema.org",
@@ -191,15 +230,52 @@ export default async function ClusterPage({
             JustInsurance Blog
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
-            {cleanName}: Expert Guides
+            {guideState ? `${guideState.name} Insurance License Guide` : `${cleanName}: Expert Guides`}
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-3xl mx-auto">
-            {cluster.postCount} expert article{cluster.postCount !== 1 ? "s" : ""} on{" "}
-            {cleanName.toLowerCase()} — written by licensed insurance agents to help
-            you get licensed, stay compliant, and grow your career.
+            {guideState ? (
+              `How to get your ${guideState.name} insurance license — requirements, the state exam, cost, prelicensing, and CE — plus ${cluster.postCount} in-depth guides written by licensed insurance agents.`
+            ) : (
+              <>
+                {cluster.postCount} expert article{cluster.postCount !== 1 ? "s" : ""} on{" "}
+                {cleanName.toLowerCase()} — written by licensed insurance agents to help
+                you get licensed, stay compliant, and grow your career.
+              </>
+            )}
           </p>
         </div>
       </section>
+
+      {/* Enrichment (allowlisted state clusters): "start here" internal-link
+          funnel to the money hub + subpages. Concentrates the cluster's
+          authority on the conversion pages and matches requirements/cost intent.
+          Self-contained section; rendered only when guideState is set. */}
+      {guideState && stateRef && (
+        <section className="bg-gray-bg py-10 px-4 border-b border-gray-200">
+          <div className="max-w-5xl mx-auto">
+            <h2 className="text-lg md:text-xl font-bold text-navy mb-5 text-center">
+              Start Here: {guideState.name} Insurance License
+            </h2>
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+              {[
+                { href: `/${stateRef.slug}`, label: `${guideState.name} License Course`, sub: "From $199 — start here" },
+                { href: `/${stateRef.slug}/requirements`, label: "Requirements", sub: "Hours, exam, fingerprinting, CE" },
+                { href: `/${stateRef.slug}/cost`, label: "Cost Breakdown", sub: "Every fee, itemized" },
+                { href: `/${stateRef.slug}/prelicensing`, label: "Prelicensing Course", sub: "Life, Health & combined" },
+              ].map((c) => (
+                <Link
+                  key={c.href}
+                  href={c.href}
+                  className="block bg-white rounded-xl p-4 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
+                >
+                  <p className="font-bold text-navy text-sm mb-1 leading-snug">{c.label}</p>
+                  <p className="text-gray-500 text-xs leading-relaxed">{c.sub}</p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Post List */}
       <section className="bg-white py-16 px-4">
@@ -240,6 +316,16 @@ export default async function ClusterPage({
       </section>
 
       {video && <YouTubeEmbed videoId={video.videoId} title={video.title} />}
+
+      {/* Enrichment FAQ (allowlisted state clusters): PAA-matching Q&A sourced
+          from verified states.ts data, backed by the FAQPage schema emitted
+          above. Rendered only when guideState is set. */}
+      {guideState && guideFaqs.length > 0 && (
+        <FAQAccordion
+          faqs={guideFaqs}
+          heading={`${guideState.name} Insurance License FAQs`}
+        />
+      )}
 
       <BlogStateLinks clusterSlug={clusterSlug} variant="full" />
 

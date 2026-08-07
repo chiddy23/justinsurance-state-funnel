@@ -285,7 +285,7 @@ export default async function HomePage() {
               <Link
                 key={state.slug}
                 href={`/${state.slug}`}
-                className="group flex items-center gap-2 bg-gray-bg hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md"
+                className={`group flex items-center gap-2 bg-gray-bg hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md${isPrelicensingHeld(state) ? " flex-wrap" : ""}`}
               >
                 <span className="text-xs font-bold text-gray-500 group-hover:text-blue-200 w-8 flex-shrink-0">
                   {state.abbreviation}

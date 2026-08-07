@@ -115,7 +115,7 @@ export default async function ReviewsPage() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-x-8 gap-y-3 mb-5">
             <div className="flex items-center gap-2.5">
               <StarRow />
-              <p className="text-lg font-bold whitespace-nowrap">
+              <p className="text-lg font-bold">
                 {google.rating} / 5 on Google
                 {google.count > 0 && (
                   <span className="font-normal text-blue-100">
@@ -127,7 +127,7 @@ export default async function ReviewsPage() {
             </div>
             <div className="flex items-center gap-2.5">
               <TrustpilotStars size="w-5 h-5" />
-              <p className="text-lg font-bold whitespace-nowrap">
+              <p className="text-lg font-bold">
                 {tp.score} / 5 on Trustpilot
                 <span className="font-normal text-blue-100">
                   {" "}

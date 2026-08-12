@@ -291,9 +291,13 @@ export default async function StateHubPage({
       ? "State-approved prelicensing and CE courses. 100% online, self-paced, pass guarantee included."
       : "State-approved prelicensing and CE courses. 100% online, self-paced, with instant access the moment you enroll.";
 
+  // H1 / Article headline. Lead with the exact head term "{State} Insurance
+  // License" for on-page relevance (this is the visible <h1> via StateHero AND
+  // the Article schema headline — keep them identical). Florida keeps "2-15"
+  // (a real secondary search term) but no longer buries the head term.
   const articleHeadline =
     stateData.slug === "florida"
-      ? "Florida 2-15 License: Prelicensing & CE Courses Online"
+      ? "Florida Insurance License: 2-15 Prelicensing & CE Courses Online"
       : stateData.slug === "texas"
       ? "Get Your Texas Insurance License — No Prelicensing Required"
       : stateData.slug === "california"
@@ -356,15 +360,7 @@ export default async function StateHubPage({
       {/* Fix 1 — hero subtitle uses stateSpecificIntro */}
       <StateHero
         eyebrow={`${stateData.name} Insurance Licensing`}
-        title={
-          stateData.slug === "florida"
-            ? "Florida 2-15 License: Prelicensing & CE Courses Online"
-            : stateData.slug === "texas"
-            ? "Get Your Texas Insurance License — No Prelicensing Required"
-            : stateData.slug === "california"
-            ? "California Insurance License: 12-Hour Ethics + State Exam Prep"
-            : `Get Your ${stateData.name} Insurance License Online`
-        }
+        title={articleHeadline}
         subtitle={heroSubtitle}
         ctaButtons={
           ilWebinar

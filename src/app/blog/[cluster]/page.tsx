@@ -67,7 +67,21 @@ export async function generateMetadata({
 
   // Build title that stays 45-60 chars (SEO sweet spot). Try keyword-rich
   // candidates first, then fall back to shorter versions if needed.
-  const candidates = useStateTitle
+  //
+  // FLORIDA cannibalization fix (2026-08): the /florida hub OWNS the bare
+  // "florida insurance license" head term (its title is "Florida Insurance
+  // License Course — $199"). To stop THIS cluster index from competing for the
+  // same term, Florida's cluster is retargeted to the informational "how to get
+  // a florida insurance license" intent (KD 2, already ~pos 12). Gated to the
+  // Florida cluster ONLY — California and every other cluster are unchanged.
+  const isFloridaCluster = clusterSlug === "florida-insurance-license";
+  const candidates = isFloridaCluster
+    ? [
+        `How to Get a Florida Insurance License | JustInsurance`,
+        `How to Get Your Florida Insurance License | JustInsurance`,
+        `Getting Your Florida Insurance License | JustInsurance`,
+      ]
+    : useStateTitle
     ? [
         `${stateNoun} Insurance License Guide | JustInsurance`,
         `${stateNoun} Insurance License | JustInsurance Blog`,
@@ -90,7 +104,9 @@ export async function generateMetadata({
 
   // Build a description in the 120-155 char SEO sweet spot, keyword-rich.
   // Use state name in the text for state clusters to differentiate from other states.
-  const descBase = useStateTitle
+  const descBase = isFloridaCluster
+    ? `How to get a Florida insurance license: step-by-step requirements, the state exam, prelicensing, and cost. ${cluster.postCount} guides from licensed Florida agents.`
+    : useStateTitle
     ? `Expert guides on ${stateNoun} insurance licensing, exam prep, and continuing education. ${cluster.postCount} articles from licensed insurance agents.`
     : `${cluster.postCount} expert articles on ${cleanName.toLowerCase()} from JustInsurance. Real-world guidance from licensed insurance agents to help you get licensed.`;
 
@@ -298,7 +314,11 @@ export default async function ClusterPage({
             JustInsurance Blog
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
-            {guideState ? `${guideState.name} Insurance License Guide` : `${cleanName}: Expert Guides`}
+            {guideState
+              ? guideState.slug === "florida"
+                ? "How to Get Your Florida Insurance License"
+                : `${guideState.name} Insurance License Guide`
+              : `${cleanName}: Expert Guides`}
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-3xl mx-auto">
             {guideState ? (

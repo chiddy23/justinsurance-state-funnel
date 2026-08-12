@@ -44,7 +44,9 @@ Before you can renew, you must have completed your continuing education requirem
 
 3 hours must be in Ethics
 
-The remaining 21 hours can be in approved elective insurance topics
+A minimum of 8 hours in each line of authority you hold — so a producer licensed in both Life/Health and Property/Casualty must complete at least 8 Life/Health hours and 8 P&C hours, in addition to the 3 Ethics hours
+
+Any hours beyond those minimums can be in approved elective insurance topics
 
 Verify your CE completion through the SCDOI or Sircon before attempting to renew. If your CE isn't complete and reported, renewal will be rejected.
 
@@ -138,7 +140,7 @@ You may need to complete missing CE plus additional requirements
 
 Grace period. South Carolina typically allows a short grace period during which you can renew with late fees without full reinstatement. After the grace period, full reinstatement procedures apply.
 
-Extended non-compliance. If you let the license lapse for an extended period (typically over a year), you may be required to reapply from scratch — including retaking [prelicense](/south-carolina/prelicensing) education and the state exam.
+Extended non-compliance. South Carolina allows reinstatement only within 180 days (6 months) of your compliance deadline, by completing your full 24 CE hours and paying a $50 late CE compliance fee. On the 181st day the license and appointments are canceled — to become relicensed you must retake and pass the state exam, be re-fingerprinted, and submit a new application and license fee as a new licensee (including any required [prelicense](/south-carolina/prelicensing) education).
 
 ## Common Renewal Problems
 

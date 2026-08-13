@@ -64,7 +64,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         the _ga cookie (GA/GTM also load afterInteractive) up to 10s, then stops.
         Cookie is parsed by split (no regex) to avoid template-literal escaping. */}
     <Script id="ms-clarity" strategy="afterInteractive">
-      {`if(!navigator.globalPrivacyControl){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","y1rxfr87ic");(function(){function gid(){var p=("; "+document.cookie).split("; _ga=");if(p.length<2)return null;var v=p.pop().split(";").shift().split(".");return v.length>=4?v[2]+"."+v[3]:null;}var n=0,h=setInterval(function(){n++;var id=gid();if(id&&window.clarity){window.clarity("identify",id);window.clarity("set","ga_client_id",id);clearInterval(h);}else if(n>20){clearInterval(h);}},500);})();}`}
+      {`if(!navigator.globalPrivacyControl){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","y1rxfr87ic");(function(){function gid(){var p=("; "+document.cookie).split("; _ga=");if(p.length<2)return null;var v=p.pop().split(";").shift().split(".");return v.length>=4?v[2]+"."+v[3]:null;}var n=0,h=setInterval(function(){n++;var id=gid();if(id&&window.clarity){window.clarity("identify",id,undefined,undefined,id);window.clarity("set","ga_client_id",id);clearInterval(h);}else if(n>20){clearInterval(h);}},500);})();}`}
     </Script>
     </>
   );

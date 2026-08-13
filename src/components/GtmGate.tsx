@@ -30,6 +30,7 @@ export default function GtmGate() {
   if (isCertificatePath(pathname)) return null;
 
   return (
+    <>
     <Script id="gtm-init" strategy="afterInteractive">
       {`(function(w,d,s,l,i){w[l]=w[l]||[];
 // Privacy audit 2026-07-14 (PRIV-01): honor Global Privacy Control before GTM
@@ -48,5 +49,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','${GTM_ID}');`}
     </Script>
+    {/* Microsoft Clarity (project y1rxfr87ic) — behavioral analytics: session
+        recordings + heatmaps. Loaded here so it inherits GtmGate's route gate
+        (never on /certificate/ PII pages) AND an opt-out consistent with the
+        privacy policy: Clarity has no Google Consent Mode hook, so we skip the
+        load entirely for Global Privacy Control browsers (mirrors the GPC
+        analytics_storage:'denied' default the GTM bootstrap above sets).
+        afterInteractive keeps it off the critical rendering path. */}
+    <Script id="ms-clarity" strategy="afterInteractive">
+      {`if(!navigator.globalPrivacyControl){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","y1rxfr87ic");}`}
+    </Script>
+    </>
   );
 }

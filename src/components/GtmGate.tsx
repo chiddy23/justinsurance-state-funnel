@@ -55,9 +55,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         privacy policy: Clarity has no Google Consent Mode hook, so we skip the
         load entirely for Global Privacy Control browsers (mirrors the GPC
         analytics_storage:'denied' default the GTM bootstrap above sets).
-        afterInteractive keeps it off the critical rendering path. */}
+        afterInteractive keeps it off the critical rendering path.
+
+        RECORDING BRIDGE (2026-08-13): after loading, stamp the _ga client-id
+        (== the GA4 user_pseudo_id on web) onto the Clarity session via identify()
+        + a ga_client_id custom tag, so a pseudonymous journey in the analytics
+        dashboard can be matched to that user's exact Clarity recording. Polls for
+        the _ga cookie (GA/GTM also load afterInteractive) up to 10s, then stops.
+        Cookie is parsed by split (no regex) to avoid template-literal escaping. */}
     <Script id="ms-clarity" strategy="afterInteractive">
-      {`if(!navigator.globalPrivacyControl){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","y1rxfr87ic");}`}
+      {`if(!navigator.globalPrivacyControl){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","y1rxfr87ic");(function(){function gid(){var p=("; "+document.cookie).split("; _ga=");if(p.length<2)return null;var v=p.pop().split(";").shift().split(".");return v.length>=4?v[2]+"."+v[3]:null;}var n=0,h=setInterval(function(){n++;var id=gid();if(id&&window.clarity){window.clarity("identify",id);window.clarity("set","ga_client_id",id);clearInterval(h);}else if(n>20){clearInterval(h);}},500);})();}`}
     </Script>
     </>
   );

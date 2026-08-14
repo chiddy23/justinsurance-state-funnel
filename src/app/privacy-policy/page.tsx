@@ -14,7 +14,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "Privacy Policy", url: "https://justinsuranceco.com/privacy-policy" },
 ]);
 
-const LAST_UPDATED = "July 7, 2026";
+const LAST_UPDATED = "August 14, 2026";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Sub-components
@@ -178,6 +178,19 @@ export default function PrivacyPolicyPage() {
             Google gclid, Meta fbclid, UTM parameters), and a first-party visitor ID.
           </LI>
           <LI>
+            <strong>Session recordings &amp; interaction analytics</strong> &mdash; on browsers
+            that do not send a Global Privacy Control signal (see Section 9), we use Microsoft
+            Clarity to capture a pseudonymized replay of your visit &mdash; mouse movements, clicks
+            and taps, scrolling, and the pages you navigate &mdash; together with heatmaps and
+            device data, to understand how visitors use the site. Text you enter into form fields
+            (such as your name, email, or Social Security Number) is masked and excluded from these
+            recordings. We link the pseudonymous identifier Microsoft Clarity assigns to your
+            session with the first-party visitor ID described above, so a recorded session can be
+            matched to the corresponding visit; this pseudonymous data can become associated with
+            you if it is later linked to your account or purchase (see &ldquo;Marketing attribution
+            &amp; measurement&rdquo; in Section 2).
+          </LI>
+          <LI>
             <strong>Cookies &amp; similar technologies</strong> &mdash; see Section 6 for details.
           </LI>
         </UL>
@@ -227,6 +240,13 @@ export default function PrivacyPolicyPage() {
             JustInsurance and its users.
           </LI>
           <LI>
+            <strong>Behavioral analytics &amp; session replay</strong> &mdash; to analyze how
+            visitors navigate and interact with our site through heatmaps and pseudonymized session
+            recordings (Microsoft Clarity), and to associate a recorded session with the
+            corresponding pseudonymous visit, so we can diagnose usability problems and improve the
+            site and our support.
+          </LI>
+          <LI>
             <strong>Service improvement</strong> &mdash; to analyze aggregate usage patterns and
             improve our courses, website, and support experience.
           </LI>
@@ -262,6 +282,22 @@ export default function PrivacyPolicyPage() {
             include the Social Security number required for state filing) are stored in Google
             Drive; and partnership-application form submissions are processed through Google
             Workspace (Sheets/Apps Script) &mdash; all under Google&rsquo;s data-processing terms.
+          </LI>
+          <LI>
+            <strong>Behavioral analytics (Microsoft Clarity)</strong> &mdash; pseudonymized
+            interaction data, heatmaps, and session recordings are processed by Microsoft Clarity
+            (Microsoft Corporation) to provide session replay and usage analytics, in accordance
+            with the{" "}
+            <a
+              href="https://privacy.microsoft.com/privacystatement"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-navy underline hover:text-gold transition-colors"
+            >
+              Microsoft Privacy Statement
+            </a>
+            . This analytics is not performed for browsers that send a Global Privacy Control
+            signal.
           </LI>
           <LI>
             <strong>CRM &amp; communications platform</strong> &mdash; contact details and
@@ -350,7 +386,10 @@ export default function PrivacyPolicyPage() {
           </LI>
           <LI>
             <strong>Analytics cookies</strong> &mdash; help us understand how visitors use our
-            website (e.g., Google Analytics). Some analytics and attribution data is tied to your
+            website (e.g., Google Analytics, and Microsoft Clarity &mdash; which sets first-party
+            cookies such as <code>_clck</code> and <code>_clsk</code> to recognize your browser
+            across pages for session replay and heatmaps, and is not loaded for browsers sending a
+            Global Privacy Control signal). Some analytics and attribution data is tied to your
             individual IP address and visit history rather than fully anonymized &mdash; see
             &ldquo;Marketing attribution &amp; measurement&rdquo; in Section 2 and Section 5 above.
           </LI>

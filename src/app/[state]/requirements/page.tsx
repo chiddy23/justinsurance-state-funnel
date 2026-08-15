@@ -723,6 +723,25 @@ export default async function RequirementsPage({
                       get you exam-ready and through the state test on your first
                       try.
                     </p>
+                  ) : stateData.slug === "pennsylvania" ? (
+                    // Act 142 of 2024 (eff. 4/29/2025) repealed Pennsylvania's
+                    // prelicensing-education statute (formerly 40 P.S. § 310.4(b));
+                    // PA is now exam-only via PSI. Replaces the generic "check with
+                    // the DOI" fallback with the verified fact + statute citation
+                    // (mirrors the NC treatment). PA-gated — every other state
+                    // renders byte-identically.
+                    <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                      Pennsylvania no longer requires prelicensing education to sit
+                      for the state exam — the prelicensing statute (formerly 40
+                      P.S. § 310.4(b)) was repealed by Act 142 of 2024, effective
+                      April 29, 2025. You just need to pass the PSI state exam.
+                      Structured prep is still strongly recommended: the PSI exam
+                      covers extensive Pennsylvania-specific statutes and
+                      producer-conduct rules that catch unprepared candidates.
+                      JustInsurance&apos;s optional, fully online Pennsylvania
+                      exam-prep courses are built to get you through the PSI test
+                      on your first try.
+                    </p>
                   ) : (
                     <p className="text-gray-600 text-sm leading-relaxed mb-3">
                       Prelicensing education status for {stateData.name}:{" "}

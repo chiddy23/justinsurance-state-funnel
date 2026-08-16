@@ -39,8 +39,8 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 //     six do not (MD/UT/VT/VA use Prometric, Alabama uses the University of
 //     Alabama, Kentucky administers the exam itself), and no state lets a
 //     candidate pick a vendor;
-//   • the prelicensing card advertised approval "nationwide" while New York and
-//     Washington provider approval is still PENDING in the same data.
+//   • the prelicensing card advertised approval "nationwide" without accounting
+//     for states where only exam prep is available or a course is not yet live.
 // Deriving keeps this page in lockstep with the 50 state pages.
 // ---------------------------------------------------------------------------
 const ALL_STATES = Object.values(STATES);
@@ -67,11 +67,6 @@ const PROMETRIC_STATES = ALL_STATES.filter((s) => /prometric/i.test(s.examInfo.e
 // at training.ua.edu/insurance-testing; Kentucky DOI eServices, verified at
 // insurance.ky.gov). Counts and the Prometric list are derived above.
 const EXAM_VENDOR_NOTE = `Pearson VUE (${PEARSON_COUNT} states) and PSI (${PSI_COUNT}) run most state insurance exams, but not all of them: ${listAnd(PROMETRIC_STATES)} test through Prometric, Alabama through the University of Alabama College of Continuing Studies, and Kentucky through the Department of Insurance itself.`;
-
-// Provider approval still outstanding — these states may not be advertised as approved.
-const PENDING_APPROVAL_STATES = ALL_STATES
-  .filter((s) => s.providerApprovalNumber === "PENDING")
-  .map((s) => s.name);
 
 // Of the four states that require the license application to be on file before
 // the exam can be scheduled, these are the ones with no prelicensing mandate —
@@ -191,14 +186,14 @@ const TABLE_STATES: Array<{ slug: string; hours: string; notes: string }> = [
   // hours is the shortest MANDATORY requirement, not the shortest overall.
   { slug: "georgia", hours: "8 hr per line (16 combined, post-Jun 2025)", notes: "Shortest mandatory prelicensing hours in the Southeast; NC, SC, TN, AL, VA and LA require none" },
   { slug: "california", hours: "12 hr Ethics & Code (post-AB 943)", notes: "Live Scan fingerprints; CDI manual review" },
-  { slug: "new-york", hours: "20 hr per line (40 combined)", notes: "DFS producer licensing; provider approval pending" },
+  { slug: "new-york", hours: "20 hr per line (40 combined)", notes: "DFS producer licensing; provider approval issued; course not yet live" },
   { slug: "illinois", hours: "20 hr per line (40 combined)", notes: "Part of the hours must be live, attendance-verified webinar" },
   { slug: "ohio", hours: "20 hr per line (40 combined)", notes: "ODI uses Sircon for producer licensing" },
   { slug: "pennsylvania", hours: "Not required (optional)", notes: "PID producer licensing" },
   { slug: "north-carolina", hours: "Not required (optional)", notes: "Prelicensing mandate repealed (S.L. 2025-45)" },
   { slug: "arizona", hours: "Not required (optional)", notes: "DIFI; PSI testing since Sept 2025" },
   { slug: "michigan", hours: "20 hr per line (40 combined)", notes: "DIFS; per-exam passing scores (72/76/75)" },
-  { slug: "washington", hours: "Not required (optional)", notes: "OIC uses PSI for testing; provider approval pending" },
+  { slug: "washington", hours: "Not required (optional)", notes: "OIC uses PSI for testing; no state prelicensing mandate; exam prep is live" },
 ];
 
 const stateTimes = TABLE_STATES.map(({ slug, hours, notes }) => {
@@ -535,9 +530,7 @@ export default function HowLongToGetInsuranceLicensePage() {
           <div className="grid md:grid-cols-2 gap-5">
             <Link href="/prelicensing" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Prelicensing Courses</h3>
-              {/* "nationwide" contradicted the NY/WA rows in the table above and
-                  the data behind them (providerApprovalNumber === "PENDING"). */}
-              <p className="text-gray-600 text-sm">$199 state-approved courses for Life, Health, and combined lines. {listAnd(PENDING_APPROVAL_STATES)} provider approval pending.</p>
+              <p className="text-gray-600 text-sm">Browse state-specific Life, Health, and combined-line options. Course availability and approval status are shown on each state page.</p>
             </Link>
             <Link href="/insurance-exam-guide" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Insurance Exam Guide</h3>
@@ -597,7 +590,7 @@ export default function HowLongToGetInsuranceLicensePage() {
       {/* CTA */}
       <CTABanner
         title="Ready to start the clock?"
-        subtitle="Pick your state and enroll in a prelicensing course today. Most students go from enrollment to an active license in 2 to 6 weeks — 4 to 8 if you are studying part-time."
+        subtitle="Pick your state to see the course or exam-prep options currently available. Most students go from enrollment to an active license in 2 to 6 weeks — 4 to 8 if you are studying part-time."
         ctaText="Find Your State"
         ctaHref="/"
       />

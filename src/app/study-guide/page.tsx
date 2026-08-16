@@ -534,13 +534,17 @@ export default function StudyGuidePage() {
           <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-4">
             <p>Let&apos;s be honest: the first time you look at an insurance exam outline, it can feel like someone handed you a phone book and said &quot;memorize this by Tuesday.&quot;</p>
             <p>You&apos;re not alone in that feeling. Thousands of people sit down to study for their insurance license every week — and many hit that same wall. Too many terms. Too many policy types. Too many state-specific rules that seem designed to trip you up.</p>
-            <p>But here&apos;s what we&apos;ve learned from helping over 20,000 students prepare for their exams: <strong className="text-navy">this test is very passable.</strong> It doesn&apos;t require a law degree or a finance background. It requires smart, focused preparation — the kind that teaches you <em>why</em> concepts matter, not just what to memorize.</p>
+            <p>But here&apos;s what we&apos;ve learned from helping over 30,000 students prepare for their exams: <strong className="text-navy">this test is very passable.</strong> It doesn&apos;t require a law degree or a finance background. It requires smart, focused preparation — the kind that teaches you <em>why</em> concepts matter, not just what to memorize.</p>
           </div>
           <Callout kind="tip" label="📌 How to Use This Guide">
             Start with Part 2 to build your universal foundation. Work through the Part 3 glossary. Then jump directly to your state in Part 4. Use Parts 5–9 to test yourself, memorize key concepts, and prepare for exam day.
           </Callout>
           <p className="text-gray-700 leading-relaxed">
-            This guide covers all 51 jurisdictions for Life &amp; Health licenses, and is maintained by the team at JustInsurance — a state-approved prelicensing provider in the {PRELICENSING_APPROVED_COUNT} states where prelicensing education is mandated and our approval has issued, and a state-approved continuing-education provider in {CE_APPROVED_ELSEWHERE_COUNT} more states. Our provider approvals in {formatList(PENDING_APPROVAL_STATES)} are still pending. We&apos;ve helped 20,000+ students earn their licenses.
+            This guide covers all 51 jurisdictions for Life &amp; Health licenses, and is maintained by the team at JustInsurance — a state-approved prelicensing provider in the {PRELICENSING_APPROVED_COUNT} states where prelicensing education is mandated and our approval has issued, and a state-approved continuing-education provider in {CE_APPROVED_ELSEWHERE_COUNT} more states.
+            {PENDING_APPROVAL_STATES.length > 0 && (
+              <> Our provider approvals in {formatList(PENDING_APPROVAL_STATES)} are still pending.</>
+            )}{" "}
+            We&apos;ve helped 30,000+ students earn their licenses.
           </p>
         </div>
       </section>

@@ -77,6 +77,13 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <head>
         <GtmGate />
+        {/* Official Trustpilot TrustBox loader. Loaded once for every official
+            TrustBox rendered across the site. */}
+        <Script
+          id="trustpilot-trustbox"
+          src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
+          strategy="afterInteractive"
+        />
         {/* Cart-link guard: ANY query param before the # on an Absorb hash
             deep-route (#/AddToCart, #/cart) empties the cart (verified — same
             failure as the old _gl bug). This strips known tracking params off

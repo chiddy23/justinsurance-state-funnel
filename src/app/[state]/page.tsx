@@ -16,7 +16,6 @@ import TwoPathSelector from "@/components/TwoPathSelector";
 import { PC_STATE_SLUGS, getPCPackagesForState } from "@/data/pc-ce-packages";
 import StateRequirementsBlock from "@/components/StateRequirementsBlock";
 import TestimonialCards from "@/components/TestimonialCards";
-import TrustpilotStateReviews from "@/components/TrustpilotStateReviews";
 import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
@@ -853,7 +852,6 @@ export default async function StateHubPage({
           (falling back to generic when fewer than 3 are available). */}
       <TestimonialCards stateName={stateData.name} seed={stateData.slug} stateSlug={stateData.slug} />
 
-      <TrustpilotStateReviews stateName={stateData.name} />
 
       <PracticeExamCTA
         stateName={stateData.name}

@@ -1,15 +1,16 @@
 import React from "react";
-import { TRUSTPILOT, getTrustpilot } from "@/lib/trustpilot";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { getGoogleReviews } from "@/lib/google-reviews";
 import { getStateBySlug } from "@/lib/states";
 import { isCeAvailable, isPrelicensingHeld } from "@/lib/prelicensing-status";
+import TrustpilotMicroTrustScore from "@/components/TrustpilotMicroTrustScore";
 
 interface TrustSignal {
-  icon: React.ReactNode;
+  icon?: React.ReactNode;
   label: string;
   sub: string;
   href?: string;
+  officialWidget?: React.ReactNode;
 }
 
 const TRUST_SIGNALS: TrustSignal[] = [
@@ -45,15 +46,9 @@ const TRUST_SIGNALS: TrustSignal[] = [
     href: "https://www.google.com/search?q=JustInsurance+Pembroke+Pines+FL+reviews",
   },
   {
-    icon: (
-      <svg className="w-6 h-6" viewBox="0 0 24 24" aria-hidden="true">
-        <rect width="24" height="24" rx="2" fill="#00B67A" />
-        <path d="M12 4l2.06 5.06 5.44.4-4.16 3.52 1.31 5.3L12 15.9 7.35 18.28l1.31-5.3L4.5 9.46l5.44-.4L12 4z" fill="#fff" />
-      </svg>
-    ),
-    label: `${TRUSTPILOT.score} on Trustpilot`,
-    sub: `${TRUSTPILOT.count} Trustpilot reviews`,
-    href: TRUSTPILOT.url,
+    label: "Official Trustpilot TrustScore",
+    sub: "",
+    officialWidget: <TrustpilotMicroTrustScore />,
   },
   {
     icon: (
@@ -156,9 +151,6 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   // Live Google Business Profile rating + count (auto-updates via ISR; falls
   // back to the static display when no API key/place ID is configured).
   const google = await getGoogleReviews();
-  // Live Trustpilot score/count (auto-updates via ISR; static 92 fallback).
-  const tp = await getTrustpilot();
-
   // Approval gate for the "State-Approved / Official course approval" badge:
   // a state with providerApprovalNumber === "PENDING" has no approval to claim,
   // so that badge is swapped for a neutral "Built to State Standards" one.
@@ -211,20 +203,24 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
             : signal.sub,
       };
     }
-    if (signal.label.endsWith("on Trustpilot")) {
-      return {
-        ...signal,
-        label: `${tp.score} on Trustpilot`,
-        sub: `${tp.count.toLocaleString()} Trustpilot reviews`,
-      };
-    }
     return signal;
   });
   return (
     <section className="bg-gray-bg border-b border-gray-200 py-4">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap justify-center gap-x-6 gap-y-4 lg:grid lg:grid-cols-7 lg:gap-0">
+        <div className="flex flex-wrap justify-center gap-x-6 gap-y-4 lg:grid lg:grid-cols-8 lg:gap-0">
           {signals.map((signal) => {
+            if (signal.officialWidget) {
+              return (
+                <div
+                  key={signal.label}
+                  className="flex min-w-[280px] items-center justify-center px-2 lg:col-span-2 lg:min-w-0"
+                >
+                  {signal.officialWidget}
+                </div>
+              );
+            }
+
             const inner = (
               <>
                 <span className="text-navy flex-shrink-0">{signal.icon}</span>

@@ -5,8 +5,8 @@ import { stateClaims, isPrelicensingHeld } from "@/lib/prelicensing-status";
 import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import CTABanner from "@/components/CTABanner";
-import TrustpilotStars from "@/components/TrustpilotStars";
-import { TRUSTPILOT, getTrustpilot, TRUSTPILOT_REVIEWS } from "@/lib/trustpilot";
+import TrustpilotMicroCombo from "@/components/TrustpilotMicroCombo";
+import TrustpilotMini from "@/components/TrustpilotMini";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
@@ -129,18 +129,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default async function HomePage() {
-  // Live Trustpilot score/count (auto-updates via ISR; static 92 fallback).
-  const tp = await getTrustpilot();
-  // Homepage social proof — 3 real, compliance-verified Trustpilot reviews sourced
-  // VERBATIM from the single review list (already competitor/FTC-filtered).
-  // Display-only: we do NOT emit AggregateRating/Review JSON-LD (self-serving
-  // review schema stays off). If a name is ever withheld at the source, it simply
-  // drops out and the grid renders the remainder.
-  const HOMEPAGE_REVIEW_NAMES = ["Rhonda B.", "Kisha E.", "Michael W."];
-  const homepageReviews = HOMEPAGE_REVIEW_NAMES.map((n) =>
-    TRUSTPILOT_REVIEWS.find((r) => r.name === n)
-  ).filter((r): r is (typeof TRUSTPILOT_REVIEWS)[number] => Boolean(r));
+export default function HomePage() {
   // `states` drives the DISCOVERY GRID, which lists EVERY state so each tile is
   // navigable — including New York, whose /new-york hub renders a held "opening
   // soon" notice while its provider approval is PENDING. This list is
@@ -180,19 +169,7 @@ export default async function HomePage() {
             </a>
           </div>
           <div className="mt-6 flex justify-center">
-            <a
-              href={TRUSTPILOT.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 text-sm text-blue-100 hover:text-white transition-colors"
-            >
-              <TrustpilotStars size="w-4 h-4" />
-              <span>
-                <strong className="text-white">{TRUSTPILOT.label}</strong>{" "}
-                {tp.score}/5 · {tp.count} reviews on{" "}
-                <span className="font-semibold text-white">Trustpilot</span>
-              </span>
-            </a>
+            <TrustpilotMicroCombo />
           </div>
         </div>
       </section>
@@ -392,54 +369,19 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* Social proof — real, compliance-verified Trustpilot reviews.
-          Display-only (no AggregateRating/Review JSON-LD); self-contained section
-          so it can't reflow neighbors; responsive 1->3 col grid. */}
-      {homepageReviews.length > 0 && (
-        <section className="bg-white py-16 px-4 border-t border-gray-100">
-          <div className="max-w-6xl mx-auto">
-            <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-              What Our Students Say
-            </h2>
-            <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-              Real, unedited reviews from students who used JustInsurance to prepare for their state exam.{" "}
-              <a
-                href={TRUSTPILOT.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-semibold text-navy underline hover:text-gold-deep"
-              >
-                Rated {tp.score}/5 on Trustpilot
-              </a>
-              .
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {homepageReviews.map((r) => (
-                <article
-                  key={r.name + r.date}
-                  className="bg-white rounded-xl border border-gray-200 shadow-sm p-6 flex flex-col"
-                >
-                  <TrustpilotStars size="w-4 h-4" count={r.stars} />
-                  <p className="text-gray-700 text-sm leading-relaxed mt-4 mb-6 flex-grow">
-                    &ldquo;{r.text}&rdquo;
-                  </p>
-                  <div className="flex items-center gap-3 mt-auto pt-4 border-t border-gray-100">
-                    <div
-                      className="w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0"
-                      style={{ backgroundColor: "#00B67A" }}
-                    >
-                      <span className="text-white font-bold text-xs">{r.initials}</span>
-                    </div>
-                    <div className="min-w-0">
-                      <p className="font-semibold text-navy text-sm">{r.name}</p>
-                      <p className="text-gray-500 text-xs">
-                        via Trustpilot{r.state ? ` · ${r.state}` : ""}
-                      </p>
-                    </div>
-                  </div>
-                </article>
-              ))}
-            </div>
+      {/* Official Trustpilot social proof. Trustpilot owns the score, count,
+          branding, and refresh behavior inside the TrustBox. */}
+      <section className="bg-white py-16 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+            What Our Students Say
+          </h2>
+          <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
+            See our current rating and independently published reviews on Trustpilot.
+          </p>
+          <div className="rounded-xl border border-gray-200 bg-white px-4 py-3 shadow-sm">
+            <TrustpilotMini />
+          </div>
             <div className="text-center mt-8">
               <Link
                 href="/reviews"
@@ -448,14 +390,8 @@ export default async function HomePage() {
                 Read more student reviews &rarr;
               </Link>
             </div>
-            {/* FTC 16 CFR 255.2(b) typicality disclosure travels with the endorsements. */}
-            <p className="text-xs text-gray-500 text-center mt-4 max-w-2xl mx-auto">
-              Reviews are real, unedited Trustpilot posts and reflect individual
-              experiences. Individual results vary and are not a guarantee of passing.
-            </p>
-          </div>
-        </section>
-      )}
+        </div>
+      </section>
 
       <CTABanner
         title="Ready to Get Your Insurance License?"

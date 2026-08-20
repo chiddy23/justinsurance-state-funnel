@@ -7,18 +7,12 @@ import {
   ALL_TESTIMONIALS,
   GOOGLE_REVIEWS,
   isDisplayable,
-  mentionsCompetitor,
   type Testimonial,
 } from "@/lib/testimonials";
-import { TRUSTPILOT, TRUSTPILOT_REVIEWS, getTrustpilot } from "@/lib/trustpilot";
-import TrustpilotStars from "@/components/TrustpilotStars";
 import { getGoogleReviews } from "@/lib/google-reviews";
+import TrustpilotMicroTrustScore from "@/components/TrustpilotMicroTrustScore";
+import TrustpilotMini from "@/components/TrustpilotMini";
 
-const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-function fmtDate(iso: string): string {
-  const [y, m, d] = iso.split("-");
-  return `${MONTHS[Number(m) - 1]} ${Number(d)}, ${y}`;
-}
 
 export async function generateMetadata(): Promise<Metadata> {
   // Live Google rating so the meta description never drifts from the real number.
@@ -42,7 +36,6 @@ export async function generateMetadata(): Promise<Metadata> {
 // reviewer's words duplicated. This grid is the YouTube set only.
 const REVIEWS = ALL_TESTIMONIALS.filter((t) => isDisplayable(t) && t.source !== "google");
 const GOOGLE = GOOGLE_REVIEWS.filter(isDisplayable);
-const TRUSTPILOT_DISPLAY = TRUSTPILOT_REVIEWS.filter((r) => !mentionsCompetitor(r));
 
 function sourceLabel(t: Testimonial): string {
   if (t.source === "youtube") return "via YouTube comment";
@@ -81,8 +74,6 @@ export default async function ReviewsPage() {
   // Live Google Business Profile rating + count (auto-updates via ISR, falls
   // back to the last-known-good 4.9/22). Single source of truth shared with TrustBar.
   const google = await getGoogleReviews();
-  // Live Trustpilot score/count (auto-updates via ISR; static 92 fallback).
-  const tp = await getTrustpilot();
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
@@ -103,15 +94,8 @@ export default async function ReviewsPage() {
           <h1 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">
             What JustInsurance Students Say
           </h1>
-          {/* An aggregate rating must carry its source and sample size. This
-              hero previously showed a bare "{google.rating} / 5" with no
-              attribution — which reads as an overall rating for the business
-              while actually being the higher of our two profiles (Google 4.9,
-              n=22-29) and quietly omitting the larger sample (Trustpilot 4.8,
-              n=53). Both are now shown with source and count, so nothing here
-              can be read as an unsourced sitewide average.
-              google.count is 0 when the Places API omits userRatingCount; the
-              sample is then left off rather than printed as "(0 reviews)". */}
+          {/* Google remains attributed in HTML. Trustpilot's official widget
+              owns its live score, count, branding, and outbound profile link. */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-x-8 gap-y-3 mb-5">
             <div className="flex items-center gap-2.5">
               <StarRow />
@@ -125,15 +109,8 @@ export default async function ReviewsPage() {
                 )}
               </p>
             </div>
-            <div className="flex items-center gap-2.5">
-              <TrustpilotStars size="w-5 h-5" />
-              <p className="text-lg font-bold">
-                {tp.score} / 5 on Trustpilot
-                <span className="font-normal text-blue-100">
-                  {" "}
-                  ({tp.count} reviews)
-                </span>
-              </p>
+            <div className="rounded-md bg-white px-3 py-2 shadow-sm">
+              <TrustpilotMicroTrustScore />
             </div>
           </div>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
@@ -147,7 +124,7 @@ export default async function ReviewsPage() {
 
       {/* Stats band */}
       <section className="bg-gold/10 border-b border-gold/30 py-6 px-4">
-        <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-6 gap-4 text-center">
+        <div className="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
           <a
             href="https://www.google.com/search?q=JustInsurance+Pembroke+Pines+FL+reviews"
             target="_blank"
@@ -165,22 +142,6 @@ export default async function ReviewsPage() {
             </p>
             <p className="text-xs text-gray-700">on Google</p>
           </a>
-          <a
-            href={TRUSTPILOT.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block hover:opacity-80 transition-opacity"
-          >
-            <p className="text-2xl md:text-3xl font-bold text-navy flex items-center justify-center gap-1.5">
-              {tp.score}
-              <TrustpilotStars size="w-5 h-5" count={1} />
-            </p>
-            <p className="text-xs text-gray-700">on Trustpilot</p>
-          </a>
-          <div>
-            <p className="text-2xl md:text-3xl font-bold text-navy">{tp.count}</p>
-            <p className="text-xs text-gray-700">Trustpilot reviews</p>
-          </div>
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">20,000+</p>
             <p className="text-xs text-gray-700">Students trained</p>
@@ -254,67 +215,17 @@ export default async function ReviewsPage() {
         </div>
       </section>
 
-      {/* Trustpilot Reviews */}
+      {/* Official Trustpilot rating widget */}
       <section className="bg-white py-12 px-4 border-b border-gray-200">
-        <div className="max-w-6xl mx-auto">
-          <div className="flex flex-col items-center text-center gap-2 mb-8">
-            <div className="flex items-center gap-2">
-              <span className="text-lg font-bold text-navy">Excellent</span>
-              <TrustpilotStars size="w-6 h-6" />
-            </div>
-            <p className="text-sm text-gray-600">
-              Rated <strong>{tp.score}</strong> out of 5 based on{" "}
-              <a
-                href={TRUSTPILOT.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-semibold text-navy underline hover:text-gold"
-              >
-                {tp.count} reviews
-              </a>{" "}
-              on{" "}
-              <span className="font-bold" style={{ color: "#00B67A" }}>
-                Trustpilot
-              </span>
-            </p>
-          </div>
-          <div className="columns-1 md:columns-2 lg:columns-3 gap-4">
-            {TRUSTPILOT_DISPLAY.map((r) => (
-              <article
-                key={r.name + r.date + r.text.slice(0, 16)}
-                className="break-inside-avoid mb-4 bg-white rounded-xl border border-gray-200 shadow-sm p-5"
-              >
-                <div className="flex items-center justify-between mb-2">
-                  <TrustpilotStars size="w-4 h-4" count={r.stars} />
-                  <span className="text-[11px] text-gray-500">{fmtDate(r.date)}</span>
-                </div>
-                <p className="text-gray-700 text-sm leading-relaxed mb-4">
-                  &ldquo;{r.text}&rdquo;
-                </p>
-                <div className="flex items-center gap-2.5">
-                  <div
-                    className="w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0"
-                    style={{ backgroundColor: "#00B67A" }}
-                  >
-                    <span className="text-white font-bold text-xs">{r.initials}</span>
-                  </div>
-                  <div>
-                    <p className="font-semibold text-navy text-sm">{r.name}</p>
-                    <p className="text-gray-500 text-xs">via Trustpilot</p>
-                  </div>
-                </div>
-              </article>
-            ))}
-          </div>
-          <div className="text-center mt-6">
-            <a
-              href={TRUSTPILOT.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-sm text-navy underline hover:text-gold"
-            >
-              See all {tp.count} reviews on Trustpilot →
-            </a>
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+            JustInsurance on Trustpilot
+          </h2>
+          <p className="text-gray-600 text-center mb-8">
+            Our current TrustScore and review count are displayed directly by Trustpilot.
+          </p>
+          <div className="rounded-xl border border-gray-200 bg-white px-4 py-3 shadow-sm">
+            <TrustpilotMini />
           </div>
         </div>
       </section>
@@ -420,14 +331,14 @@ export default async function ReviewsPage() {
           <p className="text-gray-600 leading-relaxed text-sm">
             Reviews shown above are real feedback reproduced unedited from its
             public source; anything in [square brackets] is an editorial note
-            from us, not the reviewer&rsquo;s words. The Google and Trustpilot reviews are from enrolled
-            JustInsurance students. The cards labeled &ldquo;via YouTube
+            from us, not the reviewer&rsquo;s words. The Google reviews are from
+            JustInsurance customers. The Trustpilot rating and review count are
+            displayed directly by Trustpilot&rsquo;s official widget. The cards labeled &ldquo;via YouTube
             comment&rdquo; are public comments left on our free exam-prep videos
             by viewers who may never have purchased a course, and some describe
             exams they have not passed. Initials are used in place of full names to
-            protect student privacy. Star ratings shown are the ratings on our
-            Google and Trustpilot profiles as of the date indicated and reflect
-            only the students who chose to leave a review on those platforms.
+            protect student privacy. Google star ratings reflect only customers
+            who chose to leave a review there.
             For our published pass-rate methodology, see{" "}
             <Link href="/pass-rates" className="text-gold-deep underline hover:text-gold font-semibold">
               /pass-rates

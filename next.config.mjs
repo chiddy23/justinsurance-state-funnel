@@ -1,14 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Bundle the blank certificate PDF templates into the serverless function
-  // bundle so /api/certificate/[slug] can read them at runtime. They live
-  // outside public/ so they aren't directly downloadable from the CDN.
-  // In Next 14 this key sits under `experimental`.
-  experimental: {
-    outputFileTracingIncludes: {
-      "/api/certificate/[slug]": ["./cert-templates/**/*"],
-    },
-  },
+  // Security sweep 2026-08-10: stop advertising the framework via X-Powered-By
+  // (minor info-disclosure hardening; no functional impact).
+  poweredByHeader: false,
   // Disable Next.js's automatic trailing-slash redirect so middleware can
   // handle it with an ABSOLUTE Location header. Without this flag, the
   // framework redirect fires at the Vercel edge before middleware runs and
@@ -340,30 +334,6 @@ const nextConfig = {
     ];
 
     return [...wwwRedirect, ...kaplanMirrorRedirects, ...stateRedirects, ...legacyPageRedirects, ...trailingSlashRedirect];
-  },
-  async headers() {
-    return [
-      {
-        // Certificate pages need to be iframe-embeddable from Absorb LMS.
-        // CSP frame-ancestors overrides the default X-Frame-Options.
-        source: "/certificate/:path*",
-        headers: [
-          {
-            key: "Content-Security-Policy",
-            value: "frame-ancestors 'self' https://yourinsurancelicense.myabsorb.com https://*.myabsorb.com;",
-          },
-        ],
-      },
-      {
-        source: "/verify/:path*",
-        headers: [
-          {
-            key: "Content-Security-Policy",
-            value: "frame-ancestors 'self' https://yourinsurancelicense.myabsorb.com https://*.myabsorb.com;",
-          },
-        ],
-      },
-    ];
   },
 };
 

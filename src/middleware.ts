@@ -206,13 +206,6 @@ function logRequest(
     // excludes these; /api especially, to prevent a self-logging loop).
     if (pathname.startsWith("/api") || pathname.startsWith("/_next")) return;
 
-    // Skip: certificate pages. Absorb embeds these as
-    // /certificate/<slug>?firstName=..&lastName=..&email=.. — that query
-    // string is student PII and must never reach BigQuery via this logger.
-    // Bail out entirely rather than logging with an empty query so no
-    // certificate traffic (path or param) is captured by this pipeline.
-    if (pathname.startsWith("/certificate/")) return;
-
     // Skip: empty user-agent (junk traffic, nothing to attribute).
     const userAgent = req.headers.get("user-agent") ?? "";
     if (!userAgent.trim()) return;
@@ -732,8 +725,8 @@ export function middleware(req: NextRequest, event: NextFetchEvent) {
     // BigQuery (IP + user-agent + path + geo) so we can see who is hammering
     // the maintenance page — e.g. competitor scrapers (AD Banker 64.126.111.2 /
     // AS18712, ExamFX, masked/rotating-IP crawlers). logRequest self-skips
-    // /certificate/, /api, prefetches, and empty-UA traffic, so this adds no
-    // PII and no self-logging loop — and it honors GPC/opt-out (see logRequest).
+    // /api, prefetches, and empty-UA traffic, so this adds no self-logging
+    // loop — and it honors GPC/opt-out (see logRequest).
     logRequest(req, event, 503, verifiedCrawler);
     return new NextResponse(MAINTENANCE_PAGE, {
       status: 503,
@@ -790,8 +783,7 @@ export const config = {
   // Match every page request except api routes, static assets, Next
   // internals, sitemaps, robots, favicon, and anything with a file extension
   // (images, CSS, JS). `api` is excluded so the middleware's own POST to
-  // /api/collect can never re-enter middleware (self-logging loop); the only
-  // other api route (certificate) doesn't rely on middleware.
+  // /api/collect can never re-enter middleware (self-logging loop).
   // The middleware itself short-circuits with NextResponse.next() when no
   // redirect is needed, so the cache path is undisturbed for normal traffic.
   matcher: [

@@ -5,15 +5,14 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import GtmGate from "@/components/GtmGate";
+import GhlChatWidget from "@/components/GhlChatWidget";
 
 // GA4 (G-MTQQ0C7DKL) is now fired exclusively by GTM (Configuration tag).
 // Direct <GoogleAnalytics> removed 2026-05-01 after SEO team confirmed
 // GTM-injected GA4 was flowing pageviews. Single source of truth via GTM.
-// The GTM bootstrap script itself lives in <GtmGate> so it can be route-gated
-// off of /certificate/* pages, which carry student PII (firstName/lastName/
-// email) on their query string and must never reach GA4. GTM_ID stays here
-// only for the noscript fallback below (see GtmGate.tsx for why that fallback
-// isn't gated).
+// The GTM bootstrap script itself lives in <GtmGate>, alongside the site's
+// Global Privacy Control handling. GTM_ID stays here only for the noscript
+// fallback below.
 const GTM_ID = "GTM-PV25B4HX";
 
 const inter = Inter({
@@ -117,6 +116,7 @@ try{var t=ev.target,a=t&&t.closest?t.closest('a'):null;if(a&&a.href&&isCart(a.ho
         <Navbar />
         <main id="main-content" className="flex-grow">{children}</main>
         <Footer />
+        <GhlChatWidget />
       </body>
     </html>
   );

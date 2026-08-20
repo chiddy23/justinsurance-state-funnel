@@ -1,6 +1,5 @@
 "use client";
 
-import { usePathname } from "next/navigation";
 import Script from "next/script";
 
 // GA4 (G-MTQQ0C7DKL) is now fired exclusively by GTM (Configuration tag).
@@ -8,27 +7,7 @@ import Script from "next/script";
 // GTM-injected GA4 was flowing pageviews. Single source of truth via GTM.
 const GTM_ID = "GTM-PV25B4HX";
 
-// Certificate pages carry student PII (firstName/lastName/email) on their
-// query string, decoded from the Absorb iframe embed. GTM must never load
-// there — a Configuration/pageview tag would otherwise ship that PII-bearing
-// URL straight into GA4. Route-gate the GTM bootstrap script on the pathname
-// instead of loading it globally from the root layout.
-//
-// The GTM <noscript> fallback (the ns.html iframe) intentionally stays in
-// layout.tsx, ungated. It never carries the page URL or query string — the
-// iframe src is a fixed GTM-id URL and, being cross-origin, can't read the
-// parent document's location — so it isn't part of the PII leak vector this
-// gate exists for. It's also not gateable from here without putting an
-// <iframe> inside a <head>-scoped <noscript>, which is invalid HTML (the
-// spec limits head-noscript content to metadata elements).
-function isCertificatePath(pathname: string | null): boolean {
-  return !!pathname && pathname.startsWith("/certificate/");
-}
-
 export default function GtmGate() {
-  const pathname = usePathname();
-  if (isCertificatePath(pathname)) return null;
-
   return (
     <>
     <Script id="gtm-init" strategy="afterInteractive">
@@ -50,8 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','${GTM_ID}');`}
     </Script>
     {/* Microsoft Clarity (project y1rxfr87ic) — behavioral analytics: session
-        recordings + heatmaps. Loaded here so it inherits GtmGate's route gate
-        (never on /certificate/ PII pages) AND an opt-out consistent with the
+        recordings + heatmaps. Loaded here with an opt-out consistent with the
         privacy policy: Clarity has no Google Consent Mode hook, so we skip the
         load entirely for Global Privacy Control browsers (mirrors the GPC
         analytics_storage:'denied' default the GTM bootstrap above sets).

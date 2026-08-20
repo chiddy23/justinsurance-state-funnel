@@ -14,7 +14,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "Privacy Policy", url: "https://justinsuranceco.com/privacy-policy" },
 ]);
 
-const LAST_UPDATED = "August 14, 2026";
+const LAST_UPDATED = "August 20, 2026";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Sub-components
@@ -152,15 +152,6 @@ export default function PrivacyPolicyPage() {
             license number, and National Producer Number (NPN) where required for CE reporting.
           </LI>
           <LI>
-            <strong>Social Security Number (certificate requests only)</strong> &mdash; if you
-            request a course-completion certificate, we collect your Social Security Number
-            because most state Departments of Insurance require it to match and report your
-            continuing education or prelicensing course completion. We use your SSN solely for
-            this state CE/prelicensing reporting purpose &mdash; never for marketing &mdash; and
-            transmit it securely (see Section 4, Data Security). California residents have the
-            right to limit the use of this sensitive personal information; see Section 9 below.
-          </LI>
-          <LI>
             <strong>Account credentials</strong> &mdash; username and encrypted password for your
             JustInsurance account on our learning platform (yourinsurancelicense.myabsorb.com).
           </LI>
@@ -183,8 +174,8 @@ export default function PrivacyPolicyPage() {
             Clarity to capture a pseudonymized replay of your visit &mdash; mouse movements, clicks
             and taps, scrolling, and the pages you navigate &mdash; together with heatmaps and
             device data, to understand how visitors use the site. Text you enter into form fields
-            (such as your name, email, or Social Security Number) is masked and excluded from these
-            recordings. We link the pseudonymous identifier Microsoft Clarity assigns to your
+            (such as your name, email, or other personal information) is masked and excluded from
+            these recordings. We link the pseudonymous identifier Microsoft Clarity assigns to your
             session with the first-party visitor ID described above, so a recorded session can be
             matched to the corresponding visit; this pseudonymous data can become associated with
             you if it is later linked to your account or purchase (see &ldquo;Marketing attribution
@@ -278,10 +269,9 @@ export default function PrivacyPolicyPage() {
           </LI>
           <LI>
             <strong>Cloud infrastructure (Google)</strong> &mdash; visit and attribution logs are
-            processed and stored in Google BigQuery; completion-certificate documents (which can
-            include the Social Security number required for state filing) are stored in Google
-            Drive; and partnership-application form submissions are processed through Google
-            Workspace (Sheets/Apps Script) &mdash; all under Google&rsquo;s data-processing terms.
+            processed and stored in Google BigQuery, and partnership-application form submissions
+            are processed through Google Workspace (Sheets/Apps Script) &mdash; all under
+            Google&rsquo;s data-processing terms.
           </LI>
           <LI>
             <strong>Behavioral analytics (Microsoft Clarity)</strong> &mdash; pseudonymized
@@ -300,10 +290,11 @@ export default function PrivacyPolicyPage() {
             signal.
           </LI>
           <LI>
-            <strong>CRM &amp; communications platform</strong> &mdash; contact details and
-            enrollment status may be processed in our customer-relationship and messaging
-            platform to deliver the communications described in Section 7, under terms that
-            restrict use to our behalf.
+            <strong>CRM, customer-support chat &amp; communications platform</strong> &mdash;
+            messages and contact details you submit through our website chat, along with contact
+            details and enrollment status used for customer communications, may be processed by
+            HighLevel/LeadConnector on our behalf to provide support and deliver the communications
+            described in Section 7.
           </LI>
           <LI>
             <strong>Sponsoring agencies and partners</strong> &mdash; if you were enrolled by, or
@@ -396,6 +387,11 @@ export default function PrivacyPolicyPage() {
           <LI>
             <strong>Marketing cookies</strong> &mdash; used to deliver relevant advertisements
             and measure ad effectiveness on platforms such as Google Ads and Meta.
+          </LI>
+          <LI>
+            <strong>Support-chat storage</strong> &mdash; our HighLevel/LeadConnector chat widget
+            may use cookies or similar browser storage to maintain your conversation and associate
+            it with the source of your visit.
           </LI>
         </UL>
         <P>
@@ -507,14 +503,6 @@ export default function PrivacyPolicyPage() {
             <strong>Opt out of &ldquo;sale&rdquo; or &ldquo;sharing&rdquo;</strong> &mdash;
             request that we stop &ldquo;selling&rdquo; or &ldquo;sharing&rdquo; your personal
             information, including for cross-context behavioral advertising.
-          </LI>
-          <LI>
-            <strong>Limit the use of sensitive personal information</strong> &mdash; your Social
-            Security Number, collected only when you request a course-completion certificate, is
-            &ldquo;sensitive personal information&rdquo; under the CPRA. You have the right to
-            direct us to limit its use to what is reasonably necessary to report your course
-            completion to your state Department of Insurance. We do not use or disclose your SSN
-            for any other purpose, including marketing.
           </LI>
         </UL>
         <P>

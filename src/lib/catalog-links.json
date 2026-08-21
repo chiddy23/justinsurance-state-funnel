@@ -140,7 +140,7 @@
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88",
       "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f3d8c72c-dad7-4242-88f2-865f57b310a3",
       "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2cc2ffac-050d-464e-8228-d771b592b7e0",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=aed7c453-a039-404a-bd9d-912e4f06458c"
+      "life-and-health": "https://justinsurance-checkout.vercel.app/checkout?sku=fl-life-health"
     },
     "continuing-education": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08",

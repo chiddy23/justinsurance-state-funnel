@@ -20,9 +20,10 @@ import type { GtmAttrs } from "@/lib/gtm-attrs";
 //   ecommerce.items[0]: { item_id, item_name, item_category, item_variant,
 //     price, quantity }   <- for the GA4 ecommerce tag
 //
-// Guard: only fires for real single-course cart links
-// (…/#/AddToCart?CourseIds=<id>). Catalog/picker/curricula links are ignored,
-// so "Choose a Package" buttons don't emit a false add_to_cart.
+// Guard: only fires for real single-course purchase links: an Absorb
+// …/#/AddToCart?CourseIds=<id> URL or the JustInsurance checkout with a valid
+// `sku`. Catalog/picker/curricula links are ignored, so "Choose a Package"
+// buttons don't emit a false add_to_cart.
 //
 // The element stays a normal <a> (target=_blank), so middle/⌘-click still
 // work; the existing data-gtm-* attributes are preserved via `gtmAttrs` so
@@ -39,9 +40,18 @@ if (typeof window !== "undefined") {
   w.dataLayer = w.dataLayer || [];
 }
 
-function extractCourseId(href: string): string | null {
+function extractItemId(href: string): string | null {
   const m = href.match(/CourseIds=([0-9a-fA-F-]{36})/);
-  return m ? m[1].toLowerCase() : null;
+  if (m) return m[1].toLowerCase();
+
+  try {
+    const url = new URL(href);
+    if (url.hostname !== "justinsurance-checkout.vercel.app") return null;
+    const sku = url.searchParams.get("sku");
+    return sku && /^[a-z0-9-]{1,80}$/.test(sku) ? sku : null;
+  } catch {
+    return null;
+  }
 }
 
 function parsePrice(price?: string): number | undefined {
@@ -82,7 +92,7 @@ export default function AddToCartLink({
 }: AddToCartLinkProps) {
   function handleClick() {
     try {
-      const courseId = extractCourseId(href);
+      const courseId = extractItemId(href);
       if (!courseId) return; // not a real single-course cart add — don't fire
       const value = parsePrice(price);
       const w = window as unknown as { dataLayer?: Record<string, unknown>[] };

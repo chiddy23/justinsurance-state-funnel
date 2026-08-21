@@ -3,7 +3,7 @@
 // (which may change as we restyle).
 //
 // Auto-detects intent from href:
-//   myabsorb.com link  -> checkout_click  (buying intent — Absorb cart)
+//   Absorb or JustInsurance checkout link -> checkout_click (buying intent)
 //   any other href     -> start_course_click  (top-of-funnel navigation)
 //
 // Optional context lets the SEO team segment events by where on the page
@@ -22,7 +22,9 @@ export function getCtaAttrs(opts: {
   state?: string;
   loa?: string;
 }): GtmAttrs {
-  const isCheckout = opts.href.includes("myabsorb.com");
+  const isCheckout =
+    opts.href.includes("myabsorb.com") ||
+    opts.href.startsWith("https://justinsurance-checkout.vercel.app/");
   const attrs: GtmAttrs = {
     "data-gtm-event": isCheckout ? "checkout_click" : "start_course_click",
     "data-gtm-location": opts.location,

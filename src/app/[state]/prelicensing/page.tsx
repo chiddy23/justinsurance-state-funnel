@@ -200,6 +200,8 @@ export default async function PrelicensingHubPage({
                   <>JustInsurance&apos;s {stateData.name} prelicensing courses combine the required 7.5 live webinar hours per line of authority — attendance is verified — with 12.5 self-paced online hours per line (20 hours total per line). The self-paced portion is available on any device, at any time.</>
                 ) : isMinnesota ? (
                   <>JustInsurance&apos;s Minnesota prelicensing courses are fully online and flexible — study on any device, at any time, with no fixed class times. They are not self-paced in length, though: Minnesota enforces a minimum seat time, so the course is built to take the full required hours of interactive study and automatically logs you out if you are inactive for more than 10 minutes — it cannot be rushed. The one step you schedule is a proctored final exam: you arrange a disinterested third-party proctor who verifies your photo ID and signs an affidavit before your certificate of completion can be issued.</>
+                ) : stateData.slug === "florida" ? (
+                  <>JustInsurance&apos;s Florida prelicensing courses are fully online and self-paced. You can study on any device, at any time. Weekly live instructor sessions are included as optional support; attendance is not required to complete your self-paced course.</>
                 ) : (
                   <>JustInsurance&apos;s {stateData.name} prelicensing courses are fully online and self-paced. You can study on any device, at any time. There are no live sessions to attend — just work through the lessons at your own pace and move on when you&apos;re ready.</>
                 )}

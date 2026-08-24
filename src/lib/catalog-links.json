@@ -138,9 +138,9 @@
   "florida": {
     "prelicensing": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88",
-      "life": "https://justinsurance-checkout.vercel.app/checkout?sku=fl-life",
-      "health": "https://justinsurance-checkout.vercel.app/checkout?sku=fl-health",
-      "life-and-health": "https://justinsurance-checkout.vercel.app/checkout?sku=fl-life-health"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=fl-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=fl-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=fl-life-health"
     },
     "continuing-education": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08",

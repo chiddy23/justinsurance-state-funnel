@@ -24,6 +24,7 @@ export function getCtaAttrs(opts: {
 }): GtmAttrs {
   const isCheckout =
     opts.href.includes("myabsorb.com") ||
+    opts.href.startsWith("https://checkout.justinsuranceco.com/") ||
     opts.href.startsWith("https://justinsurance-checkout.vercel.app/");
   const attrs: GtmAttrs = {
     "data-gtm-event": isCheckout ? "checkout_click" : "start_course_click",

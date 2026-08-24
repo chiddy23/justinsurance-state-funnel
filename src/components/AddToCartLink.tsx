@@ -33,6 +33,11 @@ import type { GtmAttrs } from "@/lib/gtm-attrs";
 // GA4 event name — the contract with GTM. Change here if GTM expects another.
 const ADD_TO_CART_EVENT = "add_to_cart";
 
+const CHECKOUT_HOSTNAMES = new Set([
+  "checkout.justinsuranceco.com",
+  "justinsurance-checkout.vercel.app",
+]);
+
 // Ensure the dataLayer exists at module load (GTM also creates it, but this
 // guards against a click landing before GTM's init in edge cases).
 if (typeof window !== "undefined") {
@@ -46,7 +51,7 @@ function extractItemId(href: string): string | null {
 
   try {
     const url = new URL(href);
-    if (url.hostname !== "justinsurance-checkout.vercel.app") return null;
+    if (!CHECKOUT_HOSTNAMES.has(url.hostname)) return null;
     const sku = url.searchParams.get("sku");
     return sku && /^[a-z0-9-]{1,80}$/.test(sku) ? sku : null;
   } catch {

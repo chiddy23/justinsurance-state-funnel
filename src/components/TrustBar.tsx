@@ -208,13 +208,13 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   return (
     <section className="bg-gray-bg border-b border-gray-200 py-4">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap justify-center gap-x-6 gap-y-4 lg:grid lg:grid-cols-8 lg:gap-0">
+        <div className="grid grid-flow-dense grid-cols-2 items-center gap-x-3 gap-y-4 sm:grid-cols-4 sm:gap-x-5 lg:grid-cols-8 lg:gap-x-0">
           {signals.map((signal) => {
             if (signal.officialWidget) {
               return (
                 <div
                   key={signal.label}
-                  className="flex min-w-[280px] items-center justify-center px-2 lg:col-span-2 lg:min-w-0"
+                  className="col-span-2 flex min-h-8 min-w-0 items-center justify-center px-2"
                 >
                   {signal.officialWidget}
                 </div>
@@ -236,12 +236,12 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
                 href={signal.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 lg:justify-center px-2 hover:opacity-80 transition-opacity"
+                className="flex min-w-0 items-center justify-center gap-2 px-1 transition-opacity hover:opacity-80 sm:px-2"
               >
                 {inner}
               </a>
             ) : (
-              <div key={signal.label} className="flex items-center gap-2 lg:justify-center px-2">
+              <div key={signal.label} className="flex min-w-0 items-center justify-center gap-2 px-1 sm:px-2">
                 {inner}
               </div>
             );

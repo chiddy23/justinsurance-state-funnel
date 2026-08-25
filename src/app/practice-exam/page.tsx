@@ -110,7 +110,7 @@ export default function PracticeExamHubPage() {
         </div>
       </section>
 
-      <TrustBar />
+      <TrustBar passGuaranteeApplies={false} />
       <PressLogosBar />
 
       {/* Trust band */}

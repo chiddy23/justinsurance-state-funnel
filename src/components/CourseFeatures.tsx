@@ -17,7 +17,7 @@ const PRELICENSING_FEATURES = [
       </svg>
     ),
     title: "Practice Exams",
-    description: "Full-length practice exams that mirror the format and difficulty of your real state licensing exam. Know what to expect before test day.",
+    description: "Full-length practice exams for additional preparation, with detailed feedback to help you identify the topics that need more review before test day.",
   },
   {
     icon: (
@@ -108,6 +108,12 @@ const CE_FEATURES = [
 interface CourseFeaturesProps {
   variant?: "prelicensing" | "ce";
   /**
+   * Exam-only states such as Alabama do not require or approve prelicensing.
+   * Keep the shared feature cards, but frame them as optional preparation
+   * instead of a course that is required to qualify for the state exam.
+   */
+  examPrepOnly?: boolean;
+  /**
    * Illinois only: 3 of the 24 CE hours must be classroom/webinar ethics
    * (215 ILCS 5/500-35(b)), so the generic "No classroom required" claim on
    * the Self-Paced card is false for IL. When true, that card's copy is
@@ -140,6 +146,7 @@ interface CourseFeaturesProps {
 
 export default function CourseFeatures({
   variant = "prelicensing",
+  examPrepOnly = false,
   ceEthicsWebinar = false,
   liveCeCard,
   providerApproved = true,
@@ -187,11 +194,17 @@ export default function CourseFeatures({
       return f;
     });
   }
-  const heading = isCE ? "Everything You Need to Renew" : "Everything You Need to Pass";
+  const heading = isCE
+    ? "Everything You Need to Renew"
+    : examPrepOnly
+    ? "Everything You Need to Prepare"
+    : "Everything You Need to Pass";
   const subheading = isCE
     ? providerApproved
       ? "Your CE course includes everything you need to complete your hours, get reported to the state, and keep your license active."
       : "Your CE course includes everything you need to complete your hours and keep your license active."
+    : examPrepOnly
+    ? "Optional study tools and instructor support help you review key exam topics and identify areas that need more practice."
     : "Your course includes all the tools designed to help students pass their state exam on the first try.";
 
   return (

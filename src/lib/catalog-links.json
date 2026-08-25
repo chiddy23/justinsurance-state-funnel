@@ -2,9 +2,9 @@
   "alabama": {
     "prelicensing": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=49102445-e9e1-433f-951d-0df926efd039",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9e058f28-8b0b-4f61-ad41-5ab8fac53afe",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=21d13f8a-558d-4e5e-a81b-ce63ea2f9add"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=al-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=al-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=al-life-health"
     },
     "continuing-education": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/0274bbf0-1737-4ec5-8c9d-3db5167709d1",

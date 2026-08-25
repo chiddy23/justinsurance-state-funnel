@@ -38,6 +38,18 @@ export async function generateMetadata({
     stateSlug: stateData.slug,
     hours: typeof stateData.prelicensing.lifeAndHealth.hours === "number" ? stateData.prelicensing.lifeAndHealth.hours : undefined,
   });
+  if (stateData.slug === "alabama") {
+    const title = "Alabama Insurance Exam Prep Courses";
+    const description =
+      "Optional Alabama Life, Health, and Life & Health insurance exam-prep courses. Study online with 30-day access and optional weekly instructor support.";
+    return {
+      ...baseMeta,
+      title,
+      description,
+      openGraph: { ...baseMeta.openGraph, title: `${title} | JustInsurance`, description },
+      twitter: { ...baseMeta.twitter, title: `${title} | JustInsurance`, description },
+    };
+  }
   return isPrelicensingHeld(stateData)
     ? {
         title: `${stateData.name} Prelicensing — Enrollment Opening Soon | JustInsurance`,
@@ -76,6 +88,11 @@ export default async function PrelicensingHubPage({
   // 12-hour Code & Ethics course taken once, not per-line hours — so step copy
   // that ties "required hours" to a line of authority must be reframed. Gated.
   const isCalifornia = stateData.slug === "california";
+  // Alabama eliminated mandatory prelicensing effective January 1, 2024. Its
+  // live products are optional exam preparation with optional weekly instructor
+  // sessions, so do not use the generic exam-only "no live sessions" or
+  // state-certificate wording.
+  const isAlabama = stateData.slug === "alabama";
   // Minnesota: internet-delivered prelicensing requires a proctor-monitored final
   // exam (student arranges a disinterested third-party proctor who verifies ID and
   // signs an affidavit) before the certificate issues — Minn. Stat. § 45.305,
@@ -103,11 +120,13 @@ export default async function PrelicensingHubPage({
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
     { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
-    { name: "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
+    { name: isAlabama ? "Exam Prep" : "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
 
-  const articleHeadline = `${stateData.name} Insurance Prelicensing Courses`;
+  const articleHeadline = isAlabama
+    ? `${stateData.name} Insurance Exam Prep Courses`
+    : `${stateData.name} Insurance Prelicensing Courses`;
   const articleDescription = isCEOnlyState
     ? `Prepare for your ${stateData.name} insurance license exam with our online exam-prep course. Choose your line of authority below and start studying today.`
     : `Get your ${stateData.name} insurance license with a state-approved online prelicensing course. Choose your line of authority below and start studying today.`;
@@ -121,7 +140,7 @@ export default async function PrelicensingHubPage({
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}` },
-    { name: "Prelicensing" },
+    { name: isAlabama ? "Exam Prep" : "Prelicensing" },
   ];
 
   return (
@@ -133,8 +152,8 @@ export default async function PrelicensingHubPage({
       <BreadcrumbNav crumbs={crumbs} />
 
       <StateHero
-        eyebrow={`${stateData.name} Prelicensing`}
-        title={`${stateData.name} Insurance Prelicensing Courses`}
+        eyebrow={`${stateData.name} ${isAlabama ? "Exam Prep" : "Prelicensing"}`}
+        title={`${stateData.name} Insurance ${isAlabama ? "Exam Prep Courses" : "Prelicensing Courses"}`}
         subtitle={
           // 50 Ill. Adm. Code 3119 — Illinois hero leads with the approved
           // short format line so the hybrid format is above the fold.
@@ -168,7 +187,7 @@ export default async function PrelicensingHubPage({
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
             <div>
               <h2 className="text-2xl md:text-3xl font-bold text-navy mb-4">
-                What is Insurance Prelicensing?
+                {isAlabama ? "What is Insurance Exam Prep?" : "What is Insurance Prelicensing?"}
               </h2>
               <p className="text-gray-600 leading-relaxed mb-4">
                 {(() => {
@@ -190,6 +209,9 @@ export default async function PrelicensingHubPage({
                     }
                     return `Before you can take the ${stateData.name} insurance licensing exam, state law requires you to complete a minimum number of hours of approved prelicensing education. This education covers the insurance concepts, policy types, and ${stateData.name} regulations you need to know to sell insurance professionally and ethically.`;
                   }
+                  if (isAlabama) {
+                    return `Alabama does not require prelicensing education to sit for its insurance licensing exam, and the Alabama Department of Insurance does not approve or authorize prelicensing courses. JustInsurance's Alabama courses are optional exam preparation organized around the published licensing-exam content outline, with structured lessons, practice, and instructor support.`;
+                  }
                   return `${stateData.name} does not require a formal prelicensing course to sit for the state licensing exam — but preparation still matters. JustInsurance's ${stateData.name} prelicensing course covers the insurance concepts, policy types, and ${stateData.name} regulations tested on the exam, giving you the structure first-time passers rely on even when it's not state-mandated.`;
                 })()}
               </p>
@@ -202,6 +224,8 @@ export default async function PrelicensingHubPage({
                   <>JustInsurance&apos;s Minnesota prelicensing courses are fully online and flexible — study on any device, at any time, with no fixed class times. They are not self-paced in length, though: Minnesota enforces a minimum seat time, so the course is built to take the full required hours of interactive study and automatically logs you out if you are inactive for more than 10 minutes — it cannot be rushed. The one step you schedule is a proctored final exam: you arrange a disinterested third-party proctor who verifies your photo ID and signs an affidavit before your certificate of completion can be issued.</>
                 ) : stateData.slug === "florida" ? (
                   <>JustInsurance&apos;s Florida prelicensing courses are fully online and self-paced. You can study on any device, at any time. Weekly live instructor sessions are included as optional support; attendance is not required to complete your self-paced course.</>
+                ) : isAlabama ? (
+                  <>JustInsurance&apos;s Alabama exam-prep courses are fully online and self-paced. You can study on any device, at any time. Weekly live instructor sessions are included as optional support; attendance is not required to complete your course.</>
                 ) : (
                   <>JustInsurance&apos;s {stateData.name} prelicensing courses are fully online and self-paced. You can study on any device, at any time. There are no live sessions to attend — just work through the lessons at your own pace and move on when you&apos;re ready.</>
                 )}
@@ -211,6 +235,8 @@ export default async function PrelicensingHubPage({
                   <>Once you complete every course module and assessment in forced-progression order, pass the final course exam with a score of 70% or higher, and complete the required 7.5-hour live webinar per line &mdash; meeting all attendance and participation requirements &mdash; you&apos;ll be issued your Illinois certificate of completion. You then register with {stateData.examInfo.examProvider} and present a copy of that certificate at the test center on exam day.</>
                 ) : isMinnesota ? (
                   <>To earn your certificate, Minnesota requires you to pass a proctored final exam — you arrange a disinterested third-party proctor (not a relative, co-worker, or your instructor) who verifies your photo ID and signs an affidavit that you completed the exam without assistance (Minn. Stat. &sect; 45.305, subd. 5). Your certificate of completion is issued after you pass that proctored final and we receive the signed affidavit; JustInsurance then reports your completion to the Minnesota Department of Commerce. You schedule and take the state licensing exam separately with {stateData.examInfo.examProvider}.</>
+                ) : isAlabama ? (
+                  <>Once you complete the optional exam-prep course and its assessments, your JustInsurance learner record will show the course as complete. Alabama does not require this course completion to qualify for its licensing exam; schedule and take that exam separately with {stateData.examInfo.examProvider}.</>
                 ) : (
                   <>Once you complete {isCEOnlyState ? "the course" : "the required hours"} and pass the course assessments, you&apos;ll receive an official certificate of completion for your {stateData.name} licensing exam with {stateData.examInfo.examProvider}.{stateData.providerApprovalNumber !== "PENDING" && !isCEOnlyState ? " Your approved provider also reports your completion to the state." : ""}</>
                 )}
@@ -228,6 +254,8 @@ export default async function PrelicensingHubPage({
                   : { step: "2", title: "Study at Your Pace", desc: isCEOnlyState ? `Work through the exam-prep course at your own pace for your line of authority — video lessons, readings, and quizzes on any device.` : `Complete your required prelicensing hours for your line of authority — video lessons, readings, and quizzes on any device.` },
                 ilWebinar
                   ? { step: "3", title: "Earn Your Certificate", desc: `Complete all modules and quizzes in forced-progression order, pass the final exam with 70% or higher, and attend and participate in the required 7.5-hour live webinar sessions — then you'll be issued your Illinois Certificate of Completion.` }
+                  : isAlabama
+                  ? { step: "3", title: "Complete Your Course", desc: "Finish the optional exam-prep lessons and assessments; your JustInsurance learner record will show the course as complete." }
                   : { step: "3", title: "Earn Your Certificate", desc: "Pass the course assessments to receive your official certificate of completion from JustInsurance." },
                 { step: "4", title: "Pass the State Exam", desc: `Schedule and pass the ${stateData.name} licensing exam with ${stateData.examInfo.examProvider}, then apply for your license.` },
               ].map((item) => (
@@ -320,7 +348,7 @@ export default async function PrelicensingHubPage({
 
       <FAQAccordion
         faqs={faqs}
-        heading={`${stateData.name} Prelicensing FAQs`}
+        heading={`${stateData.name} ${isAlabama ? "Insurance Exam Prep" : "Prelicensing"} FAQs`}
       />
 
       {/* Visible "Last updated" stamp at the bottom of the article body */}

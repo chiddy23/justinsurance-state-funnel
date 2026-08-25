@@ -70,7 +70,7 @@ const CE_TOPICS: Record<LOASlug, string[]> = {
 type FloridaCePackageOption = {
   hours: 20 | 24;
   sku: string;
-  composition: string;
+  includedCourses: [string, string];
 };
 
 // Florida publishes separate 20- and 24-hour L/H package curricula. Keep the
@@ -78,16 +78,16 @@ type FloridaCePackageOption = {
 // MyProfile account instead of landing in an undifferentiated LMS catalog.
 const FLORIDA_CE_PACKAGE_OPTIONS: Partial<Record<LOASlug, FloridaCePackageOption[]>> = {
   life: [
-    { hours: 20, sku: "fl-ce-life-20", composition: "4-hour Law & Ethics Update + 16 hours of Life-only CE" },
-    { hours: 24, sku: "fl-ce-life-24", composition: "4-hour Law & Ethics Update + 20 hours of Life-only CE" },
+    { hours: 20, sku: "fl-ce-life-20", includedCourses: ["4-hour Law & Ethics Update", "16 hours of Life-only CE"] },
+    { hours: 24, sku: "fl-ce-life-24", includedCourses: ["4-hour Law & Ethics Update", "20 hours of Life-only CE"] },
   ],
   health: [
-    { hours: 20, sku: "fl-ce-health-20", composition: "4-hour Law & Ethics Update + 16 hours of Health-only CE" },
-    { hours: 24, sku: "fl-ce-health-24", composition: "4-hour Law & Ethics Update + 20 hours of Health-only CE" },
+    { hours: 20, sku: "fl-ce-health-20", includedCourses: ["4-hour Law & Ethics Update", "16 hours of Health-only CE"] },
+    { hours: 24, sku: "fl-ce-health-24", includedCourses: ["4-hour Law & Ethics Update", "20 hours of Health-only CE"] },
   ],
   "life-and-health": [
-    { hours: 20, sku: "fl-ce-life-health-20", composition: "4-hour Law & Ethics Update + 16 hours of Life & Health CE" },
-    { hours: 24, sku: "fl-ce-life-health-24", composition: "4-hour Law & Ethics Update + 20 hours of Life & Health CE" },
+    { hours: 20, sku: "fl-ce-life-health-20", includedCourses: ["4-hour Law & Ethics Update", "16 hours of Life & Health CE"] },
+    { hours: 24, sku: "fl-ce-life-health-24", includedCourses: ["4-hour Law & Ethics Update", "20 hours of Life & Health CE"] },
   ],
 };
 
@@ -419,12 +419,33 @@ export default async function CECoursePage({
               {floridaCePackages.map((option) => {
                 const checkoutHref = `https://checkout.justinsuranceco.com/checkout?sku=${option.sku}`;
                 return (
-                  <article key={option.sku} className="rounded-2xl border-2 border-gray-200 bg-white p-6 shadow-sm flex flex-col">
-                    <div className="flex items-baseline justify-between gap-4 mb-3">
-                      <h3 className="text-xl font-bold text-navy">{option.hours}-Hour Package</h3>
-                      <span className="text-2xl font-extrabold text-navy">$39</span>
+                  <article key={option.sku} className="min-h-[330px] rounded-2xl border-2 border-gray-200 bg-white p-7 shadow-sm flex flex-col transition-shadow hover:shadow-md">
+                    <p className="mb-4 inline-flex w-fit rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-blue-800">
+                      Choose if FLDFS shows {option.hours} hours
+                    </p>
+                    <div className="flex items-start justify-between gap-4 mb-4">
+                      <div>
+                        <h3 className="text-xl font-bold text-navy">{option.hours}-Hour Package</h3>
+                        <p className="mt-1 text-sm text-gray-500">Florida {loaDef.shortName} continuing education</p>
+                      </div>
+                      <div className="text-right flex-shrink-0">
+                        <span className="block text-2xl font-extrabold text-navy">$39</span>
+                        <span className="text-xs text-gray-500">total</span>
+                      </div>
                     </div>
-                    <p className="text-gray-600 leading-relaxed mb-5 flex-grow">{option.composition}</p>
+                    <div className="mb-6 flex-grow border-t border-gray-100 pt-4">
+                      <p className="mb-3 text-xs font-bold uppercase tracking-wide text-gray-500">Package includes</p>
+                      <ul className="space-y-2.5">
+                        {[...option.includedCourses, "Online, self-paced access", "Typically same-day completion reporting"].map((feature) => (
+                          <li key={feature} className="flex items-start gap-2.5 text-sm leading-relaxed text-gray-700">
+                            <svg className="mt-0.5 h-4 w-4 flex-shrink-0 text-success-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+                            </svg>
+                            <span>{feature}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
                     <AddToCartLink
                       href={checkoutHref}
                       price="$39"

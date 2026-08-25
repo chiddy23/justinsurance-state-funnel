@@ -406,13 +406,13 @@ export default async function CECoursePage({
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-8">
               <p className="text-sm font-bold uppercase tracking-wide text-blue-700 mb-2">
-                Florida CE package selection
+                Florida CE packages
               </p>
               <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
-                Choose the hours shown in your FLDFS account
+                Select Your Florida CE Package
               </h2>
               <p className="text-gray-600 max-w-2xl mx-auto leading-relaxed">
-                Florida requirements vary by license and time licensed. Check your CE status in FLDFS MyProfile before enrolling, then select the matching package below.
+                Choose the 20- or 24-hour option listed in your FLDFS MyProfile. If you&apos;re unsure, verify your requirement before enrolling.
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -421,7 +421,7 @@ export default async function CECoursePage({
                 return (
                   <article key={option.sku} className="min-h-[330px] rounded-2xl border-2 border-gray-200 bg-white p-7 shadow-sm flex flex-col transition-shadow hover:shadow-md">
                     <p className="mb-4 inline-flex w-fit rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-blue-800">
-                      Choose if FLDFS shows {option.hours} hours
+                      {option.hours}-Hour Option
                     </p>
                     <div className="flex items-start justify-between gap-4 mb-4">
                       <div>
@@ -495,7 +495,7 @@ export default async function CECoursePage({
       <CourseOverviewBox
         hours={floridaCePackages ? "20 / 24" : ce.totalHours}
         price={providerApproved ? ce.packagePrice : "Coming soon"}
-        accessDuration="365 Days"
+        accessDuration="30 Days"
         includes={[
             floridaCePackages
               ? "The CE hours in your selected package"

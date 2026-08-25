@@ -291,13 +291,9 @@ export default function TermsPage() {
         </P>
         <UL>
           <LI>
-            <strong>Prelicensing courses</strong> provide access for 30 days from the date of
-            enrollment, or the access period stated on the course page at the time of
-            purchase if different.
-          </LI>
-          <LI>
-            <strong>CE courses</strong> remain accessible until you have completed all required
-            modules and your completion has been reported to your state.
+            <strong>All course products</strong> — including prelicensing courses, CE courses,
+            and standalone practice exams — provide access for 30 days from the date of
+            enrollment.
           </LI>
           <LI>
             Access periods are per-enrollment. Purchasing the same course again creates a new
@@ -308,8 +304,7 @@ export default function TermsPage() {
             access expires.
           </LI>
           <LI>
-            <strong>Other products.</strong> Standalone practice exams provide access for the
-            period stated on the product page. The Pass Guarantee applies only to qualifying
+            <strong>Other products.</strong> The Pass Guarantee applies only to qualifying
             prelicensing courses in eligible states, as described in Section 4. Agency, bulk, and subscription
             arrangements are governed by a separate written agreement between JustInsurance and
             the partner organization.

@@ -18,10 +18,8 @@ export default function CourseOverviewBox({
   hours,
   price,
   format = "Online, Self-Paced",
-  // 30 days matches the FAQ + Pass Guarantee window (test within 30 days of
-  // first enrollment). Earlier "12 Months" default conflicted with the FAQ
-  // text on every prelicensing LOA page. CE template explicitly overrides
-  // to "365 Days" and is unaffected.
+  // Every JustInsurance course includes 30 days of access from enrollment.
+  // Keep this as the shared default so course templates cannot drift apart.
   accessDuration = "30 Days",
   includes = [
     "Video lessons",

@@ -152,7 +152,7 @@ const ourCoursesFaqs = [
   {
     question: "How long do I have access to the course?",
     answer:
-      "Prelicensing courses include 30 days of access from enrollment. CE courses are available until you complete them. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their prelicensing course in 1 to 2 weeks.",
+      "Every JustInsurance course includes 30 days of access from enrollment, including prelicensing, continuing education, and practice-exam products. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their course well within the access period.",
   },
   {
     question: "What is included in a JustInsurance course?",

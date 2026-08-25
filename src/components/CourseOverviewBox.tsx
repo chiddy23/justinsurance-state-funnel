@@ -2,7 +2,7 @@ import React from "react";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 
 interface CourseOverviewBoxProps {
-  hours: number;
+  hours: number | string;
   price: string;
   format?: string;
   accessDuration?: string;

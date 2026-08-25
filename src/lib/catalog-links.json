@@ -147,9 +147,9 @@
       "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d",
       "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/ecb835f3-7ff8-4e78-acd6-4ac4b480b000",
       "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/ecb835f3-7ff8-4e78-acd6-4ac4b480b000",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d"
+      "life": "/florida/continuing-education/life#florida-ce-packages",
+      "health": "/florida/continuing-education/health#florida-ce-packages",
+      "life-and-health": "/florida/continuing-education/life-and-health#florida-ce-packages"
     }
   },
   "georgia": {

@@ -364,7 +364,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     packageName: "Florida 20-Hour Advanced Property & Casualty CE Package — 4-Hr L&E Update + 16-Hr P&C",
     shortName: "FL 20-Hour Advanced P&C CE",
     ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 16, totalHours: 20,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1536E1F8-315E-4743-92A2-CE8778E47B35",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=fl-ce-pc-20-advanced",
     specialNotes: [
       "Florida 2-20 producers licensed 6+ years need 20 hours total per 2-year cycle; this Advanced track covers more complex P&C topics.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
@@ -376,7 +376,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     packageName: "Florida 20-Hour Basic Property & Casualty CE Package — 4-Hr L&E Update + 16-Hr P&C",
     shortName: "FL 20-Hour Basic P&C CE",
     ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 16, totalHours: 20,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=C9EA6115-8407-4BA3-9E57-42A6914087C5",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=fl-ce-pc-20-basic",
     specialNotes: [
       "Florida 2-20 producers licensed 6+ years need 20 hours total per 2-year cycle; this Basic track covers core P&C fundamentals.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
@@ -388,7 +388,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     packageName: "Florida Commercial Lines CE Package — 4-Hr L&E Update + 20-Hr P&C",
     shortName: "FL Commercial Lines CE",
     ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 20, totalHours: 24,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0A1779C2-D4A9-46F8-ACA8-20BF829309EC",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=fl-ce-pc-commercial",
     specialNotes: [
       "Designed for Florida producers focused on commercial property, commercial general liability, workers' compensation, and commercial auto coverage.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
@@ -405,7 +405,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     // content was restructured to a 24-hour Commercial + Flood package; UUID
     // preserved to retain customer enrollment history. Old slug `personal-auto`
     // 301-redirected to `commercial-flood` (see next.config.mjs).
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6D05FB7D-6D4E-4F51-9CB6-EC8533B6BECD",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=fl-ce-pc-commercial-flood",
     specialNotes: [
       "Bundle for FL commercial-lines producers who write NFIP flood policies — covers commercial property, GL, workers' comp, plus flood-specific coverage and underwriting.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
@@ -418,7 +418,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     packageName: "Florida Personal Lines Insurance CE Package — 4-Hr L&E Update + 20-Hr P&C",
     shortName: "FL Personal Lines CE",
     ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 20, totalHours: 24,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1F91D9FF-6C18-4ADF-89A7-37A650BC40BC",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=fl-ce-pc-personal",
     specialNotes: [
       "Comprehensive personal-lines curriculum: homeowners, personal auto, umbrella, and inland marine coverage for FL consumers.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
@@ -435,7 +435,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     // course content was restructured into a broader Personal Lines + Flood
     // bundle at 24 hours; UUID preserved. Old slug `homeowners-flood`
     // 301-redirected to `personal-lines-flood`.
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=01449926-F002-4CF0-A6E7-6DDDEF3ECE43",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=fl-ce-pc-personal-flood",
     specialNotes: [
       "Bundle for FL personal-lines producers who write NFIP flood policies — covers homeowners, personal auto, umbrella, inland marine, plus flood-specific coverage and underwriting.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",

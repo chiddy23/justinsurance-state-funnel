@@ -26,6 +26,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
 import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
+import AddToCartLink from "@/components/AddToCartLink";
 import { isCeAvailable, isCeApprovedComingSoon } from "@/lib/prelicensing-status";
 
 type CatalogLinks = typeof catalogLinks;
@@ -63,6 +64,30 @@ const CE_TOPICS: Record<LOASlug, string[]> = {
     "Ethics, professional conduct, and anti-fraud requirements",
     "State insurance laws governing life and health producers",
     "Policy replacement rules and consumer protection standards",
+  ],
+};
+
+type FloridaCePackageOption = {
+  hours: 20 | 24;
+  sku: string;
+  composition: string;
+};
+
+// Florida publishes separate 20- and 24-hour L/H package curricula. Keep the
+// choice on our state page so buyers select the hours shown in their FLDFS
+// MyProfile account instead of landing in an undifferentiated LMS catalog.
+const FLORIDA_CE_PACKAGE_OPTIONS: Partial<Record<LOASlug, FloridaCePackageOption[]>> = {
+  life: [
+    { hours: 20, sku: "fl-ce-life-20", composition: "4-hour Law & Ethics Update + 16 hours of Life-only CE" },
+    { hours: 24, sku: "fl-ce-life-24", composition: "4-hour Law & Ethics Update + 20 hours of Life-only CE" },
+  ],
+  health: [
+    { hours: 20, sku: "fl-ce-health-20", composition: "4-hour Law & Ethics Update + 16 hours of Health-only CE" },
+    { hours: 24, sku: "fl-ce-health-24", composition: "4-hour Law & Ethics Update + 20 hours of Health-only CE" },
+  ],
+  "life-and-health": [
+    { hours: 20, sku: "fl-ce-life-health-20", composition: "4-hour Law & Ethics Update + 16 hours of Life & Health CE" },
+    { hours: 24, sku: "fl-ce-life-health-24", composition: "4-hour Law & Ethics Update + 20 hours of Life & Health CE" },
   ],
 };
 
@@ -145,12 +170,16 @@ export default async function CECoursePage({
   const firstTermExtraHours = firstTermHours ? firstTermHours - ce.totalHours : 0;
   // "45 required CE hours" would tell a first-term licensee that 45 is their
   // total. Qualify it to the renewal cycle for those states only.
-  const ceHoursPhrase = firstTermHours
-    ? `${ce.totalHours} renewal-cycle CE hours`
-    : `${ce.totalHours} required CE hours`;
-  const ceRequirementPhrase = firstTermHours
-    ? `${ce.totalHours}-hour renewal-cycle CE requirement`
-    : `${ce.totalHours}-hour CE requirement`;
+  const ceHoursPhrase = stateData.slug === "florida"
+    ? "20- or 24-hour CE requirement shown in your FLDFS record"
+    : firstTermHours
+      ? `${ce.totalHours} renewal-cycle CE hours`
+      : `${ce.totalHours} required CE hours`;
+  const ceRequirementPhrase = stateData.slug === "florida"
+    ? "20- or 24-hour CE requirement shown in FLDFS MyProfile"
+    : firstTermHours
+      ? `${ce.totalHours}-hour renewal-cycle CE requirement`
+      : `${ce.totalHours}-hour CE requirement`;
   // The generic CourseFeatures "Self-Paced Online" card claims "No classroom
   // required." That is FALSE for states whose CE rules mandate a minimum number
   // of classroom / live-instructor / classroom-equivalent hours a purely
@@ -187,11 +216,22 @@ export default async function CECoursePage({
     }
   }
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
-  const faqs = getCECourseFAQs(
+  const floridaCePackages =
+    stateData.slug === "florida" ? FLORIDA_CE_PACKAGE_OPTIONS[loaDef.slug] : undefined;
+  const purchaseLink = floridaCePackages ? "#florida-ce-packages" : enrollLink;
+  const baseFaqs = getCECourseFAQs(
     buildFaqData(stateData),
     loaDef.name,
     ce.totalHours
   );
+  const faqs = stateData.slug === "florida"
+    ? baseFaqs.map((faq, index) => index === 0
+      ? {
+          ...faq,
+          answer: `Florida generally requires 24 CE hours every 2 years: a 4-hour Law and Ethics Update plus 20 elective hours. A licensee who has been licensed for 6 or more years generally receives a reduction to 20 total hours: the 4-hour update plus 16 elective hours. Reductions and license-specific requirements appear in your FLDFS MyProfile account, so confirm the hours shown there before choosing a package. JustInsurance offers both the 20-hour and 24-hour ${loaDef.name} CE packages for $39.`,
+        }
+      : faq)
+    : baseFaqs;
   const ceTopics = CE_TOPICS[loaDef.slug];
 
   const courseSchema = generateCourseSchema({
@@ -271,7 +311,7 @@ export default async function CECoursePage({
         }
         ctaButtons={
           providerApproved
-            ? [{ text: `Enroll Now — ${ce.packagePrice}`, href: enrollLink }]
+            ? [{ text: floridaCePackages ? `Choose Your Package — ${ce.packagePrice}` : `Enroll Now — ${ce.packagePrice}`, href: purchaseLink }]
             : [{ text: "View CE Requirements", href: "#ce-requirements" }]
         }
       />
@@ -361,6 +401,52 @@ export default async function CECoursePage({
         </section>
       ) : null}
 
+      {providerApproved && floridaCePackages ? (
+        <section id="florida-ce-packages" className="bg-white px-4 py-14 scroll-mt-24">
+          <div className="max-w-4xl mx-auto">
+            <div className="text-center mb-8">
+              <p className="text-sm font-bold uppercase tracking-wide text-blue-700 mb-2">
+                Florida CE package selection
+              </p>
+              <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+                Choose the hours shown in your FLDFS account
+              </h2>
+              <p className="text-gray-600 max-w-2xl mx-auto leading-relaxed">
+                Florida requirements vary by license and time licensed. Check your CE status in FLDFS MyProfile before enrolling, then select the matching package below.
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {floridaCePackages.map((option) => {
+                const checkoutHref = `https://checkout.justinsuranceco.com/checkout?sku=${option.sku}`;
+                return (
+                  <article key={option.sku} className="rounded-2xl border-2 border-gray-200 bg-white p-6 shadow-sm flex flex-col">
+                    <div className="flex items-baseline justify-between gap-4 mb-3">
+                      <h3 className="text-xl font-bold text-navy">{option.hours}-Hour Package</h3>
+                      <span className="text-2xl font-extrabold text-navy">$39</span>
+                    </div>
+                    <p className="text-gray-600 leading-relaxed mb-5 flex-grow">{option.composition}</p>
+                    <AddToCartLink
+                      href={checkoutHref}
+                      price="$39"
+                      state="florida"
+                      loa={loaDef.slug}
+                      courseType="continuing-education"
+                      itemName={`Florida ${option.hours}-Hour ${loaDef.shortName} CE Package`}
+                      className="block rounded-lg bg-gold px-5 py-3 text-center font-bold text-gray-dark transition-colors hover:bg-gold-dark"
+                    >
+                      Enroll in the {option.hours}-Hour Package — $39
+                    </AddToCartLink>
+                  </article>
+                );
+              })}
+            </div>
+            <p className="text-center text-xs text-gray-500 mt-5">
+              Not sure which package applies? Confirm your outstanding hours in FLDFS MyProfile before purchasing.
+            </p>
+          </div>
+        </section>
+      ) : null}
+
       {/* fid-215: mandated CE subjects BEYOND ethics. This page tells the agent
           the package covers their renewal hours and lists "Ethics hours
           included", but some states require additional named subjects inside
@@ -386,11 +472,13 @@ export default async function CECoursePage({
       )}
 
       <CourseOverviewBox
-        hours={ce.totalHours}
+        hours={floridaCePackages ? "20 / 24" : ce.totalHours}
         price={providerApproved ? ce.packagePrice : "Coming soon"}
         accessDuration="365 Days"
         includes={[
-          firstTermHours
+            floridaCePackages
+              ? "The CE hours in your selected package"
+              : firstTermHours
             ? `All ${ce.totalHours} renewal-cycle CE hours`
             : stateData.slug === "new-mexico"
               ? `Covers ${ce.totalHours} self-paced CE hours`
@@ -444,7 +532,9 @@ export default async function CECoursePage({
               {
                 step: "2",
                 title: "Complete Your CE",
-                desc: `Finish your ${ce.totalHours}-hour ${loaDef.name} CE course online at your own pace — takes just a few hours.`,
+                desc: stateData.slug === "florida"
+                  ? `Finish the 20- or 24-hour ${loaDef.name} CE package shown in your FLDFS account, online at your own pace.`
+                  : `Finish your ${ce.totalHours}-hour ${loaDef.name} CE course online at your own pace — takes just a few hours.`,
               },
               {
                 step: "3",
@@ -564,15 +654,15 @@ export default async function CECoursePage({
           <CTABanner
             title={`Renew Your ${stateData.name} ${loaDef.shortName} License Today`}
             subtitle={`Complete your ${ceRequirementPhrase} online. Only ${ce.packagePrice}. We typically report to the state same-day.`}
-            ctaText={`Enroll Now — ${ce.packagePrice}`}
-            ctaHref={enrollLink}
-            externalLink
+            ctaText={floridaCePackages ? `Choose Your Package — ${ce.packagePrice}` : `Enroll Now — ${ce.packagePrice}`}
+            ctaHref={purchaseLink}
+            externalLink={!floridaCePackages}
             disclosure={<RefundDisclosure />}
           />
 
           <StickyMobileCTA
-            text="Enroll Now"
-            href={enrollLink}
+            text={floridaCePackages ? "Choose Package" : "Enroll Now"}
+            href={purchaseLink}
             price={ce.packagePrice}
             state={state}
             loa={loa}

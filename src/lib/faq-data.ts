@@ -606,7 +606,9 @@ export function getPrelicensingCourseFAQs(
 
   return [
     {
-      question: `How long is the ${data.name} ${loaName} prelicensing course?`,
+      question: data.name === "Alabama"
+        ? `How long is the ${data.name} ${loaName} exam-prep course?`
+        : `How long is the ${data.name} ${loaName} prelicensing course?`,
       answer: lengthAnswer,
     },
     {
@@ -618,7 +620,9 @@ export function getPrelicensingCourseFAQs(
       answer: `If you do not pass the ${data.name} ${loaName} exam on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} Each retake requires paying the ${$(data.examFee)} exam fee again to ${data.examProvider}. JustInsurance recommends reviewing your score report after a failed attempt to identify weak areas, then spending additional time on those topics before rescheduling. Your JustInsurance course access remains active throughout your ${data.courseAccessDays}-day enrollment window, so you can review material at no extra cost.`,
     },
     {
-      question: `Is the JustInsurance ${data.name} ${loaName} course ${prelicensingApproved || hoursNotRequired ? "state-approved" : "approved yet"}?`,
+      question: data.name === "Alabama"
+        ? `Does Alabama require this ${loaName} exam-prep course?`
+        : `Is the JustInsurance ${data.name} ${loaName} course ${prelicensingApproved || hoursNotRequired ? "state-approved" : "approved yet"}?`,
       answer: data.name === "California"
         ? `Yes. The JustInsurance California ${loaName} prelicensing course is approved by the California Department of Insurance and satisfies California's mandatory 12-hour Code and Ethics prelicensing requirement — a single course, taken once, regardless of line of authority (AB 943, effective January 1, 2026). When you finish, you receive an official certificate of completion and JustInsurance reports your completion to the CDI; the Department verifies your prelicensing education as part of your license application, so you do not submit the certificate to ${data.examProvider} to register for the exam. JustInsurance maintains active approval status with the CDI and updates course content whenever California insurance law or exam content outlines change.`
         : hoursNotRequired
@@ -630,7 +634,9 @@ export function getPrelicensingCourseFAQs(
         : `The JustInsurance ${data.name} ${loaName} prelicensing course is built to the ${data.doiName}'s ${loaName} education standards and the full ${data.examProvider} exam content outline. Our ${data.name} provider approval is currently pending with the ${data.doiName}; JustInsurance will update this page as soon as the approval is finalized. You still receive an official certificate of completion when you finish the course.`,
     },
     {
-      question: `What's included in the ${data.name} ${loaName} prelicensing course?`,
+      question: data.name === "Alabama"
+        ? `What's included in the ${data.name} ${loaName} exam-prep course?`
+        : `What's included in the ${data.name} ${loaName} prelicensing course?`,
       answer: data.name === "Alabama"
         ? `The JustInsurance Alabama ${loaName} exam-prep course at ${$(price)} includes video explanations, condensed review summaries, AI-powered study tools, five exam-style practice exams for additional preparation, optional weekly live instructor sessions, and ${data.courseAccessDays} days of access across your devices. Alabama does not require or approve prelicensing courses, so this is optional preparation for the licensing exam rather than a state prerequisite.`
         : `The JustInsurance ${data.name} ${loaName} prelicensing course at ${$(price)} includes everything you need in a single purchase: ${hoursNotRequired ? "comprehensive" : hoursDisplay + " of"} ${prelicensingApproved ? "state-approved" : "exam-focused"} course content organized by exam topic, chapter-by-chapter review quizzes to reinforce key concepts, a full-length practice exam that mirrors the format and difficulty of the actual ${data.examProvider} exam, ${data.courseAccessDays} days of unlimited access across all your devices, and your official ${prelicensingApproved ? "state-recognized " : ""}certificate of completion${data.name === "Michigan" ? ", issued once you pass Michigan's required proctor-monitored final exam and we receive your signed proctor affidavit (Mich. Admin. Code R 500.5)." : data.name === "Minnesota" ? ", issued once you pass Minnesota's required proctor-monitored final exam and we receive your signed proctor affidavit (Minn. Stat. § 45.305, subd. 5). There are no hidden JustInsurance fees, required textbooks, or add-on course costs — though a proctor you arrange may charge its own fee." : " issued immediately when you finish. There are no hidden fees, no required textbooks, and no add-on costs."}`,

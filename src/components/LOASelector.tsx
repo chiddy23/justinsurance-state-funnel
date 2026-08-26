@@ -84,6 +84,8 @@ interface LOACardData {
 }
 
 export default function LOASelector({ stateSlug, courseType, stateData }: LOASelectorProps) {
+  const isOptionalExamPrep =
+    courseType === "prelicensing" && (stateSlug === "alabama" || stateSlug === "alaska");
   // A CE card may render a LIVE "state-approved" / "same-day reporting" claim OR a
   // purchasable enroll button ONLY when CE is actually available: provider approved
   // (providerApprovalNumber !== "PENDING") AND ceCoursesLive !== false. Approval
@@ -342,7 +344,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
 
               <div className="border-t border-gray-100 pt-4 mb-4 space-y-2">
                 <div className="flex justify-between items-center">
-                  <span className="text-gray-500 text-sm">Hours Required</span>
+                  <span className="text-gray-500 text-sm">
+                    {isOptionalExamPrep ? "Recommended Study Time" : "Hours Required"}
+                  </span>
                   <span className="text-navy font-bold">{formatLoaHours(card.hours, card.completionTime)} hrs</span>
                 </div>
                 {card.hoursSubtext && (

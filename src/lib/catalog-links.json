@@ -25,12 +25,12 @@
     },
     "continuing-education": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/ce79b8af-be8f-4894-a69b-c8916e37b2b5",
-      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "packages": "https://justinsuranceco.com/alaska/continuing-education",
       "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/196e31ef-37f0-45ea-8f13-d517b8d1dcc4",
       "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/196e31ef-37f0-45ea-8f13-d517b8d1dcc4",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=ak-ce-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=ak-ce-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=ak-ce-life-health"
     }
   },
   "arizona": {

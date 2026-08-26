@@ -270,7 +270,7 @@ function buildDescription(
     case "practice-exam":
       return `${stateName} insurance practice exam — Life, Health, and Life & Health versions. Mirror the real state exam. Boost your score, pass with confidence. $59.`;
     case "practice-exam-hub":
-      return `State-approved insurance practice exams nationwide. Life, Health, and Life & Health — mirror the real state exam. Pick your state to start. $59.`;
+      return `Online insurance practice exams nationwide. Life, Health, and Life & Health options with scoring and answer explanations for additional preparation. Pick your state to start. $59.`;
     case "state-cost": {
       const range = params.totalCostRange;
       if (range && range.length <= 40) {

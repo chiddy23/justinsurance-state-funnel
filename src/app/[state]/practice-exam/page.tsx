@@ -71,22 +71,22 @@ export default async function PracticeExamPage({
   const faqs = [
     {
       question: `What is included in the ${stateName} insurance practice exam?`,
-      answer: `Each ${stateName} practice exam includes a full-length set of questions modeled on the actual ${examInfo.examProvider} state exam, covering every content area in the ${stateName} licensing outline. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes to build confidence before test day.`,
+      answer: `Each ${stateName} practice exam is an independent study tool covering insurance topics for the selected line of authority. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes to build confidence before test day. It does not contain or reproduce official state exam questions.`,
     },
     {
-      question: `How close is the practice exam to the real ${stateName} state exam?`,
+      question: `How should I use the ${stateName} practice exam?`,
       // Ohio Admin. Code 3901-5-07(H)(16): the descriptive 80%-benchmark stat
       // is allowed everywhere; the pass-guarantee clause is dropped for
       // excluded states (flows into FAQPage JSON-LD automatically).
       answer: hasPassGuarantee(slug)
-        ? `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses.`
-        : `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt.`,
+        ? `Use the JustInsurance practice exam to review insurance concepts, identify topics that need more study, and practice answering questions under time pressure. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses. The practice exam is an independent preparation product and is not an official state examination.`
+        : `Use the JustInsurance practice exam to review insurance concepts, identify topics that need more study, and practice answering questions under time pressure. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt. The practice exam is an independent preparation product and is not an official state examination.`,
     },
     {
       question: `Which practice exam should I buy — Life, Health, or Life + Health?`,
       answer: noCombinedExam
         ? `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. Note that ${stateName} has no combined Life & Health exam — Life and Accident & Health are two separate state exams — so if you're pursuing both lines, the Life + Health Practice Exam prepares you for each of the two exams you'll sit.`
-        : `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. If you're taking the combined Life & Health exam (the most common path), buy the Life + Health Practice Exam — it covers both lines in one sitting just like the real state exam.`,
+        : `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. If you're taking a combined Life & Health exam, buy the Life + Health Practice Exam — it covers both lines in one preparation product.`,
     },
     {
       question: `Do I need to take a prelicensing course first?`,
@@ -104,14 +104,14 @@ export default async function PracticeExamPage({
         {
           loa: "Life",
           title: `${stateName} Life Insurance Practice Exam`,
-          desc: `Full-length ${stateName} Life insurance practice test with detailed answer explanations. Mirror of the real ${examInfo.examProvider} Life exam.`,
+          desc: `Full-length ${stateName} Life insurance practice test with scoring and detailed answer explanations for additional preparation.`,
           url: practiceExams.lifeUrl,
           accent: "from-blue-600 to-blue-700",
         },
         {
           loa: "Health",
           title: `${stateName} Health Insurance Practice Exam`,
-          desc: `Full-length ${stateName} Health insurance practice test. Covers Medicare, Medicaid, ACA, HMO/PPO, and every state-specific topic you'll see on test day.`,
+          desc: `Full-length ${stateName} Health insurance practice test covering major health-insurance concepts with scoring and detailed answer explanations.`,
           url: practiceExams.healthUrl,
           accent: "from-teal-600 to-teal-700",
         },
@@ -120,7 +120,7 @@ export default async function PracticeExamPage({
           title: `${stateName} Life & Health Insurance Practice Exam`,
           desc: noCombinedExam
             ? `Most popular. Covers both Life and Health — preps you for ${stateName}'s two separate Life and Accident & Health state exams (${stateName} has no combined exam).`
-            : `Most popular. Covers both Life and Health in one combined practice exam — matches the format of the real ${stateName} combined state exam.`,
+            : `Most popular. Covers both Life and Health topics in one combined preparation product.`,
           url: practiceExams.combinedUrl,
           accent: "from-gold to-gold-dark",
           popular: true,
@@ -129,7 +129,7 @@ export default async function PracticeExamPage({
     : [];
 
   const articleHeadline = `${stateName} Insurance Practice Exam`;
-  const articleDescription = `Full-length practice exams that mirror the real ${examInfo.examProvider} ${stateName} state exam. Score 80%+ three times in a row and walk in confident. $59 each.`;
+  const articleDescription = `Online ${stateName} insurance practice exams with scoring and detailed answer explanations for additional preparation. Life, Health, and Life & Health options are $59 each.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -173,7 +173,7 @@ export default async function PracticeExamPage({
       <StateHero
         eyebrow={`${stateName} Exam Prep`}
         title={`${stateName} Insurance Practice Exam`}
-        subtitle={`Full-length practice exams that mirror the real ${examInfo.examProvider} ${stateName} state exam. Score 80%+ three times in a row and walk in confident. $59 each.`}
+        subtitle={`Online practice exams with scoring and detailed answer explanations for additional preparation. Life, Health, and Life & Health options are $59 each.`}
         ctaButtons={[{ text: "See Practice Exams", href: "#practice-exams" }]}
       />
 

@@ -235,7 +235,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             slug: "health",
             name: "Health Insurance CE",
             description: providerApproved
-              ? `Complete your health insurance CE requirements online. Covers all required topics including ethics. Same-day reporting to your state DOI in most cases.`
+              ? `Complete your health insurance CE requirements online. Covers all required topics including ethics. Completion reporting is typically the same day or the next business day.`
               : `Health insurance continuing education covering all required topics including ethics — coming soon.`,
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,

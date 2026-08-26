@@ -214,7 +214,7 @@ export default async function CEHubPage({
               <p className="text-gray-600 leading-relaxed mb-4">
                 {providerApproved ? (
                   <>
-                    JustInsurance offers state-approved online CE courses that you can complete entirely at your own pace, on any device. When you finish, we typically report your completion directly to the {stateData.doiName} the same day — no paperwork, no delays.
+                    JustInsurance offers state-approved online CE courses that you can complete entirely at your own pace, on any device. When you finish, we typically report your completion directly to the {stateData.doiName} the same day — no paperwork from you. State posting times can vary.
                   </>
                 ) : (
                   <>

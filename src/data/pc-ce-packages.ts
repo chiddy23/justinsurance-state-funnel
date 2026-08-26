@@ -149,7 +149,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     packageName: "Alaska Property & Casualty CE Package — 3-Hr Ethics + 21-Hr P&C",
     shortName: "Alaska P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=B1CF775C-62CC-4135-8809-88BDC7D989C4",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=ak-ce-pc",
     specialNotes: [], status: "Active", price: "$75",
   },
   {

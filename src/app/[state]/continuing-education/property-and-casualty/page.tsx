@@ -454,7 +454,7 @@ export function PCPackageDetail({
               </li>
               <li className="flex justify-between items-center">
                 <span className="text-gray-500">Reporting</span>
-                <span className="font-bold text-success-dark">Same-Day to {stateData.doiAbbr || stateData.doiName}</span>
+                <span className="font-bold text-success-dark">Typically same or next business day</span>
               </li>
             </ul>
           </div>

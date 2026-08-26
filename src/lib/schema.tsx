@@ -55,7 +55,7 @@ export function generateCourseSchema(params: {
   if (!available) return null;
   const courseLabel =
     examPrepOnly
-      ? "Insurance Exam Prep Course"
+      ? "Exam Prep Course"
       : courseType === "prelicensing"
       ? "Prelicensing Course"
       : "Continuing Education Course";

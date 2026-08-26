@@ -859,9 +859,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cf58d827-80c1-4551-8075-a7da6580a4fa",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c97903c1-d180-4dd1-b058-1b612a80a8c0",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=25d338d2-278f-425b-b028-58364623357a",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ar-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ar-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ar-practice-life-health",
       price: "$59",
     },
     specialNotices: [

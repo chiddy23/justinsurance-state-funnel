@@ -101,6 +101,9 @@ export default async function PrelicensingHubPage({
   // Arizona also has no prelicensing-education prerequisite. Its live catalog
   // offers optional exam preparation with optional weekly instructor support.
   const isArizona = stateData.slug === "arizona";
+  // Arkansas has optional weekly instructor support and requires the license
+  // application/Authorization to Test before PSI exam scheduling.
+  const isArkansas = stateData.slug === "arkansas";
   const isOptionalExamPrep = isAlabama || isAlaska || isArizona;
   // Minnesota: internet-delivered prelicensing requires a proctor-monitored final
   // exam (student arranges a disinterested third-party proctor who verifies ID and
@@ -237,8 +240,8 @@ export default async function PrelicensingHubPage({
                   <>JustInsurance&apos;s {stateData.name} prelicensing courses combine the required 7.5 live webinar hours per line of authority — attendance is verified — with 12.5 self-paced online hours per line (20 hours total per line). The self-paced portion is available on any device, at any time.</>
                 ) : isMinnesota ? (
                   <>JustInsurance&apos;s Minnesota prelicensing courses are fully online and flexible — study on any device, at any time, with no fixed class times. They are not self-paced in length, though: Minnesota enforces a minimum seat time, so the course is built to take the full required hours of interactive study and automatically logs you out if you are inactive for more than 10 minutes — it cannot be rushed. The one step you schedule is a proctored final exam: you arrange a disinterested third-party proctor who verifies your photo ID and signs an affidavit before your certificate of completion can be issued.</>
-                ) : stateData.slug === "florida" ? (
-                  <>JustInsurance&apos;s Florida prelicensing courses are fully online and self-paced. You can study on any device, at any time. Weekly live instructor sessions are included as optional support; attendance is not required to complete your self-paced course.</>
+                ) : stateData.slug === "florida" || isArkansas ? (
+                  <>JustInsurance&apos;s {stateData.name} prelicensing courses are fully online and self-paced. You can study on any device, at any time. Weekly live instructor sessions are included as optional support; attendance is not required to complete your self-paced course.</>
                 ) : isOptionalExamPrep ? (
                   <>JustInsurance&apos;s {stateData.name} exam-prep courses are fully online and self-paced. You can study on any device, at any time. Weekly live instructor sessions are included as optional support; attendance is not required to complete your course.</>
                 ) : (
@@ -272,7 +275,12 @@ export default async function PrelicensingHubPage({
                   : isOptionalExamPrep
                   ? { step: "3", title: "Complete Your Course", desc: "Finish the optional exam-prep lessons and assessments; your JustInsurance learner record will show the course as complete." }
                   : { step: "3", title: "Earn Your Certificate", desc: "Pass the course assessments to receive your official certificate of completion from JustInsurance." },
-                { step: "4", title: "Pass the State Exam", desc: `Schedule and pass the ${stateData.name} licensing exam with ${stateData.examInfo.examProvider}, then apply for your license.` },
+                ...(isArkansas
+                  ? [
+                      { step: "4", title: "Apply and Receive Your ATT", desc: "Submit your Arkansas license application through NIPR and wait for your Authorization to Test before scheduling with PSI." },
+                      { step: "5", title: "Pass the State Exam", desc: `Schedule and pass the Arkansas licensing exam with ${stateData.examInfo.examProvider} within your ATT window.` },
+                    ]
+                  : [{ step: "4", title: "Pass the State Exam", desc: `Schedule and pass the ${stateData.name} licensing exam with ${stateData.examInfo.examProvider}, then apply for your license.` }]),
               ].map((item) => (
                 <div key={item.step} className="flex items-start gap-4 bg-gray-bg rounded-lg p-4">
                   <div className="w-8 h-8 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
@@ -333,15 +341,19 @@ export default async function PrelicensingHubPage({
               },
               {
                 step: "3",
-                icon: "🎓",
-                title: "Pass the State Exam",
-                desc: `Schedule and pass the ${stateData.name} exam at a ${stateData.examInfo.examProvider} testing center.`,
+                icon: isArkansas ? "🪪" : "🎓",
+                title: isArkansas ? "Apply and Receive Your ATT" : "Pass the State Exam",
+                desc: isArkansas
+                  ? "Submit your application through NIPR and wait for the Arkansas Insurance Department to issue your Authorization to Test."
+                  : `Schedule and pass the ${stateData.name} exam at a ${stateData.examInfo.examProvider} testing center.`,
               },
               {
                 step: "4",
-                icon: "🪪",
-                title: "Apply for Your License",
-                desc: `Submit your license application to the ${stateData.doiName}${stateData.applicationBeforeExam ? ` (apply before your exam in ${stateData.name})` : " after passing your exam"}.`,
+                icon: isArkansas ? "🎓" : "🪪",
+                title: isArkansas ? "Pass the State Exam" : "Apply for Your License",
+                desc: isArkansas
+                  ? `Schedule and pass the Arkansas exam with ${stateData.examInfo.examProvider} within your ATT window.`
+                  : `Submit your license application to the ${stateData.doiName} after passing your exam.`,
               },
             ].map((item) => (
               <div key={item.step} className="text-center bg-gray-bg rounded-xl p-6">

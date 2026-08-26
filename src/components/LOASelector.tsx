@@ -343,11 +343,16 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-grow">{card.description}</p>
 
               <div className="border-t border-gray-100 pt-4 mb-4 space-y-2">
-                <div className="flex justify-between items-center">
+                <div className="flex justify-between items-center gap-3">
                   <span className="text-gray-500 text-sm">
                     {isOptionalExamPrep ? "Recommended Study Time" : "Hours Required"}
                   </span>
-                  <span className="text-navy font-bold">{formatLoaHours(card.hours, card.completionTime)} hrs</span>
+                  <span className="text-navy font-bold text-right shrink-0 whitespace-nowrap">
+                    {isOptionalExamPrep
+                      ? formatLoaHours(card.hours, card.completionTime).replace(" (recommended)", "")
+                      : formatLoaHours(card.hours, card.completionTime)}{" "}
+                    hrs
+                  </span>
                 </div>
                 {card.hoursSubtext && (
                   <p className="text-gray-500 text-xs leading-snug">{card.hoursSubtext}</p>

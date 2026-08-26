@@ -19,9 +19,9 @@
   "alaska": {
     "prelicensing": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=caca9ee7-f744-4830-995d-13c43aac4b96",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0c5275ef-b668-4b7a-a1d0-610785bda8e6",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0bd58c85-2967-48fb-80d9-a58644a3b7aa"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=ak-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=ak-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=ak-life-health"
     },
     "continuing-education": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/ce79b8af-be8f-4894-a69b-c8916e37b2b5",

@@ -387,6 +387,10 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
   // combinedRequired is false there, but Life (20) and Health (20) ARE required,
   // so the "do I need prelicensing?" answer must key off any line, not combined.
   const anyLineRequired = lifeRequired || healthRequired || combinedRequired;
+  const isOptionalExamPrep = data.name === "Alabama" || data.name === "Alaska";
+  const optionalApprovalNote = data.name === "Alabama"
+    ? "Alabama does not require or approve prelicensing courses."
+    : "Alaska does not require prelicensing education before its licensing exams.";
 
   // California: effective 1/1/2026, AB 943 (amending Cal. Ins. Code § 1749)
   // repealed the former line-specific prelicensing hours. The sole mandatory
@@ -439,7 +443,9 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
     }`;
   }
 
-  const coverAnswer = isCalifornia
+  const coverAnswer = isOptionalExamPrep
+    ? `The ${data.name} exam-prep curriculum is organized around the Life and Accident & Health licensing-exam topics. Life review covers term, whole, universal, and variable life insurance, annuities, policy provisions, beneficiaries, and underwriting basics. Health review covers major medical, disability income, long-term care, Medicare Supplement, and group health. Both tracks also review ${data.name}-specific insurance statutes, regulations, producer ethics, and consumer protections.`
+    : isCalifornia
     ? `California's mandatory prelicensing is a single 12-hour Code and Ethics course covering the California Insurance Code, producer ethics and fiduciary duties, the Unfair Practices Act, and required consumer protections. Beyond that one state-required course, JustInsurance's program adds optional line-specific exam preparation — Life topics (term, whole, universal and variable life, annuities, policy provisions and riders) and Health topics (major medical, disability income, long-term care, Medicare Supplement, and group health) — so you're ready for the actual ${data.examProvider} exam. You complete the 12-hour course once, no matter how many lines of authority you plan to carry.`
     : `The ${data.name} prelicensing curriculum is organized around the specific lines of authority you plan to obtain. Life Insurance courses cover term life, whole life, universal life, variable products, annuities, policy provisions and riders, beneficiary designations, and underwriting basics. Health Insurance courses cover major medical, disability income, long-term care, Medicare Supplement, Medicaid, and group health. Both tracks include ${data.name}-specific insurance statutes and regulations, producer ethics, the Unfair Trade Practices Act, and state-mandated consumer protections. ${
         noCombinedLicense
@@ -459,11 +465,13 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
 
   return [
     {
-      question: `How many hours of prelicensing does ${data.name} require?`,
+      question: isOptionalExamPrep
+        ? `Does ${data.name} require prelicensing education hours?`
+        : `How many hours of prelicensing does ${data.name} require?`,
       answer: hoursAnswer,
     },
     {
-      question: `Can I complete ${data.name} insurance prelicensing online?`,
+      question: `Can I complete ${data.name} insurance ${isOptionalExamPrep ? "exam prep" : "prelicensing"} online?`,
       answer: isCalifornia
         ? `Yes. California approves online prelicensing education, and that is exactly what JustInsurance provides — study on any device, from anywhere, on your own schedule, with no scheduled live sessions or fixed class times. It is flexible in when and where you study, but it is not self-paced in length: the 12 hours are monitored seat time. The state requires the course to occupy the full 12 hours of active study, so it cannot be rushed or skipped ahead. A built-in timer counts down as you work through the material, so you can always see how much engaged study time is left, and you confirm your participation by electronic affidavit at the end (10 CCR §§ 2188.2, 2188.5). Your enrollment gives you ${data.courseAccessDays} days of access to fit those 12 hours around your schedule, and you receive your certificate of completion as soon as you finish.`
         : isMinnesota
@@ -472,22 +480,22 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
         ? data.providerApproved
           ? `Yes. ${data.name} approves online, self-paced prelicensing education, and that is exactly what JustInsurance provides. You can study on any device — laptop, tablet, or phone — from anywhere with an internet connection. There are no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full course access, and most students complete the material in just 5–10 days. Once you finish, you receive a state-recognized certificate of completion${certNeedsProctor ? " once you pass Michigan's required proctor-monitored final exam and we receive your signed proctor affidavit (Mich. Admin. Code R 500.5)" : " immediately through the platform"}.`
           : `Yes. ${data.name} allows online, self-paced prelicensing education, and JustInsurance's course is delivered entirely online. You can study on any device — laptop, tablet, or phone — from anywhere with an internet connection. There are no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full course access, and most students complete the material in just 5–10 days. Once you finish, you receive a certificate of completion${certNeedsProctor ? " once you pass Michigan's required proctor-monitored final exam and we receive your signed proctor affidavit (Mich. Admin. Code R 500.5)" : " immediately through the platform"}.`
-        : data.name === "Alabama"
-        ? `Yes. Alabama does not require a prelicensing course to sit for the state exam, so this is optional exam preparation rather than a state prerequisite. JustInsurance's Alabama exam-prep courses are fully online and self-paced: study on any device, from anywhere, with ${data.courseAccessDays} days of access. Optional weekly live instructor sessions are included as added support; attendance is not required to complete the course. When you finish, your JustInsurance learner record will show the course as complete.`
+        : isOptionalExamPrep
+        ? `Yes. ${data.name} does not require a prelicensing course before its licensing exam, so this is optional exam preparation rather than a state prerequisite. JustInsurance's ${data.name} exam-prep courses are fully online and self-paced: study on any device, from anywhere, with ${data.courseAccessDays} days of access. Optional weekly live instructor sessions are included as added support; attendance is not required to complete the course. When you finish, your JustInsurance learner record will show the course as complete.`
         : `${data.name} does not require a prelicensing course to sit for the state exam, so there is no mandatory course to complete — but you can absolutely prepare online. JustInsurance's ${data.name} exam-prep course is fully self-paced: study on any device — laptop, tablet, or phone — from anywhere, with no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full access, and most students complete the material in just 5–10 days. When you finish, you receive a certificate of completion${certNeedsProctor ? " once you pass Michigan's required proctor-monitored final exam and we receive your signed proctor affidavit (Mich. Admin. Code R 500.5)" : " immediately through the platform"}.`,
     },
     {
-      question: `What does ${data.name} insurance prelicensing cover?`,
+      question: `What does ${data.name} insurance ${isOptionalExamPrep ? "exam prep" : "prelicensing"} cover?`,
       answer: coverAnswer,
     },
     {
-      question: `Do I need to finish prelicensing before taking the ${data.name} exam?`,
+      question: `Do I need to finish ${isOptionalExamPrep ? "an exam-prep course" : "prelicensing"} before taking the ${data.name} exam?`,
       answer: pleBeforeExamAnswer,
     },
     {
-      question: `How much does ${data.name} insurance prelicensing cost?`,
-      answer: data.name === "Alabama"
-        ? `JustInsurance offers three optional Alabama exam-prep choices: Life Insurance at ${$(data.lifePrice)}, Health Insurance at ${$(data.healthPrice)}, and the combined Life & Health course at ${$(data.combinedPrice)}. Each includes video explanations, condensed review summaries, AI-powered study tools, five exam-style practice exams for additional preparation, optional weekly live instructor sessions, and ${data.courseAccessDays} days of access. Alabama does not require or approve prelicensing courses, so these courses are optional preparation rather than a state prerequisite.`
+      question: `How much does ${data.name} insurance ${isOptionalExamPrep ? "exam prep" : "prelicensing"} cost?`,
+      answer: isOptionalExamPrep
+        ? `JustInsurance offers three optional ${data.name} exam-prep choices: Life Insurance at ${$(data.lifePrice)}, Health Insurance at ${$(data.healthPrice)}, and the combined Life & Health course at ${$(data.combinedPrice)}. Each includes video explanations, condensed review summaries, AI-powered study tools, five exam-style practice exams for additional preparation, optional weekly live instructor sessions, and ${data.courseAccessDays} days of access. ${optionalApprovalNote} These courses are optional preparation rather than a state prerequisite.`
         : `JustInsurance offers the following ${data.name} prelicensing courses: Life Insurance at ${$(data.lifePrice)}, Health Insurance at ${$(data.healthPrice)}, and the ${noCombinedCourse ? "Life & Health package (both courses)" : "combined Life & Health package"} at ${$(data.combinedPrice)}. Buying the ${noCombinedCourse ? "package" : "combined course"} saves you ${$(data.combinedSavings)} versus purchasing the two courses individually. Every course includes all required hour content, chapter quizzes, a full-length practice exam, and your official certificate of completion — no hidden fees, no required add-ons. Your ${data.courseAccessDays}-day access window starts the moment you enroll.`,
     },
   ];
@@ -571,6 +579,7 @@ export function getPrelicensingCourseFAQs(
   hours: string | number,
   price: string
 ): FAQ[] {
+  const isOptionalExamPrep = data.name === "Alabama" || data.name === "Alaska";
   // "no combined license" (Wisconsin) means the state issues Life and Health as
   // SEPARATE licenses — there is no combined course — but each line still
   // requires its hours. It must NOT fall through to the optional-state path.
@@ -593,8 +602,8 @@ export function getPrelicensingCourseFAQs(
   const lengthAnswer = isNoCombinedLicense
     ? `${data.name} issues Life and Accident & Health as separate licenses, so there is no single combined Life & Health prelicensing course. To carry both lines you complete two approved courses — a ${data.lifeHours}-hour Life prelicensing course and a ${data.healthHours}-hour Health prelicensing course. JustInsurance's ${data.name} Life & Health package includes both, and you have ${data.courseAccessDays} days of access from the day you enroll to work through them at your own pace.`
     : hoursNotRequired
-    ? data.name === "Alabama"
-      ? `Alabama does not require prelicensing education for the ${loaName} license, so this course is optional exam preparation rather than a state prerequisite. The JustInsurance course is online and self-paced, with ${data.courseAccessDays} days of access from enrollment. Optional weekly live instructor sessions are available as added support; attendance is not required to complete the course.`
+    ? isOptionalExamPrep
+      ? `${data.name} does not require prelicensing education for the ${loaName} license, so this course is optional exam preparation rather than a state prerequisite. The JustInsurance course is online and self-paced, with ${data.courseAccessDays} days of access from enrollment. Optional weekly live instructor sessions are available as added support; attendance is not required to complete the course.`
       : `${data.name} does not impose a minimum hour requirement for ${loaName} prelicensing. However, the JustInsurance ${data.name} ${loaName} course is structured to cover every topic tested on the ${data.examProvider} exam. You get ${data.courseAccessDays} days of access from enrollment, and most students work through the full course in 5–10 days at a comfortable pace — no mandatory session times and no live classes to attend.`
     : data.name === "California"
     ? `California requires a single 12-hour Code and Ethics prelicensing course before you can be licensed — it satisfies the ethics requirement for every line of authority and is completed only once — delivered through structured video lessons, readings, and chapter quizzes. California treats those 12 hours as monitored seat time: the course meters your active study time with a built-in timer that counts down the hours remaining, so it is built to occupy the full 12 hours and cannot be completed faster, and you confirm your participation by electronic affidavit when you finish (10 CCR §§ 2188.2, 2188.5). The timer lets you see exactly how much engaged study time you have left, and you have ${data.courseAccessDays} days of access to fit the 12 hours around your own schedule.`
@@ -606,7 +615,7 @@ export function getPrelicensingCourseFAQs(
 
   return [
     {
-      question: data.name === "Alabama"
+      question: isOptionalExamPrep
         ? `How long is the ${data.name} ${loaName} exam-prep course?`
         : `How long is the ${data.name} ${loaName} prelicensing course?`,
       answer: lengthAnswer,
@@ -620,25 +629,25 @@ export function getPrelicensingCourseFAQs(
       answer: `If you do not pass the ${data.name} ${loaName} exam on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} Each retake requires paying the ${$(data.examFee)} exam fee again to ${data.examProvider}. JustInsurance recommends reviewing your score report after a failed attempt to identify weak areas, then spending additional time on those topics before rescheduling. Your JustInsurance course access remains active throughout your ${data.courseAccessDays}-day enrollment window, so you can review material at no extra cost.`,
     },
     {
-      question: data.name === "Alabama"
-        ? `Does Alabama require this ${loaName} exam-prep course?`
+      question: isOptionalExamPrep
+        ? `Does ${data.name} require this ${loaName} exam-prep course?`
         : `Is the JustInsurance ${data.name} ${loaName} course ${prelicensingApproved || hoursNotRequired ? "state-approved" : "approved yet"}?`,
       answer: data.name === "California"
         ? `Yes. The JustInsurance California ${loaName} prelicensing course is approved by the California Department of Insurance and satisfies California's mandatory 12-hour Code and Ethics prelicensing requirement — a single course, taken once, regardless of line of authority (AB 943, effective January 1, 2026). When you finish, you receive an official certificate of completion and JustInsurance reports your completion to the CDI; the Department verifies your prelicensing education as part of your license application, so you do not submit the certificate to ${data.examProvider} to register for the exam. JustInsurance maintains active approval status with the CDI and updates course content whenever California insurance law or exam content outlines change.`
         : hoursNotRequired
-        ? data.name === "Alabama"
-          ? `Alabama does not require prelicensing education for the ${loaName} line, and the Alabama Department of Insurance does not approve or authorize prelicensing courses. The JustInsurance Alabama ${loaName} course is optional exam preparation organized around the ${data.examProvider} exam content outline. When you finish, your JustInsurance learner record will show the course as complete; that completion is not a state prerequisite for scheduling the licensing exam.`
+        ? isOptionalExamPrep
+          ? `${data.name} does not require prelicensing education for the ${loaName} line. ${data.name === "Alabama" ? "The Alabama Department of Insurance does not approve or authorize prelicensing courses. " : ""}The JustInsurance ${data.name} ${loaName} course is optional exam preparation organized around the ${data.examProvider} exam content outline. When you finish, your JustInsurance learner record will show the course as complete; that completion is not a state prerequisite for scheduling the licensing exam.`
           : `${data.name} does not require prelicensing education for the ${loaName} line, so the ${data.doiName} does not approve or register prelicensing courses — there is no state prelicensing approval for any provider to hold. The JustInsurance ${data.name} ${loaName} course is exam preparation, built to the full ${data.examProvider} exam content outline.${data.providerApproved ? ` JustInsurance does hold ${data.doiName} approval as a continuing education provider, which is a separate credential from prelicensing and applies to license renewal, not to getting licensed.` : ``} You receive an official JustInsurance certificate of completion when you finish.`
         : prelicensingApproved
         ? `Yes. The JustInsurance ${data.name} ${loaName} prelicensing course is approved by the ${data.doiName} and meets all state education requirements for the ${loaName} line of authority. Upon completing the course, you receive an official certificate of completion that ${data.examProvider} accepts for exam registration. JustInsurance maintains active approval status with the ${data.doiName} and updates course content whenever ${data.name} insurance law or exam content outlines change.`
         : `The JustInsurance ${data.name} ${loaName} prelicensing course is built to the ${data.doiName}'s ${loaName} education standards and the full ${data.examProvider} exam content outline. Our ${data.name} provider approval is currently pending with the ${data.doiName}; JustInsurance will update this page as soon as the approval is finalized. You still receive an official certificate of completion when you finish the course.`,
     },
     {
-      question: data.name === "Alabama"
+      question: isOptionalExamPrep
         ? `What's included in the ${data.name} ${loaName} exam-prep course?`
         : `What's included in the ${data.name} ${loaName} prelicensing course?`,
-      answer: data.name === "Alabama"
-        ? `The JustInsurance Alabama ${loaName} exam-prep course at ${$(price)} includes video explanations, condensed review summaries, AI-powered study tools, five exam-style practice exams for additional preparation, optional weekly live instructor sessions, and ${data.courseAccessDays} days of access across your devices. Alabama does not require or approve prelicensing courses, so this is optional preparation for the licensing exam rather than a state prerequisite.`
+      answer: isOptionalExamPrep
+        ? `The JustInsurance ${data.name} ${loaName} exam-prep course at ${$(price)} includes video explanations, condensed review summaries, AI-powered study tools, five exam-style practice exams for additional preparation, optional weekly live instructor sessions, and ${data.courseAccessDays} days of access across your devices. ${data.name === "Alabama" ? "Alabama does not require or approve prelicensing courses." : "Alaska does not require prelicensing education before its licensing exams."} This is optional preparation for the licensing exam rather than a state prerequisite.`
         : `The JustInsurance ${data.name} ${loaName} prelicensing course at ${$(price)} includes everything you need in a single purchase: ${hoursNotRequired ? "comprehensive" : hoursDisplay + " of"} ${prelicensingApproved ? "state-approved" : "exam-focused"} course content organized by exam topic, chapter-by-chapter review quizzes to reinforce key concepts, a full-length practice exam that mirrors the format and difficulty of the actual ${data.examProvider} exam, ${data.courseAccessDays} days of unlimited access across all your devices, and your official ${prelicensingApproved ? "state-recognized " : ""}certificate of completion${data.name === "Michigan" ? ", issued once you pass Michigan's required proctor-monitored final exam and we receive your signed proctor affidavit (Mich. Admin. Code R 500.5)." : data.name === "Minnesota" ? ", issued once you pass Minnesota's required proctor-monitored final exam and we receive your signed proctor affidavit (Minn. Stat. § 45.305, subd. 5). There are no hidden JustInsurance fees, required textbooks, or add-on course costs — though a proctor you arrange may charge its own fee." : " issued immediately when you finish. There are no hidden fees, no required textbooks, and no add-on costs."}`,
     },
   ];

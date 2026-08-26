@@ -153,6 +153,39 @@ export default function CourseFeatures({
 }: CourseFeaturesProps) {
   const isCE = variant === "ce";
   let features = isCE ? CE_FEATURES : PRELICENSING_FEATURES;
+  if (!isCE && examPrepOnly) {
+    // Alabama and Alaska sell optional exam preparation rather than a required
+    // prelicensing course. Limit this shared block to the inclusions verified in
+    // their live catalog instead of inheriting generic course-feature claims.
+    features = [
+      {
+        ...PRELICENSING_FEATURES[0],
+        title: "Video Explanations",
+        description: "Review major exam topics through focused video explanations you can watch on any device.",
+      },
+      {
+        ...PRELICENSING_FEATURES[1],
+        title: "5 Practice Exams",
+        description: "Use five exam-style practice exams for additional preparation and to identify topics that need more review.",
+      },
+      {
+        ...PRELICENSING_FEATURES[2],
+        title: "Condensed Review",
+        description: "Revisit important insurance concepts with concise review summaries before test day.",
+      },
+      {
+        ...PRELICENSING_FEATURES[3],
+        title: "AI Study Tools",
+        description: "Use built-in AI study tools to reinforce course topics and support your review.",
+      },
+      PRELICENSING_FEATURES[4],
+      {
+        ...PRELICENSING_FEATURES[5],
+        title: "Optional Live Support",
+        description: "Join optional weekly live instructor sessions when you want added help; attendance is not required.",
+      },
+    ];
+  }
   if (isCE && ceEthicsWebinar) {
     features = features.map((f) =>
       f.title === "Self-Paced Online"

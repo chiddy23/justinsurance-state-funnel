@@ -164,9 +164,9 @@ export async function generateMetadata({
     hours: hoursNum,
     price: pricing?.price,
   });
-  if (stateData.slug === "alabama") {
-    const title = `Alabama ${loaDef.shortName} Insurance Exam Prep Course`;
-    const description = `Optional Alabama ${loaDef.shortName} insurance exam preparation. Study online at your own pace with 30-day access, optional weekly instructor support, and exam-focused practice.`;
+  if (stateData.slug === "alabama" || stateData.slug === "alaska") {
+    const title = `${stateData.name} ${loaDef.shortName} Insurance Exam Prep Course`;
+    const description = `Optional ${stateData.name} ${loaDef.shortName} insurance exam preparation. Study online at your own pace with 30-day access, optional weekly instructor support, and exam-focused practice.`;
     return {
       ...baseMeta,
       title,
@@ -230,6 +230,12 @@ export default async function PrelicensingCoursePage({
   // route for discoverability, but present the product itself as optional exam
   // preparation everywhere a buyer sees or a crawler reads the offer.
   const isAlabama = stateData.slug === "alabama";
+  // Alaska does not require prelicensing education before its licensing exams.
+  // Its live products are optional exam preparation with optional weekly live
+  // support, so the same buyer-facing guard applies without Alabama's separate
+  // statement about course approval authority.
+  const isAlaska = stateData.slug === "alaska";
+  const isOptionalExamPrep = isAlabama || isAlaska;
   // States that impose monitored seat time / a required course duration (CA's
   // 12-hr timed C&E; MN's seat-time control) are NOT accurately "self-paced" —
   // the length is fixed. Gate the "online, self-paced / at your own pace" claims.
@@ -534,8 +540,8 @@ export default async function PrelicensingCoursePage({
     price: pricing.price,
     // 50 Ill. Adm. Code 3119 — Illinois Course schema descriptions use the
     // hybrid format instead of unqualified "online, self-paced".
-    description: isAlabama
-      ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam-prep course — online and self-paced, with optional weekly live instructor support and ${stateData.courseAccessDays} days of access. Alabama does not require or approve prelicensing courses. ${guaranteeSentence} ${pricing.price}.`
+    description: isOptionalExamPrep
+      ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam-prep course — online and self-paced, with optional weekly live instructor support and ${stateData.courseAccessDays} days of access. ${isAlabama ? "Alabama does not require or approve prelicensing courses." : "Alaska does not require prelicensing education before its licensing exams."} ${guaranteeSentence} ${pricing.price}.`
       : ilWebinar
       ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours per line (7.5 live webinar + 12.5 self-paced), state-approved. ${guaranteeSentence} ${pricing.price}.`
       : hoursIsNumber
@@ -545,7 +551,7 @@ export default async function PrelicensingCoursePage({
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
     { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
-    { name: isAlabama ? "Exam Prep" : "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
+    { name: isOptionalExamPrep ? "Exam Prep" : "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
     { name: loaDef.shortName, url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/${loaDef.slug}` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
@@ -555,13 +561,13 @@ export default async function PrelicensingCoursePage({
   // Course is the correct primary type for prelicensing pages; offers/pricing
   // already live inside the Course schema's hasCourseInstance.offers block.
 
-  const articleHeadline = isAlabama
+  const articleHeadline = isOptionalExamPrep
     ? `${stateData.name} ${loaDef.shortName} Insurance Exam Prep Course`
     : `${stateData.name} ${loaDef.name} Prelicensing Course`;
   // 50 Ill. Adm. Code 3119 — Illinois hero subtitle / Article description
   // swaps the unqualified self-paced claim for the approved short line.
-  const articleDescription = isAlabama
-    ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam preparation with online, self-paced study, optional weekly live instructor support, and ${stateData.courseAccessDays} days of access. Alabama does not require this course before the licensing exam. ${guaranteeSentence} Only ${pricing.price}.`
+  const articleDescription = isOptionalExamPrep
+    ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam preparation with online, self-paced study, optional weekly live instructor support, and ${stateData.courseAccessDays} days of access. ${stateData.name} does not require this course before the licensing exam. ${guaranteeSentence} Only ${pricing.price}.`
     : ilWebinar
     ? `${pricing.hours}-hour state-approved course. ${IL_WEBINAR_SHORT_LINE} Then pass the ${stateData.name} licensing exam. ${guaranteeSentence} Only ${pricing.price}.`
     : hoursIsNumber
@@ -577,7 +583,7 @@ export default async function PrelicensingCoursePage({
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}` },
-    { name: isAlabama ? "Exam Prep" : "Prelicensing", href: `/${stateData.slug}/prelicensing` },
+    { name: isOptionalExamPrep ? "Exam Prep" : "Prelicensing", href: `/${stateData.slug}/prelicensing` },
     { name: loaDef.shortName },
   ];
 
@@ -596,8 +602,8 @@ export default async function PrelicensingCoursePage({
       <PrelicenseApprovalNotice stateSlug={stateData.slug} loaSlug={loaDef.slug} stateName={stateData.name} />
 
       <StateHero
-        eyebrow={`${stateData.name} ${loaDef.shortName} ${isAlabama ? "Exam Prep" : "Prelicensing"}`}
-        title={`${stateData.name} ${isAlabama ? `${loaDef.shortName} Insurance Exam Prep Course` : `${loaDef.name} Prelicensing Course`}`}
+        eyebrow={`${stateData.name} ${loaDef.shortName} ${isOptionalExamPrep ? "Exam Prep" : "Prelicensing"}`}
+        title={`${stateData.name} ${isOptionalExamPrep ? `${loaDef.shortName} Insurance Exam Prep Course` : `${loaDef.name} Prelicensing Course`}`}
         subtitle={articleDescription}
         ctaButtons={[
           { text: `Enroll Now — ${pricing.price}`, href: enrollLink },
@@ -751,17 +757,28 @@ export default async function PrelicensingCoursePage({
               <div className="border-t border-gray-200 p-6">
                 <h3 className="font-semibold text-navy mb-4">What&apos;s Included</h3>
                 <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {[
-                    "Video lessons",
-                    "Interactive e-book",
-                    "Practice exams",
-                    "Flashcard review sets",
-                    "Progress tracking",
-                    "Expert support",
-                    isAlabama ? "Course completion record" : "Certificate of completion",
-                    ...(isAlabama ? ["Optional weekly live instructor sessions"] : []),
-                    guaranteeOk ? "Pass guarantee" : "Instant course access",
-                  ].map((item) => (
+                  {(isOptionalExamPrep
+                    ? [
+                        "Video explanations",
+                        "Condensed review summaries",
+                        "AI-powered study tools",
+                        "5 exam-style practice exams",
+                        "Progress tracking",
+                        "Expert support",
+                        "Course completion record",
+                        "Optional weekly live instructor sessions",
+                        guaranteeOk ? "Pass guarantee" : "Instant course access",
+                      ]
+                    : [
+                        "Video lessons",
+                        "Interactive e-book",
+                        "Practice exams",
+                        "Flashcard review sets",
+                        "Progress tracking",
+                        "Expert support",
+                        "Certificate of completion",
+                        guaranteeOk ? "Pass guarantee" : "Instant course access",
+                      ]).map((item) => (
                     <li key={item} className="flex items-center gap-2 text-gray-600 text-sm">
                       <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
@@ -783,8 +800,8 @@ export default async function PrelicensingCoursePage({
             What You&apos;ll Learn
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
-            {isAlabama
-              ? `This optional exam-prep course reviews key topics from the published Alabama ${loaDef.name} licensing exam content outline.`
+            {isOptionalExamPrep
+              ? `This optional exam-prep course reviews key topics from the published ${stateData.name} ${loaDef.name} licensing exam content outline.`
               : ilWebinar && loaDef.slug === "life-and-health"
               ? `These two courses cover everything tested on the two Illinois exams — Life and Accident & Health — required for a Life & Health license.`
               : isCalifornia
@@ -808,7 +825,7 @@ export default async function PrelicensingCoursePage({
         </div>
       </section>
 
-      <CourseFeatures examPrepOnly={isAlabama} />
+      <CourseFeatures examPrepOnly={isOptionalExamPrep} />
 
       <ExamInfoSection
         stateName={stateData.name}
@@ -891,7 +908,7 @@ export default async function PrelicensingCoursePage({
 
       <FAQAccordion
         faqs={faqs}
-        heading={`${stateData.name} ${isAlabama ? `${loaDef.shortName} Insurance Exam Prep` : `${loaDef.name} Prelicensing`} FAQs`}
+        heading={`${stateData.name} ${isOptionalExamPrep ? `${loaDef.shortName} Insurance Exam Prep` : `${loaDef.name} Prelicensing`} FAQs`}
       />
 
       <RelatedStatePages
@@ -910,9 +927,9 @@ export default async function PrelicensingCoursePage({
       </section>
 
       <CTABanner
-        title={`Ready to Start Your ${stateData.name} ${loaDef.shortName} ${isAlabama ? "Exam Prep" : "Prelicensing"}?`}
+        title={`Ready to Start Your ${stateData.name} ${loaDef.shortName} ${isOptionalExamPrep ? "Exam Prep" : "Prelicensing"}?`}
         subtitle={
-          isAlabama
+          isOptionalExamPrep
             ? `Enroll in our optional ${loaDef.shortName} insurance exam-prep course today. ${guaranteeSentence} Only ${pricing.price}.`
             : hoursIsNumber
             ? `Enroll in our ${pricing.hours}-hour ${isProviderApproved ? "state-approved " : ""}course today. ${guaranteeSentence} Only ${pricing.price}.`

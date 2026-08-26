@@ -174,7 +174,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life",
             name: "Life Insurance",
-            description: "Sell term life, whole life, universal life, and annuity products. The essential license for any agent working in life insurance or financial services.",
+            description: stateSlug === "california"
+              ? "Includes California's single monitored 12-hour Code & Ethics course plus focused preparation for the Life licensing exam."
+              : "Sell term life, whole life, universal life, and annuity products. The essential license for any agent working in life insurance or financial services.",
             hours: stateData.prelicensing.life.hours,
             completionTime: stateData.prelicensing.life.completionTime,
             price: stateData.prelicensing.life.price,
@@ -184,7 +186,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "health",
             name: "Health Insurance",
-            description: "Sell major medical, Medicare supplement, disability income, long-term care, and other health products. Essential for agents focused on health and Medicare markets.",
+            description: stateSlug === "california"
+              ? "Includes California's single monitored 12-hour Code & Ethics course plus focused preparation for the Accident & Health or Sickness licensing exam."
+              : "Sell major medical, Medicare supplement, disability income, long-term care, and other health products. Essential for agents focused on health and Medicare markets.",
             hours: stateData.prelicensing.health.hours,
             completionTime: stateData.prelicensing.health.completionTime,
             price: stateData.prelicensing.health.price,

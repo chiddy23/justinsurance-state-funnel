@@ -166,7 +166,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     packageName: "California Property & Casualty CE Package — 3-Hr Ethics with CA Anti-Fraud + 21-Hr P&C",
     shortName: "California P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics with CA Anti-Fraud", pcHours: 21, totalHours: 24,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=F7FE2EB9-93AF-40E5-B078-0AFB4B750C1A",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=ca-ce-pc",
     specialNotes: [
       "Includes the 1-hour Anti-Fraud Awareness Training required by CDI for all California producers.",
     ],

@@ -70,18 +70,18 @@
   "california": {
     "prelicensing": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cabd3561-5b90-4530-b15b-b52854919879",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a01248ea-fc24-4484-a4f9-9ae3fa56d150",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0916865b-b9f6-4ad5-a31b-1609f5cc8eae"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=ca-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=ca-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=ca-life-health"
     },
     "continuing-education": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/4f595cdb-f8b7-444e-986e-c6da1ef986d4",
       "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee",
       "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/d1b4e4d7-f4d7-4758-abc2-9e5d9e220215",
       "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/d1b4e4d7-f4d7-4758-abc2-9e5d9e220215",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=ca-ce-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=ca-ce-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=ca-ce-life-health"
     }
   },
   "colorado": {

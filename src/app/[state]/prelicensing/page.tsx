@@ -240,6 +240,8 @@ export default async function PrelicensingHubPage({
                   <>JustInsurance&apos;s {stateData.name} prelicensing courses combine the required 7.5 live webinar hours per line of authority — attendance is verified — with 12.5 self-paced online hours per line (20 hours total per line). The self-paced portion is available on any device, at any time.</>
                 ) : isMinnesota ? (
                   <>JustInsurance&apos;s Minnesota prelicensing courses are fully online and flexible — study on any device, at any time, with no fixed class times. They are not self-paced in length, though: Minnesota enforces a minimum seat time, so the course is built to take the full required hours of interactive study and automatically logs you out if you are inactive for more than 10 minutes — it cannot be rushed. The one step you schedule is a proctored final exam: you arrange a disinterested third-party proctor who verifies your photo ID and signs an affidavit before your certificate of completion can be issued.</>
+                ) : isCalifornia ? (
+                  <>JustInsurance&apos;s California program is fully online and flexible to schedule, but the required 12-hour Code &amp; Ethics course uses monitored active-study time and cannot be completed in less than 12 hours. Optional weekly live instructor sessions are included for added exam-preparation support; attendance is not required to complete the monitored course.</>
                 ) : stateData.slug === "florida" || isArkansas ? (
                   <>JustInsurance&apos;s {stateData.name} prelicensing courses are fully online and self-paced. You can study on any device, at any time. Weekly live instructor sessions are included as optional support; attendance is not required to complete your self-paced course.</>
                 ) : isOptionalExamPrep ? (
@@ -268,7 +270,7 @@ export default async function PrelicensingHubPage({
                 ilWebinar
                   ? { step: "2", title: "Complete Your Hours", desc: `Complete the required 7.5 live webinar hours per line of authority (attendance verified) plus 12.5 self-paced hours per line — video lessons, readings, and quizzes.` }
                   : isCalifornia
-                  ? { step: "2", title: "Study at Your Pace", desc: `Complete the single 12-hour Code and Ethics course — it satisfies the ethics requirement for every line of authority and is completed only once — with video lessons, readings, and quizzes on any device.` }
+                  ? { step: "2", title: "Complete Monitored Study", desc: `Complete the single monitored 12-hour Code and Ethics course — it satisfies the education requirement for every line of authority and is completed only once — with video lessons, readings, and quizzes on any device.` }
                   : { step: "2", title: "Study at Your Pace", desc: isCEOnlyState ? `Work through the exam-prep course at your own pace for your line of authority — video lessons, readings, and quizzes on any device.` : `Complete your required prelicensing hours for your line of authority — video lessons, readings, and quizzes on any device.` },
                 ilWebinar
                   ? { step: "3", title: "Earn Your Certificate", desc: `Complete all modules and quizzes in forced-progression order, pass the final exam with 70% or higher, and attend and participate in the required 7.5-hour live webinar sessions — then you'll be issued your Illinois Certificate of Completion.` }
@@ -334,7 +336,7 @@ export default async function PrelicensingHubPage({
                 desc: ilWebinar
                   ? `Complete all required hours — 7.5 live webinar hours per line of authority (attendance verified) plus 12.5 self-paced online hours per line.`
                   : isCalifornia
-                  ? `Complete the single 12-hour Code and Ethics course — it satisfies the ethics requirement for every line of authority and is completed only once — online at your own pace.`
+                  ? `Complete the single monitored 12-hour Code and Ethics course — it satisfies the education requirement for every line of authority and is completed only once. You can schedule study sessions flexibly, but the course cannot be completed in less than 12 hours.`
                   : isCEOnlyState
                   ? `Work through the full course for your line of authority online at your own pace.`
                   : `Study through all the required hours for your line of authority online at your own pace.`,

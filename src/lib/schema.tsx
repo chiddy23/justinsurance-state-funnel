@@ -35,6 +35,8 @@ export function generateCourseSchema(params: {
   loaName: string;
   loaSlug: string;
   courseType: "prelicensing" | "continuing-education";
+  /** Optional exam-prep products do not award a state prelicensing credential. */
+  examPrepOnly?: boolean;
   /** Optional — emit time fields only when known. Avoids "PT0H" lies. */
   hours?: number;
   price: string;
@@ -49,10 +51,12 @@ export function generateCourseSchema(params: {
    */
   available: boolean;
 }): object | null {
-  const { stateName, stateSlug, loaName, loaSlug, courseType, hours, price, description, available } = params;
+  const { stateName, stateSlug, loaName, loaSlug, courseType, examPrepOnly = false, hours, price, description, available } = params;
   if (!available) return null;
   const courseLabel =
-    courseType === "prelicensing"
+    examPrepOnly
+      ? "Insurance Exam Prep Course"
+      : courseType === "prelicensing"
       ? "Prelicensing Course"
       : "Continuing Education Course";
   const pathSegment = courseType === "prelicensing" ? "prelicensing" : "continuing-education";
@@ -98,11 +102,17 @@ export function generateCourseSchema(params: {
       offers: offer,
     },
     offers: offer,
-    educationalCredentialAwarded:
-      courseType === "prelicensing"
-        ? `${stateName} ${loaShort} Insurance Prelicensing Certificate`
-        : `${stateName} ${loaShort} Insurance CE Certificate`,
-    teaches: `${stateName} ${loaShort} insurance licensing requirements`,
+    ...(!examPrepOnly
+      ? {
+          educationalCredentialAwarded:
+            courseType === "prelicensing"
+              ? `${stateName} ${loaShort} Insurance Prelicensing Certificate`
+              : `${stateName} ${loaShort} Insurance CE Certificate`,
+        }
+      : {}),
+    teaches: examPrepOnly
+      ? `${stateName} ${loaShort} insurance licensing-exam topics`
+      : `${stateName} ${loaShort} insurance licensing requirements`,
     educationalLevel: "Beginner",
     coursePrerequisites: "None",
     // courseSchedule added 2026-06-12 per Semrush audit (773 invalid

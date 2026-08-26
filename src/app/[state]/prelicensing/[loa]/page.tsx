@@ -164,7 +164,11 @@ export async function generateMetadata({
     hours: hoursNum,
     price: pricing?.price,
   });
-  if (stateData.slug === "alabama" || stateData.slug === "alaska") {
+  if (
+    stateData.slug === "alabama" ||
+    stateData.slug === "alaska" ||
+    stateData.slug === "arizona"
+  ) {
     const title = `${stateData.name} ${loaDef.shortName} Insurance Exam Prep Course`;
     const description = `Optional ${stateData.name} ${loaDef.shortName} insurance exam preparation. Study online at your own pace with 30-day access, optional weekly instructor support, and exam-focused practice.`;
     return {
@@ -235,7 +239,13 @@ export default async function PrelicensingCoursePage({
   // support, so the same buyer-facing guard applies without Alabama's separate
   // statement about course approval authority.
   const isAlaska = stateData.slug === "alaska";
-  const isOptionalExamPrep = isAlabama || isAlaska;
+  // Arizona likewise has no prelicensing-education prerequisite; these live
+  // products are optional preparation, not state-required prelicensing.
+  const isArizona = stateData.slug === "arizona";
+  const isOptionalExamPrep = isAlabama || isAlaska || isArizona;
+  const optionalExamPrepNotice = isAlabama
+    ? "Alabama does not require or approve prelicensing courses."
+    : `${stateData.name} does not require prelicensing education before its licensing exams.`;
   // States that impose monitored seat time / a required course duration (CA's
   // 12-hr timed C&E; MN's seat-time control) are NOT accurately "self-paced" —
   // the length is fixed. Gate the "online, self-paced / at your own pace" claims.
@@ -542,7 +552,7 @@ export default async function PrelicensingCoursePage({
     // 50 Ill. Adm. Code 3119 — Illinois Course schema descriptions use the
     // hybrid format instead of unqualified "online, self-paced".
     description: isOptionalExamPrep
-      ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam-prep course — online and self-paced, with optional weekly live instructor support and ${stateData.courseAccessDays} days of access. ${isAlabama ? "Alabama does not require or approve prelicensing courses." : "Alaska does not require prelicensing education before its licensing exams."} ${guaranteeSentence} ${pricing.price}.`
+      ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam-prep course — online and self-paced, with optional weekly live instructor support and ${stateData.courseAccessDays} days of access. ${optionalExamPrepNotice} ${guaranteeSentence} ${pricing.price}.`
       : ilWebinar
       ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours per line (7.5 live webinar + 12.5 self-paced), state-approved. ${guaranteeSentence} ${pricing.price}.`
       : hoursIsNumber

@@ -387,10 +387,11 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
   // combinedRequired is false there, but Life (20) and Health (20) ARE required,
   // so the "do I need prelicensing?" answer must key off any line, not combined.
   const anyLineRequired = lifeRequired || healthRequired || combinedRequired;
-  const isOptionalExamPrep = data.name === "Alabama" || data.name === "Alaska";
+  const isOptionalExamPrep =
+    data.name === "Alabama" || data.name === "Alaska" || data.name === "Arizona";
   const optionalApprovalNote = data.name === "Alabama"
     ? "Alabama does not require or approve prelicensing courses."
-    : "Alaska does not require prelicensing education before its licensing exams.";
+    : `${data.name} does not require prelicensing education before its licensing exams.`;
 
   // California: effective 1/1/2026, AB 943 (amending Cal. Ins. Code § 1749)
   // repealed the former line-specific prelicensing hours. The sole mandatory
@@ -579,7 +580,8 @@ export function getPrelicensingCourseFAQs(
   hours: string | number,
   price: string
 ): FAQ[] {
-  const isOptionalExamPrep = data.name === "Alabama" || data.name === "Alaska";
+  const isOptionalExamPrep =
+    data.name === "Alabama" || data.name === "Alaska" || data.name === "Arizona";
   // "no combined license" (Wisconsin) means the state issues Life and Health as
   // SEPARATE licenses — there is no combined course — but each line still
   // requires its hours. It must NOT fall through to the optional-state path.
@@ -622,7 +624,7 @@ export function getPrelicensingCourseFAQs(
     },
     {
       question: `What is the pass rate for JustInsurance students on the ${data.name} ${loaName} exam?`,
-      answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(data.passRate))}% on their first attempt — measured among students who complete the full course, finish the recommended study hours, and score 80%+ three times in a row on the practice exam before testing. The ${data.name} ${loaName} exam is administered by ${data.examProvider} and requires at least ${formatPassingScore(data.slug, data.passingScore, loaSlugFromName(loaName))} to pass. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness. Full pass rate methodology at /pass-rates.`,
+      answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(data.passRate))}% on their first attempt — measured among students who complete the full course, finish the recommended study hours, and score 80%+ three times in a row on the practice exam before testing. The ${data.name} ${loaName} exam is administered by ${data.examProvider} and requires at least ${formatPassingScore(data.slug, data.passingScore, loaSlugFromName(loaName))} to pass. JustInsurance's course includes full-length exam-style practice questions covering topics in the published ${data.examProvider} content outline, so you can benchmark your readiness. Full pass rate methodology at /pass-rates.`,
     },
     {
       question: `What happens if I fail the ${data.name} ${loaName} exam?`,
@@ -647,8 +649,8 @@ export function getPrelicensingCourseFAQs(
         ? `What's included in the ${data.name} ${loaName} exam-prep course?`
         : `What's included in the ${data.name} ${loaName} prelicensing course?`,
       answer: isOptionalExamPrep
-        ? `The JustInsurance ${data.name} ${loaName} exam-prep course at ${$(price)} includes video explanations, condensed review summaries, AI-powered study tools, five exam-style practice exams for additional preparation, optional weekly live instructor sessions, and ${data.courseAccessDays} days of access across your devices. ${data.name === "Alabama" ? "Alabama does not require or approve prelicensing courses." : "Alaska does not require prelicensing education before its licensing exams."} This is optional preparation for the licensing exam rather than a state prerequisite.`
-        : `The JustInsurance ${data.name} ${loaName} prelicensing course at ${$(price)} includes everything you need in a single purchase: ${hoursNotRequired ? "comprehensive" : hoursDisplay + " of"} ${prelicensingApproved ? "state-approved" : "exam-focused"} course content organized by exam topic, chapter-by-chapter review quizzes to reinforce key concepts, a full-length practice exam that mirrors the format and difficulty of the actual ${data.examProvider} exam, ${data.courseAccessDays} days of unlimited access across all your devices, and your official ${prelicensingApproved ? "state-recognized " : ""}certificate of completion${data.name === "Michigan" ? ", issued once you pass Michigan's required proctor-monitored final exam and we receive your signed proctor affidavit (Mich. Admin. Code R 500.5)." : data.name === "Minnesota" ? ", issued once you pass Minnesota's required proctor-monitored final exam and we receive your signed proctor affidavit (Minn. Stat. § 45.305, subd. 5). There are no hidden JustInsurance fees, required textbooks, or add-on course costs — though a proctor you arrange may charge its own fee." : " issued immediately when you finish. There are no hidden fees, no required textbooks, and no add-on costs."}`,
+        ? `The JustInsurance ${data.name} ${loaName} exam-prep course at ${$(price)} includes video explanations, condensed review summaries, AI-powered study tools, five exam-style practice exams for additional preparation, optional weekly live instructor sessions, and ${data.courseAccessDays} days of access across your devices. ${data.name === "Alabama" ? "Alabama does not require or approve prelicensing courses." : `${data.name} does not require prelicensing education before its licensing exams.`} This is optional preparation for the licensing exam rather than a state prerequisite.`
+        : `The JustInsurance ${data.name} ${loaName} prelicensing course at ${$(price)} includes everything you need in a single purchase: ${hoursNotRequired ? "comprehensive" : hoursDisplay + " of"} ${prelicensingApproved ? "state-approved" : "exam-focused"} course content organized by exam topic, chapter-by-chapter review quizzes to reinforce key concepts, a full-length set of exam-style practice questions covering published licensing topics, ${data.courseAccessDays} days of unlimited access across all your devices, and your official ${prelicensingApproved ? "state-recognized " : ""}certificate of completion${data.name === "Michigan" ? ", issued once you pass Michigan's required proctor-monitored final exam and we receive your signed proctor affidavit (Mich. Admin. Code R 500.5)." : data.name === "Minnesota" ? ", issued once you pass Minnesota's required proctor-monitored final exam and we receive your signed proctor affidavit (Minn. Stat. § 45.305, subd. 5). There are no hidden JustInsurance fees, required textbooks, or add-on course costs — though a proctor you arrange may charge its own fee." : " issued immediately when you finish. There are no hidden fees, no required textbooks, and no add-on costs."}`,
     },
   ];
 }

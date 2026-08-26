@@ -74,7 +74,7 @@ function buildLinksForState(stateSlug: string, stateName: string, full: boolean)
       href: `/${stateSlug}/practice-exam`,
       badge: "Practice Exam",
       title: `${stateName} Practice Exam`,
-      description: `Free practice questions modeled on the ${stateName} state licensing exam.`,
+      description: `Free practice questions covering published ${stateName} licensing topics.`,
     });
   }
 

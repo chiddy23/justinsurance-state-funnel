@@ -38,7 +38,7 @@ export async function generateMetadata({
     stateSlug: stateData.slug,
     hours: typeof stateData.prelicensing.lifeAndHealth.hours === "number" ? stateData.prelicensing.lifeAndHealth.hours : undefined,
   });
-  if (stateData.slug === "alabama" || stateData.slug === "alaska") {
+  if (stateData.slug === "alabama" || stateData.slug === "alaska" || stateData.slug === "arizona") {
     const title = `${stateData.name} Insurance Exam Prep Courses`;
     const description =
       `Optional ${stateData.name} Life, Health, and Life & Health insurance exam-prep courses. Study online with 30-day access and optional weekly instructor support.`;
@@ -98,7 +98,10 @@ export default async function PrelicensingHubPage({
   // instructor support, so buyer-facing copy must not imply a mandatory course
   // or a state-recognized prelicensing certificate.
   const isAlaska = stateData.slug === "alaska";
-  const isOptionalExamPrep = isAlabama || isAlaska;
+  // Arizona also has no prelicensing-education prerequisite. Its live catalog
+  // offers optional exam preparation with optional weekly instructor support.
+  const isArizona = stateData.slug === "arizona";
+  const isOptionalExamPrep = isAlabama || isAlaska || isArizona;
   // Minnesota: internet-delivered prelicensing requires a proctor-monitored final
   // exam (student arranges a disinterested third-party proctor who verifies ID and
   // signs an affidavit) before the certificate issues — Minn. Stat. § 45.305,
@@ -134,7 +137,7 @@ export default async function PrelicensingHubPage({
     ? `${stateData.name} Insurance Exam Prep Courses`
     : `${stateData.name} Insurance Prelicensing Courses`;
   const articleDescription = isCEOnlyState
-    ? `Prepare for your ${stateData.name} insurance license exam with our online exam-prep course. Choose your line of authority below and start studying today.`
+    ? `Prepare for your ${stateData.name} insurance license exam with our online exam-prep courses. Choose your line of authority below and start studying today.`
     : `Get your ${stateData.name} insurance license with a state-approved online prelicensing course. Choose your line of authority below and start studying today.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
@@ -166,7 +169,7 @@ export default async function PrelicensingHubPage({
           ilWebinar
             ? `Get your ${stateData.name} insurance license with a state-approved prelicensing course. ${IL_WEBINAR_SHORT_LINE} Choose your line of authority below.`
             : isCEOnlyState
-            ? `Prepare for your ${stateData.name} insurance license exam with our online exam-prep course. Choose your line of authority below and start studying today.`
+            ? `Prepare for your ${stateData.name} insurance license exam with our online exam-prep courses. Choose your line of authority below and start studying today.`
             : `Get your ${stateData.name} insurance license with ${stateData.providerApprovalNumber !== "PENDING" && !isCEOnlyState ? "a state-approved online" : "an online"} prelicensing course. Choose your line of authority below and start studying today.`
         }
         ctaButtons={[
@@ -220,6 +223,9 @@ export default async function PrelicensingHubPage({
                   }
                   if (isAlaska) {
                     return `Alaska does not require prelicensing education before its insurance licensing exams. JustInsurance's Alaska courses are optional exam preparation organized around the Life and Accident & Health exam topics, with structured lessons, practice, and instructor support.`;
+                  }
+                  if (isArizona) {
+                    return `Arizona does not require prelicensing education before its insurance licensing exams. JustInsurance's Arizona courses are optional exam preparation organized around the current PSI content outlines for Life, Accident and Health or Sickness, and the combined Life and Health exam, with structured lessons, practice, and instructor support.`;
                   }
                   return `${stateData.name} does not require a formal prelicensing course to sit for the state licensing exam — but preparation still matters. JustInsurance's ${stateData.name} prelicensing course covers the insurance concepts, policy types, and ${stateData.name} regulations tested on the exam, giving you the structure first-time passers rely on even when it's not state-mandated.`;
                 })()}

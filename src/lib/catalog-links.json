@@ -36,18 +36,18 @@
   "arizona": {
     "prelicensing": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=891da107-d874-45e9-ba27-144997fd66be",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=da4587b5-66ef-46d2-83d9-0e3b1fa562d0",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=56eece27-e017-455d-9e5e-f36c88ea16ec"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=az-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=az-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=az-life-health"
     },
     "continuing-education": {
       "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/667ad033-830e-40b9-a64f-b41989e37c9b",
       "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005",
       "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/6142957c-9b99-40f0-86b3-229fc6c486bc",
       "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/6142957c-9b99-40f0-86b3-229fc6c486bc",
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005"
+      "life": "https://checkout.justinsuranceco.com/checkout?sku=az-ce-life",
+      "health": "https://checkout.justinsuranceco.com/checkout?sku=az-ce-health",
+      "life-and-health": "https://checkout.justinsuranceco.com/checkout?sku=az-ce-life-health"
     }
   },
   "arkansas": {

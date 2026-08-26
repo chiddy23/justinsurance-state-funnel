@@ -85,7 +85,8 @@ interface LOACardData {
 
 export default function LOASelector({ stateSlug, courseType, stateData }: LOASelectorProps) {
   const isOptionalExamPrep =
-    courseType === "prelicensing" && (stateSlug === "alabama" || stateSlug === "alaska");
+    courseType === "prelicensing" &&
+    (stateSlug === "alabama" || stateSlug === "alaska" || stateSlug === "arizona");
   // A CE card may render a LIVE "state-approved" / "same-day reporting" claim OR a
   // purchasable enroll button ONLY when CE is actually available: provider approved
   // (providerApprovalNumber !== "PENDING") AND ceCoursesLive !== false. Approval
@@ -203,6 +204,8 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               ? "The most popular choice — get licensed to sell both life and health products. In Illinois this package is two separately state-certified courses (a 20-hour Life course + a 20-hour Health course) bundled at one price, with separate Life and Health state exams."
               : stateSlug === "california"
               ? `The most popular choice — get licensed to sell both life and health products. California requires a single 12-hour Code & Ethics prelicensing course that satisfies the education requirement for both lines (AB 943, effective 2026), then ${lhExamClause}.`
+              : stateSlug === "arizona"
+              ? `The most popular choice — get licensed to sell both life and health products. This combined exam-prep course covers published topics for Arizona's combined Life & Health licensing exam.`
               : COMBINED_COURSE_STATES.has(stateSlug)
               ? `The most popular choice — get licensed to sell both life and health products with a single combined Life & Health prelicensing course, then ${lhExamClause}.`
               : lhDefaultDescription,

@@ -60,7 +60,8 @@ function buildLinks(
   // (ceAvailable=true / prelicensingHeld=false), keeping output byte-identical.
   const ceAvailable = !_st || isCeAvailable(_st);
   const prelicensingHeld = !!_st && isPrelicensingHeld(_st);
-  const isOptionalExamPrep = stateSlug === "alabama" || stateSlug === "alaska";
+  const isOptionalExamPrep =
+    stateSlug === "alabama" || stateSlug === "alaska" || stateSlug === "arizona";
   const all: LinkItem[] = [
     {
       href: `/${stateSlug}`,
@@ -81,7 +82,7 @@ function buildLinks(
       title: `${stateName} Practice Exam`,
       description: isOptionalExamPrep
         ? `Free practice questions for additional ${stateName} licensing-exam preparation.`
-        : `Free practice questions modeled on the ${stateName} state licensing exam.`,
+        : `Free practice questions covering published ${stateName} licensing topics.`,
       badge: "Practice",
     },
     {

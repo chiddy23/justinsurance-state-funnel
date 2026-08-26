@@ -31,6 +31,10 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
     isOptionalHours(prelicensing.life.hours) ||
     isOptionalHours(prelicensing.health.hours) ||
     isOptionalHours(prelicensing.lifeAndHealth.hours);
+  const examFeeDisplay =
+    stateData.slug === "arizona"
+      ? "$50 Life or Health · $59 combined Life & Health"
+      : `$${examInfo.examFee}`;
 
   return (
     <section className="bg-gray-bg py-16 px-4">
@@ -115,7 +119,7 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
               </li>
               <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Exam Fee</span>
-                <span className="font-semibold text-navy">${examInfo.examFee}</span>
+                <span className="font-semibold text-navy text-right">{examFeeDisplay}</span>
               </li>
               <li className="flex justify-between py-2">
                 <span className="text-gray-500">Results</span>

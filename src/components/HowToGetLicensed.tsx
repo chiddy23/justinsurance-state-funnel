@@ -86,7 +86,7 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
   };
   const stepExam = {
     title: `Schedule and pass the ${name} state exam`,
-    body: `Book your exam through ${examInfo.examProvider} (${examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"})${stateData.applicationBeforeExam ? ", after your application is processed and you receive your Authorization to Test" : ""}. Passing score: ${formatPassingScore(stateData.slug, examInfo.passingScore)}.`,
+    body: `Book your exam through ${examInfo.examProvider} (${stateData.slug === "arizona" ? "$50 for Life or Health; $59 for combined Life & Health" : examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"})${stateData.applicationBeforeExam ? ", after your application is processed and you receive your Authorization to Test" : ""}. Passing score: ${formatPassingScore(stateData.slug, examInfo.passingScore)}.`,
   };
   const stepBackground = {
     title: noFingerprint ? "Complete your background check" : "Complete fingerprinting and background check",

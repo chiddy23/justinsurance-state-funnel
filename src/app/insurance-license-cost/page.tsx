@@ -320,7 +320,7 @@ export default function InsuranceLicenseCostPage() {
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State exam fee:</strong> $32 in Missouri and Utah to $98 in California (paid per attempt).</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State application fee:</strong> $0 in Montana and $10 in Michigan, Ohio and Wisconsin, up to $225 in Massachusetts.</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Fingerprinting or background check:</strong> $0 to $85 depending on the state, through IdentoGO, Fieldprint, or an equivalent vendor.</span></li>
-              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Optional practice exam:</strong> $59 for a state-specific, full-length simulated exam.</span></li>
+              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Optional practice exam:</strong> $59 for a state-specific, full-length set of exam-style practice questions.</span></li>
             </ul>
             <p className="text-gray-700 leading-relaxed mt-4">
               Candidates in low-fee states like Michigan can get fully licensed for under $300. Texas runs about $330. Candidates in California, Illinois, or Massachusetts should plan for closer to $600, largely because the application fee is front-loaded.

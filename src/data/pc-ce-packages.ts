@@ -157,7 +157,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     packageName: "Arizona Property & Casualty CE Package — 6-Hr Ethics + 42-Hr P&C",
     shortName: "Arizona P&C CE",
     ethicsHours: 6, ethicsLabel: "Ethics", pcHours: 42, totalHours: 48,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=596A26B7-300B-45C7-9FBA-3D2629BAA118",
+    cartLink: "https://checkout.justinsuranceco.com/checkout?sku=az-ce-pc",
     specialNotes: ["Arizona uses a 4-year renewal cycle requiring 48 total CE hours."],
     status: "Active", price: "$111",
   },

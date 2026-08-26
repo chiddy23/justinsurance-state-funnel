@@ -27,7 +27,7 @@ const faqs = [
   {
     question: "What's included in the JustInsurance practice exam?",
     answer:
-      "Each practice exam is a full-length set of questions modeled on your state's actual insurance licensing exam. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes for the duration of your course access. Pick Life, Health, or Life & Health depending on the license you plan to test for.",
+      "Each practice exam is a full-length set of exam-style questions covering published insurance licensing topics. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes for the duration of your course access. Pick Life, Health, or Life & Health depending on the license you plan to test for.",
   },
   {
     question: "How close is the practice exam to the real state exam?",

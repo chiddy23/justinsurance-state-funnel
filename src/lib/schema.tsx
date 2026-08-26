@@ -167,7 +167,7 @@ export function generateStateHubCourseSchema(params: {
 
   const description =
     credentialKind === "ce"
-      ? `Online insurance license exam-prep course for ${stateName}. Prepare to pass your ${stateName} state licensing exam. 100% online, self-paced, includes practice exams.`
+      ? `Optional online insurance licensing-exam preparation for ${stateName}. Review published exam topics with self-paced lessons and exam-style practice questions.`
       : // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers may flow
         // into Ohio-facing structured data. Excluded states get an
         // "instant course access" benefit instead so the description shape holds.
@@ -176,7 +176,9 @@ export function generateStateHubCourseSchema(params: {
   return {
     "@context": "https://schema.org",
     "@type": "Course",
-    name: `${stateName} Insurance Prelicensing Course — Life & Health`,
+    name: credentialKind === "ce"
+      ? `${stateName} Life & Health Insurance Exam Prep Course`
+      : `${stateName} Insurance Prelicensing Course — Life & Health`,
     description,
     image: LOGO_URL,
     provider: {
@@ -203,7 +205,9 @@ export function generateStateHubCourseSchema(params: {
       offers: offer,
     },
     offers: offer,
-    educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate`,
+    ...(credentialKind === "ce"
+      ? {}
+      : { educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate` }),
     educationalLevel: "Beginner",
     coursePrerequisites: "None",
     // courseSchedule parity with generateCourseSchema — same self-paced

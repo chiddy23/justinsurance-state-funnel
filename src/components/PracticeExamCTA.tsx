@@ -37,8 +37,8 @@ export default function PracticeExamCTA({ stateName, stateSlug, practiceExams, l
               </h3>
               <p className="text-blue-100 leading-relaxed">
                 {loa
-                  ? `Take our full-length ${stateName} ${loa} practice exam. Score 80%+ three times in a row and walk into the real exam confident. $59 — instant access.`
-                  : `Full-length practice exams that mirror the real state exam. Detailed answer explanations, unlimited retakes. Life, Health, and Life + Health — $59 each.`}
+                  ? `Take our full-length ${stateName} ${loa} practice exam to review licensing topics and identify areas that need more study. $59 — instant access.`
+                  : `Full-length exam-style practice questions covering published licensing topics, with detailed answer explanations and unlimited retakes. Life, Health, and Life + Health — $59 each.`}
               </p>
             </div>
             <div className="flex flex-col gap-2 min-w-[200px]">

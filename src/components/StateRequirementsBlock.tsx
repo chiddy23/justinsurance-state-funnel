@@ -49,7 +49,7 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
               <svg className="w-5 h-5 text-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
               </svg>
-              Prelicensing Requirements
+              {hasOptionalPrelicensing ? "Optional Exam Prep" : "Prelicensing Requirements"}
             </h3>
             <ul className="space-y-2 text-sm">
               <li className="flex justify-between py-2 border-b border-gray-100">
@@ -67,7 +67,7 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
             </ul>
             {hasOptionalPrelicensing && (
               <p className="mt-4 text-xs text-gray-500 leading-relaxed">
-                {name} has no state-mandated prelicensing requirement, but candidates who complete a prep course pass at significantly higher rates.
+                {name} does not require education before the licensing exam. These are optional recommended study times for candidates who want structured preparation.
               </p>
             )}
           </div>

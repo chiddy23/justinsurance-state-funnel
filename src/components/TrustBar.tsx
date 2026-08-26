@@ -2,7 +2,7 @@ import React from "react";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { getGoogleReviews } from "@/lib/google-reviews";
 import { getStateBySlug } from "@/lib/states";
-import { isCeAvailable, isPrelicensingHeld } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isCeAvailable, isPrelicensingHeld } from "@/lib/prelicensing-status";
 import TrustpilotMicroTrustScore from "@/components/TrustpilotMicroTrustScore";
 
 interface TrustSignal {
@@ -124,6 +124,11 @@ const STATE_STANDARDS_SIGNAL: TrustSignal = {
   label: "Built to State Standards",
   sub: "Aligned to the state exam outline",
 };
+const APPROVED_CE_SIGNAL: TrustSignal = {
+  icon: STATE_STANDARDS_SIGNAL.icon,
+  label: "State-Approved CE",
+  sub: "Exam prep offered separately",
+};
 const ONLINE_SELF_PACED_SIGNAL: TrustSignal = {
   icon: (
     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -156,6 +161,11 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   // so that badge is swapped for a neutral "Built to State Standards" one.
   const state = stateSlug ? getStateBySlug(stateSlug) : undefined;
   const providerApproved = !state || state.providerApprovalNumber !== "PENDING";
+  const examPrepOnly = !!state && credentialKindFromHours([
+    state.prelicensing.life.hours,
+    state.prelicensing.health.hours,
+    state.prelicensing.lifeAndHealth.hours,
+  ]) === "ce";
 
   // R2: the "Same-Day Reporting" badge asserts a LIVE CE-reporting capability.
   // Provider approval alone is not enough to earn it — WA (#300632, CE courses
@@ -176,6 +186,8 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   const base = TRUST_SIGNALS.map((signal) => {
     if (!providerApproved && signal.label === "State-Approved")
       return STATE_STANDARDS_SIGNAL;
+    if (examPrepOnly && signal.label === "State-Approved")
+      return APPROVED_CE_SIGNAL;
     // Same-Day Reporting is gated on CE being LIVE (isCeAvailable), not merely on
     // provider approval, so approved-but-coming-soon CE states (WA/NY) drop it too.
     // PENDING states have ceAvailable === false as well, so their output is unchanged.

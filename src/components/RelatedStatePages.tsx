@@ -60,12 +60,12 @@ function buildLinks(
   // (ceAvailable=true / prelicensingHeld=false), keeping output byte-identical.
   const ceAvailable = !_st || isCeAvailable(_st);
   const prelicensingHeld = !!_st && isPrelicensingHeld(_st);
-  const isAlabamaExamPrep = stateSlug === "alabama";
+  const isOptionalExamPrep = stateSlug === "alabama" || stateSlug === "alaska";
   const all: LinkItem[] = [
     {
       href: `/${stateSlug}`,
       title: `${stateName} Insurance License Hub`,
-      description: isAlabamaExamPrep
+      description: isOptionalExamPrep
         ? `Overview of licensing, CE, and exam requirements in ${stateName}.`
         : `Overview of prelicensing, CE, and exam requirements in ${stateName}.`,
       badge: "Overview",
@@ -79,49 +79,49 @@ function buildLinks(
     {
       href: `/${stateSlug}/practice-exam`,
       title: `${stateName} Practice Exam`,
-      description: isAlabamaExamPrep
+      description: isOptionalExamPrep
         ? `Free practice questions for additional ${stateName} licensing-exam preparation.`
         : `Free practice questions modeled on the ${stateName} state licensing exam.`,
       badge: "Practice",
     },
     {
       href: `/${stateSlug}/prelicensing`,
-      title: isAlabamaExamPrep
+      title: isOptionalExamPrep
         ? `${stateName} Insurance Exam Prep Courses`
         : `${stateName} Prelicensing Courses`,
-      description: isAlabamaExamPrep
+      description: isOptionalExamPrep
         ? `Optional online exam-prep course options for ${stateName}.`
         : prelicensingHeld
           ? `${stateName} prelicensing — opening for enrollment soon.`
           : `All ${prelicensingApproved ? "state-approved " : ""}prelicensing course options for ${stateName}.`,
-      badge: isAlabamaExamPrep ? "Exam Prep" : "Prelicensing",
+      badge: isOptionalExamPrep ? "Exam Prep" : "Prelicensing",
     },
     {
       href: `/${stateSlug}/prelicensing/life`,
-      title: isAlabamaExamPrep
+      title: isOptionalExamPrep
         ? `${stateName} Life Insurance Exam Prep`
         : `${stateName} Life Insurance Prelicensing`,
-      description: isAlabamaExamPrep
+      description: isOptionalExamPrep
         ? `Optional exam preparation for the Life-only license in ${stateName}.`
         : `Prelicensing course for the Life-only license in ${stateName}.`,
       badge: "Life",
     },
     {
       href: `/${stateSlug}/prelicensing/health`,
-      title: isAlabamaExamPrep
+      title: isOptionalExamPrep
         ? `${stateName} Health Insurance Exam Prep`
         : `${stateName} Health Insurance Prelicensing`,
-      description: isAlabamaExamPrep
+      description: isOptionalExamPrep
         ? `Optional exam preparation for the Health-only license in ${stateName}.`
         : `Prelicensing course for the Health-only license in ${stateName}.`,
       badge: "Health",
     },
     {
       href: `/${stateSlug}/prelicensing/life-and-health`,
-      title: isAlabamaExamPrep
+      title: isOptionalExamPrep
         ? `${stateName} Life & Health Insurance Exam Prep`
         : `${stateName} Life & Health Prelicensing`,
-      description: isAlabamaExamPrep
+      description: isOptionalExamPrep
         ? `Optional Life & Health exam preparation for ${stateName}.`
         : `Life & Health prelicensing course for ${stateName}.`,
       badge: "L&H",

@@ -230,6 +230,7 @@ export default async function StateHubPage({
     stateData.prelicensing?.health?.hours,
     stateData.prelicensing?.lifeAndHealth?.hours,
   ]);
+  const isOptionalExamPrep = stateCredentialKind === "ce";
   // A "state-approved PRELICENSING" claim needs BOTH: approval granted AND the
   // state actually regulating prelicensing. In exam-only states our approval is
   // CE-only, so isProviderApproved alone would assert a credential we do not hold.
@@ -370,7 +371,11 @@ export default async function StateHubPage({
                 // instead of "Start Prelicensing"; WA exam-prep prelicensing IS
                 // live, so it keeps "Start Prelicensing". Live states unchanged.
                 {
-                  text: prelicensingHeld ? "Prelicensing — Opening Soon" : "Start Prelicensing",
+                  text: prelicensingHeld
+                    ? "Prelicensing — Opening Soon"
+                    : isOptionalExamPrep
+                    ? "Explore Exam Prep"
+                    : "Start Prelicensing",
                   href: `/${stateData.slug}/prelicensing`,
                 },
                 // "Renew with CE" implies a live, purchasable CE renewal path.
@@ -450,12 +455,16 @@ export default async function StateHubPage({
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-navy mb-3">Prelicensing</h3>
+                <h3 className="text-xl font-bold text-navy mb-3">
+                  {isOptionalExamPrep ? "Optional Exam Prep" : "Prelicensing"}
+                </h3>
                 <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
                   {ilWebinar ? (
                     // 50 Ill. Adm. Code 3119 — approved short format line
                     // replaces the unqualified self-paced claim on Illinois.
                     <>New to insurance? Get your {stateData.name} insurance license with a state-approved prelicensing course. {IL_WEBINAR_SHORT_LINE} Then pass the state exam.</>
+                  ) : isOptionalExamPrep ? (
+                    <>Prepare for your {stateData.name} insurance licensing exam with an optional, structured online study course. No course is required before the exam.</>
                   ) : (
                     <>New to insurance? Get your {stateData.name} insurance license with {prelicensingApproved ? "a state-approved" : "an online"} prelicensing course. Study online at your own pace, then pass the state exam.</>
                   )}
@@ -484,7 +493,7 @@ export default async function StateHubPage({
                   href={`/${stateData.slug}/prelicensing`}
                   className="block text-center bg-navy hover:bg-navy-light text-white font-bold py-3 px-6 rounded-lg transition-colors"
                 >
-                  Get My License &rarr;
+                  {isOptionalExamPrep ? "Explore Exam Prep" : "Get My License"} &rarr;
                 </Link>
               </div>
 
@@ -717,9 +726,15 @@ export default async function StateHubPage({
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <p className="text-2xl mb-2" aria-hidden="true">🎓</p>
-              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Prelicensing</h3>
+              <h3 className="font-bold text-navy text-sm mb-1">
+                {stateData.name} {isOptionalExamPrep ? "Exam Prep" : "Prelicensing"}
+              </h3>
               <p className="text-gray-500 text-xs leading-relaxed">
-                {prelicensingApproved ? "State-approved prelicensing courses for Life, Health, and Life & Health lines." : "Prelicensing courses for Life, Health, and Life & Health lines."}
+                {isOptionalExamPrep
+                  ? "Optional online exam-prep courses for Life, Health, and Life & Health lines."
+                  : prelicensingApproved
+                  ? "State-approved prelicensing courses for Life, Health, and Life & Health lines."
+                  : "Prelicensing courses for Life, Health, and Life & Health lines."}
               </p>
             </Link>
             {!ilWebinar && (
@@ -741,7 +756,7 @@ export default async function StateHubPage({
               <p className="text-2xl mb-2" aria-hidden="true">📝</p>
               <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Practice Exam</h3>
               <p className="text-gray-500 text-xs leading-relaxed">
-                Free practice questions modeled on the real {stateData.name} exam.
+                Free exam-style questions covering published {stateData.name} licensing topics.
               </p>
             </Link>
             <Link
@@ -816,7 +831,7 @@ export default async function StateHubPage({
               {
                 icon: "🎓",
                 title: "Built to Pass",
-                desc: "Practice exams that mirror your actual state exam, flashcards, and video lessons taught by licensed experts.",
+                desc: "Exam-style practice questions covering published licensing topics, plus flashcards and video lessons taught by licensed experts.",
               },
               {
                 icon: "💬",
@@ -1029,6 +1044,8 @@ export default async function StateHubPage({
               : `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
             // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
             // "self-paced" claim for the approved hybrid format line.
+            : isOptionalExamPrep
+            ? `Explore optional online ${stateData.name} exam prep with self-paced study and instant access. No course is required before the licensing exam.`
             : ilWebinar
             ? `Enroll in a state-approved prelicensing course today. ${IL_WEBINAR_SHORT_LINE}`
             : !prelicensingApproved
@@ -1037,7 +1054,7 @@ export default async function StateHubPage({
             ? "Enroll in a state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee."
             : "Enroll in a state-approved prelicensing course today. 100% online, self-paced, with instant access the moment you enroll."
         }
-        ctaText={prelicensingHeld ? "Learn More" : "Browse Courses"}
+        ctaText={prelicensingHeld ? "Learn More" : isOptionalExamPrep ? "Explore Exam Prep" : "Browse Courses"}
         ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>

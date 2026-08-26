@@ -512,7 +512,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "alert",
         title: "Alaska does not offer a combined Life & Health exam",
-        body: "Alaska has no single combined Life & Health exam — Life and Accident & Health are separate exams. If you plan to sell both lines and test in person at a Pearson VUE center, you can sit both exams in one session for a single exam fee; testing online via OnVUE is charged per exam. Prelicensing education is not required, but focused study materials meaningfully improve first-attempt pass rates given the depth of Alaska-specific content.",
+        body: "Alaska has no single combined Life & Health exam — Life and Accident & Health are separate exams. If you plan to sell both lines and test in person at a Pearson VUE center, you can sit both exams in one session for a single exam fee; testing online via OnVUE is charged per exam. Education before the exam is not required; optional study materials can help you review the published Alaska exam topics.",
       },
       {
         kind: "tip",

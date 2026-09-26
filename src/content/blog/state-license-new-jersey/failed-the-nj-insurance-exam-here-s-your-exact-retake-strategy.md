@@ -68,7 +68,7 @@ Identify the specific subsections where you lost points and work through scenari
 
 ## Step 4: Take Two Full Practice Exams Under Exam Conditions
 
-Before you schedule your retake with PSI, take at least two complete, timed practice exams under conditions that mirror the real exam. That means: no notes, no phone, no breaks, the same scored-question count as your actual exam line (Life 83, Health 88, Property 79, Casualty 91) timed to 210 minutes, complete the entire exam before reviewing anything.
+Before you schedule your retake with PSI, take at least two complete, timed practice exams under closed-book conditions. That means: no notes, no phone, no breaks, use the published scored-question count for your exam line (Life 83, Health 88, Property 79, Casualty 91), complete the entire practice session before reviewing anything.
 
 Your target for both practice exams should be a consistent score of 75% or higher — a 5-point buffer above the passing threshold. If you are hitting 75%+ consistently on full practice exams with genuine weakness in the sections your diagnostic identified, you are ready to retake.
 

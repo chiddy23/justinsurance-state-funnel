@@ -1,7 +1,12 @@
 import fs from "fs";
 import path from "path";
 import { ALL_STATE_SLUGS, getStateBySlug } from "./states";
-import { isPrelicensingHeld } from "./prelicensing-status";
+import {
+  isCeAvailable,
+  isPrelicensingHeld,
+  isPrelicensingLineAvailable,
+  type PrelicensingLine,
+} from "./prelicensing-status";
 import { ALL_LOA_SLUGS } from "./loa";
 
 export interface SitemapEntry {
@@ -36,7 +41,7 @@ function todayString(): string {
  *   29  — blog cluster pages       (/blog/[cluster])
  *   279 — blog post pages          (/blog/[cluster]/[slug])
  * ──────
- *   ~813 total (minus /new-york filtered entries)
+ *   ~813 total (availability gates remove held/unavailable products)
  */
 export function generateSitemapEntries(): SitemapEntry[] {
   const lastModified = todayString();
@@ -87,6 +92,8 @@ export function generateSitemapEntries(): SitemapEntry[] {
   for (const stateSlug of ALL_STATE_SLUGS) {
     const stForHold = getStateBySlug(stateSlug);
     const prelicHeld = stForHold ? isPrelicensingHeld(stForHold) : false;
+    const nyCeUnavailable =
+      stateSlug === "new-york" && stForHold && !isCeAvailable(stForHold);
 
     // State hub page
     entries.push({
@@ -107,12 +114,14 @@ export function generateSitemapEntries(): SitemapEntry[] {
     }
 
     // CE hub page
-    entries.push({
-      url: `${BASE_URL}/${stateSlug}/continuing-education`,
-      lastModified,
-      changeFrequency: "monthly",
-      priority: 0.85,
-    });
+    if (!nyCeUnavailable) {
+      entries.push({
+        url: `${BASE_URL}/${stateSlug}/continuing-education`,
+        lastModified,
+        changeFrequency: "monthly",
+        priority: 0.85,
+      });
+    }
 
     // Requirements page
     entries.push({
@@ -133,6 +142,15 @@ export function generateSitemapEntries(): SitemapEntry[] {
     // Individual prelicensing course pages (excluded while held)
     if (!prelicHeld) {
       for (const loaSlug of ALL_LOA_SLUGS) {
+        if (
+          stForHold &&
+          !isPrelicensingLineAvailable(
+            stForHold,
+            loaSlug as PrelicensingLine,
+          )
+        ) {
+          continue;
+        }
         entries.push({
           url: `${BASE_URL}/${stateSlug}/prelicensing/${loaSlug}`,
           lastModified,
@@ -143,13 +161,15 @@ export function generateSitemapEntries(): SitemapEntry[] {
     }
 
     // Individual CE course pages (one per LOA)
-    for (const loaSlug of ALL_LOA_SLUGS) {
-      entries.push({
-        url: `${BASE_URL}/${stateSlug}/continuing-education/${loaSlug}`,
-        lastModified,
-        changeFrequency: "monthly",
-        priority: 0.7,
-      });
+    if (!nyCeUnavailable) {
+      for (const loaSlug of ALL_LOA_SLUGS) {
+        entries.push({
+          url: `${BASE_URL}/${stateSlug}/continuing-education/${loaSlug}`,
+          lastModified,
+          changeFrequency: "monthly",
+          priority: 0.7,
+        });
+      }
     }
   }
 
@@ -192,5 +212,5 @@ export function generateSitemapEntries(): SitemapEntry[] {
     });
   }
 
-  return entries.filter((entry) => !entry.url.includes("/new-york"));
+  return entries;
 }

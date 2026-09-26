@@ -8,10 +8,20 @@ interface Props {
   practiceExams?: PracticeExams;
   /** When provided, render a single-LOA focused CTA (e.g. on a Life prelicensing page) */
   loa?: "Life" | "Health" | "Life + Health";
+  /** True when Life and Health require separate state exams. */
+  noCombinedExam?: boolean;
 }
 
-export default function PracticeExamCTA({ stateName, stateSlug, practiceExams, loa }: Props) {
+export default function PracticeExamCTA({
+  stateName,
+  stateSlug,
+  practiceExams,
+  loa,
+  noCombinedExam = false,
+}: Props) {
   if (!practiceExams) return null;
+
+  const price = practiceExams.price ?? "$59";
 
   const directUrl = loa
     ? loa === "Life"
@@ -32,27 +42,31 @@ export default function PracticeExamCTA({ stateName, stateSlug, practiceExams, l
               </p>
               <h3 className="text-2xl md:text-3xl font-bold mb-3">
                 {loa
-                  ? `Ready for the ${stateName} ${loa} exam?`
+                  ? loa === "Life + Health" && noCombinedExam
+                    ? `Preparing for the ${stateName} Life and Health exams?`
+                    : `Ready for the ${stateName} ${loa} exam?`
                   : `Boost Your ${stateName} Exam Score`}
               </h3>
               <p className="text-blue-100 leading-relaxed">
                 {loa
-                  ? `Take our full-length ${stateName} ${loa} practice exam. Score 80%+ three times in a row and walk into the real exam confident. $59 — instant access.`
-                  : `Full-length practice exams that mirror the real state exam. Detailed answer explanations, unlimited retakes. Life, Health, and Life + Health — $59 each.`}
+                  ? loa === "Life + Health" && noCombinedExam
+                    ? `Use our ${stateName} Life and Health practice package to review licensing topics for both separate exams and identify areas that need more study. ${price} — instant access.`
+                    : `Take our full-length ${stateName} ${loa} practice exam to review licensing topics and identify areas that need more study. ${price} — instant access.`
+                  : `Full-length exam-style practice questions covering published licensing topics, with detailed answer explanations and unlimited retakes. Life, Health, and Life + Health — ${price} each.`}
               </p>
             </div>
             <div className="flex flex-col gap-2 min-w-[200px]">
               {directUrl ? (
                 <AddToCartLink
                   href={directUrl}
-                  price="$59"
+                  price={price}
                   state={stateSlug}
                   loa={loa}
                   courseType="practice-exam"
                   itemName={`${stateName} ${loa} Practice Exam`}
                   className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
                 >
-                  Buy &amp; Start — $59
+                  Buy &amp; Start — {price}
                 </AddToCartLink>
               ) : null}
               <Link

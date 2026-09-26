@@ -48,7 +48,7 @@ Once you have completed the required [pre-licensing](/ohio/prelicensing) hours, 
 
 On test day, arrive early. You will need two forms of identification. Some testing centers provide calculators for math-related questions, but check ahead so you know what to bring. The exam itself typically includes multiple-choice questions that measure both your knowledge of key insurance principles and your familiarity with state regulations.
 
-Here is a simple tip for exam success: pay attention to any practice quizzes or sample exams in your course. They often closely mirror the style and structure of real test questions. By mimicking the real exam environment, you reduce anxiety and get used to pacing yourself. Most people pass on their first try. If you need a second attempt, that is okay—just study the areas that gave you trouble and reapply when you are ready.
+Here is a simple tip for exam success: pay attention to any practice quizzes or sample exams in your course. They help you apply important concepts and identify weak areas. By practicing under timed, closed-book conditions, you can reduce anxiety and get used to pacing yourself. Most people pass on their first try. If you need a second attempt, that is okay—just study the areas that gave you trouble and reapply when you are ready.
 
 ## Submit your Ohio insurance license application
 

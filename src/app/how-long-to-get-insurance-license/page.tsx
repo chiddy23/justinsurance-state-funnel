@@ -19,7 +19,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArti
 export const metadata: Metadata = {
   title: { absolute: "Insurance License in 2–6 Weeks: Step-by-Step Timeline" },
   description:
-    "Most people get licensed in 2–6 weeks. Full-time study in a fast-issuing state like TX or FL can cut that to under 2 weeks. Courses from $199. Step-by-step timeline inside.",
+    "How long does it take to get an insurance license? Compare the 2–6 week timeline by state, including coursework, exam, fingerprints, and approval.",
   alternates: { canonical: "https://justinsuranceco.com/how-long-to-get-insurance-license" },
 };
 
@@ -186,7 +186,7 @@ const TABLE_STATES: Array<{ slug: string; hours: string; notes: string }> = [
   // hours is the shortest MANDATORY requirement, not the shortest overall.
   { slug: "georgia", hours: "8 hr per line (16 combined, post-Jun 2025)", notes: "Shortest mandatory prelicensing hours in the Southeast; NC, SC, TN, AL, VA and LA require none" },
   { slug: "california", hours: "12 hr Ethics & Code (post-AB 943)", notes: "Live Scan fingerprints; CDI manual review" },
-  { slug: "new-york", hours: "20 hr per line (40 combined)", notes: "DFS producer licensing; provider approval issued; course not yet live" },
+  { slug: "new-york", hours: "20 hr per line (40 combined)", notes: "DFS producer licensing; JustInsurance Life prelicensing is live, while Health and combined prelicensing are not currently available" },
   { slug: "illinois", hours: "20 hr per line (40 combined)", notes: "Part of the hours must be live, attendance-verified webinar" },
   { slug: "ohio", hours: "20 hr per line (40 combined)", notes: "ODI uses Sircon for producer licensing" },
   { slug: "pennsylvania", hours: "Not required (optional)", notes: "PID producer licensing" },
@@ -515,7 +515,7 @@ export default function HowLongToGetInsuranceLicensePage() {
           </div>
           <div className="mt-8 bg-navy/5 border border-navy/10 rounded-xl p-5 text-sm text-gray-700 leading-relaxed">
             <strong className="text-navy">Note on exam scheduling.</strong> Both{" "}
-            <a href="https://home.pearsonvue.com/insurance" target="_blank" rel="noopener" className="underline">Pearson VUE</a> and{" "}
+            <a href="https://www.pearsonvue.com/us/en/test-takers.html" target="_blank" rel="noopener" className="underline">Pearson VUE</a> and{" "}
             <a href="https://www.psiexams.com/" target="_blank" rel="noopener" className="underline">PSI Exams</a> publish real-time seat availability on their candidate portals. {EXAM_VENDOR_NOTE} Check your own state page for the vendor it uses.
           </div>
         </div>
@@ -538,7 +538,7 @@ export default function HowLongToGetInsuranceLicensePage() {
             </Link>
             <Link href="/practice-exam" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Practice Exams</h3>
-              <p className="text-gray-600 text-sm">Full-length practice tests that mirror the real state exam — $59 per state.</p>
+              <p className="text-gray-600 text-sm">Full-length, state-specific practice tests built around published exam content outlines — $59 per state.</p>
             </Link>
             <Link href="/pass-rates" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Pass Rate Data</h3>

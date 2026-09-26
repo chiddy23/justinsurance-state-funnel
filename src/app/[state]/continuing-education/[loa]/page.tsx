@@ -26,6 +26,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
 import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
+import AddToCartLink from "@/components/AddToCartLink";
 import { isCeAvailable, isCeApprovedComingSoon } from "@/lib/prelicensing-status";
 
 type CatalogLinks = typeof catalogLinks;
@@ -66,6 +67,52 @@ const CE_TOPICS: Record<LOASlug, string[]> = {
   ],
 };
 
+type FloridaCePackageOption = {
+  hours: 20 | 24;
+  sku: string;
+  includedCourses: [string, string];
+};
+
+// Florida publishes separate 20- and 24-hour L/H package curricula. Keep the
+// choice on our state page so buyers select the hours shown in their FLDFS
+// MyProfile account instead of landing in an undifferentiated LMS catalog.
+const FLORIDA_CE_PACKAGE_OPTIONS: Partial<Record<LOASlug, FloridaCePackageOption[]>> = {
+  life: [
+    { hours: 20, sku: "fl-ce-life-20", includedCourses: ["4-hour Law & Ethics Update", "16 hours of Life-only CE"] },
+    { hours: 24, sku: "fl-ce-life-24", includedCourses: ["4-hour Law & Ethics Update", "20 hours of Life-only CE"] },
+  ],
+  health: [
+    { hours: 20, sku: "fl-ce-health-20", includedCourses: ["4-hour Law & Ethics Update", "16 hours of Health-only CE"] },
+    { hours: 24, sku: "fl-ce-health-24", includedCourses: ["4-hour Law & Ethics Update", "20 hours of Health-only CE"] },
+  ],
+  "life-and-health": [
+    { hours: 20, sku: "fl-ce-life-health-20", includedCourses: ["4-hour Law & Ethics Update", "16 hours of Life & Health CE"] },
+    { hours: 24, sku: "fl-ce-life-health-24", includedCourses: ["4-hour Law & Ethics Update", "20 hours of Life & Health CE"] },
+  ],
+};
+
+type MassachusettsCePackageOption = {
+  hours: 45 | 60;
+  sku: string;
+  price: "$106.50" | "$129";
+  renewalLabel: string;
+};
+
+const MASSACHUSETTS_CE_PACKAGE_OPTIONS: Partial<Record<LOASlug, MassachusettsCePackageOption[]>> = {
+  life: [
+    { hours: 45, sku: "ma-ce-life-45", price: "$106.50", renewalLabel: "Renewals after your first" },
+    { hours: 60, sku: "ma-ce-life-60", price: "$129", renewalLabel: "Your first renewal" },
+  ],
+  health: [
+    { hours: 45, sku: "ma-ce-health-45", price: "$106.50", renewalLabel: "Renewals after your first" },
+    { hours: 60, sku: "ma-ce-health-60", price: "$129", renewalLabel: "Your first renewal" },
+  ],
+  "life-and-health": [
+    { hours: 45, sku: "ma-ce-life-health-45", price: "$106.50", renewalLabel: "Renewals after your first" },
+    { hours: 60, sku: "ma-ce-life-health-60", price: "$129", renewalLabel: "Your first renewal" },
+  ],
+};
+
 export function generateStaticParams() {
   return generateStateLOAParams();
 }
@@ -83,7 +130,7 @@ export async function generateMetadata({
   // CE (WA #300632 approved-but-coming-soon / NY pending) → coming-soon title +
   // the description below, never "Same-Day Reporting / state-approved / From $39".
   // Live states are byte-identical.
-  return generatePageMetadata({
+  const metadata = generatePageMetadata({
     pageType: "ce-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
@@ -92,11 +139,19 @@ export async function generateMetadata({
     loaSlug: loaDef.slug,
     hours: stateData.ce.totalHours,
     price: stateData.ce.packagePrice,
-    available: isCeAvailable(stateData),
-    comingSoonDescription: isCeApprovedComingSoon(stateData)
+    available:
+      isCeAvailable(stateData) && stateData.cePackagesLive !== false,
+    comingSoonDescription: stateData.cePackagesLive === false
+      ? `A complete ${stateData.name} ${loaDef.name} CE package is not currently available. Approved individual ${stateData.name} CE courses remain available in the course catalog.`
+      : stateData.ceApproved === false
+      ? `JustInsurance does not currently offer ${stateData.name} ${loaDef.name} CE courses.`
+      : isCeApprovedComingSoon(stateData)
       ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — ${stateData.name} ${loaDef.name} CE courses are coming soon.`
       : `Our ${stateData.name} CE provider approval is pending; ${stateData.name} ${loaDef.name} CE courses are not yet available.`,
   });
+  return stateData.ceApproved === false
+    ? { ...metadata, robots: { index: false, follow: true } }
+    : metadata;
 }
 
 export default async function CECoursePage({
@@ -121,14 +176,23 @@ export default async function CECoursePage({
   // soon" WITH the provider number) from a genuinely pending approval (the
   // fallback "approval pending" copy — no state is pending today, kept as a
   // safety net). Available states render byte-identically.
-  const providerApproved = isCeAvailable(stateData);
-  const ceComingSoon = isCeApprovedComingSoon(stateData);
+  const individualCoursesAvailable = isCeAvailable(stateData);
+  const packageUnavailable =
+    individualCoursesAvailable && stateData.cePackagesLive === false;
+  const providerApproved =
+    individualCoursesAvailable && !packageUnavailable;
+  const ceComingSoon =
+    isCeApprovedComingSoon(stateData) || packageUnavailable;
   // Truthful coming-soon copy for the not-available branch, reused by the
   // Article JSON-LD description and the hero subtitle so neither asserts
   // same-day reporting, "state-approved", or a purchasable "$39". WA (#300632)
   // is an approved-but-not-live CE provider; NY's CE approval is still pending
   // (ceApproved:false), so it falls to the "approval pending" wording.
-  const ceComingSoonDescription = ceComingSoon
+  const ceComingSoonDescription = stateData.ceApproved === false
+    ? `JustInsurance does not currently offer this ${stateData.name} ${loaDef.name} CE course.`
+    : packageUnavailable
+    ? `A complete ${stateData.name} ${loaDef.name} CE package is not currently available. Approved individual ${stateData.name} CE courses remain available in the course catalog.`
+    : ceComingSoon
     ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — this ${stateData.name} ${loaDef.name} CE course is coming soon.`
     : `Our ${stateData.name} CE provider approval is pending; this course is not yet available.`;
   // First-term CE rule: some states require MORE hours before a producer's FIRST
@@ -142,15 +206,18 @@ export default async function CECoursePage({
   // their copy renders byte-identically.
   const firstTermHours =
     ce.firstTermHours && ce.firstTermHours > ce.totalHours ? ce.firstTermHours : undefined;
-  const firstTermExtraHours = firstTermHours ? firstTermHours - ce.totalHours : 0;
   // "45 required CE hours" would tell a first-term licensee that 45 is their
   // total. Qualify it to the renewal cycle for those states only.
-  const ceHoursPhrase = firstTermHours
-    ? `${ce.totalHours} renewal-cycle CE hours`
-    : `${ce.totalHours} required CE hours`;
-  const ceRequirementPhrase = firstTermHours
-    ? `${ce.totalHours}-hour renewal-cycle CE requirement`
-    : `${ce.totalHours}-hour CE requirement`;
+  const ceHoursPhrase = stateData.slug === "florida"
+    ? "20- or 24-hour CE requirement shown in your FLDFS record"
+    : firstTermHours
+      ? `${ce.totalHours} renewal-cycle CE hours`
+      : `${ce.totalHours} required CE hours`;
+  const ceRequirementPhrase = stateData.slug === "florida"
+    ? "20- or 24-hour CE requirement shown in FLDFS MyProfile"
+    : firstTermHours
+      ? `${ce.totalHours}-hour renewal-cycle CE requirement`
+      : `${ce.totalHours}-hour CE requirement`;
   // The generic CourseFeatures "Self-Paced Online" card claims "No classroom
   // required." That is FALSE for states whose CE rules mandate a minimum number
   // of classroom / live-instructor / classroom-equivalent hours a purely
@@ -187,11 +254,29 @@ export default async function CECoursePage({
     }
   }
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
-  const faqs = getCECourseFAQs(
+  const floridaCePackages =
+    stateData.slug === "florida" ? FLORIDA_CE_PACKAGE_OPTIONS[loaDef.slug] : undefined;
+  const massachusettsCePackages = stateData.slug === "massachusetts"
+    ? MASSACHUSETTS_CE_PACKAGE_OPTIONS[loaDef.slug]
+    : undefined;
+  const purchaseLink = floridaCePackages
+    ? "#florida-ce-packages"
+    : massachusettsCePackages
+      ? "#massachusetts-ce-packages"
+      : enrollLink;
+  const baseFaqs = getCECourseFAQs(
     buildFaqData(stateData),
     loaDef.name,
     ce.totalHours
   );
+  const faqs = stateData.slug === "florida"
+    ? baseFaqs.map((faq, index) => index === 0
+      ? {
+          ...faq,
+          answer: `Florida generally requires 24 CE hours every 2 years: a 4-hour Law and Ethics Update plus 20 elective hours. A licensee who has been licensed for 6 or more years generally receives a reduction to 20 total hours: the 4-hour update plus 16 elective hours. Reductions and license-specific requirements appear in your FLDFS MyProfile account, so confirm the hours shown there before choosing a package. JustInsurance offers both the 20-hour and 24-hour ${loaDef.name} CE packages for $39.`,
+        }
+      : faq)
+    : baseFaqs;
   const ceTopics = CE_TOPICS[loaDef.slug];
 
   const courseSchema = generateCourseSchema({
@@ -200,7 +285,7 @@ export default async function CECoursePage({
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
     courseType: "continuing-education",
-    available: isCeAvailable(stateData),
+    available: providerApproved,
     hours: ce.totalHours,
     price: ce.packagePrice,
     description: providerApproved
@@ -223,7 +308,7 @@ export default async function CECoursePage({
 
   const articleHeadline = `${stateData.name} ${loaDef.name} Continuing Education Course`;
   const articleDescription = providerApproved
-    ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`
+    ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. ${massachusettsCePackages ? `Packages from ${ce.packagePrice}.` : `Only ${ce.packagePrice}.`}`
     : ceComingSoonDescription;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
@@ -266,12 +351,12 @@ export default async function CECoursePage({
         title={`${stateData.name} ${loaDef.name} Continuing Education Course`}
         subtitle={
           providerApproved
-            ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`
+            ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. ${massachusettsCePackages ? `Packages from ${ce.packagePrice}.` : `Only ${ce.packagePrice}.`}`
             : ceComingSoonDescription
         }
         ctaButtons={
           providerApproved
-            ? [{ text: `Enroll Now — ${ce.packagePrice}`, href: enrollLink }]
+            ? [{ text: floridaCePackages || massachusettsCePackages ? `Choose Your Package — from ${ce.packagePrice}` : `Enroll Now — ${ce.packagePrice}`, href: purchaseLink }]
             : [{ text: "View CE Requirements", href: "#ce-requirements" }]
         }
       />
@@ -291,12 +376,22 @@ export default async function CECoursePage({
         <div id="ce-requirements" className="bg-navy-dark px-4 pb-8">
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-gold font-semibold text-base md:text-lg">
-              {ceComingSoon
+              {packageUnavailable
+                ? `Complete ${stateData.name} CE packages are not currently available.`
+                : ceComingSoon
                 ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                : stateData.ceApproved === false
+                ? `Not currently offered by JustInsurance. No payment link is shown.`
                 : `Opening soon — our ${stateData.name} CE provider approval is pending.`}
             </p>
             <p className="text-blue-200 text-sm leading-relaxed mt-2 max-w-2xl mx-auto">
-              {ceComingSoon ? (
+              {packageUnavailable ? (
+                <>
+                  Approved individual {stateData.name} CE courses remain available in
+                  the course catalog. Confirm your remaining hours and required topics
+                  with the {stateData.doiName} before selecting courses.
+                </>
+              ) : ceComingSoon ? (
                 <>
                   We&apos;re an approved {stateData.name} CE provider and are preparing
                   our {loaDef.name} CE courses now — we&apos;ll open enrollment as soon
@@ -351,12 +446,145 @@ export default async function CECoursePage({
                 {stateData.name} requires {firstTermHours} CE hours before your <strong>first</strong>{" "}
                 license renewal
                 {ce.ethicsHours > 0 ? ` (including the same ${ce.ethicsHours} ethics hours)` : ""}, then{" "}
-                {ce.totalHours} hours every {ce.renewalPeriod} for each renewal after that. This{" "}
-                {ce.packagePrice} package covers the {ce.totalHours} hours required for a standard renewal
-                cycle, so if you are heading into your first renewal you need {firstTermExtraHours} additional
-                CE hours. Confirm your own requirement with the {stateData.doiName} before you enroll.
+                {ce.totalHours} hours every {ce.renewalPeriod} for each renewal after that. Choose the{" "}
+                {firstTermHours}-hour package for your first renewal or the {ce.totalHours}-hour package for
+                later renewals. Confirm your own requirement with the {stateData.doiName} before you enroll.
               </p>
             </div>
+          </div>
+        </section>
+      ) : null}
+
+      {providerApproved && floridaCePackages ? (
+        <section id="florida-ce-packages" className="bg-white px-4 py-14 scroll-mt-24">
+          <div className="max-w-4xl mx-auto">
+            <div className="text-center mb-8">
+              <p className="text-sm font-bold uppercase tracking-wide text-blue-700 mb-2">
+                Florida CE packages
+              </p>
+              <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+                Select Your Florida CE Package
+              </h2>
+              <p className="text-gray-600 max-w-2xl mx-auto leading-relaxed">
+                Choose the 20- or 24-hour option listed in your FLDFS MyProfile. If you&apos;re unsure, verify your requirement before enrolling.
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {floridaCePackages.map((option) => {
+                const checkoutHref = `https://checkout.justinsuranceco.com/checkout?sku=${option.sku}`;
+                return (
+                  <article key={option.sku} className="min-h-[330px] rounded-2xl border-2 border-gray-200 bg-white p-7 shadow-sm flex flex-col transition-shadow hover:shadow-md">
+                    <p className="mb-4 inline-flex w-fit rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-blue-800">
+                      {option.hours}-Hour Option
+                    </p>
+                    <div className="flex items-start justify-between gap-4 mb-4">
+                      <div>
+                        <h3 className="text-xl font-bold text-navy">{option.hours}-Hour Package</h3>
+                        <p className="mt-1 text-sm text-gray-500">Florida {loaDef.shortName} continuing education</p>
+                      </div>
+                      <div className="text-right flex-shrink-0">
+                        <span className="block text-2xl font-extrabold text-navy">$39</span>
+                        <span className="text-xs text-gray-500">total</span>
+                      </div>
+                    </div>
+                    <div className="mb-6 flex-grow border-t border-gray-100 pt-4">
+                      <p className="mb-3 text-xs font-bold uppercase tracking-wide text-gray-500">Package includes</p>
+                      <ul className="space-y-2.5">
+                        {[...option.includedCourses, "Online, self-paced access", "Typically same-day completion reporting"].map((feature) => (
+                          <li key={feature} className="flex items-start gap-2.5 text-sm leading-relaxed text-gray-700">
+                            <svg className="mt-0.5 h-4 w-4 flex-shrink-0 text-success-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+                            </svg>
+                            <span>{feature}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                    <AddToCartLink
+                      href={checkoutHref}
+                      price="$39"
+                      state="florida"
+                      loa={loaDef.slug}
+                      courseType="continuing-education"
+                      itemName={`Florida ${option.hours}-Hour ${loaDef.shortName} CE Package`}
+                      className="block rounded-lg bg-gold px-5 py-3 text-center font-bold text-gray-dark transition-colors hover:bg-gold-dark"
+                    >
+                      Enroll in the {option.hours}-Hour Package — $39
+                    </AddToCartLink>
+                  </article>
+                );
+              })}
+            </div>
+            <p className="text-center text-xs text-gray-500 mt-5">
+              Not sure which package applies? Confirm your outstanding hours in FLDFS MyProfile before purchasing.
+            </p>
+          </div>
+        </section>
+      ) : null}
+
+      {providerApproved && massachusettsCePackages ? (
+        <section id="massachusetts-ce-packages" className="bg-white px-4 py-14 scroll-mt-24">
+          <div className="max-w-4xl mx-auto">
+            <div className="text-center mb-8">
+              <p className="text-sm font-bold uppercase tracking-wide text-blue-700 mb-2">
+                Massachusetts CE packages
+              </p>
+              <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+                Select the Package for Your Renewal
+              </h2>
+              <p className="text-gray-600 max-w-2xl mx-auto leading-relaxed">
+                Choose 60 hours before your first renewal or 45 hours for each renewal after that. Both options include 3 hours of ethics.
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {massachusettsCePackages.map((option) => {
+                const checkoutHref = `https://checkout.justinsuranceco.com/checkout?sku=${option.sku}`;
+                return (
+                  <article key={option.sku} className="min-h-[330px] rounded-2xl border-2 border-gray-200 bg-white p-7 shadow-sm flex flex-col transition-shadow hover:shadow-md">
+                    <p className="mb-4 inline-flex w-fit rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-blue-800">
+                      {option.renewalLabel}
+                    </p>
+                    <div className="flex items-start justify-between gap-4 mb-4">
+                      <div>
+                        <h3 className="text-xl font-bold text-navy">{option.hours}-Hour Package</h3>
+                        <p className="mt-1 text-sm text-gray-500">Massachusetts {loaDef.shortName} continuing education</p>
+                      </div>
+                      <div className="text-right flex-shrink-0">
+                        <span className="block text-2xl font-extrabold text-navy">{option.price}</span>
+                        <span className="text-xs text-gray-500">total</span>
+                      </div>
+                    </div>
+                    <div className="mb-6 flex-grow border-t border-gray-100 pt-4">
+                      <p className="mb-3 text-xs font-bold uppercase tracking-wide text-gray-500">Package includes</p>
+                      <ul className="space-y-2.5">
+                        {[`${option.hours} total CE credit hours`, "3 hours of ethics coursework", "Online, self-paced access", "Typically same-day completion reporting"].map((feature) => (
+                          <li key={feature} className="flex items-start gap-2.5 text-sm leading-relaxed text-gray-700">
+                            <svg className="mt-0.5 h-4 w-4 flex-shrink-0 text-success-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+                            </svg>
+                            <span>{feature}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                    <AddToCartLink
+                      href={checkoutHref}
+                      price={option.price}
+                      state="massachusetts"
+                      loa={loaDef.slug}
+                      courseType="continuing-education"
+                      itemName={`Massachusetts ${option.hours}-Hour ${loaDef.shortName} CE Package`}
+                      className="block rounded-lg bg-gold px-5 py-3 text-center font-bold text-gray-dark transition-colors hover:bg-gold-dark"
+                    >
+                      Enroll in the {option.hours}-Hour Package — {option.price}
+                    </AddToCartLink>
+                  </article>
+                );
+              })}
+            </div>
+            <p className="text-center text-xs text-gray-500 mt-5">
+              Not sure which package applies? Confirm whether this is your first renewal with the Massachusetts Division of Insurance before purchasing.
+            </p>
           </div>
         </section>
       ) : null}
@@ -385,12 +613,15 @@ export default async function CECoursePage({
         </section>
       )}
 
-      <CourseOverviewBox
-        hours={ce.totalHours}
-        price={providerApproved ? ce.packagePrice : "Coming soon"}
-        accessDuration="365 Days"
-        includes={[
-          firstTermHours
+      {providerApproved && (
+        <CourseOverviewBox
+          hours={floridaCePackages ? "20 / 24" : ce.totalHours}
+          price={ce.packagePrice}
+          accessDuration="30 Days"
+          includes={[
+            floridaCePackages
+              ? "The CE hours in your selected package"
+              : firstTermHours
             ? `All ${ce.totalHours} renewal-cycle CE hours`
             : stateData.slug === "new-mexico"
               ? `Covers ${ce.totalHours} self-paced CE hours`
@@ -401,8 +632,9 @@ export default async function CECoursePage({
           ...(providerApproved ? ["Same-day DOI reporting"] : []),
           "Instant certificate of completion",
           "Expert support",
-        ]}
-      />
+          ]}
+        />
+      )}
 
       {/* Same-Day DOI Reporting Feature Row — hidden for pending-approval states. */}
       {providerApproved && (
@@ -444,7 +676,9 @@ export default async function CECoursePage({
               {
                 step: "2",
                 title: "Complete Your CE",
-                desc: `Finish your ${ce.totalHours}-hour ${loaDef.name} CE course online at your own pace — takes just a few hours.`,
+                desc: stateData.slug === "florida"
+                  ? `Finish the 20- or 24-hour ${loaDef.name} CE package shown in your FLDFS account, online at your own pace.`
+                  : `Finish your ${ce.totalHours}-hour ${loaDef.name} CE course online at your own pace — takes just a few hours.`,
               },
               {
                 step: "3",
@@ -478,7 +712,11 @@ export default async function CECoursePage({
             CE Topics Covered
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
-            {providerApproved ? "This state-approved course covers" : "This course covers"} all required topics for your {stateData.name} {loaDef.name} CE renewal.
+            {providerApproved
+              ? `This state-approved course covers all required topics for your ${stateData.name} ${loaDef.name} CE renewal.`
+              : packageUnavailable
+              ? `These are common ${stateData.name} ${loaDef.name} CE subject areas. Confirm your remaining requirements before selecting individual courses.`
+              : `This course covers all required topics for your ${stateData.name} ${loaDef.name} CE renewal.`}
           </p>
           <div className="bg-white rounded-xl p-6 md:p-8 shadow-sm">
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -519,7 +757,7 @@ export default async function CECoursePage({
         variant="ce"
         ceEthicsWebinar={!!stateData.classroomWebinarHours}
         liveCeCard={liveCeCard}
-        providerApproved={isCeAvailable(stateData)}
+        providerApproved={providerApproved}
       />
 
       <TestimonialCards variant="ce" stateName={stateData.name} seed={stateData.slug} />
@@ -532,7 +770,7 @@ export default async function CECoursePage({
         stateName={stateData.name}
         doiName={stateData.doiName}
         sectionClassName="bg-white px-4 pb-12"
-        providerApproved={providerApproved}
+        providerApproved={individualCoursesAvailable}
       />
 
       <FAQAccordion
@@ -564,15 +802,15 @@ export default async function CECoursePage({
           <CTABanner
             title={`Renew Your ${stateData.name} ${loaDef.shortName} License Today`}
             subtitle={`Complete your ${ceRequirementPhrase} online. Only ${ce.packagePrice}. We typically report to the state same-day.`}
-            ctaText={`Enroll Now — ${ce.packagePrice}`}
-            ctaHref={enrollLink}
-            externalLink
+            ctaText={floridaCePackages ? `Choose Your Package — ${ce.packagePrice}` : `Enroll Now — ${ce.packagePrice}`}
+            ctaHref={purchaseLink}
+            externalLink={!floridaCePackages}
             disclosure={<RefundDisclosure />}
           />
 
           <StickyMobileCTA
-            text="Enroll Now"
-            href={enrollLink}
+            text={floridaCePackages ? "Choose Package" : "Enroll Now"}
+            href={purchaseLink}
             price={ce.packagePrice}
             state={state}
             loa={loa}
@@ -585,8 +823,12 @@ export default async function CECoursePage({
               {stateData.name} {loaDef.shortName} CE — Opening Soon
             </h2>
             <p className="text-blue-100 text-lg mb-4 leading-relaxed">
-              {ceComingSoon
+              {packageUnavailable
+                ? `Approved individual ${stateData.name} CE courses are available in the catalog, but a complete ${loaDef.name} package is not currently offered.`
+                : ceComingSoon
                 ? `We're an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}). Our ${loaDef.name} CE courses are coming soon — enrollment will open as soon as they're live.`
+                : stateData.ceApproved === false
+                ? `JustInsurance does not currently offer this ${stateData.name} CE course. Check the ${stateData.doiName} for approved providers and current requirements.`
                 : `Our ${stateData.name} CE provider approval is pending with the ${stateData.doiName}. Enrollment for this course will open as soon as approval is issued.`}
             </p>
             <p className="text-blue-200 text-sm leading-relaxed">

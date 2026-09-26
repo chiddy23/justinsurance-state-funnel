@@ -200,4 +200,4 @@ At in-person PSI test centers, scratch paper or an erasable notepad may be provi
 
 The Minnesota PSI insurance exam rewards candidates who prepare systematically, understand the exam's structure, and give specific attention to the state law section where most points are left on the table by underprepared candidates. Walk into the test center — or log into PSI Bridge — knowing the format, knowing Minnesota's specific rules, and knowing what to do when you encounter a question you are unsure about. The 70% passing standard is achievable for any candidate who treats prelicensing study as genuine exam preparation rather than a box to check.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course built to the current PSI content outline — including practice exams that mirror the actual test day experience.
+Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course built to the current PSI content outline — including timed, state-specific practice exams.

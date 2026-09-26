@@ -68,7 +68,7 @@ Reviewing sample questions gives you a taste of how the exam words its prompts. 
 4.  How soon can I retake the exam if I don’t pass initially?  
     Each state has different retake rules. You may be required to wait a certain number of days or pay an additional fee. This information is usually available through your state’s insurance department website.
 5.  Will practice tests cover everything on the exam?  
-    Practice tests mirror much of the exam’s scope, but you’ll need broader preparation too. Rely on a mix of textbooks, online materials, and review courses to fill any gaps.
+    Practice tests can cover many important exam topics, but you’ll need broader preparation too. Rely on a mix of textbooks, online materials, and review courses to fill any gaps.
 
 ## Find success with JustInsurance
 

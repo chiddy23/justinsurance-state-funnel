@@ -2,7 +2,7 @@ import React from "react";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { getGoogleReviews } from "@/lib/google-reviews";
 import { getStateBySlug } from "@/lib/states";
-import { isCeAvailable, isPrelicensingHeld } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, isCeAvailable, isPrelicensingHeld } from "@/lib/prelicensing-status";
 import TrustpilotMicroTrustScore from "@/components/TrustpilotMicroTrustScore";
 
 interface TrustSignal {
@@ -124,6 +124,11 @@ const STATE_STANDARDS_SIGNAL: TrustSignal = {
   label: "Built to State Standards",
   sub: "Aligned to the state exam outline",
 };
+const APPROVED_CE_SIGNAL: TrustSignal = {
+  icon: STATE_STANDARDS_SIGNAL.icon,
+  label: "State-Approved CE",
+  sub: "Exam prep offered separately",
+};
 const ONLINE_SELF_PACED_SIGNAL: TrustSignal = {
   icon: (
     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -145,9 +150,21 @@ interface TrustBarProps {
    * attempt; CE renewal has no state exam, so no CE purchase can ever
    * trigger it. Defaults true, so every existing caller renders unchanged. */
   passGuaranteeApplies?: boolean;
+  /** Set false when the product itself is not a state-approved course (for
+   * example, a standalone practice exam). The badge becomes the accurate
+   * "Built to State Standards" signal without changing other pages. */
+  stateApprovalApplies?: boolean;
+  /** Set false when this product has no completion-reporting workflow. The
+   * signal becomes "100% Online" instead of implying state reporting. */
+  sameDayReportingApplies?: boolean;
 }
 
-export default async function TrustBar({ stateSlug, passGuaranteeApplies = true }: TrustBarProps) {
+export default async function TrustBar({
+  stateSlug,
+  passGuaranteeApplies = true,
+  stateApprovalApplies = true,
+  sameDayReportingApplies = true,
+}: TrustBarProps) {
   // Live Google Business Profile rating + count (auto-updates via ISR; falls
   // back to the static display when no API key/place ID is configured).
   const google = await getGoogleReviews();
@@ -156,6 +173,11 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   // so that badge is swapped for a neutral "Built to State Standards" one.
   const state = stateSlug ? getStateBySlug(stateSlug) : undefined;
   const providerApproved = !state || state.providerApprovalNumber !== "PENDING";
+  const examPrepOnly = !!state && credentialKindFromHours([
+    state.prelicensing.life.hours,
+    state.prelicensing.health.hours,
+    state.prelicensing.lifeAndHealth.hours,
+  ]) === "ce";
 
   // R2: the "Same-Day Reporting" badge asserts a LIVE CE-reporting capability.
   // Provider approval alone is not enough to earn it — WA (#300632, CE courses
@@ -174,12 +196,16 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
   // eligibility hedge. State pages keep the short label (full terms render in
   // PassGuarantee on the same page); excluded states swap the signal entirely.
   const base = TRUST_SIGNALS.map((signal) => {
+    if (!stateApprovalApplies && signal.label === "State-Approved")
+      return STATE_STANDARDS_SIGNAL;
     if (!providerApproved && signal.label === "State-Approved")
       return STATE_STANDARDS_SIGNAL;
+    if (examPrepOnly && signal.label === "State-Approved")
+      return APPROVED_CE_SIGNAL;
     // Same-Day Reporting is gated on CE being LIVE (isCeAvailable), not merely on
     // provider approval, so approved-but-coming-soon CE states (WA/NY) drop it too.
     // PENDING states have ceAvailable === false as well, so their output is unchanged.
-    if (!ceAvailable && signal.label === "Same-Day Reporting")
+    if ((!sameDayReportingApplies || !ceAvailable) && signal.label === "Same-Day Reporting")
       return ONLINE_SELF_PACED_SIGNAL;
     if (signal.label === "Pass Guarantee") {
       // Product-level gate runs BEFORE the state-level gate: on a CE surface the
@@ -206,15 +232,15 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
     return signal;
   });
   return (
-    <section className="bg-gray-bg border-b border-gray-200 py-4">
+    <section className="border-b border-gray-200 bg-gray-bg py-3 sm:py-4">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap justify-center gap-x-6 gap-y-4 lg:grid lg:grid-cols-8 lg:gap-0">
+        <div className="grid grid-flow-dense grid-cols-2 items-center gap-x-5 gap-y-4 sm:grid-cols-4 sm:gap-x-5 lg:grid-cols-8 lg:gap-x-0">
           {signals.map((signal) => {
             if (signal.officialWidget) {
               return (
                 <div
                   key={signal.label}
-                  className="flex min-w-[280px] items-center justify-center px-2 lg:col-span-2 lg:min-w-0"
+                  className="order-last col-span-2 mt-1 flex min-h-8 min-w-0 items-center justify-center border-t border-gray-200 px-2 pt-3 lg:order-none lg:mt-0 lg:border-0 lg:pt-0"
                 >
                   {signal.officialWidget}
                 </div>
@@ -225,7 +251,7 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
               <>
                 <span className="text-navy flex-shrink-0">{signal.icon}</span>
                 <div>
-                  <p className="text-navy font-bold text-sm leading-tight">{signal.label}</p>
+                  <p className="text-xs font-bold leading-tight text-navy sm:text-sm">{signal.label}</p>
                   <p className="text-gray-500 text-xs leading-tight hidden sm:block">{signal.sub}</p>
                 </div>
               </>
@@ -236,12 +262,12 @@ export default async function TrustBar({ stateSlug, passGuaranteeApplies = true 
                 href={signal.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 lg:justify-center px-2 hover:opacity-80 transition-opacity"
+                className="flex min-w-0 items-center justify-start gap-2 px-1 transition-opacity hover:opacity-80 sm:justify-center sm:px-2"
               >
                 {inner}
               </a>
             ) : (
-              <div key={signal.label} className="flex items-center gap-2 lg:justify-center px-2">
+              <div key={signal.label} className="flex min-w-0 items-center justify-start gap-2 px-1 sm:justify-center sm:px-2">
                 {inner}
               </div>
             );

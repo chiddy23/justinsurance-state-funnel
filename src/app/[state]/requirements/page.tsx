@@ -274,7 +274,7 @@ export default async function RequirementsPage({
     },
     {
       question: `What are the ${stateData.name} CE requirements?`,
-      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.firstTermHours ? `${stateData.ce.firstTermHours} hours of continuing education before your first renewal, then ${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}` : `${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}`}, including ${stateData.ce.ethicsHours} hours of ethics training.${stateData.ce.mandatedTopicHours ? ` ${stateData.ce.mandatedTopicHours}` : ``} Renewal deadline: ${stateData.renewalDeadline}.${ilWebinar ? "" : ceAvailable ? ` JustInsurance offers state-approved CE packages starting at ${stateData.ce.packagePrice}.` : ceComingSoon ? ` JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon.` : ` JustInsurance's ${stateData.name} CE provider approval is pending; our ${stateData.name} CE courses are not yet available.`}`,
+      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.firstTermHours ? `${stateData.ce.firstTermHours} hours of continuing education before your first renewal, then ${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}` : `${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}`}, including ${stateData.ce.ethicsHours} hours of ethics training.${stateData.ce.mandatedTopicHours ? ` ${stateData.ce.mandatedTopicHours}` : ``} Renewal deadline: ${stateData.renewalDeadline}.${ilWebinar ? "" : ceAvailable ? ` JustInsurance offers state-approved CE packages starting at ${stateData.ce.packagePrice}.` : stateData.ceApproved === false ? ` JustInsurance does not currently offer ${stateData.name} CE courses.` : ceComingSoon ? ` JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon.` : ` JustInsurance's ${stateData.name} CE provider approval is pending; our ${stateData.name} CE courses are not yet available.`}`,
     },
     // State-specific FAQ from data
     stateData.stateSpecificFAQ,
@@ -516,7 +516,11 @@ export default async function RequirementsPage({
                   )
                 </>
               )}, and submit a ${stateData.applicationFee} license application.
-              {isFlorida ? (
+              {stateData.slug === "new-york" ? (
+                <>
+                  Renewal requires {stateData.ce.totalHours} CE credits every {stateData.ce.renewalPeriod}, including at least 1 credit each in insurance law, ethics and professionalism, and diversity, inclusion and elimination of bias. Property/casualty licensees also need at least 1 flood-insurance credit.
+                </>
+              ) : isFlorida ? (
                 <>
                   Your license is perpetual — keep it active with{" "}
                   {stateData.ce.totalHours} CE hours (including{" "}
@@ -1255,7 +1259,7 @@ export default async function RequirementsPage({
             </Link>
             <Link href={`/${stateData.slug}/practice-exam`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
               <div className="font-semibold text-navy mb-1">{stateData.name} Practice Exam</div>
-              <div className="text-sm text-gray-600">Mirror the real {stateData.examInfo?.examProvider || "state"} exam before test day.</div>
+              <div className="text-sm text-gray-600">Build confidence with full-length, state-specific practice before test day.</div>
             </Link>
             <Link href={`/${stateData.slug}/prelicensing`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
               <div className="font-semibold text-navy mb-1">{stateData.name} Prelicensing</div>
@@ -1279,6 +1283,24 @@ export default async function RequirementsPage({
               <div className="font-semibold text-navy mb-1">{stateData.name} License Cost Breakdown</div>
               <div className="text-sm text-gray-600">{stateData.name}-specific cost: course, exam, fingerprinting, and application fees.</div>
             </Link>
+            {stateData.slug === "georgia" && (
+              <Link href="/blog/state-license-georgia/how-many-questions-are-on-the-georgia-insurance-exam-and-how-long-is-it" className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+                <div className="font-semibold text-navy mb-1">Georgia Exam Format &amp; Pass Rates</div>
+                <div className="text-sm text-gray-600">Official question counts, time limits, passing score, and recent Pearson VUE pass rates.</div>
+              </Link>
+            )}
+            {stateData.slug === "florida" && (
+              <Link href="/blog/florida-insurance-license/florida-life-and-health-exam-full-breakdown-of-whats-tested" className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+                <div className="font-semibold text-navy mb-1">Florida Life &amp; Health Exam Outline</div>
+                <div className="text-sm text-gray-600">See the official 2-15 content areas, question format, and section weights.</div>
+              </Link>
+            )}
+            {stateData.slug === "virginia" && (
+              <Link href="/blog/state-license-virginia/virginia-insurance-license-fingerprinting-how-fieldprint-works-and-what-to-expect" className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+                <div className="font-semibold text-navy mb-1">Fieldprint Virginia Fingerprinting</div>
+                <div className="text-sm text-gray-600">Official producer code, fee, ID requirements, and the 90-day timing rule.</div>
+              </Link>
+            )}
           </div>
         </div>
       </section>

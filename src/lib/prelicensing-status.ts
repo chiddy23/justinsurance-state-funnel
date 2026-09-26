@@ -17,6 +17,7 @@
 // Required" values are strings that do not begin with a digit.
 
 export type CredentialKind = "prelicensing" | "ce";
+export type PrelicensingLine = "life" | "health" | "life-and-health";
 
 const startsWithDigit = (v: unknown): boolean =>
   typeof v === "number" || (typeof v === "string" && /^\s*\d/.test(v));
@@ -92,6 +93,9 @@ interface ClaimSource {
   /** false = approved provider but courses not live yet ("coming soon"). Undefined = live. */
   ceCoursesLive?: boolean;
   prelicensingCoursesLive?: boolean;
+  /** Exact live lines for a partial rollout. Omit when all lines follow the
+   *  aggregate prelicensingCoursesLive flag. */
+  prelicensingLiveLines?: PrelicensingLine[];
   /** false = we do NOT hold a CE approval here yet (e.g. NY, CE not submitted),
    *  even if the provider number is real for another credential. Undefined = defaults
    *  to (providerApprovalNumber !== "PENDING"). */
@@ -139,7 +143,9 @@ export function stateClaims(state: ClaimSource): StateClaims {
   // gated on approved AND live, so a coming-soon state never asserts "state-approved
   // [course]" — only the neutral "Approved — courses coming soon" message shows.
   const ceLive = state.ceCoursesLive !== false;
-  const prelicensingLive = state.prelicensingCoursesLive !== false;
+  const prelicensingLive =
+    (state.prelicensingLiveLines?.length ?? 0) > 0 ||
+    state.prelicensingCoursesLive !== false;
   return {
     prelicensingRequired,
     approvalPending,
@@ -162,6 +168,7 @@ export function stateClaims(state: ClaimSource): StateClaims {
 export function isPrelicensingHeld(state: {
   providerApprovalNumber: string;
   prelicensingCoursesLive?: boolean;
+  prelicensingLiveLines?: PrelicensingLine[];
   prelicensing: {
     life: { hours: number | string };
     health: { hours: number | string };
@@ -171,9 +178,10 @@ export function isPrelicensingHeld(state: {
   // "Not live" = approval still pending OR approved-but-course-not-open-yet.
   // Either way a prelicensing-required state is held ("coming soon"), noindexed,
   // and sitemap-excluded until the course is actually purchasable.
+  const anyLineLive = (state.prelicensingLiveLines?.length ?? 0) > 0;
   const notLive =
     state.providerApprovalNumber === "PENDING" ||
-    state.prelicensingCoursesLive === false;
+    (state.prelicensingCoursesLive === false && !anyLineLive);
   return (
     notLive &&
     credentialKindFromHours([
@@ -182,6 +190,35 @@ export function isPrelicensingHeld(state: {
       state.prelicensing.lifeAndHealth.hours,
     ]) === "prelicensing"
   );
+}
+
+/**
+ * Exact purchase availability for a prelicensing line. This is the fail-closed
+ * gate for partial state rollouts: New York currently exposes Life only, so a
+ * stale Health or combined URL can never become a checkout link merely because
+ * another line is live.
+ */
+export function isPrelicensingLineAvailable(
+  state: {
+    providerApprovalNumber: string;
+    prelicensingCoursesLive?: boolean;
+    prelicensingLiveLines?: PrelicensingLine[];
+  },
+  line: PrelicensingLine,
+): boolean {
+  if (state.providerApprovalNumber === "PENDING") return false;
+  if (state.prelicensingLiveLines) {
+    return state.prelicensingLiveLines.includes(line);
+  }
+  return state.prelicensingCoursesLive !== false;
+}
+
+export function isPrelicensingPartiallyLive(state: {
+  providerApprovalNumber: string;
+  prelicensingLiveLines?: PrelicensingLine[];
+}): boolean {
+  const count = state.prelicensingLiveLines?.length ?? 0;
+  return state.providerApprovalNumber !== "PENDING" && count > 0 && count < 3;
 }
 
 /**
@@ -236,9 +273,11 @@ export function isCeApprovedComingSoon(state: {
 export function isPrelicensingApprovedComingSoon(state: {
   providerApprovalNumber: string;
   prelicensingCoursesLive?: boolean;
+  prelicensingLiveLines?: PrelicensingLine[];
 }): boolean {
   return (
     state.providerApprovalNumber !== "PENDING" &&
-    state.prelicensingCoursesLive === false
+    state.prelicensingCoursesLive === false &&
+    (state.prelicensingLiveLines?.length ?? 0) === 0
   );
 }

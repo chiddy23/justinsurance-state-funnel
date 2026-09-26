@@ -49,7 +49,7 @@ The exam covers substantial general insurance content plus Massachusetts-specifi
 
 Most candidates significantly improve their [pass rate](/pass-rates) by completing structured study
 
-Quality prelicense courses include practice exams that mirror the actual state exam
+Quality prelicense courses include state-specific practice exams built around the published exam content outline
 
 So while you can technically skip prelicense and go straight to the exam, doing so dramatically reduces your chances of passing on the first try. Most successful candidates complete a prelicense course even though it's not legally required.
 

@@ -183,7 +183,7 @@ const studyTips = [
   {
     number: "02",
     title: "Take Practice Exams Under Real Conditions",
-    body: "Simulate test-day conditions: timed, no notes, no phone. Our practice exams mirror the actual question style and topic weighting. Aim for consistent 80%+ scores before you schedule your state exam.",
+    body: "Practice under timed, closed-book conditions with questions built around the published exam content outline. Aim for consistent 80%+ scores before you schedule your state exam.",
   },
   {
     number: "03",
@@ -253,7 +253,7 @@ export default function InsuranceExamGuidePage() {
         <div className="max-w-4xl mx-auto">
           <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-5">
             <p className="text-gray-800 leading-relaxed">
-              <strong>Quick answer:</strong> The insurance licensing exam is a proctored, multiple-choice test with a 2–3 hour time limit. The question count and passing score are set by your state and line of authority, not nationally: {SCORE_70_COUNT} of the {TOTAL_STATE_COUNT} states pass at 70, but California is {CA_SCORE} and Michigan is {MI_RANGE} depending on the exam, and scored-question counts vary widely (Tennessee&apos;s Life exam is 68 scored questions; Colorado&apos;s is 80). Results are delivered on-screen immediately after you finish. JustInsurance students pass at a <strong>93% rate</strong> (among students who complete the course and recommended practice) because our courses align precisely with your state&apos;s exam content outline. State-specific practice exams ($59) let you simulate real test-day conditions before you sit for the real thing.
+              <strong>Quick answer:</strong> The insurance licensing exam is a proctored, multiple-choice test with a 2–3 hour time limit. The question count and passing score are set by your state and line of authority, not nationally: {SCORE_70_COUNT} of the {TOTAL_STATE_COUNT} states pass at 70, but California is {CA_SCORE} and Michigan is {MI_RANGE} depending on the exam, and scored-question counts vary widely (Tennessee&apos;s Life exam is 68 scored questions; Colorado&apos;s is 80). Results are delivered on-screen immediately after you finish. JustInsurance students pass at a <strong>93% rate</strong> (among students who complete the course and recommended practice) because our courses align precisely with your state&apos;s exam content outline. State-specific practice exams ($59) help you rehearse timing, pacing, and recall before your official exam.
             </p>
           </div>
         </div>
@@ -454,7 +454,7 @@ export default function InsuranceExamGuidePage() {
               State-Specific Practice Exams — $59
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Full-length practice exams that mirror the real state exam. Detailed answer
+              Full-length, state-specific practice exams with detailed answer
               explanations, unlimited retakes. Available for {ALL_STATES_FOR_EXAM_GUIDE.length}{" "}
               states in Life, Health, and Life &amp; Health. Pick your state to get started.
             </p>

@@ -50,7 +50,7 @@ Each exam covers both general insurance topics and North Carolina-specific laws
 
 Most candidates significantly improve their [pass rate](/pass-rates) by completing structured study
 
-Quality prelicense courses include practice exams that mirror the actual state exam
+Quality prelicense courses include state-specific practice exams built around the published exam content outline
 
 Previous PLE requirements (no longer in effect):
 
@@ -100,9 +100,11 @@ Disclosure question answers
 
 Step 5: Pay application fees:
 
-Base application fee: $82 (includes $38 fingerprint fee for first-time applicants)
+$44 application processing fee
 
-Plus $50 per line of authority
+Plus a $50 registration fee per line of authority
+
+First-time resident applicants also pay a separate $38 fingerprint/background-check fee, plus the NIPR transaction fee
 
 Step 6: Submit and receive confirmation.
 
@@ -354,7 +356,7 @@ This streamlined path makes North Carolina accessible for already-licensed produ
 - Does North Carolina require fingerprinting for insurance producers? Yes. All initial resident producer license applicants must complete fingerprinting through local law enforcement (Livescan), with results processed by the NC State Bureau of Investigation. Insurance producers licensed before October 1, 2010 are exempt under legacy provisions.
 - How much does the North Carolina insurance exam cost? $45 per exam, paid to Pearson VUE at registration. Each line of authority requires a separate exam.
 - How long is my North Carolina insurance license valid? For the major producer lines, NCDOI does not expire the license on a renewal cycle — those licenses "do not renew and are valid until surrendered, canceled or revoked." What you must meet is your CE compliance date: the last day of your birth month, biennially (even birth year = even-year compliance, odd birth year = odd-year compliance). Complete 24 hours including 3 ethics by that date, or the license expires — with a 4-month window afterward to make up the hours and pay a $75 reinstatement to Prometric.
-- What's the application fee for a North Carolina resident producer license? $82 base fee (includes $38 fingerprint fee for first-time applicants) + $50 per line of authority. Adding all four major lines totals approximately $282 in application fees plus $180 in exam fees.
+- What's the application fee for a North Carolina resident producer license? NCDOI charges one $44 application processing fee plus a $50 registration fee for each line of authority. A one-line application is therefore $94 before the separate $38 fingerprint/background-check fee and NIPR transaction fee. Applying for all four major lines is $244 in application charges, or $282 after the $38 fingerprint/background-check fee, plus $180 for four exams.
 
 ## Start Your North Carolina Insurance Career Right
 

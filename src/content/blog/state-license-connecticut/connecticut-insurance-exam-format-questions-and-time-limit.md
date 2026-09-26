@@ -302,6 +302,6 @@ Two candidates taking the same format exam can have very different outcomes base
 
 ## Master Connecticut's Exam Format
 
-Format knowledge supports strategic preparation. At JustInsurance, our Connecticut prelicense course is structured around the actual exam format — practice exams that mirror real conditions help you walk into test day confident.
+Format knowledge supports strategic preparation. At JustInsurance, our Connecticut prelicense course is built around the published exam content outline, and timed practice helps you develop confidence and pacing for test day.
 
 Enroll today and prepare for Connecticut's exam format the right way.

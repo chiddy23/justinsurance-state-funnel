@@ -1,8 +1,8 @@
 ---
 title: How Many Questions Are on the Georgia Insurance Exam (And How Long Is It)?
 description: >-
-  Georgia Insurance Exam: Questions, Format & Length. Requirements, fees, study
-  hours, exam logistics, and compliance steps every licensed agent needs.
+  Georgia insurance exam pass rates, questions, time limits, and scoring by
+  license type. See official Pearson VUE results and the 70% passing score.
 keyword: georgia insurance exam format
 targetKeywords: georgia insurance exam format
 cluster: state-license-georgia
@@ -113,6 +113,14 @@ For the 125 scored questions on the Life, Accident, and Sickness exam:
 - 87 correct answers = 69.6% = failing (just below the threshold)
 
 There's no curve, no rounding up, and no partial credit. You either meet or exceed 70%, or you don't pass.
+
+## What Is the Georgia Life Insurance Exam Pass Rate?
+
+The **required passing score** and the **exam pass rate** are different numbers. You need a score of 70% or higher to pass your exam. The pass rate is the percentage of candidates who actually passed during a reporting period.
+
+In Pearson VUE's latest published report, covering April through June 2026, the Georgia Life Agent exam had a **44% overall pass rate**: 47% for first-time test takers and 38% for repeat test takers. The combined Life, Accident, and Sickness Agent exam had a **53% overall pass rate**: 57% for first-time test takers and 42% for repeat test takers. See the [official Georgia insurance examination pass-rate report](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/clients/ga-insurance/2026-Q2.pdf).
+
+These quarterly results describe that group of test takers; they do not predict any one candidate's outcome. Pearson VUE publishes newer reports on its [Georgia examination pass-rates page](https://www.pearsonvue.com/us/en/ga/insurance/pass-rates.html), so check the latest quarter when comparing results.
 
 ## Time Management
 

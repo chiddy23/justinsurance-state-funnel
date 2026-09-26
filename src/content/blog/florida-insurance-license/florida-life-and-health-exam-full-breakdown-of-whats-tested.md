@@ -1,8 +1,8 @@
 ---
 title: 'Florida Life & Health Exam: Full Breakdown of What''s Tested'
 description: >-
-  Florida Life & Health Exam: What's Tested & How. Requirements, fees, study
-  hours, exam logistics, and compliance steps every licensed agent needs.
+  See the official 2026 Florida Life and Health insurance exam content outline:
+  tested topics, section weights, 165-question format, and 70% passing score.
 keyword: florida life and health insurance exam
 targetKeywords: florida life and health insurance exam
 cluster: florida-insurance-license
@@ -19,6 +19,8 @@ imageAlt: >-
 Walking into the Florida 2-15 exam without knowing exactly what's tested is one of the biggest mistakes new candidates make. The exam covers a wide range of material, but the topics are predictable — and if you know where the exam focuses, you can study smarter instead of trying to cover everything equally.
 
 Here's the full breakdown of what the Florida Life & Health exam actually tests.
+
+**Quick answer:** The official Florida Life and Health insurance exam content outline divides the 2-15 exam into **67% general knowledge and 33% Florida statutes, rules, and regulations**. Pearson VUE's [content outline effective January 1, 2026](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/121003.pdf) lists every tested topic and its percentage weight.
 
 ## Who Administers the Exam?
 

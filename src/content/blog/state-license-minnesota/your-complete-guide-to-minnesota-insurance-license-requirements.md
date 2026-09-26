@@ -45,7 +45,7 @@ Some people decide to obtain both licenses, especially if they plan to serve mul
 
 You cannot skip this step, as Minnesota mandates a certain number of pre-licensing study hours for each line of authority. The courses are designed to arm you with essential knowledge about state laws, ethical practices, and insurance policies. Your instructor or online course provider will typically break the material into manageable sections, allowing you to learn and review at your own pace.
 
-In many cases, you will have access to study guides, quizzes, and practice exams that mirror the format of the official licensing test. This is where exam prep providers like JustInsurance can come in handy. They offer resources that help you build confidence and memory retention, so you feel prepared on test day. The goal is to gain a solid foundation rather than racing through the material.
+In many cases, you will have access to study guides, quizzes, and practice exams built around the published licensing exam topics. This is where exam prep providers like JustInsurance can come in handy. They offer resources that help you build confidence and memory retention, so you feel prepared on test day. The goal is to gain a solid foundation rather than racing through the material.
 
 ## Schedule and pass your exam
 

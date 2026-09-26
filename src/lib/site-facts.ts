@@ -82,12 +82,9 @@ export const CE_PENDING_LABEL = (() => {
   return `${n.slice(0, -1).join(", ")}, and ${n[n.length - 1]}`;
 })();
 
-/**
- * Honest inline phrase for CE reach. Reads e.g.:
- * "state-approved continuing education in 48 states (New York and Washington — courses coming soon)"
- */
+/** Honest inline phrase for CE reach without implying unverified approval status. */
 export const CE_APPROVAL_PHRASE = CE_PENDING_STATE_NAMES.length
-  ? `state-approved continuing education in ${CE_APPROVED_COUNT} states (${CE_PENDING_LABEL} — courses coming soon)`
+  ? `state-approved continuing education in ${CE_APPROVED_COUNT} states (${CE_PENDING_LABEL} are not currently available)`
   : `state-approved continuing education in all ${STATE_COUNT} states`;
 
 const rangeOf = (vals: number[]): { min: number; max: number } => ({

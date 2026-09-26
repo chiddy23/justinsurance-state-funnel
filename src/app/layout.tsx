@@ -6,6 +6,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import GtmGate from "@/components/GtmGate";
 import GhlChatWidget from "@/components/GhlChatWidget";
+import AttributionBridge from "@/components/AttributionBridge";
 
 // GA4 (G-MTQQ0C7DKL) is now fired exclusively by GTM (Configuration tag).
 // Direct <GoogleAnalytics> removed 2026-05-01 after SEO team confirmed
@@ -124,6 +125,7 @@ try{var t=ev.target,a=t&&t.closest?t.closest('a'):null;if(a&&a.href&&isCart(a.ho
         <main id="main-content" className="flex-grow">{children}</main>
         <Footer />
         <GhlChatWidget />
+        <AttributionBridge />
       </body>
     </html>
   );

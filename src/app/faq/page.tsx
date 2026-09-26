@@ -152,12 +152,12 @@ const ourCoursesFaqs = [
   {
     question: "How long do I have access to the course?",
     answer:
-      "Prelicensing courses include 30 days of access from enrollment. CE courses are available until you complete them. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their prelicensing course in 1 to 2 weeks.",
+      "Every JustInsurance course includes 30 days of access from enrollment, including prelicensing, continuing education, and practice-exam products. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their course well within the access period.",
   },
   {
     question: "What is included in a JustInsurance course?",
     answer:
-      "Every JustInsurance prelicensing course includes: full state-approved course content organized by exam topic, chapter quizzes and practice tests, full-length practice exams that mirror the state exam format, a final exam to earn your completion certificate, and access to live instructor Q&A sessions. CE packages include all required topic courses and the mandatory ethics course.",
+      "Every JustInsurance prelicensing course includes: full state-approved course content organized by exam topic, chapter quizzes and practice tests, full-length practice exams built around the published state exam content outline, a final exam to earn your completion certificate, and access to live instructor Q&A sessions. CE packages include all required topic courses and the mandatory ethics course.",
   },
   {
     question: "Does JustInsurance offer a pass guarantee?",

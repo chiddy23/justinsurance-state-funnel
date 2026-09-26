@@ -7,7 +7,15 @@ import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee, passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
-import { credentialKindFromHours, isPrelicensingHeld, meansNotRequired, isCeAvailable, isCeApprovedComingSoon, isPrelicensingApprovedComingSoon } from "@/lib/prelicensing-status";
+import {
+  credentialKindFromHours,
+  isPrelicensingHeld,
+  isPrelicensingPartiallyLive,
+  meansNotRequired,
+  isCeAvailable,
+  isCeApprovedComingSoon,
+  isPrelicensingApprovedComingSoon,
+} from "@/lib/prelicensing-status";
 import {
   generateArticleSchemaWithReviewer,
   generateBreadcrumbSchema,
@@ -103,6 +111,7 @@ export default async function CostPage({
   // state never presents a buyable $199 course. The factual state-fee breakdown
   // table is left intact (reframed by the disclosure as planning reference).
   const prelicensingHeld = isPrelicensingHeld(stateData);
+  const prelicensingPartiallyLive = isPrelicensingPartiallyLive(stateData);
   // Approved prelicensing provider whose course isn't open yet (NY #80025): the
   // held disclosure + opening-soon copy say "approved — coming soon", not
   // "approval pending". CE availability drives the CE-cost FAQ: WA/NY hold no live
@@ -193,14 +202,17 @@ export default async function CostPage({
   // -------------------------------------------------------------------------
   // FAQs
   // -------------------------------------------------------------------------
+  const ceRequirementSentence = stateData.ce.mandatedTopicHours
+    ? `${stateData.name} requires ${stateData.ce.totalHours} hours of CE every ${stateData.ce.renewalPeriod}. ${stateData.ce.mandatedTopicHours}`
+    : `${stateData.name} requires ${stateData.ce.totalHours} hours of CE every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} ethics hours.`;
   const ceFaqAnswer = ceAvailable
-    ? `${stateData.name} requires ${stateData.ce.totalHours} hours of CE every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} ethics hours. JustInsurance offers a complete ${stateData.name} CE package for ${stateData.ce.packagePrice}, with same-day reporting to the ${stateData.doiAbbr}. Single courses start at ${stateData.ce.individualCoursePrice}.`
+    ? `${ceRequirementSentence} JustInsurance offers a complete ${stateData.name} CE package for ${stateData.ce.packagePrice}, with same-day reporting to the ${stateData.doiAbbr}. Single courses start at ${stateData.ce.individualCoursePrice}.`
     : ceComingSoon
-    ? `${stateData.name} requires ${stateData.ce.totalHours} hours of CE every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} ethics hours. JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon and not yet open for enrollment. Confirm your CE requirement with the ${stateData.doiAbbr}.`
-    : `${stateData.name} requires ${stateData.ce.totalHours} hours of CE every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} ethics hours. JustInsurance's ${stateData.name} CE provider approval is currently pending; our ${stateData.name} CE courses are not yet available. Confirm your CE requirement with the ${stateData.doiAbbr}.`;
+    ? `${ceRequirementSentence} JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon and not yet open for enrollment. Confirm your CE requirement with the ${stateData.doiAbbr}.`
+    : `${ceRequirementSentence} JustInsurance's ${stateData.name} CE provider approval is currently pending; our ${stateData.name} CE courses are not yet available. Confirm your CE requirement with the ${stateData.doiAbbr}.`;
 
   const examRetakeAnswer = noPrelicensingRequired
-    ? `Failing the ${stateData.name} state exam means paying the ${examFeeDisplay} exam fee again for each retake. ${stateData.examInfo.retakeWaitingPeriod ? "Retake rules: " + stateData.examInfo.retakeWaitingPeriod + "." : ""} JustInsurance practice exams ($59) are designed to mirror the ${stateData.examInfo.examProvider} format so you pass on the first attempt.`
+    ? `Failing the ${stateData.name} state exam means paying the ${examFeeDisplay} exam fee again for each retake. ${stateData.examInfo.retakeWaitingPeriod ? "Retake rules: " + stateData.examInfo.retakeWaitingPeriod + "." : ""} JustInsurance practice exams ($59) provide additional practice across topics in the published licensing-exam content outline; they do not contain official questions or guarantee a passing result.`
     : `If you fail the ${stateData.name} state exam, you'll pay the ${examFeeDisplay} exam fee again for each retake — and depending on your prelicensing provider, you may need to repurchase course access. ${stateData.examInfo.retakeWaitingPeriod ? "Retake rules: " + stateData.examInfo.retakeWaitingPeriod + "." : ""} ${
         guaranteeOk
           ? "JustInsurance includes a pass guarantee and unlimited practice exams to help you pass the first time and avoid retake fees."
@@ -229,7 +241,9 @@ export default async function CostPage({
   // course is not yet open for enrollment, so this answer must NOT present a
   // buyable $199 all-in JustInsurance total. State-collected fees stay factual;
   // the JustInsurance portion is described as opening soon, not as a purchase.
-  const totalCostAnswer = prelicensingHeld
+  const totalCostAnswer = prelicensingPartiallyLive
+    ? `The currently available ${stateData.name} Life route is about ${jiLowDisplay}: the ${JI_PRICE_LABEL} JustInsurance Life prelicensing course, ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, and ${applicationFeeDisplay} ${stateData.doiAbbr} application fee. Fingerprinting is not required. Health and combined prelicensing are not currently available from JustInsurance.`
+    : prelicensingHeld
     ? `In ${stateData.name}, plan for the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee and the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee${backgroundIsFree ? `` : `, plus the ${backgroundDisplay} background-check cost`}. ${meansNotRequired(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(/\.\s/)[0].trim().replace(/\.$/, "")}.`} ${prelicensingApprovedComingSoon ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}); our ${stateData.name} prelicensing course is opening for enrollment soon — we'll post course pricing once it opens.` : `JustInsurance ${stateData.name} prelicensing is completing ${stateData.doiAbbr} approval and is not yet open for enrollment — we'll post course pricing once it opens.`}`
     : `Plan for about ${jiLowDisplay} all-in to get your ${stateData.name} insurance license through JustInsurance. That covers ${noPrelicensingRequired ? "the optional prelicensing course," : "the prelicensing course,"} the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, ${backgroundIsFree ? `and ` : ``}the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee${backgroundIsFree ? `` : `, and the ${backgroundDisplay} background-check cost`}. ${meansNotRequired(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(/\.\s/)[0].trim().replace(/\.$/, "")}.`} JustInsurance's all-in price for the prelicensing portion is ${JI_PRICE_LABEL}.`;
 
@@ -314,6 +328,8 @@ export default async function CostPage({
       ji: noPrelicensingRequired ? `${JI_PRICE_LABEL} (optional)` : JI_PRICE_LABEL,
       note: noPrelicensingRequired
         ? `${stateData.name} does not require prelicensing education — most candidates still study to pass on the first attempt.`
+        : prelicensingPartiallyLive
+        ? `The approved ${stateData.name} Life course is available for $199. Health and combined prelicensing are not currently available from JustInsurance.`
         : guaranteeOk
         ? `JustInsurance includes practice exams + pass guarantee in the $199 base price.`
         : `JustInsurance includes unlimited practice exams in the $199 base price.`,
@@ -407,7 +423,11 @@ export default async function CostPage({
       <StateHero
         eyebrow={`${stateData.name} License Cost`}
         title={`How Much Does It Cost to Get a ${stateData.name} Insurance License?`}
-        subtitle={`The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — with JustInsurance's $199 all-in prelicensing.`}
+        subtitle={
+          prelicensingPartiallyLive
+            ? `The currently available ${stateData.name} Life route is about ${jiLowDisplay}: a $199 Life prelicensing course plus the current exam and application fees. Health and combined prelicensing are not currently available from JustInsurance.`
+            : `The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — with JustInsurance's $199 all-in prelicensing.`
+        }
         ctaButtons={
           // Held state (New York today): the "Start Now for $199" primary button
           // reads as a completed purchase, so swap it for a neutral "Learn More"
@@ -678,6 +698,8 @@ export default async function CostPage({
             {" "}{stateData.ce.ethicsHours} ethics).{" "}
             {ceComingSoon
               ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE package will open soon.`
+              : stateData.ceApproved === false
+              ? `JustInsurance does not currently offer ${stateData.name} CE courses.`
               : `Our ${stateData.name} CE package will open soon; our ${stateData.name} CE provider approval is pending.`}{" "}
             Renewal deadline: {stateData.renewalDeadline}.
           </p>
@@ -810,7 +832,7 @@ export default async function CostPage({
       <RelatedStatePages
         stateSlug={stateData.slug}
         stateName={stateData.name}
-        currentPage="state-hub"
+        currentPage="cost"
         variant="white"
       />
 
@@ -827,12 +849,16 @@ export default async function CostPage({
           // Held state (New York today): no buyable "$199" title or "Start Now"
           // CTA — swap for the neutral opening-soon message and a "Learn More"
           // link. Reverts automatically once provider approval issues.
-          prelicensingHeld
+          prelicensingPartiallyLive
+            ? `Start Your ${stateData.name} Life Prelicensing Course for $199`
+            : prelicensingHeld
             ? `${stateData.name} Prelicensing — Opening for Enrollment Soon`
             : `Start Your ${stateData.name} Insurance License for $199`
         }
         subtitle={
-          prelicensingHeld
+          prelicensingPartiallyLive
+            ? `The approved ${stateData.name} Life course is open now. Health and combined prelicensing are not currently available from JustInsurance.`
+            : prelicensingHeld
             ? prelicensingApprovedComingSoon
               ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing course is opening for enrollment soon.`
               : `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
@@ -840,7 +866,7 @@ export default async function CostPage({
             ? `All-inclusive $199 prelicensing — practice exams and a pass guarantee built in.`
             : `All-inclusive $199 prelicensing — practice exams and instant course access built in.`
         }
-        ctaText={prelicensingHeld ? "Learn More" : "Start Now for $199"}
+        ctaText={prelicensingHeld ? "Learn More" : prelicensingPartiallyLive ? "View the Life Course" : "Start Now for $199"}
         ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>

@@ -2,7 +2,11 @@ import React from "react";
 import type { StateData } from "@/lib/states";
 import { SchemaMarkup } from "@/lib/schema";
 import { formatPassingScore } from "@/lib/exam-score";
-import { credentialKindFromHours, isPrelicensingHeld } from "@/lib/prelicensing-status";
+import {
+  credentialKindFromHours,
+  isPrelicensingHeld,
+  isPrelicensingPartiallyLive,
+} from "@/lib/prelicensing-status";
 
 interface HowToGetLicensedProps {
   stateData: StateData;
@@ -69,9 +73,14 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
   // exam-only pending state keeps generic study guidance with no price. Every
   // non-held state renders byte-identically.
   const held = isPrelicensingHeld(stateData);
-  const jiOfferSentence = providerApproved
+  const partiallyLive = isPrelicensingPartiallyLive(stateData);
+  const jiOfferSentence = !prelicensingRequiredHere
+    ? " JustInsurance offers optional Life, Health, and Life & Health exam prep online for $199 per line."
+    : providerApproved
     ? held
       ? ` JustInsurance's ${name} prelicensing courses are opening for enrollment soon.`
+      : partiallyLive
+      ? ` JustInsurance currently offers the approved ${name} Life prelicensing course for $199; Health and combined prelicensing are not currently available from JustInsurance.`
       : " JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line."
     : prelicensingRequiredHere
     ? ` JustInsurance's ${name} prelicensing is completing state approval and will open for enrollment soon.`
@@ -80,11 +89,11 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
     title: prelicensingRequiredHere
       ? "Complete your prelicensing course"
       : "Prepare for your exam (optional)",
-    body: `${prelicensingRequiredHere ? `Finish ${prelicensingApproved ? "a state-approved" : "an online"} prelicensing course` : `${name} does not require a prelicensing course, but most successful candidates take one. Work through an online course`} covering the ${name} exam content outline.${jiOfferSentence}`,
+    body: `${prelicensingRequiredHere ? `Finish ${prelicensingApproved ? "a state-approved" : "an online"} prelicensing course` : `${name} does not require education before the licensing exam. If you want structured preparation, work through an optional online exam-prep course`} covering the ${name} exam content outline.${jiOfferSentence}`,
   };
   const stepExam = {
     title: `Schedule and pass the ${name} state exam`,
-    body: `Book your exam through ${examInfo.examProvider} (${examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"})${stateData.applicationBeforeExam ? ", after your application is processed and you receive your Authorization to Test" : ""}. Passing score: ${formatPassingScore(stateData.slug, examInfo.passingScore)}.`,
+    body: `Book your exam through ${examInfo.examProvider} (${stateData.slug === "arizona" ? "$50 for Life or Health; $59 for combined Life & Health" : examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"})${stateData.applicationBeforeExam ? ", after your application is processed and you receive your Authorization to Test" : ""}. Passing score: ${formatPassingScore(stateData.slug, examInfo.passingScore)}.`,
   };
   const stepBackground = {
     title: noFingerprint ? "Complete your background check" : "Complete fingerprinting and background check",
@@ -133,7 +142,9 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
     "@context": "https://schema.org",
     "@type": "HowTo",
     name: `How to Get Your ${name} Insurance License`,
-    description: `Step-by-step guide to becoming a licensed insurance producer in ${name} — prelicensing, exam, fingerprinting, and license application.`,
+    description: prelicensingRequiredHere
+      ? `Step-by-step guide to becoming a licensed insurance producer in ${name} — prelicensing, exam, fingerprinting, and license application.`
+      : `Step-by-step guide to becoming a licensed insurance producer in ${name} — optional exam preparation, licensing exam, background requirements, and license application.`,
     totalTime: totalLicensingTime ? `P${totalLicensingTime.match(/\d+/)?.[0] ?? "4"}W` : "P4W",
     step: steps.map((s) => ({
       "@type": "HowToStep",

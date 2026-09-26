@@ -6,7 +6,10 @@ import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
-import { isPrelicensingHeld } from "@/lib/prelicensing-status";
+import {
+  isPrelicensingHeld,
+  isPrelicensingPartiallyLive,
+} from "@/lib/prelicensing-status";
 import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import ArticleByline from "@/components/ArticleByline";
@@ -14,6 +17,9 @@ import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import AddToCartLink from "@/components/AddToCartLink";
+import TestimonialCards from "@/components/TestimonialCards";
+import TrustBar from "@/components/TrustBar";
+import PressLogosBar from "@/components/PressLogosBar";
 import { formatPassingScore } from "@/lib/exam-score";
 
 export function generateStaticParams() {
@@ -46,6 +52,12 @@ export default async function PracticeExamPage({
 
   const { practiceExams, name: stateName, slug, examInfo, noCombinedExam } =
     stateData;
+  // The public Absorb catalog is the price source of truth. Most states remain
+  // $59; Colorado's three live practice products were re-verified at $39 on
+  // 2026-08-26. Reading the state record keeps every other rendered page
+  // unchanged while ensuring the Colorado page, schema, and checkout agree.
+  const practicePrice = practiceExams?.price ?? "$59";
+  const practicePriceAmount = Number(practicePrice.replace(/[^0-9.]/g, "")).toFixed(2);
 
   // 50 Ill. Adm. Code Part 3119 — Illinois-only: the approved short format
   // line is added to the intro copy (this page markets prelicensing in its
@@ -55,6 +67,8 @@ export default async function PracticeExamPage({
   // the practice-exam page never markets a not-yet-open course as "one purchase,
   // test-ready in days". Practice exams themselves are a separate live product.
   const prelicensingHeld = isPrelicensingHeld(stateData);
+  const prelicensingPartiallyLive = isPrelicensingPartiallyLive(stateData);
+  const isNewYork = slug === "new-york";
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -71,22 +85,22 @@ export default async function PracticeExamPage({
   const faqs = [
     {
       question: `What is included in the ${stateName} insurance practice exam?`,
-      answer: `Each ${stateName} practice exam includes a full-length set of questions modeled on the actual ${examInfo.examProvider} state exam, covering every content area in the ${stateName} licensing outline. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes to build confidence before test day.`,
+      answer: `Each ${stateName} practice exam is an independent study tool covering insurance topics for the selected line of authority. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes to build confidence before test day. It does not contain or reproduce official state exam questions.`,
     },
     {
-      question: `How close is the practice exam to the real ${stateName} state exam?`,
+      question: `How should I use the ${stateName} practice exam?`,
       // Ohio Admin. Code 3901-5-07(H)(16): the descriptive 80%-benchmark stat
       // is allowed everywhere; the pass-guarantee clause is dropped for
       // excluded states (flows into FAQPage JSON-LD automatically).
       answer: hasPassGuarantee(slug)
-        ? `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses.`
-        : `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt.`,
+        ? `Use the JustInsurance practice exam to review insurance concepts, identify topics that need more study, and practice answering questions under time pressure. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses. The practice exam is an independent preparation product and is not an official state examination.`
+        : `Use the JustInsurance practice exam to review insurance concepts, identify topics that need more study, and practice answering questions under time pressure. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt. The practice exam is an independent preparation product and is not an official state examination.`,
     },
     {
       question: `Which practice exam should I buy — Life, Health, or Life + Health?`,
       answer: noCombinedExam
         ? `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. Note that ${stateName} has no combined Life & Health exam — Life and Accident & Health are two separate state exams — so if you're pursuing both lines, the Life + Health Practice Exam prepares you for each of the two exams you'll sit.`
-        : `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. If you're taking the combined Life & Health exam (the most common path), buy the Life + Health Practice Exam — it covers both lines in one sitting just like the real state exam.`,
+        : `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. If you're taking a combined Life & Health exam, buy the Life + Health Practice Exam — it covers both lines in one preparation product.`,
     },
     {
       question: `Do I need to take a prelicensing course first?`,
@@ -104,23 +118,29 @@ export default async function PracticeExamPage({
         {
           loa: "Life",
           title: `${stateName} Life Insurance Practice Exam`,
-          desc: `Full-length ${stateName} Life insurance practice test with detailed answer explanations. Mirror of the real ${examInfo.examProvider} Life exam.`,
+          desc: isNewYork
+            ? "A randomized 120-question Life study attempt with scoring and detailed answer explanations for additional preparation. This differs from PSI's 100-question Life licensing exam."
+            : `Full-length ${stateName} Life insurance practice test with scoring and detailed answer explanations for additional preparation.`,
           url: practiceExams.lifeUrl,
           accent: "from-blue-600 to-blue-700",
         },
         {
           loa: "Health",
           title: `${stateName} Health Insurance Practice Exam`,
-          desc: `Full-length ${stateName} Health insurance practice test. Covers Medicare, Medicaid, ACA, HMO/PPO, and every state-specific topic you'll see on test day.`,
+          desc: isNewYork
+            ? "A randomized 120-question Accident & Health study attempt with scoring and detailed answer explanations. This differs from PSI's 100-question Accident & Health licensing exam."
+            : `Full-length ${stateName} Health insurance practice test covering major health-insurance concepts with scoring and detailed answer explanations.`,
           url: practiceExams.healthUrl,
           accent: "from-teal-600 to-teal-700",
         },
         {
           loa: "Life + Health",
           title: `${stateName} Life & Health Insurance Practice Exam`,
-          desc: noCombinedExam
+          desc: isNewYork
+            ? "A randomized 150-question study attempt covering Life and Accident & Health topics, with scoring and explanations. It is an independent study tool—not an official DFS or PSI exam."
+            : noCombinedExam
             ? `Most popular. Covers both Life and Health — preps you for ${stateName}'s two separate Life and Accident & Health state exams (${stateName} has no combined exam).`
-            : `Most popular. Covers both Life and Health in one combined practice exam — matches the format of the real ${stateName} combined state exam.`,
+            : `Most popular. Covers both Life and Health topics in one combined preparation product.`,
           url: practiceExams.combinedUrl,
           accent: "from-gold to-gold-dark",
           popular: true,
@@ -129,7 +149,7 @@ export default async function PracticeExamPage({
     : [];
 
   const articleHeadline = `${stateName} Insurance Practice Exam`;
-  const articleDescription = `Full-length practice exams that mirror the real ${examInfo.examProvider} ${stateName} state exam. Score 80%+ three times in a row and walk in confident. $59 each.`;
+  const articleDescription = `Online ${stateName} insurance practice exams with scoring and detailed answer explanations for additional preparation. Life, Health, and Life & Health options are ${practicePrice} each.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -151,7 +171,7 @@ export default async function PracticeExamPage({
     },
     offers: {
       "@type": "Offer",
-      price: "59.00",
+      price: practicePriceAmount,
       priceCurrency: "USD",
       availability: "https://schema.org/InStock",
       url: card.url,
@@ -173,9 +193,19 @@ export default async function PracticeExamPage({
       <StateHero
         eyebrow={`${stateName} Exam Prep`}
         title={`${stateName} Insurance Practice Exam`}
-        subtitle={`Full-length practice exams that mirror the real ${examInfo.examProvider} ${stateName} state exam. Score 80%+ three times in a row and walk in confident. $59 each.`}
+        subtitle={`Online practice exams with scoring and detailed answer explanations for additional preparation. Life, Health, and Life & Health options are ${practicePrice} each.`}
         ctaButtons={[{ text: "See Practice Exams", href: "#practice-exams" }]}
       />
+
+      {/* Immediate, product-accurate social proof. On mobile this follows the
+          hero CTA, keeping both the action and trust signals above the fold. */}
+      <TrustBar
+        stateSlug={slug}
+        passGuaranteeApplies={false}
+        stateApprovalApplies={false}
+        sameDayReportingApplies={false}
+      />
+      <PressLogosBar />
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
@@ -189,7 +219,7 @@ export default async function PracticeExamPage({
             <p className="text-sm text-blue-100">pass rate*</p>
           </div>
           <div>
-            <p className="text-2xl font-bold text-gold">$59</p>
+            <p className="text-2xl font-bold text-gold">{practicePrice}</p>
             <p className="text-sm text-blue-100">per practice exam</p>
           </div>
           <div>
@@ -216,9 +246,8 @@ export default async function PracticeExamPage({
             Choose Your {stateName} Practice Exam
           </h2>
           <p className="text-gray-600 text-center mb-10 max-w-2xl mx-auto">
-            Pick the exam that matches the license you&apos;re testing for. Each practice exam is
-            full-length, includes detailed explanations, and can be retaken as many times as you
-            need.
+            Pick the exam that matches the license you&apos;re testing for. Each practice exam
+            includes detailed explanations and can be retaken as many times as you need.
             {/* 50 Ill. Adm. Code 3119 — approved short format line (Illinois
                 only), labeling the prelicensing course format. */}
             {ilWebinar && <> Illinois prelicensing note: {IL_WEBINAR_SHORT_LINE}</>}
@@ -242,13 +271,13 @@ export default async function PracticeExamPage({
                     className={`bg-gradient-to-br ${card.accent} text-white rounded-xl p-4 mb-4 text-center`}
                   >
                     <p className="text-sm font-semibold opacity-90">{card.loa} License</p>
-                    <p className="text-3xl font-bold">$59</p>
+                    <p className="text-3xl font-bold">{practicePrice}</p>
                   </div>
                   <h3 className="font-bold text-navy mb-2 leading-snug">{card.title}</h3>
                   <p className="text-gray-600 text-sm leading-relaxed mb-6 flex-1">{card.desc}</p>
                   <AddToCartLink
                     href={card.url}
-                    price="$59"
+                    price={practicePrice}
                     state={slug}
                     loa={card.loa}
                     courseType="practice-exam"
@@ -280,22 +309,55 @@ export default async function PracticeExamPage({
         </div>
       </section>
 
+      {isNewYork && (
+        <section className="bg-blue-50 px-4 pb-12">
+          <div className="max-w-4xl mx-auto border-l-4 border-navy bg-white rounded-r-xl p-5 shadow-sm">
+            <h2 className="font-bold text-navy mb-2">Know the official New York exam format</h2>
+            <p className="text-gray-700 text-sm leading-relaxed">
+              PSI currently lists 100 questions and 2 hours for the New York Life exam (Series 17-51), 100 questions and 2 hours for Accident &amp; Health (Series 17-52), and 150 items with 2.5 hours for the combined exam (Series 17-55). JustInsurance practice attempts are independent study tools, may use a different question count, do not reproduce official questions, and do not guarantee a passing result.
+            </p>
+          </div>
+        </section>
+      )}
+
+      {/* Only live practice-exam catalogs show product-specific social proof.
+          The shared component prioritizes this state, then uses genuinely
+          product-specific, state-neutral feedback; it never borrows a quote
+          labeled for a different state. */}
+      {examCards.length > 0 && (
+        <TestimonialCards
+          variant="practice-exam"
+          stateName={stateName}
+          stateSlug={slug}
+        />
+      )}
+
       {/* Secondary CTA — prelicensing course (placed under purchase cards for visibility) */}
       <section className="bg-navy py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
-            {prelicensingHeld ? `${stateName} Prelicensing — Opening Soon` : "Want the Full Prep Package?"}
+            {prelicensingHeld
+              ? `${stateName} Prelicensing — Opening Soon`
+              : prelicensingPartiallyLive
+              ? `Want the Full ${stateName} Life Course?`
+              : "Want the Full Prep Package?"}
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6">
             {prelicensingHeld
               ? `Our ${stateName} prelicensing course is completing approval and will open for enrollment soon — it will include a full practice exam at no extra cost. In the meantime, the ${stateName} practice exams above are ready whenever you are.`
+              : prelicensingPartiallyLive
+              ? `Our approved ${stateName} Life prelicensing course is open now. Health and combined prelicensing courses are not currently available from JustInsurance; the three practice exams above remain available as independent study tools.`
               : `Our ${stateName} prelicensing course includes a full practice exam at no extra cost. Get the complete curriculum plus the practice exam — one purchase, test-ready in days.`}
           </p>
           <Link
             href={`/${slug}/prelicensing`}
             className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-8 rounded-lg transition-colors"
           >
-            {prelicensingHeld ? `Learn About ${stateName} Prelicensing` : `See ${stateName} Prelicensing Courses`}
+            {prelicensingHeld
+              ? `Learn About ${stateName} Prelicensing`
+              : prelicensingPartiallyLive
+              ? `See the ${stateName} Life Course`
+              : `See ${stateName} Prelicensing Courses`}
           </Link>
         </div>
       </section>
@@ -321,7 +383,9 @@ export default async function PracticeExamPage({
               {
                 step: "3",
                 title: "Hit 80% three times",
-                desc: `Score 80%+ three consecutive attempts before scheduling the real exam. That's the threshold the ${stateName} pass rate data points to.`,
+                desc: slug === "hawaii" || slug === "new-york"
+                  ? "Score 80%+ on three consecutive attempts before scheduling your licensing exam. That is the readiness benchmark used in our published pass-rate methodology."
+                  : `Score 80%+ three consecutive attempts before scheduling the real exam. That's the threshold the ${stateName} pass rate data points to.`,
               },
             ].map((s) => (
               <div key={s.step} className="bg-white rounded-xl p-6 shadow-sm">

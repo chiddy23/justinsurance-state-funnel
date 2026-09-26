@@ -45,7 +45,7 @@ These details help you narrow down the schools that fit your lifestyle. Passing 
 
 ## Prepare for the state exam
 
-Once you complete the required number of pre-licensing hours, your next milestone is scheduling the Florida insurance licensing exam. This is your chance to prove your expertise, so solid preparation makes all the difference. Many Florida insurance licensing schools offer practice tests that mirror the real exam format. Take these, since they often reveal your weakest areas, and you can go back to your course material for extra study.
+Once you complete the required number of pre-licensing hours, your next milestone is scheduling the Florida insurance licensing exam. This is your chance to prove your expertise, so solid preparation makes all the difference. Many Florida insurance licensing schools offer timed, state-specific practice tests. Take these, since they often reveal your weakest areas, and you can go back to your course material for extra study.
 
 You will need to pay an exam fee and choose a test date and location. Be sure you have a clear identification method (like a valid driver’s license or passport) when you show up on exam day. A comfortable, confident mindset helps you recall everything you studied. If you have time, either the night before or the morning of, do a quick review of major concepts like insurance regulations, contract details, and basic ethics standards.
 

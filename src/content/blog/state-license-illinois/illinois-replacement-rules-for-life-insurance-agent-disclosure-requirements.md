@@ -57,7 +57,7 @@ This process exists to protect consumers. When the existing insurer is notified,
 
 Illinois prohibits practices that turn legitimate replacement into consumer harm:
 
-Twisting. Using misrepresentation to induce a client to replace existing coverage — whether by misrepresenting the existing policy's features or exaggerating the new policy's benefits. This is a direct violation of Illinois's [unfair trade practices rules](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22).
+Twisting. Using misrepresentation to induce a client to replace existing coverage — whether by misrepresenting the existing policy's features or exaggerating the new policy's benefits. This is a direct violation of Illinois's [unfair trade practices rules](https://www.ilga.gov/Legislation/ILCS/Acts?Chapter=INSURANCE&ChapterID=22&ChapterNumber=215&MajorTopic=REGULATION).
 
 Churning. Replacing a client's own policies repeatedly to generate commissions without providing genuine client benefit. IDOI tracks patterns, and agents with multiple clients showing repeated replacements face churning investigations.
 
@@ -156,4 +156,4 @@ Enroll today and master Illinois replacement rules with confidence.
 **Sources cited:**
 
 - [50 Ill. Adm. Code Part 917 — Life Insurance and Annuity Replacement (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/title-50/part-917)
-- [215 ILCS 5, Article XXVI — Unfair Methods of Competition and Deceptive Acts and Practices (Illinois General Assembly)](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22)
+- [215 ILCS 5, Article XXVI — Unfair Methods of Competition and Deceptive Acts and Practices (Illinois General Assembly)](https://www.ilga.gov/Legislation/ILCS/Acts?Chapter=INSURANCE&ChapterID=22&ChapterNumber=215&MajorTopic=REGULATION)

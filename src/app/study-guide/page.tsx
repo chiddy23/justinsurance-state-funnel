@@ -50,7 +50,7 @@ const faqs = [
   { question: "How should I use this guide?", answer: "Start with Part 2 (Universal Concepts) to build your foundation. Work through Part 3 (Glossary). Jump to Part 4 (your state) for state-specific laws. Use Parts 5–9 (mnemonics, practice questions, 7-day plan, exam day tips) to sharpen and test your knowledge. The full guide can be completed in a focused week." },
   { question: "Does this guide cover my state?", answer: "Yes — all 51 jurisdictions (50 states + Washington D.C.) are covered in Part 4. Each state has a full profile: exam format, question counts, time limit, topic weights, top failure points, state-specific laws, and insider tips." },
   { question: "Is the free guide enough to pass on its own?", answer: "For some candidates, yes — especially if you already have a background in finance or insurance. For most first-time candidates, we recommend pairing this guide with a state-approved prelicensing course and a full-length practice exam. Both are available on our state pages at $199 for the course (which includes a practice exam) or $59 for just the practice exam." },
-  { question: "How is this different from your paid courses?", answer: "The paid prelicensing course is the state-approved education required to sit for the exam (where your state requires it) — it includes video lessons, reading modules, chapter quizzes, and a certificate of completion. The paid practice exam is a 300+ question library built to mirror your state's exam format. This free study guide is a high-level reference and study framework. They complement each other." },
+  { question: "How is this different from your paid courses?", answer: "The paid prelicensing course is the state-approved education required to sit for the exam (where your state requires it) — it includes video lessons, reading modules, chapter quizzes, and a certificate of completion. The paid practice exam is a 300+ question library built around your state's published exam content outline. This free study guide is a high-level reference and study framework. They complement each other." },
 ];
 
 const faqSchema = generateFAQSchema(faqs);
@@ -484,11 +484,33 @@ export default function StudyGuidePage() {
             <Link href="/practice-exam" className="text-gold-deep underline hover:text-gold font-semibold">
               state-specific practice exams
             </Link>{" "}
-            mirror the real licensing exam — $59 per state. Or grab the{" "}
+            provide state-specific, timed question practice — $59 per state. Or grab the{" "}
             <Link href="/prelicensing" className="text-gold-deep underline hover:text-gold font-semibold">
               full prelicensing course
             </Link>{" "}
             (includes practice exam).
+          </p>
+        </div>
+      </section>
+
+      {/* Concise answer for readers and search assistants; keep the primary CTA above it. */}
+      <section aria-labelledby="best-way-to-study" className="bg-white px-4 py-8 border-b border-gray-200">
+        <div className="max-w-4xl mx-auto rounded-xl border border-gray-200 bg-gray-bg p-5 sm:p-6">
+          <h2 id="best-way-to-study" className="text-xl font-bold text-navy mb-2">
+            What Is the Best Way to Study for an Insurance Exam?
+          </h2>
+          <p className="text-gray-700 leading-relaxed">
+            Follow your state&apos;s exam outline, learn the universal insurance concepts first,
+            then focus on state law and complete timed practice exams. Review every missed
+            answer and wait to schedule the real exam until your scores are consistent. Use our{" "}
+            <a href="#plan" className="text-navy font-semibold underline hover:text-gold-deep">
+              7-day study plan
+            </a>{" "}
+            and{" "}
+            <a href="#states" className="text-navy font-semibold underline hover:text-gold-deep">
+              state-specific breakdown
+            </a>{" "}
+            below.
           </p>
         </div>
       </section>
@@ -646,8 +668,8 @@ export default function StudyGuidePage() {
             Ready to Practice What You&apos;ve Learned?
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6">
-            Our state-specific practice exams mirror the real state exam format — Life, Health, or
-            Life &amp; Health. $59 each, instant access, unlimited retakes.
+            Our state-specific practice exams provide full-length question practice for Life,
+            Health, or Life &amp; Health. $59 each, instant access, unlimited retakes.
           </p>
           <Link href="/practice-exam" className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-8 rounded-lg transition-colors">
             See Practice Exams by State
@@ -690,7 +712,7 @@ export default function StudyGuidePage() {
             <h3 className="text-2xl font-bold mb-3">📚 Full Practice Exam Library — 300+ Questions</h3>
             <p className="text-blue-100 mb-6 max-w-2xl mx-auto">
               These 10 are just a sample. Our full practice exam library contains 300+ questions
-              built to mirror your state&apos;s real format — with detailed explanations for every one.
+              built around published state exam content outlines, with detailed explanations for every one.
             </p>
             <div className="flex flex-wrap justify-center gap-3">
               <Link href="/practice-exam" className="bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors">

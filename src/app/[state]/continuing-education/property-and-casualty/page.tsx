@@ -26,7 +26,7 @@ import RelatedStatePages from "@/components/RelatedStatePages";
 import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
 
 // ---------------------------------------------------------------------------
-// Static params — only the 25 states with at least one P&C package
+// Static params — only states with at least one P&C package
 // ---------------------------------------------------------------------------
 export function generateStaticParams() {
   return PC_STATE_SLUGS.map((state) => ({ state }));
@@ -408,13 +408,11 @@ export function PCPackageDetail({
         </div>
       </section>
 
-      {/* CE access term is 365 days across the whole $39 CE family — the
-          earlier "30 Days" here was the prelicensing default copied in by
-          mistake and contradicted the Life/Health/Life & Health CE pages. */}
+      {/* Every JustInsurance course includes 30 days of access from enrollment. */}
       <CourseOverviewBox
         hours={pkg.totalHours}
         price={pkg.price}
-        accessDuration="365 Days"
+        accessDuration="30 Days"
         includes={[
           `${pkg.ethicsHours}-hr ${pkg.ethicsLabel}`,
           `${pkg.pcHours}-hr P&C electives`,
@@ -452,11 +450,11 @@ export function PCPackageDetail({
               </li>
               <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                 <span className="text-gray-500">Course Access</span>
-                <span className="font-bold text-navy">365 Days</span>
+                <span className="font-bold text-navy">30 Days</span>
               </li>
               <li className="flex justify-between items-center">
                 <span className="text-gray-500">Reporting</span>
-                <span className="font-bold text-success-dark">Same-Day to {stateData.doiAbbr || stateData.doiName}</span>
+                <span className="font-bold text-success-dark">Typically same or next business day</span>
               </li>
             </ul>
           </div>

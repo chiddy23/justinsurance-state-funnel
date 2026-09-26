@@ -1,0 +1,24 @@
+name: Release safety
+
+on:
+  pull_request:
+    branches: [master]
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  release-safety:
+    name: release-safety
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Verify checkout routes and critical pages
+        run: npm run verify-checkout-links
+      - name: Install dependencies
+        run: npm ci
+      - name: Production build
+        run: npm run build

@@ -43,7 +43,7 @@ const features = [
   {
     title: "Realistic Practice Exams",
     description:
-      "Our practice exams mirror the actual state licensing exam — same question format, same topic weighting. Students who complete all practice exams pass at a significantly higher rate.",
+      "Our practice exams provide state-specific, timed question practice built around published exam content outlines. Students who complete all practice exams pass at a significantly higher rate.",
   },
   {
     title: "State-Specific Content",
@@ -188,7 +188,7 @@ export default function PassRatesPage() {
             <p>
               <strong className="text-navy">Students who complete our full course</strong>{" "}
               and practice exams pass at a rate of 93%. This gap exists because our
-              courses are purpose-built to align with your state&apos;s exact exam
+              courses are purpose-built around your state&apos;s published exam
               content outline — not generic insurance concepts.
             </p>
           </div>

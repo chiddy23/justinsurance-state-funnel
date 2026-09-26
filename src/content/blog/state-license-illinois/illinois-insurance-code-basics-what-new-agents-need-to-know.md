@@ -23,7 +23,7 @@ Here are the most important areas of the Illinois Insurance Code every new agent
 
 ## What the Illinois Insurance Code Is
 
-The [Illinois Insurance Code](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22) is the statutory framework that regulates insurance in the state. It's administered by the Illinois Department of Insurance (IDOI), led by the Director of Insurance who is appointed by the Governor.
+The [Illinois Insurance Code](https://www.ilga.gov/Legislation/ILCS/Acts?Chapter=INSURANCE&ChapterID=22&ChapterNumber=215&MajorTopic=REGULATION) is the statutory framework that regulates insurance in the state. It's administered by the Illinois Department of Insurance (IDOI), led by the Director of Insurance who is appointed by the Governor.
 
 The Code covers everything from licensing and agent duties to policy forms, claims handling, consumer protections, and enforcement. Every licensed agent, broker, adjuster, and insurance company operating in Illinois is bound by it.
 
@@ -33,7 +33,7 @@ As a working agent, you don't need to memorize every section — but you do need
 
 Licensing and Producer Conduct. These sections cover who can be licensed, what qualifications are required, standards of conduct expected, and IDOI's authority to discipline licensees. This is the foundation of your legal authority as an Illinois agent.
 
-[Unfair Methods of Competition and Unfair Practices](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22). Illinois prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more. Violations here are the most common source of agent disciplinary action.
+[Unfair Methods of Competition and Unfair Practices](https://www.ilga.gov/Legislation/ILCS/Acts?Chapter=INSURANCE&ChapterID=22&ChapterNumber=215&MajorTopic=REGULATION). Illinois prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and more. Violations here are the most common source of agent disciplinary action.
 
 [Replacement of Life Insurance and Annuities](https://www.law.cornell.edu/regulations/illinois/title-50/part-917). Specific rules govern the replacement of existing life insurance and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are covered.
 
@@ -151,7 +151,7 @@ Enroll today and start your Illinois career with the compliance knowledge to pro
 
 **Sources cited:**
 
-- [215 ILCS 5 — Illinois Insurance Code, including Article XXVI (Unfair Methods of Competition and Deceptive Acts and Practices) (Illinois General Assembly)](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1249&ChapterID=22)
+- [215 ILCS 5 — Illinois Insurance Code, including Article XXVI (Unfair Methods of Competition and Deceptive Acts and Practices) (Illinois General Assembly)](https://www.ilga.gov/Legislation/ILCS/Acts?Chapter=INSURANCE&ChapterID=22&ChapterNumber=215&MajorTopic=REGULATION)
 - [50 Ill. Adm. Code Part 917 — Life Insurance and Annuity Replacement (Cornell LII)](https://www.law.cornell.edu/regulations/illinois/title-50/part-917)
 - [215 ILCS 5/154.6 — Acts Constituting Improper Claims Practice (Illinois General Assembly)](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K154.6.htm)
 - [215 ILCS 5/224 — Standard Provisions for Life Policies (Illinois General Assembly)](https://www.ilga.gov/documents/legislation/ilcs/documents/021500050K224.htm)

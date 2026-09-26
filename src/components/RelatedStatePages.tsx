@@ -4,10 +4,12 @@ import {
   credentialKindFromHours,
   isCeAvailable,
   isPrelicensingHeld,
+  isPrelicensingLineAvailable,
 } from "@/lib/prelicensing-status";
 
 type CurrentPage =
   | "state-hub"
+  | "cost"
   | "requirements"
   | "practice-exam"
   | "prelicensing-hub"
@@ -60,11 +62,19 @@ function buildLinks(
   // (ceAvailable=true / prelicensingHeld=false), keeping output byte-identical.
   const ceAvailable = !_st || isCeAvailable(_st);
   const prelicensingHeld = !!_st && isPrelicensingHeld(_st);
+  const ceNotOffered = _st?.ceApproved === false;
+  const lifeAvailable = !_st || isPrelicensingLineAvailable(_st, "life");
+  const healthAvailable = !_st || isPrelicensingLineAvailable(_st, "health");
+  const combinedAvailable = !_st || isPrelicensingLineAvailable(_st, "life-and-health");
+  const isOptionalExamPrep =
+    stateSlug === "alabama" || stateSlug === "alaska" || stateSlug === "arizona";
   const all: LinkItem[] = [
     {
       href: `/${stateSlug}`,
       title: `${stateName} Insurance License Hub`,
-      description: `Overview of prelicensing, CE, and exam requirements in ${stateName}.`,
+      description: isOptionalExamPrep
+        ? `Overview of licensing, CE, and exam requirements in ${stateName}.`
+        : `Overview of prelicensing, CE, and exam requirements in ${stateName}.`,
       badge: "Overview",
     },
     {
@@ -74,35 +84,65 @@ function buildLinks(
       badge: "Requirements",
     },
     {
+      href: `/${stateSlug}/cost`,
+      title: `${stateName} Insurance License Cost`,
+      description: `Course, exam, application, and background-check costs for ${stateName}.`,
+      badge: "Cost",
+    },
+    {
       href: `/${stateSlug}/practice-exam`,
       title: `${stateName} Practice Exam`,
-      description: `Free practice questions modeled on the ${stateName} state licensing exam.`,
+      description: isOptionalExamPrep
+        ? `Free practice questions for additional ${stateName} licensing-exam preparation.`
+        : `Free practice questions covering published ${stateName} licensing topics.`,
       badge: "Practice",
     },
     {
       href: `/${stateSlug}/prelicensing`,
-      title: `${stateName} Prelicensing Courses`,
-      description: prelicensingHeld
-        ? `${stateName} prelicensing — opening for enrollment soon.`
-        : `All ${prelicensingApproved ? "state-approved " : ""}prelicensing course options for ${stateName}.`,
-      badge: "Prelicensing",
+      title: isOptionalExamPrep
+        ? `${stateName} Insurance Exam Prep Courses`
+        : `${stateName} Prelicensing Courses`,
+      description: isOptionalExamPrep
+        ? `Optional online exam-prep course options for ${stateName}.`
+        : prelicensingHeld
+          ? `${stateName} prelicensing — opening for enrollment soon.`
+          : `All ${prelicensingApproved ? "state-approved " : ""}prelicensing course options for ${stateName}.`,
+      badge: isOptionalExamPrep ? "Exam Prep" : "Prelicensing",
     },
     {
       href: `/${stateSlug}/prelicensing/life`,
-      title: `${stateName} Life Insurance Prelicensing`,
-      description: `Prelicensing course for the Life-only license in ${stateName}.`,
+      title: isOptionalExamPrep
+        ? `${stateName} Life Insurance Exam Prep`
+        : `${stateName} Life Insurance Prelicensing`,
+      description: isOptionalExamPrep
+        ? `Optional exam preparation for the Life-only license in ${stateName}.`
+        : lifeAvailable
+          ? `Prelicensing course for the Life-only license in ${stateName}.`
+          : `${stateName} Life prelicensing requirements and availability; not currently offered by JustInsurance.`,
       badge: "Life",
     },
     {
       href: `/${stateSlug}/prelicensing/health`,
-      title: `${stateName} Health Insurance Prelicensing`,
-      description: `Prelicensing course for the Health-only license in ${stateName}.`,
+      title: isOptionalExamPrep
+        ? `${stateName} Health Insurance Exam Prep`
+        : `${stateName} Health Insurance Prelicensing`,
+      description: isOptionalExamPrep
+        ? `Optional exam preparation for the Health-only license in ${stateName}.`
+        : healthAvailable
+          ? `Prelicensing course for the Health-only license in ${stateName}.`
+          : `${stateName} Health prelicensing requirements and availability; not currently offered by JustInsurance.`,
       badge: "Health",
     },
     {
       href: `/${stateSlug}/prelicensing/life-and-health`,
-      title: `${stateName} Life & Health Prelicensing`,
-      description: `Life & Health prelicensing course for ${stateName}.`,
+      title: isOptionalExamPrep
+        ? `${stateName} Life & Health Insurance Exam Prep`
+        : `${stateName} Life & Health Prelicensing`,
+      description: isOptionalExamPrep
+        ? `Optional Life & Health exam preparation for ${stateName}.`
+        : combinedAvailable
+          ? `Life & Health prelicensing course for ${stateName}.`
+          : `${stateName} combined prelicensing requirements and availability; not currently offered by JustInsurance.`,
       badge: "L&H",
     },
     {
@@ -110,7 +150,9 @@ function buildLinks(
       title: `${stateName} Continuing Education`,
       description: ceAvailable
         ? `CE course catalog for ${stateName} license renewal.`
-        : `${stateName} CE — coming soon.`,
+        : ceNotOffered
+          ? `${stateName} CE is not currently offered by JustInsurance.`
+          : `${stateName} CE — coming soon.`,
       badge: "CE",
     },
     {
@@ -118,7 +160,9 @@ function buildLinks(
       title: `${stateName} Life CE Renewal`,
       description: ceAvailable
         ? `CE hours for ${stateName} Life license renewal.`
-        : `${stateName} Life CE — coming soon.`,
+        : ceNotOffered
+          ? `${stateName} Life CE is not currently offered by JustInsurance.`
+          : `${stateName} Life CE — coming soon.`,
       badge: "CE Life",
     },
     {
@@ -126,7 +170,9 @@ function buildLinks(
       title: `${stateName} Health CE Renewal`,
       description: ceAvailable
         ? `CE hours for ${stateName} Health license renewal.`
-        : `${stateName} Health CE — coming soon.`,
+        : ceNotOffered
+          ? `${stateName} Health CE is not currently offered by JustInsurance.`
+          : `${stateName} Health CE — coming soon.`,
       badge: "CE Health",
     },
     {
@@ -134,13 +180,20 @@ function buildLinks(
       title: `${stateName} Life & Health CE Renewal`,
       description: ceAvailable
         ? `Combined Life & Health CE for ${stateName} license renewal.`
-        : `${stateName} Life & Health CE — coming soon.`,
+        : ceNotOffered
+          ? `${stateName} Life & Health CE is not currently offered by JustInsurance.`
+          : `${stateName} Life & Health CE — coming soon.`,
       badge: "CE L&H",
     },
   ];
 
   return all.filter((link) => {
+    if (
+      ceNotOffered &&
+      link.href.startsWith(`/${stateSlug}/continuing-education/`)
+    ) return false;
     if (currentPage === "state-hub" && link.href === `/${stateSlug}`) return false;
+    if (currentPage === "cost" && link.href === `/${stateSlug}/cost`) return false;
     if (currentPage === "requirements" && link.href === `/${stateSlug}/requirements`) return false;
     if (currentPage === "practice-exam" && link.href === `/${stateSlug}/practice-exam`) return false;
     if (currentPage === "prelicensing-hub" && link.href === `/${stateSlug}/prelicensing`) return false;

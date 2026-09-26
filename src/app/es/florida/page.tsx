@@ -86,7 +86,6 @@ export default function FloridaSpanishHubPage() {
     hasCourseInstance: {
       "@type": "CourseInstance",
       courseMode: "online",
-      ...(typeof lahHours === "number" ? { courseWorkload: `PT${lahHours}H` } : {}),
     },
     courseMode: "online",
     educationalCredentialAwarded: "Certificado de Prelicenciatura de Seguros de Florida",

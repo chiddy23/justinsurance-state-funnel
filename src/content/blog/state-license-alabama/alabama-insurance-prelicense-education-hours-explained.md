@@ -121,7 +121,7 @@ Work around your schedule
 
 Let you revisit material as needed
 
-Include [practice questions](/alabama/practice-exam) mirroring exam style
+Include [practice questions](/alabama/practice-exam) covering the published exam topics
 
 Provide video content, reading, and quizzes
 

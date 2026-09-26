@@ -7,7 +7,6 @@ import TestimonialCards from "@/components/TestimonialCards";
 import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
-import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 
 // ---------------------------------------------------------------------------
 // Coverage and approval are different facts. We publish CE pages for every state
@@ -283,26 +282,7 @@ export default function ContinuingEducationPage() {
         </div>
       </section>
 
-      <TrustBar />
-      {/* CE renewal has no state licensing exam, and the Terms (§ 4 / "Other
-          products") limit the Pass Guarantee to qualifying PRELICENSING courses.
-          The shared TrustBar still renders that badge on every national page, so
-          the CE hub has to say plainly that the guarantee does not reach a CE
-          purchase — and name the states where it is not offered at all.
-          A TrustBar prop that swaps the badge out on non-prelicensing hubs is
-          requested separately; this note is the in-page correction. */}
-      <section className="bg-gray-bg border-b border-gray-200 px-4 pb-3">
-        <p className="max-w-4xl mx-auto text-center text-xs text-gray-500 leading-snug">
-          Pass Guarantee note: the guarantee applies only to qualifying prelicensing
-          courses, which are conditioned on a first-time state exam attempt — continuing
-          education renewal has no state exam, so a CE purchase is not covered. The
-          guarantee is not offered in {passGuaranteeExcludedLabel()}. See our{" "}
-          <Link href="/terms" className="underline hover:text-navy">
-            Terms
-          </Link>{" "}
-          for full conditions.
-        </p>
-      </section>
+      <TrustBar passGuaranteeApplies={false} />
       <PressLogosBar />
 
       {/* What is CE */}

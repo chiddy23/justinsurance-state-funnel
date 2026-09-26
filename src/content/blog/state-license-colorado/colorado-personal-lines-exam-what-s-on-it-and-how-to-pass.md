@@ -38,7 +38,7 @@ The surprise is that product knowledge — the HO forms and the PAP that dominat
 
 ### Content Area I: Types of Property Policies — 10 Questions
 
-Ten questions is a small allocation for a large body of material, so study this area for recognition speed rather than exhaustive depth. Personal Lines property content mirrors the standalone Property exam's general section but focuses exclusively on personal property coverages rather than commercial lines. The outline also lists earthquake, mobile home, watercraft, and windstorm policies here alongside homeowners and dwelling forms.
+Ten questions is a small allocation for a large body of material, so study this area for recognition speed rather than exhaustive depth. Personal Lines property content overlaps with the standalone Property exam's general section but focuses exclusively on personal property coverages rather than commercial lines. The outline also lists earthquake, mobile home, watercraft, and windstorm policies here alongside homeowners and dwelling forms.
 
 A. Homeowners Policies
 

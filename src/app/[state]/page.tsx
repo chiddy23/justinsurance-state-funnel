@@ -20,7 +20,14 @@ import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
 import StateProviderBadge from "@/components/StateProviderBadge";
-import { credentialKindFromHours, isPrelicensingHeld, isCeAvailable, isCeApprovedComingSoon, isPrelicensingApprovedComingSoon } from "@/lib/prelicensing-status";
+import {
+  credentialKindFromHours,
+  isPrelicensingHeld,
+  isPrelicensingPartiallyLive,
+  isCeAvailable,
+  isCeApprovedComingSoon,
+  isPrelicensingApprovedComingSoon,
+} from "@/lib/prelicensing-status";
 import LastUpdated from "@/components/LastUpdated";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
@@ -130,6 +137,17 @@ export async function generateMetadata({
     };
   }
 
+  if (stateData.slug === "new-york") {
+    const description =
+      "New York Life prelicensing online: 20-hour DFS-approved course, provider #80025, PSI exam prep, instant access. $199. Other lines are not currently available.";
+    return {
+      ...meta,
+      description,
+      openGraph: { ...meta.openGraph, description },
+      twitter: { ...meta.twitter, description },
+    };
+  }
+
   return meta;
 }
 
@@ -167,6 +185,7 @@ export default async function StateHubPage({
   // providerApprovalNumber becomes a real number. Used to reframe the hero
   // subtitle (also the page meta description) and the closing CTA below.
   const prelicensingHeld = isPrelicensingHeld(stateData);
+  const prelicensingPartiallyLive = isPrelicensingPartiallyLive(stateData);
   // Approved provider whose prelicensing course is not open for enrollment yet
   // (New York #80025): drives "approved — opening soon" copy in the held hero /
   // CTA instead of the generic "completing state approval" wording.
@@ -221,7 +240,13 @@ export default async function StateHubPage({
     { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
-  const lahHours = stateData.prelicensing?.lifeAndHealth?.hours;
+  const firstLiveLine = stateData.prelicensingLiveLines?.[0];
+  const schemaCourse =
+    firstLiveLine === "life"
+      ? stateData.prelicensing.life
+      : firstLiveLine === "health"
+      ? stateData.prelicensing.health
+      : stateData.prelicensing.lifeAndHealth;
   // Shared with the visible StateProviderBadge below so the JSON-LD Course
   // description never claims a "state-approved prelicensing" credential in
   // CE-only states (see src/lib/prelicensing-status.ts).
@@ -230,6 +255,7 @@ export default async function StateHubPage({
     stateData.prelicensing?.health?.hours,
     stateData.prelicensing?.lifeAndHealth?.hours,
   ]);
+  const isOptionalExamPrep = stateCredentialKind === "ce";
   // A "state-approved PRELICENSING" claim needs BOTH: approval granted AND the
   // state actually regulating prelicensing. In exam-only states our approval is
   // CE-only, so isProviderApproved alone would assert a credential we do not hold.
@@ -245,8 +271,8 @@ export default async function StateHubPage({
   const courseSchemaBase = generateStateHubCourseSchema({
     stateName: stateData.name,
     stateSlug: stateData.slug,
-    price: stateData.prelicensing?.lifeAndHealth?.price || "$199",
-    hours: typeof lahHours === "number" ? lahHours : undefined,
+    price: schemaCourse.price || "$199",
+    hours: typeof schemaCourse.hours === "number" ? schemaCourse.hours : undefined,
     credentialKind: stateCredentialKind,
     // Held prelicensing state (NY) → null: no InStock $199 prelicensing Offer.
     available: !prelicensingHeld,
@@ -255,7 +281,13 @@ export default async function StateHubPage({
   // contains an unqualified "100% online, self-paced" claim. Override the
   // description for Illinois only; all other states get the generator's
   // object untouched.
-  const courseSchema = ilWebinar
+  const courseSchema = prelicensingPartiallyLive
+    ? {
+        ...courseSchemaBase,
+        name: `${stateData.name} Life Insurance Prelicensing Course`,
+        description: `Approved ${stateData.name} Life insurance prelicensing course from provider #${stateData.providerApprovalNumber}. The Health and combined prelicensing products are not currently available from JustInsurance.`,
+      }
+    : ilWebinar
     ? {
         ...courseSchemaBase,
         description: `State-approved online insurance prelicensing course for ${stateData.name}. Pass your ${stateData.name} state licensing exam on the first attempt. ${IL_WEBINAR_SHORT_LINE} Includes practice exams.`,
@@ -276,7 +308,9 @@ export default async function StateHubPage({
   // neutral opening-soon branch over stateSpecificIntro/ilWebinar/etc. so the
   // hero — and the page meta description, which is set to heroSubtitle — never
   // presents an enrollment/purchase claim while approval is still pending.
-  const heroSubtitle = prelicensingHeld
+  const heroSubtitle = prelicensingPartiallyLive
+    ? `JustInsurance is approved by the New York Department of Financial Services as prelicensing provider #${stateData.providerApprovalNumber}. Complete the 20-hour New York Life insurance prelicensing course online, then prepare for the PSI Life Agent/Broker licensing exam. Health and combined Life, Accident & Health prelicensing—and New York continuing education—are not currently available from JustInsurance.`
+    : prelicensingHeld
     ? prelicensingApprovedComingSoon
       ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing courses are opening for enrollment soon.`
       : `${stateData.name} prelicensing courses are completing state approval and will open for enrollment soon.`
@@ -301,6 +335,8 @@ export default async function StateHubPage({
       ? "Get Your Texas Insurance License — No Prelicensing Required"
       : stateData.slug === "california"
       ? "California Insurance License: 12-Hour Ethics + State Exam Prep"
+      : stateData.slug === "new-york"
+      ? "New York Insurance License: 20-Hour Life Prelicensing Course"
       : `Get Your ${stateData.name} Insurance License Online`;
 
   const articleSchema = generateArticleSchemaWithReviewer({
@@ -370,7 +406,11 @@ export default async function StateHubPage({
                 // instead of "Start Prelicensing"; WA exam-prep prelicensing IS
                 // live, so it keeps "Start Prelicensing". Live states unchanged.
                 {
-                  text: prelicensingHeld ? "Prelicensing — Opening Soon" : "Start Prelicensing",
+                  text: prelicensingHeld
+                    ? "Prelicensing — Opening Soon"
+                    : isOptionalExamPrep
+                    ? "Explore Exam Prep"
+                    : "Start Prelicensing",
                   href: `/${stateData.slug}/prelicensing`,
                 },
                 // "Renew with CE" implies a live, purchasable CE renewal path.
@@ -450,12 +490,16 @@ export default async function StateHubPage({
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-navy mb-3">Prelicensing</h3>
+                <h3 className="text-xl font-bold text-navy mb-3">
+                  {isOptionalExamPrep ? "Optional Exam Prep" : "Prelicensing"}
+                </h3>
                 <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
                   {ilWebinar ? (
                     // 50 Ill. Adm. Code 3119 — approved short format line
                     // replaces the unqualified self-paced claim on Illinois.
                     <>New to insurance? Get your {stateData.name} insurance license with a state-approved prelicensing course. {IL_WEBINAR_SHORT_LINE} Then pass the state exam.</>
+                  ) : isOptionalExamPrep ? (
+                    <>Prepare for your {stateData.name} insurance licensing exam with an optional, structured online study course. No course is required before the exam.</>
                   ) : (
                     <>New to insurance? Get your {stateData.name} insurance license with {prelicensingApproved ? "a state-approved" : "an online"} prelicensing course. Study online at your own pace, then pass the state exam.</>
                   )}
@@ -484,7 +528,7 @@ export default async function StateHubPage({
                   href={`/${stateData.slug}/prelicensing`}
                   className="block text-center bg-navy hover:bg-navy-light text-white font-bold py-3 px-6 rounded-lg transition-colors"
                 >
-                  Get My License &rarr;
+                  {isOptionalExamPrep ? "Explore Exam Prep" : "Get My License"} &rarr;
                 </Link>
               </div>
 
@@ -527,6 +571,8 @@ export default async function StateHubPage({
                       ? `Starting at ${stateData.ce.packagePrice}`
                       : ceComingSoon
                       ? "Approved — courses coming soon"
+                      : stateData.ceApproved === false
+                      ? "Not currently offered"
                       : "State approval pending"}
                   </li>
                 </ul>
@@ -542,6 +588,8 @@ export default async function StateHubPage({
                     <p className="text-sm text-gray-600 mb-3 leading-relaxed">
                       {ceComingSoon
                         ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                        : stateData.ceApproved === false
+                        ? `JustInsurance does not currently offer ${stateData.name} CE courses.`
                         : `${stateData.name} CE course approval is pending.`}
                     </p>
                     <Link
@@ -586,6 +634,8 @@ export default async function StateHubPage({
                       ? `Starting at ${pcStartPrice}`
                       : ceComingSoon
                       ? "Approved — courses coming soon"
+                      : stateData.ceApproved === false
+                      ? "Not currently offered"
                       : "State approval pending"}
                   </li>
                 </ul>
@@ -601,6 +651,8 @@ export default async function StateHubPage({
                     <p className="text-sm text-gray-600 mb-3 leading-relaxed">
                       {ceComingSoon
                         ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                        : stateData.ceApproved === false
+                        ? `JustInsurance does not currently offer ${stateData.name} CE courses.`
                         : `${stateData.name} CE course approval is pending.`}
                     </p>
                     <Link
@@ -717,9 +769,15 @@ export default async function StateHubPage({
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <p className="text-2xl mb-2" aria-hidden="true">🎓</p>
-              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Prelicensing</h3>
+              <h3 className="font-bold text-navy text-sm mb-1">
+                {stateData.name} {isOptionalExamPrep ? "Exam Prep" : "Prelicensing"}
+              </h3>
               <p className="text-gray-500 text-xs leading-relaxed">
-                {prelicensingApproved ? "State-approved prelicensing courses for Life, Health, and Life & Health lines." : "Prelicensing courses for Life, Health, and Life & Health lines."}
+                {isOptionalExamPrep
+                  ? "Optional online exam-prep courses for Life, Health, and Life & Health lines."
+                  : prelicensingApproved
+                  ? "State-approved prelicensing courses for Life, Health, and Life & Health lines."
+                  : "Prelicensing courses for Life, Health, and Life & Health lines."}
               </p>
             </Link>
             {!ilWebinar && (
@@ -741,7 +799,7 @@ export default async function StateHubPage({
               <p className="text-2xl mb-2" aria-hidden="true">📝</p>
               <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Practice Exam</h3>
               <p className="text-gray-500 text-xs leading-relaxed">
-                Free practice questions modeled on the real {stateData.name} exam.
+                Free exam-style questions covering published {stateData.name} licensing topics.
               </p>
             </Link>
             <Link
@@ -804,6 +862,8 @@ export default async function StateHubPage({
                     // Every other state keeps the live wording byte-identically.
                     desc: prelicensingHeld
                       ? `Your ${stateData.name} courses are opening for enrollment soon — you'll be able to enroll and start online the moment they go live.`
+                      : prelicensingPartiallyLive
+                      ? `Enroll in the available ${stateData.name} Life course and start studying within minutes. Health and combined prelicensing remain unavailable.`
                       : "Enroll and start studying within minutes — no waiting, no shipping. Your course unlocks the moment your order completes.",
                   },
               {
@@ -816,7 +876,7 @@ export default async function StateHubPage({
               {
                 icon: "🎓",
                 title: "Built to Pass",
-                desc: "Practice exams that mirror your actual state exam, flashcards, and video lessons taught by licensed experts.",
+                desc: "Exam-style practice questions covering published licensing topics, plus flashcards and video lessons taught by licensed experts.",
               },
               {
                 icon: "💬",
@@ -1023,12 +1083,16 @@ export default async function StateHubPage({
           // New York today) must NOT present an "enroll / instant access" purchase
           // path. This branch takes precedence and gives held states the neutral
           // opening-soon message. Reverts automatically once approval issues.
-          prelicensingHeld
+          prelicensingPartiallyLive
+            ? `Enroll in the approved ${stateData.name} Life prelicensing course today. Health and combined prelicensing are not currently available from JustInsurance.`
+            : prelicensingHeld
             ? prelicensingApprovedComingSoon
               ? `JustInsurance is an approved ${stateData.name} provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} prelicensing course is opening for enrollment soon.`
               : `Our ${stateData.name} prelicensing course is completing state approval and will open for enrollment soon.`
             // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
             // "self-paced" claim for the approved hybrid format line.
+            : isOptionalExamPrep
+            ? `Explore optional online ${stateData.name} exam prep with self-paced study and instant access. No course is required before the licensing exam.`
             : ilWebinar
             ? `Enroll in a state-approved prelicensing course today. ${IL_WEBINAR_SHORT_LINE}`
             : !prelicensingApproved
@@ -1037,7 +1101,7 @@ export default async function StateHubPage({
             ? "Enroll in a state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee."
             : "Enroll in a state-approved prelicensing course today. 100% online, self-paced, with instant access the moment you enroll."
         }
-        ctaText={prelicensingHeld ? "Learn More" : "Browse Courses"}
+        ctaText={prelicensingHeld ? "Learn More" : isOptionalExamPrep ? "Explore Exam Prep" : prelicensingPartiallyLive ? "View the Life Course" : "Browse Courses"}
         ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>

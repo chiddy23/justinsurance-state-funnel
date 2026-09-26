@@ -17,7 +17,7 @@ const PRELICENSING_FEATURES = [
       </svg>
     ),
     title: "Practice Exams",
-    description: "Full-length practice exams that mirror the format and difficulty of your real state licensing exam. Know what to expect before test day.",
+    description: "Full-length practice exams for additional preparation, with detailed feedback to help you identify the topics that need more review before test day.",
   },
   {
     icon: (
@@ -108,6 +108,12 @@ const CE_FEATURES = [
 interface CourseFeaturesProps {
   variant?: "prelicensing" | "ce";
   /**
+   * Exam-only states such as Alabama do not require or approve prelicensing.
+   * Keep the shared feature cards, but frame them as optional preparation
+   * instead of a course that is required to qualify for the state exam.
+   */
+  examPrepOnly?: boolean;
+  /**
    * Illinois only: 3 of the 24 CE hours must be classroom/webinar ethics
    * (215 ILCS 5/500-35(b)), so the generic "No classroom required" claim on
    * the Self-Paced card is false for IL. When true, that card's copy is
@@ -140,12 +146,46 @@ interface CourseFeaturesProps {
 
 export default function CourseFeatures({
   variant = "prelicensing",
+  examPrepOnly = false,
   ceEthicsWebinar = false,
   liveCeCard,
   providerApproved = true,
 }: CourseFeaturesProps) {
   const isCE = variant === "ce";
   let features = isCE ? CE_FEATURES : PRELICENSING_FEATURES;
+  if (!isCE && examPrepOnly) {
+    // Alabama and Alaska sell optional exam preparation rather than a required
+    // prelicensing course. Limit this shared block to the inclusions verified in
+    // their live catalog instead of inheriting generic course-feature claims.
+    features = [
+      {
+        ...PRELICENSING_FEATURES[0],
+        title: "Video Explanations",
+        description: "Review major exam topics through focused video explanations you can watch on any device.",
+      },
+      {
+        ...PRELICENSING_FEATURES[1],
+        title: "5 Practice Exams",
+        description: "Use five exam-style practice exams for additional preparation and to identify topics that need more review.",
+      },
+      {
+        ...PRELICENSING_FEATURES[2],
+        title: "Condensed Review",
+        description: "Revisit important insurance concepts with concise review summaries before test day.",
+      },
+      {
+        ...PRELICENSING_FEATURES[3],
+        title: "AI Study Tools",
+        description: "Use built-in AI study tools to reinforce course topics and support your review.",
+      },
+      PRELICENSING_FEATURES[4],
+      {
+        ...PRELICENSING_FEATURES[5],
+        title: "Optional Live Support",
+        description: "Join optional weekly live instructor sessions when you want added help; attendance is not required.",
+      },
+    ];
+  }
   if (isCE && ceEthicsWebinar) {
     features = features.map((f) =>
       f.title === "Self-Paced Online"
@@ -187,11 +227,17 @@ export default function CourseFeatures({
       return f;
     });
   }
-  const heading = isCE ? "Everything You Need to Renew" : "Everything You Need to Pass";
+  const heading = isCE
+    ? "Everything You Need to Renew"
+    : examPrepOnly
+    ? "Everything You Need to Prepare"
+    : "Everything You Need to Pass";
   const subheading = isCE
     ? providerApproved
       ? "Your CE course includes everything you need to complete your hours, get reported to the state, and keep your license active."
       : "Your CE course includes everything you need to complete your hours and keep your license active."
+    : examPrepOnly
+    ? "Optional study tools and instructor support help you review key exam topics and identify areas that need more practice."
     : "Your course includes all the tools designed to help students pass their state exam on the first try.";
 
   return (

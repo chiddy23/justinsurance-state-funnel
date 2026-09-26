@@ -236,7 +236,7 @@ Foundation knowledge. The required hours give you exposure to all major content 
 
 Practice opportunities. Quality prelicense includes practice questions building exam-style thinking.
 
-Final exam similarity. The prelicense final exam mirrors state exam format, giving you practice with the testing approach.
+Final exam preparation. The prelicense final exam gives you an additional opportunity to apply course concepts in a testing format.
 
 Connecticut-specific content. Quality prelicense covers Connecticut-specific laws and regulations tested on the state exam.
 

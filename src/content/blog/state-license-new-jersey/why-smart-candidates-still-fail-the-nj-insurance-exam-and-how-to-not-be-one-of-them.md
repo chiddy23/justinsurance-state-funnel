@@ -84,7 +84,7 @@ Based on the structure of NJ exam [pass rates](/pass-rates) and the diagnostic r
 
 How can I tell if I'm actually ready for the NJ insurance exam?
 
-The most reliable readiness signal is consistent performance on full-length, timed practice exams. If you are scoring 75% or above on two or three consecutive practice exams — under conditions that mirror the real exam — you are ready to schedule. If you are scoring below 70% on practice exams, booking your PSI appointment is premature regardless of how confident you feel about the material. Practice exam scores are more predictive of real exam outcomes than self-assessed confidence, because they reveal how well you perform under the retrieval pressure of an actual timed test rather than in a relaxed review setting.
+The most reliable readiness signal is consistent performance on full-length, timed practice exams. If you are scoring 75% or above on two or three consecutive closed-book practice exams, you are ready to schedule. If you are scoring below 70% on practice exams, booking your PSI appointment is premature regardless of how confident you feel about the material. Practice exam scores are more predictive of real exam outcomes than self-assessed confidence, because they reveal how well you perform under time pressure rather than in a relaxed review setting.
 
 Should I study the PSI content outline or my prelicensing course materials?
 

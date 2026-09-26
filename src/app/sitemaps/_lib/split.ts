@@ -34,9 +34,10 @@ function allEntries(): SitemapEntry[] {
   const lastModified = todayString();
   const entries: SitemapEntry[] = [...generateSitemapEntries()];
 
-  // /[state]/cost — 50 entries minus /new-york (parity with sitemap-data.ts).
+  // /[state]/cost — all 50 state cost guides. New York is now included because
+  // its verified Life route is live; unavailable NY lines remain noindex on
+  // their own detail routes and are excluded separately.
   for (const slug of ALL_STATE_SLUGS) {
-    if (slug === "new-york") continue;
     entries.push({
       url: `${BASE_URL}/${slug}/cost`,
       lastModified,

@@ -4,7 +4,11 @@ import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import { STATES } from "@/lib/states";
-import { pleRequirement } from "@/lib/prelicensing-status";
+import {
+  isCeApprovedComingSoon,
+  isCeAvailable,
+  pleRequirement,
+} from "@/lib/prelicensing-status";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 // ---------------------------------------------------------------------------
@@ -14,7 +18,7 @@ import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 // the 49-state figure printed elsewhere on this same page.
 // ---------------------------------------------------------------------------
 const ALL_STATES = Object.values(STATES);
-const SERVED_STATES = ALL_STATES.filter((s) => s.slug !== "new-york");
+const SERVED_STATES = ALL_STATES;
 const SERVED_STATE_COUNT = SERVED_STATES.length;
 
 // ---------------------------------------------------------------------------
@@ -25,9 +29,9 @@ const SERVED_STATE_COUNT = SERVED_STATES.length;
 // approval we do not hold. Derived here so it self-corrects when WA issues.
 // ---------------------------------------------------------------------------
 const CE_APPROVAL_PENDING = SERVED_STATES.filter(
-  (s) => s.providerApprovalNumber === "PENDING"
+  isCeApprovedComingSoon
 );
-const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
+const CE_APPROVED_COUNT = SERVED_STATES.filter(isCeAvailable).length;
 
 /** "A", "A and B", "A, B, and C" — for naming states in prose. */
 const formatStateNames = (states: { name: string }[]): string => {
@@ -39,10 +43,10 @@ const formatStateNames = (states: { name: string }[]): string => {
 
 const CE_APPROVAL_PHRASE =
   CE_APPROVAL_PENDING.length === 0
-    ? `continuing education in all ${SERVED_STATE_COUNT} states we serve`
-    : `continuing education in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (our ${formatStateNames(
+    ? `continuing education in ${CE_APPROVED_COUNT} states; New York CE is not currently available`
+    : `continuing education in ${CE_APPROVED_COUNT} states (${formatStateNames(
         CE_APPROVAL_PENDING
-      )} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending)`;
+      )} is approved with courses coming soon; New York CE is not currently available)`;
 
 // ---------------------------------------------------------------------------
 // DELIVERY-FORMAT FACTS — derived from states.ts, never hand-typed.
@@ -104,12 +108,12 @@ const SELF_PACED_CTA_CAVEAT = `Self-paced study in most of the ${SERVED_STATE_CO
   PROCTORED_FINAL_STATES.length
     ? ` and ${PROCTORED_FINAL_STATES.length} states require a proctored final exam you arrange`
     : ""
-}; New York is not currently served.`
+}; New York Life prelicensing is available, while New York Health, combined prelicensing, and CE are not currently available.`
 
 export const metadata: Metadata = {
   title: { absolute: "About JustInsurance — 30,000+ Students Trained Since 2018" },
   description:
-    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 30,000+ students trained. 93% completer pass rate. 49 states.",
+    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 30,000+ students trained. 93% completer pass rate. Course coverage across 50 states; availability varies.",
   alternates: { canonical: "https://justinsuranceco.com/about" },
   openGraph: {
     title: "About JustInsurance — 30,000+ Students Trained Since 2018",
@@ -405,9 +409,9 @@ export default function AboutPage() {
           <P>
             JustInsurance is a fully online insurance education platform offering insurance
             prelicensing courses, insurance continuing education, and full licensing support
-            across {SERVED_STATE_COUNT} states. Our courses carry state approval wherever the
+            across {SERVED_STATE_COUNT} states, with availability varying by product and line of authority. Our courses carry state approval wherever the
             state approves that course type &mdash; {CE_APPROVAL_PHRASE}, and prelicensing in the
-            states that actually mandate it. Coursework is self-paced except where state law
+            states that actually mandate it. New York currently offers Life prelicensing and independent practice products; Health, combined prelicensing, and CE are not currently available there. Coursework is self-paced except where state law
             requires live instruction, monitored seat time, or a proctored exam.{" "}
             {IL_LIVE_SENTENCE} {PROCTOR_SENTENCE} {LIVE_CE_SENTENCE} California and Minnesota also
             enforce monitored seat time that cannot be accelerated, so those hours take as long as
@@ -421,7 +425,7 @@ export default function AboutPage() {
             If you&apos;ve never held a license, we handle the full path: a life and health
             insurance license prelicensing course, full-length practice exams, exam scheduling
             guidance, background check walkthroughs, and the NIPR application process. Most
-            students finish in two to six weeks, depending on the state.
+            students finish in two to six weeks, depending on the state. Exact products and required steps vary by state and line of authority.
           </P>
 
           <H3>For Licensed Agents</H3>

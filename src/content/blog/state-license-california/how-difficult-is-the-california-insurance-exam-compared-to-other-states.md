@@ -99,7 +99,7 @@ Score comfortably above 70% in practice. Don't aim to just squeak by the passing
 
 ## Prepare to Pass on Your First Attempt
 
-The California exam is passable — with proper preparation. At JustInsurance, our California prelicense course is built around the real exam content outline and includes practice questions designed to mirror the actual exam's style and difficulty.
+The California exam is passable — with proper preparation. At JustInsurance, our California prelicense course is built around the published exam content outline and includes state-specific practice questions with detailed explanations.
 
 Enroll today and set yourself up to pass on the first try.
 

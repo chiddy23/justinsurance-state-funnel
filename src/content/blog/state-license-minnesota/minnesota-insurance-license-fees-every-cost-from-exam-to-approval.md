@@ -22,7 +22,7 @@ Self-paced online courses: The most common format for Minnesota applicants. Pric
 
 Live classroom courses: Some providers offer scheduled, instructor-led classroom sessions in addition to or instead of online options. Classroom courses for a single line typically run higher than online equivalents — often $150–$300 per line depending on the provider and location. The classroom format satisfies the same statutory requirement as online courses and produces the same certificate of completion.
 
-What the course price includes: Most approved provider packages include the course content, the internal certification exam, and the certificate of completion upon passing. Some providers include practice exams in the base price; others offer them as an add-on. JustInsurance's Minnesota prelicensing courses include practice exams designed to mirror the actual PSI exam format at no additional charge.
+What the course price includes: Most approved provider packages include the course content, the internal certification exam, and the certificate of completion upon passing. Some providers include practice exams in the base price; others offer them as an add-on. JustInsurance's Minnesota prelicensing courses include state-specific practice exams built around the current PSI content outline at no additional charge.
 
 One-time cost: The prelicensing course is a one-time cost for each line of authority — you pay it once to get licensed. CE courses required for license renewal are separate and do not require repurchasing the prelicensing course.
 

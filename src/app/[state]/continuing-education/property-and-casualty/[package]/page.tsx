@@ -45,7 +45,9 @@ export async function generateMetadata({
 
   const canonical = `https://justinsuranceco.com/${state}/continuing-education/property-and-casualty/${packageSlug}`;
   const title = `${pkg.shortName} | JustInsurance`;
-  const description = `${pkg.totalHours}-hour ${stateData.name} Property & Casualty CE package: ${pkg.ethicsHours}-hr ${pkg.ethicsLabel} + ${pkg.pcHours}-hr P&C electives. Online, self-paced, same-day reporting to the ${stateData.doiName} in most cases. ${pkg.price}.`;
+  const description = stateData.slug === "florida"
+    ? `${pkg.shortName}: ${pkg.totalHours} hours total, including ${pkg.ethicsHours}-hour ${pkg.ethicsLabel} and ${pkg.pcHours} hours of P&C electives. Online and self-paced. ${pkg.price}.`
+    : `${pkg.totalHours}-hour ${stateData.name} Property & Casualty CE package: ${pkg.ethicsHours}-hr ${pkg.ethicsLabel} + ${pkg.pcHours}-hr P&C electives. Online, self-paced, same-day reporting to the ${stateData.doiName} in most cases. ${pkg.price}.`;
 
   return {
     // .absolute prevents root layout's "%s | JustInsurance" template from

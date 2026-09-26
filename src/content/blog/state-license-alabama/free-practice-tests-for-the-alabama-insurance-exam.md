@@ -45,7 +45,7 @@ This is why nearly every successful Alabama candidate says practice questions we
 
 High-quality practice tests:
 
-Match Alabama's format. Mirror the exam you're actually sitting for: 150 questions in 180 minutes for combined Life & Health or combined Property & Casualty, 125 in 150 minutes for Life-only or Casualty-only, and 100 in 120 minutes for Health-only, Property-only, or Personal Lines — with scenario-based and recall questions mixed
+Use Alabama's published timing and question counts when practicing: 150 questions in 180 minutes for combined Life & Health or combined Property & Casualty, 125 in 150 minutes for Life-only or Casualty-only, and 100 in 120 minutes for Health-only, Property-only, or Personal Lines — with scenario-based and recall questions mixed
 
 Cover Alabama-specific content. Include questions about Alabama insurance laws, ALDOI, and state-specific provisions
 

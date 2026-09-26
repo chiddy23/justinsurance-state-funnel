@@ -28,6 +28,12 @@ export interface Testimonial {
   /** YouTube video ID where this comment originated (for source link) */
   videoId?: string;
   /**
+   * True only when the review specifically discusses our practice tests,
+   * practice questions, or practice quizzes. Practice-exam sales pages use
+   * this explicit flag instead of guessing from generic "I passed" reviews.
+   */
+  practiceExamRelevant?: boolean;
+  /**
    * Explicit opt-out: keep the record here for provenance, but never render it.
    * Use this for judgment calls a regex cannot make (see mentionsCompetitor
    * below for the automatic named-competitor filter). NEVER edit a real
@@ -630,14 +636,6 @@ const YOUTUBE_COMMENTS_RAW: Testimonial[] = [
     videoId: "it9dlxYAAbY",
   },
   {
-    name: "Oldham",
-    initials: "OL",
-    source: "youtube",
-    state: "Florida",
-    text: "After 2 failed attempts, I purchased your program, and passed the 214 Life and Variable Annuities on the third attempt. I took all the pre-quizzes and the Florida specific stuff. One suggestion - your full quiz should mirror the FL exam. 55 questions on general and 40 FL specific.",
-    videoId: "QvBFVAZHCRA",
-  },
-  {
     name: "Carmelo",
     initials: "CA",
     source: "youtube",
@@ -788,6 +786,7 @@ const YOUTUBE_COMMENTS_RAW: Testimonial[] = [
     state: "Pennsylvania",
     text: "Hello, Mr. Insurance King. I have been reading most of the comments and responses. Where can I obtain the video that everyone is talking about, which supposedly helps pass the exam? My exam, Life, Accident, and Health, with 150 questions, is scheduled for this coming Saturday in Pennsylvania. Your guidance would be highly appreciated. By the way, the Practice questions above were very helpful.",
     videoId: "it9dlxYAAbY",
+    practiceExamRelevant: true,
   },
   {
     name: "Annabailey",
@@ -804,6 +803,7 @@ const YOUTUBE_COMMENTS_RAW: Testimonial[] = [
     state: "Washington",
     text: "I just wanted to say thank you so much for your training especially the practice quizzes. They helped me out so much. I watched a this video three times and passed my exam in WA. The exam was hard but I used all the tools you taught us on how to distinguish the various terms and insurance concepts. Thanks again!",
     videoId: "OOmBWg8yKxo",
+    practiceExamRelevant: true,
   },
   {
     name: "Robsteventon",
@@ -1164,6 +1164,7 @@ const YOUTUBE_COMMENTS_RAW: Testimonial[] = [
     source: "youtube",
     text: "Thank you I passed on my first try, Your insurance practice test help me a lot. Just insurance llc .. thank you",
     videoId: "it9dlxYAAbY",
+    practiceExamRelevant: true,
   },
   {
     name: "Venietamahase",
@@ -1224,6 +1225,7 @@ const GOOGLE_REVIEWS_RAW: Testimonial[] = [
     initials: "BH",
     text: "Kathlene was AMAZING and helped me understand how to navigate my practice test and final! She was quick and answered everything with clarity.",
     source: "google",
+    practiceExamRelevant: true,
   },
   {
     name: "Seth W.",
@@ -1254,6 +1256,7 @@ const GOOGLE_REVIEWS_RAW: Testimonial[] = [
     initials: "DL",
     text: "Justin is great! He's videos on YouTube helped me a lot. Bought his practice test as well helped me a ton! Highly recommend.",
     source: "google",
+    practiceExamRelevant: true,
   },
   {
     name: "Pari B.",

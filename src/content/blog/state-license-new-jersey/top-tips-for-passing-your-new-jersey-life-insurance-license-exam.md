@@ -57,7 +57,7 @@ You do not have to isolate yourself while preparing. Consider forming a study gr
 
 The New Jersey life insurance license exam typically consists of multiple-choice questions. Each question tests your understanding of principles like policy types, state regulations, and ethical standards. Although the content can feel extensive, you can gain an advantage by knowing how the test is structured and practicing accordingly.
 
-If possible, use textbooks and practice quizzes that mirror the question style you will see on the official exam. This helps you become skilled at differentiating between correct and almost-correct answers. When you finish a practice set, review both your right and wrong responses to identify patterns in your mistakes. Doing so sharpens your focus on areas you need to improve the most.
+If possible, use textbooks and practice quizzes built around the published exam topics. This helps you become skilled at differentiating between correct and almost-correct answers. When you finish a practice set, review both your right and wrong responses to identify patterns in your mistakes. Doing so sharpens your focus on areas you need to improve the most.
 
 ## Create an effective exam-day strategy
 

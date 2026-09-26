@@ -2,7 +2,11 @@ import { passGuaranteeExcludedLabel } from "@/lib/pass-guarantee";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
-import { credentialKindFromHours, pleRequirement } from "@/lib/prelicensing-status";
+import {
+  credentialKindFromHours,
+  isPrelicensingPartiallyLive,
+  pleRequirement,
+} from "@/lib/prelicensing-status";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
@@ -31,8 +35,14 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 // not served). That is what the stat below says — no more.
 // ---------------------------------------------------------------------------
 const ALL_STATES = Object.values(STATES);
-const SERVED_STATES = ALL_STATES.filter((s) => s.slug !== "new-york");
+const SERVED_STATES = ALL_STATES;
 const SERVED_STATE_COUNT = SERVED_STATES.length;
+const PARTIAL_PRELICENSING_STATES = SERVED_STATES.filter(
+  isPrelicensingPartiallyLive
+);
+const PARTIAL_PRELICENSING_NOTE = PARTIAL_PRELICENSING_STATES.length
+  ? `; ${PARTIAL_PRELICENSING_STATES.map((s) => s.name).join(", ")} currently offers Life prelicensing only`
+  : "";
 
 const mandatesPrelicensing = (s: (typeof ALL_STATES)[number]): boolean =>
   credentialKindFromHours([
@@ -113,17 +123,17 @@ const formatStateNames = (states: { name: string }[]): string => {
 
 const PRELICENSING_APPROVAL_SUB =
   SERVED_PRELICENSING_PENDING.length === 0
-    ? `State-approved prelicensing in all ${SERVED_PRELICENSING_STATES.length} states we serve that require it`
+    ? `State-approved prelicensing in all ${SERVED_PRELICENSING_STATES.length} states that require it${PARTIAL_PRELICENSING_NOTE}`
     : `State-approved prelicensing in ${SERVED_PRELICENSING_APPROVED_COUNT} of the ${SERVED_PRELICENSING_STATES.length} states we serve that require it — ${formatStateNames(SERVED_PRELICENSING_PENDING)} approval pending`;
 
 /** Lowercase, mid-sentence form of the same claim, for prose and metadata. */
 const PRELICENSING_APPROVAL_PHRASE =
   SERVED_PRELICENSING_PENDING.length === 0
-    ? "state-approved in every state we serve that requires prelicensing education"
+    ? `state-approved wherever offered in the states that require prelicensing education${PARTIAL_PRELICENSING_NOTE}`
     : `state-approved in ${SERVED_PRELICENSING_APPROVED_COUNT} of the ${SERVED_PRELICENSING_STATES.length} states we serve that require prelicensing education`;
 
 const PAGE_TITLE = "Insurance Prelicensing Courses | Nationwide | JustInsurance";
-const PAGE_DESC = `Insurance prelicensing courses online — $199 with pass guarantee in eligible states. Life, Health, and Life & Health courses, available in ${SERVED_STATE_COUNT} states and ${PRELICENSING_APPROVAL_PHRASE}.`;
+const PAGE_DESC = `Insurance prelicensing and exam-prep courses online — $199 with pass guarantee in eligible states. Coverage across all ${SERVED_STATE_COUNT} states; New York currently offers Life prelicensing only.`;
 const CANONICAL = "https://justinsuranceco.com/prelicensing";
 
 export const metadata: Metadata = {
@@ -159,7 +169,7 @@ const faqs = [
   {
     question: "Do I need prelicensing before taking the state exam?",
     answer:
-      "It depends on your state. 17 of the 49 states we serve require proof of prelicensing course completion before you can register for the state licensing exam; in the other 32 you can schedule the exam directly and a course is optional preparation. Where a certificate is required, we issue one when you finish your JustInsurance course and you submit it to your state's exam vendor (typically Pearson VUE or PSI) to unlock exam eligibility.",
+      "It depends on your state. Eighteen states require prelicensing education for at least one insurance line; the other 32 do not mandate it before the licensing exam. The timing and proof rules vary by state, so use your state requirements page and the current exam-vendor bulletin before scheduling. New York Life prelicensing is currently available from JustInsurance; New York Health and combined prelicensing are not currently available.",
   },
   {
     question: "What happens if I don't pass the licensing exam?",
@@ -224,7 +234,7 @@ const webPageSchema = {
   "@type": "WebPage",
   name: "Insurance Prelicensing Courses — Nationwide Coverage",
   url: "https://justinsuranceco.com/prelicensing",
-  description: `Insurance prelicensing courses across ${SERVED_STATE_COUNT} states, ${PRELICENSING_APPROVAL_PHRASE}. Life, Health, and Life & Health combined courses for the State Insurance Producer License. $199 with pass guarantee in eligible states.`,
+  description: `Insurance prelicensing and exam-prep course coverage across ${SERVED_STATE_COUNT} states, ${PRELICENSING_APPROVAL_PHRASE}. Product availability varies by state and line of authority. $199 with pass guarantee in eligible states.`,
   mainEntityOfPage: {
     "@type": "WebPage",
     "@id": "https://justinsuranceco.com/prelicensing",
@@ -278,7 +288,7 @@ export default function PrelicensingPage() {
             Insurance Prelicensing Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-4 max-w-2xl mx-auto">
-            Complete your state-required prelicensing education online for $199. Self-paced in most states and backed by our pass guarantee* in eligible states. Available in {SERVED_STATE_COUNT} states (all except New York) — and {PRELICENSING_APPROVAL_PHRASE}.
+            Complete state-required prelicensing education or optional exam preparation online for $199. Self-paced in most states and backed by our pass guarantee* in eligible states. Coverage spans all {SERVED_STATE_COUNT} states; New York currently offers Life prelicensing only.
           </p>
           <p className="text-sm text-blue-200/80 mb-8 max-w-2xl mx-auto">
             *Pass guarantee is available in most states and is not offered in {passGuaranteeExcludedLabel()}.{" "}
@@ -307,10 +317,10 @@ export default function PrelicensingPage() {
           </h2>
           <div className="space-y-5 text-gray-700 leading-relaxed text-base">
             <p>
-              Insurance prelicensing is state-required education in the states that mandate it &mdash; 17 of the 49 states we serve. Where it is required you must complete it before sitting for the state licensing exam; in the remaining states a prelicensing course is optional exam preparation that most successful candidates still take. In the states that do require it, the Department of Insurance sets the required number of study hours — typically between 20 and 40 hours — and defines the topics that must be covered, including life insurance concepts, health insurance products, policy structures, annuities, federal and state regulations, and professional ethics.
+              Insurance prelicensing is state-required education in the states that mandate it &mdash; 18 of the 50 states require it for at least one insurance line. In the other 32 states, education is not a prerequisite for the licensing exam and a course is optional preparation. In the states that do require it, the Department of Insurance sets the required number of study hours and defines the topics that must be covered, including insurance concepts, policy structures, annuities, federal and state regulations, and professional ethics.
             </p>
             <p>
-              JustInsurance prelicensing courses are delivered fully online and are self-paced in most states. {IL_LIVE_PHRASE}, and California and Minnesota enforce monitored seat time that cannot be accelerated. You study through video lessons, reading modules, and chapter quizzes, then take a final practice exam that mirrors your state&apos;s actual licensing test. When you pass, you receive a completion certificate — state-recognized in the states that approve prelicensing providers, where it unlocks your eligibility to sit for the official exam.
+              JustInsurance prelicensing courses are delivered fully online and are self-paced in most states. {IL_LIVE_PHRASE}, and California and Minnesota enforce monitored seat time that cannot be accelerated. You study through video lessons, reading modules, and chapter quizzes, with additional practice questions organized around published licensing topics. Practice materials do not reproduce official state exam questions and do not guarantee a passing result. After satisfying the applicable course requirements, you receive a completion certificate in states where one is issued.
             </p>
             <p>
               Where a state requires prelicensing, the requirement applies to each line of authority you want to carry — life insurance, health insurance, or both. In the 32 states that do not require it, a course is optional exam preparation. The right course depends on the license type your state requires and the products you plan to offer clients. Use the state grid below to find the course options available in your state.

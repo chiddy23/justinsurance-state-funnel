@@ -29,7 +29,7 @@ export interface LeadTestimonial {
 
 interface TestimonialCardsProps {
   leadTestimonial?: LeadTestimonial;
-  variant?: "prelicensing" | "ce";
+  variant?: "prelicensing" | "practice-exam" | "ce";
   /** Unused — kept for call-site compatibility with existing pages. */
   seed?: string;
   /** When set, prioritizes real testimonials (YouTube/Google) matching this
@@ -124,10 +124,11 @@ function getInitials(name: string): string {
 function pickFromUnified(
   stateName: string,
   count: number,
-  variant: "prelicensing" | "ce",
+  variant: "prelicensing" | "practice-exam" | "ce",
   excludeGuaranteeMentions: boolean
 ): Testimonial[] {
   const isCE = variant === "ce";
+  const isPracticeExam = variant === "practice-exam";
   const pool = ALL_TESTIMONIALS.filter(
     (t) =>
       // ALL_TESTIMONIALS is already competitor-filtered at the source; this
@@ -135,6 +136,7 @@ function pickFromUnified(
       // even if it is ever pointed at a raw/unfiltered array.
       isDisplayable(t) &&
       (isCE ? t.source === "ce-renewal" : t.source !== "ce-renewal") &&
+      (!isPracticeExam || t.practiceExamRelevant === true) &&
       (!excludeGuaranteeMentions || !mentionsPassGuarantee(t))
   );
 
@@ -167,9 +169,9 @@ function pickFromUnified(
     ...statelessYoutube,
     ...statelessGoogle,
     ...statelessVerified,
-    ...mismatchYoutube,
-    ...mismatchGoogle,
-    ...mismatchVerified,
+    ...(isPracticeExam ? [] : mismatchYoutube),
+    ...(isPracticeExam ? [] : mismatchGoogle),
+    ...(isPracticeExam ? [] : mismatchVerified),
   ];
   // Deduplicate by name+text
   const seen = new Set<string>();
@@ -185,13 +187,18 @@ function pickFromUnified(
 
 export default function TestimonialCards({ leadTestimonial, variant = "prelicensing", stateName, stateSlug }: TestimonialCardsProps) {
   const isCE = variant === "ce";
+  const isPracticeExam = variant === "practice-exam";
   // Ohio Admin. Code 3901-5-07(H)(16): on excluded-state pages, no
   // testimonial that mentions the pass guarantee may render. When
   // stateSlug is absent (national pages) nothing is filtered.
   const guaranteeAllowed = hasPassGuarantee(stateSlug);
   const excludeGuaranteeMentions = !guaranteeAllowed;
 
-  const heading = isCE ? "What Our Agents Say" : "What Our Students Say";
+  const heading = isCE
+    ? "What Our Agents Say"
+    : isPracticeExam
+    ? "What Students Say About Our Practice Exams"
+    : "What Our Students Say";
 
   // A caller-supplied lead testimonial must itself be a real quote (this
   // prop exists for real attributed leads, e.g. a specific YouTube/Google

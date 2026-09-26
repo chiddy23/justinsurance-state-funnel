@@ -48,7 +48,7 @@ export default function PrelicensingHeldNotice({
         {approvedComingSoon ? (
           <>
             JustInsurance is an approved {stateName} provider (#
-            {providerApprovalNumber}) — our prelicensing course is coming soon
+            {providerApprovalNumber}) — our {loaName ? `${loaName} course` : "prelicensing courses"} {loaName ? "is" : "are"} coming soon
             and isn&apos;t open for enrollment yet. Tell us you&apos;re
             interested and we&apos;ll let you know the moment it&apos;s
             available.
@@ -61,6 +61,7 @@ export default function PrelicensingHeldNotice({
           </>
         )}
       </p>
+      <h2 className="text-xl font-bold text-navy mb-4">What you can do now</h2>
       <div className="flex flex-col sm:flex-row gap-3 justify-center">
         <Link
           href="/contact"

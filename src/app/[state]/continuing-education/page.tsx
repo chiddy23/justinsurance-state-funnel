@@ -48,7 +48,9 @@ export async function generateMetadata({
     ceHours: stateData.ce.totalHours,
     ceRenewalPeriod: stateData.ce.renewalPeriod,
     available: isCeAvailable(stateData),
-    comingSoonDescription: isCeApprovedComingSoon(stateData)
+    comingSoonDescription: stateData.ceApproved === false
+      ? `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance does not currently offer ${stateData.name} CE courses.`
+      : isCeApprovedComingSoon(stateData)
       ? `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
       : `${stateData.name} requires ${stateData.ce.totalHours} CE hours every ${stateData.ce.renewalPeriod}. JustInsurance's ${stateData.name} CE provider approval is pending — courses coming soon.`,
   });
@@ -64,6 +66,7 @@ export default async function CEHubPage({
   if (!stateData) notFound();
 
   const { ce } = stateData;
+  const isMississippi = stateData.slug === "mississippi";
   // Whether CE is LIVE and purchasable here: provider approval has issued
   // (providerApprovalNumber !== "PENDING") AND ceCoursesLive !== false. Every
   // "state-approved" / "same-day reporting" claim, the reporting row, the refund
@@ -72,6 +75,8 @@ export default async function CEHubPage({
   // here — recording the approval number must NOT turn on a purchase CTA — and
   // instead shows the neutral "Approved — courses coming soon" notice below.
   const providerApproved = isCeAvailable(stateData);
+  const packageAvailable =
+    providerApproved && stateData.cePackagesLive !== false;
   const faqs = getCEHubFAQs(buildFaqData(stateData));
 
   const breadcrumbSchema = generateBreadcrumbSchema([
@@ -87,6 +92,8 @@ export default async function CEHubPage({
   const articleHeadline = `${stateData.name} Insurance Continuing Education (CE) Courses`;
   const articleDescription = providerApproved
     ? `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We typically report your completion to the state the same day.`
+    : stateData.ceApproved === false
+    ? `${stateData.name} requires ${ce.totalHours} hours of continuing education every ${ce.renewalPeriod}. JustInsurance does not currently offer ${stateData.name} CE courses.`
     : `${stateData.name} requires ${ce.totalHours} hours of continuing education every ${ce.renewalPeriod}. ${isCeApprovedComingSoon(stateData) ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon.` : `JustInsurance's ${stateData.name} CE provider approval is pending — CE courses coming soon.`}`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
@@ -103,7 +110,7 @@ export default async function CEHubPage({
     // Availability gate — providerApproved === isCeAvailable(stateData). When CE
     // is coming-soon/pending (WA #300632 / NY), the generator returns null so no
     // InStock $39 Offer or "same-day reporting" Course schema is emitted.
-    available: providerApproved,
+    available: packageAvailable,
   });
 
   const crumbs = [
@@ -122,7 +129,7 @@ export default async function CEHubPage({
           Emit it ONLY when CE is live and approved (providerApproved === isCeAvailable);
           a coming-soon / approval-pending state (WA #300632 / NY #80025) must NOT
           publish an InStock $39 Offer, so the block is skipped entirely there. */}
-      {providerApproved && <SchemaMarkup schema={courseSchema} />}
+      {packageAvailable && <SchemaMarkup schema={courseSchema} />}
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -134,6 +141,8 @@ export default async function CEHubPage({
         subtitle={
           providerApproved
             ? `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We typically report your completion to the state the same day.`
+            : stateData.ceApproved === false
+            ? `Renew your ${stateData.name} insurance license — ${ce.totalHours} CE hours every ${ce.renewalPeriod}. JustInsurance does not currently offer ${stateData.name} CE courses; this page is provided for general requirements information.`
             : `Renew your ${stateData.name} insurance license — ${ce.totalHours} CE hours every ${ce.renewalPeriod}. ${isCeApprovedComingSoon(stateData) ? `JustInsurance is an approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — our ${stateData.name} CE courses are coming soon.` : `Our ${stateData.name} CE provider approval is pending — courses coming soon.`}`
         }
         ctaButtons={[
@@ -154,6 +163,14 @@ export default async function CEHubPage({
         <section className="bg-gold/10 border-y border-gold/30 py-4 px-4">
           <p className="max-w-4xl mx-auto text-center text-sm font-semibold text-navy">
             Approved {stateData.name} CE provider (#{stateData.providerApprovalNumber}) — courses coming soon.
+          </p>
+        </section>
+      )}
+
+      {stateData.ceApproved === false && (
+        <section className="bg-gray-50 border-y border-gray-200 py-4 px-4">
+          <p className="max-w-4xl mx-auto text-center text-sm font-semibold text-navy">
+            JustInsurance does not currently offer {stateData.name} CE courses. No enrollment or payment link is shown.
           </p>
         </section>
       )}
@@ -209,12 +226,18 @@ export default async function CEHubPage({
                 {stateData.name} CE Requirements
               </h2>
               <p className="text-gray-600 leading-relaxed mb-4">
-                {stateData.name} requires all licensed insurance producers to complete continuing education (CE) hours to renew their license every {ce.renewalPeriod}. This ensures agents stay current with changing insurance products, regulations, and ethics requirements.
+                {stateData.slug === "georgia" ? (
+                  <>Most Georgia resident insurance producers must complete 24 hours of continuing education every 2 years, including 3 hours of ethics. Certain license types and long-tenured licensees may have different requirements, so verify your individual record before enrolling.</>
+                ) : isMississippi ? (
+                  <>Mississippi resident producers generally complete 12 hours when their license period is 18 months or less, or 24 hours including 3 hours of ethics when the license period is more than 18 months. Confirm the length of your own license period before selecting a package.</>
+                ) : (
+                  <>{stateData.name} requires all licensed insurance producers to complete continuing education (CE) hours to renew their license every {ce.renewalPeriod}. This ensures agents stay current with changing insurance products, regulations, and ethics requirements.</>
+                )}
               </p>
               <p className="text-gray-600 leading-relaxed mb-4">
                 {providerApproved ? (
                   <>
-                    JustInsurance offers state-approved online CE courses that you can complete entirely at your own pace, on any device. When you finish, we typically report your completion directly to the {stateData.doiName} the same day — no paperwork, no delays.
+                    JustInsurance offers state-approved online CE courses that you can complete entirely at your own pace, on any device. When you finish, we typically report your completion directly to the {stateData.doiName} the same day — no paperwork from you. State posting times can vary.
                   </>
                 ) : (
                   <>
@@ -275,7 +298,7 @@ export default async function CEHubPage({
               <ul className="space-y-3 text-sm">
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                   <span className="text-gray-500">Total CE Hours</span>
-                  <span className="font-bold text-navy">{ce.firstTermHours ? `${ce.firstTermHours} hrs first term, then ${ce.totalHours} hrs` : `${ce.totalHours} hours`}</span>
+                  <span className="font-bold text-navy">{isMississippi ? "12 or 24 hours" : ce.firstTermHours ? `${ce.firstTermHours} hrs first term, then ${ce.totalHours} hrs` : `${ce.totalHours} hours`}</span>
                 </li>
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                   <span className="text-gray-500">Renewal Period</span>
@@ -283,7 +306,7 @@ export default async function CEHubPage({
                 </li>
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                   <span className="text-gray-500">Ethics Hours Required</span>
-                  <span className="font-bold text-navy">{ce.ethicsHours} hours</span>
+                  <span className="font-bold text-navy">{isMississippi ? "3 hrs in 24-hr cycle" : `${ce.ethicsHours} hours`}</span>
                 </li>
                 {/* States mandating specific topic-hours beyond ethics (e.g. New
                     York: insurance law + ethics + DEI). ethicsHours alone would
@@ -320,7 +343,7 @@ export default async function CEHubPage({
         {/* COM-08 (audit 2026-07-14): refund microcopy at the point of sale.
             Hidden for pending-approval states — there is no purchase to refund
             while CE enrollment is gated. */}
-        {providerApproved && (
+        {packageAvailable && (
           <p className="max-w-4xl mx-auto px-4 pt-4 text-center text-xs text-gray-600">
             <RefundDisclosure />
           </p>

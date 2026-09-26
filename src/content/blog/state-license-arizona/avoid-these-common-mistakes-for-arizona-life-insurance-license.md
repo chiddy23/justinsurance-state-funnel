@@ -50,7 +50,7 @@ In Arizona’s competitive insurance market, choosing subpar materials can resul
 
 Even with a solid grasp of the content, exam-day nerves can dramatically impact your performance. Walking into the testing center without a plan for managing stress or pacing can cause you to make rushed guesses and overlook key details.
 
-One helpful trick is to solve [practice questions](/arizona/practice-exam) in a timed environment. This approach mirrors the pressure you’ll feel during the actual exam. If you can get comfortable reading and answering questions efficiently, you’ll be more relaxed when it counts.
+One helpful trick is to solve [practice questions](/arizona/practice-exam) in a timed environment. This approach helps you build pacing skills before the actual exam. If you can get comfortable reading and answering questions efficiently, you’ll be more relaxed when it counts.
 
 When tackling each question, read it carefully and identify the specific concept being tested. Jumping to conclusions is a fast way to miss important clues that guide you to the correct choice. If possible, skip especially tricky items and return to them later instead of bogging down the entire test. Building good habits during practice can help you handle tricky questions with greater ease on exam day.
 

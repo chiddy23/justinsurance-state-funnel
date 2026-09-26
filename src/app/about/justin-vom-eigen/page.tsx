@@ -4,7 +4,11 @@ import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import { STATES } from "@/lib/states";
-import { stateClaims } from "@/lib/prelicensing-status";
+import {
+  isCeApprovedComingSoon,
+  isCeAvailable,
+  stateClaims,
+} from "@/lib/prelicensing-status";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 // ---------------------------------------------------------------------------
@@ -24,13 +28,13 @@ import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 // Everything below is derived from states.ts so it self-corrects when an
 // approval issues.
 // ---------------------------------------------------------------------------
-const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
+const SERVED_STATES = Object.values(STATES);
 const SERVED_STATE_COUNT = SERVED_STATES.length;
 
 const CE_APPROVAL_PENDING = SERVED_STATES.filter(
-  (s) => s.providerApprovalNumber === "PENDING"
+  isCeApprovedComingSoon
 );
-const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
+const CE_APPROVED_COUNT = SERVED_STATES.filter(isCeAvailable).length;
 
 const PRELICENSING_APPROVED_COUNT = SERVED_STATES.filter(
   (s) => stateClaims(s).canClaimPrelicensingApproval
@@ -63,10 +67,10 @@ const formatStateNames = (states: { name: string }[]): string => {
 /** Reads after "serves students in N states, with ... continuing education in ___". */
 const CE_APPROVAL_PHRASE =
   CE_APPROVAL_PENDING.length === 0
-    ? `all ${SERVED_STATE_COUNT} of them`
-    : `${CE_APPROVED_COUNT} of them (our ${formatStateNames(
+    ? `${CE_APPROVED_COUNT} states; New York CE is not currently available`
+    : `${CE_APPROVED_COUNT} states (${formatStateNames(
         CE_APPROVAL_PENDING
-      )} approval${CE_APPROVAL_PENDING.length === 1 ? " is" : "s are"} still pending)`;
+      )} is approved with courses coming soon; New York CE is not currently available)`;
 
 // "Study at your own pace nationwide" was false: Illinois mandates
 // attendance-verified live webinar hours (50 Ill. Adm. Code Part 3119) and
@@ -82,7 +86,7 @@ const SELF_PACED_CTA_CAVEAT = `Self-paced study in most of the ${SERVED_STATE_CO
   PROCTORED_FINAL_COUNT
     ? ` and ${PROCTORED_FINAL_COUNT} states require a proctored final exam you arrange`
     : ""
-}; New York is not currently served.`;
+}; New York Life prelicensing is available, while New York Health, combined prelicensing, and CE are not currently available.`;
 
 export const metadata: Metadata = {
   title: { absolute: "Justin vom Eigen — Founder, JustInsurance LLC" },

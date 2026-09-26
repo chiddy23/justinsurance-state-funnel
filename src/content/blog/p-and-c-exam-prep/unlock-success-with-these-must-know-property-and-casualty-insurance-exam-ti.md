@@ -51,7 +51,7 @@ A strong command of these concepts deepens your understanding, allowing you to a
 
 ## Try sample practice questions
 
-Working through practice questions is one of the best ways to prepare. Below are a few examples that mirror the style and complexity of many property and casualty exam questions. After each question, you will find a brief explanation to help clarify why the correct answer stands out.
+Working through practice questions is one of the best ways to prepare. Below are a few examples that cover common property and casualty exam topics and require you to apply the underlying concepts. After each question, you will find a brief explanation to help clarify why the correct answer stands out.
 
 1.  A homeowner’s insurance policy covers a fire loss to a house. Which part of the policy will specify the dollar amount awarded for this claim?
 

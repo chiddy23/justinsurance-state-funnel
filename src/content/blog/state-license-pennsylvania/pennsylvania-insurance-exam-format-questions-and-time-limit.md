@@ -297,7 +297,7 @@ No retake limit. Pennsylvania [allows unlimited retakes](https://test-takers.psi
 
 ## Master Pennsylvania's Exam Format
 
-Format knowledge supports strategic preparation. At JustInsurance, our Pennsylvania [prelicense](/pennsylvania/prelicensing) course is structured around the actual Pennsylvania exam format — practice exams that mirror real conditions help you walk into test day confident.
+Format knowledge supports strategic preparation. At JustInsurance, our Pennsylvania [prelicense](/pennsylvania/prelicensing) course is built around the published Pennsylvania exam content outline, and timed practice helps you develop confidence and pacing for test day.
 
 Enroll today and prepare for Pennsylvania's exam format the right way.
 

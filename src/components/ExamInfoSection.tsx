@@ -196,6 +196,14 @@ export default function ExamInfoSection({
                       <>
                         {stateName} does not offer a combined Life & Health exam. Each line&apos;s exam has two parts — a General exam and a State exam — so pursuing both lines means <strong>four exams in total</strong>: a Life General and Life State exam, plus a Health General and Health State exam, all with {examProvider}.
                       </>
+                    ) : stateSlug === "delaware" ? (
+                      <>
+                        Delaware does not offer a single combined Life & Health exam. Life and Accident & Health are <strong>separate exams</strong> with {examProvider}. When both exams are scheduled for the same day, Pearson VUE charges one $90 exam fee; otherwise, the fee is $90 per exam.
+                      </>
+                    ) : stateSlug === "idaho" ? (
+                      <>
+                        Idaho does not offer a single combined Life & Health exam. Life and Disability/Health are <strong>separate exams</strong> with {examProvider}, so applicants pursuing both lines must pass each line&apos;s exam.
+                      </>
                     ) : (
                       <>
                         {stateName} does not offer a single combined Life & Health exam. Life and Accident & Health are <strong>separate exams</strong> with {examProvider} — pursuing both lines means passing each line&apos;s exam. Check {examProvider}&apos;s {stateName} scheduling options: some states let you sit both exams in one appointment.
@@ -217,7 +225,7 @@ export default function ExamInfoSection({
                   <>
                     <p className="font-semibold text-success-dark text-sm">Pass Guarantee*</p>
                     <p className="text-gray-600 text-sm mt-1">
-                      JustInsurance students who complete the full course pass at significantly higher rates. Meet the recommended study hours, score 80%+ on any three practice-exam attempts, and test within 30 days of your first enrollment. If you don&apos;t pass, we&apos;ll give you a fresh study period, reset your practice exams, and reimburse your state exam fee.
+                      Meet the recommended study hours, score 80%+ on any three practice-exam attempts, and test within 30 days of your first enrollment. If you don&apos;t pass, we&apos;ll give you a fresh study period, reset your practice exams, and reimburse your state exam fee.
                     </p>
                     <p className="text-gray-500 text-xs mt-1">
                       *Not available in every state — not offered on courses purchased for {passGuaranteeExcludedLabel()}. See our Terms.
@@ -227,7 +235,7 @@ export default function ExamInfoSection({
                   <>
                     <p className="font-semibold text-success-dark text-sm">A Study Plan That Works</p>
                     <p className="text-gray-600 text-sm mt-1">
-                      JustInsurance students who complete the full course pass at significantly higher rates. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and schedule your {stateName} exam while the material is fresh.
+                      Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and schedule your {stateName} exam while the material is fresh.
                     </p>
                   </>
                 )}

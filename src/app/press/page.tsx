@@ -333,7 +333,7 @@ export default function PressPage() {
                 to how the courses are built rather than to any single
                 technology: course content organized by state exam topic,
                 chapter-by-chapter review quizzes, full-length practice exams
-                that mirror the format and difficulty of the real state exam,
+                built around published state exam content outlines,
                 and a final exam — all self-paced, on any device, and written in
                 plain English by a licensed agent.
               </p>

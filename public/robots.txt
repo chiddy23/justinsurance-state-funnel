@@ -32,6 +32,24 @@ Disallow: /*?s=
 # a page only when a real person asks and can surface the site in AI answers.
 # Blocking those trades away that visibility — flip them to Disallow only if the
 # owner decides the harvest isn't worth the referral exposure.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
 User-agent: GPTBot
 Disallow: /
 

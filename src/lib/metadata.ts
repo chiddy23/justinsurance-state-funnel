@@ -228,6 +228,8 @@ function buildDescription(
   // practice-exam descriptions are untouched — the Part 3119 classroom
   // requirement applies to prelicensing hours, not CE self-study or exam prep.
   const isIllinois = params.stateSlug === "illinois";
+  const isHawaii = params.stateSlug === "hawaii";
+  const isIdaho = params.stateSlug === "idaho";
 
   switch (pageType) {
     case "home":
@@ -235,6 +237,12 @@ function buildDescription(
     case "state-hub": {
       if (isIllinois) {
         return "Get your Illinois insurance license — prelicensing with required live webinar hours plus self-paced online study. State-approved, 93% completer pass rate. From $199.";
+      }
+      if (isHawaii) {
+        return "Explore Hawaii insurance licensing, optional exam preparation, state-approved continuing education, practice exams, and official application requirements.";
+      }
+      if (isIdaho) {
+        return "Explore Idaho insurance licensing, optional exam preparation, state-approved continuing education, practice exams, and official application requirements.";
       }
       const ep = params.examProvider;
       const providerBit = ep ? `${ep} exam prep, ` : "";
@@ -268,9 +276,15 @@ function buildDescription(
     case "ce-course":
       return `${stateName} ${loaName} CE course online. Typically same-day DOI reporting, self-paced, state-approved. Renew your insurance license with JustInsurance. From $39.`;
     case "practice-exam":
-      return `${stateName} insurance practice exam — Life, Health, and Life & Health versions. Mirror the real state exam. Boost your score, pass with confidence. $59.`;
+      if (params.stateSlug === "hawaii") {
+        return "Hawaii insurance practice exams for Life and Accident & Health. Independent online preparation based on published topics. 30-day access. $59.";
+      }
+      if (params.stateSlug === "idaho") {
+        return "Idaho insurance practice exams for Life and Disability/Health. Independent online preparation based on published topics. 30-day access. $59.";
+      }
+      return `${stateName} insurance practice exam — Life, Health, and Life & Health versions built around the published state exam content outline. $59.`;
     case "practice-exam-hub":
-      return `State-approved insurance practice exams nationwide. Life, Health, and Life & Health — mirror the real state exam. Pick your state to start. $59.`;
+      return `Online insurance practice exams nationwide. Life, Health, and Life & Health options with scoring and answer explanations for additional preparation. Pick your state to start. $59.`;
     case "state-cost": {
       const range = params.totalCostRange;
       if (range && range.length <= 40) {

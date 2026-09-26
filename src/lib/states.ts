@@ -194,12 +194,22 @@ export interface StateData {
    */
   ceCoursesLive?: boolean;
   /**
+   * CE courses are public, but a complete L/H package is not currently
+   * purchasable. Undefined means packages are live. This keeps the state CE
+   * page and audited individual-course catalog available while fail-closing
+   * package price, schema, and enrollment surfaces.
+   */
+  cePackagesLive?: boolean;
+  /**
    * Same as ceCoursesLive, for PRELICENSING courses: keeps a prelicensing-required
    * state "held / coming soon" even after provider approval issues, until the
    * prelicensing course itself is live (e.g. NY provider approved, life course
    * approved but not yet open for enrollment). Undefined/absent = live.
    */
   prelicensingCoursesLive?: boolean;
+  /** Exact live prelicensing lines for a partial rollout. When present, every
+   *  omitted line remains fail-closed even though another line is purchasable. */
+  prelicensingLiveLines?: Array<"life" | "health" | "life-and-health">;
   /**
    * Set to `false` when we do NOT hold a CE provider approval in this state yet,
    * even though providerApprovalNumber is a real number for another credential.
@@ -235,7 +245,7 @@ export interface StateData {
 // Carolina, which is how the /prelicensing hub came to advertise "one exam
 // covering both lines" nationally.
 export const NO_COMBINED_EXAM_STATES = [
-  "alaska", "arkansas", "colorado", "hawaii", "idaho",
+  "alaska", "arkansas", "colorado", "delaware", "hawaii", "idaho",
   "illinois", "iowa", "montana", "new-jersey", "north-carolina",
   "north-dakota", "rhode-island", "west-virginia", "wisconsin"
 ];
@@ -330,9 +340,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5b4e7714-0d2e-4ae1-931d-583b93971c5d",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=89a6df5c-d42c-438a-a8bf-aa2d07d25c14",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f4004c54-821e-411d-b106-bcee71b4cd7c",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=al-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=al-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=al-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -503,16 +513,16 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=89c33f6f-80ce-48cd-b448-86704b69a5dd",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=97686641-0a77-40f0-b30b-5436b13893fd",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=46023adf-a27d-4faf-8540-c1562f6f8f86",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ak-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ak-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ak-practice-life-health",
       price: "$59",
     },
     specialNotices: [
       {
         kind: "alert",
         title: "Alaska does not offer a combined Life & Health exam",
-        body: "Alaska has no single combined Life & Health exam — Life and Accident & Health are separate exams. If you plan to sell both lines and test in person at a Pearson VUE center, you can sit both exams in one session for a single exam fee; testing online via OnVUE is charged per exam. Prelicensing education is not required, but focused study materials meaningfully improve first-attempt pass rates given the depth of Alaska-specific content.",
+        body: "Alaska has no single combined Life & Health exam — Life and Accident & Health are separate exams. If you plan to sell both lines and test in person at a Pearson VUE center, you can sit both exams in one session for a single exam fee; testing online via OnVUE is charged per exam. Education before the exam is not required; optional study materials can help you review the published Alaska exam topics.",
       },
       {
         kind: "tip",
@@ -604,7 +614,7 @@ export const STATES: Record<string, StateData> = {
     doiEmail: "insurancelicensing@difi.az.gov",
     regulatoryBody: "Arizona Department of Insurance and Financial Institutions",
 
-    agentLicensingUrl: "https://difi.az.gov/producers/producer-agentbroker",
+    agentLicensingUrl: "https://difi.az.gov/licensing/insurance-professionals",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
     licenseDuration: "4 years",
     minAge: 18,
@@ -613,7 +623,7 @@ export const STATES: Record<string, StateData> = {
     fingerprintRequirement: "Fingerprinting required through Fieldprint (via the AZ DPS Public Services Portal)",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "120",
-    backgroundCheckCost: "22",
+    backgroundCheckCost: "30.69",
     totalCostRange: "$350-$550 total estimated licensing cost",
     applicationProcessingTime: "30 days",
     licenseIssueTime: "Up to 30 days after submitting all required documentation",
@@ -625,13 +635,13 @@ export const STATES: Record<string, StateData> = {
       passingScore: 70,
       passRate: "93.20",
       examFee: "50",
-      examProvider: "PSI (effective September 3, 2025)",
-      examProviderUrl: "https://test-takers.psiexams.com/anzins/test",
-      examBookingUrl: "https://test-takers.psiexams.com/anzins/test",
+      examProvider: "PSI",
+      examProviderUrl: "https://test-takers.psiexams.com/anzins",
+      examBookingUrl: "https://test-takers.psiexams.com/anzins",
       retakeWaitingPeriod: "scheduling your next available test date, as there is no mandatory waiting period between individual attempts",
       retakeLimitInfo: "You are limited to 4 exam attempts per line of authority within a 12-month period. After a 4th unsuccessful attempt, you must wait one full year from the date of your last attempt before retaking.",
-      examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
-      examSchedulingInfo: "https://test-takers.psiexams.com/anzins/test",
+      examResultsTiming: "Immediate on-screen result; score report emailed",
+      examSchedulingInfo: "https://test-takers.psiexams.com/anzins",
     },
     noCombinedExam: false,
     applicationBeforeExam: false,
@@ -640,19 +650,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$391.00",
+        totalCost: "$399.69",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$391.00",
+        totalCost: "$399.69",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$640.00",
+        totalCost: "$408.69",
         completionTime: "40 hours",
       },
     },
@@ -661,7 +671,7 @@ export const STATES: Record<string, StateData> = {
       totalHours: 48,
       renewalPeriod: "4 years",
       ethicsHours: 6,
-      requirementsUrl: "https://difi.az.gov/ice",
+      requirementsUrl: "https://difi.az.gov/licensing/insurance-professionals",
       packagePrice: "$111",
       ethicsCoursePrice: "$10",
       individualCoursePrice: "$10",
@@ -676,9 +686,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1a614939-4bbb-4300-af16-10b7e2ae9447",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e9aa084d-c13d-4967-98af-223ac58e1d42",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=84b3876f-22ef-4332-bdb7-f28ee267584b",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=az-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=az-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=az-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -686,19 +696,19 @@ export const STATES: Record<string, StateData> = {
         kind: "update",
         title: "Arizona switched its exam vendor to PSI effective September 3, 2025",
         body: "DIFI transitioned Arizona insurance licensing exams from Prometric to PSI Services on September 3, 2025. If you are working from older study materials or third-party articles, verify any exam-logistics references against the current PSI Arizona portal — test centers, scheduling flow, and exam booking URLs all changed with the transition.",
-        link: { href: "https://test-takers.psiexams.com/anzins/test", text: "PSI Arizona insurance portal", external: true },
+        link: { href: "https://test-takers.psiexams.com/anzins", text: "PSI Arizona insurance portal", external: true },
       },
       {
         kind: "tip",
         title: "Arizona caps exam attempts at 4 per 12-month period",
         body: "Arizona limits you to 4 exam attempts per line of authority within any 12-month window. After a 4th unsuccessful attempt you must wait a full year from your most recent failure before testing again. Confirm current fee, question count, and time limit in the PSI Arizona candidate handbook — details changed with the vendor switch.",
-        link: { href: "https://test-takers.psiexams.com/anzins/test", text: "PSI Arizona candidate portal", external: true },
+        link: { href: "https://test-takers.psiexams.com/anzins", text: "PSI Arizona candidate portal", external: true },
       },
       {
         kind: "tip",
         title: "Arizona licenses run 4 years — and require 48 CE hours plus 6 ethics",
         body: "Arizona is one of only a handful of states with a 4-year license cycle, which front-loads a larger CE requirement: 48 total hours including 6 hours of ethics every renewal period. Carry-forward is not permitted. Agents selling annuities must complete a 4-hour suitability training under ARS §20-1241, and LTC sellers need an 8-hour initial course.",
-        link: { href: "https://difi.az.gov/ice", text: "DIFI CE requirements", external: true },
+        link: { href: "https://difi.az.gov/licensing/insurance-professionals", text: "DIFI CE requirements", external: true },
       },
     ],
 
@@ -747,7 +757,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500031644",
-    lastVerified: "March 2026",
+    lastVerified: "August 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 4 years)",
@@ -859,9 +869,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cf58d827-80c1-4551-8075-a7da6580a4fa",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c97903c1-d180-4dd1-b058-1b612a80a8c0",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=25d338d2-278f-425b-b028-58364623357a",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ar-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ar-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ar-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -915,7 +925,7 @@ export const STATES: Record<string, StateData> = {
       providerRegulation: "Arkansas Insurance Department Rule 50 (054.00.06 Ark. Code R.)",
       adminCodeName: "Arkansas Administrative Code",
       adminCodeRef: "Agency 054 - Arkansas Insurance Department",
-      adminCodeUrl: "https://www.sos.arkansas.gov/rulesregs/",
+      adminCodeUrl: "https://www.sos.arkansas.gov/rules-regulations/",
       statutesUrl: "https://www.arkleg.state.ar.us/",
       ageCitation: "ACA § 23-64-506(a)(1)",
       educationCitation: "Ark. Code Ann. § 23-64-202(b)(2)(A)(iv)",
@@ -1032,9 +1042,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f88d9358-edd3-4e91-801d-7b9be129cbb2",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=099553b5-d927-4131-9c0e-fa888a962e50",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3b3b9fd8-8f26-4aac-a0e6-20f08565db0a",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ca-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ca-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ca-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -1205,10 +1215,10 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c58c31f6-eafd-40eb-9b48-aeb4b9bd26e6",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b5ed9fec-723f-4829-8a8d-2a5a3b3a33f7",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4551c6d4-169a-4ac7-8838-a5827d952aa1",
-      price: "$59",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=co-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=co-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=co-practice-life-health",
+      price: "$39",
     },
     specialNotices: [
       {
@@ -1295,7 +1305,7 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Colorado requires 50 hours of prelicensing education per line of authority (Life or Health), and notably does not offer a combined Life & Health exam — each line must be tested separately with Pearson VUE. The state's active outdoor culture and growing tech workforce in Denver and Boulder have created a robust market for health insurance producers, while the mountain resort towns create unique property and life coverage needs. Colorado's DOI is known for strict regulatory oversight, making thorough exam preparation especially important.",
     stateSpecificFAQ: {
       question: "Does Colorado have a combined Life and Health insurance exam?",
-      answer: "No. Colorado does not offer a combined Life & Health insurance exam. You must pass separate exams for Life and for Accident & Health/Sickness with Pearson VUE. Each exam requires its own 50-hour prelicensing course, and you pay a separate exam fee for each. If you want both licenses, plan for two complete course and exam cycles.",
+      answer: "No. Colorado does not offer a combined Life & Health insurance exam. You must complete separate 50-hour prelicensing courses and pass separate exams for Life and for Accident & Health/Sickness. Pearson VUE permits up to two examinations in one exam session for a single $41 fee; separate exam sessions require separate fees.",
     },
   },
 
@@ -1321,7 +1331,7 @@ export const STATES: Record<string, StateData> = {
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "140",
     backgroundCheckCost: "No separate fee",
-    totalCostRange: "$350-500 estimated total cost",
+    totalCostRange: "$319 estimated for the currently available Life route",
     applicationProcessingTime: "7-10 business days",
     licenseIssueTime: "7-10 days after submitting all documentation",
     totalLicensingTime: "2-4 weeks",
@@ -1383,9 +1393,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0932bc2b-331c-475f-b542-82445727ae7c",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=899e433d-911e-4d7c-98ba-ff4695b79a61",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d3d26908-7b43-4140-9de8-b266a1bfb6c4",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ct-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ct-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ct-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -1524,7 +1534,7 @@ export const STATES: Record<string, StateData> = {
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://home.pearsonvue.com/de/insurance",
     },
-    noCombinedExam: false,
+    noCombinedExam: true,
     applicationBeforeExam: false,
 
     prelicensing: {
@@ -1567,9 +1577,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b9fdc55d-81f2-4243-a08f-1191dcf531f3",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7b5c341b-6acd-43fe-9ac8-9db664c751bd",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=fd23c43a-b3c8-496c-99d7-53c41d7370eb",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=de-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=de-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=de-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -1747,9 +1757,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=340a0fad-c2a0-4167-9f92-300a23b76a56",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=426d8291-a76d-4dea-9530-d64923a29b0b",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b4739074-7857-46ed-a007-20366123426a",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=fl-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=fl-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=fl-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -1813,7 +1823,7 @@ export const STATES: Record<string, StateData> = {
       adminCodeName: "Florida Administrative Code (F.A.C.)",
       adminCodeRef: "Chapter 69O - OIR - Insurance Regulation",
       adminCodeUrl: "https://flrules.org/",
-      statutesUrl: "https://www.flsenate.gov/Laws/Statutes/",
+      statutesUrl: "https://www.flsenate.gov/Laws/Statutes",
       ageCitation: "Fla. Stat. § 626.731(1)",
       educationCitation: "Fla. Stat. § 626.7851 (Life); Fla. Stat. § 626.8311 (Health/General Lines)",
       examCitation: "Fla. Stat. 626.221(1)",
@@ -1929,9 +1939,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d74f178f-20f2-4050-bda5-ad02be7adf62",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a93828f1-38e2-48b9-9303-d70b43258ddd",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5f62c246-925e-4be9-8e0d-78046bb1e5ba",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ga-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ga-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ga-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -2109,9 +2119,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6c9e4d10-2075-46cd-9adf-f9df96821f05",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1b291abc-310a-40a9-b198-40927c9e0424",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=74a1c87e-290e-4e82-827a-d43ec37edeba",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=hi-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=hi-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=hi-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -2219,8 +2229,8 @@ export const STATES: Record<string, StateData> = {
     fingerprintRequirement: "Fingerprinting required through Pearson VUE (Code: InsID-FPELC)",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "80",
-    backgroundCheckCost: "65",
-    totalCostRange: "$350-500 estimated total cost",
+    backgroundCheckCost: "61.25",
+    totalCostRange: "$405-470 estimated total cost",
     applicationProcessingTime: "1-2 business days after fingerprints",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
@@ -2246,19 +2256,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$409",
+        totalCost: "$405.25",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$409",
+        totalCost: "$405.25",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$673",
+        totalCost: "$470.25",
         completionTime: "40 hours",
       },
     },
@@ -2282,9 +2292,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=de363d26-c79d-4e47-a22d-de19cee4f969",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=bbafcc37-3e43-45e1-9010-17d80da755b8",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c29c762-e687-4e24-9f41-96422fa3d657",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=id-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=id-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=id-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -2352,7 +2362,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500031591",
-    lastVerified: "March 2026",
+    lastVerified: "August 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -2400,6 +2410,12 @@ export const STATES: Record<string, StateData> = {
 
     providerNumber: "500030852",
 
+    // The public Illinois catalog currently exposes individual CE courses, but
+    // its complete-package category is empty and the prior $75 package GUID no
+    // longer adds to cart. Keep package purchase surfaces fail-closed until a
+    // replacement package is visibly public and audited.
+    cePackagesLive: false,
+
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
@@ -2430,8 +2446,11 @@ export const STATES: Record<string, StateData> = {
       },
       lifeAndHealth: {
         hours: 40,
+        // One public package purchase enrolls both separately approved
+        // 20-hour courses; each course still has its own required webinar,
+        // completion certificate, and licensing exam.
         price: "$199",
-        totalCost: "$755.00",
+        totalCost: "$556.00",
         completionTime: "40 hours",
       },
     },
@@ -2459,9 +2478,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=43cb464f-8f0f-4f20-99cd-bcedec4db7c6",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=24e21b1d-9c8b-4205-875b-7fbc03315e36",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7419aad2-8163-4082-8639-fb4a4966fa04",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=il-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=il-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=il-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -2504,7 +2523,7 @@ export const STATES: Record<string, StateData> = {
     courseWeeks: "1 to 2",
     courseAccessDays: "30",
     combinedSavings: "199",
-    combinedVsSinglePercent: "17%",
+    combinedVsSinglePercent: "50%",
 
     citations: {
       insuranceCode: "215 ILCS",
@@ -2526,7 +2545,7 @@ export const STATES: Record<string, StateData> = {
     },
 
     certificateValidity: "12 months",
-    paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+    paymentPlanInfo: "One-time payment of $199 for the Life & Health package, or $199 for either individual course — no payment plans available",
 
     providerApprovalNumber: "500030852",
     lastVerified: "July 2026",
@@ -2570,7 +2589,7 @@ export const STATES: Record<string, StateData> = {
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "40",
     backgroundCheckCost: "No separate fee",
-    totalCostRange: "$350-500 estimated total cost",
+    totalCostRange: "$308 plus online processing fee",
     applicationProcessingTime: "5-7 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
@@ -2596,19 +2615,19 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: 20,
         price: "$199",
-        totalCost: "$358.00",
+        totalCost: "$308.00",
         completionTime: "20 hours",
       },
       health: {
         hours: 20,
         price: "$199",
-        totalCost: "$358.00",
+        totalCost: "$308.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: 40,
         price: "$199",
-        totalCost: "$557.00",
+        totalCost: "$308.00",
         completionTime: "40 hours",
       },
     },
@@ -2617,7 +2636,7 @@ export const STATES: Record<string, StateData> = {
       totalHours: 24,
       renewalPeriod: "2 years",
       ethicsHours: 3,
-      requirementsUrl: "https://www.in.gov/idoi/licensing/continuing-education/information-for-agents/",
+      requirementsUrl: "https://www.in.gov/idoi/enforcement/continuing-education-ce-requirements-by-license-typeline-of-authority/",
       packagePrice: "$39",
       ethicsCoursePrice: "$10",
       individualCoursePrice: "$10",
@@ -2632,9 +2651,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=00268c67-a7b5-4e41-bb6b-bcb725aa0227",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f782d583-572a-465d-bb0c-02669ab82337",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=33001b38-91b9-4202-a3ce-5cd3380f819c",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=in-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=in-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=in-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -2702,7 +2721,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "176394",
-    lastVerified: "March 2026",
+    lastVerified: "August 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -2791,7 +2810,7 @@ export const STATES: Record<string, StateData> = {
       renewalPeriod: "3 years",
       ethicsHours: 3,
       requirementsUrl: "https://iid.iowa.gov/summary-resident-iowa-continuing-education",
-      packagePrice: "$39",
+      packagePrice: "$59",
       ethicsCoursePrice: "$10",
       individualCoursePrice: "$10",
       completionTime: "A few hours (depending on course length)",
@@ -2805,9 +2824,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9f3685d9-3501-4092-a72f-88b3e2de9386",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0e22db57-8cbe-43e5-a02c-ecc7c34f788a",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5f4c7d2b-d1fc-4535-be57-be8f6e93c6cf",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ia-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ia-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ia-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -2901,12 +2920,12 @@ export const STATES: Record<string, StateData> = {
 
     doiName: "Kansas Insurance Department",
     doiAbbr: "KID",
-    doiUrl: "https://insurance.kansas.gov/",
+    doiUrl: "https://www.insurance.kansas.gov/",
     doiPhone: "(785) 296-3071",
     doiEmail: "kdoi.licensing@ks.gov",
     regulatoryBody: "Kansas Insurance Department",
 
-    agentLicensingUrl: "https://insurance.kansas.gov/producer-licensing/",
+    agentLicensingUrl: "https://www.insurance.kansas.gov/licensing/resident-producer-licensing",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
     licenseDuration: "2 years",
     minAge: 18,
@@ -2969,7 +2988,7 @@ export const STATES: Record<string, StateData> = {
       totalHours: 18,
       renewalPeriod: "2 years",
       ethicsHours: 3,
-      requirementsUrl: "https://insurance.kansas.gov/continuing-education/",
+      requirementsUrl: "https://www.insurance.kansas.gov/licensing/continuing-education",
       packagePrice: "$66",
       ethicsCoursePrice: "$10",
       individualCoursePrice: "$10",
@@ -2984,9 +3003,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f55fce46-4c7a-4b8d-9883-6c9555939275",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b570aaf4-97ce-483e-87dd-9d55531e45a0",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=146a65c5-8f78-4b5e-8e38-342345e8bff7",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ks-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ks-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ks-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -2994,7 +3013,7 @@ export const STATES: Record<string, StateData> = {
         kind: "tip",
         title: "Kansas lets you take the exam before or after you apply",
         body: "Kansas is not an application-before-exam state — there is no Authorization to Test (ATT) or Insurance Department pre-authorization required to schedule your Pearson VUE exam. You may take and pass your licensing exam at any time, before or after you submit your NIPR license application. Passed exam scores stay valid for 2 years from the exam date.",
-        link: { href: "https://insurance.kansas.gov/", text: "Kansas Insurance Department", external: true },
+        link: { href: "https://www.insurance.kansas.gov/", text: "Kansas Insurance Department", external: true },
       },
       {
         kind: "tip",
@@ -3157,9 +3176,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8b932c97-e07a-4edd-af42-528f0a3e003d",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7b15e989-dc6f-4f70-8fc7-6875a0eb41be",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d3cfe7a0-5236-41c6-bd7a-ec6fdf86117c",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ky-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ky-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ky-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -3330,9 +3349,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=17f4ea9c-7b6e-4887-9cd3-d32c1b41213e",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9ce30398-aa3e-4011-8c80-4506f475bf32",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=261117da-5b52-4172-a55e-0b8f459d0ac5",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=la-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=la-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=la-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -3446,7 +3465,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "About three to five weeks after submitting all required documentation",
     totalLicensingTime: "4-7 weeks",
 
-    providerNumber: "",
+    providerNumber: "80025",
 
     examInfo: {
       passingScore: 70,
@@ -3503,9 +3522,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2ac3dc87-55c4-4618-b128-12668966435d",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b988278b-fd52-421e-b2b9-c132b519c261",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=11573f07-960c-4f42-a484-e6af813db7e3",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=me-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=me-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=me-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -3559,7 +3578,7 @@ export const STATES: Record<string, StateData> = {
       providerRegulation: "Maine Revised Statutes Title 24-A, §1483",
       adminCodeName: "Code of Maine Rules (CMR)",
       adminCodeRef: "02-031 - Department of Professional and Financial Regulation, Bureau of Insurance",
-      adminCodeUrl: "https://www.maine.gov/sos/cec/rules/02/031/index.html",
+      adminCodeUrl: "https://www.maine.gov/sos/rulemaking/agency-rules/department-professional-and-financial-regulation-rules",
       statutesUrl: "https://legislature.maine.gov/statutes/24-a/title24-ach0sec0.html",
       ageCitation: "24-A M.R.S. § 1420-E(1)(a)",
       educationCitation: "Formerly Title 24-A, § 1410(4) — REPEALED (PL 2007, c. 51, § 1)",
@@ -3676,9 +3695,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4bb00ba4-d22b-4652-8ef4-c024130390ed",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=abc7548f-965b-40f9-8a40-8d86a331a793",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=409bf8ec-a4a4-4de3-bc32-046d1c251fcc",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=md-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=md-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=md-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -3850,9 +3869,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5e677fe8-0404-4051-99e1-826ea7389b45",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c39071d6-cb3b-42af-8270-858f84808429",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=118c2034-a812-45d7-b7e9-f648eb029b5b",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ma-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ma-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ma-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -4023,9 +4042,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=89c1f8df-6518-4ec9-bba2-740a02b33beb",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=894d5ca8-5af9-471e-b2fa-7a512da86743",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2904d8fc-7f92-4289-8585-ae3cda26973e",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=mi-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=mi-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=mi-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -4222,9 +4241,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a06815c3-125a-424b-8b50-d44997ff45b2",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9a9776a5-4d2d-46f0-b511-08b8741498f5",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8cacd30d-d9a3-4fa1-89b3-64b8d9712a57",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=mn-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=mn-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=mn-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -4362,7 +4381,7 @@ export const STATES: Record<string, StateData> = {
 
     prelicensing: {
       life: {
-        hours: 20,
+        hours: "None required (optional)",
         price: "$199",
         totalCost: "$349.00",
         completionTime: "20 hours",
@@ -4398,6 +4417,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — excess credits do not carry forward",
         lapseConsequence: "Your license expires and you must complete all CE, submit a new application, and pay the $50 late fee within 12 months.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ms-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ms-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ms-practice-life-health",
+      price: "$59",
     },
     specialNotices: [
       {
@@ -4487,7 +4512,7 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Mississippi requires prelicensing education with a generous 2-year certificate validity window, giving candidates ample time to schedule their state exam. The state uses Pearson VUE for exam administration and does not require separate fingerprinting at the time of application. Mississippi's insurance market is driven by its rural agricultural economy, Gulf Coast exposure to hurricane risk, and an aging population creating demand for life and Medicare supplement products.",
+    stateSpecificIntro: "Mississippi requires prelicensing education for Accident & Health and combined Life & Health applicants, while Life-only applicants are exempt. Required-course certificates are valid for 2 years, giving candidates ample time to schedule their state exam. The state uses Pearson VUE and does not require separate fingerprinting at the time of application. Mississippi's insurance market is driven by its rural agricultural economy, Gulf Coast hurricane exposure, and an aging population creating demand for life and Medicare supplement products.",
     stateSpecificFAQ: {
       question: "How long is a Mississippi prelicensing certificate valid?",
       answer: "Mississippi prelicensing certificates are valid for 2 years from the completion date — one of the longest validity windows in the country. This gives you significant flexibility in scheduling your state exam without risking certificate expiration. After passing the exam, you apply for your license through NIPR and the Mississippi Department of Insurance processes your application.",
@@ -4578,9 +4603,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e0575fd1-d0dc-41e5-9370-912f72ccae9a",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=39c9541d-9dc1-44c2-bb16-c5004de1162d",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1ec3c9d7-950d-403a-a0d6-718d5a34ce72",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=mo-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=mo-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=mo-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -4760,9 +4785,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=79919ed5-66f5-4bc6-95b0-7a64294eb095",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=37750141-6173-4a1c-8ce0-bc090cb112e4",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4b9c2b23-3d7a-4690-a8b4-e51a55ee3c8d",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=mt-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=mt-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=mt-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -4933,9 +4958,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=edbb7c67-1279-4b5c-afd9-753227113b93",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=51cc3c60-1ccb-4dbc-bad5-0f11b718837d",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=583d003e-1553-44cf-83b2-66b001ec36aa",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ne-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ne-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ne-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -5283,9 +5308,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b9da7991-f9df-43aa-817f-717ef795dbf1",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3b93e593-7b48-45ca-880b-9004a6efa372",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=edb7bd89-0444-4dd2-a529-dda7c06e8380",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=nh-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=nh-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=nh-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -5458,9 +5483,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=13580bc0-b1fa-4af6-b2ce-90c0feb3207f",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e4fb6dd5-b301-4274-aea8-948d4a59db50",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c968e4b-e0f1-44a0-9d69-741621204a79",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=nj-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=nj-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=nj-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -5637,9 +5662,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e2b6ca7d-1ad7-48de-ab3c-43f50c1690bd",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=59ee3a6c-b6a8-45f0-b784-ed073c447074",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c5acbba5-5f4c-49e6-a2ea-fdc68bf9f448",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=nm-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=nm-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=nm-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -5776,33 +5801,28 @@ export const STATES: Record<string, StateData> = {
     noCombinedExam: false,
     applicationBeforeExam: false,
 
-    // ⚠️ totalCost DELIBERATELY NOT RECOMPUTED for the $33 -> $40 exam-fee fix
-    // (audit 2026-07-22). New York's totals do NOT reconcile against its own
-    // stored inputs, and the exam fee is not the reason:
-    //   published single-line 352.00 - (199 course + 80 application + 0
-    //   background) = 73.00 of "exam fee", against a true PSI fee of $40.
-    //   Residual +33.00 is UNEXPLAINED and predates this fix (it was +40.00
-    //   against the stale $33). Forcing 199+40+80 = 319.00 here would be
-    //   asserting a number no source supports.
-    // The L&H total carries the identical residual: 551.00 - (398 + 80) = 73.00.
-    // HELD for a dedicated New York totals pass. Do not "reconcile" these.
+    // Planning totals verified 2026-08-28 from the current $199 course price,
+    // $40 PSI exam fee, and $80 DFS application fee. New York does not require
+    // producer fingerprinting and lists no separate background-check fee. The
+    // Health and combined products remain unavailable; their totals are planning
+    // references only until a public product is audited.
     prelicensing: {
       life: {
         hours: 20,
         price: "$199",
-        totalCost: "$352.00",
+        totalCost: "$319.00",
         completionTime: "20 hours",
       },
       health: {
         hours: 20,
         price: "$199",
-        totalCost: "$352.00",
+        totalCost: "$319.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: 40,
         price: "$199",
-        totalCost: "$551.00",
+        totalCost: "$319.00",
         completionTime: "40 hours",
       },
     },
@@ -5835,35 +5855,19 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=109d177e-02bd-48c4-9f48-c98457c13397",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5096c1a8-fb31-46e8-abe9-4b84bb7965c1",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=75e20e4e-b2f6-424d-90c0-d2371e300d68",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ny-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ny-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ny-practice-life-health",
       price: "$59",
     },
     specialNotices: [
-      // AVAILABILITY DISCLOSURE — must stay FIRST, and must stay in place for as
-      // long as providerApprovalNumber above is "PENDING". New York mandates
-      // prelicensing (20/20/40 numeric hours), so isPrelicensingHeld() already
-      // replaces /new-york/prelicensing and /new-york/prelicensing/[loa] with the
-      // neutral "Enrollment opening soon" placeholder (noindex). The state HUB
-      // (/new-york) and the COST page (/new-york/cost) are rendered by shared
-      // [state] templates that still present an active purchase path — see
-      // src/components/HowToGetLicensed.tsx ("JustInsurance offers Life, Health,
-      // and Life & Health prelicensing online for $199 per line") and
-      // src/app/[state]/cost/page.tsx (the "Plan for about $312 all-in" FAQ, the
-      // "$199 Everything Included" block, and the "Start Now for $199" CTAs that
-      // point at the held prelicensing route). This notice renders high on
-      // /new-york, above those blocks, so the availability status is stated
-      // before any price is. It is a mitigation, NOT the fix: the shared
-      // templates still need to gate on isPrelicensingHeld(). Relax this notice
-      // ONLY once New York courses actually go LIVE (ceCoursesLive /
-      // prelicensingCoursesLive set to true) — NOT merely when approval issues,
-      // which has now happened (provider #80025) while courses remain coming-soon.
+      // Availability disclosure must stay first. Life is the only public,
+      // audited prelicensing product; Health, combined, and CE remain fail-closed.
       {
         kind: "alert",
-        title: "JustInsurance is now an approved New York provider (#80025) — courses coming soon",
-        body: "JustInsurance is an approved New York insurance-education provider (New York provider #80025). Our New York courses are not open for enrollment just yet: the New York life prelicensing course is approved and opening soon, the remaining prelicensing lines are in progress, and our New York continuing education is not yet submitted for approval — so CE completions cannot be reported to New York DFS yet. Course prices and all-in cost estimates shown on our New York pages are for planning reference only until enrollment opens — they are not a purchase you can complete today. The New York licensing information on this site — hour requirements, exam structure, fees, deadlines, and DFS contacts — stays current and maintained either way. Tell us you are interested and we will let you know the moment New York enrollment opens.",
-        link: { href: "/contact", text: "Get notified when New York opens" },
+        title: "New York Life prelicensing is open — provider #80025",
+        body: "The New York Life prelicensing course is now open for enrollment. New York Health and combined Life, Accident & Health prelicensing courses are not currently available from JustInsurance, and our New York continuing education courses are not yet approved or available. The practice exams are independent study tools and do not contain or reproduce official DFS or PSI exam questions.",
+        link: { href: "/new-york/prelicensing/life", text: "View the New York Life course" },
       },
       {
         kind: "tip",
@@ -5938,21 +5942,15 @@ export const STATES: Record<string, StateData> = {
     certificateValidity: "Does not expire",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
-    // Approved NY provider #80025 — but no live courses yet ("Approved — courses
-    // coming soon"). The NY life prelicensing course is approved and opening soon;
-    // health/combined prelicensing lines are in progress; NY CE is NOT yet submitted
-    // for approval. #80025 is a PRELICENSING approval, so ceApproved:false keeps CE
-    // claims in the truthful "approval pending" state (NOT "Approved CE provider
-    // #80025 — coming soon", which would misrepresent an unsubmitted CE approval),
-    // while prelicensingCoursesLive:false + isPrelicensingHeld hold/noindex the
-    // prelicensing pages and let us say "Approved New York provider #80025 — courses
-    // coming soon" there. Flip the flags per-credential as each course goes live:
-    // set ceApproved:true + ceCoursesLive:true once NY CE is approved AND live.
+    // Partial rollout verified against the rendered public Absorb catalog on
+    // 2026-08-28. Life is public at $199; Health and combined course GUIDs are
+    // not public and remain fail-closed. NY CE is not approved or live.
     providerApprovalNumber: "80025",
     ceApproved: false,
     ceCoursesLive: false,
     prelicensingCoursesLive: false,
-    lastVerified: "March 2026",
+    prelicensingLiveLines: ["life"],
+    lastVerified: "August 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Licensee's birthday (every 2 years)",
@@ -5991,9 +5989,12 @@ export const STATES: Record<string, StateData> = {
     backgroundRequirement: "Criminal background check required",
     fingerprintRequirement: "Fingerprinting required through your local police department",
     applicationProcess: "Submit your application through NIPR before scheduling your exam — you will receive your Candidate ID# and exam authorization by email",
-    applicationFee: "82",
+    // NCDOI resident fee chart effective 2024-05-06: $50 registration fee
+    // per LOA + one $44 application processing fee. NIPR's separate $5.60
+    // transaction fee is not included here.
+    applicationFee: "94",
     backgroundCheckCost: "38",
-    totalCostRange: "$350-500 estimated total cost",
+    totalCostRange: "about $376 for one line (course + state fees)",
     applicationProcessingTime: "2-6 weeks (official: 60 days)",
     licenseIssueTime: "less than a month after submitting all required documentation.",
     totalLicensingTime: "4-8 weeks (NCDOI official standard: 60 days)",
@@ -6019,19 +6020,21 @@ export const STATES: Record<string, StateData> = {
       life: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$364.00",
+        totalCost: "$376.00",
         completionTime: "20 hours",
       },
       health: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$364.00",
+        totalCost: "$376.00",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
         hours: "None required (optional)",
         price: "$199",
-        totalCost: "$608.00",
+        // $199 course + two $45 exams + $144 combined application
+        // ($50 per LOA + one $44 processing fee) + $38 fingerprinting.
+        totalCost: "$471.00",
         completionTime: "40 hours",
       },
     },
@@ -6055,9 +6058,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8f77e1c8-e668-41b8-8f23-9f5233e167b2",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a9cabc5b-b613-4107-838a-3d8e3700f281",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f528b064-b6f1-40fb-9cbd-df2e6df964e3",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=nc-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=nc-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=nc-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -6242,9 +6245,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=866b9e5d-5c38-4bb4-b44e-38887471884c",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e9824027-ae8c-4984-a680-a0d48e039699",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a64fed55-405d-4cf1-8d57-67af38fc29f7",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=nd-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=nd-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=nd-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -6455,9 +6458,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c3f6355-ea4a-4dd5-b083-eb2d703856b1",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7f5f5524-85a6-4533-ba0f-d378a2ec8098",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=46f4e3c8-a4fb-4be0-8fda-be2b0ed9f8d0",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=oh-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=oh-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=oh-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -6644,9 +6647,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4fed1297-dc61-4095-8bc7-256e40a468c6",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a2306372-2154-4428-85ff-5bb55f10cefd",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6a1fa7a7-8494-4fe7-bc87-89273827d039",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ok-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ok-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ok-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -6840,9 +6843,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c2c636cb-5f95-463f-887c-480df6452a9a",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=73859f9a-2c6e-46a5-826d-e87890c31314",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=72c8d06b-b553-4eca-908c-c2741e7f61c6",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=or-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=or-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=or-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -7022,9 +7025,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3dd8987a-afee-4906-bb3c-8f7220f19b45",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4465c4e3-78dc-4db0-8f9a-bc6f2b43e035",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1d2c0cf6-8a41-4ecc-ab4a-f8562a4230e7",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=pa-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=pa-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=pa-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -7195,9 +7198,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e6e1ffd9-9f45-4969-966c-10b3d6bccc7c",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=58a7e2f9-bca8-4286-ae4a-1b06b767ca23",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1ba2d308-c508-4d96-b2be-82b51bf31d82",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ri-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ri-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ri-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -7251,7 +7254,7 @@ export const STATES: Record<string, StateData> = {
       providerRegulation: "Rhode Island Code of Regulations §230-20-50-2",
       adminCodeName: "Rhode Island Code of Regulations (RICR)",
       adminCodeRef: "Title 230, Chapter 20 - Insurance",
-      adminCodeUrl: "https://rules.sos.ri.gov/",
+      adminCodeUrl: "https://rules.sos.ri.gov/organizations/chapter/230-20",
       statutesUrl: "https://webserver.rilegislature.gov/Statutes/TITLE27/INDEX.HTM",
       ageCitation: "R.I. Gen. Laws § 27-2.4-8(a)(1)",
       educationCitation: "N/A — not required",
@@ -7368,9 +7371,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=af92e72f-ee1f-4782-91ad-72d8daf47ec8",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=321c09e4-d10c-460c-b7d0-8bafee3ba2af",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1dd439d9-3b82-423f-9fe6-879c9ef54067",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=sc-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=sc-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=sc-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -7541,9 +7544,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=38f40720-67ec-4750-b8e7-8f9260bf56a3",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2e18eeb7-63b2-4904-b3d6-72cee19a7f2c",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=17885e75-ae9f-45f6-9de5-91c21bdc6c2a",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=sd-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=sd-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=sd-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -7761,9 +7764,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9520c7d3-bab5-4577-98fd-c8a71e346c8d",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d69234f6-2390-4ae9-a468-a3c00672f287",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a73ba06d-48fb-439e-8670-fb37324f2bce",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=tn-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=tn-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=tn-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -7934,9 +7937,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9dd576eb-8f99-410e-9a21-d144eec96921",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cfbf9d27-cd45-4f05-8eb6-b93e8077c407",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e32819fa-eb9c-437f-8b9b-ee7830a4f8e5",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=tx-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=tx-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=tx-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -8116,9 +8119,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=ac3ccd1b-a378-46a3-ad12-6f1389184a9a",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3d070fb8-2dc0-4c04-ab56-8c7d6581cdbd",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c7f74a8d-fae8-40f5-982d-80002ecccfa9",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=ut-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=ut-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=ut-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -8307,9 +8310,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9a3b2971-56c3-43c9-afab-8084f402394f",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=eded95f7-2af9-4fa8-8805-979823167489",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8a6cd6ff-97ef-4a2c-8345-41578eed1507",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=vt-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=vt-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=vt-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -8498,9 +8501,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4b030cd3-5c92-46d4-a2cb-44615b011cb6",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=fc5586af-52ad-4c09-a635-690ce0d7d873",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=69b1ecd1-1b18-4e05-b245-42055b4ea45d",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=va-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=va-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=va-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -8677,9 +8680,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a5b79ee5-d62c-441b-9de8-d78f41b851f4",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2f9b19aa-a721-427c-9c6f-806d70359c7c",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=11becb90-965f-4890-a7a4-01d8eb1ae8ec",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=wa-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=wa-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=wa-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -8857,9 +8860,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=eee07e14-a439-4e63-b219-cbbaf323d8a8",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0e3f743e-8d4e-49a7-9607-653921533360",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6110472d-574b-4a97-9997-80162dca918e",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=wv-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=wv-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=wv-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -9036,9 +9039,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b6a7798d-f672-4963-82cb-aad240ad2995",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=525e6bba-23b3-4b98-97ad-f7bd56c1eb57",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=20e8c9d2-9845-4e1e-ae0b-a63b51233d68",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=wi-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=wi-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=wi-practice-life-health",
       price: "$59",
     },
     specialNotices: [
@@ -9214,9 +9217,9 @@ export const STATES: Record<string, StateData> = {
       },
     },
     practiceExams: {
-      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c1032591-71f6-4eb8-abc7-bbfd3ddd3211",
-      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=306578e6-4bbb-43ae-b83e-62f4a8fad89b",
-      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0bb58a80-43d4-417b-9174-bd81903e720d",
+      lifeUrl: "https://checkout.justinsuranceco.com/checkout?sku=wy-practice-life",
+      healthUrl: "https://checkout.justinsuranceco.com/checkout?sku=wy-practice-health",
+      combinedUrl: "https://checkout.justinsuranceco.com/checkout?sku=wy-practice-life-health",
       price: "$59",
     },
     specialNotices: [

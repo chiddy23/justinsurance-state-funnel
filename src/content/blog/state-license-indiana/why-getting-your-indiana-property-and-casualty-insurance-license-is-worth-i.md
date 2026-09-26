@@ -75,7 +75,7 @@ If you are seeking a more guided approach, look for a structured exam prep cours
 4.  “What if I also want to sell life or health insurance?”  
     You can pursue separate licenses for life and health lines. Each license has its own pre-licensing and exam requirements, though the knowledge gained in one area often supports understanding in the other.
 5.  “Will my license expire?”  
-    Yes. Indiana requires agents to renew their license periodically. Renewal typically involves completing continuing education hours to ensure you stay up to date on laws and industry changes — check the [Indiana Department of Insurance](https://www.in.gov/idoi/licensing/continuing-education/information-for-agents/) for current CE requirements by line of authority.
+    Yes. Indiana requires agents to renew their license periodically. Renewal typically involves completing continuing education hours to ensure you stay up to date on laws and industry changes — check the [Indiana Department of Insurance](https://www.in.gov/idoi/enforcement/continuing-education-ce-requirements-by-license-typeline-of-authority/) for current CE requirements by line of authority.
 
 ## Take your next step
 

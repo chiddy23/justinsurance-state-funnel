@@ -35,7 +35,7 @@ Once you understand the basic requirements, many candidates choose to enroll in 
 
 • Look for a reputable provider whose course fits your schedule — Maryland doesn't approve or require prelicensing courses, so compare on quality and fit, not any "state approval."  
 • Dedicate adequate study time each week, so you stay on track.  
-• Practice with quizzes and sample exams that mirror the actual test format.
+• Practice with quizzes and timed sample exams that cover the published test topics.
 
 Studying can feel overwhelming if you try to absorb everything at once, so pace yourself. By giving each chapter the attention it deserves, you gain a deeper knowledge of the subject matter and build confidence for your exam day.
 

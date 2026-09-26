@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "verify-comparative-claims": "node scripts/verify-comparative-claims.mjs"
+    "verify-comparative-claims": "node scripts/verify-comparative-claims.mjs",
+    "verify-checkout-links": "node scripts/sync-seo-purchase-links.mjs && node scripts/verify-checkout-links.mjs"
   },
   "dependencies": {
     "@google-cloud/bigquery": "^8.3.1",

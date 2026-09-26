@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
-import { isPrelicensingHeld, credentialKindFromHours } from "@/lib/prelicensing-status";
+import {
+  isPrelicensingLineAvailable,
+  credentialKindFromHours,
+  type PrelicensingLine,
+} from "@/lib/prelicensing-status";
 import PrelicensingHeldNotice from "@/components/PrelicensingHeldNotice";
 import { LOA_DEFINITIONS, type LOASlug } from "@/lib/loa";
 import { generatePageMetadata } from "@/lib/metadata";
@@ -20,6 +24,8 @@ import catalogLinks from "@/lib/catalog-links.json";
 import ArticleByline from "@/components/ArticleByline";
 import IllinoisWebinarCallout from "@/components/IllinoisWebinarCallout";
 import StateHero from "@/components/StateHero";
+import TrustBar from "@/components/TrustBar";
+import StateProviderBadge from "@/components/StateProviderBadge";
 import CourseOverviewBox from "@/components/CourseOverviewBox";
 import CourseFeatures from "@/components/CourseFeatures";
 import ExamInfoSection from "@/components/ExamInfoSection";
@@ -164,10 +170,56 @@ export async function generateMetadata({
     hours: hoursNum,
     price: pricing?.price,
   });
-  return isPrelicensingHeld(stateData)
+  if (stateData.slug === "hawaii") {
+    const description = `Optional Hawaii ${loaDef.shortName} insurance exam preparation. Study online at your own pace with 30-day access, practice exams, and optional instructor support.`;
+    return {
+      ...baseMeta,
+      description,
+      openGraph: { ...baseMeta.openGraph, description },
+      twitter: { ...baseMeta.twitter, description },
+    };
+  }
+  if (stateData.slug === "idaho") {
+    const description = `Optional Idaho ${loaDef.shortName} insurance exam preparation. Study online at your own pace with 30-day access, practice exams, and optional instructor support.`;
+    return {
+      ...baseMeta,
+      description,
+      openGraph: { ...baseMeta.openGraph, description },
+      twitter: { ...baseMeta.twitter, description },
+    };
+  }
+  if (
+    stateData.slug === "alabama" ||
+    stateData.slug === "alaska" ||
+    stateData.slug === "arizona"
+  ) {
+    const title = `${stateData.name} ${loaDef.shortName} Insurance Exam Prep Course`;
+    const description = `Optional ${stateData.name} ${loaDef.shortName} insurance exam preparation. Study online at your own pace with 30-day access, optional weekly instructor support, and exam-focused practice.`;
+    return {
+      ...baseMeta,
+      title,
+      description,
+      openGraph: { ...baseMeta.openGraph, title: `${title} | JustInsurance`, description },
+      twitter: { ...baseMeta.twitter, title: `${title} | JustInsurance`, description },
+    };
+  }
+  if (stateData.slug === "new-york" && loaDef.slug === "life") {
+    const description = `New York Life insurance prelicensing online: 20-hour DFS-approved course, provider #${stateData.providerApprovalNumber}, PSI exam prep, instant access, and practice exams. $199.`;
+    return {
+      ...baseMeta,
+      description,
+      openGraph: { ...baseMeta.openGraph, description },
+      twitter: { ...baseMeta.twitter, description },
+    };
+  }
+  const lineAvailable = isPrelicensingLineAvailable(
+    stateData,
+    loa as PrelicensingLine,
+  );
+  return !lineAvailable
     ? {
-        title: `${stateData.name} ${loaDef.name} Prelicensing — Enrollment Opening Soon | JustInsurance`,
-        description: `Our ${stateData.name} ${loaDef.name} prelicensing course is completing state approval and will open for enrollment soon.`,
+        title: `${stateData.name} ${loaDef.name} Prelicensing — Enrollment Opening Soon`,
+        description: `The ${stateData.name} ${loaDef.name} prelicensing course is not currently available from JustInsurance. Review the requirements and current availability.`,
         robots: { index: false, follow: true },
       }
     : baseMeta;
@@ -188,7 +240,11 @@ export default async function PrelicensingCoursePage({
   if (!pricing) notFound();
 
   // Approval pending in a prelicensing-mandate state -> hold the course page.
-  if (isPrelicensingHeld(stateData)) {
+  const lineAvailable = isPrelicensingLineAvailable(
+    stateData,
+    loaDef.slug as PrelicensingLine,
+  );
+  if (!lineAvailable) {
     return (
       <PrelicensingHeldNotice
         stateName={stateData.name}
@@ -209,11 +265,40 @@ export default async function PrelicensingCoursePage({
   // Course Overview format cell, and the appended format FAQ (flows into
   // FAQPage JSON-LD). Every other state renders byte-identically.
   const ilWebinar = hasClassroomWebinarHours(stateData);
+  const isIllinoisCombinedSelection =
+    ilWebinar && loaDef.slug === "life-and-health";
   // California: AB 943 (eff. 1/1/2026, amending Cal. Ins. Code § 1749) repealed
   // line-specific product prelicensing hours. The only mandatory prelicensing is
   // a single 12-hour Code & Ethics course; line content is exam prep, not a
   // state-required line-specific curriculum. Gated so no other state changes.
   const isCalifornia = stateData.slug === "california";
+  // Alabama eliminated mandatory prelicensing effective January 1, 2024 and
+  // no longer approves or authorizes prelicensing courses. Keep the established
+  // route for discoverability, but present the product itself as optional exam
+  // preparation everywhere a buyer sees or a crawler reads the offer.
+  const isAlabama = stateData.slug === "alabama";
+  // Alaska does not require prelicensing education before its licensing exams.
+  // Its live products are optional exam preparation with optional weekly live
+  // support, so the same buyer-facing guard applies without Alabama's separate
+  // statement about course approval authority.
+  const isAlaska = stateData.slug === "alaska";
+  // Arizona likewise has no prelicensing-education prerequisite; these live
+  // products are optional preparation, not state-required prelicensing.
+  const isArizona = stateData.slug === "arizona";
+  // Delaware likewise has no prelicensing prerequisite; these products are
+  // optional exam preparation, not state-required prelicensing education.
+  const isDelaware = stateData.slug === "delaware";
+  const isOptionalExamPrep = isAlabama || isAlaska || isArizona || isDelaware;
+  // Hawaii's established SEO title/H1 remains unchanged during the checkout
+  // rollout, but the product itself must be described as optional exam prep.
+  const isHawaii = stateData.slug === "hawaii";
+  // Idaho's established SEO title/H1 remains unchanged during rollout, while
+  // the product itself is accurately described as optional exam preparation.
+  const isIdaho = stateData.slug === "idaho";
+  const isOptionalProductFlow = isOptionalExamPrep || isHawaii || isIdaho;
+  const optionalExamPrepNotice = isAlabama
+    ? "Alabama does not require or approve prelicensing courses."
+    : `${stateData.name} does not require prelicensing education before its licensing exams.`;
   // States that impose monitored seat time / a required course duration (CA's
   // 12-hr timed C&E; MN's seat-time control) are NOT accurately "self-paced" —
   // the length is fixed. Gate the "online, self-paced / at your own pace" claims.
@@ -486,13 +571,98 @@ export default async function PrelicensingCoursePage({
   const retakeReplace = singleLineFeeIsRange
     ? `the ${combinedExamFeeOverride} combined Life & Health exam fee again to ${stateData.examInfo.examProvider}.`
     : `the ${combinedExamFeeOverride} combined Life & Health exam fee again to ${stateData.examInfo.examProvider} (the single-line Life or Health exam is ${singleLineExamFee}).`;
-  const faqs = combinedExamFeeOverride
+  const feeAdjustedFaqs = combinedExamFeeOverride
     ? baseFaqs.map((f) =>
         f.answer.includes("exam fee again to")
           ? { ...f, answer: f.answer.replace(retakeSearch, retakeReplace) }
           : f
       )
     : baseFaqs;
+  // Delaware licenses Life and Accident & Health through two separate exams.
+  // Keep the combined-course FAQ copy plural without changing any other state
+  // or the page metadata.
+  const faqs = isIdaho
+    ? feeAdjustedFaqs.map((faq) => {
+        const combined = loaDef.slug === "life-and-health";
+        if (faq.question.startsWith("What is the pass rate")) {
+          return {
+            question: combined
+              ? "What is the pass rate for JustInsurance students on the Idaho Life and Disability/Health exams?"
+              : faq.question,
+            answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(stateData.examInfo.passRate))}% on their first attempt — measured among students who complete the course, finish the recommended study hours, and meet the practice-exam benchmark before testing. ${combined ? "Idaho requires separate Life and Disability/Health exams" : `The Idaho ${loaDef.name} exam is administered by ${stateData.examInfo.examProvider}`}. Use your course reviews and practice attempts to identify topics that need more study before scheduling. See our full pass-rate methodology at /pass-rates.`,
+          };
+        }
+        if (faq.question.startsWith("What happens if I fail")) {
+          return {
+            question: combined
+              ? "What happens if I do not pass one of the Idaho Life or Disability/Health exams?"
+              : faq.question,
+            answer: `Review the score report from ${stateData.examInfo.examProvider}, focus your remaining study time on the weaker topic areas, and follow the testing provider's current Idaho retake rules before rescheduling. Each new attempt requires the current exam fee. Your JustInsurance course access remains active throughout the ${stateData.courseAccessDays}-day enrollment window, so you can review the material at no additional course charge.`,
+          };
+        }
+        return combined
+          ? {
+              question: faq.question.replace(
+                /Idaho Life & Health Insurance exam(?!-prep)/g,
+                "Idaho Life and Disability\/Health exams"
+              ),
+              answer: faq.answer
+                .replace(
+                  /Idaho Life & Health Insurance exam(?!-prep)/g,
+                  "Idaho Life and Disability\/Health exams"
+                )
+                .replace(/exam content outline/g, "exam content outlines"),
+            }
+          : faq;
+      })
+    : isHawaii
+    ? feeAdjustedFaqs.map((faq) => {
+        const combined = loaDef.slug === "life-and-health";
+        if (faq.question.startsWith("What is the pass rate")) {
+          return {
+            question: combined
+              ? "What is the pass rate for JustInsurance students on the Hawaii Life and Accident & Health exams?"
+              : faq.question,
+            answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(stateData.examInfo.passRate))}% on their first attempt — measured among students who complete the course, finish the recommended study hours, and meet the practice-exam benchmark before testing. ${combined ? "Hawaii requires separate Life and Accident & Health exams" : `The Hawaii ${loaDef.name} exam is administered by ${stateData.examInfo.examProvider}`}. Use your course reviews and practice attempts to identify topics that need more study before scheduling. See our full pass-rate methodology at /pass-rates.`,
+          };
+        }
+        if (faq.question.startsWith("What happens if I fail")) {
+          return {
+            question: combined
+              ? "What happens if I do not pass one of the Hawaii Life or Accident & Health exams?"
+              : faq.question,
+            answer: `Review the score report from ${stateData.examInfo.examProvider}, focus your remaining study time on the weaker topic areas, and follow the testing provider's current Hawaii retake rules before rescheduling. Each new attempt requires the current exam fee. Your JustInsurance course access remains active throughout the ${stateData.courseAccessDays}-day enrollment window, so you can review the material at no additional course charge.`,
+          };
+        }
+        return combined
+          ? {
+              question: faq.question.replace(
+                /Hawaii Life & Health Insurance exam(?!-prep)/g,
+                "Hawaii Life and Accident & Health exams"
+              ),
+              answer: faq.answer
+                .replace(
+                  /Hawaii Life & Health Insurance exam(?!-prep)/g,
+                  "Hawaii Life and Accident & Health exams"
+                )
+                .replace(/exam content outline/g, "exam content outlines"),
+            }
+          : faq;
+      })
+    : isDelaware && loaDef.slug === "life-and-health"
+    ? feeAdjustedFaqs.map((faq) => ({
+        question: faq.question.replace(
+          /Delaware Life & Health Insurance exam(?!-prep)/g,
+          "Delaware Life and Accident & Health exams"
+        ),
+        answer: faq.answer
+          .replace(
+            /Delaware Life & Health Insurance exam(?!-prep)/g,
+            "Delaware Life and Accident & Health exams"
+          )
+          .replace(/exam content outline/g, "exam content outlines"),
+      }))
+    : feeAdjustedFaqs;
   const learnBullets = WHAT_YOULL_LEARN[loaDef.slug];
 
   // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers on Ohio
@@ -510,16 +680,21 @@ export default async function PrelicensingCoursePage({
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
     courseType: "prelicensing",
+    examPrepOnly: isOptionalProductFlow,
     // Prelicensing course pages are only reached when NOT held (held short-
     // circuits to the notice earlier), so this is true here; passing the real
     // signal keeps the InStock-offer gate correct if that ever changes.
-    available: !isPrelicensingHeld(stateData),
+    available: lineAvailable,
     hours: pricingHoursNum,
     price: pricing.price,
     // 50 Ill. Adm. Code 3119 — Illinois Course schema descriptions use the
     // hybrid format instead of unqualified "online, self-paced".
-    description: ilWebinar
-      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours per line (7.5 live webinar + 12.5 self-paced), state-approved. ${guaranteeSentence} ${pricing.price}.`
+    description: isOptionalProductFlow
+      ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam-prep course — online and self-paced, with optional weekly live instructor support and ${stateData.courseAccessDays} days of access. ${optionalExamPrepNotice} ${guaranteeSentence} ${pricing.price}.`
+      : isIllinoisCombinedSelection
+      ? `Illinois Life & Health prelicensing package — one ${pricing.price} purchase enrolls both separately approved 20-hour courses. Each course includes a required 7.5-hour live webinar plus 12.5 hours of self-study and produces its own completion certificate.`
+      : ilWebinar
+      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours per line (7.5 mandatory live webinar + 12.5 self-paced), state-approved. ${guaranteeSentence} ${pricing.price}.`
       : hoursIsNumber
       ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, ${isProviderApproved ? "state-approved, " : ""}online, ${monitoredHours ? "on your own schedule" : "self-paced"}. ${guaranteeSentence} ${pricing.price}.`
       : `${stateData.name} ${loaDef.name} prelicensing course — online, ${monitoredHours ? "on your own schedule" : "self-paced"}. ${guaranteeSentence} ${pricing.price}.`,
@@ -527,7 +702,7 @@ export default async function PrelicensingCoursePage({
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
     { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
-    { name: "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
+    { name: isOptionalExamPrep ? "Exam Prep" : "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
     { name: loaDef.shortName, url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/${loaDef.slug}` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
@@ -537,10 +712,22 @@ export default async function PrelicensingCoursePage({
   // Course is the correct primary type for prelicensing pages; offers/pricing
   // already live inside the Course schema's hasCourseInstance.offers block.
 
-  const articleHeadline = `${stateData.name} ${loaDef.name} Prelicensing Course`;
+  const articleHeadline =
+    stateData.slug === "new-york" && loaDef.slug === "life"
+      ? "New York Life Insurance License: 20-Hour Prelicensing Course"
+      : isOptionalExamPrep
+      ? `${stateData.name} ${loaDef.shortName} Insurance Exam Prep Course`
+      : `${stateData.name} ${loaDef.name} Prelicensing Course`;
   // 50 Ill. Adm. Code 3119 — Illinois hero subtitle / Article description
   // swaps the unqualified self-paced claim for the approved short line.
-  const articleDescription = ilWebinar
+  const articleDescription =
+    stateData.slug === "new-york" && loaDef.slug === "life"
+    ? `Complete the New York DFS-approved 20-hour Life insurance prelicensing course online from provider #${stateData.providerApprovalNumber}. Study at your own pace with ${stateData.courseAccessDays} days of access, then prepare for the PSI Life Agent/Broker licensing exam. Instant access. ${pricing.price}.`
+    : isOptionalProductFlow
+    ? `Optional ${stateData.name} ${loaDef.shortName} insurance exam preparation with online, self-paced study, optional weekly live instructor support, and ${stateData.courseAccessDays} days of access. ${stateData.name} does not require this course before ${(isDelaware || isHawaii || isIdaho) && loaDef.slug === "life-and-health" ? "the licensing exams" : "the licensing exam"}. ${guaranteeSentence} Only ${pricing.price}.`
+    : isIllinoisCombinedSelection
+    ? `One ${pricing.price} purchase enrolls you in both separately approved Illinois 20-hour courses. Each course includes 7.5 mandatory live webinar hours plus 12.5 self-paced hours, produces its own completion certificate, and prepares you for its separate licensing exam.`
+    : ilWebinar
     ? `${pricing.hours}-hour state-approved course. ${IL_WEBINAR_SHORT_LINE} Then pass the ${stateData.name} licensing exam. ${guaranteeSentence} Only ${pricing.price}.`
     : hoursIsNumber
     ? `${pricing.hours}-hour ${isProviderApproved ? "state-approved " : ""}course. ${monitoredHours ? "Study online on your own schedule" : "Study online at your own pace"}, then pass the ${stateData.name} licensing exam. ${guaranteeSentence} Only ${pricing.price}.`
@@ -555,7 +742,7 @@ export default async function PrelicensingCoursePage({
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}` },
-    { name: "Prelicensing", href: `/${stateData.slug}/prelicensing` },
+    { name: isOptionalExamPrep ? "Exam Prep" : "Prelicensing", href: `/${stateData.slug}/prelicensing` },
     { name: loaDef.shortName },
   ];
 
@@ -574,11 +761,14 @@ export default async function PrelicensingCoursePage({
       <PrelicenseApprovalNotice stateSlug={stateData.slug} loaSlug={loaDef.slug} stateName={stateData.name} />
 
       <StateHero
-        eyebrow={`${stateData.name} ${loaDef.shortName} Prelicensing`}
-        title={`${stateData.name} ${loaDef.name} Prelicensing Course`}
+        eyebrow={`${stateData.name} ${loaDef.shortName} ${isOptionalExamPrep ? "Exam Prep" : "Prelicensing"}`}
+        title={articleHeadline}
         subtitle={articleDescription}
         ctaButtons={[
-          { text: `Enroll Now — ${pricing.price}`, href: enrollLink },
+          {
+            text: `Enroll Now — ${pricing.price}`,
+            href: enrollLink,
+          },
         ]}
       />
 
@@ -592,6 +782,20 @@ export default async function PrelicensingCoursePage({
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
       </div>
+
+      {stateData.slug === "new-york" && (
+        <>
+          <TrustBar stateSlug={stateData.slug} />
+          <StateProviderBadge
+            stateName={stateData.name}
+            doiName={stateData.doiName}
+            providerNumber={stateData.providerApprovalNumber}
+            doiUrl={stateData.doiUrl}
+            stateSlug={stateData.slug}
+            credentialKind="prelicensing"
+          />
+        </>
+      )}
 
       {/* 50 Ill. Adm. Code 3119 — Illinois-only live-webinar format callout,
           top of main content before the Course Overview box. */}
@@ -607,12 +811,13 @@ export default async function PrelicensingCoursePage({
         <section className="bg-white py-10 px-4">
           <div className="max-w-4xl mx-auto bg-gray-bg border-l-4 border-gold rounded-r-lg p-6">
             <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
-              How the Illinois Life &amp; Health package works
+              How Illinois Life &amp; Health prelicensing works
             </h2>
             <p className="text-gray-700 leading-relaxed mb-3">
               In Illinois, &ldquo;Life &amp; Health&rdquo; is not one combined
               course. State law treats Life and Accident &amp; Health as separate
-              lines of authority (215 ILCS 5/500-25), so this package includes{" "}
+              lines of authority (215 ILCS 5/500-30), so students pursuing both
+              lines complete{" "}
               <strong>two individually state-approved prelicensing courses</strong>{" "}
               — a 20-hour Life course and a 20-hour Accident &amp; Health course
               (40 hours total), each with at least 7.5 hours of live classroom or
@@ -623,8 +828,10 @@ export default async function PrelicensingCoursePage({
               Your state exams are separate too: you&apos;ll sit a Life exam and a
               separate Accident &amp; Health exam through Pearson VUE, each with its
               own General and State portion — <strong>four exams in total</strong>{" "}
-              for the Life &amp; Health license. We bundle both approved courses at
-              one price so you&apos;re prepared for all four.
+              for the Life &amp; Health license. JustInsurance&apos;s $199 package is
+              one purchase that enrolls you in both separately approved courses;
+              you still complete each course, required webinar, and certificate
+              separately.
             </p>
           </div>
         </section>
@@ -691,7 +898,7 @@ export default async function PrelicensingCoursePage({
             ? {
                 format: `${ilLiveHours}h Live Webinar + ${ilSelfHours}h Self-Paced`,
                 includes: [
-                  "7.5 live webinar hours per line — attendance verified",
+                  "7.5 mandatory live webinar hours per line — attendance verified",
                   "Video lessons",
                   "Interactive e-book",
                   "Practice exams",
@@ -729,16 +936,28 @@ export default async function PrelicensingCoursePage({
               <div className="border-t border-gray-200 p-6">
                 <h3 className="font-semibold text-navy mb-4">What&apos;s Included</h3>
                 <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {[
-                    "Video lessons",
-                    "Interactive e-book",
-                    "Practice exams",
-                    "Flashcard review sets",
-                    "Progress tracking",
-                    "Expert support",
-                    "Certificate of completion",
-                    guaranteeOk ? "Pass guarantee" : "Instant course access",
-                  ].map((item) => (
+                  {(isOptionalProductFlow
+                    ? [
+                        "Video explanations",
+                        "Condensed review summaries",
+                        "AI-powered study tools",
+                        "5 exam-style practice exams",
+                        "Progress tracking",
+                        "Expert support",
+                        "Course completion record",
+                        "Optional weekly live instructor sessions",
+                        guaranteeOk ? "Pass guarantee" : "Instant course access",
+                      ]
+                    : [
+                        "Video lessons",
+                        "Interactive e-book",
+                        "Practice exams",
+                        "Flashcard review sets",
+                        "Progress tracking",
+                        "Expert support",
+                        "Certificate of completion",
+                        guaranteeOk ? "Pass guarantee" : "Instant course access",
+                      ]).map((item) => (
                     <li key={item} className="flex items-center gap-2 text-gray-600 text-sm">
                       <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
@@ -760,13 +979,17 @@ export default async function PrelicensingCoursePage({
             What You&apos;ll Learn
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
-            {ilWebinar && loaDef.slug === "life-and-health"
+            {isOptionalProductFlow
+              ? (isDelaware || isHawaii || isIdaho) && loaDef.slug === "life-and-health"
+                ? `This optional exam-prep package reviews key topics from the published ${stateData.name} Life and Accident & Health licensing exam content outlines.`
+                : `This optional exam-prep course reviews key topics from the published ${stateData.name} ${loaDef.name} licensing exam content outline.`
+              : ilWebinar && loaDef.slug === "life-and-health"
               ? `These two courses cover everything tested on the two Illinois exams — Life and Accident & Health — required for a Life & Health license.`
               : isCalifornia
               ? `This course delivers California's required 12-hour Code & Ethics prelicensing content, plus focused exam preparation for the ${stateData.name} ${loaDef.name} licensing exam.`
               : loaDef.slug === "life-and-health" && stateData.noCombinedExam
-              ? `This course covers everything tested on the ${stateData.name} Life and Health licensing exams — a separate state exam for each line of authority.`
-              : `This course covers everything tested on the ${stateData.name} ${loaDef.name} licensing exam.`}
+              ? `This course reviews the Life and Health content areas identified in the published ${stateData.name} exam outlines — a separate state exam applies to each line of authority.`
+              : `This course reviews the ${loaDef.name} content areas identified in the published ${stateData.name} licensing exam outline.`}
           </p>
           <div className="bg-white rounded-xl p-6 md:p-8 shadow-sm">
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -783,7 +1006,7 @@ export default async function PrelicensingCoursePage({
         </div>
       </section>
 
-      <CourseFeatures />
+      <CourseFeatures examPrepOnly={isOptionalProductFlow} />
 
       <ExamInfoSection
         stateName={stateData.name}
@@ -828,9 +1051,15 @@ export default async function PrelicensingCoursePage({
                 // one exam session only at a physical Pearson VUE test center
                 // location for a single fee of $89." OnVUE online charges per
                 // exam. Never double the in-person fee for Alaska (audit 2026-07-21).
-                stateData.slug === "alaska"
-              ? `$${stateData.examInfo.examFee} (covers both exams in one in-person session)`
-              : `$${2 * Number(stateData.examInfo.examFee)} (two exams)`
+                 stateData.slug === "alaska"
+               ? `$${stateData.examInfo.examFee} (covers both exams in one in-person session)`
+               : // Delaware charges one $90 fee when the Life and Accident &
+                 // Health exams are scheduled for the same day; otherwise each
+                 // separately scheduled exam carries its own $90 fee. Pearson
+                 // VUE Delaware Candidate Handbook #120800 (2026), Exam Fees.
+                 stateData.slug === "delaware"
+               ? `$${stateData.examInfo.examFee} when both exams are scheduled the same day; otherwise $${stateData.examInfo.examFee} per exam`
+               : `$${2 * Number(stateData.examInfo.examFee)} (two exams)`
             : // States that DO offer a combined Life & Health exam priced ABOVE
               // the single-line exam (Arizona $59 vs $50, Connecticut $105 vs
               // $65, Maine $80 vs $55, Texas $49 vs $39, … — see
@@ -853,6 +1082,7 @@ export default async function PrelicensingCoursePage({
         stateName={stateData.name}
         stateSlug={stateData.slug}
         practiceExams={stateData.practiceExams}
+        noCombinedExam={stateData.noCombinedExam}
         loa={
           loaDef.slug === "life"
             ? "Life"
@@ -866,7 +1096,7 @@ export default async function PrelicensingCoursePage({
 
       <FAQAccordion
         faqs={faqs}
-        heading={`${stateData.name} ${loaDef.name} Prelicensing FAQs`}
+        heading={`${stateData.name} ${isOptionalProductFlow ? `${loaDef.shortName} Insurance Exam Prep` : `${loaDef.name} Prelicensing`} FAQs`}
       />
 
       <RelatedStatePages
@@ -885,13 +1115,23 @@ export default async function PrelicensingCoursePage({
       </section>
 
       <CTABanner
-        title={`Ready to Start Your ${stateData.name} ${loaDef.shortName} Prelicensing?`}
+        title={
+          isIllinoisCombinedSelection
+            ? "Ready to Start Your Illinois Life and Health Courses?"
+            : `Ready to Start Your ${stateData.name} ${loaDef.shortName} ${isOptionalProductFlow ? "Exam Prep" : "Prelicensing"}?`
+        }
         subtitle={
-          hoursIsNumber
+          isIllinoisCombinedSelection
+            ? `One $199 package enrolls both separately approved courses. Each includes Illinois's mandatory 7.5 live webinar hours plus 12.5 self-paced hours.`
+            : isOptionalProductFlow
+            ? `Enroll in our optional ${loaDef.shortName} insurance exam-prep course today. ${guaranteeSentence} Only ${pricing.price}.`
+            : hoursIsNumber
             ? `Enroll in our ${pricing.hours}-hour ${isProviderApproved ? "state-approved " : ""}course today. ${guaranteeSentence} Only ${pricing.price}.`
             : `Enroll in our ${loaDef.name} course today. ${guaranteeSentence} Only ${pricing.price}.`
         }
-        ctaText={`Enroll Now — ${pricing.price}`}
+        ctaText={
+          `Enroll Now — ${pricing.price}`
+        }
         ctaHref={enrollLink}
         externalLink
         disclosure={<RefundDisclosure />}

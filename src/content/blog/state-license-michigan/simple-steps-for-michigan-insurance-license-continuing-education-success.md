@@ -36,7 +36,7 @@ Taking this education seriously helps you establish a strong footing:
 
 1.  Pick a reputable pre-licensing provider. Look for approved courses that match your learning style—online, in-person, or a blend of both.
 2.  Create a study routine. Plan to review material daily or weekly. Consistent study sessions often yield better results than last-minute cramming.
-3.  Practice with sample quizzes. Quizzes mirror the exam’s multiple-choice format and can pinpoint areas where you may need extra review.
+3.  Practice with sample quizzes. Quizzes help you apply the material and can pinpoint areas where you may need extra review.
 
 These study habits ensure you develop a strong knowledge base, laying the groundwork for passing your exam on the first try.
 

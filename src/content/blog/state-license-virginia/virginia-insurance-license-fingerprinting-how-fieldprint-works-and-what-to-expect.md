@@ -1,6 +1,6 @@
 ---
 title: "Virginia Insurance License Fingerprinting: How Fieldprint Works and What to Expect"
-description: Every Virginia resident insurance license applicant must complete a fingerprint-based criminal history background check before the Bureau of Insurance w...
+description: "Fieldprint Virginia insurance fingerprinting: official producer code, $34.95 fee, required IDs, 90-day rule, and what happens after your appointment."
 keyword: virginia insurance license fingerprinting how fieldprint
 targetKeywords: virginia insurance license fingerprinting how fieldprint
 cluster: state-license-virginia
@@ -13,6 +13,8 @@ imageAlt: "Virginia Insurance License Fingerprinting: How Fieldprint Works and W
 ---
 
 Every Virginia resident insurance license applicant must complete a fingerprint-based criminal history background check before the Bureau of Insurance will approve their license. Virginia uses Fieldprint Virginia — not IdentoGO, which most other states use — and the Fieldprint process is specific enough that applicants who assume it works the same as other states' fingerprinting systems make easily avoidable mistakes. This post covers exactly how Fieldprint works, what the Fieldprint Code means, what happens after your prints are submitted, and how to avoid the most common timing errors.
+
+**Quick answer:** Virginia resident applicants use [Fieldprint Virginia](https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/) with code **FPVABOIProducer**. The appointment costs **$34.95**, requires the appointment number and two valid IDs, and the fingerprints must be no older than **90 days** when used with an application.
 
 ## Why Virginia Requires Fingerprinting
 

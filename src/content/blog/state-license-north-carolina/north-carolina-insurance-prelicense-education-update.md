@@ -102,7 +102,7 @@ Multiple separate exams. North Carolina has separate exams for each line — no 
 
 Content coverage. Each North Carolina exam covers extensive material including general insurance principles, specific product knowledge, and North Carolina-specific laws.
 
-[Practice exam](/north-carolina/practice-exam) access. Quality prelicense courses include practice exams that mirror the actual state exam format and content.
+[Practice exam](/north-carolina/practice-exam) access. Quality prelicense courses include state-specific question practice built around the published exam content outline.
 
 Study structure. Self-study without structure often leads to inefficient learning. Quality courses provide systematic content delivery.
 
@@ -252,7 +252,7 @@ Foundation knowledge. Master all major content areas tested for each line.
 
 Practice opportunities. Substantial practice question volume per line.
 
-Final exam preparation. Mirror exam-style thinking and conditions.
+Final exam preparation. Practice applying course concepts under timed, closed-book conditions.
 
 North Carolina-specific focus. Don't neglect state law content.
 

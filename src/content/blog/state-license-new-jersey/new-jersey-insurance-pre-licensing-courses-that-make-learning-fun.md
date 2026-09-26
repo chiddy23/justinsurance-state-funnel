@@ -64,7 +64,7 @@ Another valuable approach is to organize your study schedule so you tackle diffe
 
 ## Get started with JustInsurance
 
-As you move toward your goal of becoming a licensed insurance professional, it helps to have the support of a reliable course provider. That’s where JustInsurance comes in. Whether you prefer self-paced online learning or engaging group sessions, JustInsurance offers flexible options that make your journey feel manageable rather than daunting. You’ll find clear explanations of complex topics, practice exams that mirror the actual test format, and instructors who are ready to answer your questions whenever they arise.
+As you move toward your goal of becoming a licensed insurance professional, it helps to have the support of a reliable course provider. That’s where JustInsurance comes in. Whether you prefer self-paced online learning or engaging group sessions, JustInsurance offers flexible options that make your journey feel manageable rather than daunting. You’ll find clear explanations of complex topics, state-specific practice exams, and instructors who are ready to answer your questions whenever they arise.
 
 The state’s licensing process does require time and patience, but the payoff can be enormous. Once you hold that New Jersey insurance license, you open doors to a range of career opportunities, from working with established agencies to starting your own business down the line. After you’re licensed, plan ahead for [New Jersey continuing education](/new-jersey/continuing-education) at every renewal. It’s a milestone worth celebrating, and the right support system can make sure you get there smoothly.
 

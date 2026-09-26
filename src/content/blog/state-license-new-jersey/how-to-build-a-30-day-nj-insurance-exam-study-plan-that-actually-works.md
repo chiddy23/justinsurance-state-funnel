@@ -74,7 +74,7 @@ Allocate your study time proportionally to the content outline weights published
 
 Can I take practice exams before the real NJ insurance exam?
 
-Yes, and you should. Practice exams are one of the most effective preparation tools available. Look for practice exams that mirror the PSI format for your specific line — 83 multiple-choice questions for Life, 88 for Health, 79 for Property, or 91 for Casualty — timed, with NJ-specific state law questions included. Review every question you miss in detail, not just the correct answer but why the other choices were wrong. Practice exams also serve as a diagnostic: if you are consistently scoring below 70% on full practice exams one week before your scheduled date, delay your PSI appointment and address the weak areas before you sit.
+Yes, and you should. Practice exams are one of the most effective preparation tools available. Look for timed practice exams built around the published PSI content outline for your specific line, with New Jersey-specific state law questions included. Review every question you miss in detail, not just the correct answer but why the other choices were wrong. Practice exams also serve as a diagnostic: if you are consistently scoring below 70% on full practice exams one week before your scheduled date, delay your PSI appointment and address the weak areas before you sit.
 
 What if I finish my prelicensing course but don't feel ready for the exam?
 

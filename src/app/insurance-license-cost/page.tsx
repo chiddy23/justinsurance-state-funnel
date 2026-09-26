@@ -164,7 +164,7 @@ const minimizeCost = [
   },
   {
     title: "Use a state-specific practice exam",
-    body: "A $59 practice exam that mirrors your state's exact exam content outline is a fraction of the cost of a single retake in a high-fee state. If it saves you one retry in California, it has paid for itself and then some.",
+    body: "A $59 practice exam built around your state's published exam content outline is a fraction of the cost of a single retake in a high-fee state. If it saves you one retry in California, it has paid for itself and then some.",
   },
   {
     title: "Schedule your exam soon after completing the course",
@@ -320,7 +320,7 @@ export default function InsuranceLicenseCostPage() {
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State exam fee:</strong> $32 in Missouri and Utah to $98 in California (paid per attempt).</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State application fee:</strong> $0 in Montana and $10 in Michigan, Ohio and Wisconsin, up to $225 in Massachusetts.</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Fingerprinting or background check:</strong> $0 to $85 depending on the state, through IdentoGO, Fieldprint, or an equivalent vendor.</span></li>
-              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Optional practice exam:</strong> $59 for a state-specific, full-length simulated exam.</span></li>
+              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Optional practice exam:</strong> $59 for a state-specific, full-length set of exam-style practice questions.</span></li>
             </ul>
             <p className="text-gray-700 leading-relaxed mt-4">
               Candidates in low-fee states like Michigan can get fully licensed for under $300. Texas runs about $330. Candidates in California, Illinois, or Massachusetts should plan for closer to $600, largely because the application fee is front-loaded.
@@ -431,7 +431,7 @@ export default function InsuranceLicenseCostPage() {
             <div className="bg-white rounded-xl p-7 shadow-sm border border-gray-100">
               <h3 className="font-bold text-navy text-lg mb-3">5. Optional Practice Exam — $59</h3>
               <p className="text-gray-700 leading-relaxed text-sm">
-                A <Link href="/practice-exam" className="text-navy underline underline-offset-2 hover:text-gold">state-specific practice exam</Link> costs $59 and mirrors the actual state exam&apos;s format, timing, and topic weight. This is optional but recommended. In any state with a $60+ exam fee, a single avoided retake more than pays for the practice exam.
+                A <Link href="/practice-exam" className="text-navy underline underline-offset-2 hover:text-gold">state-specific practice exam</Link> costs $59 and provides additional review based on the published exam content outline. It does not contain official exam questions, and question style, timing, and difficulty may differ from the licensing exam. This optional study tool can help you identify topics that need more review before test day.
               </p>
             </div>
           </div>
@@ -445,7 +445,7 @@ export default function InsuranceLicenseCostPage() {
             State-by-State Fee Comparison
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-            Exam fees paid to each state&apos;s contracted exam vendor — Pearson VUE or PSI in most states, Prometric in Virginia, and the University of Alabama in Alabama — and application fees paid to the state Department of Insurance. Data verified April 2026.
+            Exam fees paid to each state&apos;s contracted exam vendor — Pearson VUE or PSI in most states, Prometric in Virginia, and the University of Alabama in Alabama — and state application fees paid to the Department of Insurance. Reviewed September 2026; separate NIPR transaction, fingerprint, and ancillary fees are not included in this table.
           </p>
           <div className="overflow-x-auto rounded-xl border border-gray-200 shadow-sm">
             <table className="w-full text-sm">
@@ -454,7 +454,7 @@ export default function InsuranceLicenseCostPage() {
                   <th className="text-left px-4 py-3 font-semibold">State</th>
                   <th className="text-left px-4 py-3 font-semibold">Exam Fee</th>
                   <th className="text-left px-4 py-3 font-semibold">Application Fee</th>
-                  <th className="text-left px-4 py-3 font-semibold">State Page</th>
+                  <th className="text-left px-4 py-3 font-semibold">Detailed Cost Page</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-100">
@@ -464,8 +464,8 @@ export default function InsuranceLicenseCostPage() {
                     <td className="px-4 py-3 text-gray-700">{row.examFee}</td>
                     <td className="px-4 py-3 text-gray-700">{row.appFee}</td>
                     <td className="px-4 py-3">
-                      <Link href={`/${row.slug}`} className="text-navy underline underline-offset-2 hover:text-gold">
-                        View
+                      <Link href={`/${row.slug}/cost`} className="text-navy underline underline-offset-2 hover:text-gold">
+                        {row.state} costs
                       </Link>
                     </td>
                   </tr>

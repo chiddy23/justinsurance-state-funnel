@@ -27,17 +27,17 @@ const faqs = [
   {
     question: "What's included in the JustInsurance practice exam?",
     answer:
-      "Each practice exam is a full-length set of questions modeled on your state's actual insurance licensing exam. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes for the duration of your course access. Pick Life, Health, or Life & Health depending on the license you plan to test for.",
+      "Each practice exam is a full-length set of exam-style questions covering published insurance licensing topics. You get instant scoring, detailed answer explanations for every question (right or wrong), and unlimited retakes for the duration of your course access. Pick Life, Health, or Life & Health depending on the license you plan to test for.",
   },
   {
     question: "How close is the practice exam to the real state exam?",
     answer:
-      "Our practice exams mirror your state's actual licensing exam in format, question style, and topic weighting. The content is written by licensed insurance educators who track each state's exam content outline. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the threshold our pass guarantee uses.",
+      "Our practice exams are built around each state's published exam content outline and provide timed, state-specific question practice. The content is written by licensed insurance educators who track those outlines. Students who score 80% or higher on any three practice-exam attempts typically pass the state exam on the first attempt — that's the threshold our pass guarantee uses.",
   },
   {
     question: "Which practice exam should I buy — Life, Health, or Life + Health?",
     answer:
-      "Match your practice exam to the license you plan to test for. Taking just the Life exam? Buy the Life Practice Exam. Just Health? Buy Health. Taking both lines? Buy the Life + Health Practice Exam. In most states it mirrors the single combined Life & Health state exam; in the 15 states that have no combined exam (including Illinois, New Jersey, North Carolina, Tennessee and Wisconsin) it prepares you for each of the two separate state exams you'll sit.",
+      "Match your practice exam to the license you plan to test for. Taking just the Life exam? Buy the Life Practice Exam. Just Health? Buy Health. Taking both lines? Buy the Life + Health Practice Exam. In most states the Life + Health version covers both lines together; in the 15 states that have no combined exam (including Illinois, New Jersey, North Carolina, Tennessee and Wisconsin) it prepares you for each of the two separate state exams you'll sit.",
   },
   {
     question: "Do I need to take a prelicensing course first?",
@@ -85,8 +85,8 @@ export default function PracticeExamHubPage() {
             Pass Your Insurance Exam With Confidence
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Full-length state-specific practice exams that mirror the real Life, Health, and Life
-            &amp; Health licensing exam. Pick your state below to get started — $59 per exam.
+            Full-length, state-specific question practice for Life, Health, and Life &amp; Health
+            licensing exams. Pick your state below to get started — $59 per exam.
           </p>
 
           <StatePickerRedirect
@@ -110,7 +110,7 @@ export default function PracticeExamHubPage() {
         </div>
       </section>
 
-      <TrustBar />
+      <TrustBar passGuaranteeApplies={false} />
       <PressLogosBar />
 
       {/* Trust band */}
@@ -194,14 +194,14 @@ export default function PracticeExamHubPage() {
             Why a Practice Exam Is the Single Best Prep Investment
           </h2>
           <p className="text-gray-600 text-center mb-10 max-w-2xl mx-auto">
-            Many candidates lose points simply because the real exam&apos;s format and pacing are
-            unfamiliar. Our practice exam closes that gap.
+            Many candidates benefit from applying what they know under timed conditions before
+            test day. Our practice exams help build that confidence and pacing.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
               {
-                title: "Know what the real exam looks like",
-                desc: "Same question style, same timing, same topic weighting as the real state exam. No surprises on test day.",
+                title: "Practice the published exam topics",
+                desc: "State-specific questions built around published content outlines, with timed practice to help develop pacing.",
               },
               {
                 title: "Find your weak spots fast",

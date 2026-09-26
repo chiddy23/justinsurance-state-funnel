@@ -144,6 +144,8 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
                   ? `Starting at ${ceStartPrice}`
                   : ceComingSoon
                   ? "Approved — courses coming soon"
+                  : state?.ceApproved === false
+                  ? "Not currently offered"
                   : "State approval pending"}
               </li>
             </ul>
@@ -159,6 +161,8 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
                 <p className="text-sm text-gray-600 mb-3 leading-relaxed">
                   {ceComingSoon
                     ? `Approved ${stateName} CE provider (#${state?.providerApprovalNumber}) — courses coming soon.`
+                    : state?.ceApproved === false
+                    ? `JustInsurance does not currently offer ${stateName} CE courses.`
                     : `${stateName} CE course approval is pending.`}
                 </p>
                 <Link

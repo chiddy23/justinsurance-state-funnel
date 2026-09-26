@@ -32,7 +32,7 @@ Costs can vary, but most reputable courses offer comprehensive materials and pra
 
 The next step is to actually do the pre-licensing coursework for your specific line of authority. You’ll focus on core concepts like policy types, state regulations, and ethical responsibilities. If you’re juggling work, family, or other obligations, it’s a good idea to carve out a specific block of time each day to study. Consistency often makes the difference between a rushed, stressful prep experience and a confident, well-organized learning journey.
 
-Throughout your coursework, you’ll likely encounter quizzes and practice exams. Pay close attention to the format of these tests, because they usually mirror the final exam you’ll take later. By the time you finish, you should have a solid grasp on basic insurance fundamentals, policy provisions, and Arkansas-specific rules. Just kidding—Illinois-specific rules! Double-check that you’re prepared in each key area, from policy underwriting to client interactions, so you feel fully capable on exam day.
+Throughout your coursework, you’ll likely encounter quizzes and practice exams. Use these to apply the material and identify topics that need more review. By the time you finish, you should have a solid grasp on basic insurance fundamentals, policy provisions, and Illinois-specific rules. Double-check that you’re prepared in each key area, from policy underwriting to client interactions, so you feel fully capable on exam day.
 
 ## Register for your Illinois exam
 

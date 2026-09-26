@@ -187,7 +187,7 @@ export const STATE_DISCLOSURES: Record<string, StateDisclosure> = {
   // per-line numbers; #393177 is the one real approval.)
   california: {
     prelicense:
-      "JustInsurance is an approved California insurance prelicensing education provider (California Department of Insurance provider #6012338). Effective January 1, 2026, California requires new license applicants to complete a single 12-hour course of study on ethics and the Insurance Code, including one hour on insurance fraud (AB 943, Cal. Ins. Code § 1749). Courses are offered 100% online and self-paced.",
+      "JustInsurance is an approved California insurance prelicensing education provider (California Department of Insurance provider #6012338). Effective January 1, 2026, California requires license applicants to complete a single 12-hour course of study on ethics and the Insurance Code, including one hour on insurance fraud (AB 943, Cal. Ins. Code § 1749). The course is offered 100% online with monitored active-study time; it cannot be completed in less than 12 hours.",
     ce: "This course is approved by the California Department of Insurance for insurance continuing education credit. Approved provider: JustInsurance (CDI provider #6012338). See the course listing for the number of approved credit hours.",
     cite: "Cal. Ins. Code § 1749 (as amended by AB 943, eff. 1/1/2026)",
     singleCourseId: {

@@ -128,7 +128,7 @@ Ethics and Michigan law integration. Confirm the 6-hour ethics/MI law component 
 
 Certificate reporting speed. Provider should report completions to DIFS within 2 business days. Delays in reporting can delay your exam scheduling.
 
-[Practice exam](/michigan/practice-exam) quality. Strong practice exams that mirror the state exam are particularly valuable given Michigan's variable passing scores (72-76% rather than flat 70%).
+[Practice exam](/michigan/practice-exam) quality. Strong state-specific practice exams are particularly valuable given Michigan's variable passing scores (72-76% rather than flat 70%).
 
 Course format preference. Online self-paced, live webinar, classroom, or accelerated — choose based on how you learn best.
 

@@ -37,7 +37,7 @@ Not all pre-licensing programs deliver the same experience. To make an informed 
 1.  Instructor support  
     You’ll want access to instructors who understand your challenges and can answer complex questions. Look for courses that provide email, phone, or even live-chat support.
 2.  Practice exams  
-    Many providers include full-length practice tests that mirror Washington’s exam format. These are essential for highlighting areas where you might need extra study.
+    Many providers include full-length, state-specific practice tests. These are useful for highlighting areas where you might need extra study.
 3.  Compliance and updates  
     Insurance regulations change frequently. Make sure your provider offers updated content so you’re not learning outdated laws or practices.
 4.  Mobile compatibility  
@@ -59,7 +59,7 @@ Email, phone, or live-chat support when you have questions
 
 Practice exams
 
-Full-length practice tests that mirror the state exam format
+Full-length, state-specific practice tests
 
 Course pacing
 

@@ -4,7 +4,12 @@ import type { StateData } from "@/lib/states";
 import catalogLinks from "@/lib/catalog-links.json";
 import { getCtaAttrs } from "@/lib/gtm-attrs";
 import AddToCartLink from "@/components/AddToCartLink";
-import { isCeAvailable, isCeApprovedComingSoon } from "@/lib/prelicensing-status";
+import {
+  isCeAvailable,
+  isCeApprovedComingSoon,
+  isPrelicensingLineAvailable,
+  type PrelicensingLine,
+} from "@/lib/prelicensing-status";
 import {
   PC_STATE_SLUGS,
   getPCPackagesForState,
@@ -84,6 +89,7 @@ interface LOACardData {
 }
 
 export default function LOASelector({ stateSlug, courseType, stateData }: LOASelectorProps) {
+  const isMississippiCe = courseType === "continuing-education" && stateSlug === "mississippi";
   // A CE card may render a LIVE "state-approved" / "same-day reporting" claim OR a
   // purchasable enroll button ONLY when CE is actually available: provider approved
   // (providerApprovalNumber !== "PENDING") AND ceCoursesLive !== false. Approval
@@ -97,7 +103,10 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
   // non-purchase notice — "Approved — courses coming soon" for an approved-but-not-
   // live state (isCeApprovedComingSoon), or the "approval pending" fallback
   // otherwise; the "Details" learn-more link stays either way.
-  const ceHold = courseType === "continuing-education" && !isCeAvailable(stateData);
+  const cePackageHold = stateData.cePackagesLive === false;
+  const ceHold =
+    courseType === "continuing-education" &&
+    (!isCeAvailable(stateData) || cePackageHold);
   const catalogKey = courseType === "continuing-education" ? "continuing-education" : "prelicensing";
   const stateCatalog = (catalogLinks as CatalogLinks)[stateSlug as keyof CatalogLinks];
 
@@ -171,7 +180,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life",
             name: "Life Insurance",
-            description: "Sell term life, whole life, universal life, and annuity products. The essential license for any agent working in life insurance or financial services.",
+            description: stateSlug === "california"
+              ? "Includes California's single monitored 12-hour Code & Ethics course plus focused preparation for the Life licensing exam."
+              : "Sell term life, whole life, universal life, and annuity products. The essential license for any agent working in life insurance or financial services.",
             hours: stateData.prelicensing.life.hours,
             completionTime: stateData.prelicensing.life.completionTime,
             price: stateData.prelicensing.life.price,
@@ -181,7 +192,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "health",
             name: "Health Insurance",
-            description: "Sell major medical, Medicare supplement, disability income, long-term care, and other health products. Essential for agents focused on health and Medicare markets.",
+            description: stateSlug === "california"
+              ? "Includes California's single monitored 12-hour Code & Ethics course plus focused preparation for the Accident & Health or Sickness licensing exam."
+              : "Sell major medical, Medicare supplement, disability income, long-term care, and other health products. Essential for agents focused on health and Medicare markets.",
             hours: stateData.prelicensing.health.hours,
             completionTime: stateData.prelicensing.health.completionTime,
             price: stateData.prelicensing.health.price,
@@ -198,9 +211,11 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             // prelicensing-mandate states from exam-only states). All branches
             // vary the exam clause via noCombinedExam.
             description: stateData.classroomWebinarHours
-              ? "The most popular choice — get licensed to sell both life and health products. In Illinois this package is two separately state-certified courses (a 20-hour Life course + a 20-hour Health course) bundled at one price, with separate Life and Health state exams."
+              ? "Pursuing both Illinois lines requires the separate 20-hour Life and 20-hour Health courses. Each course includes 7.5 mandatory live webinar hours, and Illinois requires separate Life and Health licensing exams. Current course total: $398."
               : stateSlug === "california"
               ? `The most popular choice — get licensed to sell both life and health products. California requires a single 12-hour Code & Ethics prelicensing course that satisfies the education requirement for both lines (AB 943, effective 2026), then ${lhExamClause}.`
+              : stateSlug === "arizona"
+              ? `The most popular choice — get licensed to sell both life and health products. This combined exam-prep course covers published topics for Arizona's combined Life & Health licensing exam.`
               : COMBINED_COURSE_STATES.has(stateSlug)
               ? `The most popular choice — get licensed to sell both life and health products with a single combined Life & Health prelicensing course, then ${lhExamClause}.`
               : lhDefaultDescription,
@@ -209,7 +224,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             hoursSubtext:
               stateData.classroomWebinarHours &&
               Number(stateData.prelicensing.lifeAndHealth.hours) === 40
-                ? "20h Life + 20h Health = 40 total · 15h live webinar + 25h self-study"
+                ? "20h Life + 20h Health = 40 total · 15h mandatory live webinar + 25h self-study"
                 : undefined,
             price: stateData.prelicensing.lifeAndHealth.price,
             pageHref: `/${stateSlug}/prelicensing/life-and-health`,
@@ -220,8 +235,12 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life",
             name: "Life Insurance CE",
-            description: providerApproved
-              ? `Complete your life insurance continuing education requirements online. State-approved hours that keep your life license active and compliant.`
+            description: cePackageHold
+              ? `Review Illinois Life CE requirements and browse approved individual courses for the hours and topics you still need.`
+              : providerApproved
+              ? isMississippiCe
+                ? "A 24-hour Mississippi Life CE package for producers whose license period is more than 18 months. Confirm whether your own renewal requires 12 or 24 hours before enrolling."
+                : `Complete your life insurance continuing education requirements online. State-approved hours that keep your life license active and compliant.`
               : `Life insurance continuing education to keep your life license active and compliant — coming soon.`,
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
@@ -232,8 +251,12 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "health",
             name: "Health Insurance CE",
-            description: providerApproved
-              ? `Complete your health insurance CE requirements online. Covers all required topics including ethics. Same-day reporting to your state DOI in most cases.`
+            description: cePackageHold
+              ? `Review Illinois Health CE requirements and browse approved individual courses for the hours and topics you still need.`
+              : providerApproved
+              ? isMississippiCe
+                ? "A 24-hour Mississippi Health CE package, including 3 ethics hours, for producers whose license period is more than 18 months. Confirm your own requirement before enrolling."
+                : `Complete your health insurance CE requirements online. Covers all required topics including ethics. Completion reporting is typically the same day or the next business day.`
               : `Health insurance continuing education covering all required topics including ethics — coming soon.`,
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
@@ -244,8 +267,12 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life-and-health",
             name: "Life & Health CE",
-            description: providerApproved
-              ? "Fulfill the CE requirements for both your life and health licenses in one package. The most efficient way to renew both at once."
+            description: cePackageHold
+              ? `Review Illinois Life & Health CE requirements and browse approved individual courses. No complete package is currently offered.`
+              : providerApproved
+              ? isMississippiCe
+                ? "A 24-hour Mississippi Life & Health CE package, including 3 ethics hours, for producers whose license period is more than 18 months. Confirm your own requirement before enrolling."
+                : "Fulfill the CE requirements for both your life and health licenses in one package. The most efficient way to renew both at once."
               : "Continuing education for both your life and health licenses in one package — coming soon.",
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
@@ -275,7 +302,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
     cards.push({
       slug: "property-and-casualty",
       name: "Property & Casualty CE",
-      description: isMulti
+      description: cePackageHold
+        ? `Review Illinois Property & Casualty CE requirements and browse approved individual courses for the hours and topics you still need.`
+        : isMulti
         ? `${pcPackages.length} state-approved P&C packages — auto, homeowners, commercial, flood. ${stateData.name} producers writing P&C alongside L&H need both CE buckets to renew.`
         : `Complete your P&C continuing education online. ${stateData.name}-approved hours covering personal auto, homeowners, commercial property, GL, and workers' compensation.`,
       hours: hoursDisplay,
@@ -320,19 +349,35 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               courseType === "continuing-education" &&
               (card.slug === "life" || card.slug === "health" || card.slug === "life-and-health");
             const isMultiPackageLH = isLHCard && MULTI_PACKAGE_LH_CE_STATES.has(stateSlug);
+            const isIllinoisCombinedSelection =
+              courseType === "prelicensing" &&
+              stateSlug === "illinois" &&
+              card.slug === "life-and-health";
             const displayPrice = isMultiPackageLH
               ? (MULTI_PACKAGE_LH_CE_PRICE_OVERRIDE[stateSlug] ?? card.price)
               : card.price;
+            // Drive optional-course language from this specific card's verified
+            // requirement data. This handles mixed-rule states such as Mississippi,
+            // where Life is optional but Health and combined courses are required.
+            const cardIsOptionalExamPrep =
+              courseType === "prelicensing" && isOptionalHours(card.hours);
+            const prelicensingLineUnavailable =
+              courseType === "prelicensing" &&
+              !isPrelicensingLineAvailable(
+                stateData,
+                card.slug as PrelicensingLine,
+              );
+            const isPopular = idx === 2 && !prelicensingLineUnavailable;
             return (
             <div
               key={card.slug}
               className={`bg-white rounded-xl shadow-md border-2 ${
                 cards.length === 4 ? "p-5" : "p-6"
               } flex flex-col hover:shadow-xl transition-shadow ${
-                idx === 2 ? "border-gold" : "border-transparent"
+                isPopular ? "border-gold" : "border-transparent"
               }`}
             >
-              {idx === 2 && (
+              {isPopular && (
                 <div className="bg-gold text-gray-dark text-xs font-bold uppercase tracking-wide px-3 py-1 rounded-full self-start mb-3">
                   Most Popular
                 </div>
@@ -341,9 +386,20 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-grow">{card.description}</p>
 
               <div className="border-t border-gray-100 pt-4 mb-4 space-y-2">
-                <div className="flex justify-between items-center">
-                  <span className="text-gray-500 text-sm">Hours Required</span>
-                  <span className="text-navy font-bold">{formatLoaHours(card.hours, card.completionTime)} hrs</span>
+                <div className="flex justify-between items-center gap-3">
+                  <span className="text-gray-500 text-sm">
+                    {cardIsOptionalExamPrep
+                      ? "Recommended Study Time"
+                      : isMississippiCe
+                        ? "Package Hours"
+                        : "Hours Required"}
+                  </span>
+                  <span className="text-navy font-bold text-right shrink-0 whitespace-nowrap">
+                    {cardIsOptionalExamPrep
+                      ? formatLoaHours(card.hours, card.completionTime).replace(" (recommended)", "")
+                      : formatLoaHours(card.hours, card.completionTime)}{" "}
+                    hrs
+                  </span>
                 </div>
                 {card.hoursSubtext && (
                   <p className="text-gray-500 text-xs leading-snug">{card.hoursSubtext}</p>
@@ -353,7 +409,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                     !isCeAvailable), so !ceHold keeps the row byte-identical for
                     every prelicensing card and for available/live CE, and only
                     suppresses the purchasable $ price on a not-live CE card. */}
-                {!ceHold && (
+                {!ceHold && !prelicensingLineUnavailable && (
                   <div className="flex justify-between items-center">
                     <span className="text-gray-500 text-sm">Course Price</span>
                     <span className="text-navy font-bold">{displayPrice}</span>
@@ -372,9 +428,15 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 {...getCtaAttrs({ href: card.pageHref, location: "loa-card-learn-more", state: stateSlug, loa: card.slug })}
                 className="block text-center text-navy border border-navy hover:bg-navy hover:text-white font-medium py-2 px-4 rounded-lg transition-colors mb-2 text-sm"
               >
-                {card.name} Details
+                {prelicensingLineUnavailable
+                  ? `${card.name} Requirements & Availability`
+                  : `${card.name} Details`}
               </Link>
-              {ceHold ? (
+              {prelicensingLineUnavailable ? (
+                <div className="block text-center bg-gray-100 text-gray-600 font-semibold py-3 px-4 rounded-lg text-sm leading-snug">
+                  Not currently available from JustInsurance. No payment link is shown.
+                </div>
+              ) : ceHold ? (
                 // CE not available: no purchasable enroll button. The requirement
                 // copy + "Details" learn-more link above remain. Two sub-cases: an
                 // approved provider whose courses aren't live yet gets a truthful
@@ -383,6 +445,10 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 <div className="block text-center bg-gray-100 text-gray-500 font-semibold py-3 px-4 rounded-lg text-sm leading-snug">
                   {isCeApprovedComingSoon(stateData)
                     ? `Approved ${stateData.name} CE provider (#${stateData.providerApprovalNumber}) — courses coming soon.`
+                    : stateData.ceApproved === false
+                    ? `Not currently offered by JustInsurance. No payment link is shown.`
+                    : cePackageHold
+                    ? `Complete ${stateData.name} CE packages are not currently available. Browse approved individual CE courses below.`
                     : `Opening soon — our ${stateData.name} CE provider approval is pending.`}
                 </div>
               ) : card.enrollHref.startsWith("/") ? (
@@ -395,6 +461,19 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 >
                   Choose a Package &rarr;
                 </Link>
+              ) : isIllinoisCombinedSelection ? (
+                // Illinois does not currently publish a combined L&H product.
+                // Route to the audited category so the buyer selects the two
+                // separate courses; do not emit a false add_to_cart event.
+                <a
+                  href={card.enrollHref}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  {...getCtaAttrs({ href: card.enrollHref, location: "loa-card", state: stateSlug, loa: card.slug })}
+                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
+                >
+                  View Both Course Options &rarr;
+                </a>
               ) : isMultiPackageLH ? (
                 // External Absorb catalog containing multiple L/H/L&H packages
                 // (FL, MA). User still needs to pick a package, so use the

@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
-import { stateClaims, isPrelicensingHeld } from "@/lib/prelicensing-status";
+import {
+  stateClaims,
+  isPrelicensingHeld,
+  isPrelicensingPartiallyLive,
+} from "@/lib/prelicensing-status";
 import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import CTABanner from "@/components/CTABanner";
@@ -42,6 +46,9 @@ const PRELICENSING_APPROVED_COUNT = SERVED_STATES.filter(
   (s) => stateClaims(s).canClaimPrelicensingApproval
 ).length;
 const EXAM_PREP_ONLY_COUNT = SERVED_STATE_COUNT - PRELICENSING_REQUIRED_SERVED.length;
+const PARTIAL_PRELICENSING_STATES = Object.values(STATES).filter(
+  isPrelicensingPartiallyLive
+);
 
 /**
  * Hero prelicensing reach. Owner-confirmed (2026-08-05) we hold prelicensing
@@ -53,8 +60,10 @@ const EXAM_PREP_ONLY_COUNT = SERVED_STATE_COUNT - PRELICENSING_REQUIRED_SERVED.l
  * does not weaken this claim.
  */
 const PRELICENSING_REACH_PHRASE =
-  PRELICENSING_REQUIRED_SERVED.length > 0 &&
-  PRELICENSING_APPROVED_COUNT >= PRELICENSING_REQUIRED_SERVED.length
+  PARTIAL_PRELICENSING_STATES.length > 0
+    ? `in ${PRELICENSING_APPROVED_COUNT} states, with Life prelicensing now available in ${PARTIAL_PRELICENSING_STATES.map((s) => s.name).join(", ")}`
+    : PRELICENSING_REQUIRED_SERVED.length > 0 &&
+      PRELICENSING_APPROVED_COUNT >= PRELICENSING_REQUIRED_SERVED.length
     ? "wherever your state requires it"
     : `in ${PRELICENSING_APPROVED_COUNT} of the ${PRELICENSING_REQUIRED_SERVED.length} states we serve that require it`;
 
@@ -263,7 +272,7 @@ export default function HomePage() {
             Choose Your State
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We offer state-approved continuing education in {CE_APPROVED_COUNT} of the {SERVED_STATE_COUNT} states we serve (all except New York{CE_APPROVAL_PENDING.length > 0 ? `; ${formatStateNames(CE_APPROVAL_PENDING)} approved, courses coming soon` : ""}), plus prelicensing in the states where we are approved. Click your state to get started.
+            We offer course coverage across all 50 states. Continuing education is live in {CE_APPROVED_COUNT} states{CE_APPROVAL_PENDING.length > 0 ? `; ${formatStateNames(CE_APPROVAL_PENDING)} is approved with courses coming soon` : ""}, and New York CE is not currently available. New York Life prelicensing is live; New York Health and combined prelicensing are not currently available. Click your state for exact options.
           </p>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">

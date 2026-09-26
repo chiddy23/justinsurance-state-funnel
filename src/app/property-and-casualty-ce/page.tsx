@@ -347,7 +347,7 @@ export default function PropertyAndCasualtyCEPage() {
         </div>
       </section>
 
-      <TrustBar />
+      <TrustBar passGuaranteeApplies={false} />
       <PressLogosBar />
 
       {/* What is P&C CE — byline moved INTO article so it reads as introducing the content (E-E-A-T review signal) rather than floating between trust signals */}

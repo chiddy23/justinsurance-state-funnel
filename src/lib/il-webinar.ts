@@ -17,14 +17,14 @@ import type { StateData } from "@/lib/states";
 import type { FAQ } from "@/lib/faq-data";
 
 export const IL_WEBINAR_CALLOUT_TITLE =
-  "Illinois Format Requirement: Live Webinar Hours Included";
+  "Illinois Requirement: Mandatory Live Webinar Included";
 
 export const IL_WEBINAR_CALLOUT_BODY =
   "Illinois requires 7.5 of the 20 prelicensing hours for each line of authority to be completed through live classroom or webinar instruction with verified attendance; the remaining 12.5 hours per line are completed by self-study (215 ILCS 5/500-30(b); attendance-verified webinar per 50 Ill. Adm. Code 3119.20). Your JustInsurance Illinois course includes the required 7.5 live webinar hours per line — attendance is verified — plus 12.5 self-paced online hours per line.";
 
 /** For heroes/cards where the full callout doesn't fit. */
 export const IL_WEBINAR_SHORT_LINE =
-  "7.5 live webinar + 12.5 self-paced hours per line — the format Illinois requires.";
+  "7.5 mandatory live webinar hours + 12.5 self-paced hours per line.";
 
 export const IL_WEBINAR_FAQ: FAQ = {
   question: "Does Illinois require classroom or webinar hours for prelicensing?",
@@ -103,10 +103,11 @@ const IL_FALSE_CLAIM_REWRITES: ReadonlyArray<{ find: string; replace: string }> 
   {
     // getPrelicensingHubFAQs — "What does Illinois insurance prelicensing cover?"
     // Illinois certifies Life and A&H as separate lines (215 ILCS 5/500-30(b)),
-    // so the L&H package is two courses, not one "single enrollment" course.
+    // so the L&H package contains two courses even though one purchase enrolls
+    // the student in both.
     find: "The combined Life & Health course covers all of the above in a single enrollment.",
     replace:
-      "In Illinois, Life & Health is two separately state-certified courses — a 20-hour Life course and a 20-hour Accident & Health course — that together cover all of the above, bundled at one price.",
+      "In Illinois, Life & Health is two separately state-certified courses — a 20-hour Life course and a 20-hour Accident & Health course — that together cover all of the above. JustInsurance's package enrolls both courses in one purchase.",
   },
   {
     // getStateHubFAQs — "How do I get my Illinois insurance license?"

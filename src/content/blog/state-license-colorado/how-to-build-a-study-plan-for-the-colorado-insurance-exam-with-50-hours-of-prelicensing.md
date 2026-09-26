@@ -32,7 +32,7 @@ Before building a study schedule, internalize what those 50 hours actually conta
 
 The Certificate Exam at the end of your prelicensing course requires a 70% passing score and must be proctored by a disinterested third party. Your course provider reports your completion to Pearson VUE, and your Certificate of Completion is valid for one year — meaning you have 12 months from course completion to pass the Pearson VUE state exam.
 
-The Pearson VUE state exam mirrors this structure exactly: a general knowledge section drawn from the 40 general hours, and a Colorado-specific section drawn from the 10 Colorado hours. The Life exam has 50 general scored questions and 30 state-specific scored questions; the Accident & Health exam has the same split. Property, Casualty, and Personal Lines have slightly different question counts but the same two-section architecture.
+The Pearson VUE state exam uses this same two-part structure: a general knowledge section drawn from the 40 general hours, and a Colorado-specific section drawn from the 10 Colorado hours. The Life exam has 50 general scored questions and 30 state-specific scored questions; the Accident & Health exam has the same split. Property, Casualty, and Personal Lines have slightly different question counts but the same two-section architecture.
 
 This alignment between your prelicensing hours and the exam sections is your study plan's foundation. Every hour spent in the general portion of your course builds toward the general section of the Pearson VUE exam. Every hour spent in the Colorado-specific portion builds toward the state section.
 

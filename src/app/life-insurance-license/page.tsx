@@ -19,11 +19,10 @@ const CANONICAL = "https://justinsuranceco.com/life-insurance-license";
  * All-in cost range for the life line, DERIVED from states.ts rather than
  * retyped. $199 is the course only; the state exam fee and the DOI application
  * fee are on top of it, and prelicensing.life.totalCost is the company's own
- * computed all-in figure per state. New York is excluded because it is not
- * listed on this page.
+ * computed all-in figure per state. New York Life is included now that the
+ * verified public Life course is open for enrollment.
  */
 const LIFE_TOTAL_COSTS = Object.values(STATES)
-  .filter((s) => s.slug !== "new-york")
   .map((s) => Number(String(s.prelicensing.life.totalCost).replace(/[^0-9.]/g, "")))
   .filter((n) => Number.isFinite(n) && n > 0);
 const LIFE_TOTAL_COST_RANGE = `$${Math.round(Math.min(...LIFE_TOTAL_COSTS))}–$${Math.round(
@@ -75,7 +74,7 @@ const faqs = [
 const stats = [
   { value: "$199", label: "Prelicensing price", sub: `Course price; state exam and DOI fees are paid separately to the state (typical all-in ${LIFE_TOTAL_COST_RANGE})` },
   { value: "93%", label: "First-attempt pass rate", sub: "Among JustInsurance completers" },
-  { value: "49", label: "States covered", sub: `Life exam prep; ${CE_APPROVAL_PHRASE}` },
+  { value: "50", label: "States covered", sub: `Life exam prep; ${CE_APPROVAL_PHRASE}` },
   { value: "$78K", label: "Experienced-agent earnings", sub: "Highest state average in our data; varies widely by state and book" },
 ];
 
@@ -105,7 +104,6 @@ export default function LifeInsuranceLicensePage() {
   const faqSchema = generateFAQSchema(faqs);
 
   const states = Object.values(STATES)
-    .filter((s) => s.slug !== "new-york")
     .sort((a, b) => a.name.localeCompare(b.name));
 
   return (

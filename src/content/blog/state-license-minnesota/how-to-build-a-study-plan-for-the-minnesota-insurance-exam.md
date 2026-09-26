@@ -228,7 +228,7 @@ Brief review of your reference sheet only — no new material
 
 How many practice questions should I complete before my exam?
 
-There is no single correct number, but candidates who complete 300–500 practice questions before their PSI exam — across their full study period — consistently report higher first-attempt [pass rates](/pass-rates) than those who complete fewer. The key is not the quantity alone but the quality of the review after each practice session. A candidate who completes 200 questions and thoroughly analyzes every wrong answer will outperform a candidate who completes 500 questions and moves on without reviewing mistakes. JustInsurance's Minnesota prelicensing course includes a full-length practice exam designed to mirror the actual PSI question format — use it as your benchmark tool for exam readiness.
+There is no single correct number, but candidates who complete 300–500 practice questions before their PSI exam — across their full study period — consistently report higher first-attempt [pass rates](/pass-rates) than those who complete fewer. The key is not the quantity alone but the quality of the review after each practice session. A candidate who completes 200 questions and thoroughly analyzes every wrong answer will outperform a candidate who completes 500 questions and moves on without reviewing mistakes. JustInsurance's Minnesota prelicensing course includes a full-length practice exam built around the current PSI content outline — use it as your benchmark tool for exam readiness.
 
 I'm studying for both the P&C and Life and A&H exams simultaneously. Should I study all four lines at once or sequentially?
 

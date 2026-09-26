@@ -35,6 +35,8 @@ export function generateCourseSchema(params: {
   loaName: string;
   loaSlug: string;
   courseType: "prelicensing" | "continuing-education";
+  /** Optional exam-prep products do not award a state prelicensing credential. */
+  examPrepOnly?: boolean;
   /** Optional — emit time fields only when known. Avoids "PT0H" lies. */
   hours?: number;
   price: string;
@@ -49,10 +51,12 @@ export function generateCourseSchema(params: {
    */
   available: boolean;
 }): object | null {
-  const { stateName, stateSlug, loaName, loaSlug, courseType, hours, price, description, available } = params;
+  const { stateName, stateSlug, loaName, loaSlug, courseType, examPrepOnly = false, hours, price, description, available } = params;
   if (!available) return null;
   const courseLabel =
-    courseType === "prelicensing"
+    examPrepOnly
+      ? "Exam Prep Course"
+      : courseType === "prelicensing"
       ? "Prelicensing Course"
       : "Continuing Education Course";
   const pathSegment = courseType === "prelicensing" ? "prelicensing" : "continuing-education";
@@ -94,26 +98,22 @@ export function generateCourseSchema(params: {
         jobTitle: "Licensed Insurance Agent, IDECC Certified Distance Education Instructor",
         url: `${BASE_URL}/about/justin-vom-eigen`,
       },
-      ...(hasHours ? { courseWorkload: `PT${hours}H` } : {}),
       offers: offer,
     },
     offers: offer,
-    educationalCredentialAwarded:
-      courseType === "prelicensing"
-        ? `${stateName} ${loaShort} Insurance Prelicensing Certificate`
-        : `${stateName} ${loaShort} Insurance CE Certificate`,
-    teaches: `${stateName} ${loaShort} insurance licensing requirements`,
+    ...(!examPrepOnly
+      ? {
+          educationalCredentialAwarded:
+            courseType === "prelicensing"
+              ? `${stateName} ${loaShort} Insurance Prelicensing Certificate`
+              : `${stateName} ${loaShort} Insurance CE Certificate`,
+        }
+      : {}),
+    teaches: examPrepOnly
+      ? `${stateName} ${loaShort} insurance licensing-exam topics`
+      : `${stateName} ${loaShort} insurance licensing requirements`,
     educationalLevel: "Beginner",
     coursePrerequisites: "None",
-    // courseSchedule added 2026-06-12 per Semrush audit (773 invalid
-    // structured-data items, 36 specifically missing this field). Reflects
-    // our self-paced, always-available enrollment model with a 30-day
-    // course access window matching the pass-guarantee terms.
-    courseSchedule: {
-      "@type": "Schedule",
-      repeatFrequency: "P1D",
-      duration: "PT30D",
-    },
     ...(hasHours ? { timeRequired: `PT${hours}H` } : {}),
     inLanguage: "en-US",
     availableLanguage: "en",
@@ -157,7 +157,7 @@ export function generateStateHubCourseSchema(params: {
 
   const description =
     credentialKind === "ce"
-      ? `Online insurance license exam-prep course for ${stateName}. Prepare to pass your ${stateName} state licensing exam. 100% online, self-paced, includes practice exams.`
+      ? `Optional online insurance licensing-exam preparation for ${stateName}. Review published exam topics with self-paced lessons and exam-style practice questions.`
       : // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers may flow
         // into Ohio-facing structured data. Excluded states get an
         // "instant course access" benefit instead so the description shape holds.
@@ -166,7 +166,9 @@ export function generateStateHubCourseSchema(params: {
   return {
     "@context": "https://schema.org",
     "@type": "Course",
-    name: `${stateName} Insurance Prelicensing Course — Life & Health`,
+    name: credentialKind === "ce"
+      ? `${stateName} Life & Health Insurance Exam Prep Course`
+      : `${stateName} Insurance Prelicensing Course — Life & Health`,
     description,
     image: LOGO_URL,
     provider: {
@@ -189,20 +191,14 @@ export function generateStateHubCourseSchema(params: {
         jobTitle: "Licensed Insurance Agent, IDECC Certified Distance Education Instructor",
         url: `${BASE_URL}/about/justin-vom-eigen`,
       },
-      ...(hoursNum ? { courseWorkload: `PT${hoursNum}H` } : {}),
       offers: offer,
     },
     offers: offer,
-    educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate`,
+    ...(credentialKind === "ce"
+      ? {}
+      : { educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate` }),
     educationalLevel: "Beginner",
     coursePrerequisites: "None",
-    // courseSchedule parity with generateCourseSchema — same self-paced
-    // 30-day window. Added 2026-06-12 per Semrush audit.
-    courseSchedule: {
-      "@type": "Schedule",
-      repeatFrequency: "P1D",
-      duration: "PT30D",
-    },
     ...(hoursNum ? { timeRequired: `PT${hoursNum}H` } : {}),
     inLanguage: "en-US",
     availableLanguage: "en",
@@ -270,7 +266,6 @@ export function generateCEHubCourseSchema(params: {
         jobTitle: "Licensed Insurance Agent, IDECC Certified Distance Education Instructor",
         url: `${BASE_URL}/about/justin-vom-eigen`,
       },
-      ...(hoursNum ? { courseWorkload: `PT${hoursNum}H` } : {}),
       offers: offer,
     },
     offers: offer,
@@ -278,12 +273,6 @@ export function generateCEHubCourseSchema(params: {
     teaches: `${stateName} insurance continuing education and ethics requirements`,
     educationalLevel: "Intermediate",
     coursePrerequisites: "Active insurance producer license",
-    // Same self-paced 30-day window as the other Course schemas (Semrush parity).
-    courseSchedule: {
-      "@type": "Schedule",
-      repeatFrequency: "P1D",
-      duration: "PT30D",
-    },
     ...(hoursNum ? { timeRequired: `PT${hoursNum}H` } : {}),
     inLanguage: "en-US",
     availableLanguage: "en",
@@ -433,15 +422,15 @@ export function generatePersonSchema(opts?: {
 }
 
 // ---------------------------------------------------------------------------
-// Article schema with explicit author + reviewedBy (Person nodes)
+// Article schema with an explicit author Person node
 // ---------------------------------------------------------------------------
 
 /**
- * Build an Article schema in which both `author` and `reviewedBy` resolve to
- * the same Person (Justin by default). Publisher is emitted as a reference to
- * the existing Organization @id so the consumer page need not repeat the full
- * org block. `dateModified` is only emitted when the caller passes it — we do
- * NOT silently bump it to "today" because that produces SEO churn.
+ * Build an Article schema with Justin as the author by default. The visible
+ * reviewed-by byline remains on the page, but `reviewedBy` is intentionally not
+ * emitted on Article JSON-LD because Schema.org defines that property for
+ * WebPage, not Article. Publisher is emitted as a reference to the existing
+ * Organization @id. `dateModified` is only emitted when explicitly supplied.
  */
 export function generateArticleSchemaWithReviewer(params: {
   headline: string;
@@ -488,7 +477,6 @@ export function generateArticleSchemaWithReviewer(params: {
     datePublished,
     ...(dateModified ? { dateModified } : {}),
     author: personNode,
-    reviewedBy: personNode,
     publisher: {
       "@id": `${BASE_URL}#organization`,
     },

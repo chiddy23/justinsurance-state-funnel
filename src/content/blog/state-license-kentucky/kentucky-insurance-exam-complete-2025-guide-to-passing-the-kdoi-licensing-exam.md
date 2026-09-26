@@ -46,7 +46,7 @@ All exams are computerized. Results are displayed immediately upon submission. I
 
 ## How to Prepare Effectively
 
-The most effective preparation combines thorough coverage of all content areas and deliberate practice with exam-format questions. Your JustInsurance prelicensing course covers all required content for your line of authority, and the built-in [practice questions](/kentucky/practice-exam) mirror the knowledge areas tested on the KDOI exam.
+The most effective preparation combines thorough coverage of all content areas and deliberate question practice. Your JustInsurance prelicensing course covers all required content for your line of authority, and the built-in [practice questions](/kentucky/practice-exam) are built around the published KDOI exam content outline.
 
 Do not underestimate the Kentucky-specific content. State law questions — covering topics like the Motor Vehicle Reparations Act, workers' compensation under KRS Chapter 342, the Annuity Best Interest standard under 806 KAR 12:120, and the structure of Kentucky's health insurance marketplace through kynect — are tested alongside general insurance principles. Take full-length practice exams under timed conditions before your test date, and review any material you marked uncertain before your exam appointment.
 

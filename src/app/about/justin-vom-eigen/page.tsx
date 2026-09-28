@@ -129,7 +129,7 @@ const personSchema = {
   name: "Justin vom Eigen",
   jobTitle: "Founder, CEO & Course Instructor",
   url: "https://justinsuranceco.com/about/justin-vom-eigen",
-  image: "https://justinsuranceco.com/headshot-justin.jpg",
+  image: "https://justinsuranceco.com/headshot-justin-centered.jpg",
   worksFor: {
     "@type": "Organization",
     name: "JustInsurance LLC",
@@ -214,7 +214,7 @@ export default function JustinVomEigenBioPage() {
           {/* Headshot — circular crop, gold ring */}
           <div className="flex-shrink-0">
             <Image
-              src="/headshot-justin.jpg"
+              src="/headshot-justin-centered.jpg"
               alt="Headshot of Justin vom Eigen, Founder & CEO of JustInsurance LLC"
               width={160}
               height={160}
